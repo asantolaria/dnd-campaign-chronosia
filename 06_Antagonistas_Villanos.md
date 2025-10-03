@@ -14,7 +14,7 @@
 - [Relevancia Narrativa](#-relevancia-narrativa)
 
 ### **👑 El Cónclave del Tiempo y el Espacio**
-- [Aethernus Valcarys - El Líder del Cónclave](#-aethernus-valcarys---el-líder-del-cónclave)
+- [El Eterno (Manshoon) - El Líder del Cónclave](#-el-eterno-manshoon---el-líder-del-cónclave)
   - [Descripción Física](#-descripción-física)
   - [Historia y Origen - LA REVELACIÓN](#-historia-y-origen---la-revelación)
   - [Motivación](#-motivación)
@@ -102,7 +102,7 @@
 
 ## 👑 **El Cónclave del Tiempo y el Espacio**
 
-## 🌟 **Aethernus Valcarys - El Líder del Cónclave**
+## 🌟 **El Eterno (Manshoon) - El Líder del Cónclave**
 
 ### **Descripción Física**
 - **Raza**: Humano (aunque tras siglos de abuso del poder temporal su cuerpo se distorsionó)
@@ -110,7 +110,7 @@
 - **Vestimenta**: Capa de hilos temporales que brillan con la luz de mil estrellas, corona de cristales que laten como corazones
 
 ### **Historia y Origen - LA REVELACIÓN**
-**Aethernus Valcarys** es en realidad **Manshoon Clone #47**, uno de los clones supervivientes del archimago Manshoon. Tras décadas de investigación oculta, este clone específico descubrió el punto crítico en el ciclo de resurrección de **Amaunator**, el dios del sol y el tiempo.
+**El Eterno** es en realidad **Manshoon Clone #47**, uno de los clones supervivientes del archimago Manshoon. Solo en momentos de máxima revelación se conoce su nombre real: Manshoon. Tras décadas de investigación oculta, este clone específico descubrió el punto crítico en el ciclo de resurrección de **Amaunator**, el dios del sol y el tiempo.
 
 Con fondos secretos de los **Zhentarim** y la ayuda de **Bregan D'aerthe** (contratados por Manshoon), este clone creó un artilugio mágico llamado **El Cronosellado** que le permitió alterar la conducta de Amaunator durante su resurrección, forzándolo a enfrentarse contra **Voidar**, el dios del espacio y la dimensión.
 

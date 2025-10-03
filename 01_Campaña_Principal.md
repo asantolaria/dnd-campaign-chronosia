@@ -37,13 +37,13 @@
 
 Una campaña de Dungeons & Dragons ambientada en los Reinos Olvidados, que lleva a los personajes desde los caminos familiares de Faerûn hasta Chronosia, el Reino del Tiempo Fracturado. La historia gira en torno a la decisión crucial de liberar o destruir a los dioses Amaunator y Voidar, atrapados en una batalla eterna manipulada por un archimago obsesionado con el control absoluto del presente y el espacio.
 
-El mundo se ve amenazado por las sectas de los Cronófagos y Espacialistas, y su líder, Aethernus Valcarys, cuya manipulación de los dioses está provocando distorsiones temporales y espaciales que podrían colapsar la realidad misma.
+El mundo se ve amenazado por las sectas de los Cronófagos y Espacialistas, y su líder, El Eterno, cuya manipulación de los dioses está provocando distorsiones temporales y espaciales que podrían colapsar la realidad misma.
 
 ---
 
 ## 🎯 **Objetivo Final de la Aventura**
 
-Salvar el mundo de un cataclismo provocado por el falso dios del tiempo y espacio, Aethernus Valcarys, y frenar la ascensión de los Cronófagos y Espacialistas. Además, decidir el destino de los dioses Amaunator y Voidar, cuya liberación podría tanto restaurar el equilibrio como provocar una venganza devastadora.
+Salvar el mundo de un cataclismo provocado por el falso dios del tiempo y espacio, El Eterno, y frenar la ascensión de los Cronófagos y Espacialistas. Además, decidir el destino de los dioses Amaunator y Voidar, cuya liberación podría tanto restaurar el equilibrio como provocar una venganza devastadora.
 
 ---
 
