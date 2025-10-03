@@ -3,6 +3,45 @@
 
 ---
 
+## 📋 **ÍNDICE DE NAVEGACIÓN**
+
+### **🌌 Eventos Aleatorios**
+- [Eventos Temporales y Espaciales Aleatorios](#-eventos-temporales-y-espaciales-aleatorios)
+- [Tabla Principal de Paradojas Menores (1d12)](#-tabla-principal-de-paradojas-menores-1d12)
+- [Eventos Espaciales Aleatorios](#-eventos-espaciales-aleatorios)
+- [Tabla de Distorsiones Espaciales (1d12)](#-tabla-de-distorsiones-espaciales-1d12)
+
+### **🌊 Los Gritos de los Dioses**
+- [Los Gritos de los Dioses en Conflicto](#-los-gritos-de-los-dioses-en-conflicto)
+- [Tabla de Gritos de Amaunator y Voidar (1d10)](#-tabla-de-gritos-de-amaunator-y-voidar-1d10)
+
+### **🎭 Eventos Narrativos Especiales**
+- [Encuentros con Personajes Importantes](#-encuentros-con-personajes-importantes)
+  - [Elminster](#-elminster)
+  - [Volo](#-volo)
+  - [Jarlaxle](#-jarlaxle)
+  - [Manshoon](#-manshoon)
+
+### **🔮 Eventos de Transición**
+- [Entre Regiones](#-entre-regiones)
+- [Cambios de Poder](#-cambios-de-poder)
+
+### **🎲 Uso de las Tablas**
+- [Cuándo Usar las Tablas](#-cuándo-usar-las-tablas)
+- [Adaptación a la Situación](#-adaptación-a-la-situación)
+- [Consecuencias Narrativas](#-consecuencias-narrativas)
+
+### **🌟 Eventos Épicos**
+- [Eventos de Clímax](#-eventos-de-clímax)
+- [Eventos de Resolución](#-eventos-de-resolución)
+
+### **🎯 Consejos para el DM**
+- [Uso Efectivo](#-uso-efectivo)
+- [Adaptación](#-adaptación)
+- [Narrativa](#-narrativa)
+
+---
+
 ## 🌌 **Eventos Temporales y Espaciales Aleatorios**
 
 Estos eventos pueden activarse al azar mientras los personajes viajan por el Semiplano, especialmente en zonas aún bajo el control de un lugarteniente. Puedes hacer una tirada de 1d12 cuando quieras introducir un giro temporal o espacial.

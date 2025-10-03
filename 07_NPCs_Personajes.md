@@ -1,5 +1,50 @@
 # 🌟 NPCs y Personajes Importantes - El Semiplano de la Paradoja Temporal
 
+---
+
+## 📋 **ÍNDICE DE NAVEGACIÓN**
+
+### **🎭 Personajes de Faerûn**
+- [Maestro Thaddeus Ironwright - El Relojero Asesinado](#-maestro-thaddeus-ironwright---el-relojero-asesinado)
+- [El Cronófago Asesino - Infiltrado en Waterdeep](#-el-cronófago-asesino---infiltrado-en-waterdeep)
+- [Volo - El Escritor y Aventurero](#-volo---el-escritor-y-aventurero)
+- [Elminster - El Archimago](#-elminster---el-archimago)
+- [Jarlaxle - El Mercenario Drow (REVELACIÓN)](#-jarlaxle---el-mercenario-drow-revelación)
+- [Manshoon - El Archimago (REVELACIÓN COMPLETA)](#-manshoon---el-archimago-revelación-completa)
+
+### **🏛️ Facciones y Sus Líderes**
+- [Los Cronófagos (Secta Fanática)](#-los-cronófagos-secta-fanática)
+  - [Los Tejedores de Eones (Magos)](#-los-tejedores-de-eones-magos)
+  - [Los Gigantes Barbudos (Guerreros/Berserkers)](#-los-gigantes-barbudos-guerrerosberserkers)
+  - [Los Devoradores Comunes](#-los-devoradores-comunes)
+- [Los Relojeros Negros (Cazadores de Magos)](#-los-relojeros-negros-cazadores-de-magos)
+  - [Balthar Herrumbra - Enano Maestro Armero](#-balthar-herrumbra---enano-maestro-armero)
+  - [Lucienne Rietveldt - Humana Ingeniera](#-lucienne-rietveldt---humana-ingeniera)
+  - [Kaoros el Sordo - Semi-orco Veterano](#-kaoros-el-sordo---semi-orco-veterano)
+- [Los Anacronistas (Guardianes Neutrales)](#-los-anacronistas-guardianes-neutrales)
+  - [Harlim "El Inalterado" - Semielfo Chamán](#-harlim-el-inalterado---semielfo-chamán)
+
+### **🕰️ Personajes Únicos del Semiplano**
+- [El Relojero Eterno - Cornelius "El Inmutable"](#-el-relojero-eterno---cornelius-el-inmutable)
+- [El Comerciante Interplanar - Zephyr "El Saltamundos"](#-el-comerciante-interplanar---zephyr-el-saltamundos)
+
+### **🎭 NPCs Menores y Secundarios**
+- [Los Cronistas Atrapados](#-los-cronistas-atrapados)
+- [Los Nativos Atrapados en Bucles](#-los-nativos-atrapados-en-bucles)
+- [Los Carroñeros Temporales](#-los-carroñeros-temporales)
+- [Los Ecos Materiales](#-los-ecos-materiales)
+
+### **🔗 Conexiones y Relaciones**
+- [Facciones en Conflicto](#-facciones-en-conflicto)
+- [Aliados Potenciales](#-aliados-potenciales)
+
+### **💡 Notas para el DM**
+- [Uso Narrativo de los NPCs](#-uso-narrativo-de-los-npcs)
+- [Momentos Clave](#-momentos-clave)
+- [Preguntas para los Jugadores](#-preguntas-para-los-jugadores)
+
+---
+
 ## 🎭 Personajes de Faerûn
 
 ### Maestro Thaddeus Ironwright - El Relojero Asesinado

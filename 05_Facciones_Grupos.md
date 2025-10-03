@@ -1,5 +1,65 @@
-# ⚔️ Facciones y Grupos del Semiplano
+# ⚔️ Facciones y Grupos de Chronosia
 ## *Las Fuerzas en Conflicto*
+
+---
+
+## 📋 **ÍNDICE DE NAVEGACIÓN**
+
+### **🜏 Los Cronófagos - Devoradores del Tiempo y el Espacio**
+- [Filosofía y Creencia](#-filosofía-y-creencia)
+- [Estructura Interna](#-estructura-interna)
+  - [Los Tejedores de Eones (Magos)](#-1-los-tejedores-de-eones-magos)
+  - [Los Gigantes Barbudos (Guerreros/Berserkers)](#-2-los-gigantes-barbudos-guerrerosberserkers)
+  - [Los Devoradores Comunes (Magos y hechiceros corrientes)](#-3-los-devoradores-comunes-magos-y-hechiceros-corrientes)
+  - [Los Tejedores de Dimensiones (Magos Espaciales)](#-4-los-tejedores-de-dimensiones-magos-espaciales)
+  - [Los Gigantes Dimensionales (Guerreros/Berserkers Espaciales)](#-5-los-gigantes-dimensionales-guerrerosberserkers-espaciales)
+  - [Los Devoradores del Vacío (Magos y hechiceros espaciales corrientes)](#-6-los-devoradores-del-vacío-magos-y-hechiceros-espaciales-corrientes)
+- [Signos de Distorsión](#-signos-de-distorsión)
+- [Sistema de Recompensas de los Lugartenientes](#-sistema-de-recompensas-de-los-lugartenientes)
+
+### **⚔️ Los Relojeros Negros - Cazadores de Magos**
+- [Filosofía](#-filosofía)
+- [Creencia Central](#-creencia-central)
+- [Características](#-características)
+- [Líderes Destacados](#-líderes-destacados)
+  - [Balthar Herrumbra](#-balthar-herrumbra)
+  - [Lucienne Rietveldt](#-lucienne-rietveldt)
+  - [Kaoros el Sordo](#-kaoros-el-sordo)
+
+### **🌿 Los Anacronistas - Guardianes del Tiempo Natural**
+- [Concepto](#-concepto)
+- [El Secreto de su Resistencia](#-el-secreto-de-su-resistencia)
+  - [El Mineral de Aionita](#-el-mineral-de-aionita)
+  - [La Bendición del Primer Suspiro](#-la-bendición-del-primer-suspiro)
+  - [La Reliquia del Reloj Invertido](#-la-reliquia-del-reloj-invertido)
+- [El Chamán/Guía](#-el-chamánguía)
+  - [Harlim "El Inalterado"](#-harlim-el-inalterado)
+- [Rol Narrativo](#-rol-narrativo)
+
+### **🏴‍☠️ Bregan D'aerthe - Mercenarios Contratados**
+- [Origen de la Contratación](#-origen-de-la-contratación)
+- [Estructura en Chronosia](#-estructura-en-chronosia)
+  - [Jarlaxle Baenre - Líder de Operaciones](#-jarlaxle-baenre---líder-de-operaciones)
+  - [Agentes Infiltrados](#-agentes-infiltrados)
+  - [Operaciones Especiales](#-operaciones-especiales)
+- [Relación con los PJ](#-relación-con-los-pj)
+- [Objetivos Ocultos](#-objetivos-ocultos)
+
+### **🎭 Dinámicas entre Facciones**
+- [Cronófagos vs. Relojeros Negros vs. Bregan D'aerthe](#-cronófagos-vs-relojeros-negros-vs-bregan-daerthe)
+- [Los PJ en Medio](#-los-pj-en-medio)
+- [Oportunidades Narrativas](#-oportunidades-narrativas)
+
+### **🔮 Posibles Giros y Traiciones**
+- [Los Anacronistas](#-los-anacronistas)
+- [Los Relojeros Negros](#-los-relojeros-negros)
+- [Los Cronófagos y Espacialistas](#-los-cronófagos-y-espacialistas)
+
+### **🎯 Estrategias de Alianza**
+- [Con los Anacronistas](#-con-los-anacronistas)
+- [Con los Relojeros Negros](#-con-los-relojeros-negros)
+- [Con los Cronófagos](#-con-los-cronófagos)
+- [Con Bregan D'aerthe](#-con-bregan-daerthe)
 
 ---
 
@@ -217,17 +277,17 @@ Tres posibles explicaciones (puedes elegir una o mezclarlas):
 ## 🏴‍☠️ **Bregan D'aerthe - Mercenarios Contratados**
 
 ### **Origen de la Contratación**
-**Jarlaxle Baenre** y su organización **Bregan D'aerthe** fueron contratados por **Manshoon** (usando fondos de los **Zhentarim**) para proporcionar apoyo logístico, espionaje y fuerza militar en el semiplano. Su contrato incluye:
+**Jarlaxle Baenre** y su organización **Bregan D'aerthe** fueron contratados por **Manshoon** (usando fondos de los **Zhentarim**) para proporcionar apoyo logístico, espionaje y fuerza militar en Chronosia. Su contrato incluye:
 
 - **Protección de las operaciones** de Aethernus (Manshoon Clone #47)
-- **Espionaje** de las otras facciones del semiplano
-- **Contrabando** de recursos y tecnología entre Faerûn y el semiplano
+- **Espionaje** de las otras facciones de Chronosia
+- **Contrabando** de recursos y tecnología entre Faerûn y Chronosia
 - **Eliminación selectiva** de amenazas a los planes de Manshoon
 
-### **Estructura en el Semiplano**
+### **Estructura en Chronosia**
 
 #### **Jarlaxle Baenre - Líder de Operaciones**
-- **Rol**: Coordinador principal de las operaciones de Bregan D'aerthe en el semiplano
+- **Rol**: Coordinador principal de las operaciones de Bregan D'aerthe en Chronosia
 - **Motivación**: Dinero, poder, y la promesa de una posición privilegiada en el nuevo orden de Manshoon
 - **Función**: Puede ser aliado ambiguo o enemigo, dependiendo de las circunstancias
 

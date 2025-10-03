@@ -3,6 +3,55 @@
 
 ---
 
+## 📋 **ÍNDICE DE NAVEGACIÓN**
+
+### **📅 Información General**
+- [Duración Estimada](#-duración-estimada)
+- [Ambientación](#-ambientación)
+
+### **🎪 Escenas de la Misión**
+- [Escena 1: El Festival del Reloj Astronómico](#-escena-1-el-festival-del-reloj-astronómico)
+  - [El Discurso del Open Lord](#-11-el-discurso-del-open-lord-15-minutos)
+  - [La Presentación de la Vara Negra](#-12-la-presentación-de-la-vara-negra-10-minutos)
+  - [La Demostración del Reloj](#-13-la-demostración-del-reloj-20-minutos)
+- [Escena 2: El Asesinato del Maestro Thaddeus](#-escena-2-el-asesinato-del-maestro-thaddeus)
+  - [El Momento del Asesinato](#-21-el-momento-del-asesinato-dramático)
+  - [La Escena del Crimen](#-22-la-escena-del-crimen)
+  - [La Reacción de la Multitud](#-23-la-reacción-de-la-multitud)
+- [Escena 3: La Investigación Inicial](#-escena-3-la-investigación-inicial)
+  - [El Anuncio Oficial](#-31-el-anuncio-oficial)
+  - [La Torre del Reloj](#-32-la-torre-del-reloj)
+  - [Testigos y Sospechosos](#-33-testigos-y-sospechosos)
+- [Escena 4: Las Distorsiones Temporales](#-escena-4-las-distorsiones-temporales)
+  - [Los Primeros Efectos](#-41-los-primeros-efectos)
+  - [La Búsqueda del Cronófago](#-42-la-búsqueda-del-cronófago)
+- [Escena 5: La Batalla Final](#-escena-5-la-batalla-final)
+  - [El Encuentro con el Cronófago Asesino](#-51-el-encuentro-con-el-cronófago-asesino)
+  - [El Cronófago Asesino](#-52-el-cronófago-asesino)
+  - [La Batalla](#-53-la-batalla)
+  - [La Derrota del Cronófago](#-54-la-derrota-del-cronófago)
+- [Escena 6: El Final del Capítulo](#-escena-6-el-final-del-capítulo)
+  - [Las Consecuencias](#-61-las-consecuencias)
+  - [La Recompensa](#-62-la-recompensa)
+  - [El Gancho para el Próximo Capítulo](#-63-el-gancho-para-el-próximo-capítulo)
+
+### **🎯 Objetivos de la Misión**
+- [Objetivos Principales](#-objetivos-principales)
+- [Objetivos Secundarios](#-objetivos-secundarios)
+- [Objetivos Ocultos](#-objetivos-ocultos)
+
+### **💡 Consejos para el DM**
+- [Uso de la Atmósfera](#-uso-de-la-atmósfera)
+- [Manejo de la Investigación](#-manejo-de-la-investigación)
+- [La Batalla Final](#-la-batalla-final)
+- [Transición al Próximo Capítulo](#-transición-al-próximo-capítulo)
+
+### **🎲 Tablas de Eventos Aleatorios**
+- [Eventos Temporales en Waterdeep (1d6)](#-eventos-temporales-en-waterdeep-1d6)
+- [Efectos del Entorno en la Batalla (1d4)](#-efectos-del-entorno-en-la-batalla-1d4)
+
+---
+
 ## 📅 **Información General de la Misión**
 
 ### **Duración Estimada**

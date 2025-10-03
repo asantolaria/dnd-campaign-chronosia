@@ -1,11 +1,41 @@
-# 🌌 El Semiplano de la Paradoja Temporal
+# 🌌 Chronosia - El Reino del Tiempo Fracturado
 ## *Una Campaña Épica de D&D 5e*
+
+---
+
+## 📋 **ÍNDICE DE NAVEGACIÓN**
+
+### **🎯 Información General**
+- [Resumen General](#-resumen-general)
+- [Objetivo Final de la Aventura](#-objetivo-final-de-la-aventura)
+- [¿Qué Deben Lograr los Jugadores?](#-qué-deben-lograr-los-jugadores)
+- [Motivaciones para los Jugadores](#-motivaciones-para-los-jugadores)
+
+### **🏛️ Fase de Investigación en Faerûn**
+- [El Festival del Reloj Astronómico](#-el-festival-del-reloj-astronómico-de-waterdeep)
+- [El Asesinato del Maestro Relojero](#-el-asesinato-del-maestro-relojero)
+- [La Misión del Gobierno](#-la-misión-del-gobierno)
+- [La Investigación en Waterdeep](#-la-investigación-en-waterdeep)
+- [Pistas a Descubrir](#-pistas-a-descubrir)
+- [Encuentros en Waterdeep](#-encuentros-en-waterdeep)
+- [La Transición al Semiplano](#-la-transición-al-semiplano)
+
+### **🗺️ Localizaciones Clave**
+- [Inicio en Waterdeep](#-inicio-en-waterdeep)
+- [Chronosia - El Reino del Tiempo Fracturado](#-chronosia---el-reino-del-tiempo-fracturado)
+- [Zona Sellada del Villano](#-zona-sellada-del-villano)
+
+### **🎭 Elementos Narrativos**
+- [Giros Narrativos](#-giros-narrativos)
+- [Configuración de la Campaña](#-configuración-de-la-campaña)
+- [Estructura del Semiplano](#-estructura-del-semiplano-estilo-sandbox)
+- [Elementos Clave de la Campaña](#-elementos-clave-de-la-campaña)
 
 ---
 
 ## 📜 **Resumen General**
 
-Una campaña de Dungeons & Dragons ambientada en los Reinos Olvidados, que lleva a los personajes desde los caminos familiares de Faerûn hasta un semiplano fracturado por el tiempo y el espacio. La historia gira en torno a la decisión crucial de liberar o destruir a los dioses Amaunator y Voidar, atrapados en una batalla eterna manipulada por un archimago obsesionado con el control absoluto del presente y el espacio.
+Una campaña de Dungeons & Dragons ambientada en los Reinos Olvidados, que lleva a los personajes desde los caminos familiares de Faerûn hasta Chronosia, el Reino del Tiempo Fracturado. La historia gira en torno a la decisión crucial de liberar o destruir a los dioses Amaunator y Voidar, atrapados en una batalla eterna manipulada por un archimago obsesionado con el control absoluto del presente y el espacio.
 
 El mundo se ve amenazado por las sectas de los Cronófagos y Espacialistas, y su líder, Aethernus Valcarys, cuya manipulación de los dioses está provocando distorsiones temporales y espaciales que podrían colapsar la realidad misma.
 
@@ -54,7 +84,7 @@ Durante la celebración, **Maestro Thaddeus Ironwright**, el relojero principal 
 
 El **Open Lord** y la **Vara Negra** anuncian que necesitan ayuda urgente para resolver este caso. La recompensa será generosa si se soluciona el misterio y se da descanso en paz al maestro relojero como se merece.
 
-Los personajes reciben esta misión como una investigación de asesinato, pero pronto descubrirán que está conectada con distorsiones temporales y espaciales que los llevarán al Semiplano de la Paradoja Temporal.
+Los personajes reciben esta misión como una investigación de asesinato, pero pronto descubrirán que está conectada con distorsiones temporales y espaciales que los llevarán a Chronosia, el Reino del Tiempo Fracturado. Esta misión inicial (51_Mision_[RR]_Festival_Reloj.md) les dará acceso al mapa de Chronosia y los introducirá a su primer lugarteniente.
 
 ### **La Investigación en Waterdeep**
 
@@ -93,11 +123,11 @@ Zephyr se presenta como un comerciante que puede ayudar con "artefactos únicos"
 - **Búsqueda del Cronófago Asesino** escondido en la ciudad
 - **Encuentro con Zephyr** y la oferta de "ayuda" para resolver el caso
 
-### **La Transición al Semiplano**
+### **La Transición a Chronosia**
 - Zephyr ofrece objetos que en realidad son portales
 - Los PJ "aceptan la ayuda" sin saber que viajarán a otro plano
 - La transición se presenta como un "efecto secundario" de los objetos
-- Una vez en el semiplano, Zephyr revela la verdad
+- Una vez en Chronosia, Zephyr revela la verdad
 
 ---
 
@@ -110,7 +140,7 @@ Zephyr se presenta como un comerciante que puede ayudar con "artefactos únicos"
 - **El Palacio de los Lords**: Donde se anuncia la misión oficial
 - Para establecer a los personajes en un entorno familiar y crear un gancho narrativo dramático
 
-### **Semiplano de la Paradoja Temporal y Espacial**
+### **Chronosia - El Reino del Tiempo Fracturado**
 - Región cerrada, inestable y contenida, con estética similar a Barovia
 - El mapa incluye pueblos pequeños, una o dos ciudades, ruinas, lagos, zonas montañosas, bosques y extremos climáticos (volcanes, zonas heladas)
 - Regiones afectadas por distorsiones temporales Y espaciales
@@ -143,9 +173,9 @@ Zephyr se presenta como un comerciante que puede ayudar con "artefactos únicos"
 
 ---
 
-## 🎲 **Estructura del Semiplano (Estilo Sandbox)**
+## 🎲 **Estructura de Chronosia (Estilo Sandbox)**
 
-Los jugadores pueden explorar libremente el Semiplano de la Paradoja Temporal y Espacial desde el principio. No hay un orden predeterminado para enfrentarse a los lugartenientes del Cónclave del Tiempo y el Espacio, PERO deben mantener un balance perfecto entre derrotas temporales y espaciales.
+Los jugadores pueden explorar libremente Chronosia desde el principio. No hay un orden predeterminado para enfrentarse a los lugartenientes del Cónclave del Tiempo y el Espacio, PERO deben mantener un balance perfecto entre derrotas temporales y espaciales. Las 12 misiones sandbox (52-63) pueden completarse en cualquier orden.
 
 Cada región está aislada por el efecto temporal o espacial específico de su lugarteniente. Al derrotar al lugarteniente de una región, el efecto único se disipa, y el entorno comienza a restaurarse a un flujo más estable.
 
