@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "edfaa82a38972221",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ac22b88bbec603d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5a061376d2fca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chronosia_Campana_Profesional/01_Introduccion/03_Creacion_Personajes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_Creacion_Personajes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19c79562a1a1d9e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7a9ae3bb3fb31c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede8de0fd7b449d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "f0a3d52abc31f38e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "571deaf9084c2a50",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c7a08f4f0cd97bd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "aec0d86928389b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90c2c6bdeed38c9d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chronosia_Campana_Profesional/01_Introduccion/03_Creacion_Personajes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 03_Creacion_Personajes"
+            }
+          },
+          {
+            "id": "8c2f9329fa9459d8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Chronosia_Campana_Profesional/01_Introduccion/03_Creacion_Personajes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 03_Creacion_Personajes"
+            }
+          },
+          {
+            "id": "7578fa2047ec793f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "dd881c86f8f3e8b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Chronosia_Campana_Profesional/01_Introduccion/03_Creacion_Personajes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 03_Creacion_Personajes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "ab5a061376d2fca3",
+  "lastOpenFiles": [
+    "assets/cronofago luchador.png",
+    "assets/cronofago lanzador conjuros.png",
+    "assets/cronofago raso.png",
+    "assets/cronofago.png",
+    "Chronosia_Campana_Profesional/06_Recursos/Tablas/README.md",
+    "Chronosia_Campana_Profesional/06_Recursos/Tablas",
+    "Chronosia_Campana_Profesional/06_Recursos/Handouts/README.md",
+    "Chronosia_Campana_Profesional/06_Recursos/Handouts",
+    "Chronosia_Campana_Profesional/06_Recursos/Mapas/README.md",
+    "Chronosia_Campana_Profesional/06_Recursos/Mapas",
+    "Chronosia_Campana_Profesional/06_Recursos",
+    "Chronosia_Campana_Profesional/05_Apendices/18_Tesoros_Recompensas.md",
+    "Chronosia_Campana_Profesional/05_Apendices/17_Monstruos_Enemigos.md",
+    "Chronosia_Campana_Profesional/05_Apendices/16_Mecanicas_Dimensionales.md",
+    "Chronosia_Campana_Profesional/05_Apendices/15_Mecanicas_Temporales.md",
+    "Chronosia_Campana_Profesional/05_Apendices",
+    "Chronosia_Campana_Profesional/04_Aventuras/14_Climax.md",
+    "Chronosia_Campana_Profesional/04_Aventuras/13_Misiones_Sandbox.md",
+    "Chronosia_Campana_Profesional/04_Aventuras/12_Mision_Inicial.md",
+    "Chronosia_Campana_Profesional/04_Aventuras",
+    "Chronosia_Campana_Profesional/03_Regiones/11_Corazon_Chronosia.md",
+    "Chronosia_Campana_Profesional/03_Regiones/10_Regiones_Dimensionales.md",
+    "Chronosia_Campana_Profesional/03_Regiones/09_Regiones_Temporales.md",
+    "Chronosia_Campana_Profesional/03_Regiones",
+    "Chronosia_Campana_Profesional/01_Introduccion/02_Guia_Rapida.md",
+    "Chronosia_Campana_Profesional/01_Introduccion/01_Resumen_Campana.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/08_Mecanicas_Especiales.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/07_NPCs_Importantes.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/06_Facciones_Organizaciones.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/05_Dirigir_Campana.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM",
+    "Chronosia_Campana_Profesional/01_Introduccion/04_Resumen_Mundo.md",
+    "Chronosia_Campana_Profesional/01_Introduccion/03_Creacion_Personajes.md"
+  ]
+}
