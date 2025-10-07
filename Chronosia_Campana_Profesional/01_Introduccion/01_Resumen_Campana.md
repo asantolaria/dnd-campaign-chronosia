@@ -9,7 +9,27 @@
 
 ### **🎯 El Hook Principal**
 
-Todo comienza durante el **Festival del Reloj Astronómico** en Waterdeep, cuando el maestro relojero principal es asesinado por fuerzas misteriosas. Lo que parece un simple asesinato se revela como la punta del iceberg de una conspiración que amenaza la realidad misma.
+Todo comienza durante el **Festival del Reloj Astronómico** en Waterdeep, una celebración anual que honra el majestuoso reloj astronómico de la ciudad. Durante la festividad, **Maestro Thaddeus Ironwright**, el relojero principal de Waterdeep y antiguo miembro de los Relojeros Negros que logró escapar del semiplano, es asesinado brutalmente.
+
+**En la escena del crimen se encuentran:**
+- Símbolos extraños tallados en su piel que hacen referencia a los Cronófagos
+- Un reloj de arena roto con arena que fluye hacia arriba
+- Marcas temporales en las paredes que sugieren manipulación del tiempo
+- Un mensaje críptico: "El tiempo no perdona a los traidores"
+
+**La Misión del Gobierno:** El Open Lord y la Vara Negra anuncian que necesitan ayuda urgente para resolver este caso. La recompensa será generosa si se soluciona el misterio y se da descanso en paz al maestro relojero como se merece.
+
+Lo que parece un simple asesinato se revela como la punta del iceberg de una conspiración que amenaza la realidad misma.
+
+### **🔍 La Investigación en Waterdeep**
+
+Durante su investigación, los personajes descubrirán:
+
+1. **El Diario del Maestro Thaddeus**: Revela que escapó del semiplano, conocía los secretos de los Relojeros Negros, y su función crítica de reparar desajustes temporales
+2. **Distorsiones Temporales Crecientes**: Sin Thaddeus, los efectos temporales se intensifican en Waterdeep
+3. **Testigos del Asesinato**: Personas que vieron una figura encapuchada con símbolos temporales
+4. **El Cronófago Asesino**: Un infiltrado que debe ser encontrado y derrotado antes de que escape
+5. **El Comerciante Interplanar**: Zephyr aparece ofreciendo "ayuda con objetos especiales" sin mencionar que viajarán a otro plano
 
 ### **🌍 El Mundo de Chronosia**
 
@@ -46,10 +66,18 @@ Los jugadores deben derrotar a los lugartenientes manteniendo un equilibrio perf
 ### **🎪 Múltiples Finales**
 
 La campaña puede terminar de varias maneras:
-- **Liberar a ambos dioses** y restaurar el equilibrio
-- **Destruir a ambos dioses** y asumir el control
-- **Liberar solo a uno** con consecuencias desastrosas
-- **Mantener el status quo** y continuar el sufrimiento
+- **Liberar a ambos dioses** y restaurar el equilibrio (con consecuencias impredecibles)
+- **Destruir a ambos dioses** y asumir el control o el cierre definitivo de sus poderes divinos
+- **Liberar solo a uno** con consecuencias desastrosas para el equilibrio cósmico
+- **Mantener el status quo** y continuar el sufrimiento de los dioses
+
+### **🎭 Giros Narrativos Importantes**
+
+- **Elminster** podría unirse brevemente a la causa pero desaparecer misteriosamente en una falla temporal
+- **Volo** inicia la misión y aparece esporádicamente, siempre descartado por los poderosos pero revelándose como crucial
+- **Jarlaxle** podría tener infiltrados en los Cronófagos y puede ser chantajeado o sobornado
+- **La Revelación de Manshoon**: Aethernus Valcarys es en realidad Manshoon Clone #47
+- **Bregan D'aerthe**: Trabajan para Manshoon desde el principio, no son aliados genuinos
 
 ---
 

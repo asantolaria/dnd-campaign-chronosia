@@ -8,9 +8,7 @@
 ## 📋 **TABLAS PENDIENTES**
 
 ### **Tablas de Eventos:**
-- [ ] Eventos temporales aleatorios
-- [ ] Eventos dimensionales aleatorios
-- [ ] Gritos de los dioses
+- [x] **[19_Tablas_Eventos.md](19_Tablas_Eventos.md)** - Eventos temporales, espaciales y gritos de los dioses ✅
 
 ### **Tablas de Encuentros:**
 - [ ] Encuentros por región

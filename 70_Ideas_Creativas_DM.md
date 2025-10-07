@@ -1597,7 +1597,7 @@ Los Cronófagos no son solo una secta religiosa fanática, sino una **organizaci
 ### **🛡️ Sargentos Cronófagos - Imagen Pendiente**
 
 **Descripción Visual Requerida:**
-- **🔴 Uniforme y Armadura**: Túnica militar color vino tinto con correajes de cuero cruzados. Armadura de placas metálicas en los brazos y placa en la zona del corazón. Placas desgastadas que insinúan múltiples campañas bélicas.
+- **🔵 Uniforme y Armadura**: Túnica militar color azul con correajes de cuero cruzados. Armadura de placas metálicas en los brazos y placa en la zona del corazón. Placas desgastadas que insinúan múltiples campañas bélicas.
 
 - **⚔️ Armamento**: Dos espadas cortas gemelas con empuñaduras de guardia recta. Hojas afiladas que cambian de era según el combate. Canalización arcana para energías temporales/espaciales.
 
@@ -1686,6 +1686,41 @@ Los Cronófagos no son solo una secta religiosa fanática, sino una **organizaci
 - **Lugartenientes Dimensionales (6)**: Maestros de distorsiones espaciales con existencia en múltiples planos
 - **Características especiales**: Tiempo/Espacio cristalizado, coronas especializadas, equipamiento de distorsión
 - **Poderes únicos**: Control absoluto de su tipo de distorsión, existencia múltiple simultánea
+
+### **🎖️ Oficiales Cronófagos - Imagen Pendiente**
+
+**Descripción Visual Requerida:**
+- **🟣 Uniforme y Armadura**: Túnica militar color púrpura con correajes de cuero cruzados. Armadura de placas metálicas que cubre torso, brazos y piernas. Placas desgastadas que insinúan múltiples campañas bélicas.
+
+- **⚔️ Armamento**: Dos espadas cortas gemelas con empuñaduras de guardia recta. Hojas afiladas que cambian de era según el combate. Canalización arcana para energías temporales/espaciales.
+
+- **🎭 Máscara**: Máscara de pico dorada con detalles de platino. Lentes circulares oscuros que reflejan la luz. Expresión completamente oculta para inhumanidad deliberada.
+
+- **🛡️ Accesorios**: Bandera púrpura oscura con emblema de reloj de arena. Casco de acero mate sobrio y funcional. **Corona de mando con gemas temporales o dimensionales**. **Bastón de poder con reloj de arena o cristal dimensional**. Insignias de oficial en los hombros.
+
+**Elementos Distintivos:**
+- **Corona de mando** con gemas especializadas
+- **Bastón de poder** con reloj de arena o cristal dimensional
+- **Armadura completa** que cubre torso, brazos y piernas
+- **Insignias de oficial** en los hombros
+- **Detalles de platino** en la máscara
+
+### **👑 Lugartenientes Cronófagos - Imagen Pendiente**
+
+**Descripción Visual Requerida:**
+- **🟤 Uniforme y Armadura**: Túnica militar color ocre con correajes de cuero cruzados. Armadura personalizada que refleja su poder específico. Elementos distintivos de su distorsión temporal o espacial.
+
+- **⚔️ Armamento**: Arma propia y personalizada según su especialización. Poderes únicos relacionados con su distorsión. Canalización arcana especializada.
+
+- **🎭 Máscara**: Sin máscara - muestran su rostro distorsionado. Expresión distorsionada que refleja su poder. Ojos que muestran múltiples momentos o dimensiones.
+
+- **🛡️ Accesorios**: Sin corona - su poder es evidente sin necesidad de símbolos. Sin bastón - su poder es innato. Sin collar - su distorsión es natural. Insignias únicas que representan su región.
+
+**Elementos Distintivos:**
+- **Uniforme ocre** distintivo de su rango supremo
+- **Sin máscara** - muestran su rostro distorsionado
+- **Armadura personalizada** según su especialización
+- **Poder evidente** sin necesidad de símbolos externos
 
 ---
 

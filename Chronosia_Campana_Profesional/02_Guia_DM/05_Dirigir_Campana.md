@@ -3,6 +3,57 @@
 
 ---
 
+## 🎯 **PREPARACIÓN DE LA PARTIDA**
+
+### **📊 Estructura de Niveles de la Campaña**
+- **Nivel Inicial**: 3 (llegada a Chronosia)
+- **Primera Misión**: 3→4 (finaliza en Faerûn)
+- **Primer Lugarteniente**: 4→5 (siempre el mismo, relativamente sencillo)
+- **Lugartenientes Sandbox**: 5→13 (8 niveles subiendo 1 nivel por lugarteniente)
+- **Clímax**: 13→14 (batalla final)
+- **Nivel Final**: 14→15 (simbólico, fin de campaña)
+
+### **🎲 Sistema de Selección de Lugartenientes (Sandbox)**
+El DM debe seleccionar **8 lugartenientes** de los 14 disponibles para la campaña sandbox:
+
+#### **🔒 LUGARTENIENTES FIJOS (Obligatorios):**
+- **Primer Lugarteniente**: Siempre el mismo (relativamente sencillo)
+- **Ignis el Devorador Espacial**: Siempre en Volcanis (Dragón Rojo Ancestral)
+- **Ymir el Eterno Invierno**: Siempre en Glacialis (Elemental de Hielo Ancestral)
+
+#### **🎯 LUGARTENIENTES SELECCIONABLES (Elegir 5 de 11):**
+- **Temporales**: 5 disponibles (elegir 2-3)
+- **Dimensionales**: 6 disponibles (elegir 2-3)
+- **Total**: 5 lugartenientes seleccionables + 3 fijos = 8 total
+
+#### **⚖️ Consideraciones de Balance:**
+- **Mínimo Temporal**: 2 lugartenientes temporales (incluyendo el primer lugarteniente si es temporal)
+- **Máximo Temporal**: 4 lugartenientes temporales
+- **Mínimo Dimensional**: 4 lugartenientes dimensionales (incluyendo Ignis y Ymir)
+- **Máximo Dimensional**: 6 lugartenientes dimensionales
+
+#### **🎯 Recomendaciones para el Primer Lugarteniente:**
+**Opciones Sugeridas (Nivel 4→5):**
+- **Thyra la Suspendida**: Relativamente sencilla, poderes de estasis fáciles de entender
+- **Vexaris el Desplazado**: Poderes de teletransporte simples pero efectivos
+- **Kaelith el Último Segundo**: Concepto simple de aceleración temporal
+
+**Evitar como Primer Lugarteniente:**
+- **Las Gemelas del Espejo**: Muy complejas narrativamente
+- **Lord Vorthak**: Requiere manejo de vampiros y secuaces
+- **Ignis/Ymir**: Demasiado poderosos para nivel 5
+
+### **📋 Lista de Verificación Pre-Campaña**
+- [ ] Seleccionar 8 lugartenientes (3 fijos + 5 seleccionables)
+- [ ] Verificar balance temporal/dimensional
+- [ ] Preparar mapas de las regiones seleccionadas
+- [ ] Crear NPCs clave para las facciones
+- [ ] Preparar tablas de eventos aleatorios
+- [ ] Diseñar encuentros para diferentes niveles
+- [ ] Planificar hooks narrativos entre sesiones
+
+---
+
 ## 🏗️ **ESTRUCTURA DE LA CAMPAÑA**
 
 ### **Fase Inicial - Railroad Establecedor (Sesiones 1-3)**
