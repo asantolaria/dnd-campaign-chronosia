@@ -13,7 +13,12 @@
 ## 💡 **NOTAS Y OBSERVACIONES**
 
 ### **Ideas Pendientes de Desarrollo:**
+- [ ] **Sistema de Restricciones Dimensionales**: Crear un sistema de poderes que limiten el acceso a diferentes zonas de Chronosia (zonas invisibles, laberintos espaciales (siempre vuelves al mismo sitio), cerraduras dimensionales (cúpula impenetrable), nieblas que no dejan ver nada, mar sin viento (para no poder acceder a la zona de las islas), etc.)
+- [ ] **Vinculación Planos-Lugartenientes**: Asignar un plano específico a cada lugarteniente (Faerun, Dragonlance, Eberron, Underdark, Brujaluz, Averno, etc.) con efectos únicos en cada región
+- [ ] **Progresión de Acceso**: Diseñar cómo los personajes desbloquean gradualmente el acceso a nuevas regiones a través de objetos, llaves, rituales o hazañas específicas
+- [ ] **Naturaleza Dimensional de Chronosia**: Desarrollar la teoría de que Chronosia se ha convertido en un lugar de convergencia de planos, explicando por qué Manshoon tiene lugartenientes tan poderosos que gobiernan desde sus propias zonas dimensionales
 - [ ] **Distribución Específica de Lugartenientes**: Asignar islas específicas a cada lugarteniente en el Archipiélago del Suroeste
+- [ ] **Conexiones Planarias**: Mapear qué planos convergen en cada región de Chronosia y cómo esto afecta a los lugartenientes
 - [ ] Mecánicas de combate naval para Las Islas del Vortex
 - [ ] Sistema de reputación con facciones
 - [ ] Mecánicas de corrupción temporal/espacial
