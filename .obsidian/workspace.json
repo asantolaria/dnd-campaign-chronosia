@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronosia_Campana_Profesional/05_Apendices/17_Monstruos_Enemigos.md",
+                "file": "Chronosia_Campana_Profesional/02_Guia_DM/06_Facciones_Organizaciones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17_Monstruos_Enemigos"
+              "title": "06_Facciones_Organizaciones"
             }
           }
         ]
@@ -171,10 +171,13 @@
   },
   "active": "ab5a061376d2fca3",
   "lastOpenFiles": [
+    "Chronosia_Campana_Profesional/03_Regiones/13_Regiones_y_Lugartenientes.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/06_Facciones_Organizaciones.md",
+    "Chronosia_Campana_Profesional/03_Regiones/12_Geografia_General_Chronosia.md",
+    "Chronosia_Campana_Profesional/05_Apendices/17_Monstruos_Enemigos.md",
     "OLD",
     "Chronosia_Campana_Profesional/05_Apendices/16_Mecanicas_Dimensionales.md",
     "Chronosia_Campana_Profesional/05_Apendices/15_Mecanicas_Temporales.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/06_Facciones_Organizaciones.md",
     "00_Plan_Desarrollo_Campana.md",
     "assets/oficial cronófago.png",
     "assets/simbolo cronófagos.png",
@@ -195,7 +198,6 @@
     "Chronosia_Campana_Profesional/06_Recursos/Mapas",
     "Chronosia_Campana_Profesional/06_Recursos",
     "Chronosia_Campana_Profesional/05_Apendices/18_Tesoros_Recompensas.md",
-    "Chronosia_Campana_Profesional/05_Apendices/17_Monstruos_Enemigos.md",
     "Chronosia_Campana_Profesional/05_Apendices",
     "Chronosia_Campana_Profesional/04_Aventuras/14_Climax.md",
     "Chronosia_Campana_Profesional/04_Aventuras/13_Misiones_Sandbox.md",

@@ -317,7 +317,7 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 | **4**  | **Lord Vorthak "El Sediento Eterno"**           | Vampiro Ancestral            | Temporal    | Drenaje de Vida Temporal                     | La Mansión de la Sed Eterna        |
 | **5**  | **Medusa la Eterna**                            | Medusa Ancestral             | Temporal    | Estasis Temporal                             | El Jardín de los Tiempos Gemelos   |
 | **6**  | **Tempus el Fragmentado**                       | Constructo Temporal          | Temporal    | Bucles Temporales                            | Las Ruinas del Tiempo Perdido      |
-| **7**  | **Vexaris el Desplazado**                       | Genasi del Aire              | Dimensional | Distorsión Espacial                          | El Vacío Fracturado                |
+| **7**  | **Edward Teach "Barbanegra"**                  | Humano Pirata                | Dimensional | Poder Robado (Variable)                      | Archipiélago de Barbanegra          |
 | **8**  | **Dimensionalis la Fracturada**                 | Tiefling                     | Dimensional | Compresión Espacial                          | Las Llanuras de la Compresión      |
 | **9**  | **Ignis el Devorador Espacial**                 | Dragón Rojo Ancestral        | Dimensional | Portales de Fuego Dimensional                | Las Calderas Dimensionales         |
 | **10** | **Matrona Veldrisza "La Tejedora Dimensional"** | Drow Matrona                 | Dimensional | Redes Espaciales y Portales a Menzoberranzan | La Ciudad Subterránea de Veldrisza |
@@ -510,15 +510,15 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 
 ### **3.4 🌌 LUGARTENIENTES DIMENSIONALES** (Poder de Voidar)
 
-#### **7. Vexaris el Desplazado (Genasi del Aire)**
-- **Poder**: Puede desplazar objetos y criaturas a través del espacio instantáneamente, creando portales temporales que conectan lugares distantes
-- **Apariencia**: Su cuerpo se desvanece parcialmente, mostrando fragmentos de otros lugares. Sus extremidades aparecen y desaparecen constantemente
-- **Efecto al Morir**: El espacio se colapsa en ciertas regiones, creando agujeros negros que absorben todo lo que se acerca
-- **Región**: <!--TODO: Pendiente de definir geografía-->
+#### **7. Edward Teach "Barbanegra" (Humano Pirata)**
+- **Poder**: Ha robado el poder de uno de los lugartenientes caídos, combinando sus habilidades piratas con poderes temporales o espaciales
+- **Apariencia**: Un pirata humano de mediana edad con barba negra, vestido con ropas de cuero y armas de fuego. Su cuerpo muestra signos de distorsión según el poder robado
+- **Efecto al Morir**: Libera el poder robado, causando que la región se vea afectada por las distorsiones del lugarteniente original
+- **Región**: Archipiélago de Barbanegra (Islas del Oeste)
 
 | **Acción Legendaria**          | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
 | ------------------------------ | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Desplazamiento Rápido**      | 5                | 1 Acción   | Se teletransporta instantáneamente a cualquier lugar dentro de 60 pies                                        |
+| **Ataque de Cañón**      | 5                | 1 Acción   | Dispara un cañón que causa daño de área en un radio de 20 pies                                        |
 | **Portal de Intercambio**      | 5                | 1 Acción   | Intercambia posiciones con un enemigo a hasta 30 pies de distancia                                            |
 | **Desplazamiento Masivo**      | 6                | 2 Acciones | Teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies        |
 | **Portal de Retorno**          | 7                | 2 Acciones | Crea un portal que conecta dos ubicaciones, permitiendo viaje instantáneo entre ellas por 3 turnos            |
@@ -526,7 +526,7 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 | **Portal de Absorción**        | 9                | 3 Acciones | Crea un portal que absorbe ataques enemigos y los redirige a otros enemigos                                   |
 | **Desplazamiento Dimensional** | 10               | 4 Acciones | Teletransporta a todos los enemigos en 60 pies a un plano dimensional aleatorio por 1d4 turnos                |
 | **Portal de Realidad**         | 11               | 4 Acciones | Crea un portal masivo que conecta con múltiples realidades, confundiendo y desorientando a todos los enemigos |
-| **Portal de Invocación**       | 8                | 3 Acciones | Abre un portal a otro mundo y trae 1d4 criaturas aleatorias de una lista predefinida que luchan por Vexaris |
+| **Portal de Invocación**       | 8                | 3 Acciones | Abre un portal a otro mundo y trae 1d4 criaturas aleatorias de una lista predefinida que luchan por Edward Teach |
 
 ### **🌍 Lista de Criaturas Invocables (Portal de Invocación):**
 
@@ -546,7 +546,37 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 | **19** | **Elemental Primordial** | 14 | Elemental de poder cósmico |
 | **20** | **Criatura Única** | 15 | Ser único y poderoso de otro mundo |
 
-**Nota**: Las criaturas invocadas permanecen en el campo de batalla hasta ser derrotadas o hasta que Vexaris muera.
+**Nota**: Las criaturas invocadas permanecen en el campo de batalla hasta ser derrotadas o hasta que Edward Teach muera.
+
+### **🏴‍☠️ SISTEMA DE ROBO DE PODERES DE EDWARD TEACH**
+
+#### **🎯 Lugartenientes que PUEDE haber robado:**
+- **Ymir el Eterno Invierno** → Poderes de congelación espacial
+- **Thyra la Suspendida** → Poderes de estasis temporal
+- **Tempus el Fragmentado** → Poderes de bucles temporales
+- **Varrak del Horizonte** → Poderes de realidades paralelas
+- **Dimensionalis la Fracturada** → Poderes de fractura dimensional
+- **Aethernus Valcarys (Manshoon)** → Poderes de control absoluto
+
+#### **🚫 Lugartenientes que NO puede haber robado:**
+- **Serapis el Retroceso** → Poderes de tiempo invertido
+- **Lord Vorthak "El Sediento Eterno"** → Poderes de drenaje temporal
+- **Medusa la Eterna** → Poderes de petrificación temporal
+- **Ignis el Devorador Espacial** → Poderes de portales de fuego
+- **Matrona Veldrisza** → Poderes de redes espaciales
+- **Las Gemelas del Espejo** → Poderes de dimensión espejo
+
+#### **🎭 Mecánica Narrativa:**
+- **Flexibilidad del DM**: El DM puede elegir a quién le robó el poder según la narrativa
+- **Adaptabilidad**: Los poderes de Edward Teach se adaptan al lugarteniente robado
+- **Misterio**: Los PJ pueden descubrir gradualmente a quién le robó el poder
+- **Consecuencias**: El lugarteniente original puede estar muerto o debilitado
+
+#### **⚔️ Efectos en Combate:**
+- **Poderes Combinados**: Edward Teach tiene sus poderes piratas + los poderes robados
+- **Adaptabilidad**: Sus ataques cambian según el poder robado
+- **Debilidad**: Puede ser vulnerable a ataques relacionados con el poder original
+- **Estrategia**: Los PJ pueden usar conocimiento del lugarteniente original contra él
 
 #### **8. Dimensionalis la Fracturada (Tiefling)**
 - **Poder**: Puede fracturar la realidad en múltiples dimensiones superpuestas, creando laberintos espaciales imposibles
