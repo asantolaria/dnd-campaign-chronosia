@@ -210,20 +210,42 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 
 ### **📊 TABLA DE REFERENCIA RÁPIDA**
 
-| **#**  | **Nombre**                                      | **Raza**                     | **Tipo**    | **Poder Principal**                          | **Región**                         |
-| ------ | ----------------------------------------------- | ---------------------------- | ----------- | -------------------------------------------- | ---------------------------------- |
-| **1**  | **Serapis el Retroceso**                        | Elfo Eterno                  | Temporal    | Reversión Temporal                           | La Espiral Inversa                 |
-| **2**  | **Thyra la Suspendida**                         | Humana                       | Temporal    | Tiempo Detenido                              | Valle de la Aguja Suspendida       |
-| **3**  | **Varrak del Horizonte**                        | Orco                         | Temporal    | Fragmentación Temporal                       | El Abismo de los Posibles          |
-| **4**  | **Lord Vorthak "El Sediento Eterno"**           | Vampiro Ancestral            | Temporal    | Drenaje de Vida Temporal                     | La Mansión de la Sed Eterna        |
-| **5**  | **Medusa la Eterna**                            | Medusa Ancestral             | Temporal    | Estasis Temporal                             | El Jardín de los Tiempos Gemelos   |
-| **6**  | **Tempus el Fragmentado**                       | Constructo Temporal          | Temporal    | Bucles Temporales                            | Las Ruinas del Tiempo Perdido      |
-| **7**  | **Edward Teach "Barbanegra"**                  | Humano Pirata                | Dimensional | Poder Robado (Variable)                      | Archipiélago de Barbanegra          |
-| **8**  | **Dimensionalis la Fracturada**                 | Tiefling                     | Dimensional | Compresión Espacial                          | Las Llanuras de la Compresión      |
-| **9**  | **Ignis el Devorador Espacial**                 | Dragón Rojo Ancestral        | Dimensional | Portales de Fuego Dimensional                | Las Calderas Dimensionales         |
-| **10** | **Matrona Veldrisza "La Tejedora Dimensional"** | Drow Matrona                 | Dimensional | Redes Espaciales y Portales a Menzoberranzan | La Ciudad Subterránea de Veldrisza |
-| **11** | **Las Gemelas del Espejo - Lyra y Nyx**         | Humanas Gemelas Dimensionales | Dimensional | Dimensión Espejo y Reflejos Invertidos       | El Jardín de los Tiempos Gemelos   |
-| **12** | **Ymir el Eterno Invierno**                     | Elemental de Hielo Ancestral | Dimensional | Control Espacial a través del Hielo          | Glacialis                          |
+| **#**  | **Nombre**                                      | **Raza**                     | **Tipo**    | **Poder Principal**                          | **Región**                         | **Estado de Acceso** |
+| ------ | ----------------------------------------------- | ---------------------------- | ----------- | -------------------------------------------- | ---------------------------------- | -------------------- |
+| **1**  | **Serapis el Retroceso**                        | Elfo Eterno                  | Temporal    | Reversión Temporal                           | La Espiral Inversa                 | 🔓 **Desbloqueada** |
+| **2**  | **Thyra la Suspendida**                         | Humana                       | Temporal    | Tiempo Detenido                              | Valle de la Aguja Suspendida       | 🔒 **Bloqueada** |
+| **3**  | **Varrak del Horizonte**                        | Orco                         | Temporal    | Fragmentación Temporal                       | El Abismo de los Posibles          | 🔒 **Bloqueada** |
+| **4**  | **Lord Vorthak "El Sediento Eterno"**           | Vampiro Ancestral            | Temporal    | Drenaje de Vida Temporal                     | La Mansión de la Sed Eterna        | 🔒 **Bloqueada** |
+| **5**  | **Medusa la Eterna**                            | Medusa Ancestral             | Temporal    | Estasis Temporal                             | El Jardín de los Tiempos Gemelos   | 🔒 **Bloqueada** |
+| **6**  | **Tempus el Fragmentado**                       | Constructo Temporal          | Temporal    | Bucles Temporales                            | Las Ruinas del Tiempo Perdido      | 🔒 **Bloqueada** |
+| **7**  | **Edward Teach "Barbanegra"**                  | Humano Pirata                | Dimensional | Poder Robado (Variable)                      | Archipiélago de Barbanegra          | 🔓 **Desbloqueada** |
+| **8**  | **Dimensionalis la Fracturada**                 | Tiefling                     | Dimensional | Compresión Espacial                          | Las Llanuras de la Compresión      | 🔒 **Bloqueada** |
+| **9**  | **Ignis el Devorador Espacial**                 | Dragón Rojo Ancestral        | Dimensional | Portales de Fuego Dimensional                | Las Calderas Dimensionales         | 🔒 **Bloqueada** |
+| **10** | **Matrona Veldrisza "La Tejedora Dimensional"** | Drow Matrona                 | Dimensional | Redes Espaciales y Portales a Menzoberranzan | La Ciudad Subterránea de Veldrisza | 🔒 **Bloqueada** |
+| **11** | **Las Gemelas del Espejo - Lyra y Nyx**         | Humanas Gemelas Dimensionales | Dimensional | Dimensión Espejo y Reflejos Invertidos       | El Jardín de los Tiempos Gemelos   | 🔒 **Bloqueada** |
+| **12** | **Ymir el Eterno Invierno**                     | Elemental de Hielo Ancestral | Dimensional | Control Espacial a través del Hielo          | Glacialis                          | 🔓 **Desbloqueada** |
+
+### **🔓 ESTADOS DE ACCESO A REGIONES**
+
+#### **🔓 Desbloqueadas (Nivel 1-3)**
+- **Serapis el Retroceso** - La Espiral Inversa
+- **Edward Teach "Barbanegra"** - Archipiélago de Barbanegra  
+- **Ymir el Eterno Invierno** - Glacialis
+
+*Estas regiones están accesibles desde el inicio de la campaña. Los PJ pueden explorarlas y enfrentarse a estos lugartenientes en niveles bajos.*
+
+#### **🔒 Bloqueadas (Nivel 4-8)**
+- **Thyra la Suspendida** - Valle de la Aguja Suspendida
+- **Varrak del Horizonte** - El Abismo de los Posibles
+- **Lord Vorthak "El Sediento Eterno"** - La Mansión de la Sed Eterna
+- **Medusa la Eterna** - El Jardín de los Tiempos Gemelos
+- **Tempus el Fragmentado** - Las Ruinas del Tiempo Perdido
+- **Dimensionalis la Fracturada** - Las Llanuras de la Compresión
+- **Ignis el Devorador Espacial** - Las Calderas Dimensionales
+- **Matrona Veldrisza** - La Ciudad Subterránea de Veldrisza
+- **Las Gemelas del Espejo** - El Jardín de los Tiempos Gemelos
+
+*Estas regiones requieren completar misiones específicas, obtener llaves dimensionales, o alcanzar cierto nivel de poder para desbloquearlas.*
 
 ### **📈 RESUMEN ESTADÍSTICO**
 - **Total de Miembros**: 13 (1 Líder + 12 Lugartenientes)
@@ -231,6 +253,8 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 - **Lugartenientes Dimensionales**: 6
 - **Razas Representadas**: 9 diferentes
 - **Regiones Controladas**: 12
+- **Regiones Desbloqueadas**: 3 (25%)
+- **Regiones Bloqueadas**: 9 (75%)
 
 **⚠️ MECÁNICA CRÍTICA:** Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Dado que hay 6 temporales y 6 dimensionales, el equilibrio está perfectamente balanceado. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
 
