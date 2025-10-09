@@ -41,9 +41,11 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 
 ### **🏰 CRONÓPOLIS - El Corazón Temporal (Centro)**
 - **Clima**: Estable pero con fluctuaciones temporales constantes
-- **Características**: La Torre de la Eternidad, relojes gigantes, arquitectura temporal
+- **Características**: La Torre de la Eternidad, relojes gigantes, arquitectura temporal, **Fortaleza de Acero**
 - **Distorsión Principal**: Control total del tiempo y espacio desde el centro
 - **Lugarteniente Asignado**: Aethernus Valcarys (Manshoon)
+- **Población**: Ciudadanos refugiados que rara vez salen de los muros protectores
+- **Seguridad**: Único bastión completamente seguro en todo Chronosia
 
 ### **🌋 VOLCANIS - Las Tierras Ardientes del Sur**
 - **Clima**: Calor extremo con erupciones volcánicas constantes
@@ -83,26 +85,31 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 
 ## 👑 **DISTRIBUCIÓN DE LUGARTENIENTES**
 
-### **❄️ GLACIALIS (1 Lugarteniente):**
+### **❄️ GLACIALIS (1 Lugarteniente + Poblado):**
 - **Ymir el Eterno Invierno** - Control del espacio a través del hielo
+- **Aldea de Hielo Eterno** - Población congelada en estasis temporal
 
-### **🏰 CRONÓPOLIS (1 Lugarteniente):**
+### **🏰 CRONÓPOLIS (1 Lugarteniente + Bastión Seguro):**
 - **Aethernus Valcarys** - Control total del tiempo y espacio
+- **Fortaleza de Acero** - Bastión de los Relojeros Negros
+- **Ciudadanos Refugiados** - Población que rara vez sale de los muros
 
-### **🌋 VOLCANIS (1 Lugarteniente):**
+### **🌋 VOLCANIS (1 Lugarteniente + Poblado):**
 - **Ignis el Devorador Espacial** - Portales dimensionales de fuego
+- **Ciudad de Fuego Eterno** - Población atrapada en portales dimensionales
 
-### **🏝️ ISLAS DEL SUROESTE (9 Lugartenientes):**
-- **Serapis el Retroceso** - Tiempo invertido
-- **Thyra la Suspendida** - Tiempo congelado
-- **Varrak del Horizonte** - Realidades paralelas
-- **Lord Vorthak** - Drenaje temporal
-- **Medusa la Eterna** - Estasis temporal
-- **Tempus el Fragmentado** - Bucles temporales
-- **Vexaris el Desplazado** - Desplazamiento espacial
-- **Dimensionalis la Fracturada** - Fractura dimensional
-- **Matrona Veldrisza** - Redes espaciales
-- **Las Gemelas del Espejo** - Dimensión espejo
+### **🏝️ ISLAS DEL SUROESTE (9 Lugartenientes + Poblados):**
+- **Serapis el Retroceso** - Tiempo invertido + Villa del Tiempo Perdido
+- **Thyra la Suspendida** - Tiempo congelado + Ciudad de Cristal Temporal
+- **Varrak del Horizonte** - Realidades paralelas + Villa de los Ecos
+- **Lord Vorthak** - Drenaje temporal + Mansión de la Sed Eterna
+- **Medusa la Eterna** - Estasis temporal + Jardín de los Tiempos Gemelos
+- **Tempus el Fragmentado** - Bucles temporales + Ruinas del Tiempo Perdido
+- **Vexaris el Desplazado** - Desplazamiento espacial + Ciudad del Vacío
+- **Dimensionalis la Fracturada** - Fractura dimensional + Llanuras de la Compresión
+- **Matrona Veldrisza** - Redes espaciales + Colonia de Refugiados
+- **Las Gemelas del Espejo** - Dimensión espejo + Villa de los Reflejos
+- **Edward Teach** - Vórtices dimensionales + Puerto de las Islas Perdidas
 
 ---
 

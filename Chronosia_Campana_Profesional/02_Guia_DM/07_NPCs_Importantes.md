@@ -111,6 +111,230 @@
 - **Poder**: Es inmune a todas las distorsiones temporales
 - **Función**: Proporciona rituales de estabilización y protección
 
+### **⚙️ Capitán Marcus "El Inquebrantable" - Líder de los Relojeros Negros**
+- **Raza**: Humano veterano de guerra
+- **Edad**: 45 años, con cicatrices de batalla y ojos que han visto demasiado
+- **Profesión**: Capitán de los Relojeros Negros en Chronosia
+- **Alineación**: Legal Neutral (con tendencia al Bien)
+- **Ubicación**: Fortaleza de Acero, bastión de seguridad en Chronópolis
+
+**Descripción Física**: Un hombre de estatura media pero de constitución robusta, con brazos musculosos de años trabajando con metal y maquinaria. Su cabello castaño está salpicado de canas prematuras, y sus ojos grises tienen la mirada penetrante de quien ha visto la corrupción de la magia de cerca. Lleva siempre un delantal de cuero manchado de aceite y herramientas colgando de su cinturón. Su mano derecha es una prótesis mecánica compleja que él mismo diseñó.
+
+**Historia Personal**: Marcus perdió su brazo derecho en una explosión mágica durante una misión contra un grupo de cronófagos. Desde entonces, ha dedicado su vida a perfeccionar la tecnología anti-magia y a entrenar a nuevos reclutas en los métodos de los Relojeros Negros. Su esposa y su hijo pequeño murieron cuando un portal dimensional se abrió en su ciudad natal, y desde entonces jura venganza contra todas las formas de magia distorsionada.
+
+**Personalidad y Motivaciones**:
+- **Inicialmente**: Extremadamente desconfiado de cualquier mago o persona con poderes mágicos
+- **Filosofía**: Cree que la magia es una corrupción que debe ser controlada o eliminada
+- **Objetivo**: Proteger a los inocentes de las distorsiones temporales y espaciales
+- **Debilidad**: Su odio hacia la magia puede cegarlo a alianzas necesarias
+
+**Progresión de Relación con los PJ**:
+
+#### **Fase 1: Desconfianza Total (Niveles 3-5)**
+- **Actitud**: Hostil y sospechoso
+- **Interacciones**: Monitorea a los PJ desde la distancia
+- **Diálogo**: "No confío en nadie que use magia. La magia corrompe, y la corrupción mata."
+- **Acciones**: Puede sabotear los planes de los PJ si involucran magia
+
+#### **Fase 2: Respeto Cauteloso (Niveles 6-8)**
+- **Actitud**: Neutral pero vigilante
+- **Interacciones**: Ofrece información básica sobre cronófagos
+- **Diálogo**: "Has demostrado que no eres como los otros magos. Pero aún no confío en ti."
+- **Acciones**: Proporciona equipo básico anti-magia
+
+#### **Fase 3: Alianza Táctica (Niveles 9-11)**
+- **Actitud**: Aliado reacio pero útil
+- **Interacciones**: Comparte información sobre lugartenientes
+- **Diálogo**: "Tal vez me equivoqué contigo. Trabajemos juntos contra el verdadero enemigo."
+- **Acciones**: Proporciona tecnología avanzada y apoyo logístico
+
+#### **Fase 4: Amistad Verdadera (Niveles 12+)**
+- **Actitud**: Amigo leal y protector
+- **Interacciones**: Comparte secretos personales y familiares
+- **Diálogo**: "Eres como el hijo que perdí. Lucharé a tu lado hasta el final."
+- **Acciones**: Arriesga su vida por los PJ y proporciona acceso total a su arsenal
+
+**Poderes y Habilidades**:
+- **Maestro Armero**: Puede crear y modificar armas de fuego personalizadas
+- **Tecnología Anti-Magia**: Conoce los secretos para neutralizar efectos mágicos
+- **Liderazgo Militar**: Comanda un ejército de Relojeros Negros
+- **Conocimiento Táctico**: Experto en estrategias contra criaturas mágicas
+- **Prótesis Mecánica**: Su brazo artificial tiene múltiples funciones útiles
+
+**Función como Mecenas**:
+- **Equipamiento**: Proporciona armas de fuego, armaduras reforzadas y tecnología anti-magia
+- **Información**: Comparte inteligencia sobre movimientos de cronófagos
+- **Apoyo Logístico**: Proporciona refugio, suministros y transporte
+- **Entrenamiento**: Puede entrenar a los PJ en el uso de tecnología anti-magia
+- **Misiones**: Asigna tareas específicas contra amenazas mágicas
+
+**Momentos Narrativos Clave**:
+- **Primer Encuentro**: Los PJ lo encuentran investigando una distorsión temporal
+- **Prueba de Fe**: Los PJ deben demostrar que no son corruptos por la magia
+- **Revelación Personal**: Marcus comparte la historia de su familia
+- **Sacrificio Heroico**: Marcus arriesga su vida para salvar a los PJ
+- **Reconciliación Final**: Marcus acepta que no toda la magia es corrupta
+
+**Objetos Únicos que Puede Proporcionar**:
+- **Rifle Anti-Magia**: Arma que cancela hechizos al impactar
+- **Armadura Estabilizadora**: Protege contra distorsiones temporales
+- **Granadas de Neutralización**: Explosivos que cancelan efectos mágicos
+- **Detector de Magia**: Dispositivo que localiza fuentes de poder mágico
+- **Prótesis Mecánica**: Brazo artificial con múltiples herramientas integradas
+
+---
+
+## 💰 **SISTEMA DE MECENAZGO DUAL**
+
+### **🎭 La Dinámica de los Dos Mecenas**
+
+Chronosia presenta un sistema único de mecenazgo donde los personajes pueden recibir apoyo de **dos fuentes opuestas pero complementarias**:
+
+#### **⏰ Maestro Relojero de Chronópolis - El Mecenas Místico**
+- **Filosofía**: Acepta la magia como herramienta para restaurar el equilibrio
+- **Recursos**: Oro, equipo mágico, información arcana, artefactos temporales
+- **Método**: Recompensa el uso responsable de la magia y la restauración del tiempo natural
+- **Limitación**: Sus recursos son limitados y debe ser conservador
+
+#### **⚙️ Capitán Marcus "El Inquebrantable" - El Mecenas Tecnológico**
+- **Filosofía**: Rechaza la magia pero acepta la tecnología como solución
+- **Recursos**: Armas de fuego, tecnología anti-magia, inteligencia militar, refugio seguro
+- **Método**: Recompensa la eliminación de amenazas mágicas y el uso de métodos no-mágicos
+- **Limitación**: Su apoyo depende de que los PJ eviten usar magia en su presencia
+
+### **⚖️ Balance y Tensiones**
+
+#### **🤝 Momentos de Cooperación**
+- **Objetivo Común**: Ambos quieren derrotar a los cronófagos y restaurar el equilibrio
+- **Información Compartida**: Pueden proporcionar inteligencia complementaria
+- **Recursos Combinados**: Los PJ pueden usar ambos tipos de equipamiento
+
+#### **⚔️ Momentos de Conflicto**
+- **Uso de Magia**: Marcus se opone al uso de magia, el Maestro Relojero la fomenta
+- **Métodos Diferentes**: Enfoques opuestos para resolver los mismos problemas
+- **Lealtades Divididas**: Los PJ deben equilibrar ambas relaciones
+
+### **🎯 Estrategias de Mecenazgo**
+
+#### **📈 Progresión de Relación con Ambos Mecenas**
+- **Fase 1**: Desconfianza mutua, apoyo limitado
+- **Fase 2**: Respeto cauteloso, recursos básicos
+- **Fase 3**: Alianza táctica, equipamiento avanzado
+- **Fase 4**: Amistad verdadera, acceso total a recursos
+
+#### **💡 Consejos para los PJ**
+- **Equilibrio**: Mantener buenas relaciones con ambos mecenas
+- **Flexibilidad**: Adaptar métodos según la situación
+- **Diplomacia**: Explicar las decisiones difíciles a ambos
+- **Sacrificio**: A veces hay que elegir entre los dos
+
+---
+
+## 🎯 **CAMPAÑA DE LIBERACIÓN - MISIONES DEL CAPITÁN MARCUS**
+
+### **🏰 Contexto Estratégico**
+Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estabilizados protegen a los ciudadanos de las distorsiones temporales y espaciales. Sin embargo, **cada región controlada por un lugarteniente** tiene poblados y ciudades pequeñas donde la gente vive **bajo el yugo de la magia distorsionada**. Marcus lidera la **campaña de liberación** para salvar estos territorios y neutralizar a los lugartenientes.
+
+### **🗺️ Mapa de Liberación**
+- **Chronópolis**: Bastión seguro (Fortaleza de Acero)
+- **Regiones a Liberar**: 12 territorios controlados por lugartenientes
+- **Objetivo Final**: Llegar a la Torre de la Eternidad para enfrentar a Aethernus
+
+---
+
+## 🌍 **MISIONES DE LIBERACIÓN POR REGIÓN**
+
+### **❄️ MISIÓN 1: "El Refugio Congelado" - Glacialis (Nivel 3-4)**
+**Lugarteniente**: Ymir el Eterno Invierno
+**Poblado**: Aldea de Hielo Eterno (población: 200 habitantes)
+**Problema**: Los aldeanos están congelados en el tiempo, viviendo el mismo día eternamente
+**Objetivo**: Liberar a los aldeanos de la estasis temporal y neutralizar a Ymir
+**Requisitos**: No usar magia temporal (Marcus se opone)
+**Recompensa**: Amuleto de Resistencia al Frío + acceso a tecnología de hielo
+**Desarrollo**: Los PJ deben usar tecnología para crear un campo de calor que rompa la estasis
+
+### **⏰ MISIÓN 2: "La Espiral de la Desesperación" - La Espiral Inversa (Nivel 4-5)**
+**Lugarteniente**: Serapis el Retroceso
+**Poblado**: Villa del Tiempo Perdido (población: 150 habitantes)
+**Problema**: Los aldeanos están atrapados en bucles temporales, repitiendo el mismo día
+**Objetivo**: Romper los bucles temporales y liberar a Serapis de su poder
+**Requisitos**: Demostrar que la tecnología puede superar la magia temporal
+**Recompensa**: Brújula de Tiempo Fracturado + información sobre otros lugartenientes
+**Desarrollo**: Los PJ deben construir un dispositivo que estabilice el flujo temporal
+
+### **🌌 MISIÓN 3: "El Valle Suspendido" - Valle de la Aguja Suspendida (Nivel 5-6)**
+**Lugarteniente**: Thyra la Suspendida
+**Poblado**: Ciudad de Cristal Temporal (población: 300 habitantes)
+**Problema**: Los ciudadanos están petrificados en cristal temporal, conscientes pero inmóviles
+**Objetivo**: Liberar a los ciudadanos de la petrificación temporal
+**Requisitos**: Liderar la operación sin usar magia temporal
+**Recompensa**: Lente de Tiempo Detenido + acceso a la base de los Relojeros
+**Desarrollo**: Los PJ deben usar tecnología para crear vibraciones que rompan el cristal temporal
+
+### **🔥 MISIÓN 4: "Las Calderas Ardientes" - Las Calderas Dimensionales (Nivel 6-7)**
+**Lugarteniente**: Ignis el Devorador Espacial
+**Poblado**: Ciudad de Fuego Eterno (población: 250 habitantes)
+**Problema**: Los ciudadanos están atrapados en portales de fuego dimensional
+**Objetivo**: Cerrar los portales dimensionales y rescatar a los ciudadanos
+**Requisitos**: Demostrar que la tecnología puede cerrar portales mágicos
+**Recompensa**: Amuleto de Inmunidad al Fuego + granadas de neutralización
+**Desarrollo**: Los PJ deben construir dispositivos que sellen los portales dimensionales
+
+### **🌙 MISIÓN 5: "La Ciudad Subterránea" - Ciudad Subterránea de Veldrisza (Nivel 7-8)**
+**Lugarteniente**: Matrona Veldrisza "La Tejedora Dimensional"
+**Poblado**: Colonia de Refugiados (población: 400 habitantes)
+**Problema**: Los refugiados están atrapados en redes espaciales que los conectan con Menzoberranzan
+**Objetivo**: Cortar las conexiones dimensionales y liberar a los refugiados
+**Requisitos**: Liderar la operación sin usar magia espacial
+**Recompensa**: Llave de Tejido Dimensional + acceso a tecnología secreta
+**Desarrollo**: Los PJ deben usar tecnología para cortar las redes espaciales
+
+### **🪞 MISIÓN 6: "El Jardín de los Espejos" - Jardín de los Tiempos Gemelos (Nivel 8-9)**
+**Lugarteniente**: Las Gemelas del Espejo - Lyra y Nyx
+**Poblado**: Villa de los Reflejos (población: 180 habitantes)
+**Problema**: Los aldeanos están atrapados en dimensiones espejo, confundidos sobre qué es real
+**Objetivo**: Destruir la dimensión espejo y liberar a los aldeanos
+**Requisitos**: Demostrar que la tecnología puede superar la magia dimensional
+**Recompensa**: Corona de Identidad Única + detector de magia avanzado
+**Desarrollo**: Los PJ deben construir dispositivos que estabilicen la realidad
+
+### **🏴‍☠️ MISIÓN 7: "El Archipiélago del Vortex" - Islas del Suroeste (Nivel 9-10)**
+**Lugarteniente**: Edward Teach "Barbanegra"
+**Poblado**: Puerto de las Islas Perdidas (población: 350 habitantes)
+**Problema**: Los marineros están atrapados en vórtices dimensionales en el mar
+**Objetivo**: Estabilizar los vórtices y rescatar a los marineros
+**Requisitos**: Liderar la operación naval sin usar magia
+**Recompensa**: Prótesis mecánica personalizada + acceso total al arsenal
+**Desarrollo**: Los PJ deben usar tecnología naval para estabilizar los vórtices
+
+### **👑 MISIÓN FINAL: "La Torre de la Eternidad" - Chronópolis (Nivel 11-12)**
+**Lugarteniente**: Aethernus Valcarys (Manshoon Clone #47)
+**Objetivo**: Infiltrarse en la Torre de la Eternidad y enfrentar al origen de todo
+**Requisitos**: Haber liberado al menos 6 regiones para obtener acceso
+**Recompensa**: Acceso a la Torre de la Eternidad + confrontación final
+**Desarrollo**: Los PJ deben usar todo el conocimiento y tecnología adquirida
+
+---
+
+## 🎯 **SISTEMA DE PROGRESIÓN DE LIBERACIÓN**
+
+### **📊 Puntos de Liberación**
+- **Cada región liberada**: +1 Punto de Liberación
+- **Poblados salvados**: +0.5 Puntos de Liberación
+- **Lugartenientes neutralizados**: +2 Puntos de Liberación
+
+### **🔓 Desbloqueos por Progresión**
+- **3 Puntos**: Acceso a tecnología avanzada de Marcus
+- **6 Puntos**: Información sobre la ubicación de la Torre de la Eternidad
+- **9 Puntos**: Acceso a la Torre de la Eternidad
+- **12 Puntos**: Confrontación final con Aethernus
+
+### **💡 Beneficios de Liberar Regiones**
+- **Poblados Liberados**: Proporcionan refugio, suministros e información
+- **Lugartenientes Neutralizados**: Desbloquean objetos y conocimiento únicos
+- **Territorios Estabilizados**: Reducen las distorsiones temporales/espaciales
+- **Apoyo Popular**: Los PJ ganan aliados en cada región liberada
+
 ---
 
 ## ⚔️ **LUGARTENIENTES DEL CÓNCLAVE**
