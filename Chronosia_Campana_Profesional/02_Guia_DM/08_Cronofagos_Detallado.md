@@ -14,10 +14,11 @@
 ### **👑 Liderazgo Supremo**
 - [Aethernus Valcarys](#-aethernus-valcarys-manshoon-clone-47)
 
-### **⚔️ Los Doce Lugartenientes**
+### **⚔️ Los Lugartenientes del Cónclave**
 - [Lugartenientes Temporales](#-lugartenientes-temporales-poder-de-amaunator)
 - [Lugartenientes Dimensionales](#-lugartenientes-dimensionales-poder-de-voidar)
 - [Sistema de Acciones Legendarias](#-sistema-de-acciones-legendarias)
+- [⚔️ La Ascensión del Cónclave](#-la-ascensión-del-cónclave)
 
 ### **🎭 Apariencia y Equipamiento**
 - [Apariencia por Rango](#-apariencia-visual-por-rango-jerárquico)
@@ -183,9 +184,13 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 
 ---
 
-## ⏰🌌 **LOS DOCE LUGARTENIENTES DEL CÓNCLAVE**
+## ⏰🌌 **LOS LUGARTENIENTES DEL CÓNCLAVE**
 
-Un consejo de doce seres de distintas razas, cada uno deformado por su exposición al poder de los dioses en conflicto. Seis de ellos han recibido fragmentos del poder temporal de Amaunator, mientras que los otros seis han absorbido fragmentos del poder espacial de Voidar.
+Un consejo originalmente de doce seres de distintas razas, cada uno deformado por su exposición al poder de los dioses en conflicto. Seis recibieron fragmentos del poder temporal de Amaunator, mientras que otros seis absorbieron fragmentos del poder espacial de Voidar.
+
+**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **8 lugartenientes principales activos** en la campaña, compitiendo por el favor de Aethernus en **"La Ascensión del Cónclave"**.
+
+**📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
 
 ### **⚔️ Sistema de Acciones Legendarias (Aplicable a Todos los Lugartenientes):**
 
@@ -208,59 +213,78 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 - Combates más largos permiten más uso de acciones legendarias
 - Algunas acciones requieren múltiples acciones legendarias para mayor impacto
 
-### **📊 TABLA DE REFERENCIA RÁPIDA**
+**📖 Ver información completa de regiones y distribución geográfica:** [08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
-| **#**  | **Nombre**                                      | **Raza**                     | **Tipo**    | **Poder Principal**                          | **Región**                         | **Estado de Acceso** |
-| ------ | ----------------------------------------------- | ---------------------------- | ----------- | -------------------------------------------- | ---------------------------------- | -------------------- |
-| **1**  | **Serapis el Retroceso**                        | Elfo Eterno                  | Temporal    | Reversión Temporal                           | La Espiral Inversa                 | 🔓 **Desbloqueada** |
-| **2**  | **Thyra la Suspendida**                         | Humana                       | Temporal    | Tiempo Detenido                              | Valle de la Aguja Suspendida       | 🔒 **Bloqueada** |
-| **3**  | **Varrak del Horizonte**                        | Orco                         | Temporal    | Fragmentación Temporal                       | El Abismo de los Posibles          | 🔒 **Bloqueada** |
-| **4**  | **Lord Vorthak "El Sediento Eterno"**           | Vampiro Ancestral            | Temporal    | Drenaje de Vida Temporal                     | La Mansión de la Sed Eterna        | 🔒 **Bloqueada** |
-| **5**  | **Medusa la Eterna**                            | Medusa Ancestral             | Temporal    | Estasis Temporal                             | El Jardín de los Tiempos Gemelos   | 🔒 **Bloqueada** |
-| **6**  | **Tempus el Fragmentado**                       | Constructo Temporal          | Temporal    | Bucles Temporales                            | Las Ruinas del Tiempo Perdido      | 🔒 **Bloqueada** |
-| **7**  | **Edward Teach "Barbanegra"**                  | Humano Pirata                | Dimensional | Poder Robado (Variable)                      | Archipiélago de Barbanegra          | 🔓 **Desbloqueada** |
-| **8**  | **Dimensionalis la Fracturada**                 | Tiefling                     | Dimensional | Compresión Espacial                          | Las Llanuras de la Compresión      | 🔒 **Bloqueada** |
-| **9**  | **Ignis el Devorador Espacial**                 | Dragón Rojo Ancestral        | Dimensional | Portales de Fuego Dimensional                | Las Calderas Dimensionales         | 🔒 **Bloqueada** |
-| **10** | **Matrona Veldrisza "La Tejedora Dimensional"** | Drow Matrona                 | Dimensional | Redes Espaciales y Portales a Menzoberranzan | La Ciudad Subterránea de Veldrisza | 🔒 **Bloqueada** |
-| **11** | **Las Gemelas del Espejo - Lyra y Nyx**         | Humanas Gemelas Dimensionales | Dimensional | Dimensión Espejo y Reflejos Invertidos       | El Jardín de los Tiempos Gemelos   | 🔒 **Bloqueada** |
-| **12** | **Ymir el Eterno Invierno**                     | Elemental de Hielo Ancestral | Dimensional | Control Espacial a través del Hielo          | Glacialis                          | 🔓 **Desbloqueada** |
+### **📊 RESUMEN RÁPIDO DE LUGARTENIENTES**
 
-### **🔓 ESTADOS DE ACCESO A REGIONES**
+| **#**  | **Nombre**                                      | **Raza**                      | **Tipo**    | **Poder Principal**                          | **Región**                         | **Estado de Acceso** |
+| ------ | ----------------------------------------------- | ----------------------------- | ----------- | -------------------------------------------- | ---------------------------------- | -------------------- |
+| **1**  | **Serapis el Retroceso**                        | Elfo Eterno                   | Temporal    | Reversión Temporal                           | La Espiral Inversa                 | 🔓 **Desbloqueada**  |
+| **2**  | **Thyra la Suspendida**                         | Humana                        | Temporal    | Tiempo Detenido                              | Valle de la Aguja Suspendida       | 🔒 **Bloqueada**     |
+| **3**  | **Varrak del Horizonte**                        | Orco                          | Temporal    | Fragmentación Temporal                       | El Abismo de los Posibles          | 🔒 **Bloqueada**     |
+| **4**  | **Lord Vorthak "El Sediento Eterno"**           | Vampiro Ancestral             | Temporal    | Drenaje de Vida Temporal                     | La Mansión de la Sed Eterna        | 🔒 **Bloqueada**     |
+| **5**  | **Medusa la Eterna**                            | Medusa Ancestral              | Temporal    | Estasis Temporal                             | El Jardín de los Tiempos Gemelos   | 🔒 **Bloqueada**     |
+| **6**  | **Tempus el Fragmentado**                       | Constructo Temporal           | Temporal    | Bucles Temporales                            | Las Ruinas del Tiempo Perdido      | 🔒 **Bloqueada**     |
+| **7**  | **Edward Teach "Barbanegra"**                   | Humano Pirata                 | Dimensional | Poder Robado (Variable)                      | Archipiélago de Barbanegra         | 🔓 **Desbloqueada**  |
+| **8**  | **Dimensionalis la Fracturada**                 | Tiefling                      | Dimensional | Compresión Espacial                          | Las Llanuras de la Compresión      | 🔒 **Bloqueada**     |
+| **9**  | **Ignis el Devorador Espacial**                 | Dragón Rojo Ancestral         | Dimensional | Portales de Fuego Dimensional                | Las Calderas Dimensionales         | 🔒 **Bloqueada**     |
+| **10** | **Matrona Veldrisza "La Tejedora Dimensional"** | Drow Matrona                  | Dimensional | Redes Espaciales y Portales a Menzoberranzan | La Ciudad Subterránea de Veldrisza | 🔒 **Bloqueada**     |
+| **11** | **Las Gemelas del Espejo - Lyra y Nyx**         | Humanas Gemelas Dimensionales | Dimensional | Dimensión Espejo y Reflejos Invertidos       | El Jardín de los Tiempos Gemelos   | 🔒 **Bloqueada**     |
+| **12** | **Ymir el Eterno Invierno**                     | Elemental de Hielo Ancestral  | Dimensional | Control Espacial a través del Hielo          | Glacialis                          | 🔓 **Desbloqueada**  |
 
-#### **🔓 Desbloqueadas (Nivel 1-3)**
-- **Serapis el Retroceso** - La Espiral Inversa
-- **Edward Teach "Barbanegra"** - Archipiélago de Barbanegra  
-- **Ymir el Eterno Invierno** - Glacialis
-
-*Estas regiones están accesibles desde el inicio de la campaña. Los PJ pueden explorarlas y enfrentarse a estos lugartenientes en niveles bajos.*
-
-#### **🔒 Bloqueadas (Nivel 4-8)**
-- **Thyra la Suspendida** - Valle de la Aguja Suspendida
-- **Varrak del Horizonte** - El Abismo de los Posibles
-- **Lord Vorthak "El Sediento Eterno"** - La Mansión de la Sed Eterna
-- **Medusa la Eterna** - El Jardín de los Tiempos Gemelos
-- **Tempus el Fragmentado** - Las Ruinas del Tiempo Perdido
-- **Dimensionalis la Fracturada** - Las Llanuras de la Compresión
-- **Ignis el Devorador Espacial** - Las Calderas Dimensionales
-- **Matrona Veldrisza** - La Ciudad Subterránea de Veldrisza
-- **Las Gemelas del Espejo** - El Jardín de los Tiempos Gemelos
-
-*Estas regiones requieren completar misiones específicas, obtener llaves dimensionales, o alcanzar cierto nivel de poder para desbloquearlas.*
+**📖 Ver información completa de bloqueos y sistemas de acceso:** [08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
 ### **📈 RESUMEN ESTADÍSTICO**
-- **Total de Miembros**: 13 (1 Líder + 12 Lugartenientes)
-- **Lugartenientes Temporales**: 6
-- **Lugartenientes Dimensionales**: 6
-- **Razas Representadas**: 9 diferentes
-- **Regiones Controladas**: 12
-- **Regiones Desbloqueadas**: 3 (25%)
-- **Regiones Bloqueadas**: 9 (75%)
 
-**⚠️ MECÁNICA CRÍTICA:** Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Dado que hay 6 temporales y 6 dimensionales, el equilibrio está perfectamente balanceado. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
+**⚠️ ESTADO POST-ASESINATO DE THYRA:**
+- **Total Activo**: 9 (1 Líder + 8 Lugartenientes Principales)
+- **Lugartenientes Temporales Activos**: 3 (Serapis, Vorthak, Varrak)
+- **Lugartenientes Dimensionales Activos**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
+- **Razas Representadas**: 8 diferentes
+- **Regiones Activas**: 8
+- **Regiones Desbloqueadas**: 2-3 (25-37%)
+- **Regiones Bloqueadas**: 6 (75%)
+- **Valle de la Aguja Suspendida**: ⚰️ Permanentemente congelado en estasis temporal
+
+**👑 LA ASCENSIÓN DEL CÓNCLAVE:**
+
+El asesinato de Thyra desencadenó la competencia entre lugartenientes. Ver documento completo: [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
+
+**Bandos Activos:**
+- ⏰ **Bando Temporal** (2-3 miembros) - Liderado por Lord Vorthak
+- 🌌 **Bando Dimensional** (3 miembros) - Liderado por Ignis
+- 🏴‍☠️ **Independientes** (2 miembros) - Edward Teach, Dimensionalis
+- 🟡 **Neutrales** (1-2 miembros) - Varrak (hasta Sesión 11), Las Gemelas
+
+**⚠️ MECÁNICA CRÍTICA DE BALANCE:** 
+
+Los PJ deben mantener balance entre poderes temporales y dimensionales. El desequilibrio actual (3 temporales vs 5 dimensionales post-Thyra) ya favorece lo dimensional. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer, provocando catástrofe cósmica.
+
+**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio.
 
 ---
 
 ## ⏰ **LUGARTENIENTES TEMPORALES** (Poder de Amaunator)
+
+### **⚰️ Thyra la Suspendida (Humana) - CAÍDA**
+
+**ESTADO:** Asesinada por Edward Teach en Sesión 5-6
+
+- **Poder Original**: Vivía en un estado donde los segundos no transcurrían. Podía congelar el tiempo en estasis perfecta
+- **Apariencia**: Tenía piel translúcida como cristal, movimientos que parecían congelados en el aire
+- **Cómo Murió**: Edward Teach la emboscó en el Valle de la Aguja Suspendida y robó su poder
+- **Efecto de su Muerte**: 
+  - El Valle quedó permanentemente congelado en estasis temporal
+  - Todo en la región está suspendido en un momento eterno
+  - Edward Teach absorbió sus poderes de estasis
+  - Las visiones de Varrak se fragmentaron (ya no puede ver futuros de Teach)
+  - Aethernus proclamó "La Ascensión del Cónclave"
+- **Región**: ⚰️ Valle de la Aguja Suspendida (permanentemente inaccesible)
+
+**Su poder ahora pertenece a:** Edward Teach "Barbanegra" (Ver acciones legendarias actualizadas)
+
+---
 
 ### **1. Serapis el Retroceso (Elfo Eterno)**
 - **Poder**: Puede devolver eventos breves al pasado, como batallas que se repiten o heridas que nunca ocurrieron
@@ -369,10 +393,11 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 ## 🌌 **LUGARTENIENTES DIMENSIONALES** (Poder de Voidar)
 
 ### **7. Edward Teach "Barbanegra" (Humano Pirata)**
-- **Poder**: Ha robado el poder de uno de los lugartenientes caídos, combinando sus habilidades piratas con poderes temporales o espaciales
-- **Apariencia**: Un pirata humano de mediana edad con barba negra, vestido con ropas de cuero y armas de fuego. Su cuerpo muestra signos de distorsión según el poder robado
-- **Efecto al Morir**: Libera el poder robado, causando que la región se vea afectada por las distorsiones del lugarteniente original
+- **Poder**: Ha robado el poder de **Thyra la Suspendida** (asesinada en Sesión 5-6), combinando sus habilidades piratas con **poderes de estasis temporal** y portales dimensionales
+- **Apariencia**: Un pirata humano de mediana edad con barba negra. Su cuerpo muestra distorsión temporal: una mano envejece y rejuvenece constantemente, su piel tiene aspecto cristalino en partes, y ocasionalmente se "congela" por micro-segundos
+- **Efecto al Morir**: Libera el poder robado, causando una explosión de estasis que congela permanentemente todo en 1 milla de radio
 - **Región**: Archipiélago de Barbanegra (Islas del Oeste)
+- **⚠️ Nota Especial**: **Es un punto ciego para Varrak del Horizonte** - El Oráculo no puede predecir sus acciones debido al poder robado
 
 | **Acción Legendaria**          | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
 | ------------------------------ | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
@@ -405,6 +430,35 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 | **20** | **Criatura Única** | 15 | Ser único y poderoso de otro mundo |
 
 **Nota**: Las criaturas invocadas permanecen en el campo de batalla hasta ser derrotadas o hasta que Edward Teach muera.
+
+---
+
+### **⏰ PODERES ROBADOS DE THYRA (Disponibles post-Sesión 6)**
+
+**Nota DM:** Estas acciones se añaden al repertorio de Edward Teach después de asesinar a Thyra en Sesión 5-6.
+
+|| **Acción Legendaria** | **Nivel Mínimo** | **Costo** | **Descripción** |
+|| -------------------- | ---------------- | --------- | --------------- |
+|| **Estasis Pirata** | 6 | 2 Acciones | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
+|| **Suspensión de Ataque** | 6 | 1 Acción | Congela un ataque enemigo en el aire, evitando que cause daño hasta su siguiente turno |
+|| **Congelación Temporal** | 7 | 2 Acciones | Convierte a un enemigo en cristal temporal, paralizándolo por 1d4 turnos (CD 16 Sabiduría) |
+|| **Campo de Estasis** | 8 | 3 Acciones | Crea un área de 30 pies donde todos los enemigos quedan suspendidos, perdiendo su turno (CD 18 Sabiduría) |
+|| **Momento Robado** | 9 | 3 Acciones | Roba el turno de un enemigo - ese enemigo pierde su próxima acción y Teach gana una acción adicional |
+|| **Congelación Masiva** | 10 | 4 Acciones | Congela el tiempo en 60 pies, todos los enemigos pierden 2 turnos consecutivos (CD 20 Sabiduría) |
+|| **Estasis de Batalla** | 11 | 4 Acciones | Congela a todos en 90 pies por 1 turno completo mientras Teach actúa libremente (CD 22 Sabiduría) |
+
+**💀 COMBINACIONES DEVASTADORAS:**
+
+Teach puede combinar sus poderes piratas originales con los robados de Thyra:
+
+- **Portal Congelado** (Nivel 8+): Portal de Intercambio + Suspensión de Ataque = Teletransporta y congela al enemigo
+- **Estasis y Reposición** (Nivel 9+): Estasis Pirata + Portal de Intercambio = Se hace inmune e intercambia posición con enemigo
+- **Desplazamiento Temporal** (Nivel 10+): Desplazamiento Masivo + Campo de Estasis = Teletransporta y congela a todos
+- **Cañón Suspendido** (Nivel 7+): Ataque de Cañón + Campo de Estasis = Daño masivo a enemigos congelados (doble daño)
+
+**⚠️ Impacto en Varrak:** Después de robar este poder, Varrak del Horizonte NO puede predecir las acciones de Teach. Esto convierte a Edward en extremadamente impredecible y peligroso.
+
+---
 
 ### **🏴‍☠️ SISTEMA DE ROBO DE PODERES DE EDWARD TEACH**
 

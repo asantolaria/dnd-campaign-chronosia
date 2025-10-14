@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronosia_Campana_Profesional/02_Guia_DM/08_Cronofagos_Detallado.md",
+                "file": "Chronosia_Campana_Profesional/03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_Cronofagos_Detallado"
+              "title": "08_Geografia_y_Regiones_de_Chronosia"
             }
           }
         ]
@@ -171,7 +171,20 @@
   },
   "active": "ab5a061376d2fca3",
   "lastOpenFiles": [
+    "Chronosia_Campana_Profesional/04_Aventuras/13_Misiones_Sandbox.md",
+    "Chronosia_Campana_Profesional/04_Aventuras/12_Mision_Inicial.md",
+    "00_Plan_Desarrollo_Campana.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/22_Eventos_Ascension_Conclave.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/09_La_Ascension_del_Conclave.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/08_Mecanicas_Especiales.md",
+    "Chronosia_Campana_Profesional/03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md",
     "Chronosia_Campana_Profesional/03_Regiones/09_Regiones_Temporales.md",
+    "Chronosia_Campana_Profesional/03_Regiones/12_Corazon_Chronosia.md",
+    "Chronosia_Campana_Profesional/03_Regiones/10_Regiones_Dimensionales.md",
+    "Chronosia_Campana_Profesional/03_Regiones/11_Regiones_Dimensionales.md",
+    "Chronosia_Campana_Profesional/03_Regiones/10_Regiones_Temporales.md",
+    "70_Ideas_Creativas_DM.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/08_Cronofagos_Detallado.md",
     "Chronosia_Campana_Profesional/01_Introduccion/02_Guia_Rapida.md",
     "Chronosia_Campana_Profesional/01_Introduccion/01_Resumen_Campana.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/06_Facciones_Organizaciones.md",
@@ -181,7 +194,6 @@
     "OLD",
     "Chronosia_Campana_Profesional/05_Apendices/16_Mecanicas_Dimensionales.md",
     "Chronosia_Campana_Profesional/05_Apendices/15_Mecanicas_Temporales.md",
-    "00_Plan_Desarrollo_Campana.md",
     "assets/oficial cronófago.png",
     "assets/simbolo cronófagos.png",
     "assets/cronófago sargento.png",
@@ -195,23 +207,12 @@
     "assets/cronofago.png",
     "Chronosia_Campana_Profesional/06_Recursos/Tablas/README.md",
     "Chronosia_Campana_Profesional/06_Recursos/Tablas",
-    "Chronosia_Campana_Profesional/06_Recursos/Handouts/README.md",
     "Chronosia_Campana_Profesional/06_Recursos/Handouts",
-    "Chronosia_Campana_Profesional/06_Recursos/Mapas/README.md",
     "Chronosia_Campana_Profesional/06_Recursos/Mapas",
     "Chronosia_Campana_Profesional/06_Recursos",
-    "Chronosia_Campana_Profesional/05_Apendices/18_Tesoros_Recompensas.md",
     "Chronosia_Campana_Profesional/05_Apendices",
-    "Chronosia_Campana_Profesional/04_Aventuras/14_Climax.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/13_Misiones_Sandbox.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/12_Mision_Inicial.md",
     "Chronosia_Campana_Profesional/04_Aventuras",
-    "Chronosia_Campana_Profesional/03_Regiones/11_Corazon_Chronosia.md",
-    "Chronosia_Campana_Profesional/03_Regiones/10_Regiones_Dimensionales.md",
     "Chronosia_Campana_Profesional/03_Regiones",
-    "Chronosia_Campana_Profesional/02_Guia_DM/08_Mecanicas_Especiales.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/07_NPCs_Importantes.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/05_Dirigir_Campana.md",
     "Chronosia_Campana_Profesional/02_Guia_DM"
   ]
 }

@@ -62,3 +62,11 @@ Este agente está configurado para trabajar específicamente con la campaña de 
 - Adapta el contenido al nivel de experiencia del DM
 - Considera las preferencias de los jugadores cuando sea relevante
 - Mantén la coherencia interna del mundo que estés construyendo
+
+## 📋 Gestión de Tareas Pendientes
+- **IMPORTANTE**: Cada vez que identifiques o el usuario mencione una tarea pendiente, añádela inmediatamente al archivo `00_Plan_Desarrollo_Campana.md`
+- Todas las tareas deben estar centralizadas en el plan de desarrollo
+- Organiza las tareas por categorías temáticas (Simplificación, Expansión, Artefactos, etc.)
+- Marca con `[ ]` las tareas pendientes y con `[x]` las completadas
+- Al completar una tarea, muévela a la sección "Tareas Completadas Recientemente" con fecha
+- Mantén el archivo actualizado en todo momento para que el DM siempre sepa en qué trabajar

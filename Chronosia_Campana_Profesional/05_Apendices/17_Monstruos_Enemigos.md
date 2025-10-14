@@ -139,7 +139,15 @@
 
 ## 👑 **LUGARTENIENTES DEL CÓNCLAVE**
 
-### **⏰ Thyra la Suspendida (Lugarteniente Temporal)**
+**📖 Ver información completa de poderes y acciones legendarias:** [08_Cronofagos_Detallado.md](../../02_Guia_DM/08_Cronofagos_Detallado.md)
+
+**⚠️ DESARROLLO PENDIENTE:** Este archivo requiere una actualización mayor para incluir los statblocks completos de los 8 lugartenientes principales activos. Por ahora, se mantiene como referencia histórica de Thyra (caída).
+
+---
+
+### **⚰️ Thyra la Suspendida (Lugarteniente Temporal - CAÍDA)**
+
+**⚠️ ESTADO:** Thyra fue asesinada por Edward Teach (Sesión 5-6). Su poder ahora pertenece a Edward Teach "Barbanegra".
 
 #### **Estadísticas Básicas**
 - **Nivel**: 15
@@ -171,35 +179,23 @@
 
 ---
 
-### **🌌 Vexaris el Desplazado (Lugarteniente Dimensional)**
+### **📝 LUGARTENIENTES ACTIVOS (Statblocks Pendientes de Desarrollo)**
 
-#### **Estadísticas Básicas**
-- **Nivel**: 15
-- **AC**: 20 (Armadura de placas + escudo)
-- **PV**: 195 (26d8 + 78)
-- **Velocidad**: 30 pies
-- **Fuerza**: 20 (+5), Destreza: 22 (+6), Constitución: 20 (+5), Inteligencia: 22 (+6), Sabiduría: 18 (+4), Carisma: 16 (+3)
+**Los siguientes lugartenientes necesitan statblocks completos:**
 
-#### **Habilidades**
-- **Percepción**: +12
-- **Sigilo**: +14
-- **Arcano**: +13
+1. **Serapis el Retroceso** (Temporal - Principal)
+2. **Varrak el Oráculo** (Temporal - Principal/Neutral)
+3. **Lord Vorthak "El Sediento Eterno"** (Temporal - Principal/Líder)
+4. **Medusa la Eterna** (Temporal - Menor)
+5. **Tempus el Fragmentado** (Temporal - Menor)
+6. **Edward Teach "Barbanegra"** (Dimensional - Principal/Independiente/Híbrido)
+7. **Dimensionalis la Fracturada** (Dimensional - Principal/Independiente)
+8. **Ignis el Devorador Espacial** (Dimensional - Principal/Líder)
+9. **Matrona Veldrisza "La Tejedora Dimensional"** (Dimensional - Principal)
+10. **Las Gemelas del Espejo - Lyra y Nyx** (Dimensional - Principales/Neutrales)
+11. **Ymir el Eterno Invierno** (Dimensional - Menor)
 
-#### **Resistencias**
-- **Daño espacial**: Inmunidad
-- **Efectos espaciales**: Inmunidad
-- **Efectos temporales**: Resistencia
-
-#### **Acciones**
-- **Ataque múltiple**: Cinco ataques con arma dimensional
-- **Arma Dimensional**: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d8 + 5) daño perforante + 3d6 daño espacial
-- **Desplazamiento**: CD 20, rango 60 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, es teletransportado a una ubicación aleatoria dentro del rango
-- **Fractura Dimensional**: CD 20, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, es enviado a otra dimensión durante 1 minuto
-
-#### **Características Especiales**
-- **Poder Dimensional**: Control total sobre el espacio en su región
-- **Desplazamiento**: Puede teletransportarse instantáneamente
-- **Inmortalidad Dimensional**: Existe en múltiples dimensiones simultáneamente
+**📖 Mientras tanto, consulta sus acciones legendarias en:** [08_Cronofagos_Detallado.md](../../02_Guia_DM/08_Cronofagos_Detallado.md)
 
 ---
 

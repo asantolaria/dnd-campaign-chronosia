@@ -1,0 +1,433 @@
+# 🗺️ Geografía y Regiones de Chronosia
+## *El Reino del Tiempo Fracturado - Guía Completa*
+
+---
+
+## 📋 **ÍNDICE DE NAVEGACIÓN**
+
+### **🌍 Geografía General**
+- [Visión General del Semiplano](#-visión-general-del-semiplano)
+- [Regiones Principales](#-regiones-principales)
+- [Características Geográficas](#-características-geográficas)
+- [Mecánicas de Viaje](#-mecánicas-de-viaje)
+
+### **👑 Distribución de Lugartenientes**
+- [Tabla Maestra de Regiones y Lugartenientes](#-tabla-maestra-de-regiones-y-lugartenientes)
+- [Resumen Estadístico](#-resumen-estadístico)
+- [La Ascensión del Cónclave](#-la-ascensión-del-cónclave)
+
+### **🔒 Sistema de Bloqueos y Desbloqueos**
+- [Regiones Desbloqueadas](#-regiones-desbloqueadas)
+- [Sistema de Desbloqueos](#-sistema-de-desbloqueos)
+- [Objetos y Artefactos](#-objetos-y-artefactos)
+
+### **🎯 Estrategias de Exploración**
+- [Rutas Recomendadas](#-rutas-recomendadas)
+- [Consejos para el DM](#-consejos-para-el-dm)
+
+---
+
+## 🌍 **VISIÓN GENERAL DEL SEMIPLANO**
+
+Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido distorsionados por la batalla eterna entre Amaunator (Dios del Tiempo) y Voidar (Dios del Espacio). El mundo se divide en cuatro regiones principales, cada una dominada por diferentes manifestaciones de las distorsiones temporales y espaciales.
+
+### **🎯 Características Únicas del Semiplano:**
+- **Tiempo Fracturado**: Diferentes regiones experimentan el tiempo a velocidades distintas
+- **Espacio Distorsionado**: Las distancias cambian constantemente según la región
+- **Realidad Inestable**: Las leyes físicas pueden variar según la proximidad a los lugartenientes
+- **Portales Dimensionales**: Conexiones inestables con otros planos y dimensiones
+- **Balance Crítico**: Los PJ deben mantener equilibrio entre derrotar lugartenientes temporales y dimensionales
+
+---
+
+## 🗺️ **REGIONES PRINCIPALES**
+
+### **❄️ GLACIALIS - El Reino Helado del Norte**
+- **Clima**: Eterno invierno con temperaturas bajo cero
+- **Características**: Montañas de hielo, glaciares eternos, auroras boreales temporales
+- **Distorsión Principal**: Congelación temporal y manipulación espacial a través del hielo
+- **Lugarteniente**: Ymir el Eterno Invierno (Menor/Opcional)
+- **Población**: Aldea de Hielo Eterno - Población congelada en estasis temporal
+- **Acceso**: 🔓 **Desbloqueada** desde el inicio
+
+### **🏰 CRONÓPOLIS - El Corazón Temporal (Centro)**
+- **Clima**: Estable pero con fluctuaciones temporales constantes
+- **Características**: La Torre de la Eternidad, relojes gigantes, arquitectura temporal, Fortaleza de Acero
+- **Distorsión Principal**: Control total del tiempo y espacio desde el centro
+- **Líder Supremo**: Aethernus Valcarys (Manshoon Clone #47)
+- **Población**: Ciudadanos refugiados que rara vez salen de los muros protectores
+- **Seguridad**: Único bastión completamente seguro en todo Chronosia
+- **Facciones**: Relojeros Negros (Fortaleza de Acero), Anacronistas, Ingenieros/Gnomos
+- **Acceso**: 🔓 **Desbloqueada** desde el inicio
+
+### **🌋 VOLCANIS - Las Tierras Ardientes del Sur**
+- **Clima**: Calor extremo con erupciones volcánicas constantes
+- **Características**: Volcanes activos, ríos de lava, cenizas eternas
+- **Distorsión Principal**: Portales dimensionales de fuego y manipulación espacial
+- **Lugarteniente**: Ignis el Devorador Espacial (Principal/Líder Dimensional)
+- **Población**: Ciudad de Fuego Eterno - Población atrapada en portales dimensionales
+- **Acceso**: 🔒 **Bloqueada** - Accesible pero extremadamente peligrosa (CR 15+)
+
+### **🏝️ REGIONES DISTRIBUIDAS - Las Tierras Fracturadas**
+- **Clima**: Variable e impredecible, cambiando entre las cuatro estaciones
+- **Características**: Paisajes diversos, distorsiones únicas por lugarteniente
+- **Distorsión Principal**: Mezcla de efectos temporales y espaciales
+- **Lugartenientes**: 10 lugartenientes distribuidos + 1 caída
+- **Acceso**: Variable según región (ver tabla maestra)
+
+---
+
+## 👑 **TABLA MAESTRA DE REGIONES Y LUGARTENIENTES**
+
+### **📊 Guía de Lectura:**
+- **Nivel**: Nivel recomendado de los PJ para enfrentar la región
+- **Disponibilidad**: 🔓 Desbloqueada | 🔒 Bloqueada | ⚰️ Inaccesible
+- **Desbloqueo**: Requisito para acceder a la región
+- **Bando**: Afiliación en "La Ascensión del Cónclave"
+
+| **#** | **Lugarteniente**                     | **Raza**              | **Tipo**    | **Región**                         | **Nivel** | **Disp.** | **Desbloqueo**                                           | **Bando**         |
+| ----- | ------------------------------------- | --------------------- | ----------- | ---------------------------------- | --------- | --------- | -------------------------------------------------------- | ----------------- |
+| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | ⚰️ Valle de la Aguja Suspendida    | -         | ⚰️        | Permanentemente inaccesible (asesinada por Edward Teach) | CAÍDA             |
+| 1     | **Serapis el Retroceso**              | Elfo Eterno           | Temporal    | La Espiral del Reloj de Arena      | 5-7       | 🔓        | Accesible desde el inicio                                | Temporal          |
+| 2     | **Ymir el Eterno Invierno**           | Elemental de Hielo    | Dimensional | Glacialis                          | 5-7       | 🔓        | Accesible desde el inicio                                | Menor             |
+| 3     | **Varrak el Oráculo**                 | Orco                  | Temporal    | El Oráculo de los Posibles         | 7-9       | 🔒        | Derrotar 1+ lugarteniente                                | Neutral           |
+| 4     | **Medusa la Eterna**                  | Medusa Ancestral      | Temporal    | El Jardín de los Tiempos Gemelos   | 8-9       | 🔒        | Derrotar 2+ lugartenientes                               | Menor             |
+| 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 9-11      | 🔒        | Derrotar 2+ lugartenientes + Espejo de Realidad (Gemelas o quest) | Neutral   |
+| 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-11      | 🔒        | Espejo de Realidad Fragmentada (de Gemelas) O derrotar Ignis | Independiente |
+| 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | El Valle de los Castillos Malditos | 10-12     | 🔒        | Derrotar 3+ lugartenientes                               | Líder Temporal    |
+| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Dimensional | Archipiélago de Barbanegra         | 11-13     | 🔓        | Rotor Infinito (Serapis/Ymir) → Motor de Viento Perpetuo | Independiente     |
+| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 10-12     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales | Menor             |
+| 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 11-13     | 🔒        | Edward Teach O Artefacto Gnomo O Varrak                  | Dimensional       |
+| 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Las Calderas Dimensionales         | 13-15     | 🔒        | Accesible desde inicio pero extremadamente peligrosa     | Líder Dimensional |
+
+**📖 Ver documentos de regiones específicas:**
+- [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Detalles de cada región temporal
+- [11_Regiones_Dimensionales.md](./11_Regiones_Dimensionales.md) - Detalles de cada región dimensional
+
+---
+
+## 📊 **RESUMEN ESTADÍSTICO**
+
+**⚠️ ESTADO POST-ASESINATO DE THYRA:**
+- **Total Activo**: 9 (1 Líder Supremo + 8 Lugartenientes Principales)
+- **Lugartenientes Temporales (Principales)**: 3 (Serapis, Vorthak, Varrak)
+- **Lugartenientes Dimensionales (Principales)**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Lugartenientes Temporales (Menores)**: 2 (Medusa, Tempus)
+- **Lugartenientes Dimensionales (Menores)**: 1 (Ymir)
+- **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
+- **Regiones Activas**: 11 (1 caída, 10 explorables)
+- **Regiones Desbloqueadas**: 3 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis)
+- **Regiones Bloqueadas**: 7
+
+**⚖️ Balance Crítico:**
+- **Temporales vs Dimensionales**: 3 vs 5 (desequilibrio hacia dimensional)
+- **Estrategia Recomendada**: Derrotar al menos 2 dimensionales antes de enfrentar más temporales
+
+---
+
+## ⚔️ **LA ASCENSIÓN DEL CÓNCLAVE (SIMPLIFICADA)**
+
+**📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
+
+### **🎯 Concepto Central**
+
+Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes principales compiten por el favor de Aethernus. Los PJ deben **mantener balance** entre derrotar temporales y dimensionales, o un dios prevalecerá causando catástrofe cósmica.
+
+### **⚔️ Tres Bandos:**
+- **⏰ Temporal**: Vorthak (Líder), Serapis
+- **🌌 Dimensional**: Ignis (Líder), Veldrisza  
+- **🏴‍☠️ Independientes**: Edward Teach, Dimensionalis
+- **🟡 Neutrales**: Varrak, Las Gemelas (deciden en Sesión 11)
+
+### **⚠️ Balance Crítico:** 3 Temporales vs 5 Dimensionales → Los PJ deben derrotar al menos 2 dimensionales antes de más temporales
+
+---
+
+## 🔒 **SISTEMA DE DESBLOQUEOS**
+
+### **🔓 Regiones Desbloqueadas (3 + 1 Centro):**
+
+#### **1. La Espiral del Reloj de Arena (Serapis el Retroceso)**
+- **Tipo**: Temporal Principal
+- **Nivel**: 5-7
+- **Acceso**: Disponible desde el inicio
+- **Mecánica Especial**: Sistema del Contador de Arena (0-20 puntos), TPK controlado obligatorio, 3 reinicios máximo
+- **Bando**: Temporal - "Los Sedientos de Tiempo"
+
+#### **2. Archipiélago de Barbanegra (Edward Teach)**
+- **Tipo**: Dimensional Principal / Independiente
+- **Nivel**: 11-13 ⚠️ **MUY PELIGROSO** (ha asesinado a Thyra y robado su poder)
+- **Acceso**: Técnicamente disponible desde el inicio PERO...
+- **⚠️ Bloqueo Especial**: Mar en Calma (sin viento, imposible navegar)
+- **Desbloqueo**: Necesitas el **Rotor Infinito** (Serapis/Ymir) para que Ingenieros construyan el **Motor de Viento Perpetuo**
+- **Mecánica Especial**: Batalla naval obligatoria (barco gigante intercepta), combate con poderes híbridos (pirata + estasis temporal)
+- **Bando**: Independiente
+- **⚠️ Advertencia**: Es un punto ciego para Varrak (afecta profecías)
+
+#### **3. Glacialis (Ymir el Eterno Invierno)**
+- **Tipo**: Dimensional Menor
+- **Nivel**: 5-7
+- **Acceso**: Disponible desde el inicio
+- **Mecánica Especial**: Frío extremo, manipulación espacial a través del hielo
+- **Bando**: Menor (no participa en competencia)
+
+#### **4. Cronópolis (Centro Neutral)**
+- **Tipo**: Región Central
+- **Nivel**: N/A
+- **Acceso**: Disponible desde el inicio
+- **Características**: Único lugar completamente seguro, hub principal, comercio, facciones
+
+---
+
+### **🔒 Regiones Bloqueadas por Combate (7):**
+
+#### **El Oráculo de los Posibles (Varrak el Oráculo)**
+- **Efecto de Bloqueo**: "Las visiones del futuro confunden a los viajeros, mostrando múltiples caminos que no existen"
+- **Desbloqueo**: Derrotar a **1+ lugarteniente**
+- **Nivel**: 7-9
+- **Tipo**: Temporal Principal / Neutral
+- **Recompensa**: Elección entre **Espejo de la Verdad** O **Fragmento de Realidad Alternativa** (el no elegido se destruye)
+- **⚠️ PERSONAJE ESPECIAL**: Puede convertirse en aliado, siervo o mártir según acciones de los PJ (Momento de Elección en Sesión 11)
+
+#### **El Jardín de los Tiempos Gemelos (Las Gemelas del Espejo + Medusa)**
+- **Efecto de Bloqueo**: "Los espejos y estatuas atrapan a los intrusos en bucles de reflejos y estasis"
+- **Desbloqueo**: Derrotar a **2+ lugartenientes**
+- **Nivel**: 8-10
+- **Tipo**: Dimensional Principal + Temporal Menor (región compartida)
+- **Dueñas Principales**: Las Gemelas del Espejo (Lyra y Nyx)
+- **Aliada Menor**: Medusa la Eterna
+- **Recompensa Las Gemelas**: Objetos relacionados con espejos y clones
+- **Recompensa Medusa**: Objetos relacionados con estasis y petrificación
+
+#### **El Valle de los Castillos Malditos (Lord Vorthak)**
+- **Efecto de Bloqueo**: "Una niebla temporal drena la vida de cualquiera que entre, envejeciéndolo décadas en minutos"
+- **Desbloqueo**: Derrotar a **3+ lugartenientes**
+- **Nivel**: 9-11
+- **Tipo**: Temporal Principal / Líder del Bando Temporal
+- **Mecánica Especial**: Región expandida con 4-6 castillos menores (Ghouls, Vampiros Menores, Banshees, Wights, Death Knights), la Mansión de Vorthak como castillo final
+- **Recompensa**: Objetos relacionados con drenaje temporal y longevidad
+
+#### **Las Ruinas del Tiempo Perdido (Tempus el Fragmentado)**
+- **Efecto de Bloqueo**: "Bucles temporales perfectos hacen que te repitas eternamente, sin poder avanzar"
+- **Desbloqueo MÚLTIPLE**:
+  - **Opción A**: Obtener **Arena del Tiempo Estabilizada** (derrotar a Serapis)
+  - **Opción B**: Derrotar **3+ lugartenientes temporales** (Serapis, Varrak, Vorthak)
+- **Nivel**: 10-12
+- **Tipo**: Temporal Menor
+- **Recompensa**: Objetos relacionados con bucles temporales y programación
+
+#### **La Ciudad Subterránea de Veldrisza (Matrona Veldrisza)**
+- **Efecto de Bloqueo**: "Redes de telaraña mágica atrapan a cualquiera que intente acercarse, enviándolo a dimensiones de pesadilla"
+- **Desbloqueo MÚLTIPLE**:
+  - **Opción A**: Derrotar a Edward Teach "Barbanegra"
+  - **Opción B**: Obtener **Artefacto Gnomo** de Cronópolis (¿Excavadora Dimensional?)
+  - **Opción C**: Aliarse con Varrak el Oráculo (visión que muestra entrada secreta)
+- **Nivel**: 10-12
+- **Tipo**: Dimensional Principal / Bando Dimensional
+- **Recompensa**: Elección entre **Hilo de Lolth** O **Red de Captura** (el no elegido se destruye)
+
+#### **Las Llanuras de la Compresión (Dimensionalis la Fracturada)**
+- **Efecto de Bloqueo**: "El espacio se fractura constantemente, creando laberintos dimensionales imposibles de navegar"
+- **Desbloqueo**: Derrotar a **Ignis el Devorador Espacial**
+- **Nivel**: 8-10
+- **Tipo**: Dimensional Principal / Independiente
+- **Recompensa**: Elección entre **Brújula Dimensional** O **Fragmento de Realidad** (el no elegido se destruye)
+
+#### **Las Calderas Dimensionales (Ignis el Devorador Espacial)**
+- **Efecto de Bloqueo**: "El calor extremo y los portales dimensionales de fuego hacen casi imposible el acceso"
+- **Desbloqueo**: Accesible desde el inicio PERO **extremadamente peligrosa** (CR 15+, combate de dragón rojo ancestral)
+- **Nivel**: 12-14
+- **Tipo**: Dimensional Principal / Líder del Bando Dimensional
+- **Recompensa**: Tesoros de dragón rojo ancestral
+
+---
+
+## 🔧 **SISTEMA DE ARTEFACTOS DE DESBLOQUEO**
+
+### **🔩 Rotor Infinito**
+- **Obtención**: Derrotar a Serapis o Ymir
+- **Desbloquea**: Archipiélago de Barbanegra (Mar en Calma)
+- **Uso**: Ingenieros construyen Motor de Viento Perpetuo
+- **Uso Posterior**: Construir Tren Interdimensional post-campaña
+
+### **🪞 Espejo de Realidad Fragmentada**
+- **Obtención**: Derrotar a Las Gemelas del Espejo
+- **Desbloquea**: Llanuras de la Compresión (espacio fracturado)
+- **Función**: Estabiliza espacio fragmentado de Dimensionalis
+- **Alternativa**: Derrotar a Ignis primero
+
+### **⏰ Arena del Tiempo Estabilizada**
+- **Obtención**: Derrotar a Serapis el Retroceso
+- **Desbloquea**: Ruinas del Tiempo Perdido (bucles temporales)
+- **Función**: Permite entrar en bucles sin quedar atrapado
+- **Alternativa**: Derrotar 3+ lugartenientes temporales
+
+### **🔨 Excavadora Dimensional**
+- **Obtención**: Quest con Ingenieros/Gnomos de Cronópolis
+- **Desbloquea**: Ciudad Subterránea de Veldrisza
+- **Costo**: Materiales + misión específica
+- **Alternativas**: Derrotar Edward Teach O Varrak (visión)
+
+### **🔮 Visión de Varrak**
+- **Obtención**: Aliarse con Varrak el Oráculo (acumular puntos positivos)
+- **Desbloquea**: Ciudad Subterránea de Veldrisza (entrada secreta)
+- **Costo**: Influencia positiva hasta Sesión 11
+
+---
+
+## 🎯 **CARACTERÍSTICAS GEOGRÁFICAS**
+
+### **⏰ Efectos Temporales por Región:**
+- **Glacialis**: Tiempo congelado, bucles temporales de invierno eterno
+- **Cronópolis**: Tiempo controlado y estabilizado artificialmente
+- **Volcanis**: Tiempo acelerado por el calor extremo
+- **Regiones Distribuidas**: Tiempo variable según lugarteniente
+
+### **🌌 Efectos Espaciales por Región:**
+- **Glacialis**: Espacio comprimido por el hielo, portales de hielo
+- **Cronópolis**: Espacio estabilizado y controlado
+- **Volcanis**: Espacio expandido por el calor, portales de fuego
+- **Regiones Distribuidas**: Espacio variable según lugarteniente
+
+### **🗺️ Navegación entre Regiones:**
+- **Portales Estables**: Conexiones fijas entre las regiones principales
+- **Portales Temporales**: Conexiones que aparecen y desaparecen aleatoriamente
+- **Distorsiones de Viaje**: El tiempo y espacio pueden cambiar durante el viaje
+- **Peligros Dimensionales**: Criaturas y efectos que aparecen durante el viaje
+
+---
+
+## 🎲 **MECÁNICAS DE VIAJE**
+
+### **⏰ Viaje Temporal:**
+- **Glacialis → Cronópolis**: El tiempo se acelera gradualmente
+- **Cronópolis → Volcanis**: El tiempo se acelera bruscamente
+- **Cronópolis → Regiones Distribuidas**: El tiempo se vuelve caótico e impredecible
+
+### **🌌 Viaje Espacial:**
+- **Glacialis**: Distancias comprimidas, viaje más rápido
+- **Cronópolis**: Distancias normales y estables
+- **Volcanis**: Distancias expandidas, viaje más lento
+- **Regiones Distribuidas**: Distancias variables e impredecibles
+
+### **⚠️ Peligros del Viaje:**
+- **Distorsiones Temporales**: Los PJ pueden envejecer o rejuvenecer durante el viaje
+- **Distorsiones Espaciales**: Los PJ pueden aparecer en lugares inesperados
+- **Criaturas Dimensionales**: Encuentros con seres de otros planos
+- **Efectos Combinados**: Mecánicas que combinan tiempo y espacio
+
+---
+
+## 🎯 **RUTAS RECOMENDADAS**
+
+### **Ruta 1: Equilibrio Temprano (RECOMENDADA para mantener balance)**
+
+| **Orden** | **Lugarteniente** | **Tipo** | **Nivel** | **Artefacto Obtenido** | **Notas** |
+|-----------|-------------------|----------|-----------|------------------------|-----------|
+| 1 | Serapis el Retroceso | Temporal | 5-7 | Rotor Infinito + Arena del Tiempo | Primera región, mecánica del Reloj de Arena |
+| 2 | Ymir el Eterno Invierno | Dimensional | 5-7 | Rotor Infinito (alternativa) | Menor, relativamente fácil |
+| 3 | Varrak el Oráculo | Temporal | 7-9 | Visión (si aliado) | **CRÍTICO**: Sesión 11, puede ser aliado |
+| 4 | Medusa la Eterna | Temporal | 8-9 | Objetos de estasis | Menor, región compartida |
+| 5 | Las Gemelas del Espejo | Dimensional | 9-11 | Espejo de Realidad Fragmentada | Neutrales, región compartida |
+| 6 | Dimensionalis la Fracturada | Dimensional | 9-11 | Brújula Dimensional | Requiere Espejo O derrotar Ignis |
+| 7 | Lord Vorthak | Temporal | 10-12 | Objetos de drenaje temporal | Líder Temporal, 4-6 castillos |
+| 8 | Edward Teach | Dimensional | 11-13 | Tesoros piratas + poderes híbridos | Requiere Rotor → Muy peligroso |
+| 9 | Tempus el Fragmentado | Temporal | 10-12 | Objetos de bucles | Requiere Arena del Tiempo |
+| 10 | Matrona Veldrisza | Dimensional | 11-13 | Hilo de Lolth O Red | Múltiples desbloqueos |
+| 11 | Ignis el Devorador Espacial | Dimensional | 13-15 | Tesoros de dragón ancestral | Boss final antes de Aethernus |
+
+**Balance Final:** 4 Temporales vs 7 Dimensionales (incluyendo Medusa y región compartida)
+
+### **Ruta 2: Exploración Libre**
+
+Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derrotan demasiados de un tipo.
+
+**Sistema de Advertencias:**
+- Después de derrotar 2 temporales consecutivos → Eventos cósmicos de advertencia (Amaunator se debilita)
+- Después de derrotar 3 dimensionales consecutivos → Eventos cósmicos de advertencia (Voidar se debilita)
+- Si el desbalance llega a 4-5 de diferencia → Catástrofe cósmica inminente
+
+---
+
+## 🎭 **CONSEJOS PARA EL DM**
+
+### **🗺️ Uso de la Geografía:**
+- **Variedad**: Cada región ofrece experiencias únicas (Reloj de Arena en Serapis, Mar en Calma en Barbanegra, Castillos Vampíricos en Vorthak)
+- **Progresión**: Los PJ pueden explorar regiones en cualquier orden respetando bloqueos
+- **Adaptación**: Ajusta las dificultades según el nivel de los PJ
+- **Narrativa**: Usa la geografía para avanzar la historia de "La Ascensión del Cónclave"
+
+### **⚔️ Combates por Región:**
+- **Glacialis**: Combates lentos y tácticos (frío extremo)
+- **Cronópolis**: Combates controlados y estratégicos (sin distorsiones)
+- **Volcanis**: Combates rápidos y caóticos (calor extremo, portales de fuego)
+- **La Espiral del Reloj de Arena**: Combate con contador de tiempo (cada turno -1 punto)
+- **Archipiélago de Barbanegra**: Combate naval + combate con poderes híbridos (temporal + dimensional)
+- **Valle de los Castillos Malditos**: Múltiples combates contra muertos vivientes antes del jefe final
+
+### **🎭 Rol por Región:**
+- **Glacialis**: Exploración y supervivencia en frío extremo
+- **Cronópolis**: Intriga política, comercio, obtención de artefactos de ingenieros
+- **Volcanis**: Aventura de alto riesgo y acción
+- **La Espiral del Reloj de Arena**: Gestión de recursos (tiempo como recurso), optimización de rutas
+- **El Oráculo de los Posibles**: Roleplay intenso con Varrak, decisiones morales que afectan su alineación
+- **Valle de los Castillos Malditos**: Horror gótico, exploración de castillos embrujados
+
+### **🎲 Balance Temporal/Dimensional:**
+- **Trackea constantemente** el número de lugartenientes temporales vs dimensionales derrotados
+- **Usa eventos cósmicos** para advertir a los PJ del desbalance:
+  - Cielos que se oscurecen
+  - Terremotos temporales/espaciales
+  - NPCs que mencionan "anomalías crecientes"
+  - Visiones de Varrak que muestran futuros catastróficos
+- **Ofrece información** sobre el balance a través de los Anacronistas y los Guardianes del Oráculo
+- **No penalices inmediatamente** - Da 2-3 advertencias antes de consecuencias graves
+
+### **🔧 Sistema de Artefactos de Ingeniería:**
+- **Introduce temprano** a los Ingenieros/Gnomos de Cronópolis (sesión 1-2)
+- **Muestra el Rotor Infinito** como recompensa visible al derrotar cierto lugarteniente
+- **Crea una quest secundaria** donde los PJ ayudan a los ingenieros a cambio del Artefacto Gnomo
+- **Post-campaña**: El Tren Interdimensional construido con el Rotor conecta Cronópolis con otra ciudad, mejorando la vida de los habitantes
+
+---
+
+## 📝 **NOTAS DE DESARROLLO**
+
+### **✅ Completado:**
+- Distribución de 8 lugartenientes principales + 3 menores/opcionales + 1 caída
+- Sistema de "La Ascensión del Cónclave" simplificado con 3 bandos
+- Varrak el Oráculo como personaje neutral con sistema de elección
+- Edward Teach reposicionado como nivel 11-13 (refleja poder robado de Thyra)
+- Balance crítico entre poderes temporales y dimensionales
+- Sistema de bloqueos regionales con múltiples métodos de desbloqueo
+- Mecánicas de recompensas con elección destructiva
+- **Tabla maestra consolidada con niveles reordenados por dificultad real**
+- **Sistema de artefactos expandido a 5 artefactos con desbloqueos múltiples**
+- **Rutas recomendadas con columna de artefactos obtenidos**
+- Región del Reloj de Arena completamente desarrollada con sistema jugable
+
+### **⏳ Pendiente de Desarrollo:**
+
+**📌 Ver:** [00_Plan_Desarrollo_Campana.md](../../../00_Plan_Desarrollo_Campana.md) para lista completa de tareas pendientes
+
+### **🎯 Objetivos de Diseño:**
+- **Variedad**: Cada región debe sentirse única con mecánicas distintivas
+- **Coherencia**: Las distorsiones deben ser consistentes con el tipo de lugarteniente
+- **Jugabilidad**: Cada región debe ofrecer diferentes tipos de desafíos (combate, puzzles, roleplay, gestión de recursos)
+- **Narrativa**: La geografía debe servir a la historia principal de liberación de los dioses
+- **Balance**: El sistema de equilibrio añade tensión estratégica sin ser punitivo
+- **Flexibilidad**: Múltiples caminos de desbloqueo para dar agencia a los PJ
+- **Consecuencias**: Las acciones de los PJ deben tener peso narrativo visible
+
+---
+
+**📖 Documentos Relacionados:**
+- [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md) - Sistema completo de competencia entre lugartenientes
+- [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) - Acciones legendarias y poderes de cada lugarteniente
+- [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Descripción detallada de regiones temporales
+- [11_Regiones_Dimensionales.md](./11_Regiones_Dimensionales.md) - Descripción detallada de regiones dimensionales
+
+---
+
+*Esta guía consolidada proporciona toda la información necesaria sobre geografía, regiones, lugartenientes, sistema de bloqueos y estrategias de exploración para dirigir la campaña Chronosia de manera coherente y emocionante.*
+
