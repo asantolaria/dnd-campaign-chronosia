@@ -3,15 +3,18 @@
 
 ---
 
-## 🎯 **INICIO RÁPIDO**
+> **⚠️ NOTA:** Esta es una guía de inicio rápido. Para reglas completas y mecánicas detalladas, consulta los documentos listados al final.
 
-### **📋 Lo Esencial en 5 Minutos**
+---
 
-1. **Los PJ comienzan en Waterdeep** durante el Festival del Reloj Astronómico
-2. **Thaddeus Ironwright es asesinado** por un Cronófago infiltrado
-3. **Investigan el crimen** y descubren distorsiones temporales
-4. **Zephyr los lleva a Chronosia** (sin que sepan que viajarán a otro plano)
-5. **Deben derrotar 12 lugartenientes** manteniendo equilibrio temporal/espacial
+## 🎯 **INICIO RÁPIDO - EN 5 MINUTOS**
+
+### **La Premisa**
+1. **Waterdeep** → Asesinato durante el Festival del Reloj Astronómico
+2. **Investigación** → Los PJ descubren distorsiones temporales
+3. **Viaje** → Zephyr los lleva a Chronosia (semiplano fracturado)
+4. **Objetivo** → Derrotar a 8 lugartenientes principales manteniendo balance temporal/dimensional
+5. **Clímax** → Enfrentar a Aethernus (Manshoon Clone #47) y decidir el destino de los dioses
 
 ---
 
@@ -34,7 +37,6 @@ En el corazón de la campaña hay una **tragedia cósmica**: dos dioses inmortal
 Un **reino fracturado** donde el tiempo y el espacio se han roto bajo el peso de una batalla divina eterna. No es un mundo natural, sino una **prisión dimensional** creada para contener el conflicto entre Amaunator y Voidar.
 
 ### **🏗️ Arquitectura Imposible**
-- **Geometría no euclidiana**: Las distancias no tienen sentido
 - **Tiempo fragmentado**: Diferentes regiones experimentan el tiempo de manera distinta
 - **Realidad inestable**: Las leyes físicas cambian constantemente
 - **Ecos divinos**: La agonía de los dioses se manifiesta físicamente
@@ -136,10 +138,18 @@ Un **reino fracturado** donde el tiempo y el espacio se han roto bajo el peso de
 
 ---
 
-## 🌟 **MENSAJE FINAL**
+## 📚 **DOCUMENTOS COMPLETOS DE REFERENCIA**
 
-Esta campaña es una **odisea cósmica** donde los jugadores no solo luchan por sobrevivir, sino por **entender y trascender** las fuerzas fundamentales del universo. Es una historia de **sacrificio, heroísmo y redención** en la escala más grandiosa posible.
+### **Para Preparación de Sesión:**
+- **[../02_Guia_DM/05_Dirigir_Campana.md](../02_Guia_DM/05_Dirigir_Campana.md)** - Estructura completa de sesiones
+- **[../02_Guia_DM/08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md)** - ⭐ Lugartenientes y poderes
+- **[../02_Guia_DM/09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia
 
-**Prepárense para desafiar a los dioses, manipular el tiempo y el espacio, y decidir el destino del multiverso.**
+### **Para Regiones y Aventuras:**
+- **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Tabla maestra
+- **[../03_Regiones/10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)** - Regiones temporales detalladas
+- **[../03_Regiones/11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)** - Regiones dimensionales detalladas
 
-*¿Están listos para convertirse en leyendas eternas?*
+---
+
+*Esta es una **odisea cósmica** donde los jugadores desafían a los dioses, manipulan el tiempo y el espacio, y deciden el destino del multiverso. ¿Están listos para convertirse en leyendas eternas?*

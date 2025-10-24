@@ -18,7 +18,7 @@
 
 ### **🎭 Eventos Clave**
 - [El Asesinato de Thyra](#-evento-clave-el-asesinato-de-thyra-sesión-5)
-- [La Proclamación de Aethernus](#-evento-clave-la-proclamación-de-aethernus-sesión-6)
+- [La Reacción Espontánea](#-evento-clave-la-reacción-espontánea-sesión-6)
 - [El Momento de Elección de Varrak](#-evento-clave-el-momento-de-elección-de-varrak-sesión-11)
 
 ### **⚔️ Herramientas del DM**
@@ -30,14 +30,31 @@
 
 ## 👑 **CONCEPTO CENTRAL: La Mano Derecha de Aethernus**
 
-### **La Premisa:**
+### **🔮 LA VERDAD DETRÁS DE LA COMPETENCIA:**
 
-Aethernus Valcarys (Manshoon Clone #47) tiene a los dioses Amaunator y Voidar capturados, extrayendo constantemente su poder divino. Sin embargo, mantener este equilibrio **no es infinito** - su capacidad de extracción tiene límites.
+**⚠️ INFORMACIÓN ULTRA-SECRETA (Solo para el DM)**
 
-Para maximizar su poder, Aethernus decide que solo **2-3 Lugartenientes Supremos** recibirán la mayor parte del poder divino permanente, convirtiéndose en extensiones directas de su voluntad. Los demás lugartenientes seguirán sirviendo, pero sin acceso al poder absoluto.
+**Lo que los Lugartenientes Creen:**
+Aethernus ha anunciado que solo 2-3 de ellos recibirán poder divino supremo y se convertirán en sus manos derechas. Creen que está probando su lealtad y capacidad.
 
-**El Anuncio:**
-*"De los que permanecen en mi Cónclave, solo los más fuertes ascenderán. Solo tres recibirán mi don supremo. Los demás... servirán o morirán. Demostradme vuestra valía."*
+**La Verdad:**
+- **Manshoon está RECLUIDO** ejecutando el ritual final para convertirse en dios
+- **NO planeó esta competencia** - surgió orgánicamente después de que Edward Teach asesinara a Thyra
+- **La aprovechó como distracción** para mantener a sus lugartenientes ocupados mientras completa su ascensión
+- **Edward Teach sospecha la verdad** y está investigando cómo robar el poder divino para sí mismo
+- **Las alianzas y traiciones** están ocurriendo sin conocimiento de Manshoon
+- **El poder está filtrándose** - la muerte de Thyra liberó poder que Edward Teach capturó
+
+---
+
+### **La Premisa (Lo que los PJ descubrirán):**
+
+Aethernus Valcarys (Manshoon Clone #47) tiene a los dioses Amaunator y Voidar capturados, extrayendo constantemente su poder divino para convertirse él mismo en dios. Sin embargo, está **completamente recluido** en la Torre de la Eternidad, ejecutando la fase final del ritual.
+
+**LO QUE REALMENTE OCURRE (Sesión 6):**
+Después de que Edward Teach asesina a Thyra, los demás lugartenientes **reaccionan espontáneamente**. Algunos ven oportunidad (Vorthak, Ignis), otros ven amenaza (Veldrisza, Serapis), y algunos aprovechan el caos (Teach, Dimensionalis).
+
+**NO hay proclamación oficial de Manshoon.** Los lugartenientes CREEN que están "demostrando su valía" para Aethernus, pero en realidad él ni siquiera sabe que están luchando entre sí. Está completamente enfocado en su ritual de ascensión divina.
 
 ---
 
@@ -204,7 +221,9 @@ Lleva registro durante toda la campaña. Actualiza después de cada sesión impo
 **Instrucciones para el DM:**
 - Actualiza los puntos después de cada evento importante
 - Marca relaciones cambiantes con los PJ
-- Cuando alguien alcance 15 puntos, Aethernus lo proclama Supremo
+- Cuando alguien alcance 15 puntos, **recibe automáticamente** un fragmento de poder divino (Supremo)
+  - **NO hay proclamación** - el poder fluye automáticamente al más fuerte
+  - Manshoon configuró el sistema así ANTES de recluirse, pero ahora NO sabe quién lo recibe
 - Máximo 3 Supremos durante la campaña
 
 ---
@@ -341,7 +360,7 @@ AETHERNUS:
 ## **FASE 2: Primera Sangre (Sesiones 5-8)**
 
 ### **Objetivo Narrativo:**
-El asesinato de Thyra y la proclamación oficial de La Ascensión marcan el inicio de la competencia abierta.
+El asesinato de Thyra y las reacciones espontáneas de los lugartenientes marcan el inicio de la guerra abierta entre ellos.
 
 ---
 
@@ -479,186 +498,291 @@ cualquier visión de muerte que haya visto."
 
 ---
 
-### **👑 EVENTO CLAVE: La Proclamación de Aethernus (Sesión 6)**
+### **👑 EVENTO CLAVE: La Reacción Espontánea (Sesión 6)**
 
 **Timing:** 1-2 días después del asesinato de Thyra
 
-**Ubicación:** El Corazón de Chronosia
+**Ubicación:** En todas partes de Chronosia (reacciones simultáneas)
 
-**Lo Que Ocurre:**
-
-Aethernus convoca a todos los lugartenientes restantes (y los PJ si se han hecho visibles) a una proclamación pública.
+**⚠️ IMPORTANTE - NO HAY PROCLAMACIÓN OFICIAL:**
+- **Manshoon está RECLUIDO** en la Torre de la Eternidad, ignorante de lo que ocurre
+- **NO convoca a nadie** - está en la fase final del ritual
+- **La "competencia" surge ORGÁNICAMENTE** cuando los lugartenientes se enteran del asesinato de Thyra
+- Los lugartenientes **CREEN** que están "demostrando su valía" para Aethernus, pero él NO lo pidió
 
 ---
 
-#### **Escena Completa: La Proclamación**
+#### **Escena Completa: El Caos Desencadenado**
 
 **Setup:**
-Los PJ pueden asistir si:
-- Han sido invitados por algún lugarteniente aliado
-- Espían desde las sombras (CD 20 Sigilo)
-- Son convocados directamente por Aethernus (si lo han impresionado)
+Los PJ se enteran de las reacciones de los lugartenientes a través de:
+- Rumores en Cronópolis (Anacronistas aterrorizados)
+- Testigos oculares del asesinato de Thyra
+- Perturbaciones mágicas masivas detectables en toda Chronosia
+- Espías de los Nautilus informando sobre movimientos extraños
 
-**Los Presentes:**
-- **Aethernus Valcarys** (en su trono de oro y ébano)
-- **Lord Vorthak** (sonrisa cruel, ya planeando)
-- **Serapis el Retroceso** (nervioso, claramente el más débil)
-- **Edward Teach** (limpiando su espada, satisfecho)
-- **Dimensionalis la Fracturada** (en múltiples planos simultáneamente)
-- **Ignis el Devorador Espacial** (rugiendo de anticipación)
-- **Matrona Veldrisza** (serena, calculadora)
-- **Las Gemelas del Espejo** (mirándose entre sí constantemente)
-- **Varrak del Horizonte** (en las sombras, temblando)
-- **Cientos de Cronófagos** (guardias y testigos)
+**Lo Que Ocurre:**
+La noticia del asesinato de Thyra se propaga como fuego. Los lugartenientes reaccionan cada uno según su personalidad, ambición y miedo. **NO hay reunión oficial, solo caos espontáneo.**
 
 ---
 
-**EL DISCURSO DE AETHERNUS:**
+#### **Reacciones de los Lugartenientes (Simultáneas):**
 
+**Los PJ pueden presenciar una o varias de estas escenas, dependiendo de dónde estén:**
+
+**1. LORD VORTHAK (En La Mansión de la Sed Eterna):**
 ```
-[Silencio total. Aethernus se levanta de su trono, su aura de poder haciendo 
-vibrar el aire]
+[Vorthak recibe la noticia de un espía Cronófago, sonríe cruelmente]
 
-AETHERNUS:
-"Lugartenientes del Cónclave. Servidores de mi voluntad. Ha ocurrido algo... 
-fascinante."
+VORTHAK:
+"¿Thyra... muerta? ¿Edward Teach la mató y robó su poder?"
 
-[Mira directamente a Edward Teach]
+[Pausa, procesando la información. Sus ojos brillan con ambición]
 
-AETHERNUS:
-"Thyra la Suspendida ha caído. Asesinada por uno de los suyos. Edward Teach 
-ha demostrado ser... adaptable. Ambicioso. Hambriento de poder."
+VORTHAK:
+"Si Teach puede matar a un lugarteniente y robar su poder... entonces todos 
+podemos hacerlo. Esto cambia todo."
 
-[Sonríe con aprobación]
+[Llama a Serapis telepáticamente]
 
-AETHERNUS:
-"Esto me ha enseñado algo. He estado distribuyendo mi poder equitativamente 
-entre vosotros. Pero la igualdad... la igualdad cría mediocridad."
+VORTHAK:
+"Serapis, ven a mi mansión. AHORA. Tenemos que discutir... protección. Y oportunidades."
 
-[Su voz resuena con poder divino]
-
-AETHERNUS:
-"Por tanto, decreto LA ASCENSIÓN DEL CÓNCLAVE."
-
-[Pausa dramática]
-
-AETHERNUS:
-"De los lugartenientes que permanecen ante mí, solo TRES recibirán mi don supremo:
-
-- Inmortalidad divina, regenerándose eternamente.
-- Poder multiplicado, superando incluso a mis mejores creaciones.
-- Autoridad absoluta sobre los demás.
-- Acceso directo a mi presencia y a los fragmentos de los dioses mismos.
-
-Los demás... servirán a los Supremos. O morirán. La elección es suya."
-
-[Mira a cada uno directamente]
-
-AETHERNUS:
-"Demostradme vuestra valía. Conquistad. Destruid. Cread. Traicionad. Aliaos. 
-No me importa cómo, pero SOLO LOS MÁS FUERTES ASCENDERÁN."
-
-[Levanta su bastón, energía temporal y espacial girando alrededor]
-
-AETHERNUS:
-"La competencia comienza... AHORA."
-
-[Desaparece en un portal dimensional]
+[Se recuesta en su trono, planeando ya su primer movimiento]
 ```
 
----
-
-#### **Reacciones Inmediatas:**
-
-Después de que Aethernus se va, los lugartenientes reaccionan:
-
-**LORD VORTHAK:**
+**2. SERAPIS EL RETROCESO (En La Espiral del Reloj de Arena):**
 ```
-[Sonríe cruelmente, mostrando colmillos]
-"Esto será... delicioso. Serapis, ven conmigo. Tenemos que discutir... protección."
-[Mira amenazadoramente a los demás]
-```
+[Serapis está aterrorizado, temblando]
 
-**SERAPIS EL RETROCESO:**
-```
-[Temblando, siguiendo a Vorthak]
-"Sí... sí, mi señor. Protección sería... prudente."
-```
+SERAPIS:
+"No... no no no. Si Thyra cayó, YO podría ser el siguiente. Soy el más débil..."
 
-**IGNIS EL DEVORADOR ESPACIAL:**
-```
-[RUGIDO ensordecedor]
-"¡SERÉ UNO DE LOS TRES! ¡Mi poder devorará vuestras regiones! ¡El fuego 
-dimensional consumirá todo!"
-[Abre portales de fuego, desapareciendo]
+[Recibe el mensaje de Vorthak]
+
+SERAPIS:
+"Vorthak... quiere hablar. No tengo opción. Si no me alío con alguien poderoso, 
+moriré."
+
+[Abre un portal temporal para ir a la mansión de Vorthak]
+
+SERAPIS (murmurando):
+"Mejor ser subordinado de Vorthak que ser el próximo cadáver..."
 ```
 
-**MATRONA VELDRISZA:**
+**3. IGNIS EL DEVORADOR ESPACIAL (En Volcanis):**
 ```
-[Se acerca a Ignis antes de que se vaya]
-"Dragón. Hablemos. Los dimensionales debemos... coordinarnos."
-[Ambos desaparecen juntos]
+[Ignis RUGE cuando se entera, llamas dimensionales explotando a su alrededor]
+
+IGNIS:
+"¡¡¡THYRA HA CAÍDO!!! ¡Edward Teach robó su poder!"
+
+[Otro RUGIDO, esta vez de anticipación]
+
+IGNIS:
+"Si él puede hacerlo... YO TAMBIÉN. Mi poder es mayor. Devoraré a los débiles. 
+¡SERÉ EL MÁS FUERTE!"
+
+[Comienza a planear su primer ataque]
+
+IGNIS:
+"Veldrisza... necesito hablar con Veldrisza. Los dimensionales debemos coordinarnos 
+antes de que los temporales nos superen."
 ```
 
-**EDWARD TEACH:**
+**4. MATRONA VELDRISZA (En Tela de Sombras):**
 ```
-[Limpia su espada, sonriendo]
-"Bien, bien. Ya tengo cinco puntos de ventaja, ¿no? Gracias, Thyra."
-[Se ríe, mirando a Varrak]
-"Oráculo, ¿ves mi futuro ahora? ¿No? Perfecto."
-[Se va silbando]
+[Veldrisza recibe informes de sus espías drow, se mantiene serena]
+
+VELDRISZA:
+"Interesante. Edward Teach es más peligroso de lo que pensaba. Thyra era poderosa... 
+y ahora es polvo."
+
+[Llama a sus consejeros]
+
+VELDRISZA:
+"Esto es tanto oportunidad como amenaza. Los temporales se moverán contra nosotros. 
+Debemos asegurar una alianza con Ignis inmediatamente."
+
+[Envía mensaje telepático a Ignis]
+
+VELDRISZA (mensaje):
+"Dragón. Hablemos. Los dimensionales debemos coordinarnos o caeremos uno por uno."
 ```
 
-**DIMENSIONALIS LA FRACTURADA:**
+**5. EDWARD TEACH (En el Archipiélago de Barbanegra):**
 ```
-[Sus múltiples versiones hablan a la vez]
-"Fascinante... Todos buscarán aliados. Todos necesitarán información. 
-Todos pagarán... en diferentes formas."
-[Se fragmenta en múltiples dimensiones]
+[Teach está en su barco, limpiando su espada. Un pirata le informa de las reacciones]
+
+TEACH:
+"¿Vorthak está formando alianzas? ¿Ignis está rugiendo sobre 'ser el más fuerte'?"
+
+[Se ríe fuertemente]
+
+TEACH:
+"¡PERFECTO! Justo como lo planeé. Mientras están distraídos luchando entre sí, 
+yo seguiré acumulando poder. Thyra fue solo la primera."
+
+[Mira el Talismán de Interceptación en su mano]
+
+TEACH:
+"Gracias por el poder, Thyra. Y pronto... gracias por el caos, lugartenientes. 
+Seguid creyendo que estáis 'demostrando vuestra valía' para Aethernus."
+
+[Sonríe cruelmente]
+
+TEACH:
+"No sabéis que él ni siquiera está mirando."
 ```
 
-**LAS GEMELAS DEL ESPEJO:**
+**6. DIMENSIONALIS LA FRACTURADA (En Las Llanuras de la Compresión):**
 ```
-[Se miran entre sí, comunicándose en silencio]
-LYRA: "Esto cambia todo."
-NYX: "O nada. Dependiendo del espejo."
+[Sus múltiples versiones observan todos los planos simultáneamente]
+
+DIMENSIONALIS (todas las versiones a la vez):
+"Fascinante... Caos... Oportunidad... Todos buscarán aliados... Todos necesitarán 
+información... Todos pagarán... en diferentes formas."
+
+[Una versión sonríe]
+
+DIMENSIONALIS:
+"Vorthak querrá saber los movimientos de Ignis. Ignis querrá saber los planes de 
+Vorthak. Edward querrá saber dónde están todos. Y yo... yo lo sabré TODO."
+
+[Se fragmenta en múltiples dimensiones, espiando a todos]
+```
+
+**7. LAS GEMELAS DEL ESPEJO (En El Jardín de los Tiempos Gemelos):**
+```
+[Se miran entre sí en un espejo, comunicándose en silencio]
+
+LYRA:
+"Thyra cayó. Edward mató a un lugarteniente."
+
+NYX:
+"Los demás formarán alianzas. O morirán."
+
+LYRA:
+"¿Qué hacemos nosotras?"
+
+NYX:
+"Esperamos. Observamos. Elegiremos el bando ganador."
+
+LYRA & NYX (al unísono):
+"Quien controle el espejo, controlará la realidad."
+
 [Se toman de las manos y desaparecen en un reflejo]
 ```
 
-**VARRAK DEL HORIZONTE:**
+**8. VARRAK DEL HORIZONTE (En El Abismo de los Posibles):**
 ```
-[Desde las sombras, susurrando]
-"He visto este momento mil veces. Nunca termina bien. Nunca."
-[Desaparece en un bucle temporal]
+[Varrak está temblando, viendo múltiples futuros colapsar]
+
+VARRAK:
+"No... no no no. He visto este momento mil veces. Y en TODOS los futuros... 
+solo veo muerte. Traición. Guerra."
+
+[Sus ojos brillan con visiones del futuro]
+
+VARRAK:
+"Vorthak drenará a Serapis. Ignis devorará a los débiles. Edward robará más poder. 
+Y al final... al final..."
+
+[Pausa, aterrorizado]
+
+VARRAK:
+"Alguien tiene que detener esto. Pero yo... yo solo soy un oráculo. Necesito... 
+necesito aliados que aún tengan esperanza."
+
+[Piensa en los PJ]
+
+VARRAK (murmurando):
+"Quizás... quizás ellos puedan cambiar el futuro que veo."
 ```
 
 ---
 
-#### **Si los PJ Están Presentes:**
+#### **Cómo los PJ Se Enteran:**
 
-Algún lugarteniente puede dirigirse a ellos:
+Los PJ NO presencian todas estas reacciones (ocurren en locaciones distintas), pero se enteran a través de:
 
-**EDWARD TEACH (Acercándose):**
+**1. Rumores en Cronópolis (Anacronistas):**
 ```
+ANACRONISTA LÍDER:
+"Los Cronófagos están en movimiento. Hemos detectado comunicaciones telepáticas 
+masivas entre lugartenientes. Algo grande está ocurriendo."
+
+OTRO ANACRONISTA:
+"Dicen que Edward Teach asesinó a Thyra. Y los demás lugartenientes... están 
+reaccionando. Algunos forman alianzas, otros se preparan para la guerra."
+```
+
+**2. Encuentro Directo con un Lugarteniente (Elige uno):**
+
+**OPCIÓN A - EDWARD TEACH (si los PJ están cerca del Archipiélago):**
+```
+[Teach aparece en su barco Queen Anne's Revenge, acercándose a los PJ]
+
+TEACH:
 "Vaya, vaya. Los héroes que han estado causando problemas. Escuchad bien: 
-pronto todos estarán demasiado ocupados matándose entre sí para preocuparse 
-por vosotros. Usad este tiempo sabiamente."
-[Se va]
+Thyra está muerta. Por mi mano. Y pronto, otros caerán también."
+
+[Sonríe]
+
+TEACH:
+"Todos los lugartenientes estarán demasiado ocupados matándose entre sí para 
+preocuparse por vosotros. Usad este tiempo sabiamente. O mejor aún... 
+venid a trabajar para mí."
+
+[Se va navegando]
 ```
 
-**DIMENSIONALIS (Susurrando multidimensionalmente):**
+**OPCIÓN B - DIMENSIONALIS (si los PJ están explorando):**
 ```
-"Mortales. Buscadme cuando necesitéis... información. Tengo precios 
-razonables. Múltiples formas de pago."
+[Una versión de Dimensionalis aparece desde un portal]
+
+DIMENSIONALIS (susurrando multidimensionalmente):
+"Mortales. He visto vuestros movimientos. Interesantes. Buscadme cuando 
+necesitéis... información. Sobre Vorthak. Sobre Ignis. Sobre Edward Teach."
+
 [Sonríe inquietantemente]
+
+DIMENSIONALIS:
+"Tengo precios razonables. Múltiples formas de pago. Información por información. 
+Favores por favores."
+
+[Desaparece]
 ```
 
-**VARRAK (Si los PJ han establecido contacto):**
+**OPCIÓN C - VARRAK (si los PJ han establecido contacto antes):**
 ```
-"Venid a verme. Pronto. Necesito... necesito hablar con alguien que no 
-esté enloquecido por la ambición. Por favor."
-[Se va, claramente perturbado]
+[Varrak aparece frente a los PJ, claramente perturbado]
+
+VARRAK:
+"¡Los encontré! Por favor... necesito hablar con vosotros. AHORA."
+
+[Los lleva a un lugar privado]
+
+VARRAK:
+"Thyra ha caído. Edward Teach la mató. Y ahora... ahora todo se derrumbará. 
+He visto el futuro: guerra, traición, muerte. Los lugartenientes se matarán 
+entre sí. Y al final..."
+
+[Pausa, aterrorizado]
+
+VARRAK:
+"Al final, todos moriremos. A menos que... a menos que VOSOTROS hagáis algo. 
+Vosotros sois la única variable que no puedo predecir perfectamente. Quizás... 
+quizás podáis cambiar el futuro."
+
+[Los mira con desesperación]
+
+VARRAK:
+"Por favor. Ayudadme. Ayudadnos a todos."
 ```
+
+**3. Visión de los Anacronistas (Magia):**
+Los Anacronistas pueden mostrar a los PJ una visión del Cronómetro de Realidades, revelando fragmentos de las conversaciones entre lugartenientes (usa las escenas de arriba).
 
 ---
 

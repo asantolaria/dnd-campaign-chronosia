@@ -19,14 +19,15 @@
 
 Estas regiones están dominadas por lugartenientes que controlan aspectos específicos del tiempo. Los jugadores deben enfrentar a estos lugartenientes manteniendo el equilibrio con las regiones dimensionales.
 
-**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **3 lugartenientes temporales principales activos** en la competencia por el favor de Aethernus.
+**⚠️ ESTADO ACTUAL:** Thyra la Suspendida está **VIVA** al inicio de la campaña (Sesión 1-5) y se bloquea permanentemente tras ser asesinada por Edward Teach (Sesión 6). Quedan **3 lugartenientes temporales principales activos** en la competencia por el favor de Aethernus.
 
 **⚠️ MECÁNICA CRÍTICA:** Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
 
-**👑 LUGARTENIENTES PRINCIPALES (3):**
+**👑 LUGARTENIENTES PRINCIPALES (4 inicialmente, 3 tras asesinato):**
 - Serapis el Retroceso
 - Varrak del Horizonte
 - Lord Vorthak "El Sediento Eterno"
+- Thyra la Suspendida (VIVA Sesión 1-5, MUERTA Sesión 6+)
 
 **🎭 LUGARTENIENTES MENORES/OPCIONALES (2):**
 - Medusa la Eterna
@@ -43,7 +44,7 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 
 **Ubicación**: Región montañosa del norte, cerca de los glaciares
 
-**ESTADO:** ⚰️ **REGIÓN PERMANENTEMENTE CONGELADA** - Thyra fue asesinada por Edward Teach en Sesión 5-6
+**ESTADO:** 🔓 **DISPONIBLE** (Sesión 1-5) → ⚰️ **BLOQUEADA PERMANENTEMENTE** (Sesión 6+) - Thyra fue asesinada por Edward Teach
 
 ### **Descripción Geográfica**
 Un valle glacial en las altas montañas del norte donde todo está congelado en un instante eterno. Ríos de hielo suspendidos como cristal líquido en el aire, caballeros nórdicos a punto de golpear eternamente, aves atrapadas con las alas abiertas en pleno vuelo. En el centro se alza una aguja de hielo eterno que emite pulsos temporales sutiles, rodeada por glaciares que nunca se derriten.

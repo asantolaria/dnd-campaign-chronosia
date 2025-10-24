@@ -128,6 +128,31 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 ## 👑 **AETHERNUS VALCARYS (Manshoon Clone #47)**
 *El maestro de todos los cronófagos - La verdadera identidad revelada*
 
+### **🔮 LA VERDAD SOBRE SU PLAN:**
+
+**⚠️ INFORMACIÓN ULTRA-SECRETA (Solo para el DM)**
+
+Manshoon ha descubierto la **fórmula para extraer el poder de Amaunator y Voidar** y convertirse él mismo en un **dios verdadero**. Actualmente está en la **FASE FINAL** de su plan, completamente recluido en su torre ejecutando el ritual de ascensión divina.
+
+**El Estado Actual:**
+- **Recluido**: Manshoon está aislado completamente, enfocado en su ritual final
+- **Confianza Ciega**: Confía plenamente en sus lugartenientes para mantener la expansión
+- **Expansión Multidimensional**: Los lugartenientes están expandiendo el poder de los Cronófagos a otros planos, no solo Chronosia
+- **Ignorancia**: NO sabe de las traiciones y alianzas entre sus lugartenientes
+- **Vulnerabilidad**: Su aislamiento es su mayor debilidad
+
+**Edward Teach - El Sospechoso:**
+- Edward Teach **SOSPECHA** del verdadero plan de Manshoon
+- Ha descubierto que puede **robar poder de otros lugartenientes** sin que Manshoon se entere
+- El asesinato de Thyra fue su **primera prueba exitosa**
+- Está investigando activamente cómo interceptar el poder divino para sí mismo
+- Es el único lugarteniente que representa una amenaza real al plan de Manshoon
+
+**La Ascensión del Cónclave - La Verdad:**
+La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgánicamente después de que Edward Teach asesinara a Thyra, y Manshoon (distraído por su ritual) simplemente lo aprovechó para mantenerlos ocupados mientras él completa su ascensión.
+
+---
+
 ### **🎭 Apariencia Física:**
 - **Edad aparente**: 60-70 años con vitalidad sobrenatural
 - **Altura**: 6 pies (1.83m) de estatura imponente
@@ -398,6 +423,36 @@ Los PJ deben mantener balance entre poderes temporales y dimensionales. El deseq
 - **Efecto al Morir**: Libera el poder robado, causando una explosión de estasis que congela permanentemente todo en 1 milla de radio
 - **Región**: Archipiélago de Barbanegra (Islas del Oeste)
 - **⚠️ Nota Especial**: **Es un punto ciego para Varrak del Horizonte** - El Oráculo no puede predecir sus acciones debido al poder robado
+
+#### **🔮 LA VERDADERA MOTIVACIÓN DE EDWARD TEACH (INFORMACIÓN ULTRA-SECRETA)**
+
+**⚠️ Solo para el DM - Los PJ deben descubrir esto gradualmente**
+
+Edward Teach NO es solo un oportunista que roba poder. Es el **único lugarteniente que SOSPECHA el verdadero plan de Manshoon**:
+
+**Lo que Teach ha Descubierto:**
+- Manshoon está **recluido** ejecutando un ritual de ascensión divina
+- El poder de los lugartenientes viene de los **dioses capturados** (Amaunator y Voidar)
+- Cuando un lugarteniente muere, su poder **se libera** y puede ser capturado
+- Manshoon está **distraído** y no se ha dado cuenta del robo de Thyra
+
+**Su Plan:**
+- Robar poder de otros lugartenientes sin que Manshoon se entere
+- **Investigar cómo interceptar el poder divino** antes de que Manshoon complete su ascensión
+- Convertirse él mismo en dios, traicionando a Manshoon en el momento perfecto
+- **Fingir lealtad** mientras acumula poder en secreto
+
+**Consecuencias para la Campaña:**
+- Teach es el **único lugarteniente realmente peligroso** para el plan de Manshoon
+- Puede convertirse en **aliado temporal de los PJ** si descubren la verdad
+- Puede convertirse en el **villano final alternativo** si roba suficiente poder
+- Sus acciones están **desestabilizando** el equilibrio sin que Manshoon lo sepa
+
+**Información que Teach Posee:**
+- Ubicación aproximada de la Torre de la Eternidad (sede de Manshoon)
+- Conocimiento de que Amaunator y Voidar están capturados
+- Sospecha de que los dioses pueden ser liberados
+- Conciencia de que Manshoon es vulnerable durante el ritual
 
 | **Acción Legendaria**          | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
 | ------------------------------ | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |

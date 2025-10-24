@@ -3,6 +3,13 @@
 
 ---
 
+> **⚠️ PROPÓSITO DE ESTE DOCUMENTO:**
+> Este documento se centra EXCLUSIVAMENTE en el **sistema de puntos** de La Ascensión del Cónclave (Sesiones 6-20).
+> 
+> **Para cronología general y eventos fijos de toda la campaña**, consulta: **[25_Cronologia_Maestra_Campana.md](./25_Cronologia_Maestra_Campana.md)**
+
+---
+
 ## 📋 **ÍNDICE DE NAVEGACIÓN**
 
 ### **🎯 Eventos por Categoría**
@@ -129,7 +136,7 @@
 | **Sesión** | **Evento** | **Efecto en Puntos** | **Descripción** |
 |------------|------------|---------------------|-----------------|
 | **5-6** | **Asesinato de Thyra** | Edward Teach: +5 pts | Edward mata a Thyra y roba su poder de estasis |
-| **6** | **Proclamación de Aethernus** | Todos: 0 pts (reinicio) | Competencia se declara oficialmente |
+| **6** | **Reacción Espontánea** | Todos: 0 pts (comienza tracking) | Los lugartenientes se enteran y reaccionan (NO hay proclamación oficial) |
 | **11** | **Momento de Elección de Varrak** | Varrak: +3 pts (aliado PJ) O +5 pts (servidor Vorthak) | Varrak elige bando según decisiones PJ |
 | **11** | **Elección de Las Gemelas** | Las Gemelas: +2 pts (Bando Dimensional) O +2 pts (Bando Temporal) | Las Gemelas eligen bando |
 | **15** | **Primera Ascensión** | Primer Supremo: +20 pts (si tiene 15+ pts) | Primer lugarteniente alcanza estatus de Supremo |
@@ -263,8 +270,8 @@ Copia esta tabla y actualízala después de cada sesión:
 
 - **0-5 pts:** "Se dice que [Lugarteniente] está buscando aliados..."
 - **6-10 pts:** "[Lugarteniente] ha conquistado nuevas tierras. Su poder crece."
-- **11-14 pts:** "Aethernus ha sido visto hablando con [Lugarteniente]. ¿Será elegido?"
-- **15+ pts:** "¡[Lugarteniente] ha sido proclamado Supremo! Su poder es absoluto ahora."
+- **11-14 pts:** "[Lugarteniente] ha demostrado ser de los más fuertes. Algunos dicen que pronto alcanzará el poder supremo."
+- **15+ pts:** "¡[Lugarteniente] ha alcanzado el estatus de Supremo! Un fragmento de poder divino fluye a través de él/ella. Su poder es absoluto ahora."
 
 ---
 

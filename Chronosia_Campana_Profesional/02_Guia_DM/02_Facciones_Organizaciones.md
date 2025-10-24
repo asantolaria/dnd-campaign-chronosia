@@ -10,18 +10,44 @@
 Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organización jerárquica compleja que combina disciplina militar con poderes sobrenaturales para mantener el control sobre el tiempo y el espacio fracturados.
 
 **🎯 Líder Supremo**: Aethernus Valcarys (Manshoon Clone #47)
-**👑 Lugartenientes**: 12 seres de distintas razas (6 temporales + 6 dimensionales)
+**👑 Lugartenientes**: Originalmente 12, actualmente 8 principales activos + 3 menores + 1 caída
 **⚔️ Estructura**: Jerarquía militar con tropa, sargentos, oficiales y lugartenientes
 **🌌 Poder**: Manipulación temporal y espacial a través de fragmentos de poder divino
+
+---
+
+### **🔮 LA VERDADERA MOTIVACIÓN (INFORMACIÓN ULTRA-SECRETA)**
+
+**⚠️ Solo para el DM - Los PJ deben descubrir esto gradualmente**
+
+**El Plan Supremo de Manshoon:**
+- Ha descubierto la **fórmula para extraer el poder de Amaunator y Voidar** y convertirse él mismo en un **dios verdadero**
+- Está en la **FASE FINAL** de su plan, completamente **recluido** en su torre ejecutando el ritual de ascensión divina
+- Los Cronófagos son su **ejército de distracción** mientras completa el ritual
+
+**Expansión Multidimensional:**
+- Los lugartenientes están expandiendo el poder de los Cronófagos a **otros planos del multiverso**, no solo Chronosia
+- Chronosia es la **base de operaciones**, pero la influencia se extiende a múltiples realidades
+- Cada lugarteniente controla operaciones en diferentes planos materiales y dimensionales
+
+**El Estado Actual:**
+- **Manshoon está aislado**: Ignora completamente las traiciones y alianzas entre sus lugartenientes
+- **Confianza ciega**: Cree que sus lugartenientes están expandiendo su poder fielmente
+- **Edward Teach sospecha**: Ha descubierto que puede robar poder sin que Manshoon se entere
+- **Caos controlado**: Las facciones internas se forman sin conocimiento del líder supremo
+
+---
 
 ### **📊 ESTRUCTURA JERÁRQUICA SIMPLIFICADA**
 
 #### **👑 LIDERAZGO SUPREMO**
 - **Aethernus Valcarys** (Manshoon Clone #47) - Líder Supremo del Cónclave
 
-#### **👑 LUGARTENIENTES DEL CÓNCLAVE (12)**
-- **6 Lugartenientes Temporales** - Maestros de distorsiones temporales
-- **6 Lugartenientes Dimensionales** - Maestros de distorsiones espaciales
+#### **👑 LUGARTENIENTES DEL CÓNCLAVE (ESTADO ACTUAL)**
+- **3 Lugartenientes Temporales Principales** - Serapis, Varrak, Vorthak
+- **5 Lugartenientes Dimensionales Principales** - Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas
+- **3 Lugartenientes Menores Opcionales** - Medusa, Tempus, Ymir
+- **1 Lugarteniente Caído** - Thyra la Suspendida (asesinada por Edward Teach)
 
 #### **🎖️ OFICIALES CRONÓFAGOS**
 - **Oficiales Temporales** - Comandantes del Tiempo

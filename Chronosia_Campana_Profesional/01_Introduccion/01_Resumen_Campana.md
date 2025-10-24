@@ -1,117 +1,80 @@
-# 🌌 Bienvenidos a Chronosia
-## *El Reino del Tiempo Fracturado*
+# 🌌 Resumen de la Campaña
+## *Chronosia - El Reino del Tiempo Fracturado*
 
 ---
 
-## 📜 **RESUMEN DE LA CAMPAÑA**
-
-*Chronosia* es una campaña épica de Dungeons & Dragons que lleva a los personajes desde los caminos familiares de Faerûn hasta un reino donde el tiempo y el espacio se han roto bajo el peso de una batalla divina eterna. Los jugadores se enfrentarán a decisiones cósmicas que determinarán el destino del multiverso.
-
-### **🎯 El Hook Principal**
-
-Todo comienza durante el **Festival del Reloj Astronómico** en Waterdeep, una celebración anual que honra el majestuoso reloj astronómico de la ciudad. Durante la festividad, **Maestro Thaddeus Ironwright**, el relojero principal de Waterdeep y antiguo miembro de los Relojeros Negros que logró escapar del semiplano, es asesinado brutalmente.
-
-**En la escena del crimen se encuentran:**
-- Símbolos extraños tallados en su piel que hacen referencia a los Cronófagos
-- Un reloj de arena roto con arena que fluye hacia arriba
-- Marcas temporales en las paredes que sugieren manipulación del tiempo
-- Un mensaje críptico: "El tiempo no perdona a los traidores"
-
-**La Misión del Gobierno:** El Open Lord y la Vara Negra anuncian que necesitan ayuda urgente para resolver este caso. La recompensa será generosa si se soluciona el misterio y se da descanso en paz al maestro relojero como se merece.
-
-Lo que parece un simple asesinato se revela como la punta del iceberg de una conspiración que amenaza la realidad misma.
-
-### **🔍 La Investigación en Waterdeep**
-
-Durante su investigación, los personajes descubrirán:
-
-1. **El Diario del Maestro Thaddeus**: Revela que escapó del semiplano, conocía los secretos de los Relojeros Negros, y su función crítica de reparar desajustes temporales
-2. **Distorsiones Temporales Crecientes**: Sin Thaddeus, los efectos temporales se intensifican en Waterdeep
-3. **Testigos del Asesinato**: Personas que vieron una figura encapuchada con símbolos temporales
-4. **El Cronófago Asesino**: Un infiltrado que debe ser encontrado y derrotado antes de que escape
-5. **El Comerciante Interplanar**: Zephyr aparece ofreciendo "ayuda con objetos especiales" sin mencionar que viajarán a otro plano
-
-### **🌍 El Mundo de Chronosia**
-
-Chronosia es un semiplano fracturado donde:
-- **El tiempo fluye de manera errática** - algunas regiones están congeladas en el tiempo, otras envejecen siglos en días
-- **El espacio se distorsiona constantemente** - distancias imposibles, portales dimensionales, direcciones invertidas
-- **Dos dioses inmortales** están atrapados en una batalla eterna forzada por un mortal ambicioso
-- **Doce lugartenientes** controlan diferentes aspectos del tiempo y espacio
-
-### **⚔️ Los Antagonistas**
-
-- **Aethernus Valcarys**: El líder del Cónclave del Tiempo y el Espacio (REVELACIÓN: Es Manshoon Clone #47)
-- **Los Doce Lugartenientes**: Seres deformados por el poder divino que controlan regiones específicas
-- **Los Cronófagos**: Una organización militar fanática que venera las distorsiones temporales y espaciales
-
-### **🎭 Las Facciones**
-
-- **Los Relojeros Negros**: Cazadores de magos que odian las distorsiones temporales y espaciales
-- **Los Anacronistas**: Guardianes neutrales que resisten las distorsiones
-- **Bregan D'aerthe**: Mercenarios contratados por Manshoon (REVELACIÓN: Trabajan para el villano)
-
-### **🎯 Los Objetivos de los Jugadores**
-
-1. **Investigar el asesinato** en Waterdeep
-2. **Explorar Chronosia** y enfrentar a los lugartenientes
-3. **Mantener el equilibrio** entre poderes temporales y dimensionales
-4. **Descubrir la verdad** sobre Aethernus y Manshoon
-5. **Decidir el destino** de los dioses atrapados
-
-### **⚖️ La Mecánica del Balance Crítico**
-
-Los jugadores deben derrotar a los lugartenientes manteniendo un equilibrio perfecto entre derrotas temporales y dimensionales. Si el desbalance supera 2 derrotas de diferencia, ocurre una **Catástrofe Cósmica**.
-
-### **🎪 Múltiples Finales**
-
-La campaña puede terminar de varias maneras:
-- **Liberar a ambos dioses** y restaurar el equilibrio (con consecuencias impredecibles)
-- **Destruir a ambos dioses** y asumir el control o el cierre definitivo de sus poderes divinos
-- **Liberar solo a uno** con consecuencias desastrosas para el equilibrio cósmico
-- **Mantener el status quo** y continuar el sufrimiento de los dioses
-
-### **🎭 Giros Narrativos Importantes**
-
-- **Elminster** podría unirse brevemente a la causa pero desaparecer misteriosamente en una falla temporal
-- **Volo** inicia la misión y aparece esporádicamente, siempre descartado por los poderosos pero revelándose como crucial
-- **Jarlaxle** podría tener infiltrados en los Cronófagos y puede ser chantajeado o sobornado
-- **La Revelación de Manshoon**: Aethernus Valcarys es en realidad Manshoon Clone #47
-- **Bregan D'aerthe**: Trabajan para Manshoon desde el principio, no son aliados genuinos
+> **⚠️ NOTA:** Este es un resumen de alto nivel. Para información detallada, consulta los documentos específicos listados abajo.
 
 ---
 
-## 🎮 **TIPO DE AVENTURA**
+## 📜 **RESUMEN EJECUTIVO**
 
-- **Sandbox Épico**: Libertad total de exploración con estructura narrativa sólida
-- **Misterio Cósmico**: Investigación de fenómenos sobrenaturales
-- **Supervivencia**: Resistir efectos temporales y espaciales
-- **Política Divina**: Negociar con dioses y entidades inmortales
+*Chronosia* es una campaña épica de D&D donde los PJ investigan un asesinato en Waterdeep que los lleva a un semiplano fracturado donde el tiempo y el espacio se han roto. Deben derrotar a 8 lugartenientes principales manteniendo el balance entre poderes temporales y dimensionales, o provocarán una catástrofe cósmica.
 
 ---
 
-## ⏱️ **DURACIÓN ESTIMADA**
+## 🎯 **CONCEPTOS CLAVE**
 
-- **Sesiones**: 15-20 sesiones de 4 horas
-- **Niveles**: Del 3 al 15
-- **Tiempo Real**: 4-6 meses jugando semanalmente
+### **El Hook Inicial**
+- **Asesinato en Waterdeep** durante el Festival del Reloj Astronómico
+- **Maestro Thaddeus Ironwright** es asesinado por un Cronófago
+- Los PJ investigan y descubren un complot interdimensional
 
----
+### **El Villano Principal**
+- **Aethernus Valcarys** = Manshoon Clone #47
+- Ha capturado a dos dioses (Amaunator y Voidar) y roba su poder
+- Controla a los **Cronófagos** y a **8 lugartenientes principales**
 
-## 🎯 **NIVELES RECOMENDADOS**
-
-- **Inicio**: Nivel 3-5
-- **Fase Sandbox**: Niveles 6-12
-- **Clímax**: Niveles 13-15
-
----
-
-## 👥 **NÚMERO DE JUGADORES**
-
-- **Óptimo**: 4-6 jugadores
-- **Mínimo**: 3 jugadores
-- **Máximo**: 7 jugadores
+### **La Mecánica Central**
+- **Balance Temporal/Dimensional**: 3 Temporales vs 5 Dimensionales
+- Si los PJ matan demasiados de un tipo, provocan catástrofe cósmica
+- **La Ascensión del Cónclave**: Los lugartenientes compiten por el favor de Aethernus
 
 ---
 
-*Chronosia es una odisea cósmica donde los jugadores no solo luchan por sobrevivir, sino por entender y trascender las fuerzas fundamentales del universo.*
+## 📚 **DOCUMENTOS DETALLADOS**
+
+### **📖 Información General**
+- **[02_Guia_Rapida.md](./02_Guia_Rapida.md)** - Tono, ambientación y reglas de la casa
+- **[03_Creacion_Personajes.md](./03_Creacion_Personajes.md)** - Creación de PJ, trasfondos de Waterdeep
+- **[04_Resumen_Mundo.md](./04_Resumen_Mundo.md)** - Geografía, historia y culturas de Chronosia
+
+### **🎲 Guías del DM**
+- **[../02_Guia_DM/05_Dirigir_Campana.md](../02_Guia_DM/05_Dirigir_Campana.md)** - Estructura de sesiones y niveles
+- **[../02_Guia_DM/06_Facciones_Organizaciones.md](../02_Guia_DM/06_Facciones_Organizaciones.md)** - Cronófagos, Relojeros Negros, Anacronistas, Bregan D'aerthe
+- **[../02_Guia_DM/08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md)** - ⭐ **FUENTE DE VERDAD** sobre lugartenientes y poderes
+- **[../02_Guia_DM/09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia entre lugartenientes
+- **[../02_Guia_DM/22_Eventos_Ascension_Conclave.md](../02_Guia_DM/22_Eventos_Ascension_Conclave.md)** - ⭐ Eventos que modifican puntos
+
+### **🗺️ Regiones y Misiones**
+- **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Tabla maestra de regiones y desbloqueos
+- **[../03_Regiones/10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)** - 3 principales + 2 menores + 1 caída
+- **[../03_Regiones/11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)** - 5 principales + 1 menor
+- **[../04_Aventuras/12_Mision_Inicial.md](../04_Aventuras/12_Mision_Inicial.md)** - Festival del Reloj Astronómico
+- **[../04_Aventuras/13_Misiones_Sandbox.md](../04_Aventuras/13_Misiones_Sandbox.md)** - Exploración libre de Chronosia
+
+---
+
+## ⏱️ **INFORMACIÓN BÁSICA**
+
+| **Aspecto** | **Detalles** |
+|------------|-------------|
+| **Duración** | 15-20 sesiones de 4 horas |
+| **Niveles** | 3 → 15 |
+| **Jugadores** | 4-6 óptimo (3-7 rango) |
+| **Estilo** | Railroad (Sesiones 1-3) → Sandbox Puro (4-12) → Railroad Suave (13-15) |
+
+---
+
+## 🎯 **OBJETIVO DE LA CAMPAÑA**
+
+Los PJ deben:
+1. ✅ Derrotar a los lugartenientes manteniendo balance temporal/dimensional
+2. ✅ Descubrir que Aethernus es Manshoon Clone #47
+3. ✅ Decidir el destino de los dioses Amaunator y Voidar
+4. ✅ Enfrentar a Aethernus en batalla final
+5. ✅ Determinar el futuro de Chronosia
+
+---
+
+*Para comenzar la campaña, lee primero [02_Guia_Rapida.md](./02_Guia_Rapida.md) y luego [../04_Aventuras/12_Mision_Inicial.md](../04_Aventuras/12_Mision_Inicial.md).*

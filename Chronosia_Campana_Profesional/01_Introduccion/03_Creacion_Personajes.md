@@ -3,29 +3,23 @@
 
 ---
 
-## 🎯 **NIVELES RECOMENDADOS**
-
-### **Nivel Inicial:**
-- **Recomendado**: Nivel 3-5
-- **Mínimo**: Nivel 3 (para sobrevivir a los efectos de Chronosia)
-- **Máximo**: Nivel 5 (para mantener el desafío)
-
-### **Progresión:**
-- **Fase Inicial** (Sesiones 1-3): Niveles 3-5
-- **Fase Sandbox** (Sesiones 4-12): Niveles 6-12
-- **Fase Final** (Sesiones 13-15): Niveles 13-15
+> **⚠️ NOTA:** Esta es una guía resumida. Usa los trasfondos aquí como inspiración y ajústalos según tu mesa.
 
 ---
 
-## 🏙️ **ORIGEN DE WATERDEEP**
+## 🎯 **REQUISITOS BÁSICOS**
 
-Todos los personajes deben ser originarios de Waterdeep o haber vivido allí durante al menos un año. Esto los conecta directamente con el asesinato de Thaddeus Ironwright y los eventos que desencadenan la aventura.
+| **Aspecto** | **Requisito** |
+|------------|--------------|
+| **Nivel Inicial** | 3-5 (recomendado: 3) |
+| **Origen** | Waterdeep o residentes temporales (min. 1 año) |
+| **Conexión** | Todos deben conocer o saber de Thaddeus Ironwright |
+| **Trasfondos** | Se recomiendan trasfondos personalizados de Waterdeep |
 
-### **Conexiones con Waterdeep:**
-- **Ciudadanos nativos** de Waterdeep
-- **Residentes temporales** que han vivido en la ciudad
-- **Visitantes frecuentes** que conocen bien la ciudad
-- **Trabajadores** de la Torre del Reloj Astronómico
+### **Progresión de Niveles:**
+- **Sesiones 1-3**: Niveles 3-5
+- **Sesiones 4-12**: Niveles 6-12  
+- **Sesiones 13-15**: Niveles 13-15
 
 ---
 

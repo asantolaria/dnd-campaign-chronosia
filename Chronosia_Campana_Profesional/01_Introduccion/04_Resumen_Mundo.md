@@ -3,20 +3,25 @@
 
 ---
 
-## 🗺️ **GEOGRAFÍA GENERAL**
+> **⚠️ NOTA:** Este es un resumen del mundo. Para información geográfica detallada, consulta [../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
-### **El Continente de Chronosia**
-Chronosia es un semiplano continental que se extiende aproximadamente 2000 millas de este a oeste y 1500 millas de norte a sur. El continente está dividido en **trece regiones principales**: doce controladas por los lugartenientes del Cónclave y una región oculta en el centro.
+---
 
-### **Mares y Océanos**
-- **Mar del Tiempo Perdido**: Al norte, donde el tiempo fluye hacia atrás
-- **Océano de las Dimensiones**: Al sur, con portales dimensionales constantes
-- **Mar Interior de la Estabilidad**: En el centro, la única zona estable
+## 🗺️ **RESUMEN GEOGRÁFICO**
 
-### **Clima y Condiciones**
-- **Temporal**: El clima cambia según las distorsiones temporales
-- **Dimensional**: Las condiciones atmosféricas se distorsionan espacialmente
-- **Estable**: Solo en el centro, donde el clima es predecible
+### **El Semiplano de Chronosia**
+- **Tamaño**: 2000 millas este-oeste, 1500 millas norte-sur
+- **Regiones**: 11 regiones explorables (10 con lugartenientes + 1 caída)
+- **Centro**: Cronópolis - la única zona completamente segura
+- **Clima**: Variable según distorsiones temporales y dimensionales
+
+### **Regiones Principales**
+| **Región** | **Tipo** | **Líder** |
+|-----------|---------|----------|
+| ❄️ **Glacialis** | Dimensional | Ymir (Menor) |
+| 🏰 **Cronópolis** | Neutral | Centro seguro |
+| 🌋 **Volcanis** | Dimensional | Ignis (Líder) |
+| 🏝️ **Regiones Distribuidas** | Mixto | 8 lugartenientes principales |
 
 ---
 

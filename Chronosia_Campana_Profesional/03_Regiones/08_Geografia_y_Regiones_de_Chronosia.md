@@ -81,13 +81,13 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 
 ### **📊 Guía de Lectura:**
 - **Nivel**: Nivel recomendado de los PJ para enfrentar la región
-- **Disponibilidad**: 🔓 Desbloqueada | 🔒 Bloqueada | ⚰️ Inaccesible
+- **Disponibilidad**: 🔓 Desbloqueada | 🔒 Bloqueada | ⚰️ Inaccesible | 🔓→⚰️ Cambia de estado
 - **Desbloqueo**: Requisito para acceder a la región
 - **Bando**: Afiliación en "La Ascensión del Cónclave"
 
 | **#** | **Lugarteniente**                     | **Raza**              | **Tipo**    | **Región**                         | **Nivel** | **Disp.** | **Desbloqueo**                                           | **Bando**         |
 | ----- | ------------------------------------- | --------------------- | ----------- | ---------------------------------- | --------- | --------- | -------------------------------------------------------- | ----------------- |
-| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | ⚰️ Valle de la Aguja Suspendida    | -         | ⚰️        | Permanentemente inaccesible (asesinada por Edward Teach) | CAÍDA             |
+| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | Valle de la Aguja Suspendida      | 6-8       | 🔓→⚰️     | Viva al inicio → Muerta tras asesinato por Edward Teach (Sesión 6) | CAÍDA             |
 | 1     | **Serapis el Retroceso**              | Elfo Eterno           | Temporal    | La Espiral del Reloj de Arena      | 5-7       | 🔓        | Accesible desde el inicio                                | Temporal          |
 | 2     | **Ymir el Eterno Invierno**           | Elemental de Hielo    | Dimensional | Glacialis                          | 5-7       | 🔓        | Accesible desde el inicio                                | Menor             |
 | 3     | **Varrak el Oráculo**                 | Orco                  | Temporal    | El Oráculo de los Posibles         | 7-9       | 🔒        | Derrotar 1+ lugarteniente                                | Neutral           |
@@ -95,7 +95,7 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 | 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 9-11      | 🔒        | Derrotar 2+ lugartenientes + Espejo de Realidad (Gemelas o quest) | Neutral   |
 | 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-11      | 🔒        | Espejo de Realidad Fragmentada (de Gemelas) O derrotar Ignis | Independiente |
 | 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | El Valle de los Castillos Malditos | 10-12     | 🔒        | Derrotar 3+ lugartenientes                               | Líder Temporal    |
-| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Dimensional | Archipiélago de Barbanegra         | 11-13     | 🔓        | Rotor Infinito (Serapis/Ymir) → Motor de Viento Perpetuo | Independiente     |
+| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Dimensional | Archipiélago de Barbanegra         | 11-13     | 🔒→🔓     | Bloqueado al inicio → Desbloqueado tras asesinar a Thyra (Sesión 6) | Independiente     |
 | 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 10-12     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales | Menor             |
 | 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 11-13     | 🔒        | Edward Teach O Artefacto Gnomo O Varrak                  | Dimensional       |
 | 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Las Calderas Dimensionales         | 13-15     | 🔒        | Accesible desde inicio pero extremadamente peligrosa     | Líder Dimensional |
@@ -108,14 +108,23 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 
 ## 📊 **RESUMEN ESTADÍSTICO**
 
-**⚠️ ESTADO POST-ASESINATO DE THYRA:**
+**⚠️ ESTADO INICIAL (Sesión 1-5):**
+- **Total Activo**: 10 (1 Líder Supremo + 9 Lugartenientes Principales)
+- **Lugartenientes Temporales (Principales)**: 4 (Serapis, Vorthak, Varrak, Thyra)
+- **Lugartenientes Dimensionales (Principales)**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Lugartenientes Temporales (Menores)**: 2 (Medusa, Tempus)
+- **Lugartenientes Dimensionales (Menores)**: 1 (Ymir)
+- **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Valle de la Aguja Suspendida, Glacialis, Cronópolis)
+- **Regiones Bloqueadas**: 7
+
+**⚠️ ESTADO POST-ASESINATO DE THYRA (Sesión 6+):**
 - **Total Activo**: 9 (1 Líder Supremo + 8 Lugartenientes Principales)
 - **Lugartenientes Temporales (Principales)**: 3 (Serapis, Vorthak, Varrak)
 - **Lugartenientes Dimensionales (Principales)**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
 - **Lugartenientes Temporales (Menores)**: 2 (Medusa, Tempus)
 - **Lugartenientes Dimensionales (Menores)**: 1 (Ymir)
 - **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
-- **Regiones Activas**: 11 (1 caída, 10 explorables)
+- **Regiones Activas**: 10 (1 caída, 9 explorables)
 - **Regiones Desbloqueadas**: 3 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis)
 - **Regiones Bloqueadas**: 7
 
@@ -127,7 +136,7 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 
 ## ⚔️ **LA ASCENSIÓN DEL CÓNCLAVE (SIMPLIFICADA)**
 
-**📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
+**📖 Ver documento completo:** [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)
 
 ### **🎯 Concepto Central**
 
@@ -145,7 +154,7 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes 
 
 ## 🔒 **SISTEMA DE DESBLOQUEOS**
 
-### **🔓 Regiones Desbloqueadas (3 + 1 Centro):**
+### **🔓 Regiones Desbloqueadas Inicialmente (4 + 1 Centro):**
 
 #### **1. La Espiral del Reloj de Arena (Serapis el Retroceso)**
 - **Tipo**: Temporal Principal
@@ -154,15 +163,13 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes 
 - **Mecánica Especial**: Sistema del Contador de Arena (0-20 puntos), TPK controlado obligatorio, 3 reinicios máximo
 - **Bando**: Temporal - "Los Sedientos de Tiempo"
 
-#### **2. Archipiélago de Barbanegra (Edward Teach)**
-- **Tipo**: Dimensional Principal / Independiente
-- **Nivel**: 11-13 ⚠️ **MUY PELIGROSO** (ha asesinado a Thyra y robado su poder)
-- **Acceso**: Técnicamente disponible desde el inicio PERO...
-- **⚠️ Bloqueo Especial**: Mar en Calma (sin viento, imposible navegar)
-- **Desbloqueo**: Necesitas el **Rotor Infinito** (Serapis/Ymir) para que Ingenieros construyan el **Motor de Viento Perpetuo**
-- **Mecánica Especial**: Batalla naval obligatoria (barco gigante intercepta), combate con poderes híbridos (pirata + estasis temporal)
-- **Bando**: Independiente
-- **⚠️ Advertencia**: Es un punto ciego para Varrak (afecta profecías)
+#### **2. Valle de la Aguja Suspendida (Thyra la Suspendida)**
+- **Tipo**: Temporal Principal
+- **Nivel**: 6-8
+- **Acceso**: 🔓 **Disponible desde el inicio** (Sesión 1-5)
+- **⚠️ CAMBIO DE ESTADO**: Se bloquea permanentemente tras el asesinato por Edward Teach (Sesión 6)
+- **Mecánica Especial**: Manipulación temporal avanzada, estasis temporal
+- **Bando**: Temporal (antes de ser asesinada)
 
 #### **3. Glacialis (Ymir el Eterno Invierno)**
 - **Tipo**: Dimensional Menor
@@ -177,9 +184,7 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes 
 - **Acceso**: Disponible desde el inicio
 - **Características**: Único lugar completamente seguro, hub principal, comercio, facciones
 
----
-
-### **🔒 Regiones Bloqueadas por Combate (7):**
+### **🔒 Regiones Bloqueadas Inicialmente (7):**
 
 #### **El Oráculo de los Posibles (Varrak el Oráculo)**
 - **Efecto de Bloqueo**: "Las visiones del futuro confunden a los viajeros, mostrando múltiples caminos que no existen"
@@ -240,15 +245,35 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes 
 - **Tipo**: Dimensional Principal / Líder del Bando Dimensional
 - **Recompensa**: Tesoros de dragón rojo ancestral
 
+### **🔓→🔒 Regiones que Cambian de Estado:**
+
+#### **Archipiélago de Barbanegra (Edward Teach)**
+- **Estado Inicial**: 🔒 **BLOQUEADO** (Sesión 1-5)
+- **Efecto de Bloqueo**: Mar en Calma (sin viento, imposible navegar)
+- **Cambio de Estado**: 🔓 **DESBLOQUEADO** tras asesinar a Thyra (Sesión 6)
+- **Tipo**: Dimensional Principal / Independiente
+- **Nivel**: 11-13 ⚠️ **MUY PELIGROSO** (ha asesinado a Thyra y robado su poder)
+- **Mecánica Especial**: Batalla naval obligatoria (barco gigante intercepta), combate con poderes híbridos (pirata + estasis temporal)
+- **Bando**: Independiente
+- **⚠️ Advertencia**: Es un punto ciego para Varrak (afecta profecías)
+
 ---
 
 ## 🔧 **SISTEMA DE ARTEFACTOS DE DESBLOQUEO**
 
 ### **🔩 Rotor Infinito**
-- **Obtención**: Derrotar a Serapis o Ymir
-- **Desbloquea**: Archipiélago de Barbanegra (Mar en Calma)
-- **Uso**: Ingenieros construyen Motor de Viento Perpetuo
-- **Uso Posterior**: Construir Tren Interdimensional post-campaña
+- **Origen**: Artefacto gnomo creado para conectar **TODAS las regiones** de Chronosia mediante Ferrocarril Universal
+- **Propósito**: Cada región tiene un **pueblo/ciudad menor** por donde pasa el ferrocarril
+- **Objetivo Final**: **Conectar Chronosia con Faerún** - El ferrocarril es la **llave de regreso a casa** para los PJs
+- **Estado Actual**: **Fragmentado** - cada lugarteniente tiene una parte diferente
+- **Componentes**:
+  - **Núcleo Temporal** (Serapis) - El corazón del rotor, genera energía temporal infinita
+  - **Carcasa Helada** (Ymir) - La estructura exterior, estabiliza portales dimensionales
+- **Obtención**: Derrotar a Serapis **Y** Ymir (necesitas ambas partes)
+- **Quest Giver**: **Ingenieros de Cronópolis** (tienen tecnología avanzada de Eberron)
+- **Desbloquea**: Archipiélago de Barbanegra (Mar en Calma) - Solo después de que Teach se desbloquee
+- **Uso Inmediato**: Ingenieros construyen Motor de Viento Perpetuo
+- **Uso Posterior**: Construir Ferrocarril Universal conectando todas las regiones **Y** creando portal a Faerún (post-campaña)
 
 ### **🪞 Espejo de Realidad Fragmentada**
 - **Obtención**: Derrotar a Las Gemelas del Espejo
@@ -324,14 +349,14 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes 
 
 | **Orden** | **Lugarteniente** | **Tipo** | **Nivel** | **Artefacto Obtenido** | **Notas** |
 |-----------|-------------------|----------|-----------|------------------------|-----------|
-| 1 | Serapis el Retroceso | Temporal | 5-7 | Rotor Infinito + Arena del Tiempo | Primera región, mecánica del Reloj de Arena |
-| 2 | Ymir el Eterno Invierno | Dimensional | 5-7 | Rotor Infinito (alternativa) | Menor, relativamente fácil |
+| 1 | Serapis el Retroceso | Temporal | 5-7 | **Núcleo Temporal** (parte 1 del Rotor Infinito) | Primera región, mecánica del Reloj de Arena |
+| 2 | Ymir el Eterno Invierno | Dimensional | 5-7 | **Carcasa Helada** (parte 2 del Rotor Infinito) | Menor, relativamente fácil |
 | 3 | Varrak el Oráculo | Temporal | 7-9 | Visión (si aliado) | **CRÍTICO**: Sesión 11, puede ser aliado |
 | 4 | Medusa la Eterna | Temporal | 8-9 | Objetos de estasis | Menor, región compartida |
 | 5 | Las Gemelas del Espejo | Dimensional | 9-11 | Espejo de Realidad Fragmentada | Neutrales, región compartida |
 | 6 | Dimensionalis la Fracturada | Dimensional | 9-11 | Brújula Dimensional | Requiere Espejo O derrotar Ignis |
 | 7 | Lord Vorthak | Temporal | 10-12 | Objetos de drenaje temporal | Líder Temporal, 4-6 castillos |
-| 8 | Edward Teach | Dimensional | 11-13 | Tesoros piratas + poderes híbridos | Requiere Rotor → Muy peligroso |
+| 8 | Edward Teach | Dimensional | 11-13 | Tesoros piratas + poderes híbridos | **DESBLOQUEADO** tras asesinar a Thyra |
 | 9 | Tempus el Fragmentado | Temporal | 10-12 | Objetos de bucles | Requiere Arena del Tiempo |
 | 10 | Matrona Veldrisza | Dimensional | 11-13 | Hilo de Lolth O Red | Múltiples desbloqueos |
 | 11 | Ignis el Devorador Espacial | Dimensional | 13-15 | Tesoros de dragón ancestral | Boss final antes de Aethernus |
@@ -385,9 +410,15 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 
 ### **🔧 Sistema de Artefactos de Ingeniería:**
 - **Introduce temprano** a los Ingenieros/Gnomos de Cronópolis (sesión 1-2)
-- **Muestra el Rotor Infinito** como recompensa visible al derrotar cierto lugarteniente
-- **Crea una quest secundaria** donde los PJ ayudan a los ingenieros a cambio del Artefacto Gnomo
-- **Post-campaña**: El Tren Interdimensional construido con el Rotor conecta Cronópolis con otra ciudad, mejorando la vida de los habitantes
+- **Quest Givers**: Los ingenieros solicitan componentes específicos a los PJs
+- **Tecnología Avanzada**: Tienen manuales de Eberron (vendidos por Zephyr o encontrados en regiones)
+- **Rotor Infinito**: Necesitas **ambas partes** (Serapis + Ymir) para completarlo
+- **Misiones de Ingenieros**:
+  1. **"Necesitamos el Núcleo Temporal"** → Derrotar a Serapis
+  2. **"Necesitamos la Carcasa Helada"** → Derrotar a Ymir
+  3. **"Construyamos el Motor de Viento"** → Para desbloquear Barbanegra
+  4. **"¡El Ferrocarril Universal está listo!"** → Post-campaña
+- **Post-campaña**: El Ferrocarril Universal conecta **todas las regiones** y crea un **portal a Faerún**. Los PJs pueden **volver a casa** y los habitantes de Abysara empiezan a salir de su aislamiento. Pequeños grupos se establecen en Cronópolis y algunos viajan a Faerún
 
 ---
 
@@ -403,8 +434,10 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 - Mecánicas de recompensas con elección destructiva
 - **Tabla maestra consolidada con niveles reordenados por dificultad real**
 - **Sistema de artefactos expandido a 5 artefactos con desbloqueos múltiples**
+- **Rotor Infinito mejorado**: Historia completa, componentes fragmentados, quest givers, portal a Faerún
 - **Rutas recomendadas con columna de artefactos obtenidos**
 - Región del Reloj de Arena completamente desarrollada con sistema jugable
+- **CRONOLOGÍA CORREGIDA**: Thyra viva al inicio, Teach bloqueado hasta Sesión 6
 
 ### **⏳ Pendiente de Desarrollo:**
 
@@ -422,12 +455,11 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 ---
 
 **📖 Documentos Relacionados:**
-- [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md) - Sistema completo de competencia entre lugartenientes
-- [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) - Acciones legendarias y poderes de cada lugarteniente
+- [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Sistema completo de competencia entre lugartenientes
+- [04_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado.md) - Acciones legendarias y poderes de cada lugarteniente
 - [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Descripción detallada de regiones temporales
 - [11_Regiones_Dimensionales.md](./11_Regiones_Dimensionales.md) - Descripción detallada de regiones dimensionales
 
 ---
 
 *Esta guía consolidada proporciona toda la información necesaria sobre geografía, regiones, lugartenientes, sistema de bloqueos y estrategias de exploración para dirigir la campaña Chronosia de manera coherente y emocionante.*
-

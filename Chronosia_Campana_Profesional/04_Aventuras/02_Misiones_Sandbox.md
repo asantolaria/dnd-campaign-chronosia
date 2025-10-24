@@ -3,6 +3,16 @@
 
 ---
 
+> **📖 PROPÓSITO DE ESTE DOCUMENTO:**
+> - Este archivo describe las **misiones como aventuras jugables** con objetivos, recompensas y mecánicas específicas
+> - Para **información geográfica y narrativa** de las regiones, consulta:
+>   - [../03_Regiones/10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
+>   - [../03_Regiones/11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
+> - Para **información sobre lugartenientes y poderes**, consulta:
+>   - [../02_Guia_DM/08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md)
+
+---
+
 ## 📋 **ÍNDICE DE NAVEGACIÓN**
 
 ### **🎯 Información General**
