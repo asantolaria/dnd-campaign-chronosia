@@ -11,6 +11,10 @@
 - [Eventos Espaciales Aleatorios](#-eventos-espaciales-aleatorios)
 - [Tabla de Distorsiones Espaciales (1d12)](#-tabla-de-distorsiones-espaciales-1d12)
 
+### **⚖️ Efectos de Desbalance**
+- [Tabla de Efectos por Desbalance](#-tabla-de-efectos-por-desbalance)
+- [Sistema de Lanzamientos por Nivel](#-sistema-de-lanzamientos-por-nivel)
+
 ### **🌊 Los Gritos de los Dioses**
 - [Los Gritos de los Dioses en Conflicto](#-los-gritos-de-los-dioses-en-conflicto)
 - [Tabla de Gritos de Amaunator y Voidar (1d10)](#-tabla-de-gritos-de-amaunator-y-voidar-1d10)
@@ -218,4 +222,98 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 
 ---
 
-*Última actualización: [Fecha actual] - Tablas de eventos integradas*
+## ⚖️ **TABLA DE EFECTOS POR DESBALANCE**
+
+### **🎯 Concepto Simplificado**
+Cuando hay desbalance entre lugartenientes temporales y dimensionales derrotados, los PJ sufren efectos aleatorios que afectan su día a día. **Cuanto mayor sea el desbalance, más veces hay que lanzar en la tabla**.
+
+### **📊 Sistema de Lanzamientos por Nivel**
+
+| **Nivel de Desbalance** | **Diferencia** | **Lanzamientos por Sesión** | **Momento de Lanzamiento** |
+|-------------------------|----------------|----------------------------|----------------------------|
+| 🟢 **Equilibrio** | 0-1 | **0** | Ninguno |
+| 🟡 **Menor** | 2 | **1d4** | Al inicio de cada sesión |
+| 🟠 **Moderado** | 3 | **1d6** | Al inicio + cada 2 horas |
+| 🔴 **Crítico** | 4+ | **1d8** | Al inicio + cada hora + eventos importantes |
+
+### **🎲 Tabla de Efectos de Desbalance (1d20)**
+
+| d20 | Efecto de Desbalance | Duración | Tipo |
+|-----|----------------------|----------|------|
+| 1 | **Fatiga Temporal**: Los PJ están cansados. Desventaja en todas las tiradas de Fuerza y Destreza por 1 hora. | 1 hora | Temporal |
+| 2 | **Confusión Espacial**: Los PJ se desorientan. Desventaja en tiradas de Sabiduría (Percepción) y navegación por 30 minutos. | 30 min | Espacial |
+| 3 | **Disfunción Mágica**: Los hechizos fallan aleatoriamente (25% de probabilidad) por 2 horas. | 2 horas | Mágico |
+| 4 | **Restricción de Descanso**: Los PJ no pueden hacer descanso largo en Cronópolis por 1 día. | 1 día | Restricción |
+| 5 | **Portal Inestable**: Los portales fallan (50% de probabilidad) por 4 horas. | 4 horas | Viaje |
+| 6 | **Envejecimiento Aleatorio**: Un PJ envejece o rejuvenece 1d4 años aleatoriamente. | Permanente | Temporal |
+| 7 | **Prohibición de Hechizos**: Un PJ no puede usar hechizos de un nivel específico (1d4) por 1 día. | 1 día | Mágico |
+| 8 | **Distorsión de Gravedad**: La gravedad cambia aleatoriamente en Cronópolis por 1 hora. | 1 hora | Espacial |
+| 9 | **Nivel de Agotamiento**: Todos los PJ ganan 1 nivel de agotamiento que dura 1 día. | 1 día | Físico |
+| 10 | **Acceso Denegado**: Los PJ no pueden acceder a ciertos distritos de Cronópolis por 1 día. | 1 día | Restricción |
+| 11 | **Bucle Temporal Menor**: Los PJ repiten los últimos 10 minutos de acciones por 1 hora. | 1 hora | Temporal |
+| 12 | **Compresión Espacial**: Las distancias se duplican en Cronópolis por 2 horas. | 2 horas | Espacial |
+| 13 | **Fallo de Objetos Mágicos**: Los objetos mágicos fallan aleatoriamente (33% de probabilidad) por 3 horas. | 3 horas | Mágico |
+| 14 | **Restricción de Comercio**: Los comerciantes no venden a los PJ por 1 día. | 1 día | Social |
+| 15 | **Portal Erróneo**: Los portales llevan a lugares incorrectos (25% de probabilidad) por 6 horas. | 6 horas | Viaje |
+| 16 | **Estasis Temporal**: Un PJ queda paralizado temporalmente por 1d4 rondas. | 1d4 rondas | Temporal |
+| 17 | **Fractura Dimensional**: Aparecen grietas en el espacio que causan 1d6 daño por contacto por 1 hora. | 1 hora | Espacial |
+| 18 | **Prohibición Total de Magia**: Los PJ no pueden usar magia por 2 horas. | 2 horas | Mágico |
+| 19 | **Exilio Temporal**: Los PJ son expulsados de Cronópolis por 1 día. | 1 día | Restricción |
+| 20 | **Catástrofe Menor**: Combinación de 3 efectos aleatorios de la tabla. | Variable | Múltiple |
+
+### **📝 Instrucciones de Uso**
+
+#### **Cuándo Lanzar:**
+- **Al inicio de cada sesión** (según el nivel de desbalance)
+- **Cada 2 horas** (desbalance moderado)
+- **Cada hora** (desbalance crítico)
+- **En eventos importantes** (desbalance crítico)
+
+#### **Cómo Aplicar los Efectos:**
+1. **Lanza el dado** según el nivel de desbalance
+2. **Aplica el efecto** inmediatamente
+3. **Anota la duración** y el tipo de efecto
+4. **Informa a los PJ** sobre el efecto y su causa
+5. **Usa los explicadores** (Zephyr, Varrak, Capitán Marcus) para explicar por qué ocurre
+
+#### **Ejemplos de Uso:**
+
+**Desbalance Menor (Diferencia 2):**
+- Al inicio de sesión: Lanza 1d4 → 3 lanzamientos
+- Efectos: 1d20 = 4 (Restricción de Descanso), 1d20 = 12 (Compresión Espacial), 1d20 = 7 (Prohibición de Hechizos)
+
+**Desbalance Crítico (Diferencia 4+):**
+- Al inicio de sesión: Lanza 1d8 → 6 lanzamientos
+- Cada hora: Lanza 1d8 → 3 lanzamientos más
+- En evento importante: Lanza 1d8 → 2 lanzamientos más
+- **Total**: 11 efectos activos simultáneamente
+
+### **🎭 Integración Narrativa**
+
+#### **Explicaciones de los Explicadores:**
+
+**Zephyr (Desbalance Temporal):**
+*"El equilibrio se rompe hacia lo temporal. Amaunator se debilita, y el tiempo se vuelve caótico. Estos efectos son manifestaciones de su agonía."*
+
+**Varrak (Desbalance Dimensional):**
+*"Veo el espacio fracturándose. Voidar pierde poder, y las dimensiones se vuelven inestables. Estos efectos son ecos de su sufrimiento."*
+
+**Capitán Marcus (Desbalance Crítico):**
+*"Nuestros dispositivos fallan. El equilibrio está roto, y Chronosia se desmorona. Estos efectos son solo el principio de la catástrofe."*
+
+### **⚖️ Restauración del Equilibrio**
+
+#### **Efectos que Mejoran con el Equilibrio:**
+- **Diferencia 3→2**: Reduce lanzamientos de 1d6 a 1d4
+- **Diferencia 2→1**: Reduce lanzamientos de 1d4 a 0
+- **Diferencia 1→0**: Elimina todos los efectos activos
+
+#### **Motivación para los PJ:**
+- **Los efectos empeoran** si no mantienen el equilibrio
+- **Los efectos mejoran** cuando restauran el equilibrio
+- **La tabla proporciona feedback inmediato** sobre sus acciones
+- **Los explicadores pueden predecir** qué efectos ocurrirán
+
+---
+
+*Última actualización: Diciembre 2025 - Sistema de efectos de desbalance simplificado e implementado*

@@ -109,28 +109,90 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 ## 📊 **RESUMEN ESTADÍSTICO**
 
 **⚠️ ESTADO INICIAL (Sesión 1-5):**
-- **Total Activo**: 10 (1 Líder Supremo + 9 Lugartenientes Principales)
-- **Lugartenientes Temporales (Principales)**: 4 (Serapis, Vorthak, Varrak, Thyra)
+- **Total Activo**: 11 (1 Líder Supremo + 8 Lugartenientes Principales + 3 Menores/Opcionales)
+- **Lugartenientes Principales Activos**: 8 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Lugartenientes Temporales (Principales)**: 3 (Serapis, Varrak, Vorthak)
 - **Lugartenientes Dimensionales (Principales)**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
 - **Lugartenientes Temporales (Menores)**: 2 (Medusa, Tempus)
 - **Lugartenientes Dimensionales (Menores)**: 1 (Ymir)
+- **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - viva al inicio, asesinada por Edward Teach en Sesión 6)
 - **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Valle de la Aguja Suspendida, Glacialis, Cronópolis)
 - **Regiones Bloqueadas**: 7
 
 **⚠️ ESTADO POST-ASESINATO DE THYRA (Sesión 6+):**
-- **Total Activo**: 9 (1 Líder Supremo + 8 Lugartenientes Principales)
-- **Lugartenientes Temporales (Principales)**: 3 (Serapis, Vorthak, Varrak)
+- **Total Activo**: 10 (1 Líder Supremo + 8 Lugartenientes Principales + 3 Menores/Opcionales)
+- **Lugartenientes Principales Activos**: 8 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Lugartenientes Temporales (Principales)**: 3 (Serapis, Varrak, Vorthak)
 - **Lugartenientes Dimensionales (Principales)**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
 - **Lugartenientes Temporales (Menores)**: 2 (Medusa, Tempus)
 - **Lugartenientes Dimensionales (Menores)**: 1 (Ymir)
 - **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
-- **Regiones Activas**: 10 (1 caída, 9 explorables)
-- **Regiones Desbloqueadas**: 3 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis)
+- **Regiones Activas**: 11 (1 caída, 10 explorables)
+- **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis, Cronópolis)
 - **Regiones Bloqueadas**: 7
 
 **⚖️ Balance Crítico:**
 - **Temporales vs Dimensionales**: 3 vs 5 (desequilibrio hacia dimensional)
 - **Estrategia Recomendada**: Derrotar al menos 2 dimensionales antes de enfrentar más temporales
+- **⚠️ MECÁNICAS DE DESBALANCE**: El desequilibrio afecta directamente a los PJ (ver sistema de niveles de desbalance)
+
+---
+
+## ⚖️ **SISTEMA DE NIVELES DE DESBALANCE**
+
+### **🎯 Concepto Central**
+El equilibrio entre lugartenientes temporales y dimensionales es crítico para la estabilidad de Chronosia. Cuando los PJ derrotan demasiados de un tipo sin equilibrar con el otro, el mundo se vuelve inestable y afecta directamente su capacidad de viajar, descansar y acceder a recursos.
+
+### **📊 Cálculo del Desbalance**
+- **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
+- **Ejemplo**: Si derrotan 2 temporales y 0 dimensionales → Diferencia = 2 (Desbalance Moderado)
+
+### **🔴 Niveles de Desbalance**
+
+#### **🟢 EQUILIBRIO (Diferencia 0-1)**
+- **Estado**: Todo funciona normalmente
+- **Cronópolis**: Completamente seguro y estable
+- **Viajes**: Sin problemas, portales funcionan al 100%
+- **Descanso**: Descanso largo disponible sin restricciones
+- **Recursos**: Comerciantes y NPCs funcionan normalmente
+
+#### **🟡 DESBALANCE MENOR (Diferencia 2)**
+- **Lanzamientos**: 1d4 efectos por sesión
+- **Momento**: Al inicio de cada sesión
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+#### **🟠 DESBALANCE MODERADO (Diferencia 3)**
+- **Lanzamientos**: 1d6 efectos por sesión
+- **Momento**: Al inicio + cada 2 horas
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+#### **🔴 DESBALANCE CRÍTICO (Diferencia 4+)**
+- **Lanzamientos**: 1d8 efectos por sesión
+- **Momento**: Al inicio + cada hora + eventos importantes
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+### **👥 Explicadores del Balance**
+
+#### **🔮 Zephyr (Anacronistas) - Explicador Principal**
+*"Escuchad, jóvenes. Chronosia existe en un equilibrio precario entre dos fuerzas fundamentales: el Tiempo y el Espacio. Amaunator y Voidar, aunque prisioneros, siguen luchando. Su poder se filtra a través de sus lugartenientes."*
+
+*"Si derrotáis demasiados lugartenientes temporales sin equilibrar con los dimensionales, Amaunator se debilitará. El tiempo se volverá caótico, los portales temporales fallarán, y Cronópolis perderá su estabilidad."*
+
+*"Si derrotáis demasiados dimensionales sin equilibrar con los temporales, Voidar se debilitará. El espacio se fracturará, los portales dimensionales se volverán inestables, y las distancias cambiarán aleatoriamente."*
+
+*"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
+
+#### **🔮 Varrak del Horizonte - Confirmación Visual**
+*"Veo futuros donde el equilibrio se rompe. En uno, derrotáis a todos los lugartenientes temporales primero. El tiempo se detiene, Cronópolis se congela, y vosotros quedáis atrapados en estasis eterna."*
+
+*"En otro, derrotáis a todos los dimensionales primero. El espacio se colapsa, Cronópolis se fractura, y vosotros desaparecéis en el vacío dimensional."*
+
+*"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente."*
+
+#### **⚙️ Capitán Marcus (Relojeros Negros) - Advertencias Tecnológicas**
+*"Nuestros sensores detectan anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
+
+*"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
 
 ---
 

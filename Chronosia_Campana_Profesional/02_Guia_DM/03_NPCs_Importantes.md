@@ -3,6 +3,79 @@
 
 ---
 
+## ⚖️ **EXPLICADORES DEL BALANCE**
+
+### **🔮 Zephyr (Anacronistas) - Explicador Principal**
+
+**Descripción**: Humano anciano con túnica azul y ojos que brillan con sabiduría temporal. Líder de los Anacronistas, una facción dedicada a mantener el equilibrio entre tiempo y espacio.
+
+**Función**: Explicador principal de la teoría del balance temporal/dimensional.
+
+**Diálogos Clave**:
+
+#### **Primera Explicación del Balance**
+*"Escuchad, jóvenes. Chronosia existe en un equilibrio precario entre dos fuerzas fundamentales: el Tiempo y el Espacio. Amaunator y Voidar, aunque prisioneros, siguen luchando. Su poder se filtra a través de sus lugartenientes."*
+
+*"Si derrotáis demasiados lugartenientes temporales sin equilibrar con los dimensionales, Amaunator se debilitará. El tiempo se volverá caótico, los portales temporales fallarán, y Cronópolis perderá su estabilidad."*
+
+*"Si derrotáis demasiados dimensionales sin equilibrar con los temporales, Voidar se debilitará. El espacio se fracturará, los portales dimensionales se volverán inestables, y las distancias cambiarán aleatoriamente."*
+
+*"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
+
+#### **Advertencia de Desbalance Menor**
+*"Veo que habéis derrotado más lugartenientes de un tipo que del otro. Las distorsiones se están volviendo más visibles. Cronópolis ya no es completamente estable."*
+
+#### **Advertencia de Desbalance Moderado**
+*"El equilibrio se está rompiendo. Las distorsiones son evidentes, y los portales fallan con frecuencia. Si continuáis así, las consecuencias serán graves."*
+
+#### **Advertencia de Desbalance Crítico**
+*"¡Es demasiado tarde! El equilibrio está roto. Cronópolis se vuelve inestable, y pronto no habrá lugar seguro en todo Chronosia. Debéis actuar ahora para restaurar el equilibrio."*
+
+### **🔮 Varrak del Horizonte - Confirmación Visual**
+
+**Descripción**: Orco anciano con ojos que brillan con visiones del futuro. Lugarteniente neutral que puede ver múltiples futuros y decidir su alineación en la Sesión 11.
+
+**Función**: Confirmación visual del balance con visiones del futuro.
+
+**Diálogos Clave**:
+
+#### **Visión del Futuro Catastrófico (Desbalance Temporal)**
+*"Veo futuros donde el equilibrio se rompe. En uno, derrotáis a todos los lugartenientes temporales primero. El tiempo se detiene, Cronópolis se congela, y vosotros quedáis atrapados en estasis eterna."*
+
+#### **Visión del Futuro Catastrófico (Desbalance Dimensional)**
+*"En otro, derrotáis a todos los dimensionales primero. El espacio se colapsa, Cronópolis se fractura, y vosotros desaparecéis en el vacío dimensional."*
+
+#### **Visión del Futuro Correcto**
+*"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente. Ese es el futuro que debéis elegir."*
+
+#### **Advertencia de Desbalance Moderado**
+*"Mis visiones se vuelven más claras. Veo múltiples futuros donde el equilibrio se rompe. Debéis actuar pronto para evitar la catástrofe."*
+
+### **⚙️ Capitán Marcus (Relojeros Negros) - Advertencias Tecnológicas**
+
+**Descripción**: Humano militar con uniforme negro y dispositivos tecnológicos avanzados. Líder de los Relojeros Negros, una facción que usa tecnología para combatir las distorsiones.
+
+**Función**: Advertencias tecnológicas sobre el desbalance con datos concretos.
+
+**Diálogos Clave**:
+
+#### **Primera Advertencia Tecnológica**
+*"Nuestros sensores detectan anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
+
+#### **Advertencia de Desbalance Menor**
+*"Los sensores muestran pequeñas fluctuaciones en el equilibrio. Los dispositivos anti-distorsión funcionan al 90% de eficiencia."*
+
+#### **Advertencia de Desbalance Moderado**
+*"Las anomalías son evidentes. Los dispositivos anti-distorsión funcionan al 75% de eficiencia. Algunos sistemas fallan ocasionalmente."*
+
+#### **Advertencia de Desbalance Crítico**
+*"¡CRÍTICO! Los dispositivos anti-distorsión funcionan al 50% de eficiencia. Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
+
+#### **Advertencia de Desbalance Extremo**
+*"¡FALLO INMINENTE! Los dispositivos anti-distorsión fallarán en las próximas horas. Cronópolis será completamente inestable. Debéis restaurar el equilibrio AHORA o todos moriremos."*
+
+---
+
 ## 🌍 **PERSONAJES DE FAERÛN**
 
 ### **🕰️ Maestro Thaddeus Ironwright - El Relojero Asesinado**

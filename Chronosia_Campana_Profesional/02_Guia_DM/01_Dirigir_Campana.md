@@ -18,12 +18,14 @@
 - **Fase Sandbox**: 5→13 (derrotar 8 lugartenientes principales)
 - **Clímax**: 13→15 (batalla contra Aethernus)
 
-### **⚠️ IMPORTANTE - NO HAY SELECCIÓN DE LUGARTENIENTES**
+### **⚠️ IMPORTANTE - SISTEMA DE BALANCE CRÍTICO**
 La campaña tiene **8 lugartenientes principales activos** fijos:
 - **3 Temporales**: Serapis, Varrak, Vorthak
 - **5 Dimensionales**: Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas
 - **3 Menores Opcionales**: Medusa, Tempus, Ymir
 - **1 Caído**: Thyra (asesinada por Edward Teach)
+
+**⚠️ BALANCE INICIAL**: 3 temporales vs 5 dimensionales = **Desequilibrio intencional**
 
 **Ver tabla completa en:** [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
@@ -33,7 +35,86 @@ La campaña tiene **8 lugartenientes principales activos** fijos:
 - [ ] Revisar [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 - [ ] Preparar hoja de seguimiento de puntos de ascensión
 - [ ] Preparar encuentros para niveles 5-15
-- [ ] Familiarizarse con sistema de balance temporal/dimensional
+- [ ] **Familiarizarse con sistema de balance temporal/dimensional**
+- [ ] **Preparar hoja de seguimiento del desbalance**
+- [ ] **Memorizar diálogos de explicadores del balance**
+
+---
+
+## ⚖️ **SISTEMA DE BALANCE TEMPORAL/DIMENSIONAL**
+
+### **🎯 Concepto Central**
+El equilibrio entre lugartenientes temporales y dimensionales es crítico para la estabilidad de Chronosia. Cuando los PJ derrotan demasiados de un tipo sin equilibrar con el otro, el mundo se vuelve inestable y afecta directamente su capacidad de viajar, descansar y acceder a recursos.
+
+### **📊 Cálculo del Desbalance**
+- **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
+- **Ejemplo**: Si derrotan 2 temporales y 0 dimensionales → Diferencia = 2 (Desbalance Moderado)
+
+### **🔴 Niveles de Desbalance**
+
+#### **🟢 EQUILIBRIO (Diferencia 0-1)**
+- **Estado**: Todo funciona normalmente
+- **Cronópolis**: Completamente seguro y estable
+- **Viajes**: Sin problemas, portales funcionan al 100%
+- **Descanso**: Descanso largo disponible sin restricciones
+- **Recursos**: Comerciantes y NPCs funcionan normalmente
+
+#### **🟡 DESBALANCE MENOR (Diferencia 2)**
+- **Lanzamientos**: 1d4 efectos por sesión
+- **Momento**: Al inicio de cada sesión
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+#### **🟠 DESBALANCE MODERADO (Diferencia 3)**
+- **Lanzamientos**: 1d6 efectos por sesión
+- **Momento**: Al inicio + cada 2 horas
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+#### **🔴 DESBALANCE CRÍTICO (Diferencia 4+)**
+- **Lanzamientos**: 1d8 efectos por sesión
+- **Momento**: Al inicio + cada hora + eventos importantes
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+### **👥 Explicadores del Balance**
+
+#### **🔮 Zephyr (Anacronistas) - Explicador Principal**
+*"Escuchad, jóvenes. Chronosia existe en un equilibrio precario entre dos fuerzas fundamentales: el Tiempo y el Espacio. Amaunator y Voidar, aunque prisioneros, siguen luchando. Su poder se filtra a través de sus lugartenientes."*
+
+*"Si derrotáis demasiados lugartenientes temporales sin equilibrar con los dimensionales, Amaunator se debilitará. El tiempo se volverá caótico, los portales temporales fallarán, y Cronópolis perderá su estabilidad."*
+
+*"Si derrotáis demasiados dimensionales sin equilibrar con los temporales, Voidar se debilitará. El espacio se fracturará, los portales dimensionales se volverán inestables, y las distancias cambiarán aleatoriamente."*
+
+*"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
+
+#### **🔮 Varrak del Horizonte - Confirmación Visual**
+*"Veo futuros donde el equilibrio se rompe. En uno, derrotáis a todos los lugartenientes temporales primero. El tiempo se detiene, Cronópolis se congela, y vosotros quedáis atrapados en estasis eterna."*
+
+*"En otro, derrotáis a todos los dimensionales primero. El espacio se colapsa, Cronópolis se fractura, y vosotros desaparecéis en el vacío dimensional."*
+
+*"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente."*
+
+#### **⚙️ Capitán Marcus (Relojeros Negros) - Advertencias Tecnológicas**
+*"Nuestros sensores detectan anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
+
+*"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
+
+### **📝 Hoja de Seguimiento del Desbalance**
+
+**Lugartenientes Derrotados:**
+- **Temporales**: ___ (Serapis, Varrak, Vorthak, Medusa, Tempus)
+- **Dimensionales**: ___ (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
+
+**Cálculo:**
+- **Diferencia**: |Temporales - Dimensionales| = ___
+- **Nivel de Desbalance**: ___ (Equilibrio/Menor/Moderado/Crítico)
+
+**Efectos Activos:**
+- [ ] Cronópolis estable
+- [ ] Distorsiones menores visibles
+- [ ] Distorsiones moderadas visibles
+- [ ] Cronópolis inestable
+- [ ] Fallos en portales (10%/25%/50%)
+- [ ] Restricciones de descanso
+- [ ] Envejecimiento/rejuvenecimiento aleatorio
 
 ---
 

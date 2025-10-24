@@ -48,9 +48,9 @@
 - Las alianzas y traiciones están ocurriendo sin conocimiento del líder supremo
 
 **Documentos Actualizados con esta Información:**
-- ⭐ `08_Cronofagos_Detallado.md` - Sección de Aethernus Valcarys
-- ⭐ `09_La_Ascension_del_Conclave.md` - Concepto Central
-- ⭐ `06_Facciones_Organizaciones.md` - La Verdadera Motivación
+- ⭐ `04_Cronofagos_Detallado.md` - Sección de Aethernus Valcarys
+- ⭐ `05_La_Ascension_del_Conclave.md` - Concepto Central
+- ⭐ `02_Facciones_Organizaciones.md` - La Verdadera Motivación
 
 ---
 
@@ -58,6 +58,11 @@
 - [x] **Sistema de Restricciones Dimensionales**: Sistema de estados de acceso implementado (3 regiones desbloqueadas, 9 bloqueadas) ✅
 - [x] **Progresión de Acceso**: Sistema básico de desbloqueo implementado (niveles 1-3 desbloqueadas, niveles 4-8 bloqueadas) ✅
 - [ ] **17_Monstruos_Enemigos.md**: Crear statblocks completos para los 8 lugartenientes principales activos (Serapis, Varrak, Vorthak, Edward Teach, Dimensionalis, Ignis, Veldrisza, Gemelas) + 3 menores (Medusa, Tempus, Ymir)
+- [x] **Simulación de Campaña**: Crear herramienta de simulación que muestre cómo avanza la campaña según desbloqueos, enfrentamientos entre lugartenientes y eventos de La Ascensión del Cónclave ✅
+- [x] **Análisis de Desbloqueos**: Analizar sistema de desbloqueos de regiones y progresión de niveles ✅
+- [x] **Simulación del Cónclave**: Simular eventos de ascensión del Cónclave y competencia entre lugartenientes ✅
+- [x] **Simulación de Edward Teach**: Simular las acciones secretas de Edward Teach y creación del Talismán ✅
+- [x] **Simulación de Balance**: Simular mecánicas de balance temporal/dimensional y sus consecuencias ✅
 - [ ] Sistema de reputación con facciones
 - [ ] Mecánicas de corrupción temporal/espacial (opcional)
 - [ ] Desarrollar la Torre de la Eternidad (sede de Aethernus Valcarys)
@@ -82,14 +87,14 @@
 - [ ] **El Jardín de los Tiempos Gemelos**: Dar protagonismo a Las Gemelas del Espejo como dueñas, Medusa pasa a ser aliada menor
 
 #### **🔧 Nuevos Sistemas de Artefactos y Desbloqueos:**
-- [ ] **Rotor Infinito (Serapis/Ymir)**: Diseñar objeto completo, estadísticas, descripción visual, mecánicas para entregarlo a Ingenieros
+- [x] **Rotor Infinito (Serapis/Ymir)**: Diseñar objeto completo, estadísticas, descripción visual, mecánicas para entregarlo a Ingenieros ✅
 - [ ] **Espejo de Realidad Fragmentada (Las Gemelas)**: Diseñar artefacto que estabiliza espacio fracturado de Dimensionalis
 - [ ] **Arena del Tiempo Estabilizada (Serapis)**: Diseñar artefacto que permite entrar en bucles temporales sin quedar atrapado
 - [ ] **Excavadora Dimensional (Gnomos)**: Diseñar artefacto gnomo completo, quest de obtención, materiales necesarios
 - [ ] **Visión de Varrak (Varrak)**: Desarrollar escena completa donde Varrak muestra entrada secreta a Ciudad Subterránea
 - [ ] **Archipiélago de Barbanegra**: Crear mecánica del "Mar en Calma" (sin viento), diseñar Motor de Viento Perpetuo, mecánicas de navegación
 - [ ] **Batalla Naval de Edward Teach**: Diseñar mecánicas específicas de batalla naval (interceptación obligatoria, abordaje, combate en barco gigante, dificultad de movimiento en cubierta, poderes híbridos pirata+estasis)
-- [ ] **Sistema de Construcción del Tren Interdimensional**: Mecánicas post-campaña usando Rotor Infinito para conectar ciudades
+- [x] **Sistema de Construcción del Ferrocarril Universal**: Mecánicas post-campaña usando Rotor Infinito para conectar todas las regiones y crear portal a Faerún ✅
 
 #### **⏰ La Espiral del Reloj de Arena (Serapis) - Desarrollo Completo:**
 - [x] **Sistema del Contador de Arena**: Mecánica principal implementada (0-20 puntos) ✅
@@ -201,7 +206,7 @@
   - [x] **Ejemplo de Sesión Completa**: Sesión 8 con 4 eventos y cálculo de puntos ✅
 - [x] **🗑️ LIMPIEZA DE ARCHIVOS OBSOLETOS**: Eliminación de archivos con contenido redundante u obsoleto ✅
   - [x] **08_Mecanicas_Especiales.md**: ELIMINADO (218 líneas, 75% obsoleto con lugartenientes fantasma) ✅
-  - [ ] **09_La_Ascension_del_Conclave.md**: Pendiente eliminar redundancia con 22_Eventos (tabla d12, tabla de seguimiento)
+  - [x] **05_La_Ascension_del_Conclave.md**: Actualizado para referenciar 06_Eventos_Ascension_Conclave.md ✅
 - [x] **⭐⭐⭐⭐⭐⭐ CLÍMAX ÉPICO Y REVELACIONES**: Desarrollo completo del final de la campaña con múltiples desenlaces ✅
 - [x] **⭐⭐⭐⭐⭐⭐⭐ TALISMÁN DE INTERCEPTACIÓN Y LOS NAUTILUS**: Sistema completo del arma secreta de Edward Teach ✅
 - [x] **⭐⭐⭐⭐⭐⭐⭐⭐ CRONOLOGÍA MAESTRA DE LA CAMPAÑA**: Documento único con línea temporal completa (Sesiones 1-15) ✅
@@ -253,7 +258,62 @@
   - [x] **Tabla de Progresión de Niveles**: Niveles 3-15 con método de subida ✅
   - [x] **Eventos Fijos vs Variables**: Clarificación de qué eventos DEBEN ocurrir vs cuáles dependen de los PJ ✅
   - [x] **Eliminación de Redundancias**: 22_Eventos y 24_Talisman actualizados para referenciar al documento maestro ✅
+  - [x] **⭐⭐⭐⭐⭐⭐⭐⭐⭐ CORRECCIÓN DE CRONOLOGÍA Y MEJORAS ÉPICAS**: Actualización completa de documentos de regiones ✅
+    - [x] **Corrección de Tabla de Desbloqueos**: Thyra viva al inicio (Sesión 1-5), Teach bloqueado hasta Sesión 6 ✅
+    - [x] **Actualización 08_Geografia_y_Regiones_de_Chronosia.md**: Estados correctos, cronología coherente ✅
+    - [x] **Actualización 10_Regiones_Temporales.md**: Thyra disponible al inicio, se bloquea tras asesinato ✅
+    - [x] **Actualización 11_Regiones_Dimensionales.md**: Teach bloqueado al inicio, se desbloquea tras asesinar a Thyra ✅
+    - [x] **Rotor Infinito Mejorado**: Historia completa, componentes fragmentados (Núcleo Temporal + Carcasa Helada) ✅
+    - [x] **Ferrocarril Universal**: Conecta todas las regiones Y crea portal a Faerún (llave de regreso para PJs) ✅
+    - [x] **Abysara como Sociedad Aislada**: Historia completa de represión, odio hacia superficie, evidencia histórica ✅
+    - [x] **Conexión Anacronistas-Abysara**: Origen del Cronómetro, tecnología Nautilus, escape a superficie ✅
+    - [x] **Ventaja de Teach**: Asimilar poderes vs repartir como Manshoon, tecnología combinada ✅
+    - [x] **Quest Givers Ingenieros**: Misiones específicas para obtener componentes del Rotor Infinito ✅
 
 ---
 
-*Última actualización: 24 de octubre de 2025 - **DOCUMENTOS CON ENTIDAD PROPIA**: Convertidos READMEs críticos en documentos principales con numeración 00_ para máxima visibilidad. Creados `00_Guia_Navegacion_DM.md` (5,709 bytes) y `00_Estructura_Campana.md` (7,252 bytes) con toda la información crítica de navegación del DM. Eliminados READMEs antiguos. **BENEFICIOS**: Los documentos ahora tienen entidad propia, son fácilmente referenciables desde otros documentos, imposibles de pasar por alto, y contienen toda la información crítica para que el DM nunca se pierda. **REORGANIZACIÓN COMPLETA DE ESTRUCTURA DE DOCUMENTOS**: Implementada nueva estructura numerada lógica (01-10) para eliminar confusión del DM. Renombrados todos los documentos: `05_Dirigir_Campana.md` → `01_Dirigir_Campana.md`, `06_Facciones_Organizaciones.md` → `02_Facciones_Organizaciones.md`, `07_NPCs_Importantes.md` → `03_NPCs_Importantes.md`, `08_Cronofagos_Detallado.md` → `04_Cronofagos_Detallado.md`, `09_La_Ascension_del_Conclave.md` → `05_La_Ascension_del_Conclave.md`, `22_Eventos_Ascension_Conclave.md` → `06_Eventos_Ascension_Conclave.md`, `25_Cronologia_Maestra_Campana.md` → `07_Cronologia_Maestra_Campana.md`, `24_El_Talisman_de_Interceptacion.md` → `08_El_Talisman_de_Interceptacion.md`, `23_Escenas_de_Revelacion.md` → `09_Escenas_de_Revelacion.md`, `26_Kaelthas_El_Relojero_Roto.md` → `10_Kaelthas_El_Relojero_Roto.md`. Renombradas aventuras: `12_Mision_Inicial.md` → `01_Mision_Inicial.md`, `13_Misiones_Sandbox.md` → `02_Misiones_Sandbox.md`, `14_Climax.md` → `03_Climax.md`. **ACTUALIZADAS REFERENCIAS INTERNAS**: Todos los links internos actualizados para reflejar nueva numeración. **BENEFICIOS**: El DM ahora tiene navegación clara, flujo de trabajo definido, y nunca se perderá con la trama paralela. Estructura escalable y mantenible. **INTEGRACIÓN COMPLETA DE KAELTHAS EN MISIÓN INICIAL**: Actualizado `01_Mision_Inicial.md` (680+ líneas) - Reemplazado "Cronófago Asesino" genérico con Kaelthas el Relojero Roto. Incluye: statblock completo (CR 6), tácticas de combate por fases, guarida en relojería abandonada (Calle de los Engranajes #47), Tiber capturado, últimas palabras trágicas, encuentro con Zephyr y los Anacronistas, diálogo completo de reclutamiento, recompensas actualizadas (Reloj de Bolsillo Destrozado mágico), transición al portal a Chronosia. Añadidos consejos de DM específicos sobre cómo manejar *Reversión Temporal* y el balance de combate. MISIÓN 1 AHORA COMPLETAMENTE FUNCIONAL para jugar. **CRONOLOGÍA MAESTRA Y CORRECCIÓN NARRATIVA CRÍTICA**: Creado `25_Cronologia_Maestra_Campana.md` (1100+ líneas) - DOCUMENTO ÚNICO que consolida toda la línea temporal de la campaña (Sesiones 1-15). Incluye: 5 fases de la campaña (Railroad Inicial, Robos y Traición, Sandbox Inicial, Sandbox Avanzado, Clímax), sesión por sesión con eventos fijos vs variables, tabla de desbloqueo de 13 regiones con timing exacto, progresión de niveles 3-15, todos los eventos catalizadores claramente marcados. Actualizados `22_Eventos_Ascension_Conclave.md` y `24_El_Talisman_de_Interceptacion.md` para referenciar al maestro y eliminar redundancias. **CORRECCIÓN CRÍTICA**: ELIMINADA "La Proclamación de Aethernus" - Manshoon NO proclama la competencia (está recluido e ignorante). La guerra entre lugartenientes surge ESPONTÁNEAMENTE después del asesinato de Thyra. Cada lugarteniente reacciona según su personalidad (Vorthak ve oportunidad, Serapis ve amenaza, Teach aprovecha el caos, Varrak busca aliados buenos). Actualizado `09_La_Ascension_del_Conclave.md` con 8 escenas de reacciones individuales de lugartenientes + 3 formas de que los PJ se enteren (rumores Anacronistas, encuentro con lugarteniente, visión mágica). AHORA HAY UN SOLO LUGAR donde consultar "qué pasa cuándo" - todos los demás documentos lo referencian. **CLÍMAX ÉPICO Y SISTEMA DE REVELACIONES**: Reescrito completamente `14_Climax.md` (1000+ líneas) con 4 finales posibles (Manshoon Ascendente, Blackbeard el Usurpador, La Carrera Divina, Demasiado Tarde). Diseñada La Torre de la Eternidad con 5 niveles completos (Sala de Ecos, Archivo de Clones, Prisión de los Fieles, Corazón del Tiempo, Cámara de Ascensión). Creados statblocks épicos: Manshoon Ascendente (CR 23) y Blackbeard Ascendant (CR 25). NUEVO DOCUMENTO `23_Escenas_de_Revelacion.md` (1400+ líneas) con 15 escenas dramáticas distribuidas en sesiones 8-13, descubrimiento gradual de: reclusión de Manshoon, ritual de ascensión, plan de Edward Teach, ubicación de la Torre. Incluye tabla de 10 pistas, señales cósmicas progresivas, reacciones de NPCs evolutivas. Sistema completo de "Show, Don't Tell" para revelar la verdad. **INTEGRADA MOTIVACIÓN FINAL**: Manshoon busca convertirse en dios extrayendo poder de Amaunator y Voidar. Edward Teach como antagonista alternativo viable. **ACTUALIZADO DOCUMENTO `24_El_Talisman_de_Interceptacion.md` (1300+ líneas)**: CRONOLOGÍA CAMBIADA - Los robos ocurren DURANTE la campaña (Sesiones 4-5), NO antes. Los PJ conocen a los Anacronistas (Sesión 2-3) y ven el Cronómetro de Realidades. Teach roba el Cronómetro (Sesión 4) - Los PJ pueden ser SOSPECHOSOS del robo. Teach traiciona a los Nautilus y roba la Perla (Sesión 4-5) - Masacre de 47 guerreros. Teach crea el Talismán (Sesión 5). **THYRA VIVE AL INICIO** - Edward Teach la ASESINA en Sesión 5-6 DESPUÉS de crear el Talismán (EVENTO CATALIZADOR que desencadena La Ascensión del Cónclave). 3 opciones para el robo del Cronómetro: secuaz de Teach, traidor Anacronista, o los PJ son incriminados. Los PJ pueden PREVENIR los robos, la creación del Talismán, o el asesinato de Thyra si actúan rápido. Alianzas posibles: Nautilus (10 guerreros CR 8) y Anacronistas (artefactos gnomos).* - **SISTEMA DE EVENTOS DE LA ASCENSIÓN DEL CÓNCLAVE**: Creado documento completo `22_Eventos_Ascension_Conclave.md` (400+ líneas) con lista exhaustiva de eventos que modifican puntos de la competencia entre lugartenientes. Incluye: 15 acciones de PJ, 25 acciones de lugartenientes, 12 eventos aleatorios (d12), 6 eventos de balance cósmico, 6 eventos de cronología fija, 10 eventos únicos de personajes, 5 eventos de crisis. Añadida tabla de seguimiento vacía para el DM, tabla rápida de referencia de puntos, y ejemplo completo de sesión con cálculo de puntos. Reorganizados niveles de dificultad (Edward Teach 11-13, Ignis 13-15), sistema de artefactos expandido, requisito de Arena del Tiempo ajustado a "3+ temporales". **ACTUALIZADO .cursorrules** con gestión automática de tareas.*
+*Última actualización: 24 de octubre de 2025 - **CORRECCIÓN DE CRONOLOGÍA Y MEJORAS ÉPICAS**: Actualizado completamente `00_Plan_Desarrollo_Campana.md` con todas las mejoras implementadas. **CORRECCIÓN CRÍTICA DE CRONOLOGÍA**: Thyra está VIVA al inicio de la campaña (Sesión 1-5) y se bloquea tras ser asesinada por Edward Teach (Sesión 6). Edward Teach está BLOQUEADO al inicio (Sesión 1-5) y se desbloquea tras asesinar a Thyra (Sesión 6). **ROTOR INFINITO MEJORADO**: Historia completa con componentes fragmentados (Núcleo Temporal de Serapis + Carcasa Helada de Ymir), quest givers específicos (Ingenieros de Cronópolis), y objetivo épico (Ferrocarril Universal que conecta todas las regiones Y crea portal a Faerún). **ABYSARA COMO SOCIEDAD AISLADA**: Historia completa de represión, odio hacia la superficie, evidencia histórica de su existencia, y conexión con los Anacronistas (origen del Cronómetro). **VENTAJA DE TEACH**: Tecnología combinada permite asimilar poderes vs repartir como Manshoon. **FERRROCARRIL UNIVERSAL**: Conecta todas las regiones de Chronosia Y crea portal a Faerún - la llave de regreso a casa para los PJs. **IMPACTO POST-CAMPAÑA**: Los habitantes de Abysara empiezan a salir de su aislamiento, pequeños grupos se establecen en Cronópolis, y algunos viajan a Faerún. **BENEFICIOS**: Cronología coherente, motivación épica para los PJs, historia rica y conectada, recompensa satisfactoria post-campaña.*
+
+---
+
+## 🚨 **CORRECCIONES CRÍTICAS IMPLEMENTADAS (Diciembre 2025)**
+
+### **✅ Problemas Identificados y Solucionados:**
+
+#### **1. Inconsistencia en Número de Lugartenientes**
+- [x] **Corregido**: Ahora es consistente en todos los documentos
+- [x] **8 lugartenientes principales activos** (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- [x] **3 lugartenientes menores/opcionales** (Medusa, Tempus, Ymir)
+- [x] **1 lugarteniente caído** (Thyra - asesinada por Edward Teach)
+
+#### **2. Mecánicas de Desbalance Implementadas**
+- [x] **Sistema de niveles de desbalance** que afectan directamente a los PJ
+- [x] **Limitaciones de acceso a Cronópolis** según el desbalance
+- [x] **Limitaciones de viaje** entre regiones
+- [x] **Limitaciones de recursos** y descanso
+
+#### **3. Explicadores del Balance Definidos**
+- [x] **Zephyr (Anacronistas)**: Explicador principal de la teoría del balance
+- [x] **Varrak del Horizonte**: Confirmación visual con visiones del futuro
+- [x] **Capitán Marcus (Relojeros Negros)**: Advertencias tecnológicas con datos
+
+#### **4. Kaelthas Cambiado a Dimensional**
+- [x] **Poderes actualizados**: De temporales a dimensionales
+- [x] **Balance inicial corregido**: 3 temporales vs 5 dimensionales (desequilibrio intencional)
+- [x] **Narrativa mantenida**: Sigue siendo un relojero corrompido pero con poderes espaciales
+
+### **📋 Tareas Pendientes de Implementación:**
+
+#### **🔧 Documentos por Actualizar:**
+- [x] **08_Geografia_y_Regiones_de_Chronosia.md**: Corregir numeración y balance ✅
+- [x] **10_Kaelthas_El_Infiltrado_Dimensional.md**: Cambiar poderes de temporales a dimensionales ✅
+- [x] **02_Misiones_Sandbox.md**: Actualizar mecánicas de desbalance ✅
+- [x] **01_Dirigir_Campana.md**: Añadir sistema de niveles de desbalance ✅
+- [x] **03_NPCs_Importantes.md**: Añadir diálogos de explicación del balance ✅
+
+#### **🎯 Mecánicas por Implementar:**
+- [x] **Sistema de niveles de desbalance** (Equilibrio, Menor, Moderado, Crítico) ✅
+- [x] **Tabla de efectos aleatorios** (1d20 con 20 efectos diferentes) ✅
+- [x] **Sistema de lanzamientos por nivel** (1d4, 1d6, 1d8 según desbalance) ✅
+- [x] **Efectos del día a día** (fatiga, disfunción mágica, restricciones, etc.) ✅
+- [x] **Diálogos completos** de Zephyr, Varrak y Capitán Marcus ✅

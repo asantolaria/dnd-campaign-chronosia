@@ -64,18 +64,44 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó u
 - **Varrak como Neutral**: El Oráculo puede aliarse con los PJ o con Aethernus (Sesión 11)
 - **Edward Teach como Amenaza**: Es un punto ciego para Varrak, impredecible
 
-### **Mecánicas de Balance**
+### **⚖️ Sistema de Niveles de Desbalance**
 
 **⚠️ BALANCE CRÍTICO:**
 - **Temporales Principales Activos:** 3 (Serapis, Vorthak, Varrak)
 - **Dimensionales Principales Activos:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Balance Actual:** Ya hay desequilibrio favorable a lo dimensional
+- **Balance Actual:** Ya hay desequilibrio favorable a lo dimensional (3 vs 5)
 
-**Sistema de Advertencias:**
-- El mundo avisa del desbalance a través de eventos cósmicos
-- Los PJ siempre encontrarán pistas importantes
-- Las acciones tienen consecuencias naturales visibles
-- Las decisiones tienen peso narrativo real
+**📊 Cálculo del Desbalance:**
+- **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
+- **Ejemplo**: Si derrotan 2 temporales y 0 dimensionales → Diferencia = 2 (Desbalance Moderado)
+
+**🔴 Niveles de Desbalance:**
+
+#### **🟢 EQUILIBRIO (Diferencia 0-1)**
+- **Estado**: Todo funciona normalmente
+- **Cronópolis**: Completamente seguro y estable
+- **Viajes**: Sin problemas, portales funcionan al 100%
+- **Descanso**: Descanso largo disponible sin restricciones
+
+#### **🟡 DESBALANCE MENOR (Diferencia 2)**
+- **Lanzamientos**: 1d4 efectos por sesión
+- **Momento**: Al inicio de cada sesión
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+#### **🟠 DESBALANCE MODERADO (Diferencia 3)**
+- **Lanzamientos**: 1d6 efectos por sesión
+- **Momento**: Al inicio + cada 2 horas
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+#### **🔴 DESBALANCE CRÍTICO (Diferencia 4+)**
+- **Lanzamientos**: 1d8 efectos por sesión
+- **Momento**: Al inicio + cada hora + eventos importantes
+- **Efectos**: Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+
+**👥 Explicadores del Balance:**
+- **Zephyr (Anacronistas)**: Explicador principal de la teoría del balance
+- **Varrak del Horizonte**: Confirmación visual con visiones del futuro
+- **Capitán Marcus (Relojeros Negros)**: Advertencias tecnológicas con datos
 
 **Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio.
 

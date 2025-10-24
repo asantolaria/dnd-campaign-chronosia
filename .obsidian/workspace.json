@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronosia_Campana_Profesional/03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md",
+                "file": "Chronosia_Campana_Profesional/01_Introduccion/01_Resumen_Campana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_Geografia_y_Regiones_de_Chronosia"
+              "title": "01_Resumen_Campana"
             }
           }
         ]
@@ -171,8 +171,15 @@
   },
   "active": "ab5a061376d2fca3",
   "lastOpenFiles": [
-    "Chronosia_Campana_Profesional/03_Regiones/10_Regiones_Temporales.md",
     "Chronosia_Campana_Profesional/03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md",
+    "Simulacion_Chronosia.md",
+    "Sistema_Simulacion_Campana.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/10_Kaelthas_El_Infiltrado_Dimensional.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/08_El_Talisman_de_Interceptacion.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/07_Cronologia_Maestra_Campana.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/06_Eventos_Ascension_Conclave.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/04_Cronofagos_Detallado.md",
+    "Chronosia_Campana_Profesional/03_Regiones/10_Regiones_Temporales.md",
     "Chronosia_Campana_Profesional/04_Aventuras/00_Estructura_Campana.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/00_Guia_Navegacion_DM.md",
     "Chronosia_Campana_Profesional/04_Aventuras/02_Misiones_Sandbox.md",
@@ -183,20 +190,13 @@
     "Chronosia_Campana_Profesional/04_Aventuras/01_Mision_Inicial.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/09_Escenas_de_Revelacion.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/08_El_Talisman_de_Interceptacion.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/07_Cronologia_Maestra_Campana.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/06_Eventos_Ascension_Conclave.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/05_La_Ascension_del_Conclave.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/04_Cronofagos_Detallado.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/03_NPCs_Importantes.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/02_Facciones_Organizaciones.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/01_Dirigir_Campana.md",
     "README.md",
     "Chronosia_Campana_Profesional/04_Aventuras/12_Mision_Inicial.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/26_Kaelthas_El_Relojero_Roto.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/25_Cronologia_Maestra_Campana.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/14_Climax.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/24_El_Talisman_de_Interceptacion.md",
     "OLD",
     "assets/oficial cronófago.png",
     "assets/simbolo cronófagos.png",
