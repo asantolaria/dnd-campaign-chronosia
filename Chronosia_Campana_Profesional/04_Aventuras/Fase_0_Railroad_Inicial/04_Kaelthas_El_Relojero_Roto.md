@@ -1,4 +1,4 @@
-@# ⚙️ Kaelthas el Relojero Roto
+# ⚙️ Kaelthas el Relojero Roto
 ## *Lugarteniente Menor - El Infiltrado del Material Plane*
 
 ---

@@ -31,7 +31,7 @@ Esta es la versión profesional de la campaña Chronosia, organizada siguiendo l
 - **Apéndice A**: Mecánicas Temporales
 - **Apéndice B**: Mecánicas Dimensionales
 - **Apéndice C**: Monstruos y Enemigos
-- **Apéndice D**: Tesoros y Recompensas
+- **📊 Tablas de Eventos**: Ver [19_Tablas_Eventos.md](./06_Recursos/Tablas/19_Tablas_Eventos.md) (eventos aleatorios, efectos de desbalance, gritos de los dioses)
 
 ---
 

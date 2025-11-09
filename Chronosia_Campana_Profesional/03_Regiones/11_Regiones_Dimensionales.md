@@ -64,6 +64,7 @@ Un archipiélago de islas piratas dispersas en el Mar Occidental, donde Edward T
 - **Tripulación Pirata**: Navegantes dimensionales corrompidos
 - **Guardianes de Barcos**: Criaturas que protegen la flota
 - **Prisioneros Temporales**: Atrapados en estasis después del asesinato de Thyra
+- **Colonos del Archipiélago**: Comunidades de refugiados y navegantes en las islas menores (ver [05_Colonos_Archipielago.md](../02_Guia_DM/02_Facciones/05_Colonos_Archipielago.md))
 
 ### **Puntos de Interés**
 - **La Fortaleza Flotante**: Residencia principal de Edward Teach

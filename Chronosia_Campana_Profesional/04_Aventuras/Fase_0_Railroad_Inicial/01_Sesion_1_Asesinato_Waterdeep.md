@@ -6,8 +6,8 @@
 ## 📋 **ÍNDICE DE NAVEGACIÓN**
 
 > **📖 REFERENCIAS:**
-> - Para información sobre Kaelthas el Relojero Roto: [../02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md](../02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md)
-> - Para información sobre Cronófagos: [../02_Guia_DM/04_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado.md)
+> - Para información sobre Kaelthas el Relojero Roto: [04_Kaelthas_El_Relojero_Roto.md](./04_Kaelthas_El_Relojero_Roto.md)
+> - Para información sobre Cronófagos: [../../02_Guia_DM/04_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado.md)
 
 ### **📅 Información General**
 - [Duración Estimada](#-duración-estimada)
@@ -280,7 +280,7 @@ El **Reloj Astronómico de Waterdeep** se alza majestuoso en la **Plaza del Tiem
 
 ### **5.2 Kaelthas el Relojero Roto - Statblock Completo**
 
-> **📖 REFERENCIA:** Para el statblock completo y tácticas detalladas, consulta [../02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md](../02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md)
+> **📖 REFERENCIA:** Para el statblock completo y tácticas detalladas, consulta [04_Kaelthas_El_Relojero_Roto.md](./04_Kaelthas_El_Relojero_Roto.md)
 
 **KAELTHAS EL RELOJERO ROTO**
 *Humanoide Mediano (Cronófago Híbrido), Neutral Malvado*
@@ -442,7 +442,7 @@ ZEPHYR (a los PJ, con tono más frío):
 
 **Diálogo Completo de Zephyr:**
 
-> **📖 REFERENCIA:** Para el diálogo completo, consulta [../02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md](../02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md) - Sección "Conexión con los Anacronistas"
+> **📖 REFERENCIA:** Para el diálogo completo, consulta [04_Kaelthas_El_Relojero_Roto.md](./04_Kaelthas_El_Relojero_Roto.md) - Sección "Conexión con los Anacronistas"
 
 ```
 ZEPHYR (mirando el cadáver desintegrándose de Kaelthas):

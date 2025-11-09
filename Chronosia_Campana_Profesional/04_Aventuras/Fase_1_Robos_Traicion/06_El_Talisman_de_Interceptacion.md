@@ -6,7 +6,7 @@
 > **⚠️ PROPÓSITO DE ESTE DOCUMENTO:**
 > Este documento detalla el **Talismán de Interceptación Divina**, sus dos componentes (Cronómetro y Perla), los robos, y el asesinato de Thyra.
 > 
-> **Para cronología general de la campaña y otros eventos**, consulta: **[25_Cronologia_Maestra_Campana.md](./25_Cronologia_Maestra_Campana.md)**
+> **Para cronología general de la campaña y otros eventos**, consulta: **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)**
 
 ---
 
@@ -524,7 +524,7 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilu
 **Sesión 6: LA REACCIÓN ESPONTÁNEA**
 - Los lugartenientes se enteran del asesinato de Thyra (rumores, espías, perturbaciones mágicas)
 - **Manshoon NO sabe nada** - está completamente recluido en la Torre de la Eternidad
-- Cada lugarteniente reacciona según su personalidad (ver `09_La_Ascension_del_Conclave.md`)
+- Cada lugarteniente reacciona según su personalidad (ver `05_La_Ascension_del_Conclave.md` en `../../02_Guia_DM/05_La_Ascension_del_Conclave.md`)
 - Comienzan a formar alianzas y traiciones de forma ORGÁNICA (no por orden de Manshoon)
 
 **Sesión 6-12: FASE SANDBOX**
@@ -753,7 +753,7 @@ Los PJ pueden viajar a la región de Thyra e investigar.
 
 **Escena:**
 
-Ver documento `09_La_Ascension_del_Conclave.md` para las escenas completas de "La Reacción Espontánea" (8 escenas individuales de lugartenientes reaccionando al asesinato de Thyra).
+Ver documento `05_La_Ascension_del_Conclave.md` (en `../../02_Guia_DM/05_La_Ascension_del_Conclave.md`) para las escenas completas de "La Reacción Espontánea" (8 escenas individuales de lugartenientes reaccionando al asesinato de Thyra).
 
 ---
 

@@ -283,3 +283,4 @@ Este sistema de simulación proporciona:
 ---
 
 *Última actualización: Diciembre 2025 - Sistema de simulación reutilizable creado*
+

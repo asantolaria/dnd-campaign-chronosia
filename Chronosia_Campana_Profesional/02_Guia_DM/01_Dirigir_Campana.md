@@ -1,12 +1,18 @@
 # 🎲 Dirigir la Campaña
-## *Guía para el Director de Juego*
+## *Guía Rápida de Referencia para el DM*
 
 ---
 
-> **⚠️ NOTA:** Este documento es una estructura esquelética. Para información completa actualizada, consulta:
-> - **[08_Cronofagos_Detallado.md](./08_Cronofagos_Detallado.md)** - ⭐ Lugartenientes y poderes
-> - **[09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia
+> **⚠️ PROPÓSITO:**
+> Este documento es una **guía rápida de referencia** con la información más crítica que necesitas antes y durante cada sesión. Para detalles completos, consulta los documentos específicos listados al final.
+
+> **📖 DOCUMENTOS CLAVE:**
+> - **[04_Cronofagos_Detallado.md](./04_Cronofagos_Detallado.md)** - ⭐ Lugartenientes y poderes
+> - **[05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia + Resolución final
+> - **[07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md)** - ⭐ Timeline maestro completo
+> - **[05_Encuentro_Anacronistas_Relojeros.md](../04_Aventuras/Fase_2_Sandbox_Inicial/05_Encuentro_Anacronistas_Relojeros.md)** - ⭐ Contador del Ritual (Sesión 8-9)
 > - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Regiones y niveles
+> - **[../04_Aventuras/00_Estructura_Campana.md](../04_Aventuras/00_Estructura_Campana.md)** - ⭐ Estructura completa de fases
 
 ---
 
@@ -30,14 +36,16 @@ La campaña tiene **8 lugartenientes principales activos** fijos:
 **Ver tabla completa en:** [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
 ### **📋 Lista de Verificación Pre-Campaña**
-- [ ] Leer [08_Cronofagos_Detallado.md](./08_Cronofagos_Detallado.md)
-- [ ] Leer [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
-- [ ] Revisar [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
-- [ ] Preparar hoja de seguimiento de puntos de ascensión
-- [ ] Preparar encuentros para niveles 5-15
+- [ ] Leer [04_Cronofagos_Detallado.md](./04_Cronofagos_Detallado.md) - Lugartenientes y poderes
+- [ ] Leer [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md) - Sistema de competencia y resolución final
+- [ ] Leer [07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md) - Timeline maestro
+- [ ] Revisar [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md) - Regiones
+- [ ] Revisar [00_Estructura_Campana.md](../04_Aventuras/00_Estructura_Campana.md) - Estructura de fases
+- [ ] Preparar tablas de tracking (ver [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md))
+- [ ] Preparar encuentros para niveles 3-15
 - [ ] **Familiarizarse con sistema de balance temporal/dimensional**
-- [ ] **Preparar hoja de seguimiento del desbalance**
 - [ ] **Memorizar diálogos de explicadores del balance**
+- [ ] **Revisar resolución final de lucha de poder** (ver sección en [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax))
 
 ---
 
@@ -99,13 +107,11 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 
 ### **📝 Hoja de Seguimiento del Desbalance**
 
-**Lugartenientes Derrotados:**
-- **Temporales**: ___ (Serapis, Varrak, Vorthak, Medusa, Tempus)
-- **Dimensionales**: ___ (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
-
-**Cálculo:**
-- **Diferencia**: |Temporales - Dimensionales| = ___
-- **Nivel de Desbalance**: ___ (Equilibrio/Menor/Moderado/Crítico)
+> **📊 Para tabla completa de tracking del balance:**
+> Consulta **[20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#3-balance-temporal-dimensional)** para:
+> - Tabla de Balance completa
+> - Registro de Derrotas
+> - Niveles de Desbalance y efectos
 
 **Efectos Activos:**
 - [ ] Cronópolis estable
@@ -120,166 +126,168 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 
 ## 🏗️ **ESTRUCTURA DE LA CAMPAÑA**
 
-### **Fase Inicial - Railroad Establecedor (Sesiones 1-3)**
-- **Objetivo**: Establecer la trama y los personajes
-- **Estilo**: Narrativa dirigida con opciones limitadas
-- **Elementos**: Hook inicial, investigación, transición a Chronosia
-- **Duración**: 3 sesiones de 4 horas
+> **📖 Para información detallada de cada fase:**
+> Consulta **[00_Estructura_Campana.md](../04_Aventuras/00_Estructura_Campana.md)** y las guías específicas de cada fase.
 
-### **Fase Media - Sandbox Puro (Sesiones 4-12)**
-- **Objetivo**: Exploración libre de las regiones de Chronosia
-- **Estilo**: Libertad total con consecuencias naturales
-- **Elementos**: Enfrentamiento con lugartenientes, exploración de facciones
-- **Duración**: 9 sesiones de 4 horas
+### **🎬 FASE 0: RAILROAD INICIAL (Sesiones 1-3)**
+- **Objetivo**: Establecer el mundo, presentar personajes clave, enganchar a los PJ
+- **Estilo**: Completamente lineal - narrativa dirigida
+- **Elementos**: Festival → Asesinato → Llegada a Chronosia → Primera Misión
+- **Resultado**: Los PJ llegan a Cronópolis y se establecen como base
+- **📖 Guía completa:** [00_Guia_General_Fase_0.md](../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)
 
-### **Fase Final - Railroad Suave (Sesiones 13-15)**
-- **Objetivo**: Resolver la trama principal y enfrentar a Aethernus
-- **Estilo**: Narrativa dirigida con opciones significativas
-- **Elementos**: Revelación de Manshoon, batalla final, múltiples finales
-- **Duración**: 3 sesiones de 4 horas
+### **🔥 FASE 1: ROBOS Y TRAICIÓN (Sesiones 4-6)**
+- **Objetivo**: Eventos catalizadores que desencadenan la guerra
+- **Estilo**: Eventos fijos críticos con decisiones importantes
+- **Elementos**: Robo del Cronómetro → Robo de la Perla → Creación del Talismán → Asesinato de Thyra
+- **Decisiones críticas**: ¿Interrumpen el Talismán? ¿Salvan a Thyra?
+- **📖 Guía completa:** [00_Guia_General_Fase_1.md](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
 
----
+### **🎲 FASE 2: SANDBOX INICIAL (Sesiones 6-9)**
+- **Objetivo**: Exploración libre, enfrentar lugartenientes
+- **Estilo**: Libertad total de elección
+- **Elementos**: Los PJ eligen qué lugartenientes enfrentar, exploración de regiones
+- **Revelación gradual #1**: Primera sospecha sobre Manshoon (Sesión 8)
+- **📖 Guía completa:** [00_Guia_General_Fase_2.md](../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
 
-## ⚖️ **MECÁNICAS ESPECIALES**
+### **🌟 FASE 3: SANDBOX AVANZADO (Sesiones 9-12)**
+- **Objetivo**: Revelaciones sobre Manshoon, elecciones críticas
+- **Estilo**: Sandbox libre con eventos fijos críticos
+- **Elementos**: Revelación del ritual, elección de Varrak (Sesión 11), urgencia creciente
+- **Revelación gradual #2**: El ritual de ascensión divina (Sesión 10)
+- **📖 Guía completa:** [00_Guia_General_Fase_3.md](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
 
-### **El Sistema de Balance Crítico**
-- **Regla Principal**: No derrotes más de 2 lugartenientes de un tipo sin derrotar del otro
-- **Tipos**: Temporales (Amaunator) vs Dimensionales (Voidar)
-- **Consecuencia**: Si el desbalance supera 2, ocurre una Catástrofe Cósmica
-- **Solución**: Mantén un equilibrio perfecto entre derrotas
-
-### **Efectos Temporales**
-- **Tiempo Detenido**: Regiones congeladas en el tiempo
-- **Aceleración**: Regiones que envejecen siglos en días
-- **Reversión**: Regiones que revierten constantemente
-- **Bucles**: Regiones que se repiten eternamente
-- **Fragmentación**: Regiones con realidades paralelas
-- **Pinza Temporal**: Regiones donde el tiempo se comprime
-
-### **Efectos Dimensionales**
-- **Distorsión Espacial**: Distancias imposibles
-- **Compresión**: Espacios que se contraen
-- **Portales**: Aberturas dimensionales constantes
-- **Inversión**: Direcciones invertidas
-- **Redes**: Conexiones espaciales complejas
-- **Fracturación**: Espacios divididos en múltiples dimensiones
+### **⚔️ FASE 4: CLÍMAX (Sesiones 13-15)**
+- **Objetivo**: Resolver la trama principal y enfrentar al villano final
+- **Estilo**: Completamente lineal una vez determinado el estado final
+- **Elementos**: Llamada de los dioses → Asalto a la Torre → Combate final
+- **Múltiples finales**: A (Manshoon), B (Blackbeard), C (Carrera Divina), D (Demasiado Tarde)
+- **📖 Guía completa:** [00_Guia_General_Fase_4.md](../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md)
 
 ---
 
 ## 🎯 **FASES DE JUEGO DETALLADAS**
 
-### **Sesiones 1-3: Establecimiento**
-- **Sesión 1**: Festival del Reloj, asesinato de Thaddeus
-- **Sesión 2**: Investigación en Waterdeep, descubrimiento de pistas
-- **Sesión 3**: Encuentro con Zephyr, transición a Chronosia
+> **📖 Para timelines detallados de cada fase:**
+> Consulta las guías específicas en [04_Aventuras/](../04_Aventuras/) o el [Timeline Maestro](./07_Cronologia_Maestra_Campana.md)
 
-### **Sesiones 4-12: Exploración Libre**
-- **Sesiones 4-6**: Primeras regiones, encuentro con lugartenientes (Niveles 6-8)
-- **Sesiones 7-9**: Desarrollo de alianzas, enfrentamientos mayores (Niveles 9-11)
-- **Sesiones 10-12**: Revelaciones importantes, preparación para el clímax (Niveles 12-13)
+### **🎬 FASE 0: Sesiones 1-3 (Railroad Inicial)**
+- **Sesión 1**: Asesinato en Waterdeep, derrota de Kaelthas (Nivel 3)
+- **Sesión 2**: Llegada a Chronosia, establecimiento en Cronópolis (Nivel 3-4)
+- **Sesión 3**: Primera misión, encuentro con lugarteniente menor (Nivel 4-5)
+- **📖 Timeline completo:** [00_Guia_General_Fase_0.md](../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md#-timeline-de-esta-fase)
 
-### **Sesiones 13-15: Clímax**
-- **Sesión 13**: Revelación de Manshoon, preparación final (Nivel 13-14)
-- **Sesión 14**: Batalla contra Aethernus, confrontación divina (Nivel 14-15)
-- **Sesión 15**: Múltiples finales, resolución de la trama (Nivel 15)
+### **🔥 FASE 1: Sesiones 4-6 (Robos y Traición)**
+- **Sesión 4**: ⚠️ Robo del Cronómetro (Catalizador #1) (Nivel 5)
+- **Sesión 4-5**: Robo de la Perla, creación del Talismán (Nivel 5-6)
+- **Sesión 5-6**: ⚠️⚠️ Asesinato de Thyra (Catalizador #2) (Nivel 6)
+- **Sesión 6**: ⚠️⚠️⚠️ Caos desencadenado, guerra espontánea comienza (Nivel 6-7)
+- **📖 Timeline completo:** [00_Guia_General_Fase_1.md](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md#-timeline-de-esta-fase)
 
----
+### **🎲 FASE 2: Sesiones 6-9 (Sandbox Inicial)**
+- **Sesiones 6-7**: Exploración libre, primeros lugartenientes (Nivel 6-8)
+- **Sesión 8**: ⚠️ Revelación Gradual #1 - Primera sospecha sobre Manshoon (Nivel 8-9)
+- **Sesión 9**: Exploración avanzada, más regiones desbloqueadas (Nivel 9-10)
+- **📖 Timeline completo:** [00_Guia_General_Fase_2.md](../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md#-timeline-de-esta-fase)
 
-## 🎭 **GESTIÓN DE FACciones**
+### **🌟 FASE 3: Sesiones 9-12 (Sandbox Avanzado)**
+- **Sesión 10**: ⚠️ Revelación Gradual #2 - El ritual de ascensión (Nivel 10-11)
+- **Sesión 11**: ⚠️⚠️ Evento Fijo Crítico - Varrak elige bando (Nivel 11-12)
+- **Sesión 12**: ⚠️ Ritual al 92%, urgencia máxima (Nivel 12-13)
+- **📖 Timeline completo:** [00_Guia_General_Fase_3.md](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md#-timeline-de-esta-fase)
 
-### **Los Cronófagos**
-- **Actitud**: Hostiles hacia los PJ
-- **Objetivo**: Mantener las distorsiones y servir a Aethernus
-- **Tácticas**: Ataques directos, corrupción, manipulación temporal
-- **Aliados**: Otros cronófagos, lugartenientes temporales
-
-### **Los Relojeros Negros**
-- **Actitud**: Neutrales, pueden ser aliados
-- **Objetivo**: Destruir las distorsiones temporales y espaciales
-- **Tácticas**: Tecnología anti-magia, sabotaje, resistencia
-- **Aliados**: Otros relojeros, lugartenientes dimensionales
-
-### **Los Anacronistas**
-- **Actitud**: Amigables hacia los PJ
-- **Objetivo**: Preservar el tiempo natural y resistir distorsiones
-- **Tácticas**: Rituales de estabilización, protección, guía
-- **Aliados**: PJ, otros anacronistas
-
-### **Bregan D'aerthe**
-- **Actitud**: Ambiguos, pueden ser aliados o enemigos
-- **Objetivo**: Cumplir contratos y obtener ganancias
-- **Tácticas**: Infiltración, espionaje, mercenariado
-- **Aliados**: Quien pague más, Manshoon
+### **⚔️ FASE 4: Sesiones 13-15 (Clímax)**
+- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual al 98% (Nivel 13)
+- **Sesión 14**: Asalto a la Torre (5 niveles), determinación del final (Nivel 14)
+- **Sesión 15**: Combate final (uno de 4 finales posibles) (Nivel 15)
+- **📖 Timeline completo:** [00_Guia_General_Fase_4.md](../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md#-timeline-de-esta-fase)
 
 ---
 
-## 🎪 **HERRAMIENTAS PARA EL DM**
+## 🎭 **FACCIONES (REFERENCIA RÁPIDA)**
 
-### **Preparación Sandbox**
-- **Mapas**: De todas las regiones de Chronosia
-- **NPCs**: Lista de personajes importantes con motivaciones
-- **Eventos**: Tablas de eventos aleatorios temporales y espaciales
-- **Encuentros**: Combates preparados para diferentes niveles
+> **📖 Para información completa de facciones:**
+> Consulta **[00_Indice_Facciones.md](./02_Facciones/00_Indice_Facciones.md)** o los documentos individuales en [02_Facciones/](./02_Facciones/)
 
-### **Elementos de Railroad**
-- **Hooks Narrativos**: Conexiones entre eventos
-- **Revelaciones**: Información crucial que debe ser descubierta
-- **Transiciones**: Momentos de cambio de fase
-- **Consecuencias**: Efectos de las acciones de los PJ
+**Resumen Rápido:**
+- **Cronófagos**: Hostiles, sirven a Aethernus, manipulan tiempo/espacio
+- **Anacronistas**: Aliados de los PJ, protegen Cronópolis, guían a los PJ
+- **Relojeros Negros**: Neutrales, tecnología anti-magia, pueden aliarse
+- **Nautilus**: Vendetta contra Edward Teach, aliados potenciales
+- **Bregan D'aerthe**: Mercenarios ambiguos, sirven a quien pague
+- **Colonos del Archipiélago**: Habitantes de las islas, neutrales pero aliados si ayudas contra Teach
 
-### **Gestión de Sesiones**
-- **Inicio**: Resumen de la sesión anterior
-- **Desarrollo**: Eventos principales y encuentros
-- **Clímax**: Momento de mayor tensión
-- **Cierre**: Preparación para la siguiente sesión
+---
 
-### **Adaptación Dinámica**
-- **Flexibilidad**: Ajusta el contenido según las acciones de los PJ
-- **Consecuencias**: Las acciones tienen efectos reales
-- **Evolución**: La trama evoluciona según las decisiones
-- **Balance**: Mantén el equilibrio entre libertad y estructura
+## 🎪 **CHECKLIST PRE-SESIÓN**
+
+### **Antes de Cada Sesión:**
+- [ ] Revisar timeline de la fase actual (ver [07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md))
+- [ ] Preparar encuentros según nivel de los PJ
+- [ ] Revisar tablas de tracking (ver [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md))
+- [ ] Verificar balance temporal/dimensional
+- [ ] Preparar eventos aleatorios si aplica (1d12 cada 2-3 sesiones)
+
+### **Documentos Útiles:**
+- **NPCs**: [03_NPCs_Importantes.md](./03_NPCs_Importantes.md)
+- **Eventos**: [19_Tablas_Eventos.md](../06_Recursos/Tablas/19_Tablas_Eventos.md)
+- **Tracking**: [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)
+- **Regiones**: [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
 ---
 
 ## ⚠️ **CONSEJOS IMPORTANTES**
 
-### **Para Mantener el Equilibrio**
-- **Seguimiento**: Lleva registro de las derrotas de lugartenientes
-- **Advertencias**: Avisa a los PJ cuando se acerquen al desbalance
-- **Consecuencias**: Aplica las consecuencias del desbalance inmediatamente
-- **Solución**: Proporciona formas de restaurar el equilibrio
+### **⚠️ Reglas Críticas a Recordar:**
 
-### **Para Crear Tensión**
-- **Eventos Aleatorios**: Usa las tablas de eventos para crear tensión
-- **Consecuencias**: Las acciones tienen efectos reales
-- **Misterio**: Mantén algunos secretos hasta el momento adecuado
-- **Peligro**: Chronosia es un lugar peligroso y hostil
+1. **Balance Temporal/Dimensional:**
+   - Trackea derrotas en [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#3-balance-temporal-dimensional)
+   - Usa diálogos de explicadores cuando haya desbalance
+   - Aplica consecuencias inmediatamente
 
-### **Para Mantener el Interés**
-- **Variedad**: Combina combate, exploración y rol social
-- **Misterio**: Revela información gradualmente
-- **Consecuencias**: Las decisiones importan
-- **Evolución**: La trama evoluciona según las acciones
+2. **Sistema de Puntos (La Ascensión del Cónclave):**
+   - Actualiza puntos después de cada evento importante
+   - 15 puntos = Supremo (máximo 3)
+   - Ver [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md) para detalles
+
+3. **Preparación del Clímax (ANTES de Sesión 13):**
+   - Completa [Tabla de Resolución Final](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#9-resolución-final-y-estado-para-el-clímax)
+   - Determina estado de lugartenientes (vivos, Supremos, aliados)
+   - Calcula escenario del combate final
+   - **📖 Detalles completos:** [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax)
 
 ---
 
 ## 🎯 **MOMENTOS CLAVE**
 
-### **Revelación de Aethernus**
-- **Cuándo**: Sesión 13
-- **Cómo**: A través de evidencia y confesión
-- **Impacto**: Cambia completamente la comprensión de la trama
-- **Consecuencias**: Los PJ entienden la verdadera amenaza
+### **Eventos Catalizadores (Fase 1)**
+- **Sesión 4**: ⚠️ Robo del Cronómetro (Catalizador #1)
+- **Sesión 5-6**: ⚠️⚠️ Asesinato de Thyra (Catalizador #2 - EL MÁS IMPORTANTE)
+- **Sesión 6**: ⚠️⚠️⚠️ Guerra espontánea comienza (La Ascensión del Cónclave se desencadena)
+- **Impacto**: Cambia completamente el curso de la campaña
 
-### **Batalla Final**
-- **Cuándo**: Sesión 14
-- **Cómo**: Enfrentamiento épico con Aethernus
-- **Impacto**: Resuelve el conflicto principal
-- **Consecuencias**: Determina el futuro de Chronosia
+### **Revelaciones Graduales (Fases 2-3)**
+- **Sesión 8**: Primera sospecha sobre Manshoon (¿Dónde está?)
+- **Sesión 10**: Revelación del ritual de ascensión divina
+- **Sesión 12**: Ritual al 92%, urgencia máxima
+- **Impacto**: Los PJ descubren la verdad sobre Manshoon gradualmente
 
-### **Múltiples Finales**
-- **Cuándo**: Sesión 15
-- **Cómo**: Decisiones de los PJ sobre el destino de los dioses
+### **Elecciones Críticas (Fase 3)**
+- **Sesión 11**: ⚠️⚠️ Varrak elige bando (decisión de los PJ)
+- **Sesión 11**: ⚠️⚠️ Las Gemelas eligen bando
+- **Impacto**: Determina aliados y enemigos para el clímax
+
+### **Resolución Final (Antes de Sesión 13)**
+- **Cuándo**: Antes de la Sesión 13
+- **Qué calcular**: Estado de lugartenientes, Supremos, aliados, balance
+- **Cómo**: Usar [Tabla de Resolución Final](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#9-resolución-final-y-estado-para-el-clímax)
+- **Impacto**: Determina la dificultad y el escenario del combate final
+- **📖 Detalles completos:** [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax)
+
+### **Clímax (Fase 4)**
+- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual al 98%
+- **Sesión 14**: Asalto a la Torre, determinación del final
+- **Sesión 15**: Combate final (uno de 4 finales posibles)
 - **Impacto**: Determina el futuro del multiverso
 - **Consecuencias**: Efectos permanentes en la realidad
 

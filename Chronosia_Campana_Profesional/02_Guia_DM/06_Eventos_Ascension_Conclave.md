@@ -207,23 +207,11 @@
 
 ## 🎯 **SISTEMA DE SEGUIMIENTO**
 
-### **Tabla de Puntuación del DM**
-
-Copia esta tabla y actualízala después de cada sesión:
-
-| **Lugarteniente** | **Bando** | **Pts Iniciales (Ses. 6)** | **Sesión 7** | **Sesión 8** | **Sesión 9** | **Sesión 10** | **Sesión 11** | **... Sesión 20** | **TOTAL** |
-|-------------------|-----------|---------------------------|--------------|--------------|--------------|---------------|---------------|------------------|-----------|
-| **Lord Vorthak** | Temporal | 0 | | | | | | | |
-| **Serapis** | Temporal | 0 | | | | | | | |
-| **Varrak** | Neutral → ? | 0 | | | | | **+3 o +5** | | |
-| **Ignis** | Dimensional | 0 | | | | | | | |
-| **Matrona Veldrisza** | Dimensional | 0 | | | | | | | |
-| **Edward Teach** | Independiente | **+5** (Thyra) | | | | | | | |
-| **Dimensionalis** | Independiente | 0 | | | | | | | |
-| **Las Gemelas** | Neutral → ? | 0 | | | | | **+2** | | |
-| **Medusa** | Menor | 0 | | | | | | | |
-| **Tempus** | Menor | 0 | | | | | | | |
-| **Ymir** | Menor | 0 | | | | | | | |
+> **📊 Para tablas completas de tracking:**
+> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#1-sistema-de-puntos-de-la-ascensión-del-cónclave)** para:
+> - Tabla de Puntuación de Lugartenientes (completa y actualizable)
+> - Registro de Eventos por Sesión
+> - Notas de Tracking (umbrales, muertes, etc.)
 
 ### **Notas para el DM:**
 - **Umbral de Ascensión:** 15 puntos (puede ocurrir desde Sesión 15)
@@ -245,17 +233,17 @@ Copia esta tabla y actualízala después de cada sesión:
 ### **Cómo Usar Esta Lista:**
 
 1. **Antes de cada Sesión:**
-   - Revisa la tabla de puntuación actual
+   - Revisa la tabla de puntuación actual en [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#1-sistema-de-puntos-de-la-ascensión-del-cónclave)
    - Elige 2-3 eventos probables para esta sesión
    - Prepara consecuencias narrativas
 
 2. **Durante la Sesión:**
-   - Cuando los PJ hacen algo significativo, consulta la tabla de "Acciones de los PJ"
+   - Cuando los PJ hacen algo significativo, consulta la tabla de "Acciones de los PJ" (arriba)
    - Tira 1d12 para evento aleatorio cada 2-3 sesiones
    - Anota cambios de puntos inmediatamente
 
 3. **Después de la Sesión:**
-   - Actualiza la tabla de puntuación
+   - Actualiza la tabla de puntuación en [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#1-sistema-de-puntos-de-la-ascensión-del-cónclave)
    - Planifica reacciones de lugartenientes para próxima sesión
    - Prepara rumores que los PJ pueden oír sobre los cambios
 

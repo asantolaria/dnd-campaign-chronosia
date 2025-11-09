@@ -63,6 +63,7 @@
 - [x] **Simulación del Cónclave**: Simular eventos de ascensión del Cónclave y competencia entre lugartenientes ✅
 - [x] **Simulación de Edward Teach**: Simular las acciones secretas de Edward Teach y creación del Talismán ✅
 - [x] **Simulación de Balance**: Simular mecánicas de balance temporal/dimensional y sus consecuencias ✅
+- [x] **Esquema Visual de la Campaña (Mermaid)**: Crear diagramas Mermaid que muestren las fases, opciones y decisiones críticas de la campaña ✅
 - [ ] Sistema de reputación con facciones
 - [ ] Mecánicas de corrupción temporal/espacial (opcional)
 - [ ] Desarrollar la Torre de la Eternidad (sede de Aethernus Valcarys)
@@ -95,6 +96,44 @@
 - [ ] **Archipiélago de Barbanegra**: Crear mecánica del "Mar en Calma" (sin viento), diseñar Motor de Viento Perpetuo, mecánicas de navegación
 - [ ] **Batalla Naval de Edward Teach**: Diseñar mecánicas específicas de batalla naval (interceptación obligatoria, abordaje, combate en barco gigante, dificultad de movimiento en cubierta, poderes híbridos pirata+estasis)
 - [x] **Sistema de Construcción del Ferrocarril Universal**: Mecánicas post-campaña usando Rotor Infinito para conectar todas las regiones y crear portal a Faerún ✅
+
+#### **💎 Definición de Objetos Mágicos y Reliquias:**
+- [ ] **Artefactos Principales**: Completar estadísticas y descripciones detalladas para:
+  - [ ] **Cronómetro de Realidades**: Estadísticas completas de objeto mágico (actualmente solo descripción narrativa)
+  - [ ] **Perla del Vacío Primordial**: Estadísticas completas de objeto mágico (actualmente solo descripción narrativa)
+  - [ ] **Contador del Ritual**: Estadísticas completas de objeto mágico (actualmente solo descripción narrativa)
+  - [ ] **Espejo de Realidad Fragmentada**: Diseño completo (artefacto de Las Gemelas)
+  - [ ] **Arena del Tiempo Estabilizada**: Diseño completo (artefacto de Serapis)
+  - [ ] **Excavadora Dimensional**: Diseño completo (artefacto gnomo)
+- [ ] **Objetos Mágicos de NPCs Importantes**: Definir estadísticas para:
+  - [ ] **Objetos de Aethernus Valcarys**: Anillos mágicos, bastón de mando, corona, armadura, espada, escudo
+  - [ ] **Objetos de Lugartenientes**: Armas y artefactos personales de cada lugarteniente principal
+- [ ] **Recompensas de Facciones**: Diseñar objetos mágicos que los PJ pueden obtener como recompensas:
+  - [ ] **Artefactos Gnomos**: Objetos mágicos de los Anacronistas
+  - [ ] **Bendiciones del Vacío**: Poderes permanentes de los Nautilus (convertir a objetos mágicos o rasgos)
+- [ ] **⚙️ Inventos de los Ingenieros de Chronosia (Relojeros Negros)**: Diseñar estadísticas completas para:
+  - [ ] **Armas de Neutralización**:
+    - [ ] **Rifles Anti-Magia**: Estadísticas, daño, efectos de cancelación de hechizos
+    - [ ] **Granadas de Estabilidad**: Estadísticas, área de efecto, neutralización de distorsiones
+    - [ ] **Escudos Tecnológicos**: AC, resistencia a magia, durabilidad
+    - [ ] **Trampas Mecánicas**: Mecánicas de activación, efectos de captura
+  - [ ] **Máquinas de Estabilización**:
+    - [ ] **Estabilizadores Temporales**: Mecánicas de corrección de distorsiones temporales
+    - [ ] **Compresores Dimensionales**: Mecánicas de cierre de portales
+    - [ ] **Detectores de Magia**: Rango, precisión, mecánicas de detección
+    - [ ] **Neutralizadores de Campo**: Radio de efecto, duración, mecánicas de cancelación
+  - [ ] **Artefactos de Ingeniería**:
+    - [ ] **Motor de Viento Perpetuo**: Diseño completo para desbloquear Archipiélago de Barbanegra
+    - [ ] **Ferrocarril Universal**: Mecánicas post-campaña (conexión de regiones, portal a Faerún)
+    - [ ] **Rotor Infinito**: Completar diseño (ya mencionado, verificar si necesita más detalle)
+  - [ ] **Objetos Personales de Líderes**:
+    - [ ] **Prótesis Mecánica de Balthar**: Estadísticas de arma, proyectiles anti-magia
+    - [ ] **Brazo Mecánico de Lucienne**: Herramientas, cuchillas, mecánicas de uso
+    - [ ] **Dispositivo de Detección de Kaoros**: Mecánicas de "sentir" magia a través de vibraciones
+- [ ] **Reliquias Divinas**: Diseñar objetos relacionados con Amaunator y Voidar:
+  - [ ] **Fragmentos de Poder Divino**: Objetos que contienen fragmentos de los dioses
+  - [ ] **Reliquias de la Batalla**: Objetos creados durante la batalla entre Amaunator y Voidar
+- [ ] **Crear Documento Centralizado**: Crear archivo `21_Objetos_Magicos_Reliquias.md` en `06_Recursos/Tablas/` o `05_Apendices/` con todas las estadísticas, descripciones y mecánicas (incluyendo sección específica para inventos de ingenieros)
 
 #### **⏰ La Espiral del Reloj de Arena (Serapis) - Desarrollo Completo:**
 - [x] **Sistema del Contador de Arena**: Mecánica principal implementada (0-20 puntos) ✅
@@ -274,6 +313,8 @@
 
 *Última actualización: 24 de octubre de 2025 - **CORRECCIÓN DE CRONOLOGÍA Y MEJORAS ÉPICAS**: Actualizado completamente `00_Plan_Desarrollo_Campana.md` con todas las mejoras implementadas. **CORRECCIÓN CRÍTICA DE CRONOLOGÍA**: Thyra está VIVA al inicio de la campaña (Sesión 1-5) y se bloquea tras ser asesinada por Edward Teach (Sesión 6). Edward Teach está BLOQUEADO al inicio (Sesión 1-5) y se desbloquea tras asesinar a Thyra (Sesión 6). **ROTOR INFINITO MEJORADO**: Historia completa con componentes fragmentados (Núcleo Temporal de Serapis + Carcasa Helada de Ymir), quest givers específicos (Ingenieros de Cronópolis), y objetivo épico (Ferrocarril Universal que conecta todas las regiones Y crea portal a Faerún). **ABYSARA COMO SOCIEDAD AISLADA**: Historia completa de represión, odio hacia la superficie, evidencia histórica de su existencia, y conexión con los Anacronistas (origen del Cronómetro). **VENTAJA DE TEACH**: Tecnología combinada permite asimilar poderes vs repartir como Manshoon. **FERRROCARRIL UNIVERSAL**: Conecta todas las regiones de Chronosia Y crea portal a Faerún - la llave de regreso a casa para los PJs. **IMPACTO POST-CAMPAÑA**: Los habitantes de Abysara empiezan a salir de su aislamiento, pequeños grupos se establecen en Cronópolis, y algunos viajan a Faerún. **BENEFICIOS**: Cronología coherente, motivación épica para los PJs, historia rica y conectada, recompensa satisfactoria post-campaña.*
 
+*Última actualización: Diciembre 2025 - **REORGANIZACIÓN MODULAR DE FACciones**: Estructura completamente reorganizada con carpeta `02_Facciones/` conteniendo archivos separados por facción. **NUEVA ESTRUCTURA**: Índice central (`00_Indice_Facciones.md`) con enlaces a 6 documentos especializados (Cronófagos, Relojeros Negros, Anacronistas, Bregan D'aerthe, Colonos del Archipiélago, Dinámicas). **NUEVA FACCIÓN**: Colonos del Archipiélago creados como comunidades de refugiados y navegantes en el Archipiélago de Barbanegra, integrados en la región dimensional y en las dinámicas entre facciones. **LIMPIEZA**: Archivo redundante `02_Facciones_Organizaciones.md` eliminado. **BENEFICIOS**: Navegación más clara, información más accesible, estructura escalable, eliminación de redundancias.*
+
 ---
 
 ## 🚨 **CORRECCIONES CRÍTICAS IMPLEMENTADAS (Diciembre 2025)**
@@ -316,4 +357,34 @@
 - [x] **Tabla de efectos aleatorios** (1d20 con 20 efectos diferentes) ✅
 - [x] **Sistema de lanzamientos por nivel** (1d4, 1d6, 1d8 según desbalance) ✅
 - [x] **Efectos del día a día** (fatiga, disfunción mágica, restricciones, etc.) ✅
-- [x] **Diálogos completos** de Zephyr, Varrak y Capitán Marcus ✅
+    - [x] **Diálogos completos** de Zephyr, Varrak y Capitán Marcus ✅
+- [x] **🏛️ REORGANIZACIÓN MODULAR DE FACciones**: Estructura modular completa con archivos separados por facción ✅
+  - [x] **Carpeta 02_Facciones/**: Nueva estructura organizativa creada ✅
+  - [x] **00_Indice_Facciones.md**: Índice central con resumen y enlaces a todas las facciones ✅
+  - [x] **01_Cronofagos.md**: Información detallada de los Cronófagos extraída y organizada ✅
+  - [x] **02_Relojeros_Negros.md**: Información detallada de los Relojeros Negros extraída y organizada ✅
+  - [x] **03_Anacronistas.md**: Información detallada de los Anacronistas extraída y organizada ✅
+  - [x] **04_Bregan_Daerthe.md**: Información detallada de Bregan D'aerthe extraída y organizada ✅
+  - [x] **05_Colonos_Archipielago.md**: Nueva facción creada - Comunidades de refugiados y navegantes en el Archipiélago de Barbanegra ✅
+  - [x] **06_Dinamicas_Entre_Facciones.md**: Dinámicas, conflictos y estrategias de alianza entre todas las facciones ✅
+  - [x] **Actualización de Referencias**: Todos los documentos actualizados para apuntar a la nueva estructura modular ✅
+  - [x] **Eliminación de Archivo Redundante**: 02_Facciones_Organizaciones.md eliminado (contenido duplicado) ✅
+  - [x] **Integración Regional**: Colonos del Archipiélago añadidos a 11_Regiones_Dimensionales.md (Archipiélago de Barbanegra) ✅
+- [x] **🤝 ENCUENTRO ANACRONISTAS Y RELOJEROS NEGROS**: Alianza inesperada y creación del Contador del Ritual ✅
+  - [x] **05_Encuentro_Anacronistas_Relojeros.md**: Documento completo del encuentro (Sesión 8-9) ✅
+  - [x] **El Contador del Ritual**: Artefacto híbrido que monitorea el progreso del ritual (90-100%) ✅
+  - [x] **Integración en Sesión 8**: Encuentro añadido a la sesión de Primera Sospecha ✅
+  - [x] **Actualización de Tablas**: Contador del Ritual añadido a tablas de tracking ✅
+  - [x] **Propósito Narrativo**: Transmite urgencia visual y fuerza decisiones sobre priorización de lugartenientes ✅
+- [x] **📁 REORGANIZACIÓN DE DOCUMENTOS DE AVENTURAS**: Movimiento de documentos de Guía DM a Aventuras ✅
+  - [x] **Kaelthas**: Movido a Fase_0_Railroad_Inicial (04_Kaelthas_El_Relojero_Roto.md) ✅
+  - [x] **Talismán de Interceptación**: Movido a Fase_1_Robos_Traicion (06_El_Talisman_de_Interceptacion.md) ✅
+  - [x] **Escenas de Revelación**: Movido a Fase_2_Sandbox_Inicial (04_Escenas_de_Revelacion.md) ✅
+  - [x] **Encuentro Anacronistas-Relojeros**: Movido a Fase_2_Sandbox_Inicial (05_Encuentro_Anacronistas_Relojeros.md) ✅
+  - [x] **Actualización de Referencias**: Todas las referencias actualizadas en documentos de aventuras y guías DM ✅
+  - [x] **Actualización de Esquema Mermaid**: Contador del Ritual añadido al diagrama (Sesión 8) ✅
+  - [x] **Corrección de Rutas Internas**: Referencias dentro de archivos movidos corregidas ✅
+- [x] **🗑️ ELIMINACIÓN DE ARCHIVO REDUNDANTE**: 18_Tesoros_Recompensas.md eliminado ✅
+  - [x] **Razón**: Todas las tablas (Paradojas Menores, Distorsiones Espaciales, Gritos de los Dioses) están en 19_Tablas_Eventos.md ✅
+  - [x] **Secciones Pendientes**: No estaban desarrolladas (solo listas vacías) ✅
+  - [x] **Actualización README**: Referencia actualizada para apuntar a 19_Tablas_Eventos.md ✅

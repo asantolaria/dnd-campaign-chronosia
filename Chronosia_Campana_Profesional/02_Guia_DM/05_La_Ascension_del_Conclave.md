@@ -204,22 +204,15 @@ Los lugartenientes acumulan "Puntos de Ascensión" durante la competencia. Cuand
 
 ## 📊 **TABLA DE SEGUIMIENTO DEL DM**
 
-Lleva registro durante toda la campaña. Actualiza después de cada sesión importante:
-
-| **Lugarteniente** | **Estado** | **Bando** | **Puntos** | **Relación PJ** | **Notas** |
-|-------------------|-----------|-----------|------------|-----------------|-----------|
-| **Serapis el Retroceso** | ✅ Vivo | Temporal | 2 | Hostil | Débil, necesita protección de Vorthak |
-| **Lord Vorthak** | ✅ Vivo | Temporal | 5 | Enemigo | Líder del bando temporal, ambicioso |
-| **Edward Teach** | ✅ Vivo | Independiente | 7 | Neutral | Mató a Thyra (+5), rompe profecías de Varrak |
-| **Dimensionalis** | ✅ Vivo | Independiente | 4 | Manipuladora | Triple agente, información valiosa |
-| **Ignis** | ✅ Vivo | Dimensional | 6 | Hostil | Líder del bando dimensional, orgulloso |
-| **Matrona Veldrisza** | ✅ Vivo | Dimensional | 3 | Negociable | Aliada de Ignis, conexión Jarlaxle |
-| **Las Gemelas** | ✅ Vivo | Neutral/Dimensional | 2 | Misteriosas | Juegan su propio juego |
-| **Varrak** | ✅ Vivo | Neutral | 1 | Pendiente (Sesión 11) | Ciego a Edward Teach, atormentado |
-| **Thyra la Suspendida** | ⚰️ **MUERTA** | - | - | - | Asesinada por Edward Teach (Sesión 5) |
+> **📊 Para tablas completas de tracking:**
+> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#1-sistema-de-puntos-de-la-ascensión-del-cónclave)** para:
+> - Tabla de Puntuación de Lugartenientes (completa y actualizable)
+> - Registro de Eventos por Sesión
+> - Estado de Lugartenientes
+> - Todas las demás tablas de tracking de la campaña
 
 **Instrucciones para el DM:**
-- Actualiza los puntos después de cada evento importante
+- Actualiza los puntos después de cada evento importante en la tabla centralizada
 - Marca relaciones cambiantes con los PJ
 - Cuando alguien alcance 15 puntos, **recibe automáticamente** un fragmento de poder divino (Supremo)
   - **NO hay proclamación** - el poder fluye automáticamente al más fuerte
@@ -1416,6 +1409,133 @@ LORD VORTHAK (calculando):
 3. **Resolver el dilema de Dimensionalis** (¿aliada, enemiga, neutral?)
 4. **Enfrentar o reclutar a Las Gemelas** (pueden ser salvadas o derrotadas)
 5. **Confrontación final con líderes de bando restantes**
+
+---
+
+## ⚔️ **RESOLUCIÓN DE LA LUCHA DE PODER Y REPERCUSIÓN EN EL CLÍMAX**
+
+### **📊 Cómo se Resuelve la Lucha de Poder:**
+
+La lucha de poder se resuelve mediante el **Sistema de Puntos de Ascensión**:
+
+| **Mecánica** | **Descripción** | **Cuándo Ocurre** |
+|--------------|-----------------|-------------------|
+| **Ascensión a Supremo** | Un lugarteniente alcanza 15 puntos | Puede ocurrir desde Sesión 15 |
+| **Máximo de Supremos** | Solo 3 lugartenientes pueden ascender | Durante toda la campaña |
+| **Muerte Permanente** | Un lugarteniente es derrotado por los PJ | -15 puntos (sale de la competencia) |
+| **Eliminación Natural** | Lugartenientes se matan entre sí | Eventos aleatorios (duelos, traiciones) |
+
+### **🎯 Estado al Llegar al Clímax (Sesión 13-15):**
+
+**Escenario Típico:**
+- **2-3 lugartenientes vivos** (el resto fueron derrotados por los PJ o se mataron entre sí)
+- **0-3 Supremos** (depende de si alguien alcanzó 15 puntos)
+- **Alianzas rotas o reforzadas** (según las acciones de los PJ)
+
+**Ejemplos de Estados Finales:**
+
+| **Escenario** | **Lugartenientes Vivos** | **Supremos** | **Estado de Alianzas** |
+|---------------|---------------------------|--------------|------------------------|
+| **A: Guerra Total** | 2-3 (Vorthak, Ignis, Teach) | 1-2 | Todas rotas, cada uno por su lado |
+| **B: Dominio de Bando** | 3-4 (Bando Temporal completo) | 1 (Vorthak) | Bando Temporal unido, otros eliminados |
+| **C: Caos Controlado** | 4-5 (mezcla de bandos) | 0-1 | Alianzas parciales, neutrales activos |
+| **D: Purga de PJ** | 1-2 (solo los más fuertes) | 0-2 | Todos enemigos, sin alianzas |
+
+### **👑 Estado de los Lugartenientes al Llegar al Clímax:**
+
+#### **Lugartenientes Supremos (15+ puntos):**
+- **Poder x3:** HP, daño, CD de hechizos multiplicados por 3
+- **Inmortalidad Divina:** No pueden morir permanentemente (se regeneran en 1d4 días)
+- **Autoridad Suprema:** Pueden convocar a otros lugartenientes
+- **¿Dónde Están?** Defendiendo regiones, intentando llegar a la Torre, o ya en la Torre como guardianes
+
+#### **Lugartenientes No-Supremos (0-14 puntos):**
+- **Poder Normal:** Estadísticas base
+- **Mortalidad:** Pueden morir permanentemente
+- **¿Dónde Están?** Defendiendo regiones, intentando llegar a la Torre, aliados con los PJ, o ya derrotados
+
+### **🎯 Escenarios Posibles en la Torre de la Eternidad:**
+
+#### **Escenario 1: Solo Manshoon (Lugartenientes Eliminados)**
+- Los PJ derrotaron a TODOS los lugartenientes antes del clímax
+- Combate más simple pero igualmente épico
+- **Dificultad:** ⭐⭐⭐ (Normal)
+
+#### **Escenario 2: Manshoon + Supremos (Lugartenientes Supremos Vivos)**
+- 1-3 lugartenientes alcanzaron 15 puntos (Supremos)
+- Combate multi-fase: Primero los Supremos, luego Manshoon
+- **Dificultad:** ⭐⭐⭐⭐⭐ (Muy Difícil)
+
+#### **Escenario 3: Manshoon vs Supremos vs PJ (Guerra de Tres Bandos)**
+- 1-2 Supremos están en la Torre pero NO están aliados con Manshoon
+- Combate de tres bandos con alianzas temporales posibles
+- **Dificultad:** ⭐⭐⭐⭐ (Difícil)
+
+#### **Escenario 4: PJ + Aliados Lugartenientes vs Manshoon**
+- Los PJ formaron alianzas con lugartenientes (Varrak, Las Gemelas, etc.)
+- Aliados actúan como NPCs y pueden sacrificarse heroicamente
+- **Dificultad:** ⭐⭐ (Fácil)
+
+### **📊 Impacto en los Cuatro Finales:**
+
+#### **🔴 FINAL A: Manshoon Ascendente**
+| **Estado** | **Impacto** | **Dificultad** |
+|------------|-------------|----------------|
+| Todos eliminados | Solo Manshoon, combate directo | ⭐⭐⭐ |
+| 1-2 Supremos (aliados) | Manshoon + Supremos, multi-fase | ⭐⭐⭐⭐⭐ |
+| 1 Supremo (enemigo) | Guerra de tres bandos | ⭐⭐⭐⭐ |
+| Aliados lugartenientes | PJ + Aliados vs Manshoon | ⭐⭐ |
+
+#### **🟢 FINAL B: Blackbeard el Usurpador**
+| **Estado** | **Impacto** | **Dificultad** |
+|------------|-------------|----------------|
+| Teach es Supremo | Blackbeard CR 25+, casi invencible | ⭐⭐⭐⭐⭐ |
+| Teach NO es Supremo | Blackbeard CR 25, winnable | ⭐⭐⭐⭐ |
+| Otros Supremos vivos | Guerra de múltiples bandos | ⭐⭐⭐⭐⭐ |
+| Aliados lugartenientes | Pueden ayudar contra Blackbeard | ⭐⭐⭐ |
+
+#### **🔵 FINAL C: La Carrera Divina**
+| **Estado** | **Impacto** | **Dificultad** |
+|------------|-------------|----------------|
+| Teach es Supremo | Teach más rápido, ventaja | ⭐⭐⭐⭐⭐ |
+| Otros Supremos presentes | 4+ bandos compitiendo | ⭐⭐⭐⭐⭐ |
+| Aliados lugartenientes | Pueden ayudar a los PJ | ⭐⭐⭐ |
+| Todos eliminados | Solo 3 bandos, más simple | ⭐⭐⭐⭐ |
+
+#### **🟣 FINAL D: Demasiado Tarde**
+| **Estado** | **Impacto** | **Dificultad** |
+|------------|-------------|----------------|
+| Manshoon divino | Casi invencible, solo escape | ⭐⭐⭐⭐⭐ |
+| Supremos presentes | Manshoon puede convocarlos | ⭐⭐⭐⭐⭐ |
+| Aliados lugartenientes | Pueden ayudar a escapar | ⭐⭐⭐⭐ |
+
+### **📋 Tabla de Resolución Rápida (Sesión 13):**
+
+**Antes de la Sesión 13, el DM debe calcular:**
+
+| **Factor** | **Pregunta** | **Opciones** |
+|------------|--------------|--------------|
+| **Supremos** | ¿Cuántos lugartenientes alcanzaron 15 puntos? | 0, 1, 2, o 3 |
+| **Lugartenientes Vivos** | ¿Cuántos lugartenientes siguen vivos? | 0-12 |
+| **Aliados PJ** | ¿Los PJ tienen aliados lugartenientes? | Sí (lista) o No |
+| **Edward Teach** | ¿Teach tiene el Talismán y está vivo? | Sí o No |
+| **Balance** | ¿Cuál es el balance temporal/dimensional? | Equilibrio, Menor, Moderado, Crítico |
+
+**Matriz de Decisión:**
+
+| **Supremos** | **Lugartenientes Vivos** | **Aliados PJ** | **Escenario Probable** |
+|--------------|---------------------------|----------------|------------------------|
+| **0** | **0-2** | **No** | Escenario 1: Solo Manshoon |
+| **1-2** | **1-3** | **No** | Escenario 2: Manshoon + Supremos |
+| **1-2** | **2-4** | **Sí** | Escenario 3: Guerra de Tres Bandos |
+| **0** | **1-3** | **Sí** | Escenario 4: PJ + Aliados vs Manshoon |
+| **3** | **3-5** | **No** | Escenario 2: Múltiples Supremos (Muy Difícil) |
+
+**💡 Consejos para el DM:**
+1. **Calcula el estado ANTES de la Sesión 13:** Revisa las tablas de tracking en [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)
+2. **Adapta la dificultad:** Si hay muchos Supremos, reduce su número o hazlos enemigos entre sí
+3. **Mantén la coherencia narrativa:** Si Vorthak es Supremo y está aliado con Manshoon, debe aparecer en el combate
+4. **Balancea el combate:** No hagas el combate imposible (a menos que sea Final D)
 
 ---
 

@@ -1,28 +1,47 @@
 # 🎭 Estructura de Campaña - Chronosia
+## *Índice Principal de Aventuras*
+
+---
+
+> **📖 NAVEGACIÓN:**
+> - [Esquemas Visuales](../00_Esquema_Campana_Mermaid.md) - Diagramas de la campaña
+> - [Guía del DM](../02_Guia_DM/00_Guia_Navegacion_DM.md) - Navegación completa
+
+---
 
 ## 📊 **ESTRUCTURA DE LA CAMPAÑA**
 
-### **🎬 FASE 1: RAILROAD INICIAL (Sesión 1)**
-- **`01_Mision_Inicial.md`** → **COMPLETAMENTE LINEAL**
-- Los PJ siguen una secuencia fija: Festival → Asesinato → Investigación → Batalla → Anacronistas
+### **🎬 FASE 0: RAILROAD INICIAL (Sesiones 1-3)**
+- **[00_Guia_General_Fase_0.md](./Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)** → **COMPLETAMENTE LINEAL**
+- Los PJ siguen una secuencia fija: Festival → Asesinato → Llegada a Chronosia → Primera Misión
 - **NO hay elecciones significativas** - es una introducción forzada
-- **Resultado fijo:** Los PJ llegan a Cronópolis
+- **Resultado fijo:** Los PJ llegan a Cronópolis y se establecen como base
 
-### **🎲 FASE 2: SANDBOX LIBRE (Sesiones 2-7)**
-- **`02_Misiones_Sandbox.md`** → **LIBERTAD TOTAL DE ELECCIÓN**
+### **🔥 FASE 1: ROBOS Y TRAICIÓN (Sesiones 4-6)**
+- **[00_Guia_General_Fase_1.md](./Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)** → **EVENTOS CATALIZADORES**
+- Edward Teach ejecuta su plan: roba artefactos, crea el Talismán, asesina a Thyra
+- **Eventos fijos críticos** que desencadenan la guerra espontánea
+- **Decisiones críticas:** ¿Interrumpen el Talismán? ¿Salvan a Thyra?
+
+### **🎲 FASE 2: SANDBOX INICIAL (Sesiones 6-9)**
+- **[00_Guia_General_Fase_2.md](./Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)** → **LIBERTAD TOTAL DE ELECCIÓN**
 - Los PJ pueden elegir qué lugartenientes enfrentar y en qué orden
 - **PERO:** La trama paralela avanza automáticamente según `../02_Guia_DM/07_Cronologia_Maestra_Campana.md`
 - **Sistema de puntos:** Las acciones de los PJ influyen en la trama paralela
+- **Revelación gradual #1:** Primera sospecha sobre Manshoon
 
-### **🔍 FASE 3: REVELACIONES (Sesiones 8-13)**
-- **`../02_Guia_DM/09_Escenas_de_Revelacion.md`** → **SEMI-LINEAL**
-- Los PJ descubren la verdad sobre Manshoon y Edward Teach
-- **Estructura fija** pero con **elecciones dentro de cada escena**
+### **🌟 FASE 3: SANDBOX AVANZADO (Sesiones 9-12)**
+- **[00_Guia_General_Fase_3.md](./Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)** → **REVELACIONES Y ELECCIONES**
+- Los PJ descubren la verdad sobre Manshoon y el ritual de ascensión
+- **Estructura semi-lineal** con **elecciones críticas** (Sesión 11: Varrak)
 - La trama paralela continúa avanzando
+- **Revelación gradual #2:** El ritual de ascensión divina
 
-### **⚔️ FASE 4: CLÍMAX (Sesiones 14-15)**
-- **Sesión 14:** Recuento de puntos → Determina el estado final
-- **`03_Climax.md`** → **MÚLTIPLES FINALES** según puntuaciones
+### **⚔️ FASE 4: CLÍMAX (Sesiones 13-15)**
+- **[00_Guia_General_Fase_4.md](./Fase_4_Climax/00_Guia_General_Fase_4.md)** → **MÚLTIPLES FINALES**
+- **Sesión 13:** Ritual al 98%, llamada de los dioses
+- **Sesión 14:** Asalto a la Torre, determinación del final
+- **Sesión 15:** Combate final según el final elegido
 - **Completamente lineal** una vez determinado el estado final
 
 ## 🎯 **PARA EL DM**
@@ -59,8 +78,8 @@
 - **`../02_Guia_DM/00_Guia_Navegacion_DM.md`** → Guía completa de navegación
 - **`../02_Guia_DM/07_Cronologia_Maestra_Campana.md`** → Timeline maestro
 - **`../02_Guia_DM/06_Eventos_Ascension_Conclave.md`** → Sistema de puntos
-- **`../02_Guia_DM/09_Escenas_de_Revelacion.md`** → Escenas de revelación
-- **`../02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md`** → Stats de Kaelthas
+- **`Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md`** → Escenas de revelación
+- **`Fase_0_Railroad_Inicial/04_Kaelthas_El_Relojero_Roto.md`** → Stats de Kaelthas
 
 ### **Para los Jugadores:**
 - **`../01_Introduccion/`** → Información básica de la campaña
@@ -70,7 +89,7 @@
 
 ### **Sesión 1 (LINEAL):**
 1. Lee `01_Mision_Inicial.md`
-2. Consulta `../02_Guia_DM/10_Kaelthas_El_Relojero_Roto.md` para stats
+2. Consulta `Fase_0_Railroad_Inicial/04_Kaelthas_El_Relojero_Roto.md` para stats
 3. Sigue `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` Sesión 1
 
 ### **Sesiones 2-7 (SANDBOX + TRAMA PARALELA):**
@@ -80,7 +99,7 @@
 4. **DESPUÉS de la sesión:** Actualiza puntuaciones en `../02_Guia_DM/06_Eventos_Ascension_Conclave.md`
 
 ### **Sesiones 8-13 (REVELACIONES):**
-1. Sigue `../02_Guia_DM/09_Escenas_de_Revelacion.md` cronológicamente
+1. Sigue `Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md` cronológicamente
 2. Continúa usando `../02_Guia_DM/06_Eventos_Ascension_Conclave.md` para puntos
 3. Consulta `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para eventos fijos
 

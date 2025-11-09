@@ -1,4 +1,4 @@
-# 🎲 Simulación de la Campaña Chronosia
+ 🎲 Simulación de la Campaña Chronosia
 ## *Progresión Completa Basada en la Cronología Maestra*
 
 ---
