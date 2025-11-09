@@ -7,7 +7,7 @@
 > Este documento es una **guía rápida de referencia** con la información más crítica que necesitas antes y durante cada sesión. Para detalles completos, consulta los documentos específicos listados al final.
 
 > **📖 DOCUMENTOS CLAVE:**
-> - **[04_Cronofagos_Detallado.md](./04_Cronofagos_Detallado.md)** - ⭐ Lugartenientes y poderes
+> - **[04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ Vista general de lugartenientes (ver archivos individuales para statblocks completos)
 > - **[05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia + Resolución final
 > - **[07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md)** - ⭐ Timeline maestro completo
 > - **[05_Encuentro_Anacronistas_Relojeros.md](../04_Aventuras/Fase_2_Sandbox_Inicial/05_Encuentro_Anacronistas_Relojeros.md)** - ⭐ Contador del Ritual (Sesión 8-9)
@@ -36,7 +36,7 @@ La campaña tiene **8 lugartenientes principales activos** fijos:
 **Ver tabla completa en:** [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
 ### **📋 Lista de Verificación Pre-Campaña**
-- [ ] Leer [04_Cronofagos_Detallado.md](./04_Cronofagos_Detallado.md) - Lugartenientes y poderes
+- [ ] Leer [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) - Vista general de lugartenientes (ver archivos individuales para statblocks completos)
 - [ ] Leer [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md) - Sistema de competencia y resolución final
 - [ ] Leer [07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md) - Timeline maestro
 - [ ] Revisar [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md) - Regiones
@@ -140,7 +140,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **Objetivo**: Eventos catalizadores que desencadenan la guerra
 - **Estilo**: Eventos fijos críticos con decisiones importantes
 - **Elementos**: Robo del Cronómetro → Robo de la Perla → Creación del Talismán → Asesinato de Thyra
-- **Decisiones críticas**: ¿Interrumpen el Talismán? ¿Salvan a Thyra?
+- **Eventos fijos**: El Talismán SIEMPRE se crea, Thyra SIEMPRE muere (los PJ pueden intentar prevenir pero estos eventos ocurren inevitablemente)
 - **📖 Guía completa:** [00_Guia_General_Fase_1.md](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
 
 ### **🎲 FASE 2: SANDBOX INICIAL (Sesiones 6-9)**
@@ -213,7 +213,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **Cronófagos**: Hostiles, sirven a Aethernus, manipulan tiempo/espacio
 - **Anacronistas**: Aliados de los PJ, protegen Cronópolis, guían a los PJ
 - **Relojeros Negros**: Neutrales, tecnología anti-magia, pueden aliarse
-- **Nautilus**: Vendetta contra Edward Teach, aliados potenciales
+- **Oceánicos de las Profundidades**: Vendetta contra Edward Teach, aliados potenciales
 - **Bregan D'aerthe**: Mercenarios ambiguos, sirven a quien pague
 - **Colonos del Archipiélago**: Habitantes de las islas, neutrales pero aliados si ayudas contra Teach
 

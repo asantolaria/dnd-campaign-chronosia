@@ -63,7 +63,7 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro (referencia general)
 - **[04_Escenas_de_Revelacion.md](../Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md)** - Revelaciones graduales
 - **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema de competencia
-- **[04_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado.md)** - Varrak del Horizonte
+- **[04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md)** - Varrak del Horizonte (ficha completa)
 
 ---
 

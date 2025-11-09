@@ -512,7 +512,7 @@ Los PJ se enteran de las reacciones de los lugartenientes a través de:
 - Rumores en Cronópolis (Anacronistas aterrorizados)
 - Testigos oculares del asesinato de Thyra
 - Perturbaciones mágicas masivas detectables en toda Chronosia
-- Espías de los Nautilus informando sobre movimientos extraños
+- Espías de los Oceánicos de las Profundidades informando sobre movimientos extraños
 
 **Lo Que Ocurre:**
 La noticia del asesinato de Thyra se propaga como fuego. Los lugartenientes reaccionan cada uno según su personalidad, ambición y miedo. **NO hay reunión oficial, solo caos espontáneo.**

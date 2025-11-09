@@ -28,23 +28,16 @@ flowchart TD
     
     FASE1 --> S4[Sesión 4: Robo del Cronómetro<br/>Edward Teach actúa]
     S4 --> S4A{¿PJ investigan?}
-    S4A -->|Sí| S4B[Sesión 4-5: Robo de la Perla<br/>Nautilus traicionados]
+    S4A -->|Sí| S4B[Sesión 4-5: Robo de la Perla<br/>Oceánicos traicionados]
     S4A -->|No| S4C[PJ pierden pista]
     S4B --> S5[Sesión 5: Creación del Talismán<br/>¿PJ interrumpen?]
     S4C --> S5
     
-    S5 --> S5A{¿PJ interrumpen ritual?}
-    S5A -->|Sí| S5B[Talismán NO creado<br/>Final B imposible]
-    S5A -->|No| S5C[Talismán creado<br/>Final B posible]
+    S5 --> S5A[⚠️ Talismán SIEMPRE creado<br/>Evento fijo]
+    S5A --> S6A[⚠️ Thyra SIEMPRE muere<br/>Evento fijo<br/>Edward Teach gana poder]
     
-    S5B --> S6A[Sesión 5-6: Asesinato de Thyra<br/>Edward Teach gana poder]
-    S5C --> S6A
+    S6A --> S6[Sesión 6: Caos Desencadenado<br/>Guerra espontánea comienza]
     
-    S6A --> S6B{¿PJ salvan a Thyra?}
-    S6B -->|Sí| ALT1[ALTERNATIVA: Thyra viva<br/>Campaña cambia drásticamente]
-    S6B -->|No| S6[Sesión 6: Caos Desencadenado<br/>Guerra espontánea comienza]
-    
-    ALT1 --> FASE2
     S6 --> FASE2[FASE 2: SANDBOX INICIAL<br/>Sesiones 6-9]
     
     FASE2 --> S7[Sesión 6-7: Exploración Libre<br/>6 regiones desbloqueadas]

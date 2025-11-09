@@ -28,9 +28,14 @@
 - [ ] Encuentros especiales
 
 ### **Tablas de Tesoros:**
+- [x] **[21_Objetos_Magicos_Reliquias.md](21_Objetos_Magicos_Reliquias.md)** - Catálogo completo de objetos mágicos, artefactos y reliquias ✅
+  - Artefactos Principales (Cronómetro, Perla, Contador, Espejo, Arena, Excavadora, Rotor)
+  - Objetos de NPCs Importantes (Aethernus, Lugartenientes)
+  - Recompensas de Facciones (Anacronistas, Oceánicos de las Profundidades)
+  - Inventos de los Ingenieros (Relojeros Negros)
+  - Reliquias Divinas (Fragmentos de Amaunator y Voidar)
 - [ ] Tesoros por nivel
-- [ ] Artefactos únicos
-- [ ] Recompensas de facciones
+- [ ] Recompensas de facciones (detalladas)
 
 ### **Tablas de Utilidad:**
 - [ ] Nombres de NPCs

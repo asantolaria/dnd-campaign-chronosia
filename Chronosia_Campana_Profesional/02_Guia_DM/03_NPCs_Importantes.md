@@ -146,6 +146,103 @@
 - **Objetos Únicos**: Sus relojes pueden ser artefactos que ayuden a los PJ a navegar por el semiplano
 - **Momento Emocional**: Su estabilidad contrasta con el caos del mundo, creando momentos de paz y reflexión
 
+### **⚙️ Din Goldgear - La Mano Derecha de Cornelius**
+- **Raza**: Gnomo de los Bosques
+- **Clase**: Artífice (Nivel 9)
+- **Rol**: Mano Derecha de Cornelius "El Inmutable" y Maestro Ingeniero
+- **Alineación**: Neutral Bueno
+- **Ubicación**: Taller de Cornelius en Cronosgate / Taller de Ingeniería en Cronópolis
+
+**Descripción Física**: Un gnomo joven con una pequeña barba bien cuidada, siempre vestido con un delantal de cuero manchado de aceite y herramientas de artífice colgando de su cinturón. Sus ojos brillan con curiosidad constante, y sus manos hábiles nunca están quietas, siempre ajustando, mejorando o inventando algo nuevo. Lleva gafas de aumento que se deslizan por su nariz cuando se concentra intensamente en su trabajo.
+
+**Historia y Origen**: Din Goldgear proviene de una honorable familia gnomos que durante generaciones se dedicó a la fabricación de herramientas y maquinarias en los Reinos Gnomos. Su familia financió su formación en la escuela del gran *Barnabas Goodwheels*, donde desarrolló sus habilidades como artífice. Sin embargo, la familia Goldgear cayó en bancarrota por mala gestión, lo que animó a Din a dejar el Reino de los Gnomos (que está bajo tierra) en busca de nuevas oportunidades.
+
+**Años en Waterdeep y Aventuras**: Tras dejar los Reinos Gnomos, Din se estableció en Waterdeep, donde vivió varios años trabajando como artífice independiente y participando en numerosas aventuras. Durante este tiempo, conoció y trabajó con el **Maestro Thaddeus Ironwright**, el relojero mayor de Waterdeep, con quien desarrolló una amistad basada en el respeto mutuo por la precisión y la artesanía. Thaddeus le enseñó técnicas avanzadas de relojería y le presentó a otros artesanos de la ciudad. Mantenían correspondencia regular, compartiendo descubrimientos técnicos y discutiendo teorías sobre la naturaleza del tiempo.
+
+**La Experiencia de Barovia - La Aventura que le Marcó**: La aventura que más profundamente marcó a Din fue su tiempo en **Barovia**, una región arrancada de su plano y atrapada en un limbo dimensional gobernada por el vampiro Strahd von Zarovich. Allí, Din experimentó de primera mano cómo una región completa puede ser arrancada de la realidad y quedar atrapada entre planos, aislada del resto del multiverso. Esta experiencia le dejó cicatrices emocionales profundas: vio cómo la corrupción temporal y espacial puede destruir todo lo que una vez fue hermoso, cómo la esperanza puede ser sistemáticamente aplastada, y cómo incluso los más brillantes pueden quedar atrapados en una prisión sin salida.
+
+**Llegada a Chronosia**: Hace aproximadamente **5-6 años**, Din estaba experimentando con un dispositivo de teletransportación experimental en Waterdeep. El dispositivo, diseñado para viajes cortos entre ubicaciones, falló catastróficamente cuando una distorsión temporal masiva lo arrastró accidentalmente a Chronosia. Su dispositivo se sobrecargó con la energía temporal distorsionada y lo transportó directamente a Cronosgate, donde aterrizó literalmente en el taller de Cornelius. Desde entonces, Din ha estado atrapado en Chronosia, incapaz de hacer funcionar correctamente su dispositivo para regresar a Faerún.
+
+**El Dispositivo Fallido**: El dispositivo de teletransportación que trajo a Din a Chronosia sigue siendo un misterio para él. A pesar de años de trabajo con Cornelius y los ingenieros, no ha podido hacerlo funcionar correctamente para regresar. El dispositivo parece requerir una fuente de energía temporal estable que simplemente no existe en Chronosia, o tal vez necesita ser activado desde el lado de Faerún. Esta frustración técnica constante es una de las razones por las que Din se ha dedicado tan intensamente a entender las distorsiones temporales - no solo para ayudar a Chronosia, sino también para encontrar una forma de volver a casa.
+
+**La Conexión con Thaddeus Ironwright - La Tragedia que Nunca Supo**: Din mantuvo correspondencia regular con Thaddeus Ironwright durante sus primeros años en Waterdeep, pero cuando fue arrastrado a Chronosia, esa comunicación se cortó abruptamente. Din no sabe que Thaddeus fue asesinado durante el Festival del Reloj Astronómico (Sesión 1 de la campaña). Si los PJ mencionan el asesinato de Thaddeus, Din reaccionará con shock y devastación, descubriendo que su amigo y mentor murió sin que él pudiera estar allí, sin que pudiera ayudar, sin siquiera saberlo. Esta revelación será profundamente dolorosa para Din, y puede convertirse en una motivación adicional para ayudar a los PJ a derrotar a los Cronófagos y encontrar una forma de regresar a Faerún.
+
+**El Reconocimiento de la Similitud con Barovia**: Cuando Din llegó a Chronosia y comenzó a entender su naturaleza, experimentó un escalofrío de reconocimiento terrible: **Chronosia es exactamente como Barovia**. Una región completa arrancada de su plano original, atrapada en un limbo entre planos, donde pocos pueden acceder y nadie puede escapar fácilmente. Esta similitud le causó una mezcla de terror y determinación: terror porque sabe lo que significa estar atrapado en un lugar así, y determinación porque esta vez, con su experiencia previa, puede hacer la diferencia.
+
+**Encuentro con Cornelius**: Cornelius, que había estado trabajando solo durante años, encontró a Din desorientado pero fascinado por los relojes y mecanismos que llenaban su taller. Lo que comenzó como una relación de maestro-aprendiz se convirtió rápidamente en una asociación de iguales. Din aportó conocimientos modernos de ingeniería gnomos y técnicas de artífice, mientras que Cornelius compartió su comprensión única del tiempo y su inmunidad a las distorsiones temporales.
+
+**Rol como Mano Derecha**: Din se ha convertido en el asistente principal de Cornelius, manejando los aspectos más técnicos y mecánicos del taller mientras Cornelius se enfoca en la comprensión mística del tiempo. Din es quien construye los dispositivos que Cornelius diseña, quien mantiene los relojes complejos funcionando, y quien desarrolla nuevas tecnologías para estabilizar las distorsiones temporales.
+
+**Conexión con los Ingenieros de Cronópolis**: A través de Cornelius, Din ha establecido conexiones con los Relojeros Negros en Cronópolis. Aunque inicialmente desconfiaban de él (por ser un artífice que usa magia), su enfoque práctico y su habilidad para crear dispositivos mecánicos que funcionan sin magia pura le ganaron su respeto. Ahora trabaja ocasionalmente con Balthar Herrumbra, Lucienne Rietveldt y Kaoros el Sordo en proyectos conjuntos de estabilización temporal.
+
+**Personalidad y Características**:
+- **Analítico y Frío**: Din es meticuloso y preciso en todo lo que hace, a veces pareciendo distante o desapegado emocionalmente
+- **Mente Despierta**: Su curiosidad es insaciable; quiere entender cómo funciona TODO, especialmente las distorsiones temporales y espaciales
+- **Charlatán Técnico**: Le encanta aportar datos técnicos a las conversaciones, aunque comúnmente no sirvan para nada práctico
+- **Noble Venido a Menos**: A pesar de su cuna noble, no se coloca por encima del resto; cree que todos tienen la misma sangre
+- **Lealtad Férrea**: No ha tenido muchos amigos, por lo que se desvivirá por los pocos que le aprecian (especialmente Cornelius)
+- **Miedo al Error**: Teme equivocarse, y si es en un cálculo, todavía más. Esta ansiedad lo impulsa a ser extremadamente cuidadoso
+
+**Estadísticas y Habilidades (Nivel 9 Artífice)**:
+- **Inteligencia**: 19 (+4) - Su característica mágica
+- **Puntos de Golpe**: 57
+- **Clase de Armadura**: 19 (Camisote de malla CA 13, Escudo CA 2)
+- **Bonificador de Competencia**: +4
+- **Tiradas de Salvación Competentes**: Constitución (+5) e Inteligencia (+8)
+- **Astucia de Gnomo**: Ventaja en todas las TS de Inteligencia, Sabiduría y Carisma contra magia
+- **Habilidades Destacadas**: Historia (+8), Investigación (+8), Medicina (+5)
+- **Competencias**: Armadura intermedia y ligera, Escudo, Armas de fuego y sencillas. Herramientas de artesano, ebanista, ladrón y manitas
+- **Habilidad de Gnomo**: Puede hablar con las bestias pequeñas a través de sonidos y gestos
+
+**Inventos y Equipamiento Especial**:
+- **Cañón Sobrenatural/Explosivo**: Din ha adaptado su cañón mágico para funcionar con energía temporal estabilizada. Sus cañones son más destructivos, y sus tiradas de daño aumentan en 1d8. Puede ordenar que el cañón explote si está a 60 pies o menos.
+- **Daga de Adamantita**: Lleva una daga crítica de adamantita (+6, 1d4 +2 perforante) que se confeccionó a partir de un pedazo de roca extraterrestre. En Chronosia, ha descubierto que la adamantita tiene propiedades únicas contra las distorsiones temporales.
+- **Sirviente Homúnculo**: Ha creado un homúnculo especial a partir de un cristal temporal estabilizado (valorado en al menos 100 po). El homúnculo puede detectar distorsiones temporales y alertar a Din.
+- **Anillo de Recarga de Conjuros**: Puede recuperar un espacio de conjuro gastado (nivel 3 o inferior) una vez por amanecer.
+- **Dispositivos de Estabilización Temporal**: Din ha desarrollado varios dispositivos únicos que ayudan a estabilizar pequeñas distorsiones temporales, trabajando en conjunto con los relojes de Cornelius.
+
+**Función en la Campaña - Mecenas y Creador de Artefactos**:
+- **Mecenas Importante**: Din se ha convertido en uno de los mecenas más importantes de la campaña, proporcionando recursos, información y apoyo logístico a los PJ
+- **Creador de Artefactos Clave**: Din es el creador de muchos de los artefactos que los PJ usarán durante la campaña, incluyendo dispositivos de estabilización temporal, herramientas anti-distorsión, y objetos únicos necesarios para enfrentar a los lugartenientes
+- **Proveedor de Tecnología**: Din puede crear y modificar dispositivos mecánicos y mágicos para los PJ, adaptándolos a las necesidades específicas de cada misión
+- **Reparación de Equipo**: Puede reparar objetos mágicos dañados por distorsiones temporales o espaciales, una habilidad crucial en un mundo donde la magia puede fallar
+- **Información Técnica y Estratégica**: Proporciona explicaciones técnicas sobre cómo funcionan las distorsiones y cómo contrarrestarlas, además de información estratégica basada en su experiencia en Barovia
+- **Puente entre Facciones**: Su conexión con Cornelius (místico) y los Relojeros Negros (tecnológicos) lo convierte en un mediador natural
+- **Inventos Personalizados**: Puede crear dispositivos específicos para los PJ basados en sus necesidades, a menudo trabajando con Cornelius para combinar magia y tecnología
+- **Momento de Conexión Emocional**: Su historia de pérdida (Thaddeus), su experiencia traumática (Barovia), y su búsqueda de propósito puede resonar profundamente con los PJ que también están lejos de casa y atrapados en una situación similar
+- **Voz de Experiencia**: Su conocimiento de Barovia le permite advertir a los PJ sobre patrones similares que ve en Chronosia, ayudándolos a evitar errores que podrían ser fatales
+
+**Relación con Cornelius**:
+Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es su "mano derecha", su relación es más profunda: Cornelius le ha dado un propósito y un hogar en un mundo fracturado. Din, a su vez, ha traído innovación y nuevas perspectivas al trabajo de Cornelius, permitiendo que ambos alcancen logros que no habrían sido posibles solos.
+
+**Momentos Narrativos Clave**:
+- **Primer Encuentro**: Los PJ pueden conocer a Din trabajando en el taller de Cornelius, ajustando un reloj complejo. Si mencionan el asesinato de Thaddeus Ironwright, Din reaccionará con shock y devastación - **no sabía que Thaddeus había muerto**. Esta será una revelación traumática para Din
+- **Revelación de su Historia**: Din comparte cómo llegó a Chronosia hace años, su conexión con Thaddeus (antes de quedar atrapado), y su experiencia en Barovia. Esta revelación puede ser un momento emocional poderoso, especialmente si los PJ también están atrapados en Chronosia
+- **Descubrimiento de la Muerte de Thaddeus**: Si los PJ mencionan el asesinato de Thaddeus, Din descubrirá que su amigo murió sin que él pudiera estar allí. Este momento puede ser extremadamente emocional y puede convertirse en una motivación adicional para ayudar a los PJ
+- **Reconocimiento de la Similitud**: Din puede advertir a los PJ sobre los paralelos entre Barovia y Chronosia, compartiendo lecciones aprendidas que pueden salvar vidas
+- **Proyecto Conjunto**: Din y Cornelius pueden pedir ayuda a los PJ para un proyecto ambicioso de estabilización temporal, ofreciendo artefactos poderosos como recompensa
+- **Crisis Personal**: Si Cornelius está en peligro, Din hará cualquier cosa para protegerlo. Si los PJ mencionan a Thaddeus o a Barovia, puede tener reacciones emocionales intensas
+- **Creación de Artefactos Clave**: Din puede crear artefactos específicos necesarios para enfrentar a lugartenientes particulares o resolver problemas críticos de la campaña
+- **Mecenazgo Activo**: Din puede financiar misiones, proporcionar recursos, y ofrecer recompensas significativas por completar objetivos importantes
+- **Reconciliación Final**: Din puede ayudar a los PJ a entender que la tecnología y la magia pueden coexistir para el bien común, y que incluso en lugares como Barovia o Chronosia, la esperanza puede triunfar
+
+**Objetos Únicos que Puede Proporcionar**:
+- **Reloj de Estabilización Temporal**: Dispositivo que crea una burbuja de tiempo normal de 30 pies de radio
+- **Cañón Anti-Distorsión**: Arma que dispara proyectiles que neutralizan distorsiones temporales menores
+- **Gafas de Percepción Temporal**: Permiten ver el flujo natural del tiempo incluso cuando está distorsionado
+- **Herramientas de Artífice Mejoradas**: Herramientas que otorgan ventaja en tiradas de reparación y creación
+- **Dispositivo de Comunicación Temporal**: Permite comunicarse a través de pequeñas distorsiones temporales
+
+**Diálogos Característicos**:
+- *"La precisión es fundamental. Un cálculo erróneo aquí podría desestabilizar toda la región. Permíteme verificar estos números una vez más..."*
+- *"Cornelius me enseñó que el tiempo tiene un ritmo natural, como los engranajes de un reloj. Las distorsiones son como dientes rotos en una rueda dentada - todo se desalinea."*
+- *"He trabajado con los Relojeros Negros, pero su odio hacia la magia es... extremo. La magia es una herramienta, como cualquier otra. Lo que importa es cómo la usas."*
+- *"Mi familia perdió todo por mala gestión. No voy a cometer el mismo error. Cada cálculo, cada invento, cada decisión... debe ser perfecta."*
+- *"Thaddeus... Thaddeus era un buen hombre. Un maestro relojero sin igual. La última vez que hablamos, discutíamos teorías sobre la naturaleza del tiempo. Eso fue... hace años. Antes de que este maldito dispositivo me trajera aquí. No sé qué habrá sido de él..."* (Si los PJ le dicen que Thaddeus fue asesinado, Din se derrumbará emocionalmente)
+- *"He visto esto antes. Una región completa, arrancada de la realidad, atrapada en un limbo. En Barovia, no pudimos escapar hasta que derrotamos a Strahd. Aquí... aquí será diferente. Esta vez sé qué buscar, qué evitar, qué hacer."*
+- *"Chronosia es como Barovia, pero peor. Al menos en Barovia sabíamos quién era el enemigo. Aquí... aquí hay múltiples fuerzas trabajando, y algunas ni siquiera sabemos que existen."*
+- *"Si necesitáis algo construido, algo reparado, o algo inventado, venid a mí. Tengo los recursos y la experiencia. Y esta vez... esta vez no voy a fallar. No voy a permitir que otra región se convierta en una prisión eterna."*
+
 ### **🌍 Zephyr "El Saltamundos" - El Comerciante Interplanar**
 - **Raza**: Genasi del Aire (apariencia cambiante)
 - **Rol**: Comerciante Interplanar
@@ -257,11 +354,11 @@
 
 ---
 
-## 💰 **SISTEMA DE MECENAZGO DUAL**
+## 💰 **SISTEMA DE MECENAZGO TRIPLE**
 
-### **🎭 La Dinámica de los Dos Mecenas**
+### **🎭 La Dinámica de los Tres Mecenas**
 
-Chronosia presenta un sistema único de mecenazgo donde los personajes pueden recibir apoyo de **dos fuentes opuestas pero complementarias**:
+Chronosia presenta un sistema único de mecenazgo donde los personajes pueden recibir apoyo de **tres fuentes complementarias**:
 
 #### **⏰ Maestro Relojero de Chronópolis - El Mecenas Místico**
 - **Filosofía**: Acepta la magia como herramienta para restaurar el equilibrio
@@ -275,31 +372,42 @@ Chronosia presenta un sistema único de mecenazgo donde los personajes pueden re
 - **Método**: Recompensa la eliminación de amenazas mágicas y el uso de métodos no-mágicos
 - **Limitación**: Su apoyo depende de que los PJ eviten usar magia en su presencia
 
+#### **🔧 Din Goldgear - El Mecenas Artífice y Creador de Artefactos**
+- **Filosofía**: Combina magia y tecnología para crear soluciones prácticas
+- **Recursos**: Artefactos personalizados, reparación de equipo, tecnología híbrida, información estratégica basada en experiencia (Barovia), recursos financieros
+- **Método**: Recompensa acciones que ayuden a liberar Chronosia, proporciona artefactos clave necesarios para la campaña, financia misiones importantes
+- **Limitación**: Sus recursos dependen de materiales disponibles y tiempo de construcción, pero su motivación personal (venganza por Thaddeus, evitar otro Barovia) lo hace extremadamente generoso
+- **Ventaja Única**: Es el **creador de artefactos clave** de la campaña - muchos de los objetos que los PJ necesitarán serán construidos por Din
+
 ### **⚖️ Balance y Tensiones**
 
 #### **🤝 Momentos de Cooperación**
-- **Objetivo Común**: Ambos quieren derrotar a los cronófagos y restaurar el equilibrio
+- **Objetivo Común**: Los tres quieren derrotar a los cronófagos y restaurar el equilibrio
 - **Información Compartida**: Pueden proporcionar inteligencia complementaria
-- **Recursos Combinados**: Los PJ pueden usar ambos tipos de equipamiento
+- **Recursos Combinados**: Los PJ pueden usar todos los tipos de equipamiento
+- **Din como Mediador**: Din puede ayudar a mediar entre Marcus (anti-magia) y el Maestro Relojero (pro-magia), ya que él combina ambos enfoques
 
 #### **⚔️ Momentos de Conflicto**
-- **Uso de Magia**: Marcus se opone al uso de magia, el Maestro Relojero la fomenta
+- **Uso de Magia**: Marcus se opone al uso de magia, el Maestro Relojero la fomenta, Din la usa pragmáticamente
 - **Métodos Diferentes**: Enfoques opuestos para resolver los mismos problemas
-- **Lealtades Divididas**: Los PJ deben equilibrar ambas relaciones
+- **Lealtades Divididas**: Los PJ deben equilibrar las tres relaciones
+- **Din como Puente**: Din puede ayudar a los PJ a navegar estos conflictos, ofreciendo soluciones que combinen ambos enfoques
 
 ### **🎯 Estrategias de Mecenazgo**
 
-#### **📈 Progresión de Relación con Ambos Mecenas**
-- **Fase 1**: Desconfianza mutua, apoyo limitado
-- **Fase 2**: Respeto cauteloso, recursos básicos
-- **Fase 3**: Alianza táctica, equipamiento avanzado
-- **Fase 4**: Amistad verdadera, acceso total a recursos
+#### **📈 Progresión de Relación con los Tres Mecenas**
+- **Fase 1**: Desconfianza mutua, apoyo limitado (Din es más accesible desde el inicio debido a su motivación personal)
+- **Fase 2**: Respeto cauteloso, recursos básicos (Din proporciona artefactos básicos y reparaciones)
+- **Fase 3**: Alianza táctica, equipamiento avanzado (Din crea artefactos personalizados y financia misiones)
+- **Fase 4**: Amistad verdadera, acceso total a recursos (Din se convierte en aliado leal y crea artefactos épicos)
 
 #### **💡 Consejos para los PJ**
-- **Equilibrio**: Mantener buenas relaciones con ambos mecenas
+- **Equilibrio**: Mantener buenas relaciones con los tres mecenas
 - **Flexibilidad**: Adaptar métodos según la situación
-- **Diplomacia**: Explicar las decisiones difíciles a ambos
-- **Sacrificio**: A veces hay que elegir entre los dos
+- **Diplomacia**: Explicar las decisiones difíciles a todos
+- **Din como Puente**: Usar a Din para mediar entre Marcus y el Maestro Relojero cuando haya conflictos
+- **Aprovechar la Experiencia**: Escuchar los consejos de Din sobre Barovia - pueden salvar vidas
+- **Mencionar Thaddeus**: Si los PJ mencionan el asesinato de Thaddeus, Din será más generoso y accesible
 
 ---
 

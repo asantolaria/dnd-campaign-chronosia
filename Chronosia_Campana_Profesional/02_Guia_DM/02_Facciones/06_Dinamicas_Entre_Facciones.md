@@ -118,7 +118,7 @@ Los PJ descubren que los Colonos están organizando una resistencia secreta cont
 - Algunos Colonos pueden traicionar a los PJ por miedo a Teach si se sienten amenazados
 - Un Colonos puede ser un espía de Teach que intenta descubrir los planes de los PJ
 - La resistencia puede estar infiltrada por agentes de Bregan D'aerthe
-- Algunos Colonos pueden estar trabajando con los Nautilus en secreto
+- Algunos Colonos pueden estar trabajando con los Oceánicos de las Profundidades en secreto
 
 ---
 

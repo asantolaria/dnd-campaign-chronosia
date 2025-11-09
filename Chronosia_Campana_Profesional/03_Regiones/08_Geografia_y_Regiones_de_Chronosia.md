@@ -170,6 +170,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **Lanzamientos**: 1d8 efectos por sesión
 - **Momento**: Al inicio + cada hora + eventos importantes
 - **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+- **⚠️ ACCIÓN ESPECIAL:** Si el balance alcanza desbalance crítico (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
 
 ### **👥 Explicadores del Balance**
 
@@ -518,7 +519,7 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 
 **📖 Documentos Relacionados:**
 - [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Sistema completo de competencia entre lugartenientes
-- [04_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado.md) - Acciones legendarias y poderes de cada lugarteniente
+- [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) - Vista general (ver archivos individuales para acciones legendarias y poderes completos)
 - [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Descripción detallada de regiones temporales
 - [11_Regiones_Dimensionales.md](./11_Regiones_Dimensionales.md) - Descripción detallada de regiones dimensionales
 

@@ -61,7 +61,7 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 ### **🎲 Decisiones Críticas de los PJ:**
 - **Sesión 4:** ¿Investigan el robo del Cronómetro?
-- **Sesión 5:** ¿Interrumpen la creación del Talismán? (determina si Final B es posible)
+- **Sesión 5:** ⚠️ Creación del Talismán (SIEMPRE ocurre - evento fijo) - Los PJ pueden intentar interrumpir pero Teach lo completa de todas formas
 - **Sesión 5-6:** ¿Salvan a Thyra? (cambia completamente la campaña)
 
 ### **📊 Progresión de Niveles:**
@@ -81,9 +81,9 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - Deben demostrar inocencia o recuperar el artefacto
 
 ### **CATALIZADOR #1.5: Robo de la Perla (Sesión 4-5)**
-- Edward Teach traiciona a los Nautilus
-- 47 guerreros Nautilus mueren
-- Los Nautilus declaran vendetta eterna
+- Edward Teach traiciona a los Oceánicos de las Profundidades
+- 47 guerreros Oceánicos mueren
+- Los Oceánicos de las Profundidades declaran vendetta eterna
 
 ### **CATALIZADOR #2: Asesinato de Thyra (Sesión 5-6)**
 - **EL EVENTO MÁS IMPORTANTE DE LA CAMPAÑA**
@@ -102,8 +102,8 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - **[06_Eventos_Ascension_Conclave.md](../../02_Guia_DM/06_Eventos_Ascension_Conclave.md)** - Eventos que modifican puntos
 
 ### **Documentos de NPCs:**
-- **[04_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado.md)** - Edward Teach y Thyra
-- **[03_NPCs_Importantes.md](../../02_Guia_DM/03_NPCs_Importantes.md)** - Nautilus, Anacronistas
+- **[04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Edward Teach (ficha completa)
+- **[03_NPCs_Importantes.md](../../02_Guia_DM/03_NPCs_Importantes.md)** - Oceánicos de las Profundidades, Anacronistas
 
 ---
 
@@ -115,13 +115,13 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - **Pistas deben ser claras:** Rastro lleva al Archipiélago de Barbanegra
 
 ### **Sesión 5 - La Combinación:**
-- **Esta decisión determina si Final B es posible**
-- **Si interrumpen:** Combate épico vs Edward Teach (CR 17)
-- **Si no interrumpen:** Talismán creado, Final B posible
+- **⚠️ EVENTO FIJO:** El Talismán SIEMPRE se crea
+- **Si intentan interrumpir:** Combate épico vs Edward Teach (CR 17), pero el Talismán se completa de todas formas
+- **Final B depende del timing:** Si Teach llega primero a la Torre, usa el Talismán (Final B)
 
 ### **Sesión 5-6 - Asesinato de Thyra:**
-- **EL EVENTO MÁS IMPORTANTE:** Todo cambia después de esto
-- **Si los PJ salvan a Thyra:** Campaña cambia completamente (alternativa)
+- **⚠️ EVENTO FIJO:** Thyra SIEMPRE muere - El evento más importante de la campaña
+- **Si los PJ intentan prevenir:** Combate épico, pero Thyra muere de todas formas
 - **Si no salvan:** Evento fijo, guerra espontánea comienza
 
 ### **Sesión 6 - Caos Desencadenado:**
@@ -163,24 +163,24 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 **⚠️ EVENTO CATALIZADOR #1.5:**
 - ❗ **LA PERLA DEL VACÍO PRIMORDIAL ES ROBADA**
-- ❗ Edward Teach traiciona a los Nautilus
-- ❗ **47 GUERREROS NAUTILUS MUERTOS**
+- ❗ Edward Teach traiciona a los Oceánicos de las Profundidades
+- ❗ **47 GUERREROS OCEÁNICOS MUERTOS**
 
 **Desarrollo:**
 1. **Los PJ siguen el rastro** del robo del Cronómetro al Archipiélago
-2. **Descubren** que Teach visitó a los Nautilus bajo el agua
+2. **Descubren** que Teach visitó a los Oceánicos de las Profundidades bajo el agua
 3. **Esa noche:** Teach roba la Perla usando el Cronómetro
-4. **Masacre:** 47 guerreros Nautilus son succionados al Vacío Primordial
-5. **Consecuencia:** Los Nautilus declaran vendetta eterna contra Teach
+4. **Masacre:** 47 guerreros Oceánicos son succionados al Vacío Primordial
+5. **Consecuencia:** Los Oceánicos de las Profundidades declaran vendetta eterna contra Teach
 
 **NPCs Introducidos:**
-- Reina Nereia (líder Nautilus, 347 años)
-- Comandante Kael (líder militar Nautilus)
-- Archivista Mira (erudita Nautilus)
+- Reina Nereia (líder Oceánicos de las Profundidades, 347 años)
+- Comandante Kael (líder militar Oceánicos)
+- Archivista Mira (erudita Oceánica)
 
 **Regiones Nuevas Accesibles:**
 - **Archipiélago de Barbanegra** (Edward Teach - Dimensional Principal) - Nivel 11-13
-- **Abysara** (ciudad submarina Nautilus) - Explorable pero no hostil
+- **Abysara** (ciudad submarina Oceánicos de las Profundidades) - Explorable pero no hostil
 
 ---
 
@@ -201,9 +201,10 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
    - **SÍ:** Combate vs Edward Teach (CR 17) + 6 piratas élite
    - **NO / Llegan tarde:** Teach completa el Talismán
 
-**Consecuencias:**
-- **Si los PJ interrumpen:** Teach NO obtiene el Talismán → **Final B (Blackbeard Ascendant) IMPOSIBLE**
-- **Si Teach completa:** Teach obtiene el Talismán → **Final B posible**
+**⚠️ IMPORTANTE - EVENTO FIJO:**
+- **El Talismán SIEMPRE se crea** - Los PJ pueden intentar interrumpir, pero Teach lo completa de todas formas
+- **Consecuencias de intentar interrumpir:** Combate épico, pero el Talismán se completa de todas formas
+- **Final B depende del timing:** Si Teach llega primero a la Torre, usa el Talismán (Final B). Si los PJ llegan primero, Final A o C
 
 ---
 
@@ -224,12 +225,15 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 4. **La mata** y su poder de estasis temporal fluye hacia Teach (interceptado por el Talismán)
 5. **Perturbación masiva:** Los Anacronistas detectan la muerte de un lugarteniente
 
+**⚠️ IMPORTANTE - EVENTO FIJO:**
+- **Thyra SIEMPRE muere** - Los PJ pueden intentar salvarla, pero el asesinato ocurre inevitablemente
+
 **Opciones para los PJ:**
-- **Llegar DURANTE el asesinato:** Pueden intentar salvar a Thyra (si tienen éxito, la campaña cambia drásticamente)
+- **Llegar DURANTE el asesinato:** Pueden intentar prevenir, pero el asesinato ocurre de todas formas (combate épico, pero Thyra muere)
 - **Llegar DESPUÉS:** Encuentran la fortaleza vacía, cristales de tiempo por el suelo
 - **Enterarse por rumores:** Los Anacronistas les informan de la perturbación
 
-**Consecuencias:**
+**Consecuencias (SIEMPRE ocurren):**
 - **Thyra muere:** Su región queda sin líder (lugartenientes pueden reclamarla)
 - **Teach gana poder de estasis:** Ahora es extremadamente peligroso
 - **Otros lugartenientes se enteran:** Algunos aterrorizados, otros buscan aliarse/destruirlo
@@ -256,7 +260,7 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
    - **Dimensionalis:** "Caos = oportunidad. Venderé información a todos."
    - **Varrak:** "Esto es horrible. Los PJ tienen razón - debemos detener esto."
    - **Las Gemelas:** "Esperaremos y veremos quién prevalece."
-3. **Los PJ se enteran:** Anacronistas, Nautilus, u otros NPCs les informan del caos creciente
+3. **Los PJ se enteran:** Anacronistas, Oceánicos de las Profundidades, u otros NPCs les informan del caos creciente
 4. **Sistema de puntos comienza** (solo para tracking del DM): Todos empiezan con 0 pts (Edward Teach con +5 pts por matar a Thyra)
 
 **⚠️ IMPORTANTE - NO HAY COMPETENCIA OFICIAL:**

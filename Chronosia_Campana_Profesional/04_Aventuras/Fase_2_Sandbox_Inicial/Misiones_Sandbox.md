@@ -38,6 +38,10 @@
 
 ### **🎭 Misiones Especiales**
 - [Misiones de Facciones](#-misiones-de-facciones)
+- [Misiones Secundarias - Ingenieros y Construcción](#-misiones-secundarias---ingenieros-y-construcción)
+  - [Misiones de Materiales para Ingenieros](#️-misiones-de-materiales-para-ingenieros)
+  - [Misiones de Construcción](#️-misiones-de-construcción)
+  - [Misiones de Recompensas de Facciones](#-misiones-de-recompensas-de-facciones)
 - [Misiones de Investigación](#-misiones-de-investigación)
 - [Transición al Clímax](#-transición-al-clímax)
 
@@ -97,6 +101,7 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó u
 - **Lanzamientos**: 1d8 efectos por sesión
 - **Momento**: Al inicio + cada hora + eventos importantes
 - **Efectos**: Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+- **⚠️ ACCIÓN ESPECIAL:** Si el balance alcanza desbalance crítico (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
 
 **👥 Explicadores del Balance:**
 - **Zephyr (Anacronistas)**: Explicador principal de la teoría del balance
@@ -464,6 +469,342 @@ Un reino de hielo eterno en el extremo norte donde Ymir domina con control espac
 - **Ventajas**: Información privilegiada, recursos de Faerûn, tecnología avanzada, red de espías
 - **Desventajas**: Lealtad cuestionable, pueden traicionar en cualquier momento, métodos poco éticos
 - **Cuándo Aliarse**: Cuando necesiten información sobre Matrona Veldrisza, recursos de Menzoberranzan
+
+---
+
+## 🔧 **MISIONES SECUNDARIAS - INGENIEROS Y CONSTRUCCIÓN**
+
+### **⚙️ Misiones de Materiales para Ingenieros**
+
+Estas misiones pueden ser ofrecidas por **Din Goldgear**, **Balthar Herrumbra**, **Lucienne Rietveldt**, o **Kaoros el Sordo** en cualquier momento durante el sandbox. Son opcionales pero ofrecen recompensas valiosas y acceso a artefactos únicos.
+
+#### **🔨 Misión: "Cristales Dimensionales para la Excavadora"**
+
+**Quest Giver:** Din Goldgear o Balthar Herrumbra  
+**Nivel Recomendado:** 7-9  
+**Ubicación:** Variable (depende de dónde se encuentren los cristales)
+
+**Objetivo:**
+Recolectar **5 Cristales Dimensionales Puros** necesarios para construir la Excavadora Dimensional.
+
+**Materiales Necesarios:**
+1. **Cristal Dimensional de Las Llanuras de la Compresión** (Dimensionalis)
+   - **Ubicación:** Centro de una compresión espacial masiva
+   - **Protección:** Guardianes Dimensionales (CR 8-10)
+   - **Dificultad:** El espacio está tan comprimido que los PJ deben usar magia o tecnología especial
+   - **Recompensa Parcial:** 1,000 po + objeto mágico menor
+
+2. **Cristal Dimensional de La Ciudad Subterránea** (Veldrisza)
+   - **Ubicación:** Profundidades de la ciudad drow
+   - **Protección:** Guerreros Drow (CR 8-10) + trampas
+   - **Dificultad:** Requiere infiltrarse en territorio hostil
+   - **Recompensa Parcial:** 1,200 po + información sobre Veldrisza
+
+3. **Cristal Dimensional de El Jardín de los Tiempos Gemelos** (Las Gemelas)
+   - **Ubicación:** Dentro de un espejo dimensional
+   - **Protección:** Reflejos Independientes (CR 9-11)
+   - **Dificultad:** Puzzle de espejos + combate con reflejos
+   - **Recompensa Parcial:** 1,500 po + objeto relacionado con espejos
+
+4. **Cristal Dimensional de Glacialis** (Ymir)
+   - **Ubicación:** Dentro de un glaciar dimensional congelado
+   - **Protección:** Elementales de Agua (CR 6-8) + frío extremo
+   - **Dificultad:** Resistir frío extremo, excavar en hielo eterno
+   - **Recompensa Parcial:** 800 po + objeto de hielo
+
+5. **Cristal Dimensional de Las Calderas Dimensionales** (Ignis)
+   - **Ubicación:** Dentro de una caldera volcánica dimensional
+   - **Protección:** Elementales de Fuego (CR 10-12) + calor extremo
+   - **Dificultad:** Resistir calor extremo, navegar lava dimensional
+   - **Recompensa Parcial:** 1,500 po + objeto de fuego
+
+**Recompensa Completa:**
+- **Excavadora Dimensional** construida y lista para usar
+- **5,000 po** adicionales (además de las recompensas parciales)
+- **Alianza permanente** con los Ingenieros
+- **Acceso a tecnología avanzada** de los Relojeros Negros
+
+**Nota para el DM:**
+- Los PJ pueden recolectar los cristales en cualquier orden
+- Pueden completar esta misión a lo largo de múltiples sesiones
+- Si los PJ ya derrotaron a un lugarteniente, pueden obtener el cristal de su región más fácilmente
+
+---
+
+#### **⚙️ Misión: "Engranajes de Mithril para el Rotor"**
+
+**Quest Giver:** Din Goldgear o Lucienne Rietveldt  
+**Nivel Recomendado:** 5-7  
+**Ubicación:** Varias regiones
+
+**Objetivo:**
+Recolectar **10 Engranajes de Mithril Puro** necesarios para ensamblar el Rotor Infinito.
+
+**Materiales Necesarios:**
+1. **Mithril de La Espiral del Reloj de Arena** (Serapis)
+   - **Ubicación:** Dentro de un bucle temporal estabilizado
+   - **Protección:** Guardianes Temporales (CR 5-7)
+   - **Cantidad:** 3 engranajes
+   - **Dificultad:** Deben resolver un puzzle temporal para acceder
+
+2. **Mithril de Glacialis** (Ymir)
+   - **Ubicación:** Dentro de hielo eterno
+   - **Protección:** Elementales de Agua (CR 4-6)
+   - **Cantidad:** 2 engranajes
+   - **Dificultad:** Excavar en hielo que nunca se derrite
+
+3. **Mithril de Las Ruinas del Tiempo Perdido** (Tempus)
+   - **Ubicación:** Ruinas antiguas enterradas
+   - **Protección:** Constructos Temporales (CR 6-8)
+   - **Cantidad:** 2 engranajes
+   - **Dificultad:** Navegar bucles temporales descontrolados
+
+4. **Mithril de Cronópolis** (Anacronistas)
+   - **Ubicación:** Taller de los Anacronistas
+   - **Protección:** Ninguna (pero requiere buena relación)
+   - **Cantidad:** 3 engranajes
+   - **Dificultad:** Completar una misión para los Anacronistas
+
+**Recompensa Completa:**
+- **Acceso prioritario** al Rotor Infinito cuando esté completo
+- **2,000 po**
+- **Objeto mágico menor** de tecnología
+- **Descuento del 20%** en compras de los Relojeros Negros
+
+---
+
+#### **🔨 Misión: "Acero Reforzado para Construcciones"**
+
+**Quest Giver:** Balthar Herrumbra  
+**Nivel Recomendado:** 6-8  
+**Ubicación:** Varias regiones
+
+**Objetivo:**
+Recolectar **500 libras de Acero Reforzado** de calidad excepcional para múltiples proyectos de los Ingenieros.
+
+**Materiales Necesarios:**
+1. **Acero de Las Calderas Dimensionales** (Ignis)
+   - **Ubicación:** Forjas dimensionales en las calderas
+   - **Cantidad:** 200 libras
+   - **Protección:** Guardianes de Calderas (CR 8-10)
+   - **Especial:** Este acero ha sido templado en fuego dimensional
+
+2. **Acero de La Ciudad Subterránea** (Veldrisza)
+   - **Ubicación:** Forjas drow en las profundidades
+   - **Cantidad:** 150 libras
+   - **Protección:** Guerreros Drow (CR 7-9)
+   - **Especial:** Acero drow de calidad superior
+
+3. **Acero de Cronópolis** (Relojeros Negros)
+   - **Ubicación:** Taller de los Relojeros Negros
+   - **Cantidad:** 150 libras
+   - **Protección:** Ninguna (pero requiere buena relación)
+   - **Especial:** Acero anti-magia especializado
+
+**Recompensa Completa:**
+- **3,000 po**
+- **Escudo Tecnológico** gratuito
+- **Acceso a construcciones especiales** de los Ingenieros
+- **Reparación gratuita** de equipo tecnológico
+
+---
+
+### **🏗️ Misiones de Construcción**
+
+#### **⚙️ Misión: "Ayudar a Construir la Excavadora Dimensional"**
+
+**Quest Giver:** Din Goldgear  
+**Nivel Recomendado:** 7-9  
+**Ubicación:** Cronópolis (Taller de Din Goldgear)
+
+**Objetivo:**
+Ayudar a Din Goldgear y los Ingenieros a construir la Excavadora Dimensional.
+
+**Proceso:**
+1. **Fase 1 - Diseño (1 día):**
+   - Los PJ ayudan a diseñar los planos
+   - **Prueba:** Inteligencia (Herramientas de Artífice) CD 15
+   - **Recompensa Parcial:** 500 po + experiencia
+
+2. **Fase 2 - Construcción del Chasis (3 días):**
+   - Los PJ ayudan a construir la estructura base
+   - **Prueba:** Fuerza (Herramientas de Herrero) CD 12
+   - **Recompensa Parcial:** 1,000 po + experiencia
+
+3. **Fase 3 - Instalación de Engranajes (2 días):**
+   - Los PJ instalan los engranajes de mithril
+   - **Prueba:** Destreza (Herramientas de Artífice) CD 14
+   - **Recompensa Parcial:** 800 po + experiencia
+
+4. **Fase 4 - Integración de Cristales (1 día):**
+   - Los PJ integran los cristales dimensionales
+   - **Prueba:** Inteligencia (Arcanismo) CD 16
+   - **Recompensa Parcial:** 1,200 po + experiencia
+
+**Recompensa Completa:**
+- **Excavadora Dimensional** construida (los PJ pueden usarla)
+- **5,000 po** adicionales
+- **Objeto mágico personalizado** creado por Din Goldgear
+- **Alianza permanente** con Din Goldgear
+
+**Nota para el DM:**
+- Si los PJ ayudan, el tiempo de construcción se reduce a la mitad
+- Pueden hacerlo en múltiples sesiones (no necesita ser continuo)
+- Si fallan una prueba, pueden repetirla al día siguiente
+
+---
+
+#### **⚙️ Misión: "Ensamblar el Rotor Infinito"**
+
+**Quest Giver:** Din Goldgear, Balthar Herrumbra, o Lucienne Rietveldt  
+**Nivel Recomendado:** 5-7 (después de derrotar a Serapis y Ymir)  
+**Ubicación:** Cronópolis (Taller de los Ingenieros)
+
+**Objetivo:**
+Ensamblar el Rotor Infinito completo usando el Núcleo Temporal (de Serapis) y la Carcasa Helada (de Ymir).
+
+**Requisitos Previos:**
+- **Núcleo Temporal:** Obtener de Serapis el Retroceso
+- **Carcasa Helada:** Obtener de Ymir el Eterno Invierno
+- **10 Engranajes de Mithril:** Completar misión de engranajes (opcional pero recomendado)
+
+**Proceso:**
+1. **Fase 1 - Preparación (1 día):**
+   - Preparar el taller y los materiales
+   - **Requisito:** 5,000 po en materiales adicionales
+
+2. **Fase 2 - Integración del Núcleo (2 días):**
+   - Integrar el Núcleo Temporal en la estructura
+   - **Prueba:** Inteligencia (Herramientas de Artífice) CD 18
+   - **Dificultad:** Muy difícil - requiere conocimiento técnico avanzado
+
+3. **Fase 3 - Instalación de la Carcasa (2 días):**
+   - Instalar la Carcasa Helada alrededor del núcleo
+   - **Prueba:** Destreza (Herramientas de Herrero) CD 16
+   - **Dificultad:** El hielo eterno es difícil de trabajar
+
+4. **Fase 4 - Sincronización (2 días):**
+   - Sincronizar ambos componentes para que funcionen juntos
+   - **Prueba:** Inteligencia (Arcanismo) CD 20
+   - **Dificultad:** Extremadamente difícil - requiere magia y tecnología
+
+**Recompensa Completa:**
+- **Rotor Infinito** completo y funcional
+- **Motor de Viento Perpetuo** construido (desbloquea Archipiélago de Barbanegra)
+- **10,000 po**
+- **Acceso prioritario** al Ferrocarril Universal (post-campaña)
+- **Bendición de los Ingenieros:** +1 a todas las tiradas con herramientas
+
+**Nota para el DM:**
+- Si los PJ no tienen las habilidades necesarias, Din Goldgear puede hacer la mayor parte del trabajo
+- Los PJ pueden ayudar en fases específicas según sus habilidades
+- El proceso completo toma 1 semana de tiempo de juego
+
+---
+
+### **🎁 Misiones de Recompensas de Facciones**
+
+#### **🔧 Misión: "Tecnología para los Relojeros Negros"**
+
+**Quest Giver:** Balthar Herrumbra, Lucienne Rietveldt, o Kaoros el Sordo  
+**Nivel Recomendado:** 6-10  
+**Ubicación:** Variable
+
+**Objetivos Opcionales:**
+1. **Robar Tecnología de los Cronófagos:**
+   - Infiltrarse en una base de los Cronófagos
+   - Robar dispositivos temporales/dimensionales
+   - **Recompensa:** Rifle Anti-Magia o Escudo Tecnológico
+
+2. **Recolectar Componentes Anti-Magia:**
+   - Encontrar minerales que cancelan magia
+   - **Ubicación:** Varias regiones (rollo aleatorio)
+   - **Recompensa:** Granada de Estabilidad (x5)
+
+3. **Proteger el Taller:**
+   - Defender el Taller de los Relojeros Negros de un ataque
+   - **Recompensa:** Trampa Mecánica Anti-Magia + 2,000 po
+
+---
+
+#### **🌊 Misión: "Ayuda para los Oceánicos de las Profundidades"**
+
+**Quest Giver:** Reina Nereia o Comandante Kael  
+**Nivel Recomendado:** 5-9  
+**Ubicación:** Abysara o Archipiélago de Barbanegra
+
+**Objetivos Opcionales:**
+1. **Recuperar la Perla del Vacío Primordial:**
+   - Derrotar a Edward Teach y recuperar la Perla
+   - **Recompensa:** Bendición del Vacío (permanente) + 10 Guerreros Oceánicos CR 8
+
+2. **Proteger Abysara:**
+   - Defender la ciudad de un ataque de los Cronófagos
+   - **Recompensa:** Tridente del Vacío + Amuleto de Respiración Acuática
+
+3. **Recolectar Tesoros Submarinos:**
+   - Explorar ruinas submarinas cerca de Abysara
+   - **Recompensa:** Escama de Oceánico + 3,000 po
+
+---
+
+#### **⏰ Misión: "Conocimiento para los Anacronistas"**
+
+**Quest Giver:** Maestro Relojero o Zephyr  
+**Nivel Recomendado:** 5-9  
+**Ubicación:** Cronópolis o regiones temporales
+
+**Objetivos Opcionales:**
+1. **Recuperar el Cronómetro de Realidades:**
+   - Derrotar a Edward Teach y recuperar el Cronómetro
+   - **Recompensa:** Artefacto Gnomo (elegir uno) + Alianza permanente
+
+2. **Explorar Ruinas Temporales:**
+   - Descubrir secretos en Las Ruinas del Tiempo Perdido
+   - **Recompensa:** Gafas de Percepción Temporal + Brújula del Tiempo Verdadero
+
+3. **Estabilizar Distorsiones:**
+   - Usar artefactos gnomos para estabilizar distorsiones temporales
+   - **Recompensa:** Reloj de Estabilización Temporal + 2,000 po
+
+---
+
+## 📋 **TABLA DE REFERENCIA RÁPIDA - MISIONES SECUNDARIAS**
+
+| **Misión** | **Quest Giver** | **Nivel** | **Recompensa Principal** | **Tiempo Estimado** |
+|------------|----------------|-----------|-------------------------|---------------------|
+| Cristales Dimensionales | Din Goldgear / Balthar | 7-9 | Excavadora Dimensional | 2-3 sesiones |
+| Engranajes de Mithril | Din Goldgear / Lucienne | 5-7 | Acceso Rotor Infinito | 1-2 sesiones |
+| Acero Reforzado | Balthar Herrumbra | 6-8 | Escudo Tecnológico | 1-2 sesiones |
+| Construir Excavadora | Din Goldgear | 7-9 | Excavadora + Objeto personalizado | 1 semana (IG) |
+| Ensamblar Rotor | Din Goldgear / Balthar | 5-7 | Rotor + Motor de Viento | 1 semana (IG) |
+| Tecnología Relojeros | Varios | 6-10 | Armas/Objetos tecnológicos | 1 sesión |
+| Ayuda Oceánicos | Reina Nereia / Kael | 5-9 | Bendiciones del Vacío | 1-2 sesiones |
+| Conocimiento Anacronistas | Maestro Relojero | 5-9 | Artefactos Gnomos | 1-2 sesiones |
+
+---
+
+## 💡 **NOTAS PARA EL DM - MISIONES SECUNDARIAS**
+
+### **Cuándo Ofrecerlas:**
+- **Después de derrotar un lugarteniente:** Los Ingenieros pueden pedir materiales de esa región
+- **Cuando los PJ regresen a Cronópolis:** Din Goldgear puede tener nuevas solicitudes
+- **Como alternativa a combate:** Si los PJ prefieren exploración/recuperación sobre combate directo
+
+### **Flexibilidad:**
+- **Pueden completarse en cualquier orden:** No hay orden fijo
+- **Pueden hacerse en paralelo:** Los PJ pueden trabajar en múltiples misiones secundarias
+- **Opcionales:** Los PJ pueden ignorarlas si prefieren enfocarse en lugartenientes
+
+### **Integración Narrativa:**
+- **Conectan con la trama principal:** Los materiales vienen de regiones de lugartenientes
+- **Crean vínculos con facciones:** Mejoran relaciones con Ingenieros, Oceánicos, Anacronistas
+- **Ofrecen recompensas útiles:** Los artefactos construidos son valiosos para la campaña
+
+### **Balance:**
+- **No son necesarias para completar la campaña:** Son opcionales
+- **Ofrecen ventajas significativas:** Los artefactos pueden cambiar estrategias
+- **Requieren tiempo:** Los PJ deben decidir si vale la pena invertir tiempo en ellas
 
 ---
 

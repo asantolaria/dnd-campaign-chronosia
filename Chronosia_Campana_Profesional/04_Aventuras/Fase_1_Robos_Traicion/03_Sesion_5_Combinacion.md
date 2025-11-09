@@ -41,7 +41,7 @@
 ### **1. Rastreo a la Isla Secreta (45 minutos)**
 
 **Pistas que Llevan a la Isla:**
-- Información de los Nautilus (si formaron alianza)
+- Información de los Oceánicos de las Profundidades (si formaron alianza)
 - Testimonios de piratas en el Archipiélago
 - Rastros mágicos del Cronómetro y la Perla
 - Visión del Cronómetro de Realidades (si los PJ tienen acceso temporal)
@@ -89,19 +89,19 @@ se unen. El Talismán de Interceptación Divina... casi está completo."
 
 ### **3. La Decisión Crítica (30 minutos)**
 
-**⚠️ ESTA DECISIÓN DETERMINA SI EL FINAL B ES POSIBLE:**
+**⚠️ EVENTO FIJO: EL TALISMÁN SIEMPRE SE CREA**
 
-#### **Opción A: Interrumpen el Ritual**
+#### **Opción A: Intentan Interrumpir el Ritual**
 
-**Si los PJ Interrumpen:**
+**Si los PJ Intentan Interrumpir:**
 - **Combate Épico:** Edward Teach (CR 17) + 6 Piratas Élite (CR 8 cada uno)
 - **Muy Difícil:** Para nivel 6, es un combate extremadamente difícil
-- **Recompensa:** Talismán NO creado → **Final B (Blackbeard Usurpador) IMPOSIBLE**
+- **⚠️ IMPORTANTE:** Aunque los PJ interrumpan, Teach completa el ritual de todas formas (puede retirarse y completarlo después, o completarlo durante el combate)
 
-**Si Tienen Éxito:**
-- Recuperan el Cronómetro y la Perla
-- Teach escapa (pero sin el Talismán)
-- Los PJ pueden devolver los artefactos a sus dueños
+**Si Tienen Éxito en el Combate:**
+- Pueden recuperar temporalmente el Cronómetro y la Perla
+- Teach escapa, pero completa el ritual más tarde (el Talismán se crea de todas formas)
+- Los PJ pueden devolver temporalmente los artefactos, pero Teach los recupera
 
 **Si Fracasan:**
 - Teach completa el ritual mientras luchan
@@ -112,7 +112,7 @@ se unen. El Talismán de Interceptación Divina... casi está completo."
 **Si los PJ Llegan Tarde:**
 - El ritual ya está completo
 - Teach tiene el Talismán de Interceptación Divina
-- **Final B (Blackbeard Usurpador) POSIBLE**
+- **Final B posible** (depende de si Teach llega primero a la Torre)
 
 **Consecuencias:**
 - Teach se siente invencible
@@ -149,17 +149,14 @@ se unen. El Talismán de Interceptación Divina... casi está completo."
 
 ## 🎭 **CONSECUENCIAS**
 
-### **Si los PJ Previenen la Creación del Talismán:**
-- ✅ **Final B imposible:** Edward Teach no puede interceptar el poder divino
-- ✅ Recuperan ambos artefactos
-- ✅ Pueden devolverlos a sus dueños
-- ⚠️ **PERO:** Teach aún puede asesinar a Thyra (sin el Talismán, pero con sus poderes)
+### **⚠️ EVENTO FIJO: El Talismán SIEMPRE se Crea**
 
-### **Si Teach Completa el Talismán:**
-- ⚠️ **Final B posible:** Teach puede interceptar el poder divino
-- ⚠️ Teach se siente invencible
-- ⚠️ Está listo para asesinar a Thyra
-- ⚠️ Los PJ deben prepararse para lo peor
+**Independientemente de las acciones de los PJ:**
+- ⚠️ **El Talismán se crea de todas formas** - Teach lo completa incluso si es interrumpido
+- ⚠️ **Final B depende del timing:** Si Teach llega primero a la Torre, usa el Talismán (Final B)
+- ⚠️ **Si los PJ intentan interrumpir:** Combate épico, pero el Talismán se completa después
+- ⚠️ **Teach se siente invencible** una vez tiene el Talismán
+- ⚠️ **Está listo para asesinar a Thyra** (evento fijo que también siempre ocurre)
 
 ---
 
@@ -186,7 +183,7 @@ se unen. El Talismán de Interceptación Divina... casi está completo."
 
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "La Combinación"
 - **[Cronología Maestra - Sesión 5](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-5-la-combinación)**
-- **[Edward Teach - Cronófagos Detallado](../../02_Guia_DM/04_Cronofagos_Detallado.md#7-edward-teach-barbanegra-humano-pirata)** - Statblock completo
+- **[Edward Teach - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Statblock completo e información ultra-secreta
 
 ---
 

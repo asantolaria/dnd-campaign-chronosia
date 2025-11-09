@@ -111,9 +111,9 @@ Los Colonos no forman una organización centralizada, sino **comunidades indepen
 - **Tácticas**: Pagan tributo, proporcionan suministros, pero ocultan información
 - **Oportunidad**: Si los PJ derrotan a Teach, los Colonos se convertirán en aliados leales
 
-### **Con los Nautilus:**
+### **Con los Oceánicos de las Profundidades:**
 - **Actitud**: Respeto mutuo, comercio ocasional
-- **Relación**: Los Colonos comercian con los Nautilus (cuando pueden evitar a Teach)
+- **Relación**: Los Colonos comercian con los Oceánicos de las Profundidades (cuando pueden evitar a Teach)
 - **Alianza Potencial**: Ambos grupos odian a Teach, pueden colaborar
 
 ### **Con los Anacronistas:**
@@ -189,8 +189,8 @@ Los Colonos pueden ofrecer un refugio seguro a los PJ mientras planean su asalto
 ## 🔗 **REFERENCIAS RELACIONADAS**
 
 - **Archipiélago de Barbanegra**: [11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md#-archipiélago-de-barbanegra-edward-teach-barbanegra)
-- **Edward Teach**: [04_Cronofagos_Detallado.md](../04_Cronofagos_Detallado.md#7-edward-teach-barbanegra-humano-pirata)
-- **Los Nautilus**: [06_El_Talisman_de_Interceptacion.md](../../04_Aventuras/Fase_1_Robos_Traicion/06_El_Talisman_de_Interceptacion.md#-los-nautilus---raza-de-las-profundidades)
+- **Edward Teach**: [04_Edward_Teach_Barbanegra.md](../04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)
+- **Los Oceánicos de las Profundidades**: [06_El_Talisman_de_Interceptacion.md](../../04_Aventuras/Fase_1_Robos_Traicion/06_El_Talisman_de_Interceptacion.md#-los-océnicos-de-las-profundidades---raza-de-las-profundidades)
 - **Dinámicas con Otras Facciones**: [06_Dinamicas_Entre_Facciones.md](./06_Dinamicas_Entre_Facciones.md)
 
 ---

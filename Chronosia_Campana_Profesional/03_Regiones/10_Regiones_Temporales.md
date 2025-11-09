@@ -546,7 +546,11 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 - **Dimensionales Principales Activos:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
 - **Balance Actual:** Ya hay un desequilibrio favorable a lo dimensional (3 vs 5)
 
-**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio y evitar catástrofe cósmica.
+**⚠️ ACCIÓN ESPECIAL - SACRIFICIO DE VARRAK:**
+
+Si el balance alcanza **desbalance crítico (diferencia de 4+)**, Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Este sacrificio restaurará el balance y estabilizará Chronosia, pero los PJ perderán un aliado poderoso. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles completos.
+
+**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio y evitar el sacrificio de Varrak.
 
 ---
 

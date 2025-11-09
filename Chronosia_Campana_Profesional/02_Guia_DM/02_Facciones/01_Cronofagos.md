@@ -102,7 +102,7 @@ Para información completa sobre los Cronófagos, incluyendo:
 - Tácticas militares y equipamiento
 - Mecánicas de combate y escalado dinámico
 
-**📖 Ver:** [04_Cronofagos_Detallado.md](../04_Cronofagos_Detallado.md)
+**📖 Ver:** [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) (ver archivos individuales para statblocks completos)
 
 ---
 
@@ -117,7 +117,7 @@ Para información completa sobre los Cronófagos, incluyendo:
 
 ## 🔗 **REFERENCIAS RELACIONADAS**
 
-- **Lugartenientes Detallados**: [04_Cronofagos_Detallado.md](../04_Cronofagos_Detallado.md)
+- **Lugartenientes Detallados**: [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) (ver archivos individuales para statblocks completos)
 - **Sistema de Competencia**: [05_La_Ascension_del_Conclave.md](../05_La_Ascension_del_Conclave.md)
 - **Dinámicas con Otras Facciones**: [06_Dinamicas_Entre_Facciones.md](./06_Dinamicas_Entre_Facciones.md)
 

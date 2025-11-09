@@ -29,7 +29,7 @@
 - ✅ Rastrear el rastro hasta el Archipiélago de Barbanegra
 
 ### **Objetivos Secundarios:**
-- ⭐ Establecer conexión con los Nautilus (si investigan)
+- ⭐ Establecer conexión con los Oceánicos de las Profundidades (si investigan)
 - ⭐ Descubrir pistas sobre Edward Teach
 - ⭐ Preparar para la próxima sesión
 
@@ -204,7 +204,7 @@ islas del oeste. Y ahora... tiene el Cronómetro."
 
 ### **Setup para Sesión 4-5:**
 - **El rastro debe ser claro:** Lleva al Archipiélago de Barbanegra
-- **Menciona a los Nautilus:** "Hay una ciudad submarina cerca del archipiélago"
+- **Menciona a los Oceánicos de las Profundidades:** "Hay una ciudad submarina cerca del archipiélago"
 - **Crea expectativa:** "Teach está planeando algo grande"
 
 ---
@@ -213,7 +213,7 @@ islas del oeste. Y ahora... tiene el Cronómetro."
 
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "El Robo del Cronómetro"
 - **[Cronología Maestra - Sesión 4](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-4-el-robo-del-cronómetro)**
-- **[Edward Teach - Cronófagos Detallado](../../02_Guia_DM/04_Cronofagos_Detallado.md#7-edward-teach-barbanegra-humano-pirata)** - Información sobre Edward Teach
+- **[Edward Teach - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Statblock completo e información ultra-secreta
 
 ---
 

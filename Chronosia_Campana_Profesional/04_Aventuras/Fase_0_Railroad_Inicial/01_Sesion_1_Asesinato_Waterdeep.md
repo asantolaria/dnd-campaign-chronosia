@@ -7,7 +7,7 @@
 
 > **📖 REFERENCIAS:**
 > - Para información sobre Kaelthas el Relojero Roto: [04_Kaelthas_El_Relojero_Roto.md](./04_Kaelthas_El_Relojero_Roto.md)
-> - Para información sobre Cronófagos: [../../02_Guia_DM/04_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado.md)
+> - Para información sobre Cronófagos: [../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 
 ### **📅 Información General**
 - [Duración Estimada](#-duración-estimada)
@@ -326,8 +326,8 @@ El **Reloj Astronómico de Waterdeep** se alza majestuoso en la **Plaza del Tiem
 - **⭐ Reversión Temporal (1/día):** Al llegar a 0 HP, "rebobina" el tiempo y recupera todos los HP que tenía al inicio de su último turno, teletransportándose 30 pies.
 
 **Secuaces Presentes:**
-- **3 Cronófagos Soldados** (CR 2 cada uno) - ver `04_Cronofagos_Detallado.md`
-- **1 Cronófago Lanzador de Conjuros** (CR 3) - ver `04_Cronofagos_Detallado.md`
+- **3 Cronófagos Soldados** (CR 2 cada uno) - ver `04_Cronofagos_Detallado/00_Cronofagos_Detallado.md`
+- **1 Cronófago Lanzador de Conjuros** (CR 3) - ver `04_Cronofagos_Detallado/00_Cronofagos_Detallado.md`
 
 ### **5.3 La Batalla**
 **Descripción**: Una batalla épica contra Kaelthas y sus secuaces en la guarida temporal.

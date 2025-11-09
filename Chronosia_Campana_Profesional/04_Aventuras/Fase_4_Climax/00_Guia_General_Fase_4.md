@@ -74,7 +74,7 @@ El destino del multiverso se decide. Los PJ asaltan la Torre de la Eternidad, en
 ### **Documentos del DM:**
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro (referencia general)
 - **[00_Guia_General_Fase_4.md](./00_Guia_General_Fase_4.md)** - Este documento (versión completa)
-- **[04_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado.md)** - Statblocks de Manshoon y Teach
+- **[04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - Vista general (ver archivos individuales para statblocks completos)
 - **[06_El_Talisman_de_Interceptacion.md](../Fase_1_Robos_Traicion/06_El_Talisman_de_Interceptacion.md)** - Sistema del Talismán
 
 ### **Esquemas Visuales:**
@@ -97,7 +97,7 @@ El destino del multiverso se decide. Los PJ asaltan la Torre de la Eternidad, en
 2. **Voz de Amaunator:** Súplica desesperada por ayuda
 3. **Voz de Voidar:** Revela coordenadas de la Torre (47, 89, 12)
 4. **Reacción de Chronosia:** TODO EL MUNDO sabe que el fin está cerca
-5. **Los aliados se reúnen:** Anacronistas, Nautilus, otras facciones ofrecen ayuda
+5. **Los aliados se reúnen:** Anacronistas, Oceánicos de las Profundidades, otras facciones ofrecen ayuda
 
 **Progresión del Ritual:**
 - **Sesión 13:** Ritual al 98%
@@ -111,7 +111,7 @@ El destino del multiverso se decide. Los PJ asaltan la Torre de la Eternidad, en
 **Preparación:**
 Los PJ reciben recursos de aliados:
 - Anacronistas: Artefactos gnomos
-- Nautilus: 10 guerreros CR 8
+- Oceánicos de las Profundidades: 10 guerreros CR 8
 - Otras facciones: Bendiciones, armas, información
 
 **Nivel de los PJ:** 13

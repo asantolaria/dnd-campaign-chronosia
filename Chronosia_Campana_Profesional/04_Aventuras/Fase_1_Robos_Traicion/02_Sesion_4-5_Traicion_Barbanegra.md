@@ -26,12 +26,12 @@
 
 ### **Objetivos Principales:**
 - ✅ Seguir el rastro del Cronómetro al Archipiélago de Barbanegra
-- ✅ Descubrir la traición de Edward Teach a los Nautilus
-- ✅ Presenciar o descubrir la masacre de 47 guerreros Nautilus
-- ✅ Formar alianza con los Nautilus (si llegan después)
+- ✅ Descubrir la traición de Edward Teach a los Oceánicos de las Profundidades
+- ✅ Presenciar o descubrir la masacre de 47 guerreros Oceánicos
+- ✅ Formar alianza con los Oceánicos de las Profundidades (si llegan después)
 
 ### **Objetivos Secundarios:**
-- ⭐ Conocer a los Nautilus y su cultura
+- ⭐ Conocer a los Oceánicos de las Profundidades y su cultura
 - ⭐ Descubrir la conexión Anacronistas-Abysara
 - ⭐ Obtener información sobre el plan de Teach
 
@@ -53,7 +53,7 @@ Los PJ siguen el rastro del robo del Cronómetro hasta el Archipiélago de Barba
 **Información que Obtienen:**
 - "Edward Teach controla estas islas"
 - "Dicen que desapareció bajo el agua hace unos días"
-- "Hay una ciudad submarina cerca - los Nautilus"
+- "Hay una ciudad submarina cerca - los Oceánicos de las Profundidades"
 
 ---
 
@@ -66,8 +66,8 @@ Los PJ siguen el rastro del robo del Cronómetro hasta el Archipiélago de Barba
 - "Dicen que hay una ciudad de criaturas acuáticas"
 - "Teach ha estado comerciando con ellos durante años"
 
-#### **Opción B: Contacto Directo de los Nautilus**
-- Si los PJ son conocidos por los Anacronistas, los Nautilus pueden contactarlos
+#### **Opción B: Contacto Directo de los Oceánicos de las Profundidades**
+- Si los PJ son conocidos por los Anacronistas, los Oceánicos de las Profundidades pueden contactarlos
 - "Necesitamos ayuda. Nuestro aliado nos traicionó"
 
 #### **Opción C: Investigación Activa**
@@ -109,7 +109,7 @@ Solicito vuestro consejo sobre cómo defenderme de las distorsiones dimensionale
 - Toma la Perla y escapa
 
 **La Masacre:**
-- 47 guerreros Nautilus intentan detener a Teach
+- 47 guerreros Oceánicos intentan detener a Teach
 - Teach usa la Perla para abrir portal al Vacío Primordial
 - Los 47 guerreros son succionados y desaparecen
 
@@ -137,9 +137,9 @@ KAEL:
 Ayudadnos a vengarnos. Y recuperaremos vuestra reliquia también."
 ```
 
-**Alianza con los Nautilus:**
-- Los Nautilus ofrecen ayuda a los PJ
-- 10 guerreros Nautilus CR 8 disponibles para combate
+**Alianza con los Oceánicos de las Profundidades:**
+- Los Oceánicos de las Profundidades ofrecen ayuda a los PJ
+- 10 guerreros Oceánicos CR 8 disponibles para combate
 - Información sobre Teach y sus planes
 - Acceso a Abysara como base submarina
 
@@ -153,28 +153,28 @@ Ayudadnos a vengarnos. Y recuperaremos vuestra reliquia también."
 - **Si Tienen Éxito:** Previenen el robo (altera drásticamente la campaña)
 
 ### **Si Llegan DESPUÉS:**
-- **Forman Alianza:** Con los Nautilus
+- **Forman Alianza:** Con los Oceánicos de las Profundidades
 - **Obtienen Información:** Sobre el plan de Teach
 - **Preparan Venganza:** Contra Edward Teach
 
 ### **Si No Se Involucran:**
 - Pierden oportunidad de alianza
-- Los Nautilus pueden contactarlos más tarde
+- Los Oceánicos de las Profundidades pueden contactarlos más tarde
 - Pero pierden información valiosa
 
 ---
 
 ## 🎁 **RECOMPENSAS**
 
-### **Alianza con los Nautilus:**
-- **10 Guerreros Nautilus CR 8** disponibles para combate
+### **Alianza con los Oceánicos de las Profundidades:**
+- **10 Guerreros Oceánicos CR 8** disponibles para combate
 - **Acceso a Abysara** como base submarina
 - **Información sobre Teach** y sus planes
 - **Tesoros submarinos** como recompensas
 
 ### **Información Revelada:**
 - Conexión Anacronistas-Abysara
-- Origen del Cronómetro (tecnología Nautilus)
+- Origen del Cronómetro (tecnología de los Oceánicos)
 - Plan de Teach (robar ambos artefactos)
 - Ubicación de la isla secreta de Teach
 
@@ -190,7 +190,7 @@ Ayudadnos a vengarnos. Y recuperaremos vuestra reliquia también."
 ### **La Traición:**
 - **20 años de confianza:** Teach era un aliado confiable
 - **La codicia:** Teach los traicionó por poder
-- **La venganza:** Los Nautilus quieren venganza eterna
+- **La venganza:** Los Oceánicos de las Profundidades quieren venganza eterna
 
 ### **Setup para Sesión 5:**
 - **Menciona la isla secreta:** "Teach tiene una isla donde ejecuta rituales"
@@ -203,7 +203,7 @@ Ayudadnos a vengarnos. Y recuperaremos vuestra reliquia también."
 
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "La Traición de Barbanegra"
 - **[Cronología Maestra - Sesión 4-5](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-4-5-la-traición-de-barbanegra)**
-- **[Los Nautilus](./06_El_Talisman_de_Interceptacion.md#-los-nautilus---raza-de-las-profundidades)** - Información completa sobre la raza
+- **[Los Oceánicos de las Profundidades](./06_El_Talisman_de_Interceptacion.md#-los-océnicos-de-las-profundidades---raza-de-las-profundidades)** - Información completa sobre la raza
 
 ---
 

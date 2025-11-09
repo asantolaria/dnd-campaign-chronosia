@@ -214,7 +214,7 @@ Si los PJ preguntan o investigan, pueden escuchar:
 - **[Cronología Maestra - Sesión 3](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-3-primera-misión)**
 - **[Regiones Temporales](../../03_Regiones/10_Regiones_Temporales.md)** - Información sobre Serapis y Thyra
 - **[Regiones Dimensionales](../../03_Regiones/11_Regiones_Dimensionales.md)** - Información sobre Ymir
-- **[Cronófagos Detallado](../../02_Guia_DM/04_Cronofagos_Detallado.md)** - Acciones legendarias de lugartenientes
+- **[Cronófagos Detallado/00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - Vista general (ver archivos individuales para acciones legendarias completas)
 - **[Misiones Sandbox](../../Fase_2_Sandbox_Inicial/README.md)** - Para información detallada de cada región
 
 ---

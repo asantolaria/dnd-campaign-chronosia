@@ -91,17 +91,22 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 | **Sesión** | **Evento Principal** | **Nivel** | **Ubicación** |
 |------------|----------------------|-----------|---------------|
 | **4** | ⚠️ Robo del Cronómetro de Realidades | 5 | Cronópolis |
-| **4-5** | ⚠️ Robo de la Perla, traición a Nautilus | 5-6 | Archipiélago + Abysara |
-| **5** | ⚠️ Creación del Talismán (decisión crítica) | 6 | Isla secreta |
-| **5-6** | ⚠️⚠️ Asesinato de Thyra (evento más importante) | 6 | Valle de la Aguja |
+| **4-5** | ⚠️ Robo de la Perla, traición a Oceánicos | 5-6 | Archipiélago + Abysara |
+| **5** | ⚠️ Creación del Talismán (evento fijo - SIEMPRE ocurre) | 6 | Isla secreta |
+| **5-6** | ⚠️⚠️ Asesinato de Thyra (evento fijo - SIEMPRE ocurre, más importante) | 6 | Valle de la Aguja |
 | **6** | ⚠️⚠️⚠️ Guerra espontánea comienza | 6-7 | Chronosia |
 
 **Eventos Fijos Críticos:**
 - ❗ Sesión 4: Robo del Cronómetro (Catalizador #1)
 - ❗ Sesión 4-5: Robo de la Perla (Catalizador #1.5)
-- ❗ Sesión 5: Creación del Talismán (determina si Final B es posible)
-- ❗❗ Sesión 5-6: Asesinato de Thyra (Catalizador #2 - más importante)
+- ❗ Sesión 5: Creación del Talismán (SIEMPRE ocurre - evento fijo)
+- ❗❗ Sesión 5-6: Asesinato de Thyra (SIEMPRE ocurre - evento fijo, Catalizador #2 - más importante)
 - ❗❗❗ Sesión 6: Guerra espontánea comienza (NO hay proclamación oficial)
+
+**⚠️ IMPORTANTE:**
+- **El Talismán SIEMPRE se crea** - Los PJ pueden intentar interrumpir, pero Teach lo completa de todas formas
+- **Thyra SIEMPRE muere** - Los PJ pueden intentar salvarla, pero el asesinato ocurre inevitablemente
+- **Estos eventos son fijos** - Solo el timing del asalto final determina qué final ocurre
 
 ---
 
@@ -174,7 +179,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 
 **Los Cuatro Finales Posibles:**
 - **Final A:** Manshoon Ascendente (CR 23)
-- **Final B:** Blackbeard el Usurpador (CR 25) - Solo si Teach tiene Talismán
+- **Final B:** Blackbeard el Usurpador (CR 25) - Solo si Teach llega primero a la Torre (Talismán siempre existe)
 - **Final C:** La Carrera Divina (3 bandos)
 - **Final D:** Demasiado Tarde (CR 25+) - Si ritual al 100%
 
@@ -225,7 +230,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 | **2** | Los PJ ven el Cronómetro de Realidades | Setup para Sesión 4 |
 | **4** | ROBO DEL CRONÓMETRO | Catalizador #1 |
 | **4-5** | ROBO DE LA PERLA | Catalizador #1.5 |
-| **5** | CREACIÓN DEL TALISMÁN | Determina si Final B es posible |
+| **5** | CREACIÓN DEL TALISMÁN | SIEMPRE ocurre (evento fijo) - Final B depende de timing del asalto |
 | **5-6** | ASESINATO DE THYRA | Catalizador #2 |
 | **6** | NOTICIA SE PROPAGA - Guerra espontánea | Los lugartenientes reaccionan (NO hay proclamación oficial) |
 | **11** | MOMENTO DE ELECCIÓN DE VARRAK | Varrak elige bando |
@@ -246,7 +251,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 - Ver `06_Eventos_Ascension_Conclave.md` (Tabla de Eventos Aleatorios)
 
 **Alianzas:**
-- Los PJ pueden aliarse con Anacronistas, Nautilus, lugartenientes específicos
+- Los PJ pueden aliarse con Anacronistas, Oceánicos de las Profundidades, lugartenientes específicos
 - Depende de sus decisiones y acciones
 
 **Revelaciones sobre Manshoon:**
@@ -261,7 +266,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 
 **Eventos Fijos son Anclas:**
 - Los eventos fijos (robos, asesinato de Thyra, Reacción Espontánea) anclan la narrativa
-- PERO los PJ pueden alterar cómo ocurren (prevenir robos, salvar a Thyra, influir en las reacciones)
+- PERO los PJ pueden alterar las consecuencias (aunque el Talismán siempre se crea y Thyra siempre muere, sus acciones afectan el timing del asalto final)
 - Si los PJ alteran un evento fijo, improvisa consecuencias lógicas
 
 **Sandbox es Real:**
@@ -291,7 +296,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 | **Documento** | **Qué Contiene** | **Cuándo Usarlo** |
 |--------------|------------------|-------------------|
 | **Guías Generales de Fases** | Timeline detallado de cada fase | Preparar cada fase |
-| **06_Facciones_Organizaciones.md** | Info sobre Anacronistas, Nautilus, Cronófagos | Sesiones 2+ |
+| **06_Facciones_Organizaciones.md** | Info sobre Anacronistas, Oceánicos de las Profundidades, Cronófagos | Sesiones 2+ |
 | **06_El_Talisman_de_Interceptacion.md** (Fase_1_Robos_Traicion) | Robos y traiciones (Sesiones 4-6) | Preparar Sesiones 4-6 |
 | **05_La_Ascension_del_Conclave.md** | Sistema narrativo de la competencia + Resolución final | Sesiones 6-15 |
 | **06_Eventos_Ascension_Conclave.md** | Sistema de puntos y eventos | Sesiones 6-12 |

@@ -22,7 +22,7 @@
 - [Componente 2: La Perla del Vacío Primordial](#componente-2-la-perla-del-vacío-primordial)
 
 ### **🏝️ La Nueva Facción**
-- [Los Nautilus - Raza de las Profundidades](#-los-nautilus---raza-de-las-profundidades)
+- [Los Oceánicos de las Profundidades - Raza de las Profundidades](#-los-océnicos-de-las-profundidades---raza-de-las-profundidades)
 - [Historia de la Traición de Teach](#-historia-de-la-traición-de-teach)
 
 ### **🎭 Integración Narrativa**
@@ -47,7 +47,7 @@ Edward Teach **NO tiene el Talismán al inicio de la campaña**. Lo creará DURA
 
 **Los Dos Artefactos:**
 - **El Cronómetro de Realidades** (Temporal) - Pertenece a los Anacronistas en Cronópolis
-- **La Perla del Vacío Primordial** (Dimensional) - Pertenece a los Nautilus en Abysara
+- **La Perla del Vacío Primordial** (Dimensional) - Pertenece a los Oceánicos de las Profundidades en Abysara
 
 **🔗 Conexión Anacronistas-Abysara:**
 Los **Anacronistas** tienen **raíces en Abysara**. El **Cronómetro** es **tecnología original de Abysara** que llegó a la superficie a través de contactos secretos. Teach descubrió esta conexión y robó ambos artefactos para crear el Talismán.
@@ -208,13 +208,13 @@ Los PJ pueden:
 
 #### **📜 Historia:**
 
-La Perla del Vacío Primordial es un artefacto de origen desconocido (posiblemente de otro plano) que fue encontrado por los **Nautilus** hace milenios en las profundidades oceánicas cerca del Archipiélago de Barbanegra.
+La Perla del Vacío Primordial es un artefacto de origen desconocido (posiblemente de otro plano) que fue encontrado por los **Oceánicos de las Profundidades** hace milenios en las profundidades oceánicas cerca del Archipiélago de Barbanegra.
 
-Los Nautilus, una raza acuática inteligente, adoraban la Perla como su tesoro más sagrado. Creían que contenía un fragmento del **Vacío Primordial** - el espacio antes de que existiera el universo.
+Los Oceánicos de las Profundidades, una raza acuática inteligente, adoraban la Perla como su tesoro más sagrado. Creían que contenía un fragmento del **Vacío Primordial** - el espacio antes de que existiera el universo.
 
-**Ubicación Actual:** La **Ciudad Sumergida de Abysara**, capital submarina de los Nautilus, a 2 millas de profundidad bajo el Archipiélago de Barbanegra.
+**Ubicación Actual:** La **Ciudad Sumergida de Abysara**, capital submarina de los Oceánicos de las Profundidades, a 2 millas de profundidad bajo el Archipiélago de Barbanegra.
 
-**Estado al Inicio de la Campaña:** **SEGURO** - Los Nautilus la guardan como su reliquia más sagrada. Desconocen que Edward Teach planea robarla.
+**Estado al Inicio de la Campaña:** **SEGURO** - Los Oceánicos de las Profundidades la guardan como su reliquia más sagrada. Desconocen que Edward Teach planea robarla.
 
 **Fecha del Robo:** **Sesión 4-5** - Poco después del robo del Cronómetro.
 
@@ -256,7 +256,7 @@ Los Nautilus, una raza acuática inteligente, adoraban la Perla como su tesoro m
 **⚠️ EVENTOS DURANTE LA CAMPAÑA (Sesión 4-5):**
 
 **Contexto:**
-Edward Teach tiene una relación comercial con los Nautilus desde hace **20 años**. Les ha vendido mercancías de superficie (armas, herramientas, alimentos exóticos) a cambio de tesoros submarinos. Los Nautilus lo consideran un **aliado confiable** (error fatal).
+Edward Teach tiene una relación comercial con los Oceánicos de las Profundidades desde hace **20 años**. Les ha vendido mercancías de superficie (armas, herramientas, alimentos exóticos) a cambio de tesoros submarinos. Los Oceánicos lo consideran un **aliado confiable** (error fatal).
 
 ---
 
@@ -278,12 +278,12 @@ La Reina Nereia, genuinamente preocupada por su aliado de dos décadas, **acepta
 
 Los PJ pueden enterarse de esta visita de varias formas:
 - Espías en el Archipiélago mencionan que Teach desapareció bajo el agua
-- Los Nautilus contactan a los PJ (si ya los conocieron) mencionando la visita
+- Los Oceánicos de las Profundidades contactan a los PJ (si ya los conocieron) mencionando la visita
 - Los PJ siguen a Teach después del robo del Cronómetro
 
 **La Ceremonia:**
 
-Teach es recibido con honores en el Palacio Real de Abysara. La Reina Nereia le muestra hospitalidad tradicional Nautilus. Durante la ceremonia de bienvenida, Teach ve la **Perla del Vacío Primordial** por primera vez.
+Teach es recibido con honores en el Palacio Real de Abysara. La Reina Nereia le muestra hospitalidad tradicional de los Oceánicos. Durante la ceremonia de bienvenida, Teach ve la **Perla del Vacío Primordial** por primera vez.
 
 **Reina Nereia (orgullosa):** *"Esta es nuestra reliquia más sagrada, Capitán Teach. La Perla del Vacío Primordial. Encontrada por nuestros ancestros en las profundidades hace milenios. Contiene un fragmento del espacio primordial mismo."*
 
@@ -293,7 +293,7 @@ Teach sonríe, pero sus ojos brillan con codicia.
 
 **El Robo:**
 
-Esa noche, mientras los Nautilus duermen (no todos al mismo tiempo, pero tienen guardias reducidos), Teach actúa.
+Esa noche, mientras los Oceánicos de las Profundidades duermen (no todos al mismo tiempo, pero tienen guardias reducidos), Teach actúa.
 
 **⚠️ IMPORTANTE:** Teach NO tiene los poderes de Thyra todavía. Usa sus poderes dimensionales naturales + el Cronómetro recién robado.
 
@@ -311,7 +311,7 @@ Los guardias detectan la perturbación temporal inmediatamente. La Reina Nereia 
 
 **La Masacre:**
 
-Los Nautilus intentan detener a Teach antes de que escape de Abysara. **47 guerreros Nautilus** liderados por el Comandante Kael lo interceptan en el Gran Salón.
+Los Oceánicos de las Profundidades intentan detener a Teach antes de que escape de Abysara. **47 guerreros Oceánicos** liderados por el Comandante Kael lo interceptan en el Gran Salón.
 
 **Comandante Kael (furioso):** *"¡TRAIDOR! ¡Devuelve la Perla AHORA!"*
 
@@ -327,14 +327,14 @@ Teach escapa de Abysara usando un portal dimensional a la superficie.
 
 **Consecuencia Inmediata:**
 
-**Los Nautilus están en LUTO MASIVO y FURIA ABSOLUTA.**
+**Los Oceánicos de las Profundidades están en LUTO MASIVO y FURIA ABSOLUTA.**
 
 - 47 guerreros muertos (incluyendo algunos de las familias más antiguas)
 - Su reliquia más sagrada robada
 - Su aliado de 20 años reveló ser un traidor
 - La Reina Nereia declara **VENDETTA ETERNA** contra Edward Teach
 
-**Reina Nereia (lágrimas en sus ojos, voz tronadora):** *"Edward Teach, llamado Barbanegra. Has traicionado nuestra confianza. Has asesinado a nuestros hijos. Has robado nuestra alma. Desde este día, eres enemigo de los Nautilus por toda la eternidad. Te perseguiremos en cada plano, en cada dimensión. No habrá refugio para ti. Esta es mi promesa."*
+**Reina Nereia (lágrimas en sus ojos, voz tronadora):** *"Edward Teach, llamado Barbanegra. Has traicionado nuestra confianza. Has asesinado a nuestros hijos. Has robado nuestra alma. Desde este día, eres enemigo de los Oceánicos de las Profundidades por toda la eternidad. Te perseguiremos en cada plano, en cada dimensión. No habrá refugio para ti. Esta es mi promesa."*
 
 ---
 
@@ -346,7 +346,7 @@ Teach escapa de Abysara usando un portal dimensional a la superficie.
 - Kael puede aliarse con ellos inmediatamente
 
 **Si los PJ NO siguieron a Teach:**
-- Los Nautilus contactan a los PJ (si los conocen)
+- Los Oceánicos de las Profundidades contactan a los PJ (si los conocen)
 - O los PJ descubren la masacre mediante rumores en el Archipiélago
 - Los marineros hablan de "cadáveres que nunca aparecieron" y "el mar llorando"
 
@@ -357,17 +357,17 @@ Teach escapa de Abysara usando un portal dimensional a la superficie.
 
 ---
 
-## 🏝️ **LOS NAUTILUS - RAZA DE LAS PROFUNDIDADES**
+## 🏝️ **LOS OCEÁNICOS DE LAS PROFUNDIDADES - RAZA DE LAS PROFUNDIDADES**
 
 ### **📜 Descripción de la Raza:**
 
-Los Nautilus son una raza humanoide acuática que vive en las profundidades oceánicas del Archipiélago de Barbanegra. Son seres nobles, pacíficos y extremadamente longevos.
+Los Oceánicos de las Profundidades son una raza humanoide acuática que vive en las profundidades oceánicas del Archipiélago de Barbanegra. Son seres nobles, pacíficos y extremadamente longevos.
 
 **🌊 Estado Actual - Sociedad Aislada:**
-Los Nautilus han vivido **reprimidos y aislados** por conflictos antiguos que ya nadie recuerda. Tienen **cierto odio hacia los de la superficie** debido a este aislamiento forzado. Historiadores tienen **evidencias** de que Abysara existe, pero la mayoría la considera una **leyenda**.
+Los Oceánicos de las Profundidades han vivido **reprimidos y aislados** por conflictos antiguos que ya nadie recuerda. Tienen **cierto odio hacia los de la superficie** debido a este aislamiento forzado. Historiadores tienen **evidencias** de que Abysara existe, pero la mayoría la considera una **leyenda**.
 
 **🔗 Conexión con los Anacronistas:**
-Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilus escaparon a la superficie y fundaron la facción, llevando consigo **tecnología avanzada** que se convirtió en el **Cronómetro de Realidades**. Esta conexión secreta explica por qué Teach robó ambos artefactos.
+Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Oceánicos escaparon a la superficie y fundaron la facción, llevando consigo **tecnología avanzada** que se convirtió en el **Cronómetro de Realidades**. Esta conexión secreta explica por qué Teach robó ambos artefactos.
 
 ---
 
@@ -394,11 +394,11 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilu
 
 **Estructura Social:**
 - **Monarquía Matriarcal:** Gobernados por la **Reina Nereia** (actualmente con 347 años)
-- **Consejo de Ancianos:** 12 Nautilus de más de 200 años asesoran a la Reina
+- **Consejo de Ancianos:** 12 Oceánicos de más de 200 años asesoran a la Reina
 - **Castas:** Guerreros, Artesanos, Eruditos, Recolectores
 
 **Valores Culturales:**
-- **Honor y Palabra:** Los Nautilus nunca rompen promesas (por eso la traición de Teach fue devastadora)
+- **Honor y Palabra:** Los Oceánicos de las Profundidades nunca rompen promesas (por eso la traición de Teach fue devastadora)
 - **Protección de Tesoros:** Consideran sagrado proteger artefactos antiguos
 - **Venganza Justa:** Si son traicionados, perseguirán venganza durante generaciones
 - **Pacifismo Condicional:** Evitan violencia, pero son guerreros temibles si provocados
@@ -416,11 +416,11 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilu
 
 **Descripción:**
 
-*"Abysara es una metrópolis submarina de cristal y coral vivo. Las estructuras crecen orgánicamente del lecho marino, formando torres espirales de hasta 500 pies de altura. Todo brilla con bioluminiscencia: azul, verde, púrpura. Peces y criaturas marinas nadan libremente entre edificios. En el centro, el Palacio Real: una estructura de cristal negro con forma de nautilus gigante."*
+*"Abysara es una metrópolis submarina de cristal y coral vivo. Las estructuras crecen orgánicamente del lecho marino, formando torres espirales de hasta 500 pies de altura. Todo brilla con bioluminiscencia: azul, verde, púrpura. Peces y criaturas marinas nadan libremente entre edificios. En el centro, el Palacio Real: una estructura de cristal negro con forma de caracola gigante."*
 
 **Ubicación:** 2 millas bajo la superficie, 10 millas al sur del Archipiélago de Barbanegra
 
-**Población:** ~3,000 Nautilus
+**Población:** ~3,000 Oceánicos de las Profundidades
 
 **Puntos de Interés:**
 - **Palacio Real:** Residencia de la Reina Nereia
@@ -428,14 +428,14 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilu
 - **Academia de Eruditos:** Biblioteca submarina con textos antiguos
 - **Barracas de Guerreros:** Donde entrenan los defensores de Abysara
 
-**Acceso:** Imposible llegar sin magia o ayuda Nautilus (presión de 2 millas es mortal)
+**Acceso:** Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mortal)
 
 ---
 
 #### **👑 NPCs Importantes:**
 
-**Reina Nereia (Líder de los Nautilus)**
-- **Edad:** 347 años (mediana edad para Nautilus)
+**Reina Nereia (Líder de los Oceánicos de las Profundidades)**
+- **Edad:** 347 años (mediana edad para los Oceánicos)
 - **Apariencia:** 7 pies de altura, piel turquesa con marcas doradas, cabello de tentáculos bioluminiscentes que fluyen como agua
 - **Personalidad:** Sabia, paciente, pero FURIOSA por la traición de Teach
 - **Motivación:** Recuperar la Perla y vengarse de Teach
@@ -461,10 +461,10 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilu
 #### **Cronología Completa:**
 
 **Hace 20 Años (Antes de la Campaña):**
-- Edward Teach establece contacto comercial con los Nautilus
+- Edward Teach establece contacto comercial con los Oceánicos de las Profundidades
 - Intercambia mercancías por tesoros submarinos
 - Relación cordial que dura DOS DÉCADAS
-- Los Nautilus lo consideran aliado confiable
+- Los Oceánicos lo consideran aliado confiable
 
 **Hace 2 Años (Antes de la Campaña):**
 - Teach sospecha que Manshoon (Aethernus) está planeando algo grande
@@ -502,8 +502,8 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilu
 **Sesión 4-5: EL ROBO DE LA PERLA**
 - Teach visita Abysara (usando el Cronómetro para el robo)
 - Roba la Perla del Vacío Primordial
-- **MASACRE DE 47 GUERREROS NAUTILUS**
-- Los Nautilus declaran vendetta eterna
+- **MASACRE DE 47 GUERREROS OCEÁNICOS**
+- Los Oceánicos de las Profundidades declaran vendetta eterna
 - Los PJ pueden descubrir la traición
 
 **Sesión 5: LA COMBINACIÓN DEL TALISMÁN**
@@ -531,7 +531,7 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilu
 - Guerra abierta entre lugartenientes (ellos CREEN que están "demostrando su valía" para Aethernus)
 - Los PJ enfrentan a los lugartenientes uno por uno
 - Edward Teach es ahora el lugarteniente MÁS PODEROSO (tiene Talismán + poderes de Thyra)
-- Los Anacronistas y Nautilus son aliados potenciales de los PJ
+- Los Anacronistas y Oceánicos de las Profundidades son aliados potenciales de los PJ
 
 **Sesión 13+: CLÍMAX**
 - Teach planea usar el Talismán para robar el poder divino de Manshoon
@@ -549,7 +549,7 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Nautilu
 |-----------|-----------|----------------|
 | **2-3** | Los PJ conocen a los Anacronistas | Ven el Cronómetro de Realidades en la Cámara del Tiempo |
 | **4** | **ROBO DEL CRONÓMETRO** | Teach/secuaz roba el artefacto, los PJ pueden ser sospechosos |
-| **4-5** | **ROBO DE LA PERLA** | Teach traiciona a los Nautilus, masacre de 47 guerreros |
+| **4-5** | **ROBO DE LA PERLA** | Teach traiciona a los Oceánicos, masacre de 47 guerreros |
 | **5** | **COMBINACIÓN DEL TALISMÁN** | Teach crea el Talismán (los PJ pueden interrumpir) |
 | **5-6** | **⚡ ASESINATO DE THYRA** | Teach mata a Thyra y roba sus poderes (EVENTO CATALIZADOR) |
 | **6** | **REACCIÓN ESPONTÁNEA** | Los lugartenientes reaccionan al asesinato (guerra entre lugartenientes) |
@@ -661,9 +661,12 @@ Los PJ pueden enterarse del asesinato mediante:
 #### **Opciones para los PJ:**
 
 **Si llegan DURANTE el asesinato:**
-- Pueden intentar salvar a Thyra (combate épico contra Teach)
-- Si fallan, presencian su muerte
-- Si tienen éxito, previenen el asesinato (altera drásticamente la campaña)
+- Pueden intentar prevenir el asesinato (combate épico contra Teach)
+- ⚠️ **IMPORTANTE:** Aunque intenten salvarla, **Thyra muere de todas formas**
+  - Pueden retrasar el asesinato
+  - Pueden herir gravemente a Teach
+  - Pero Teach completa el asesinato inevitablemente
+- **Consecuencias de intentar prevenir:** Pueden debilitar a Teach, ganar información, o retrasar el proceso, pero Thyra muere
 
 **Si llegan DESPUÉS del asesinato:**
 - Encuentran la Fortaleza del Momento Congelado vacía
@@ -723,11 +726,11 @@ Los PJ son confrontados. Deben:
 
 **Ubicación:** Archipiélago de Barbanegra - Después del robo de la Perla
 
-**Cómo Descubrirla:** Rumores de marineros, o los Nautilus contactan directamente
+**Cómo Descubrirla:** Rumores de marineros, o los Oceánicos de las Profundidades contactan directamente
 
 **Escena:**
 
-Ver sección "Cómo Edward Teach Planea Obtenerla" arriba. Los PJ descubren la masacre de 47 guerreros Nautilus.
+Ver sección "Cómo Edward Teach Planea Obtenerla" arriba. Los PJ descubren la masacre de 47 guerreros Oceánicos.
 
 ---
 
@@ -757,9 +760,11 @@ Ver documento `05_La_Ascension_del_Conclave.md` (en `../../02_Guia_DM/05_La_Asce
 
 ---
 
-### **🛡️ CÓMO PREVENIR LA CREACIÓN DEL TALISMÁN**
+### **🛡️ INTENTAR PREVENIR LA CREACIÓN DEL TALISMÁN**
 
-Los PJ tienen **TRES FORMAS** de prevenir que Edward Teach cree el Talismán:
+**⚠️ EVENTO FIJO: El Talismán SIEMPRE se crea**
+
+Los PJ pueden intentar prevenir la creación del Talismán, pero **Teach lo completa de todas formas**. Sin embargo, sus acciones pueden tener consecuencias importantes:
 
 ---
 
@@ -777,10 +782,10 @@ Los PJ tienen **TRES FORMAS** de prevenir que Edward Teach cree el Talismán:
 - Infiltrarse cuando Teach no está presente (sigilo CD 22)
 - Convencer a un tripulante de traicionar a Teach (persuasión CD 25)
 
-**Si lo recuperan:**
+**Si lo recuperan temporalmente:**
 - Los Anacronistas estarán EXTREMADAMENTE agradecidos
 - Recompensa: Acceso a artefactos gnomicos
-- Teach NO podrá crear el Talismán (Final B imposible)
+- ⚠️ **PERO:** Teach lo recupera más tarde o usa un método alternativo - El Talismán se crea de todas formas
 
 ---
 
@@ -795,10 +800,10 @@ Los PJ tienen **TRES FORMAS** de prevenir que Edward Teach cree el Talismán:
 - Usar magia de nivel 9 (*Gate*, *Wish*) para forzar entrada
 - Convencer a Teach de que muestre la Perla (engaño CD 28 - casi imposible)
 
-**Si la recuperan:**
-- Los Nautilus llorarán de alegría
+**Si la recuperan temporalmente:**
+- Los Oceánicos de las Profundidades llorarán de alegría
 - Recompensa: **Bendición del Vacío** (poder permanente)
-- Teach NO podrá crear el Talismán (Final B imposible)
+- ⚠️ **PERO:** Teach la recupera más tarde o usa un método alternativo - El Talismán se crea de todas formas
 
 ---
 
@@ -808,17 +813,20 @@ Los PJ tienen **TRES FORMAS** de prevenir que Edward Teach cree el Talismán:
 
 **Cuándo Ocurre:** Edward Teach debe combinar los artefactos justo ANTES de ir a la Torre de la Eternidad (Sesión 13).
 
-**Ubicación del Ritual:** Isla secreta en el Archipiélago de Barbanegra (los Nautilus pueden guiar a los PJ)
+**Ubicación del Ritual:** Isla secreta en el Archipiélago de Barbanegra (los Oceánicos de las Profundidades pueden guiar a los PJ)
 
 **El Ritual:**
 - Teach necesita 1 hora de concentración ininterrumpida
 - Debe colocar ambos artefactos en un círculo ritual específico
 - Si es interrumpido, el ritual falla y debe esperar 24 horas
 
-**Si lo interrumpen:**
+**Si intentan interrumpirlo:**
 - Combate contra Edward Teach (CR 17) + 6 piratas élite
-- Si Teach pierde, puede escapar pero NO tendrá el Talismán
-- Final B solo es posible si Teach tiene tiempo de completar el ritual después
+- ⚠️ **IMPORTANTE:** Aunque interrumpan, Teach completa el ritual de todas formas
+  - Puede retirarse y completarlo más tarde
+  - Puede completarlo durante el combate si los PJ no lo detienen completamente
+  - El Talismán se crea inevitablemente
+- **Consecuencias de interrumpir:** Pueden debilitar a Teach, ganar información, o retrasar el proceso, pero el Talismán se crea
 
 ---
 
@@ -916,11 +924,14 @@ El Talismán es casi indestructible, pero hay TRES FORMAS:
 | **Sesión 12** | Pueden interrumpir el ritual de combinación |
 | **Sesión 13+** | Demasiado tarde - Teach ya tiene el Talismán |
 
-### **Si los PJ NO Descubren el Plan:**
+### **⚠️ EVENTO FIJO: El Talismán SIEMPRE se Crea**
 
-- Edward Teach completa el Talismán sin interferencia
-- Final B ("Blackbeard el Usurpador") es casi garantizado
-- Los PJ llegan a la Torre para encontrar a Teach robando el poder de Manshoon
+**Independientemente de si los PJ descubren el plan:**
+
+- Edward Teach completa el Talismán (con o sin interferencia)
+- **Final B depende del timing:** Si Teach llega primero a la Torre, usa el Talismán (Final B)
+- Si los PJ llegan primero, Final A o C
+- Si llegan simultáneamente, Final C (Carrera Divina)
 
 ---
 
@@ -931,13 +942,13 @@ El Talismán es casi indestructible, pero hay TRES FORMAS:
 - Recompensa: **Artefacto Gnomo** (el DM elige)
 - Alianza permanente con los Anacronistas
 
-**Si ayudan a los Nautilus:**
+**Si ayudan a los Oceánicos de las Profundidades:**
 - Recuperan la Perla
 - Recompensa: **Bendición del Vacío** (resistencia a daño psíquico y fuerza)
-- 10 Guerreros Nautilus se unen para la batalla final
+- 10 Guerreros Oceánicos se unen para la batalla final
 
 **Si ayudan a ambos:**
-- Los Anacronistas y Nautilus forman alianza
+- Los Anacronistas y Oceánicos de las Profundidades forman alianza
 - Recompensa combinada
 - Ejército masivo para el asalto final
 
@@ -949,7 +960,7 @@ El Talismán es casi indestructible, pero hay TRES FORMAS:
 
 **Setup:**
 
-Los PJ (guiados por los Nautilus) llegan a una isla pequeña y rocosa en medio del océano. Ven humo negro alzándose. Cuando se acercan, encuentran a Edward Teach en el centro de un círculo ritual brillante.
+Los PJ (guiados por los Oceánicos de las Profundidades) llegan a una isla pequeña y rocosa en medio del océano. Ven humo negro alzándose. Cuando se acercan, encuentran a Edward Teach en el centro de un círculo ritual brillante.
 
 **Descripción:**
 
@@ -991,5 +1002,5 @@ Los PJ (guiados por los Nautilus) llegan a una isla pequeña y rocosa en medio d
 
 ---
 
-*El Talismán de Interceptación Divina es la clave del plan de Edward Teach. Si los PJ descubren su existencia y actúan rápido, pueden prevenir el Final B. Si no... presenciarán el nacimiento de Blackbeard Ascendant, el Dios Pirata.* 🔱⚡🌊
+*El Talismán de Interceptación Divina es la clave del plan de Edward Teach. ⚠️ El Talismán SIEMPRE se crea (evento fijo). Si los PJ descubren su existencia y actúan rápido, pueden debilitar a Teach o retrasar el proceso, pero el Talismán se completa de todas formas. El Final B depende de si Teach llega primero a la Torre de la Eternidad.* 🔱⚡🌊
 

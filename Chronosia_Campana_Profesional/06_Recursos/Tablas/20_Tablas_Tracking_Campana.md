@@ -130,14 +130,41 @@
 | **5+** | ⚠️⚠️⚠️ Catástrofe Inminente | 1d10 efectos | Punto sin retorno |
 | **6+** | 💀 Catástrofe Cósmica | Apocalipsis | FINAL MALO |
 
+### **⚠️ ACCIÓN ESPECIAL: SACRIFICIO DE VARRAK**
+
+**Si el desbalance alcanza 4+ (Desbalance Crítico):**
+
+Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la decisión de quitarse la vida para equilibrar los poderes y evitar la catástrofe cósmica.
+
+**Condiciones:**
+- Diferencia de 4+ entre temporales y dimensionales derrotados
+- Varrak debe estar vivo y activo
+- Varrak probablemente es aliado de los PJ (muy probable según desarrollo)
+
+**Efecto Inmediato:**
+- Varrak se quita la vida voluntariamente
+- **Balance se restaura:** -1 temporal derrotado (Varrak)
+- **Diferencia se reduce:** El desbalance crítico se mitiga significativamente
+- **Región se restaura:** El Abismo de los Posibles vuelve a la normalidad
+- **Poder temporal liberado:** Se disipa suavemente, estabilizando Chronosia
+
+**Impacto:**
+- ✅ Balance restaurado (diferencia se reduce en 1)
+- ⚠️ Varrak muere (los PJ pierden un aliado poderoso)
+- ⚠️ Momento emocional dramático
+- ✅ Estabilización de Chronosia
+
+**Nota:** Los PJ pueden intentar mantener el balance para evitar este sacrificio. Si actúan rápidamente para equilibrar antes de llegar a crítico, Varrak no necesita sacrificarse.
+
 ### **📋 Registro de Derrotas:**
 
-| **Sesión** | **Fecha** | **Lugarteniente Derrotado** | **Tipo** | **Temporales** | **Dimensionales** | **Nueva Diferencia** |
-|------------|-----------|------------------------------|----------|----------------|-------------------|----------------------|
-| 1 | | Kaelthas | Dimensional Menor | 0 | 1 | -1 |
-| 6 | | Thyra | Temporal Caído | 0 | 0 | -2 (ya muerta) |
-| | | | | | | |
-| | | | | | | |
+| **Sesión** | **Fecha** | **Lugarteniente Derrotado** | **Tipo** | **Temporales** | **Dimensionales** | **Nueva Diferencia** | **Notas** |
+|------------|-----------|------------------------------|----------|----------------|-------------------|----------------------|-----------|
+| 1 | | Kaelthas | Dimensional Menor | 0 | 1 | -1 | |
+| 6 | | Thyra | Temporal Caído | 0 | 0 | -2 (ya muerta) | Asesinada por Teach |
+| | | Varrak (Sacrificio) | Temporal Principal | 1 | 0 | -1 | ⚠️ **Sacrificio voluntario por desbalance crítico** |
+| | | | | | | | |
+| | | | | | | | |
 
 ---
 
@@ -258,8 +285,8 @@
 | **Artefacto** | **Ubicación Original** | **Estado Actual** | **Poseedor Actual** | **Sesión** | **Fecha** | **Notas** |
 |---------------|----------------------|-------------------|---------------------|------------|-----------|-----------|
 | **Cronómetro de Realidades** | Cronópolis (Anacronistas) | ⚠️ Robado | Edward Teach | Sesión 4 | | Componente del Talismán |
-| **Perla del Vacío Primordial** | Abysara (Nautilus) | ⚠️ Robado | Edward Teach | Sesión 4-5 | | Componente del Talismán |
-| **Talismán de Interceptación Divina** | — | ✅ Creado | Edward Teach | Sesión 5 | | Si no fue interrumpido |
+| **Perla del Vacío Primordial** | Abysara (Oceánicos de las Profundidades) | ⚠️ Robado | Edward Teach | Sesión 4-5 | | Componente del Talismán |
+| **Talismán de Interceptación Divina** | — | ✅ Creado | Edward Teach | Sesión 5 | | ⚠️ SIEMPRE se crea (evento fijo) |
 | **Rotor Infinito** | Fragmentado | 🔄 En construcción | Ingenieros | Post-campaña | | Núcleo + Carcasa |
 | **Espejo de Realidad Fragmentada** | — | ❓ Desconocido | — | — | | Pendiente |
 | **Arena del Tiempo Estabilizada** | — | ❓ Desconocido | — | — | | Pendiente |
@@ -280,7 +307,7 @@
 | 2 | | Los PJ ven el Cronómetro | Cronómetro | ✅ En Cronópolis |
 | 4 | | Robo del Cronómetro | Cronómetro | ⚠️ Robado por Teach |
 | 4-5 | | Robo de la Perla | Perla | ⚠️ Robado por Teach |
-| 5 | | Creación del Talismán | Talismán | ✅ Creado (si no interrumpido) |
+| 5 | | Creación del Talismán | Talismán | ✅ Creado (SIEMPRE - evento fijo) |
 
 ---
 
@@ -293,7 +320,7 @@
 | **Kaelthas**      | Temporal Menor        | ⚰️ Muerto  | Sesión 1             | Waterdeep                 | Asesinado por PJ              |
 | **Thyra**         | Temporal Caído        | ⚰️ Muerto  | Sesión 5-6           | Valle de la Aguja         | Asesinado por Teach           |
 | **Serapis**       | Temporal Principal    | ✅ Activo   | —                    | Espiral del Reloj         | Subordinado de Vorthak        |
-| **Varrak**        | Temporal Principal    | ✅ Activo   | —                    | Abismo de los Posibles    | Neutral hasta Sesión 11       |
+| **Varrak**        | Temporal Principal    | ✅ Activo   | —                    | Abismo de los Posibles    | Neutral hasta Sesión 11, ⚠️ puede sacrificarse si desbalance crítico |
 | **Vorthak**       | Temporal Principal    | ✅ Activo   | —                    | Mansión de la Sed         | Líder Bando Temporal          |
 | **Edward Teach**  | Dimensional Principal | ✅ Activo   | —                    | Archipiélago              | Independiente, tiene Talismán |
 | **Dimensionalis** | Dimensional Principal | ✅ Activo   | —                    | Llanuras de Compresión    | Independiente                 |
@@ -320,6 +347,7 @@
 | 5-6 | | Thyra | ⚰️ Muerto | Asesinado por Teach | Poder robado |
 | 11 | | Varrak | Cambio de bando | Decisión de PJ | +3 o +5 pts |
 | 11 | | Las Gemelas | Cambio de bando | Según bando ganador | +2 pts |
+| X | | Varrak | ⚰️ Muerto (Sacrificio) | Desbalance crítico (4+) | ⚠️ **Sacrificio voluntario para equilibrar poderes** |
 
 ---
 

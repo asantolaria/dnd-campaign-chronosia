@@ -5,6 +5,11 @@
 
 > **⚠️ PROPÓSITO DE ESTE DOCUMENTO:**
 > Este archivo detalla las **escenas dramáticas** donde los PJ descubren la verdad sobre Manshoon, su reclusión, el ritual de ascensión, y el plan de Edward Teach. Estas revelaciones deben ocurrir GRADUALMENTE durante las sesiones 8-13 para construir tensión y misterio.
+>
+> **🔐 INFORMACIÓN ULTRA-SECRETA:**
+> Todo el contenido de este documento es información que los PJs NO deben conocer hasta que la descubran activamente. El DM debe seguir estrictamente la cronología de revelaciones especificada en este documento.
+>
+> **📖 Para validación completa:** Ver `02_Guia_DM/10_Validacion_Informacion_Ultra_Secreta.md`
 
 ---
 
@@ -64,15 +69,22 @@ A medida que las revelaciones avanzan, el DM debe incrementar la sensación de u
 
 ## 📅 **CRONOLOGÍA DE REVELACIONES**
 
+> **⚠️ IMPORTANTE PARA EL DM:**
+> Esta cronología DEBE seguirse estrictamente. No revele información de sesiones posteriores antes de tiempo. Cada revelación construye sobre la anterior para crear tensión narrativa máxima.
+
 ### **Línea Temporal Recomendada:**
 
-| **Sesión** | **Revelación Principal** | **Impacto Narrativo** |
-|-----------|-------------------------|----------------------|
-| **8** | Manshoon nunca aparece directamente | Sospecha inicial |
-| **10** | Los lugartenientes mencionan que no han visto a Aethernus en meses | Confirmación de ausencia |
-| **11** | Descubren que Manshoon está recluido en algún lugar | Primera revelación mayor |
-| **12** | Descubren que está ejecutando un ritual de ascensión divina | Segunda revelación mayor |
-| **13** | Los dioses les revelan la ubicación de la Torre | Revelación final + urgencia |
+| **Sesión** | **Revelación Principal** | **Información Ultra-Secreta Revelada** | **Impacto Narrativo** |
+|-----------|-------------------------|----------------------------------------|----------------------|
+| **8** | Manshoon nunca aparece directamente | Primera sospecha de que algo está mal | Sospecha inicial |
+| **10** | Los lugartenientes mencionan que no han visto a Aethernus en meses | Confirmación de ausencia / reclusión | Confirmación de ausencia |
+| **10** | Descubren que está ejecutando un ritual de ascensión divina | **MOTIVACIÓN CENTRAL:** Convertirse en dios | Segunda revelación mayor |
+| **11** | Descubren que Manshoon está recluido en algún lugar | **ESTADO ACTUAL:** Aislado completamente | Primera revelación mayor |
+| **11** | Mensajero de Amaunator revela la verdad | **DIOSES CAPTURADOS:** Amaunator y Voidar prisioneros | Confirmación divina |
+| **11** | Descubren que Edward Teach NO es leal | **EDWARD TEACH:** Conspirador, planea traicionar | Revelación de traición |
+| **12** | Descubren la ubicación de la Torre de la Eternidad | **VULNERABILIDAD:** Dónde está Manshoon | Ubicación del clímax |
+| **12** | Descubren el plan completo de Edward Teach | **PLAN DE TEACH:** Robar el poder divino | Amenaza adicional |
+| **13** | Los dioses revelan la verdad completa públicamente | **VERDAD COMPLETA:** Todo el plan de Manshoon | Revelación final + urgencia máxima |
 
 ---
 

@@ -5,6 +5,124 @@
 
 ## 📋 **ÍNDICE DE NAVEGACIÓN**
 
+> **⚔️ STATBLOCKS COMPLETOS:** Este documento contiene información narrativa completa. Para statblocks completos en formato D&D 5e, consulta los archivos individuales en este mismo directorio (ver sección "Índice de Statblocks" más abajo).
+
+---
+
+## 📚 **ÍNDICE DE STATBLOCKS COMPLETOS**
+
+> **📖 GUÍA DE REFERENCIA RÁPIDA:** Cada lugarteniente tiene su propio archivo con statblock completo en formato D&D 5e, incluyendo AC, HP, atributos, salvaciones, habilidades, acciones, acciones legendarias, tácticas de combate y efectos al morir.
+
+### **⏰ LUGARTENIENTES TEMPORALES** (Poder de Amaunator)
+
+#### **Principales:**
+1. **[01_Serapis_El_Retroceso.md](./01_Serapis_El_Retroceso.md)** - Elfo Eterno
+   - Nivel Recomendado: 5-7 | CR: 8
+   - Región: La Espiral Inversa | Estado: 🔓 Desbloqueada
+
+2. **[02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md)** - Orco (El Oráculo)
+   - Nivel Recomendado: 7-9 | CR: 12
+   - Región: El Abismo de los Posibles | Estado: 🔒 Bloqueada
+   - Nota: Neutral, puede aliarse con los PJ
+
+3. **[03_Lord_Vorthak_El_Sediento_Eterno.md](./03_Lord_Vorthak_El_Sediento_Eterno.md)** - Vampiro Ancestral
+   - Nivel Recomendado: 10-12 | CR: 18
+   - Región: La Mansión de la Sed Eterna | Estado: 🔒 Bloqueada
+   - Nota: Líder del Bando Temporal
+
+#### **Menores:**
+4. **[10_Medusa_La_Eterna.md](./10_Medusa_La_Eterna.md)** - Medusa Ancestral
+   - Nivel Recomendado: 8-9 | CR: 9
+   - Región: El Jardín de los Tiempos Gemelos | Estado: 🔒 Bloqueada
+
+5. **[11_Tempus_El_Fragmentado.md](./11_Tempus_El_Fragmentado.md)** - Constructo Temporal
+   - Nivel Recomendado: 10-12 | CR: 12
+   - Región: Las Ruinas del Tiempo Perdido | Estado: 🔒 Bloqueada
+
+---
+
+### **🌌 LUGARTENIENTES DIMENSIONALES** (Poder de Voidar)
+
+#### **Principales:**
+6. **[04_Edward_Teach_Barbanegra.md](./04_Edward_Teach_Barbanegra.md)** - Humano Pirata
+   - Nivel Recomendado: 11-13 | CR: 17
+   - Región: Archipiélago de Barbanegra | Estado: 🔓 Desbloqueada (Sesión 6+)
+   - Nota: Independiente, punto ciego para Varrak, **INFORMACIÓN ULTRA-SECRETA**
+
+7. **[05_Dimensionalis_La_Fracturada.md](./05_Dimensionalis_La_Fracturada.md)** - Tiefling
+   - Nivel Recomendado: 9-11 | CR: 14
+   - Región: Las Llanuras de la Compresión | Estado: 🔒 Bloqueada
+   - Nota: Independiente
+
+8. **[06_Ignis_El_Devorador_Espacial.md](./06_Ignis_El_Devorador_Espacial.md)** - Dragón Rojo Ancestral
+   - Nivel Recomendado: 13-15 | CR: 24
+   - Región: Las Calderas Dimensionales | Estado: 🔒 Bloqueada
+   - Nota: Líder del Bando Dimensional
+
+9. **[07_Matrona_Veldrisza_La_Tejedora_Dimensional.md](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md)** - Drow Matrona
+   - Nivel Recomendado: 11-13 | CR: 17
+   - Región: La Ciudad Subterránea de Veldrisza | Estado: 🔒 Bloqueada
+   - Nota: Bando Dimensional
+
+10. **[08_Las_Gemelas_Del_Espejo.md](./08_Las_Gemelas_Del_Espejo.md)** - Humanas Gemelas
+    - Nivel Recomendado: 9-11 | CR: 14 (ambas juntas)
+    - Región: El Jardín de los Tiempos Gemelos | Estado: 🔒 Bloqueada
+    - Nota: Neutrales, pueden aliarse con los PJ
+
+#### **Menores:**
+11. **[09_Ymir_El_Eterno_Invierno.md](./09_Ymir_El_Eterno_Invierno.md)** - Elemental de Hielo Ancestral
+    - Nivel Recomendado: 5-7 | CR: 8
+    - Región: Glacialis | Estado: 🔓 Desbloqueada
+
+---
+
+### **👑 LÍDER SUPREMO**
+
+12. **[12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md)** - Humano (Clone de Manshoon #47)
+    - Nivel Recomendado: 13-15 (Clímax) | CR: 26
+    - Región: Torre de la Eternidad | Estado: 🔒 Bloqueada (Sesión 13-15)
+    - Nota: **INFORMACIÓN ULTRA-SECRETA** sobre su verdadero plan
+
+---
+
+### **📊 RESUMEN ESTADÍSTICO**
+
+- **Lugartenientes Principales Activos:** 8
+  - Temporales: 3 (Serapis, Varrak, Vorthak)
+  - Dimensionales: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Lugartenientes Menores:** 3
+  - Temporales: 2 (Medusa, Tempus)
+  - Dimensionales: 1 (Ymir)
+- **Líder Supremo:** 1 (Aethernus Valcarys)
+- **Total:** 12 lugartenientes + 1 líder supremo
+
+---
+
+### **🎯 GUÍA DE USO**
+
+**Para el DM:**
+1. **Información Narrativa:** Consulta este documento para descripciones, poderes, apariencia y acciones legendarias
+2. **Statblocks de Combate:** Consulta los archivos individuales para statblocks completos en formato D&D 5e
+3. **Tácticas:** Cada archivo incluye tácticas de combate específicas para ese lugarteniente
+
+**Estructura de Cada Archivo Individual:**
+- Información general (raza, tipo, región, nivel recomendado)
+- Statblock completo (AC, PV, atributos, salvaciones, habilidades)
+- Rasgos especiales
+- Acciones estándar
+- Acciones legendarias (tabla completa)
+- Tácticas de combate
+- Efecto al morir (restauración de la región a la normalidad)
+
+**⚠️ NOTAS IMPORTANTES:**
+- **Acciones Legendarias:** Los detalles completos están en cada archivo individual
+- **Escalado Dinámico:** Los lugartenientes escalan su poder según el nivel de los PJ (1-4 acciones legendarias por turno)
+- **Balance Crítico:** Los PJ deben mantener balance entre poderes temporales y dimensionales
+- **Efectos al Morir:** ⚠️ **IMPORTANTE:** Cuando un lugarteniente muere (ya sea por los PJ o por otro lugarteniente), su región se restaura completamente a la normalidad. Todas las distorsiones temporales o dimensionales causadas por su poder desaparecen gradualmente en 1d4 horas, eliminando las disfunciones y volviendo la región a un estado normal sin anomalías. Este efecto aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
+- **Información Ultra-Secreta:** Edward Teach y Aethernus tienen información crítica marcada como "ULTRA-SECRETA"
+
+---
+
 ### **🏛️ Estructura y Jerarquía**
 - [Estructura Jerárquica](#-estructura-jerárquica-simplificada)
 - [Especializaciones](#-especializaciones-de-cronófagos)
@@ -13,10 +131,13 @@
 
 ### **👑 Liderazgo Supremo**
 - [Aethernus Valcarys](#-aethernus-valcarys-manshoon-clone-47)
+  - **Statblock:** [12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md)
 
 ### **⚔️ Los Lugartenientes del Cónclave**
 - [Lugartenientes Temporales](#-lugartenientes-temporales-poder-de-amaunator)
+  - **Statblocks:** [01_Serapis](./01_Serapis_El_Retroceso.md), [02_Varrak](./02_Varrak_El_Oraculo.md), [03_Vorthak](./03_Lord_Vorthak_El_Sediento_Eterno.md), [10_Medusa](./10_Medusa_La_Eterna.md), [11_Tempus](./11_Tempus_El_Fragmentado.md)
 - [Lugartenientes Dimensionales](#-lugartenientes-dimensionales-poder-de-voidar)
+  - **Statblocks:** [04_Edward_Teach](./04_Edward_Teach_Barbanegra.md), [05_Dimensionalis](./05_Dimensionalis_La_Fracturada.md), [06_Ignis](./06_Ignis_El_Devorador_Espacial.md), [07_Veldrisza](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md), [08_Las_Gemelas](./08_Las_Gemelas_Del_Espejo.md), [09_Ymir](./09_Ymir_El_Eterno_Invierno.md)
 - [Sistema de Acciones Legendarias](#-sistema-de-acciones-legendarias)
 - [⚔️ La Ascensión del Cónclave](#-la-ascensión-del-cónclave)
 
@@ -128,84 +249,11 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 ## 👑 **AETHERNUS VALCARYS (Manshoon Clone #47)**
 *El maestro de todos los cronófagos - La verdadera identidad revelada*
 
-### **🔮 LA VERDAD SOBRE SU PLAN:**
-
-**⚠️ INFORMACIÓN ULTRA-SECRETA (Solo para el DM)**
-
-Manshoon ha descubierto la **fórmula para extraer el poder de Amaunator y Voidar** y convertirse él mismo en un **dios verdadero**. Actualmente está en la **FASE FINAL** de su plan, completamente recluido en su torre ejecutando el ritual de ascensión divina.
-
-**El Estado Actual:**
-- **Recluido**: Manshoon está aislado completamente, enfocado en su ritual final
-- **Confianza Ciega**: Confía plenamente en sus lugartenientes para mantener la expansión
-- **Expansión Multidimensional**: Los lugartenientes están expandiendo el poder de los Cronófagos a otros planos, no solo Chronosia
-- **Ignorancia**: NO sabe de las traiciones y alianzas entre sus lugartenientes
-- **Vulnerabilidad**: Su aislamiento es su mayor debilidad
-
-**Edward Teach - El Sospechoso:**
-- Edward Teach **SOSPECHA** del verdadero plan de Manshoon
-- Ha descubierto que puede **robar poder de otros lugartenientes** sin que Manshoon se entere
-- El asesinato de Thyra fue su **primera prueba exitosa**
-- Está investigando activamente cómo interceptar el poder divino para sí mismo
-- Es el único lugarteniente que representa una amenaza real al plan de Manshoon
-
-**La Ascensión del Cónclave - La Verdad:**
-La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgánicamente después de que Edward Teach asesinara a Thyra, y Manshoon (distraído por su ritual) simplemente lo aprovechó para mantenerlos ocupados mientras él completa su ascensión.
-
----
-
-### **🎭 Apariencia Física:**
-- **Edad aparente**: 60-70 años con vitalidad sobrenatural
-- **Altura**: 6 pies (1.83m) de estatura imponente
-- **Complexión**: Delgado pero musculoso, presencia que llena cualquier habitación
-- **Rasgos**: Rostro angular con ojos penetrantes que brillan con inteligencia maligna
-- **Cabello**: Gris plateado, largo y bien cuidado, a menudo recogido en coleta
-- **Barba**: Barba corta y puntiaguda, perfectamente recortada
-
-### **👔 Vestimenta Elegante:**
-- **Túnica principal**: Túnica de seda negra con bordados dorados intrincados
-- **Capa**: Capa de terciopelo púrpura oscuro con forro dorado
-- **Cinturón**: Cinturón de cuero negro con hebilla de oro macizo
-- **Botas**: Botas de cuero negro de alta calidad, perfectamente pulidas
-- **Guantes**: Guantes de cuero negro fino con anillos mágicos
-
-### **💍 Accesorios Mágicos:**
-- **Anillos**: Múltiples anillos mágicos en ambas manos, cada uno con poder único
-- **Amuletos**: Collar con amuletos de poder, incluyendo símbolo de los Zhentarim
-- **Bastón**: Bastón de mando de ébano con gema de poder en la punta
-- **Corona**: Corona de oro con gemas que brillan con poder arcano
-
-### **🔮 Elementos Distintivos:**
-- **Ojos**: Ojos que cambian de color según su estado (azul frío/rojo furioso)
-- **Aura**: Aura sutil de poder mágico que hace vibrar el aire
-- **Gestos**: Movimientos elegantes y calculados, cada gesto tiene propósito
-- **Voz**: Voz profunda y resonante, seductora o aterradora
-
-### **⚔️ En Combate:**
-- **Armadura**: Armadura de placas mágica que se adapta a su forma
-- **Armas**: Espada larga de acero mágico y daga de poder
-- **Escudo**: Escudo mágico que puede reflejar hechizos
-- **Efectos**: Aura de poder que afecta a todos los enemigos cercanos
-
-### **🌌 Poderes Divinos Robados:**
-- **Distorsión temporal**: El tiempo fluye diferente a su alrededor
-- **Manipulación espacial**: Puede aparecer y desaparecer instantáneamente
-- **Aura de poder**: Energía palpable que emana de su cuerpo
-- **Efectos mágicos**: Sus hechizos dejan rastros visuales impresionantes
-- **Cronómetro divino** que **marca el tiempo absoluto**
-
-### **🔮 Poderes Únicos de Aethernus:**
-- **Extracción Divina**: Puede extraer poder directamente de la batalla entre Amaunator y Voidar
-- **Distribución de Poder**: Reparte fragmentos de este poder a sus lugartenientes
-- **Combinación de Poderes**: Puede usar todos los poderes de sus lugartenientes simultáneamente
-- **Sin Límite Máximo**: No tiene un poder máximo concreto, solo limitado por su capacidad de extracción
-- **Manipulación del Conflicto**: Mantiene a los dioses en conflicto eterno para seguir extrayendo poder
-
-### **👑 Como Líder Supremo:**
-- **Trono**: Trono de oro y ébano con símbolos mágicos tallados
-- **Corte**: Siempre rodeado de sirvientes y aliados poderosos
-- **Ambiente**: Prefiere entornos lujosos y opulentos
-- **Símbolos**: Símbolo de los Zhentarim y otros emblemas de poder
-- **Presencia**: Una presencia que intimida incluso a los más valientes
+- **Raza**: Humano (Clone de Manshoon #47)
+- **Tipo**: Temporal + Dimensional (Poder de Amaunator y Voidar)
+- **Rol**: Líder Supremo
+- **Región**: Torre de la Eternidad
+- **⚔️ Ficha Completa:** [12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md) (Incluye **INFORMACIÓN ULTRA-SECRETA** sobre su verdadero plan, apariencia completa, poderes únicos y descripción narrativa detallada)
 
 ---
 
@@ -270,7 +318,7 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 - **Regiones Activas**: 8
 - **Regiones Desbloqueadas**: 2-3 (25-37%)
 - **Regiones Bloqueadas**: 6 (75%)
-- **Valle de la Aguja Suspendida**: ⚰️ Permanentemente congelado en estasis temporal
+- **Valle de la Aguja Suspendida**: ✅ Restaurado a la normalidad tras la muerte de Thyra
 
 **👑 LA ASCENSIÓN DEL CÓNCLAVE:**
 
@@ -286,7 +334,11 @@ El asesinato de Thyra desencadenó la competencia entre lugartenientes. Ver docu
 
 Los PJ deben mantener balance entre poderes temporales y dimensionales. El desequilibrio actual (3 temporales vs 5 dimensionales post-Thyra) ya favorece lo dimensional. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer, provocando catástrofe cósmica.
 
-**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio.
+**⚠️ ACCIÓN ESPECIAL - SACRIFICIO DE VARRAK:**
+
+Si el balance alcanza **desbalance crítico (diferencia de 4+)**, Varrak del Horizonte (probablemente aliado de los PJ) tomará la decisión de quitarse la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Este sacrificio restaurará el balance y estabilizará Chronosia, pero los PJ perderán un aliado poderoso. Ver [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) para detalles completos.
+
+**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio y evitar el sacrificio de Varrak.
 
 ---
 
@@ -300,12 +352,12 @@ Los PJ deben mantener balance entre poderes temporales y dimensionales. El deseq
 - **Apariencia**: Tenía piel translúcida como cristal, movimientos que parecían congelados en el aire
 - **Cómo Murió**: Edward Teach la emboscó en el Valle de la Aguja Suspendida y robó su poder
 - **Efecto de su Muerte**: 
-  - El Valle quedó permanentemente congelado en estasis temporal
-  - Todo en la región está suspendido en un momento eterno
+  - **El Valle de la Aguja Suspendida se restauró a la normalidad** - Todas las distorsiones temporales desaparecieron gradualmente en 1d4 horas
+  - El tiempo volvió a fluir normalmente en la región
   - Edward Teach absorbió sus poderes de estasis
   - Las visiones de Varrak se fragmentaron (ya no puede ver futuros de Teach)
   - Aethernus proclamó "La Ascensión del Cónclave"
-- **Región**: ⚰️ Valle de la Aguja Suspendida (permanentemente inaccesible)
+- **Región**: Valle de la Aguja Suspendida (ahora restaurada a la normalidad)
 
 **Su poder ahora pertenece a:** Edward Teach "Barbanegra" (Ver acciones legendarias actualizadas)
 
@@ -313,105 +365,36 @@ Los PJ deben mantener balance entre poderes temporales y dimensionales. El deseq
 
 ### **1. Serapis el Retroceso (Elfo Eterno)**
 - **Poder**: Puede devolver eventos breves al pasado, como batallas que se repiten o heridas que nunca ocurrieron
-- **Apariencia**: Viste capas con arena que fluye hacia arriba, ojos que reflejan escenas del pasado
-- **Efecto al Morir**: Una región entera comienza a retroceder en décadas, borrando ciudades recientes
 - **Región**: La Espiral Inversa
+- **⚔️ Ficha Completa:** [01_Serapis_El_Retroceso.md](./01_Serapis_El_Retroceso.md)
 
-| **Acción Legendaria** | **Nivel Mínimo** | **Costo** | **Descripción** |
-|----------------------|------------------|-----------|-----------------|
-| **Arena del Pasado** | 5 | 1 Acción | Crea un campo de 30 pies donde las criaturas envejecen 1d4 años por turno, pero Serapis se rejuvenece igual cantidad |
-| **Crono-Espada** | 5 | 1 Acción | Su espada puede cortar a través del tiempo, atacando a un enemigo que esté a hasta 60 pies de distancia |
-| **Reversión de Heridas** | 6 | 2 Acciones | Al final del turno, todas las heridas recibidas se revierten, restaurando HP igual al daño recibido |
-| **Retroceso Temporal** | 7 | 3 Acciones | Al inicio del turno, puede "rebobinar" el turno de un enemigo, forzando a repetir sus acciones exactamente igual |
-| **Bucle de Combate** | 8 | 4 Acciones | Al final del turno, puede "guardar" el estado del combate y repetir el turno completo si no le gusta el resultado |
-| **Reversión de Muerte** | 9 | 5 Acciones | Si es reducido a 0 HP, puede revertir el tiempo 1 turno atrás, volviendo a su estado anterior |
-| **Reversión de Realidad** | 10 | 6 Acciones | Puede revertir cualquier efecto mágico, hechizo o habilidad que haya ocurrido en los últimos 3 turnos |
-| **Bucle Eterno** | 11 | 7 Acciones | Crea un bucle temporal donde el combate se repite exactamente igual por 1d4 turnos, pero Serapis puede cambiar sus acciones en cada iteración |
-
-### **2. Thyra la Suspendida (Humana)**
-- **Poder**: Vive en un estado donde los segundos no transcurren. Habla con pausas extrañas, como si estuviera fuera del ritmo natural
-- **Apariencia**: Piel translúcida como cristal, movimientos que parecen congelados en el aire
-- **Efecto al Morir**: Libera esos segundos, causando que todo lo que estaba en pausa ocurra de golpe (avalancha de eventos descontrolados)
-- **Región**: Valle de la Aguja Suspendida
-
-| **Acción Legendaria** | **Nivel Mínimo** | **Costo** | **Descripción** |
-|----------------------|------------------|-----------|-----------------|
-| **Estasis Personal** | 5 | 1 Acción | Thyra se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
-| **Suspensión de Ataque** | 5 | 1 Acción | Congela un ataque enemigo en el aire, evitando que cause daño hasta su siguiente turno |
-| **Campo de Pausa** | 6 | 2 Acciones | Crea un área de 30 pies donde todos los enemigos quedan suspendidos en el tiempo, perdiendo su turno |
-| **Cristalización Temporal** | 7 | 2 Acciones | Convierte a un enemigo en cristal temporal, paralizándolo por 1d4 turnos |
-| **Suspensión Masiva** | 8 | 3 Acciones | Congela el tiempo en un radio de 60 pies, todos los enemigos pierden 2 turnos consecutivos |
-| **Estasis Definitiva** | 9 | 3 Acciones | Thyra se congela completamente, ganando inmunidad total y regenerando 2d10 HP por turno por 3 turnos |
-| **Pausa de Realidad** | 10 | 4 Acciones | Detiene el tiempo en un radio de 90 pies, todos los enemigos quedan paralizados permanentemente hasta que Thyra muera |
-| **Suspensión Eterna** | 11 | 4 Acciones | Congela a todos los enemigos en un campo de 120 pies, creando estatuas de cristal temporal que duran hasta el final del combate |
+### **2. Thyra la Suspendida (Humana) - CAÍDA**
+- **Estado:** Asesinada por Edward Teach en Sesión 5-6
+- **Poder Original**: Vivía en un estado donde los segundos no transcurrían. Podía congelar el tiempo en estasis perfecta
+- **Región**: ✅ Valle de la Aguja Suspendida (restaurado a la normalidad tras su muerte)
+- **Efecto de su Muerte**: El Valle se restauró completamente a la normalidad, eliminando todas las distorsiones temporales
+- **Su poder ahora pertenece a:** Edward Teach "Barbanegra" (Ver [04_Edward_Teach_Barbanegra.md](./04_Edward_Teach_Barbanegra.md))
 
 ### **3. Varrak del Horizonte (Orco)**
 - **Poder**: Ha vivido millones de vidas a la vez: anciano y niño simultáneamente. Predice futuros porque los ha experimentado ya
-- **Apariencia**: Cuerpo fragmentado en múltiples versiones de sí mismo, cada una de diferente edad
-- **Efecto al Morir**: Los futuros posibles se desmoronan y el mundo empieza a fragmentarse en realidades alternativas superpuestas
 - **Región**: El Abismo de los Posibles
-
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                                               |
-| -------------------------- | ---------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Vida Pasada**            | 5                | 1 Acción   | Invoca una versión de sí mismo de una vida anterior para atacar o defender                                                    |
-| **Predicción Simple**      | 5                | 1 Acción   | Ve el próximo movimiento de un enemigo y puede contrarrestarlo automáticamente                                                |
-| **Fragmentación Temporal** | 6                | 2 Acciones | Se divide en 2 versiones de diferentes edades, cada una con sus propias acciones                                              |
-| **Experiencia Ancestral**  | 7                | 2 Acciones | Accede a conocimientos de vidas pasadas, ganando +5 a todas las tiradas por 1 turno                                           |
-| **Vidas Paralelas**        | 8                | 3 Acciones | Crea 1d4 copias temporales de sí mismo que actúan independientemente                                                          |
-| **Profecía de Combate**    | 9                | 3 Acciones | Ve todos los movimientos de los enemigos en los próximos 2 turnos                                                             |
-| **Convergencia de Vidas**  | 10               | 4 Acciones | **Último Recurso**: Varrak sacrifica todos sus clones existentes. Suma los HP actuales de todos los clones y se cura esa cantidad. **Efecto Permanente**: No puede crear más clones durante el resto del combate |
-| **Realidad Fragmentada**   | 11               | 4 Acciones | Crea un campo donde existen múltiples versiones de la realidad, confundiendo a todos los enemigos                             |
+- **⚠️ Acción Especial:** Si el balance temporal/dimensional alcanza desbalance crítico (diferencia de 4+), Varrak se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica
+- **⚔️ Ficha Completa:** [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) (incluye detalles del sacrificio por equilibrio)
 
 ### **4. Lord Vorthak "El Sediento Eterno" (Vampiro Ancestral)**
-- **Poder**: Su sed de sangre es tan intensa que puede drenar la vida temporal de sus víctimas, acelerando su envejecimiento mientras él se rejuvenece. Puede crear "reservas temporales" de vida drenada
-- **Apariencia**: Un vampiro de aspecto noble pero demacrado, con ojos rojos que brillan con hambre insaciable. Está rodeado constantemente por sus secuaces, que muestran signos de debilidad y envejecimiento prematuro
-- **Efecto al Morir**: Todas las "reservas temporales" almacenadas en sus secuaces se liberan violentamente, causando que envejezcan décadas en segundos o que reviertan a edades anteriores
+- **Poder**: Su sed de sangre es tan intensa que puede drenar la vida temporal de sus víctimas, acelerando su envejecimiento mientras él se rejuvenece
 - **Región**: La Mansión de la Sed Eterna
-
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                                               |
-| -------------------------- | ---------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Drenaje Temporal**       | 5                | 1 Acción   | Drena 1d4 años de vida de un enemigo, envejeciéndolo y rejuveneciéndose a sí mismo                                           |
-| **Reserva de Vida**        | 5                | 1 Acción   | Almacena vida drenada en un secuaz, creando una "reserva temporal" que puede usar más tarde                                   |
-| **Sed Insaciable**         | 6                | 2 Acciones | Drena vida temporal de todos los enemigos en un radio de 30 pies, envejeciéndolos 2d4 años                                  |
-| **Transferencia de Daño**   | 7                | 2 Acciones | **Protección Divina**: Todo el daño recibido en este turno se transfiere a un secuaz, que muere si excede su HP máximo |
-| **Envejecimiento Acelerado** | 8                | 3 Acciones | Acelera el envejecimiento de un enemigo, haciéndolo envejecer 1d6 años por turno durante 3 turnos                           |
-| **Drenaje de Secuaz**      | 9                | 3 Acciones | Drena completamente la vida de un secuaz, convirtiendo sus años restantes en cura instantánea                                 |
-| **Sed Eterna**             | 10               | 4 Acciones | Crea un campo de drenaje que absorbe continuamente la vida temporal de todos los enemigos en 60 pies                          |
-| **Resurrección Temporal**  | 11               | 4 Acciones | Si es reducido a 0 HP, puede usar todas sus reservas temporales para resucitar con HP completo                               |
+- **⚔️ Ficha Completa:** [03_Lord_Vorthak_El_Sediento_Eterno.md](./03_Lord_Vorthak_El_Sediento_Eterno.md)
 
 ### **5. Medusa la Eterna (Medusa Ancestral)**
-- **Poder**: Puede congelar el tiempo en estasis perfecta, petrificando no solo cuerpos sino también el flujo temporal. Sus víctimas quedan atrapadas en un momento eterno donde ni el tiempo ni la vida pueden avanzar
-- **Apariencia**: Una medusa gigante con serpientes de tiempo en lugar de cabello, ojos que brillan con la luz de estrellas congeladas, y una mirada que congela el tiempo mismo
-- **Efecto al Morir**: Libera toda la estasis temporal acumulada, causando que todo lo petrificado temporalmente envejezca instantáneamente o revierta a su estado original
+- **Poder**: Puede congelar el tiempo en estasis perfecta, petrificando no solo cuerpos sino también el flujo temporal
 - **Región**: El Jardín de los Tiempos Gemelos
-
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                                               |
-| -------------------------- | ---------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Mirada Temporal**        | 5                | 1 Acción   | Su mirada congela el tiempo de un enemigo, paralizándolo por 1 turno                                                         |
-| **Estasis Personal**       | 5                | 1 Acción   | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno                                              |
-| **Petrificación Temporal** | 6                | 2 Acciones | Convierte a un enemigo en estatua temporal, paralizándolo por 1d4 turnos                                                      |
-| **Campo de Estasis**       | 7                | 2 Acciones | Crea un área de 30 pies donde el tiempo se congela, paralizando a todos los enemigos                                         |
-| **Congelación Masiva**     | 8                | 3 Acciones | Congela el tiempo en un radio de 60 pies, paralizando a todos los enemigos por 2 turnos                                       |
-| **Estasis Definitiva**     | 9                | 3 Acciones | Se congela completamente, ganando inmunidad total y regenerando 2d10 HP por turno por 3 turnos                               |
-| **Tiempo Congelado**       | 10               | 4 Acciones | Congela el tiempo en un radio de 90 pies, paralizando permanentemente a todos los enemigos hasta que muera                    |
-| **Eternidad Absoluta**     | 11               | 4 Acciones | Crea un campo donde el tiempo se detiene completamente, atrapando a todos los enemigos en un momento eterno                   |
+- **⚔️ Ficha Completa:** [10_Medusa_La_Eterna.md](./10_Medusa_La_Eterna.md)
 
 ### **6. Tempus el Fragmentado (Constructo Temporal)**
-- **Poder**: Creado por fragmentos de tiempo perdido, puede crear bucles temporales perfectos donde los eventos se repiten eternamente. Puede "programar" secuencias temporales que se ejecutan automáticamente
-- **Apariencia**: Un constructo de metal y cristal que pulsa con energía temporal, con engranajes de tiempo visibles en su interior y ojos que muestran múltiples momentos simultáneamente
-- **Efecto al Morir**: Los bucles temporales se descontrolan, creando caos temporal donde el pasado, presente y futuro se mezclan aleatoriamente
+- **Poder**: Creado por fragmentos de tiempo perdido, puede crear bucles temporales perfectos donde los eventos se repiten eternamente
 - **Región**: Las Ruinas del Tiempo Perdido
-
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                                      |
-| -------------------------- | ---------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Bucle Simple**           | 5                | 1 Acción   | Crea un bucle temporal de 1 turno donde puede repetir su acción anterior, pero el enemigo debe volver a realizar la tirada de la acción que está llevando a cabo |
-| **Programación Temporal**  | 5                | 1 Acción   | "Programa" una secuencia de 2 acciones que se ejecutarán automáticamente en los próximos 2 turnos                    |
-| **Bucle de Combate**       | 6                | 2 Acciones | Crea un bucle de 2 turnos donde todo el combate se repite exactamente igual, pero Tempus puede cambiar sus acciones  |
-| **Secuencia Automática**   | 7                | 2 Acciones | Programa una secuencia compleja de 3 acciones que se ejecuta automáticamente, liberando a Tempus para otras acciones |
-| **Bucle Eterno**           | 8                | 3 Acciones | Crea un bucle temporal que se repite por 1d4 turnos, pero Tempus puede modificar sus acciones en cada iteración      |
-| **Programación Masiva**    | 9                | 3 Acciones | Programa múltiples secuencias temporales que se ejecutan simultáneamente, permitiendo múltiples acciones por turno   |
-| **Bucle de Realidad**      | 10               | 4 Acciones | Crea un bucle temporal que afecta a toda la realidad en 60 pies, repitiendo eventos por 1d6 turnos                   |
-| **Fragmentación Temporal** | 11               | 4 Acciones | Se fragmenta en múltiples versiones temporales de sí mismo, cada una ejecutando diferentes secuencias programadas    |
+- **⚔️ Ficha Completa:** [11_Tempus_El_Fragmentado.md](./11_Tempus_El_Fragmentado.md)
 
 ---
 
@@ -420,9 +403,10 @@ Los PJ deben mantener balance entre poderes temporales y dimensionales. El deseq
 ### **7. Edward Teach "Barbanegra" (Humano Pirata)**
 - **Poder**: Ha robado el poder de **Thyra la Suspendida** (asesinada en Sesión 5-6), combinando sus habilidades piratas con **poderes de estasis temporal** y portales dimensionales
 - **Apariencia**: Un pirata humano de mediana edad con barba negra. Su cuerpo muestra distorsión temporal: una mano envejece y rejuvenece constantemente, su piel tiene aspecto cristalino en partes, y ocasionalmente se "congela" por micro-segundos
-- **Efecto al Morir**: Libera el poder robado, causando una explosión de estasis que congela permanentemente todo en 1 milla de radio
+- **Efecto al Morir**: El Archipiélago de Barbanegra se restaura a la normalidad (ver ficha completa para detalles)
 - **Región**: Archipiélago de Barbanegra (Islas del Oeste)
 - **⚠️ Nota Especial**: **Es un punto ciego para Varrak del Horizonte** - El Oráculo no puede predecir sus acciones debido al poder robado
+- **⚔️ Statblock Completo:** [04_Edward_Teach_Barbanegra.md](./04_Edward_Teach_Barbanegra.md)
 
 #### **🔮 LA VERDADERA MOTIVACIÓN DE EDWARD TEACH (INFORMACIÓN ULTRA-SECRETA)**
 
@@ -548,8 +532,9 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 ### **8. Dimensionalis la Fracturada (Tiefling)**
 - **Poder**: Puede fracturar la realidad en múltiples dimensiones superpuestas, creando laberintos espaciales imposibles
 - **Apariencia**: Su cuerpo muestra múltiples versiones de sí misma en diferentes planos, todas visibles simultáneamente
-- **Efecto al Morir**: Las dimensiones se superponen completamente, creando un caos espacial donde es imposible distinguir la realidad
+- **Efecto al Morir**: Las Llanuras de la Compresión se restaura a la normalidad (ver ficha completa para detalles)
 - **Región**: Las Llanuras de la Compresión
+- **⚔️ Statblock Completo:** [05_Dimensionalis_La_Fracturada.md](./05_Dimensionalis_La_Fracturada.md)
 
 | **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
 | -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
@@ -597,8 +582,9 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 ### **9. Ignis el Devorador Espacial (Dragón Rojo Ancestral)**
 - **Poder**: Puede crear portales dimensionales que conectan con el Plano Elemental del Fuego, absorbiendo la energía espacial de su entorno y convirtiéndola en poder destructivo
 - **Apariencia**: Un dragón rojo colosal con escamas que brillan como lava fundida. Sus ojos son pozos de fuego que muestran reflejos de múltiples dimensiones
-- **Efecto al Morir**: El espacio se colapsa violentamente en la región, creando múltiples portales al Plano Elemental del Fuego que comienzan a absorber el mundo entero
+- **Efecto al Morir**: Las Calderas Dimensionales se restaura a la normalidad (ver ficha completa para detalles)
 - **Región**: Las Calderas Dimensionales
+- **⚔️ Statblock Completo:** [06_Ignis_El_Devorador_Espacial.md](./06_Ignis_El_Devorador_Espacial.md)
 
 | **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
 | -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
@@ -614,8 +600,9 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 ### **10. Matrona Veldrisza "La Tejedora Dimensional" (Drow Matrona)**
 - **Poder**: Combina el poder de Lolth con la manipulación espacial para crear portales que conectan con Menzoberranzan. Puede tejer redes espaciales que atrapan a sus enemigos en dimensiones de pesadilla
 - **Apariencia**: Una drow anciana de aspecto regio con vestiduras de seda negra que brillan con patrones de telarañas dimensionales. Su cabello plateado se extiende como hilos de telaraña que conectan con Menzoberranzan
-- **Efecto al Morir**: Todas las conexiones espaciales con Menzoberranzan se rompen, aislando regiones enteras del resto del mundo
+- **Efecto al Morir**: La Ciudad Subterránea de Veldrisza se restaura a la normalidad (ver ficha completa para detalles)
 - **Región**: La Ciudad Subterránea de Veldrisza
+- **⚔️ Statblock Completo:** [07_Matrona_Veldrisza_La_Tejedora_Dimensional.md](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md)
 
 | **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
 | -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
@@ -632,8 +619,9 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Poder Dimensional**: Tienen acceso a una dimensión espejo que existe al otro lado de cualquier superficie reflectante. Al atravesar un espejo, viven en un mundo idéntico pero simétricamente invertido como si se miraran en un espejo. Pueden intercambiar posiciones instantáneamente entre ambas dimensiones, atacar desde el mundo espejo y usar la dimensión como refugio o trampa
 - **Apariencia**: Dos hermanas idénticas de mediana edad vestidas exactamente igual, pero con detalles simétricamente opuestos: el cabello peinado hacia el lado opuesto, los complementos (anillos, pulseras, broches) en el lado opuesto, y cada una tiene un ojo azul y un ojo marrón en posiciones opuestas. Son como si una fuera el reflejo perfecto de la otra
 - **Personalidad Misteriosa**: No se sabe realmente si eran dos personas originalmente o si una surgió de la dimensión espejo. Ambas afirman ser la original y la otra el reflejo, creando una dinámica psicológica compleja donde la identidad y la realidad se confunden
-- **Efecto al Morir**: Si solo una muere, la dimensión espejo se colapsa parcialmente, creando distorsiones espaciales donde los reflejos se comportan de manera errática. Si ambas mueren simultáneamente, la dimensión espejo se rompe completamente, atrapando a cualquiera que esté dentro y creando portales dimensionales inestables
+- **Efecto al Morir**: El Jardín de los Tiempos Gemelos se restaura a la normalidad (ver ficha completa para detalles)
 - **Región**: El Jardín de los Tiempos Gemelos
+- **⚔️ Statblock Completo:** [08_Las_Gemelas_Del_Espejo.md](./08_Las_Gemelas_Del_Espejo.md)
 
 | **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
 | -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
@@ -680,8 +668,9 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Poder Dimensional**: Controla el espacio a través del hielo y el frío. Puede congelar dimensiones enteras, crear portales de hielo que conectan con el Plano Elemental del Agua, y manipular el espacio comprimiendo o expandiendo las distancias a través de cristales de hielo dimensionales
 - **Apariencia**: Un gigante de hielo cristalino de 20 pies de altura, con un cuerpo formado por cristales de hielo que brillan con luz azulada. Sus ojos son pozos de hielo que reflejan paisajes congelados de múltiples dimensiones. Su respiración congela el aire creando esculturas de hielo que existen en múltiples planos simultáneamente
 - **Personalidad**: Frío y calculador, habla con una voz que resuena como el crujido del hielo. Considera el frío como la forma más pura de orden espacial, donde todo se cristaliza en patrones perfectos y predecibles
-- **Efecto al Morir**: El espacio se congela permanentemente en la región, creando estructuras de hielo dimensionales que atrapan a cualquiera que se acerque. Los portales de hielo se rompen, liberando torrentes de agua elemental que inundan las dimensiones circundantes
+- **Efecto al Morir**: Glacialis se restaura a la normalidad (ver ficha completa para detalles)
 - **Región**: Glacialis
+- **⚔️ Statblock Completo:** [09_Ymir_El_Eterno_Invierno.md](./09_Ymir_El_Eterno_Invierno.md)
 
 | **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
 | -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |

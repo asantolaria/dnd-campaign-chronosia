@@ -60,7 +60,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 ### **Documentos del DM:**
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro (referencia general)
 - **[04_Kaelthas_El_Relojero_Roto.md](./04_Kaelthas_El_Relojero_Roto.md)** - Statblock de Kaelthas
-- **[04_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado.md)** - Información sobre Cronófagos
+- **[04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - Vista general de Cronófagos (ver archivos individuales para statblocks completos)
 
 ### **Documentos de Regiones:**
 - **[08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - Información geográfica

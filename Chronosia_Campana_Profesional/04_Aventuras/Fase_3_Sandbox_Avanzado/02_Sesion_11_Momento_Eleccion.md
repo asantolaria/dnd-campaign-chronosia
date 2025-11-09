@@ -7,7 +7,7 @@
 > - [← Volver a Fase 3](./00_Guia_General_Fase_3.md)
 > - [Sesión 10: Algo Está Mal](./01_Sesion_10_Algo_Esta_Mal.md)
 > - [Sesión 12: El Ritual](./03_Sesion_12_El_Ritual.md)
-> - [Varrak del Horizonte](../../02_Guia_DM/04_Cronofagos_Detallado.md#3-varrak-del-horizonte-elfo-eterno) - Statblock completo
+> - [Varrak del Horizonte](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) - Statblock completo
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 11
 
 ---
@@ -174,7 +174,7 @@ Mientras los PJ están con Varrak, las Gemelas del Espejo eligen bando:
 
 ## 🔗 **REFERENCIAS**
 
-- **[Varrak del Horizonte](../../02_Guia_DM/04_Cronofagos_Detallado.md#3-varrak-del-horizonte-elfo-eterno)** - Statblock completo
+- **[Varrak del Horizonte](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md)** - Statblock completo
 - **[Cronología Maestra - Sesión 11](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-11-el-momento-de-elección)**
 
 ---

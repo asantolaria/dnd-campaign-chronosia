@@ -22,10 +22,9 @@ flowchart TD
     D1 -->|Sí| D2[Decisión 2: Sesión 5<br/>¿Interrumpir creación del Talismán?]
     D1 -->|No| D3[PJ pierden pista importante<br/>No descubren plan de Teach]
     
-    D2 -->|Sí| D4[Talismán NO creado<br/>Final B imposible<br/>Teach sin poder de interceptación]
-    D2 -->|No| D5[Talismán creado<br/>Final B posible<br/>Teach puede interceptar poder]
+    D2 --> D4[⚠️ Talismán SIEMPRE creado<br/>Evento fijo<br/>Final B depende de timing]
     
-    D3 --> D6[Decisión 3: Sesión 5-6<br/>¿Salvar a Thyra?]
+    D3 --> D6[⚠️ Thyra SIEMPRE muere<br/>Evento fijo<br/>Guerra se desencadena]
     D4 --> D6
     D5 --> D6
     
@@ -84,39 +83,45 @@ flowchart TD
 
 ---
 
-#### **2️⃣ Decisión 2: Sesión 5 - ¿Interrumpir la creación del Talismán?**
+#### **2️⃣ Sesión 5 - Creación del Talismán (Evento Fijo)**
+
+**⚠️ EVENTO FIJO: El Talismán SIEMPRE se crea**
 
 **Contexto:**
 - Edward Teach está ejecutando un ritual de 1 hora para combinar el Cronómetro y la Perla
 - Los PJ pueden llegar a tiempo si investigaron en la Decisión 1
 
 **Opciones:**
-- **Sí - Interrumpir:** Combate épico vs Edward Teach (CR 17) + 6 piratas élite
-- **No - Llegar tarde:** Teach completa el Talismán, Final B se vuelve posible
+- **Intentar Interrumpir:** Combate épico vs Edward Teach (CR 17) + 6 piratas élite
+- **No Interrumpir / Llegar Tarde:** Teach completa el Talismán sin oposición
 
-**Consecuencias:**
-- **Si interrumpen:** Talismán NO creado → Final B imposible
-- **Si no interrumpen:** Talismán creado → Final B posible
+**⚠️ IMPORTANTE:**
+- **El Talismán se crea de todas formas** - Aunque los PJ interrumpan, Teach lo completa después o durante el combate
+- **Consecuencias de interrumpir:** Pueden debilitar a Teach, ganar información, o retrasar el proceso
+- **Final B depende del timing:** Si Teach llega primero a la Torre, usa el Talismán (Final B)
 
-**Impacto:** Esta decisión determina si Edward Teach puede convertirse en el villano final alternativo.
+**Impacto:** Aunque el Talismán siempre se crea, las acciones de los PJ afectan el timing del asalto final y la relación con Teach.
 
 ---
 
-#### **3️⃣ Decisión 3: Sesión 5-6 - ¿Salvar a Thyra?**
+#### **3️⃣ Sesión 5-6 - Asesinato de Thyra (Evento Fijo)**
+
+**⚠️ EVENTO FIJO: Thyra SIEMPRE muere**
 
 **Contexto:**
 - Edward Teach está a punto de asesinar a Thyra la Suspendida
 - Los PJ pueden llegar durante el asesinato si actuaron rápido
 
 **Opciones:**
-- **Sí - Salvar:** Thyra sobrevive, la guerra no se desencadena, campaña cambia drásticamente
-- **No - Llegar tarde:** Thyra muere, guerra espontánea comienza (evento fijo)
+- **Intentar Prevenir:** Combate épico vs Edward Teach (CR 17 con Talismán) + Thyra como aliada temporal
+- **Llegar Tarde:** Thyra muerta, guerra espontánea comienza (evento fijo)
 
-**Consecuencias:**
-- **Si salvan:** Alternativa completa - La Ascensión del Cónclave no ocurre
-- **Si no salvan:** Evento fijo - Guerra espontánea desencadenada
+**⚠️ IMPORTANTE:**
+- **Thyra muere de todas formas** - Aunque los PJ intenten salvarla, el asesinato ocurre inevitablemente
+- **Consecuencias de intentar prevenir:** Pueden debilitar a Teach, ganar información, o retrasar el proceso
+- **Evento Fijo:** La guerra espontánea se desencadena de todas formas
 
-**Impacto:** Esta es la decisión más importante de la campaña. Salvar a Thyra cambia completamente la narrativa.
+**Impacto:** Aunque Thyra siempre muere, las acciones de los PJ afectan el estado de Teach y la preparación para el clímax.
 
 ---
 
@@ -183,8 +188,8 @@ flowchart TD
 
 **Ruta Óptima (Mayor probabilidad de victoria):**
 1. ✅ Investigar el robo del Cronómetro
-2. ✅ Interrumpir la creación del Talismán (o llegar tarde pero prepararse)
-3. ❌ No salvar a Thyra (permite que la guerra se desencadene - necesario para narrativa)
+2. ⚠️ Intentar interrumpir el Talismán (aunque siempre se crea, pueden debilitar a Teach)
+3. ⚠️ Intentar prevenir el asesinato de Thyra (aunque siempre muere, pueden debilitar a Teach)
 4. ✅ Varrak como Mártir (mejor oportunidad de victoria)
 5. ✅ Mantener equilibrio temporal/dimensional
 6. ✅ Liberar a los dioses en el combate final
@@ -192,7 +197,7 @@ flowchart TD
 **Ruta Alternativa (Thyra viva):**
 1. ✅ Investigar el robo
 2. ✅ Interrumpir el Talismán
-3. ✅ Salvar a Thyra
+3. ⚠️ Intentar prevenir el asesinato de Thyra (aunque siempre muere)
 4. ⚠️ Campaña cambia completamente - La Ascensión del Cónclave no ocurre
 
 ---

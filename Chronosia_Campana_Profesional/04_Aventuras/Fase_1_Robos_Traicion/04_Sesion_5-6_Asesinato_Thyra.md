@@ -113,22 +113,25 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 
 ---
 
-### **3. La Decisión Crítica: ¿Salvan a Thyra? (30 minutos)**
+### **3. El Asesinato de Thyra (30 minutos)**
 
-**⚠️ ESTA ES LA DECISIÓN MÁS IMPORTANTE DE LA CAMPAÑA:**
+**⚠️ EVENTO FIJO: THYRA SIEMPRE MUERE**
 
 #### **Opción A: Llegan DURANTE el Asesinato**
 
 **Si los PJ Actúan Rápido:**
 - Pueden llegar mientras Teach está atacando a Thyra
 - **Combate Épico:** Edward Teach (CR 17 con Talismán) vs PJ + Thyra
-- **Si Tienen Éxito:** Salvan a Thyra → **Campaña cambia completamente**
+- **⚠️ IMPORTANTE:** Aunque los PJ intenten salvarla, **Thyra muere de todas formas**
+  - Pueden retrasar el asesinato
+  - Pueden herir gravemente a Teach
+  - Pero Teach completa el asesinato inevitablemente (puede retirarse y volver, o completarlo durante el combate)
 
-**Consecuencias si Salvan a Thyra:**
-- ✅ Thyra sobrevive
-- ✅ La guerra NO se desencadena
-- ✅ La Ascensión del Cónclave NO ocurre
-- ⚠️ **ALTERNATIVA COMPLETA:** La campaña toma un rumbo diferente
+**Consecuencias (SIEMPRE ocurren):**
+- ⚠️ Thyra muere (evento fijo)
+- ⚠️ La guerra se desencadena (evento fijo)
+- ⚠️ La Ascensión del Cónclave ocurre (evento fijo)
+- ✅ **Si los PJ luchan:** Pueden debilitar a Teach, ganar información, o recuperar artefactos temporalmente
 
 #### **Opción B: Llegan DESPUÉS**
 
@@ -138,7 +141,7 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 - **Evento Fijo:** Thyra está muerta, guerra espontánea comienza
 
 **Consecuencias:**
-- ⚠️ Thyra muere
+- ⚠️ Thyra muere (evento fijo)
 - ⚠️ Teach gana poder de estasis temporal
 - ⚠️ Otros lugartenientes reaccionan
 - ⚠️ **Guerra espontánea comienza** (Sesión 6)
@@ -175,13 +178,14 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 - **Muestra el poder de Teach:** Ahora tiene poderes híbridos (pirata + estasis)
 - **Crea impacto emocional:** Los PJ deben sentir la gravedad
 
-### **Si los PJ Salvan a Thyra:**
-- **Campaña Alternativa:** Todo cambia
-- **Thyra como Aliada:** Puede convertirse en aliada poderosa
-- **Sin Guerra:** La Ascensión del Cónclave no ocurre
-- **Nueva Narrativa:** Debes improvisar el nuevo curso
+### **⚠️ EVENTO FIJO: Thyra SIEMPRE Muere**
 
-### **Si Thyra Muere:**
+**Independientemente de las acciones de los PJ:**
+- **Thyra muere inevitablemente** - Los PJ pueden intentar salvarla, pero el asesinato ocurre de todas formas
+- **Si los PJ intentan prevenir:**
+  - Combate épico contra Teach
+  - Pueden debilitar a Teach o ganar información
+  - Pero Teach completa el asesinato (puede retirarse y volver, o completarlo durante el combate)
 - **Evento Fijo:** La guerra espontánea comienza
 - **Setup para Sesión 6:** Los lugartenientes reaccionan
 - **Crea urgencia:** "Algo terrible ha comenzado"
@@ -193,7 +197,7 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "El Asesinato de Thyra"
 - **[La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema completo de competencia
 - **[Cronología Maestra - Sesión 5-6](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-5-6-el-asesinato-de-thyra)**
-- **[Edward Teach - Cronófagos Detallado](../../02_Guia_DM/04_Cronofagos_Detallado.md#7-edward-teach-barbanegra-humano-pirata)** - Poderes actualizados
+- **[Edward Teach - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Poderes robados de Thyra y combinaciones devastadoras
 
 ---
 
