@@ -22,7 +22,7 @@
 
 ## 🎯 **CONTEXTO DE LA TRAMA**
 
-Esta trama compleja se desarrolla durante la **Fase 3: Sandbox Avanzado** (Sesiones 9-12), específicamente después de que los PJ hayan entregado el cristal de Varrak a Din Goldgear. La trama revela una traición masiva dentro de La Resistencia y culmina con el sacrificio heroico de Varrak.
+Esta trama compleja se desarrolla al **final de la Fase 2: Sandbox Inicial** (Sesión 9), específicamente después de que los PJ hayan derrotado a 2 lugartenientes y entregado el cristal de Varrak a Din Goldgear. La trama revela una traición masiva dentro de La Resistencia, culmina con el sacrificio heroico de Varrak, y **cierra el Sandbox Inicial** desvelando muchos secretos. Es el punto perfecto de transición a la Fase 3: Sandbox Avanzado.
 
 **⚠️ IMPORTANTE:** Los PJ **NO sabrán** la verdadera naturaleza de esta trama hasta el final. Todo parece ser una simple traición interna de La Resistencia, pero en realidad es parte de un plan más grande que involucra a Serapis el Retroceso, los Bregan Daerthe, y el mensaje profético de Varrak.
 
