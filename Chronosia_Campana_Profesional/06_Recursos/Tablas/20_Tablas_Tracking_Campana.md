@@ -87,7 +87,7 @@
 - **Aceleración:** Puede avanzar más rápido si los PJ se demoran
 - **Punto Sin Retorno:** 98% (Sesión 13) - Los dioses llaman
 - **Final D (Mal Final):** Si llega al 100% antes de que los PJ lleguen
-- **⏰ Contador del Ritual:** Creado en Sesión 8-9 por Anacronistas y Relojeros Negros. Muestra el progreso del ritual de forma visible en Cronópolis. Ver [05_Encuentro_Anacronistas_Relojeros.md](../../04_Aventuras/Fase_2_Sandbox_Inicial/05_Encuentro_Anacronistas_Relojeros.md)
+- **⏰ Contador del Ritual:** Creado en Sesión 8-9 por Anacronistas y La Resistencia. Muestra el progreso del ritual de forma visible en Cronópolis. Ver [05_Encuentro_Anacronistas_Relojeros.md](../../04_Aventuras/Fase_2_Sandbox_Inicial/05_Encuentro_Anacronistas_Relojeros.md)
 
 ### **🎲 Modificadores de Progresión:**
 - **PJ se demoran:** +1% adicional por sesión de demora

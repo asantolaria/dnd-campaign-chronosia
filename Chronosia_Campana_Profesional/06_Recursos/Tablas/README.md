@@ -32,7 +32,7 @@
   - Artefactos Principales (Cronómetro, Perla, Contador, Espejo, Arena, Excavadora, Rotor)
   - Objetos de NPCs Importantes (Aethernus, Lugartenientes)
   - Recompensas de Facciones (Anacronistas, Oceánicos de las Profundidades)
-  - Inventos de los Ingenieros (Relojeros Negros)
+  - Inventos de los Ingenieros (La Resistencia)
   - Reliquias Divinas (Fragmentos de Amaunator y Voidar)
 - [ ] Tesoros por nivel
 - [ ] Recompensas de facciones (detalladas)

@@ -49,6 +49,8 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 
 **⚠️ PUNTO CIEGO DE VARRAK:** Edward Teach es invisible a las visiones proféticas de Varrak del Horizonte debido al poder robado de Thyra.
 
+**⚔️ SOLDADOS ÚNICOS:** Edward Teach entrena y otorga poderes de **Estasis Temporal + Manipulación Espacial** a sus soldados, llamados "Los Estancados". Estos soldados pueden congelar parcialmente a los enemigos, crear portales piratas para teletransportarse, y atacar desde múltiples direcciones. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+
 ### **Descripción Geográfica**
 Un archipiélago de islas piratas dispersas en el Mar Occidental, donde Edward Teach ha establecido su dominio. Las islas están conectadas por portales dimensionales inestables que permiten viaje instantáneo entre ellas. El mar está plagado de barcos fantasma que patrullan constantemente, y en el centro se encuentra la fortaleza flotante del propio Teach, rodeada por una flota de navíos gigantes.
 
@@ -114,6 +116,8 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 
 **⚔️ INDEPENDIENTE** - Juega sus propias cartas en la competencia
 
+**⚔️ SOLDADOS ÚNICOS:** Dimensionalis entrena y otorga poderes de **Fracturación Dimensional** a sus soldados, llamados "Los Fracturados". Estos soldados pueden existir en múltiples dimensiones simultáneamente, teletransportarse a través de fracturas, y atacar desde múltiples planos. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+
 ### **Descripción Geográfica**
 Vastas llanuras donde el espacio se ha comprimido hasta límites imposibles. Las distancias se reducen drásticamente, los objetos se comprimen a la mitad de su tamaño, y las proporciones se distorsionan constantemente. Los viajeros pueden volverse gigantes o enanos según la compresión espacial. En el centro se alza una ciudadela de cristal que parece comprimirse y expandirse con el ritmo de un corazón.
 
@@ -171,6 +175,8 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 
 **⚔️ LÍDER DEL BANDO DIMENSIONAL** - Comanda "Los Conquistadores de Planos"
 
+**🌌 EJÉRCITO INVOCADO:** Ignis **NO entrena soldados**. En su lugar, invoca criaturas directamente del **Plano Elemental del Fuego** a través de portales dimensionales. Trae dragones rojos (crías y adultos), elementales de fuego, y otras criaturas infernales que luchan por él pero mantienen sus habilidades originales del plano de fuego. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+
 ### **Descripción Geográfica**
 Una región volcánica devastada donde el espacio se ha fracturado en múltiples dimensiones, creando calderas que conectan con el Plano Elemental del Fuego. Los volcanes escupen lava dimensional que se extiende a través de múltiples planos, y las grietas espaciales permiten que el fuego elemental fluya libremente. La región está dominada por el dragón rojo ancestral Ignis, que ha convertido su guarida en un nexo dimensional.
 
@@ -222,6 +228,8 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 **🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - Participa en "La Ascensión del Cónclave"
 
 **⚔️ BANDO DIMENSIONAL** - Aliada de Ignis en "Los Conquistadores de Planos"
+
+**🌌 EJÉRCITO INVOCADO:** Veldrisza **NO entrena soldados**. En su lugar, invoca criaturas directamente de **Menzoberranzan** a través de portales dimensionales. Trae guerreros drow, sacerdotisas de Lolth, y demonios drow (yochlol) que luchan por ella pero mantienen sus habilidades originales de Menzoberranzan. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
 ### **Descripción Geográfica**
 Una ciudad subterránea drow construida en una red de cavernas naturales que se extiende a través de múltiples dimensiones. La ciudad está tejida con hilos de telaraña mágica que conectan con Menzoberranzan, creando portales dimensionales que permiten viajar entre ambos mundos. Las estructuras están talladas en piedra negra y decoradas con patrones de telaraña que brillan con energía espacial.
@@ -276,6 +284,8 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 **⚔️ NEUTRALES** - No se alinean con ningún bando hasta Sesión 11
 
 **⚠️ REGIÓN COMPARTIDA:** Esta región puede tener tanto a Las Gemelas del Espejo (Dimensionales) como a Medusa la Eterna (Temporal). El DM decide si coexisten o solo una controla la región.
+
+**⚔️ SOLDADOS ÚNICOS:** Las Gemelas entrenan y otorgan poderes de **Flujo Temporal Bidireccional** (soldados temporales "Los Gemelos") y **Dimensiones Espejo** (soldados dimensionales "Los Reflejados"). Los soldados temporales pueden acelerar o revertir acciones, mientras que los dimensionales pueden crear reflejos y atacar desde dimensiones espejo. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
 ### **Descripción Geográfica**
 Un jardín extenso lleno de espejos de diferentes tamaños y formas que actúan como portales dimensionales. La luz se refleja en todos los espejos, creando una atmósfera de irrealidad y duplicación. En el centro se encuentra el santuario de las gemelas, donde la dimensión espejo existe al otro lado de cualquier superficie reflectante. Algunos espejos muestran reflejos vacíos, mientras que otros revelan acciones diferentes de los visitantes.

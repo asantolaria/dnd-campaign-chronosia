@@ -85,6 +85,16 @@
 
 ---
 
+### **⚔️ SOLDADOS Y EJÉRCITOS REGIONALES**
+
+13. **[13_Soldados_y_Ejercitos_Regionales.md](./13_Soldados_y_Ejercitos_Regionales.md)** - Sistema de Soldados Únicos por Región
+    - **Tipo 1**: Lugartenientes con Conexiones Planares (Veldrisza, Ignis) - Invocan criaturas de otros planos
+    - **Tipo 2**: Lugartenientes que Crean Soldados (resto) - Entrenan y otorgan poderes únicos
+    - **Contenido**: Habilidades únicas por región, poderes otorgados, diferencias entre soldados
+    - **Nota**: Cada región tiene soldados distintos porque cada lugarteniente otorga poderes diferentes
+
+---
+
 ### **📊 RESUMEN ESTADÍSTICO**
 
 - **Lugartenientes Principales Activos:** 8
@@ -175,6 +185,12 @@
 
 ### **🎭 ESPECIALIZACIONES DE CRONÓFAGOS**
 
+**⚠️ IMPORTANTE:** Los soldados de cada región son **ÚNICOS** porque cada lugarteniente otorga poderes diferentes. Ver [13_Soldados_y_Ejercitos_Regionales.md](./13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+
+**🔮 Dos Tipos de Lugartenientes:**
+- **Lugartenientes con Conexiones Planares** (Veldrisza, Ignis): Invocan criaturas de otros planos (drow, dragones, elementales)
+- **Lugartenientes que Crean Soldados** (resto): Entrenan y otorgan poderes únicos a sus seguidores
+
 #### **⏰ CRONÓFAGOS TEMPORALES**
 *Especialistas en manipulación del tiempo*
 
@@ -182,6 +198,7 @@
 - **Efectos**: Espadas que se oxidan 50 años, heridas que sangran como si hubieran pasado semanas
 - **Apariencia**: Ojos que cambian de color según la hora, manos que tiemblan como ancianos
 - **Distorsiones**: Envejecimiento aleatorio, recuerdos mezclados de diferentes épocas
+- **Soldados Únicos**: Cada lugarteniente temporal otorga habilidades específicas (ej: Serapis otorga reversión temporal, Varrak otorga predicción, Vorthak otorga drenaje de vida)
 
 #### **🌌 CRONÓFAGOS DIMENSIONALES**
 *Especialistas en manipulación del espacio*
@@ -190,6 +207,7 @@
 - **Efectos**: Distancias que se comprimen, direcciones que se invierten
 - **Apariencia**: Partes del cuerpo transparentes, voces desde múltiples direcciones
 - **Distorsiones**: Transparencia parcial, movimientos imposibles, cuerpos que se estiran/comprimen
+- **Soldados Únicos**: Cada lugarteniente dimensional otorga habilidades específicas (ej: Edward Teach otorga estasis + portales, Dimensionalis otorga fracturación dimensional)
 
 #### **⚔️ CRONÓFAGOS COMBINADOS**
 *Especialistas en ambas distorsiones*
@@ -198,6 +216,7 @@
 - **Efectos**: Distorsiones temporales y espaciales simultáneas
 - **Apariencia**: Combinación de ambos tipos de distorsión
 - **Distorsiones**: Efectos superpuestos de tiempo y espacio
+- **Soldados Únicos**: Algunos lugartenientes pueden otorgar poderes combinados (ej: Edward Teach combina estasis temporal con portales dimensionales)
 
 ---
 

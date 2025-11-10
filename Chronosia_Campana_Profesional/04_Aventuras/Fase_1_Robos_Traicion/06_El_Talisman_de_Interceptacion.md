@@ -837,17 +837,22 @@ Los PJ pueden intentar prevenir la creación del Talismán, pero **Teach lo comp
 **Requisitos:**
 1. El Cronómetro de Realidades
 2. La Perla del Vacío Primordial
-3. Un círculo ritual inscrito con runas temporales y dimensionales
-4. 1 hora de concentración ininterrumpida
-5. Sacrificio de un fragmento de poder divino (Teach usa el poder robado de Thyra)
+3. **Cristales Antimagia** (al menos 2 medianos o 1 grande) - Para estabilizar la combinación
+4. **Cristales Canalizadores Mágicos** (al menos 2 medianos o 1 grande) - Para amplificar y canalizar los poderes
+5. Un círculo ritual inscrito con runas temporales y dimensionales
+6. 1 hora de concentración ininterrumpida
+7. Sacrificio de un fragmento de poder divino (Teach usa el poder robado de Thyra)
+
+**⚠️ IMPORTANTE:** Sin los cristales, la combinación de poderes temporales y dimensionales sería inestable y peligrosa. Los cristales son esenciales para que el ritual tenga éxito.
 
 **Proceso:**
 
 1. **Preparación (10 minutos):** Teach dibuja un círculo de 20 pies con runas en Supernal y Abismal
-2. **Colocación (5 minutos):** Coloca el Cronómetro en el norte, la Perla en el sur
-3. **Invocación (30 minutos):** Canta en idiomas antiguos, canalizando poder
-4. **Fusión (15 minutos):** Los artefactos comienzan a flotar y rotar, acercándose gradualmente
-5. **Culminación (1 minuto):** Explosión de luz dorada y púrpura, los artefactos se fusionan
+2. **Colocación (5 minutos):** Coloca el Cronómetro en el norte, la Perla en el sur, y los cristales en posiciones estratégicas alrededor del círculo
+3. **Estabilización (10 minutos):** Los cristales antimagia se activan, creando un campo de estabilización que previene conflictos entre los poderes
+4. **Invocación (30 minutos):** Canta en idiomas antiguos, canalizando poder a través de los cristales canalizadores
+5. **Fusión (15 minutos):** Los artefactos comienzan a flotar y rotar, acercándose gradualmente mientras los cristales canalizadores amplifican la energía
+6. **Culminación (1 minuto):** Explosión de luz dorada y púrpura, los artefactos se fusionan y los cristales se consumen en el proceso
 
 **Resultado:**
 

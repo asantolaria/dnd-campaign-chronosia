@@ -98,7 +98,7 @@ Manshoon le ofreció un trato: poder sobre el tiempo a cambio de servicio. Kaelt
 ### **Cómo los PJ lo Encuentran**
 
 **Pistas que Lleva:**
-1. **Reloj de bolsillo destrozado** con inscripción en idioma Gnomo: "Los Relojeros Negros nos protegen"
+1. **Reloj de bolsillo destrozado** con inscripción en idioma Gnomo: "Los La Resistencia nos protegen"
 2. **Mapa parcial** de Chronosia en su guarida
 3. **Carta de Aethernus** ordenándole eliminar a Thaddeus
 4. **Símbolo de los Anacronistas** (que los PJ pueden reconocer si investigan)
@@ -114,7 +114,7 @@ Manshoon le ofreció un trato: poder sobre el tiempo a cambio de servicio. Kaelt
 
 **Después de Derrotarlo:**
 1. Los **Anacronistas** (que estaban monitoreando la distorsión temporal) llegan a la escena
-2. Se presentan como **"Los Relojeros Negros"** - una orden secreta de gnomos y relojeros que protegen el tiempo
+2. Se presentan como **"Los La Resistencia"** - una orden secreta de gnomos y relojeros que protegen el tiempo
 3. Reconocen a Kaelthas como un "Cronófago Infiltrado"
 4. Ofrecen llevar a los PJ a **Cronópolis** para explicarles la amenaza
 
@@ -305,7 +305,7 @@ KAELTHAS (susurrando):
 
 **Información que Tiber Proporciona:**
 1. Kaelthas es un ex-relojero convertido en Cronófago
-2. Los Anacronistas ("Relojeros Negros") están monitoreando distorsiones temporales
+2. Los Anacronistas ("La Resistencia") están monitoreando distorsiones temporales
 3. Hay un lugar llamado Chronosia donde Aethernus captura dioses
 4. Zephyr (líder Anacronista) querrá hablar con los PJ
 
@@ -440,7 +440,7 @@ Cada vez que uses *Salto Temporal Menor*, debes hacer salvación de Constitució
 - Rescate de Tiber (Anacronista capturado)
 
 **Parte 5: Los Anacronistas (30 min)**
-- Zephyr y los "Relojeros Negros" aparecen
+- Zephyr y los "La Resistencia" aparecen
 - Explicación sobre Chronosia y Aethernus
 - Oferta de viajar a Cronópolis
 

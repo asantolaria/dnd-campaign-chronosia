@@ -7,7 +7,7 @@
 
 ### **🏘️ Poblaciones y Comunidades**
 - [Pueblos Corrompidos por Cronófagos](#-pueblos-corrompidos-por-cronófagos)
-- [Pueblos Leales a Relojeros Negros](#-pueblos-leales-a-relojeros-negros)
+- [Pueblos Leales a La Resistencia](#-pueblos-leales-a-relojeros-negros)
 - [Bucles Temporales en Poblaciones](#-bucles-temporales-en-poblaciones)
 - [Dinámicas Narrativas Especiales](#-dinámicas-narrativas-especiales)
 
@@ -59,9 +59,9 @@
 - Deben mantener apariencias mientras buscan ayuda externa
 - **Dinámicas**: Tensión constante, espionaje, dilemas sobre la confianza, posibles rescates
 
-### **⚔️ Pueblos Leales a los Relojeros Negros**
+### **⚔️ Pueblos Leales a La Resistencia**
 **Pueblo Entero de la Facción Contraria**
-- Un pueblo entero que ha mantenido su lealtad a los Relojeros Negros
+- Un pueblo entero que ha mantenido su lealtad a La Resistencia
 - Sirve como refugio y base de operaciones para la resistencia contra los cronófagos
 - Puede estar bajo constante amenaza de ataques cronófagos
 - **Dinámicas**: Refugio seguro, información sobre la resistencia, posibles misiones de apoyo
@@ -119,7 +119,7 @@ En pueblos completamente corrompidos, una familia mantiene la resistencia:
 - **Ayuda**: Pueden necesitar protección, recursos, o ayuda para escapar
 
 ### **El Infiltrado**
-Un habitante que parece ser cronófago pero en realidad es un espía de los Relojeros Negros:
+Un habitante que parece ser cronófago pero en realidad es un espía de La Resistencia:
 - **Información**: Tiene acceso a información interna de los cronófagos
 - **Riesgo**: Su vida está en constante peligro
 - **Confianza**: Debe ganarse la confianza de los PJ sin revelar su verdadera identidad
@@ -1369,10 +1369,10 @@ Los Cronófagos no son solo una secta religiosa fanática, sino una **organizaci
 
 #### **🔗 Conexión con Aethernus**
 - **Estructura**: Los Cronófagos militares son la fuerza armada de Aethernus
-- **Función**: Mantienen el orden en Chronosia y combaten a los Relojeros Negros
+- **Función**: Mantienen el orden en Chronosia y combaten a La Resistencia
 - **Motivación**: Creen que servir a Aethernus es servir al tiempo y espacio divinos
 
-#### **⚔️ Conflicto con Relojeros Negros**
+#### **⚔️ Conflicto con La Resistencia**
 - **Tácticas**: Los Cronófagos usan distorsiones, los Relojeros usan tecnología
 - **Ventajas**: Los Cronófagos tienen poderes sobrenaturales
 - **Desventajas**: Los Relojeros tienen armas que neutralizan la magia

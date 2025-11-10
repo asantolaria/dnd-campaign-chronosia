@@ -39,7 +39,7 @@ Esta campaña de D&D 5ª Edición presenta una aventura épica en un mundo donde
 |---------|-------------|-------------------|
 | **[01_Campaña_Principal.md](01_Campaña_Principal.md)** | Visión general y estructura | Resumen, objetivos, motivaciones, localizaciones clave |
 | **[02_Antagonistas_Villanos.md](02_Antagonistas_Villanos.md)** | Villanos y lugartenientes | Aethernus Valcarys, 12 lugartenientes, dioses en conflicto |
-| **[03_Facciones_Grupos.md](03_Facciones_Grupos.md)** | Facciones y sus dinámicas | Cronófagos, Relojeros Negros, Anacronistas, Bregan D'aerthe |
+| **[03_Facciones_Grupos.md](03_Facciones_Grupos.md)** | Facciones y sus dinámicas | Cronófagos, La Resistencia, Anacronistas, Bregan D'aerthe |
 | **[04_Mecanicas_Temporales.md](04_Mecanicas_Temporales.md)** | Reglas y efectos temporales | Mecánicas de juego, efectos específicos, tablas de eventos |
 | **[05_Regiones_Lugares.md](05_Regiones_Lugares.md)** | Regiones del semiplano | 12 regiones dominadas por lugartenientes, geografía detallada |
 | **[06_Eventos_Tablas.md](06_Eventos_Tablas.md)** | Eventos aleatorios y tablas | Eventos temporales, espaciales, tablas de paradojas |
@@ -82,7 +82,7 @@ Esta campaña de D&D 5ª Edición presenta una aventura épica en un mundo donde
 - **Tipos**: 6 arquetipos diferentes (temporales y espaciales)
 - **Líder**: Aethernus Valcarys (Manshoon Clone #47)
 
-### **Los Relojeros Negros**
+### **Los La Resistencia**
 - **Filosofía**: Odian la magia temporal y espacial, buscan preservar el flujo natural
 - **Características**: Tecnología anti-magia, armas de fuego, métodos brutales
 

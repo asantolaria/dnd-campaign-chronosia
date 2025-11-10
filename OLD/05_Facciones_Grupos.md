@@ -17,7 +17,7 @@
 - [Signos de Distorsión](#-signos-de-distorsión)
 - [Sistema de Recompensas de los Lugartenientes](#-sistema-de-recompensas-de-los-lugartenientes)
 
-### **⚔️ Los Relojeros Negros - Cazadores de Magos**
+### **⚔️ Los La Resistencia - Cazadores de Magos**
 - [Filosofía](#-filosofía)
 - [Creencia Central](#-creencia-central)
 - [Características](#-características)
@@ -46,18 +46,18 @@
 - [Objetivos Ocultos](#-objetivos-ocultos)
 
 ### **🎭 Dinámicas entre Facciones**
-- [Cronófagos vs. Relojeros Negros vs. Bregan D'aerthe](#-cronófagos-vs-relojeros-negros-vs-bregan-daerthe)
+- [Cronófagos vs. La Resistencia vs. Bregan D'aerthe](#-cronófagos-vs-relojeros-negros-vs-bregan-daerthe)
 - [Los PJ en Medio](#-los-pj-en-medio)
 - [Oportunidades Narrativas](#-oportunidades-narrativas)
 
 ### **🔮 Posibles Giros y Traiciones**
 - [Los Anacronistas](#-los-anacronistas)
-- [Los Relojeros Negros](#-los-relojeros-negros)
+- [Los La Resistencia](#-los-relojeros-negros)
 - [Los Cronófagos y Espacialistas](#-los-cronófagos-y-espacialistas)
 
 ### **🎯 Estrategias de Alianza**
 - [Con los Anacronistas](#-con-los-anacronistas)
-- [Con los Relojeros Negros](#-con-los-relojeros-negros)
+- [Con La Resistencia](#-con-los-relojeros-negros)
 - [Con los Cronófagos](#-con-los-cronófagos)
 - [Con Bregan D'aerthe](#-con-bregan-daerthe)
 
@@ -156,7 +156,7 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 
 ---
 
-## ⚔️ **Los Relojeros Negros - Cazadores de Magos**
+## ⚔️ **Los La Resistencia - Cazadores de Magos**
 
 ### **Filosofía**
 Odián la magia en todas sus formas, viéndola como corrupción que roba la esencia vital y altera el tejido del mundo. Se consideran artesanos del destino: creen que tanto el tiempo como el espacio deben fluir por sus propios engranajes, y los magos los deforman con sus conjuros.
@@ -211,7 +211,7 @@ Tres posibles explicaciones (puedes elegir una o mezclarlas):
 #### **La Reliquia del Reloj Invertido**
 - Un artefacto en forma de reloj de arena, pero con la arena ascendiendo en lugar de caer
 - Mantiene un campo de estabilidad temporal alrededor de quienes viven bajo su influencia
-- Debe ser protegido a toda costa: si cae en manos del Cónclave o los Relojeros Negros, ambos intentarían usarlo para fines propios
+- Debe ser protegido a toda costa: si cae en manos del Cónclave o La Resistencia, ambos intentarían usarlo para fines propios
 
 ### **El Chamán/Guía**
 
@@ -225,27 +225,27 @@ Tres posibles explicaciones (puedes elegir una o mezclarlas):
 ### **Rol Narrativo**
 - **Aliados clave**: Los PJ encontrarán en los Anacronistas a guías para moverse entre zonas alteradas sin quedar atrapados
 - **Guardianes del conocimiento**: Conservan recuerdos "verdaderos" de cómo era el mundo antes de la fractura
-- **Equilibrio político**: Ni aman la magia (como los Cronófagos), ni la odian (como los Relojeros Negros). Se consideran los guardianes de la verdad del tiempo
+- **Equilibrio político**: Ni aman la magia (como los Cronófagos), ni la odian (como La Resistencia). Se consideran los guardianes de la verdad del tiempo
 
 ---
 
 ## 🎭 **Dinámicas entre Facciones**
 
-### **Cronófagos vs. Relojeros Negros vs. Bregan D'aerthe**
-- **Cronófagos vs. Relojeros Negros**: Los primeros representan el abuso de la magia temporal y espacial; los segundos, la respuesta pragmática y brutal de quienes quieren preservar el flujo natural
+### **Cronófagos vs. La Resistencia vs. Bregan D'aerthe**
+- **Cronófagos vs. La Resistencia**: Los primeros representan el abuso de la magia temporal y espacial; los segundos, la respuesta pragmática y brutal de quienes quieren preservar el flujo natural
 - **Bregan D'aerthe vs. Todos**: Operan en las sombras, infiltrándose en todas las facciones para servir a Manshoon
 - **División Interna en Cronófagos**: Algunos se especializan en tiempo, otros en espacio, y algunos en ambos, creando tensiones internas
 - La rivalidad puede ser usada por los PJ: a veces aliarse con los cazadores de magos será útil, pero su visión extrema (matar a todos los magos, incluidos los jugadores) los convierte en enemigos inevitables
 
 ### **Los PJ en Medio**
-- Si hay lanzadores de conjuros en el grupo, los Relojeros Negros los verán como objetivo
+- Si hay lanzadores de conjuros en el grupo, La Resistencia los verán como objetivo
 - Los Cronófagos podrían intentar reclutar a los magos del grupo prometiendo poder temporal, espacial, o ambos
 - **Bregan D'aerthe** puede aparecer como aliados útiles, pero siempre con agendas ocultas
 - Los Anacronistas pueden servir como mediadores neutrales
 
 ### **Oportunidades Narrativas**
-- Una batalla a cuatro bandos: los PJ atrapados en medio de un enfrentamiento entre Cronófagos (temporales y espaciales), Relojeros Negros y Bregan D'aerthe
-- Un PNJ querido mago del grupo es cazado por los Relojeros Negros, obligando a los PJ a decidir si protegerlo o entregar a un amigo para salvarse
+- Una batalla a cuatro bandos: los PJ atrapados en medio de un enfrentamiento entre Cronófagos (temporales y espaciales), La Resistencia y Bregan D'aerthe
+- Un PNJ querido mago del grupo es cazado por La Resistencia, obligando a los PJ a decidir si protegerlo o entregar a un amigo para salvarse
 - El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de Cronófagos (barbas, piel endurecida, fragmentos dimensionales), volviéndose igual de oscuros que lo que combaten
 - **Revelación de la Traición**: Los PJ descubren que Jarlaxle y Bregan D'aerthe han estado trabajando para Manshoon todo el tiempo
 - **La Verdad sobre Aethernus**: Los PJ se enteran de que Aethernus es en realidad un clone de Manshoon
@@ -261,7 +261,7 @@ Tres posibles explicaciones (puedes elegir una o mezclarlas):
 - El chamán Harlim puede ser el único que recuerde algo crucial que ya no existe para nadie más
 - Una traición interna: ¿qué pasa si uno de los Anacronistas decide vender su secreto a los Cronófagos a cambio de poder?
 
-### **Los Relojeros Negros**
+### **Los La Resistencia**
 - Algunos miembros podrían tener agendas ocultas más allá de cazar magos
 - Podrían estar siendo manipulados por fuerzas externas
 - Una facción interna podría querer usar la tecnología para controlar el tiempo en lugar de solo cazarlo
@@ -294,11 +294,11 @@ Tres posibles explicaciones (puedes elegir una o mezclarlas):
 #### **Agentes Infiltrados**
 - **En los Cronófagos**: Espías que reportan actividades y debilidades
 - **En los Espacialistas**: Agentes que sabotean operaciones cuando es conveniente
-- **En los Relojeros Negros**: Informantes que conocen sus planes y tecnología
+- **En La Resistencia**: Informantes que conocen sus planes y tecnología
 - **En los Anacronistas**: Observadores que monitorean su resistencia a las distorsiones
 
 #### **Operaciones Especiales**
-- **Contrabando de Armas**: Suministran tecnología avanzada a los Relojeros Negros
+- **Contrabando de Armas**: Suministran tecnología avanzada a La Resistencia
 - **Sabotaje**: Interrumpen operaciones de las facciones cuando beneficia a Manshoon
 - **Inteligencia**: Recopilan información sobre los movimientos de los PJ
 - **Eliminación**: Asesinan objetivos específicos que amenazan los planes
@@ -324,7 +324,7 @@ Tres posibles explicaciones (puedes elegir una o mezclarlas):
 - **Desventajas**: Neutralidad que puede limitar el apoyo directo
 - **Cuándo Aliarse**: Cuando necesiten información o guía, cuando busquen una perspectiva neutral
 
-### **Con los Relojeros Negros**
+### **Con La Resistencia**
 - **Ventajas**: Tecnología anti-magia, conocimiento de las debilidades de los Cronófagos
 - **Desventajas**: Hostilidad hacia magos, métodos brutales
 - **Cuándo Aliarse**: Contra enemigos puramente mágicos, cuando necesiten tecnología específica

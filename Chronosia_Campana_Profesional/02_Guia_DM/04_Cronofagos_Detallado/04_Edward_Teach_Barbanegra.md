@@ -227,6 +227,76 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Poderes Combinados**: Edward Teach tiene sus poderes piratas + los poderes robados
 - **Adaptabilidad**: Sus ataques cambian según el poder robado
 - **Debilidad**: Puede ser vulnerable a ataques relacionados con el poder original
+
+---
+
+### **💎 SISTEMA DE CRISTALES - COMBINACIÓN DE PODERES**
+
+Edward Teach ha descubierto cómo usar **cristales especiales** creados por los estallidos de poder de la batalla entre Amaunator y Voidar para combinar poderes de diferentes lugartenientes. Este sistema es esencial para su plan de interceptación divina.
+
+#### **🔷 Cristales Antimagia (Estabilización)**
+
+**Función:**
+- Teach usa estos cristales para **estabilizar la combinación** de poderes robados
+- Previene que los poderes temporales y dimensionales entren en conflicto
+- Crea un campo de neutralización que permite que poderes opuestos coexistan
+
+**Uso en el Talismán:**
+- Esencial para combinar el Cronómetro (temporal) y la Perla (dimensional)
+- Sin estos cristales, la fusión sería inestable y peligrosa
+- Los cristales se consumen durante el ritual de combinación
+
+#### **💠 Cristales Canalizadores Mágicos (Amplificación)**
+
+**Función:**
+- Teach usa estos cristales para **amplificar y canalizar** los poderes robados
+- Permite que los poderes se **fusionen** en lugar de simplemente coexistir
+- Aumenta la eficiencia y potencia de los poderes combinados
+
+**Uso en el Talismán:**
+- Amplifica la energía de ambos artefactos durante la fusión
+- Canaliza el poder divino de forma controlada
+- Los cristales se consumen durante el ritual de combinación
+
+#### **⚡ Cristales Híbridos (Fusión Perfecta)**
+
+**Función:**
+- Si Teach encuentra un cristal híbrido, puede combinar poderes de forma perfecta
+- No necesita múltiples cristales (antimagia + canalizador)
+- Permite una fusión más estable y poderosa
+
+**Búsqueda Activa:**
+- Teach busca desesperadamente estos cristales
+- Son extremadamente raros (solo cerca de la Torre de la Eternidad)
+- Es el componente más valioso para su plan
+
+#### **🎯 Cómo Teach Obtiene los Cristales**
+
+**Métodos:**
+1. **Búsqueda Activa:** Envía a sus piratas a buscar cristales en regiones con alta actividad temporal/dimensional
+2. **Robo:** Puede robar cristales de otros lugartenientes o facciones
+3. **Intercambio:** Puede negociar con otras facciones por cristales
+4. **Creación Forzada:** En teoría, podría intentar crear estallidos de poder para generar cristales (muy peligroso)
+
+**Almacenamiento:**
+- Teach guarda sus cristales en su isla secreta del Archipiélago de Barbanegra
+- Los protege celosamente, sabiendo que son esenciales para su plan
+- Los PJ pueden encontrar cristales si exploran la isla de Teach
+
+#### **⚠️ Importancia para el Plan de Teach**
+
+**Sin Cristales:**
+- La combinación de poderes sería inestable y peligrosa
+- El Talismán no podría crearse de forma segura
+- Teach no podría interceptar el poder divino
+
+**Con Cristales:**
+- La combinación es estable y poderosa
+- El Talismán puede crearse exitosamente
+- Teach puede ejecutar su plan de interceptación divina
+
+**Referencias:**
+- Ver [Cristales de la Batalla Divina](../../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-cristales-de-la-batalla-divina) para detalles completos sobre los cristales
 - **Estrategia**: Los PJ pueden usar conocimiento del lugarteniente original contra él
 
 ---

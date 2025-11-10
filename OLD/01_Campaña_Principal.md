@@ -73,7 +73,7 @@ Todo comienza durante el **Festival del Reloj Astronómico**, una celebración a
 
 ### **El Asesinato del Maestro Relojero**
 
-Durante la celebración, **Maestro Thaddeus Ironwright**, el relojero principal de Waterdeep y antiguo miembro de los Relojeros Negros que logró escapar del semiplano, es asesinado brutalmente. En la escena del crimen se encuentran:
+Durante la celebración, **Maestro Thaddeus Ironwright**, el relojero principal de Waterdeep y antiguo miembro de La Resistencia que logró escapar del semiplano, es asesinado brutalmente. En la escena del crimen se encuentran:
 
 - **Símbolos extraños** tallados en su piel que hacen referencia a los Cronófagos
 - **Un reloj de arena roto** con arena que fluye hacia arriba
@@ -90,7 +90,7 @@ Los personajes reciben esta misión como una investigación de asesinato, pero p
 
 Durante su investigación, los PJ descubrirán:
 
-1. **El Diario del Maestro Thaddeus**: Revela que escapó del semiplano, conocía los secretos de los Relojeros Negros, y su función crítica de reparar desajustes temporales
+1. **El Diario del Maestro Thaddeus**: Revela que escapó del semiplano, conocía los secretos de La Resistencia, y su función crítica de reparar desajustes temporales
 2. **Distorsiones Temporales Crecientes**: Sin Thaddeus, los efectos temporales se intensifican en Waterdeep
 3. **Testigos del Asesinato**: Personas que vieron una figura encapuchada con símbolos temporales
 4. **El Cronófago Asesino**: Un infiltrado que debe ser encontrado y derrotado antes de que escape
@@ -113,7 +113,7 @@ Zephyr se presenta como un comerciante que puede ayudar con "artefactos únicos"
 - **Distorsiones temporales crecientes** en diferentes barrios de Waterdeep (sin Thaddeus para repararlas)
 - **Símbolos de los Cronófagos** apareciendo en lugares públicos
 - **Testimonios de ciudadanos** que han visto figuras extrañas con distorsiones temporales
-- **Documentos del maestro Thaddeus** sobre el semiplano, los Relojeros Negros, y su función de reparación temporal
+- **Documentos del maestro Thaddeus** sobre el semiplano, La Resistencia, y su función de reparación temporal
 - **Rastros del Cronófago Asesino** que llevan a su escondite
 
 ### **Encuentros en Waterdeep**
@@ -198,7 +198,7 @@ Esta estructura promueve un estilo de juego no lineal y de exploración libre, d
 ### **Facciones:**
 - Cronófagos (secta fanática del tiempo)
 - Espacialistas (secta fanática del espacio)
-- Relojeros Negros (cazadores de magos temporales y espaciales)
+- La Resistencia (cazadores de magos temporales y espaciales)
 - Anacronistas (guardianes neutrales del equilibrio)
 
 ### **Eventos Relevantes:**

@@ -112,17 +112,17 @@ ZEPHYR (pensativo):
 
 ---
 
-### **4. 🤝 El Encuentro Inesperado: Anacronistas y Relojeros Negros (1 hora)**
+### **4. 🤝 El Encuentro Inesperado: Anacronistas y La Resistencia (1 hora)**
 
 **⚠️ EVENTO ESPECIAL:**
 
-Cuando los PJ regresan a Cronópolis (o están en el Santuario de los Anacronistas), presencian un encuentro histórico: **Los Anacronistas y los Relojeros Negros se reúnen para crear un artefacto que monitoree el avance del ritual de Manshoon**.
+Cuando los PJ regresan a Cronópolis (o están en el Santuario de los Anacronistas), presencian un encuentro histórico: **Los Anacronistas y La Resistencia se reúnen para crear un artefacto que monitoree el avance del ritual de Manshoon**.
 
 **📖 Para desarrollo completo de este encuentro:** [05_Encuentro_Anacronistas_Relojeros.md](./05_Encuentro_Anacronistas_Relojeros.md)
 
 **Resumen:**
 - Zephyr (Anacronistas) percibe que el ritual está muy avanzado (90-91%)
-- Los Relojeros Negros han detectado anomalías cósmicas con sus sensores
+- Los La Resistencia han detectado anomalías cósmicas con sus sensores
 - Ambas facciones trabajan juntas para crear **El Contador del Ritual**
 - El artefacto muestra el progreso del ritual (actualmente 90-91%)
 - **Transmite urgencia visual** a los PJ: tienen tiempo limitado
@@ -174,7 +174,7 @@ Cuando los PJ regresan a Cronópolis (o están en el Santuario de los Anacronist
 
 - **[Escenas de Revelación - Sesión 8](./04_Escenas_de_Revelacion.md#-sesión-8-primera-sospecha)**
 - **[Cronología Maestra - Sesión 8](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-8-primera-sospecha-sobre-manshoon)**
-- **[🤝 Encuentro Anacronistas y Relojeros Negros](./05_Encuentro_Anacronistas_Relojeros.md)** - Creación del Contador del Ritual
+- **[🤝 Encuentro Anacronistas y La Resistencia](./05_Encuentro_Anacronistas_Relojeros.md)** - Creación del Contador del Ritual
 - **[Misiones Sandbox](./Misiones_Sandbox.md)** - Continuar exploración
 
 ---

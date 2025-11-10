@@ -44,13 +44,20 @@ flowchart TD
     S7 --> SAND_DETAIL[📊 Ver detalle Sandbox]
     SAND_DETAIL -.->|Enlace| SAND_LINK[./00_Esquemas/01_Sandbox.md]
     S7 --> S8[Sesión 8: Primera Sospecha<br/>¿Dónde está Manshoon?]
-    S8 --> S8A[🤝 Contador del Ritual<br/>Anacronistas + Relojeros Negros]
+    S8 --> S8A[🤝 Contador del Ritual<br/>Anacronistas + La Resistencia]
     S8A --> S9[Sesión 9: Exploración Avanzada<br/>9 regiones desbloqueadas]
     
     S9 --> FASE3[FASE 3: SANDBOX AVANZADO<br/>Sesiones 9-12]
     
     FASE3 --> S10[Sesión 10: Algo Está Mal<br/>Revelación sobre ritual]
-    S10 --> S11[Sesión 11: Momento de Elección<br/>Varrak elige bando]
+    S10 --> S10B[Sesión 9-10: Varrak entrega cristal<br/>a los PJ para Din Goldgear]
+    S10B --> S10C[⚔️ La Traición de Serapis<br/>Kaoros revelado como traidor]
+    S10C --> TRAICION_DETAIL[📖 Ver La Traición de Serapis]
+    TRAICION_DETAIL -.->|Enlace| TRAICION_LINK[./04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md]
+    S10C --> S10D[Juicio y Ejecución<br/>Capitán Marcus]
+    S10D --> S10E[Batalla contra Serapis<br/>Kaoros se revela]
+    S10E --> S10F[⚰️ Sacrificio de Varrak<br/>Resurrección de Marcus]
+    S10F --> S11[Sesión 11: Momento de Elección<br/>Varrak elige bando]
     S11 --> ASC_DETAIL[⚔️ Ver Ascensión del Cónclave]
     ASC_DETAIL -.->|Enlace| ASC_LINK[./00_Esquemas/02_Ascension_Conclave.md]
     
@@ -101,6 +108,11 @@ flowchart TD
     style SAND_DETAIL fill:#fff5e1,stroke:#ffaa00,stroke-width:3px
     style ASC_DETAIL fill:#ffffcc,stroke:#ffaa00,stroke-width:3px
     style TORRE_DETAIL fill:#ffe1e1,stroke:#ffaa00,stroke-width:3px
+    style TRAICION_DETAIL fill:#ffe1f5,stroke:#ff00aa,stroke-width:3px
+    style S10C fill:#ffcccc
+    style S10D fill:#ffcccc
+    style S10E fill:#ffcccc
+    style S10F fill:#ffcccc
 ```
 
 ---
@@ -118,6 +130,9 @@ Los 5 niveles del asalto final, condiciones para cada uno de los 4 finales posib
 
 ### **🎭 [Decisiones Críticas](./00_Esquemas/04_Decisiones_Criticas.md)**
 Los 6 puntos de decisión que determinan el curso de la campaña y afectan directamente el desenlace final.
+
+### **⚔️ [La Traición de Serapis](./04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md)**
+La infiltración de Kaoros el Sordo, el juicio del Capitán Marcus, la revelación del traidor, y el sacrificio heroico de Varrak.
 
 ---
 
@@ -137,8 +152,8 @@ Los 6 puntos de decisión que determinan el curso de la campaña y afectan direc
 - **FINAL D (Rosa)**: Demasiado Tarde - Manshoon ya ascendió (mal final)
 
 ### **Eventos Fijos vs Variables:**
-- **Eventos Fijos** (ocurren siempre): Asesinato en Waterdeep, Robo del Cronómetro, Asesinato de Thyra, Reacción Espontánea, Elección de Varrak, Llamada de los Dioses
-- **Eventos Variables** (dependen de los PJ): Orden de enfrentamiento de lugartenientes, Alianzas, Revelaciones tempranas, Interrupciones de eventos
+- **Eventos Fijos** (ocurren siempre): Asesinato en Waterdeep, Robo del Cronómetro, Asesinato de Thyra, Reacción Espontánea, La Traición de Serapis (Sesión 9-10), Elección de Varrak, Llamada de los Dioses
+- **Eventos Variables** (dependen de los PJ): Orden de enfrentamiento de lugartenientes, Alianzas, Revelaciones tempranas, Interrupciones de eventos, Timing de entrega del cristal de Varrak
 
 ---
 

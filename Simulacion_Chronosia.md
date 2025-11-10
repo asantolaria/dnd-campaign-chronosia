@@ -101,7 +101,7 @@
 
 **Eventos Fijos:**
 - ✅ Sesión 8: Revelación sobre reclusión de Manshoon
-- ✅ Sesión 8-9: Contador del Ritual creado por Anacronistas y Relojeros Negros
+- ✅ Sesión 8-9: Contador del Ritual creado por Anacronistas y La Resistencia
 
 **Eventos Variables:**
 - 🎲 Los PJ eligen qué lugartenientes enfrentar

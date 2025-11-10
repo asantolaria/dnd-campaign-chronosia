@@ -347,7 +347,7 @@ Los PJ nunca luchan solo por vencer: deben lidiar con la transformación del ent
 
 ### **Las Sectas**
 - **Los Cronófagos**: Fanáticos que creen que sufrir distorsiones temporales y/o espaciales es un don divino (incluye tanto especialistas temporales como espaciales)
-- **Los Relojeros Negros**: Odian ambas formas de distorsión y buscan eliminar tanto magos temporales como espaciales
+- **Los La Resistencia**: Odian ambas formas de distorsión y buscan eliminar tanto magos temporales como espaciales
 
 ### **Clímax**
 Enfrentarse a Aethernus Valcarys, que controla el poder de ambos dioses. La batalla no es solo física: puede enfrentar a los PJ con versiones de sí mismos de futuros alternativos Y de dimensiones paralelas.

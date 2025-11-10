@@ -106,7 +106,7 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó u
 **👥 Explicadores del Balance:**
 - **Zephyr (Anacronistas)**: Explicador principal de la teoría del balance
 - **Varrak del Horizonte**: Confirmación visual con visiones del futuro
-- **Capitán Marcus (Relojeros Negros)**: Advertencias tecnológicas con datos
+- **Capitán Marcus (La Resistencia)**: Advertencias tecnológicas con datos
 
 **Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio.
 
@@ -460,7 +460,7 @@ Un reino de hielo eterno en el extremo norte donde Ymir domina con control espac
 - **Desventajas**: Neutralidad que puede limitar el apoyo directo
 - **Cuándo Aliarse**: Cuando necesiten información sobre lugartenientes temporales, guía en regiones temporales
 
-### **Con los Relojeros Negros**
+### **Con La Resistencia**
 - **Ventajas**: Tecnología anti-magia, conocimiento de las debilidades de los Cronófagos, refugio seguro
 - **Desventajas**: Hostilidad hacia magos, métodos brutales
 - **Cuándo Aliarse**: Contra lugartenientes puramente mágicos, cuando necesiten tecnología específica
@@ -522,7 +522,7 @@ Recolectar **5 Cristales Dimensionales Puros** necesarios para construir la Exca
 - **Excavadora Dimensional** construida y lista para usar
 - **5,000 po** adicionales (además de las recompensas parciales)
 - **Alianza permanente** con los Ingenieros
-- **Acceso a tecnología avanzada** de los Relojeros Negros
+- **Acceso a tecnología avanzada** de La Resistencia
 
 **Nota para el DM:**
 - Los PJ pueden recolectar los cristales en cualquier orden
@@ -569,7 +569,7 @@ Recolectar **10 Engranajes de Mithril Puro** necesarios para ensamblar el Rotor 
 - **Acceso prioritario** al Rotor Infinito cuando esté completo
 - **2,000 po**
 - **Objeto mágico menor** de tecnología
-- **Descuento del 20%** en compras de los Relojeros Negros
+- **Descuento del 20%** en compras de La Resistencia
 
 ---
 
@@ -595,8 +595,8 @@ Recolectar **500 libras de Acero Reforzado** de calidad excepcional para múltip
    - **Protección:** Guerreros Drow (CR 7-9)
    - **Especial:** Acero drow de calidad superior
 
-3. **Acero de Cronópolis** (Relojeros Negros)
-   - **Ubicación:** Taller de los Relojeros Negros
+3. **Acero de Cronópolis** (La Resistencia)
+   - **Ubicación:** Taller de La Resistencia
    - **Cantidad:** 150 libras
    - **Protección:** Ninguna (pero requiere buena relación)
    - **Especial:** Acero anti-magia especializado
@@ -704,7 +704,7 @@ Ensamblar el Rotor Infinito completo usando el Núcleo Temporal (de Serapis) y l
 
 ### **🎁 Misiones de Recompensas de Facciones**
 
-#### **🔧 Misión: "Tecnología para los Relojeros Negros"**
+#### **🔧 Misión: "Tecnología para La Resistencia"**
 
 **Quest Giver:** Balthar Herrumbra, Lucienne Rietveldt, o Kaoros el Sordo  
 **Nivel Recomendado:** 6-10  
@@ -722,7 +722,7 @@ Ensamblar el Rotor Infinito completo usando el Núcleo Temporal (de Serapis) y l
    - **Recompensa:** Granada de Estabilidad (x5)
 
 3. **Proteger el Taller:**
-   - Defender el Taller de los Relojeros Negros de un ataque
+   - Defender el Taller de La Resistencia de un ataque
    - **Recompensa:** Trampa Mecánica Anti-Magia + 2,000 po
 
 ---

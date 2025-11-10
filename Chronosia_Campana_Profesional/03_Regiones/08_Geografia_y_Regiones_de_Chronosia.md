@@ -57,8 +57,32 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 - **Líder Supremo**: Aethernus Valcarys (Manshoon Clone #47)
 - **Población**: Ciudadanos refugiados que rara vez salen de los muros protectores
 - **Seguridad**: Único bastión completamente seguro en todo Chronosia
-- **Facciones**: Relojeros Negros (Fortaleza de Acero), Anacronistas, Ingenieros/Gnomos
+- **Facciones**: La Resistencia (Fortaleza de Acero), Anacronistas, Ingenieros/Gnomos
 - **Acceso**: 🔓 **Desbloqueada** desde el inicio
+
+#### **⚔️ Defensa y Seguridad de Cronópolis**
+
+**Ataques Periódicos:**
+Cronosia es atacada periódicamente por grupos y asaltantes de distintas regiones. Las milicias de los lugartenientes atacan para conseguir más terreno, y aquellos que pueden saltar a otros planos lo hacen para continuar su expansión. A pesar de estos ataques constantes, la gente quiere seguir viviendo en Cronópolis porque es la zona más alejada de las disfunciones mágicas.
+
+**Población y Refugiados:**
+- **Pueblos Atrapados**: Algunos pueblos viven atrapados en sus regiones, incapaces de escapar debido a las distorsiones temporales y espaciales
+- **Refugiados Exitosos**: Otros pudieron escapar y vivir en Cronópolis, encontrando relativa protección de las disfunciones mágicas
+- **Motivación para Permanecer**: A pesar de los ataques, los habitantes prefieren quedarse porque es el lugar más estable y seguro de todo Chronosia
+
+**Sistema de Guardias y Rondas:**
+- **Guardias Permanentes**: Cronópolis mantiene guardias constantes en las murallas y puntos estratégicos
+- **Grupos de Vigilancia**: Salen grupos de vigilancia a hacer rondas periódicamente alrededor de la ciudad y sus alrededores
+- **Protocolo de Respuesta**:
+  - **Problemas Pequeños**: Si el problema es pequeño, los grupos de vigilancia lo resuelven ellos mismos
+  - **Problemas Grandes**: Si el problema es grande, hacen retirada estratégica para preparar la ciudad y organizar una defensa coordinada
+- **Riesgo Constante**: Algunos guardias han caído haciendo guardias, enfrentándose a asaltantes, milicias de lugartenientes, o criaturas de otros planos
+
+**El Cementerio de los Caídos:**
+- **Ubicación**: Dentro de Cronópolis, dedicado exclusivamente a los caídos en servicio
+- **Función**: Monumento y lugar de descanso para todos los guardias y miembros de La Resistencia que han muerto protegiendo la ciudad
+- **Significado**: Un recordatorio constante del precio de la seguridad y la libertad en Chronosia
+- **Visitas**: Los habitantes visitan regularmente el cementerio para honrar a los caídos y recordar que la seguridad tiene un costo
 
 ### **🌋 VOLCANIS - Las Tierras Ardientes del Sur**
 - **Clima**: Calor extremo con erupciones volcánicas constantes
@@ -190,7 +214,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 
 *"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente."*
 
-#### **⚙️ Capitán Marcus (Relojeros Negros) - Advertencias Tecnológicas**
+#### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
 *"Nuestros sensores detectan anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
 
 *"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
@@ -254,8 +278,10 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes 
 - **Desbloqueo**: Derrotar a **1+ lugarteniente**
 - **Nivel**: 7-9
 - **Tipo**: Temporal Principal / Neutral
+- **Región**: Zona salvaje de estilo oriental (Tailandia/China) con montañas cubiertas de bambú, templos antiguos, cascadas, y pandas gigantes como guardianes naturales. La región está fragmentada temporalmente, con múltiples realidades coexistiendo.
 - **Recompensa**: Elección entre **Espejo de la Verdad** O **Fragmento de Realidad Alternativa** (el no elegido se destruye)
 - **⚠️ PERSONAJE ESPECIAL**: Puede convertirse en aliado, siervo o mártir según acciones de los PJ (Momento de Elección en Sesión 11)
+- **📖 Ver descripción completa**: [10_Regiones_Temporales.md](10_Regiones_Temporales.md#-el-abismo-de-los-posibles-varrak-del-horizonte)
 
 #### **El Jardín de los Tiempos Gemelos (Las Gemelas del Espejo + Medusa)**
 - **Efecto de Bloqueo**: "Los espejos y estatuas atrapan a los intrusos en bucles de reflejos y estasis"

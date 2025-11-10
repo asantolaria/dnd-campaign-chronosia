@@ -6,7 +6,7 @@
 > **📖 NAVEGACIÓN:**
 > - [← Volver al Índice](./00_Indice_Facciones.md)
 > - [Cronófagos](./01_Cronofagos.md)
-> - [Relojeros Negros](./02_Relojeros_Negros.md)
+> - [La Resistencia](./02_Relojeros_Negros.md)
 > - [Anacronistas](./03_Anacronistas.md)
 > - [Bregan D'aerthe](./04_Bregan_Daerthe.md)
 > - [Colonos del Archipiélago](./05_Colonos_Archipielago.md)
@@ -15,9 +15,9 @@
 
 ## 📋 **CONFLICTOS PRINCIPALES**
 
-### **Cronófagos vs. Relojeros Negros**
-- **Naturaleza del Conflicto**: Los Cronófagos representan el abuso de la magia temporal y espacial; los Relojeros Negros, la respuesta pragmática y brutal de quienes quieren preservar el flujo natural
-- **Tácticas**: Los Relojeros Negros usan tecnología anti-magia para combatir a los Cronófagos
+### **Cronófagos vs. La Resistencia**
+- **Naturaleza del Conflicto**: Los Cronófagos representan el abuso de la magia temporal y espacial; La Resistencia, la respuesta pragmática y brutal de quienes quieren preservar el flujo natural
+- **Tácticas**: Los La Resistencia usan tecnología anti-magia para combatir a los Cronófagos
 - **Resultado**: Guerra constante entre ambas facciones
 
 ### **Bregan D'aerthe vs. Todos**
@@ -39,8 +39,8 @@
 
 ## 🎯 **LOS PJ EN MEDIO**
 
-### **Relojeros Negros y Magos del Grupo**
-- Si hay lanzadores de conjuros en el grupo, los Relojeros Negros los verán como objetivo
+### **La Resistencia y Magos del Grupo**
+- Si hay lanzadores de conjuros en el grupo, La Resistencia los verán como objetivo
 - Los PJ deben decidir si proteger a sus compañeros magos o entregarlos para ganar aliados
 
 ### **Cronófagos y Reclutamiento**
@@ -65,10 +65,10 @@
 ## 🎭 **OPORTUNIDADES NARRATIVAS**
 
 ### **Batalla a Cuatro Bandos**
-Los PJ atrapados en medio de un enfrentamiento entre Cronófagos (temporales y espaciales), Relojeros Negros y Bregan D'aerthe. Deben decidir qué bando apoyar o intentar escapar.
+Los PJ atrapados en medio de un enfrentamiento entre Cronófagos (temporales y espaciales), La Resistencia y Bregan D'aerthe. Deben decidir qué bando apoyar o intentar escapar.
 
 ### **PNJ Querido Cazado**
-Un PNJ querido mago del grupo es cazado por los Relojeros Negros, obligando a los PJ a decidir si protegerlo o entregar a un amigo para salvarse.
+Un PNJ querido mago del grupo es cazado por La Resistencia, obligando a los PJ a decidir si protegerlo o entregar a un amigo para salvarse.
 
 ### **Revelación de la Traición**
 Los PJ descubren que Jarlaxle y Bregan D'aerthe han estado trabajando para Manshoon todo el tiempo. Deben decidir cómo reaccionar.
@@ -97,7 +97,7 @@ Los PJ descubren que los Colonos están organizando una resistencia secreta cont
 - El chamán Harlim puede ser el único que recuerde algo crucial que ya no existe para nadie más
 - Una traición interna: ¿qué pasa si uno de los Anacronistas decide vender su secreto a los Cronófagos a cambio de poder?
 
-### **Los Relojeros Negros**
+### **Los La Resistencia**
 - Algunos miembros podrían tener agendas ocultas más allá de cazar magos
 - Podrían estar siendo manipulados por fuerzas externas
 - Una facción interna podría querer usar la tecnología para controlar el tiempo en lugar de solo cazarlo
@@ -130,11 +130,11 @@ Los PJ descubren que los Colonos están organizando una resistencia secreta cont
 - **Cuándo Aliarse**: Cuando necesiten información o guía, cuando busquen una perspectiva neutral
 - **📖 Documento completo:** [03_Anacronistas.md](./03_Anacronistas.md)
 
-### **Con los Relojeros Negros**
+### **Con La Resistencia**
 - **Ventajas**: Tecnología anti-magia, conocimiento de las debilidades de los Cronófagos
 - **Desventajas**: Hostilidad hacia magos, métodos brutales
 - **Cuándo Aliarse**: Contra enemigos puramente mágicos, cuando necesiten tecnología específica
-- **⚠️ ADVERTENCIA**: Si hay magos en el grupo, los Relojeros Negros los verán como objetivo
+- **⚠️ ADVERTENCIA**: Si hay magos en el grupo, La Resistencia los verán como objetivo
 - **📖 Documento completo:** [02_Relojeros_Negros.md](./02_Relojeros_Negros.md)
 
 ### **Con los Cronófagos**
@@ -165,7 +165,7 @@ Los PJ descubren que los Colonos están organizando una resistencia secreta cont
 | **Facción** | **Actitud hacia PJ** | **Especialidad** | **Aliado Potencial** | **Riesgo** |
 |------------|----------------------|------------------|---------------------|-----------|
 | **Cronófagos** | Hostiles | Manipulación temporal/espacial | ❌ No | ⚠️⚠️⚠️ Alto |
-| **Relojeros Negros** | Neutrales (hostiles si hay magos) | Tecnología anti-magia | ⚠️ Depende | ⚠️⚠️ Moderado |
+| **La Resistencia** | Neutrales (hostiles si hay magos) | Tecnología anti-magia | ⚠️ Depende | ⚠️⚠️ Moderado |
 | **Anacronistas** | Amigables | Resistencia temporal | ✅ Sí | ✅ Bajo |
 | **Bregan D'aerthe** | Ambiguos | Espionaje y mercenariado | ⚠️ Depende | ⚠️⚠️⚠️ Alto |
 | **Colonos del Archipiélago** | Neutrales (amigables si enemigos de Teach) | Navegación, comercio, conocimiento local | ✅ Sí (si ayudan) | ⚠️ Bajo-Moderado |

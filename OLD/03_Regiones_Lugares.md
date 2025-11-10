@@ -626,7 +626,7 @@ La región más importante y peligrosa de Chronosia, donde se encuentra la forta
 **Ubicación**: Centro del continente, zona templada
 **Características**: La ciudad más grande y estable de Chronosia, con aproximadamente 15,000 habitantes. Es la menos afectada por las distorsiones temporales y espaciales, sirviendo como refugio relativo para los viajeros.
 - **Arquitectura**: Edificios de piedra y madera, torres de reloj, plazas amplias
-- **Gobierno**: Consejo de Maestros del Tiempo (sobrevivientes de los Relojeros Negros)
+- **Gobierno**: Consejo de Maestros del Tiempo (sobrevivientes de La Resistencia)
 - **Función**: Centro de comercio, refugio, y base de operaciones para los PJ
 - **Distorsiones**: Mínimas, solo efectos sutiles de los lugartenientes lejanos
 
@@ -670,9 +670,9 @@ Estos asentamientos han sido infiltrados o completamente dominados por los cron�
 - **Pueblo Entero Cronófago**: Una comunidad donde todos los habitantes, excepto una familia que lo disimula cuidadosamente, son miembros activos de los cronófagos. La familia resistente vive en constante peligro y debe actuar con extrema cautela.
 - **Comunidad Dividida**: Un pueblo donde aproximadamente la mitad de los habitantes son cronófagos y la otra mitad son civiles normales, creando tensiones internas y conflictos sociales constantes.
 
-#### **⚔️ Pueblos Leales a los Relojeros Negros**
-- **Bastión de Resistencia**: Un pueblo entero que ha mantenido su lealtad a los Relojeros Negros, sirviendo como refugio y base de operaciones para la resistencia contra los cronófagos.
-- **Comunidad Neutral**: Pueblos que han logrado mantenerse neutrales, rechazando tanto a cronófagos como a relojeros negros, pero viviendo bajo constante amenaza de ambas facciones.
+#### **⚔️ Pueblos Leales a La Resistencia**
+- **Bastión de Resistencia**: Un pueblo entero que ha mantenido su lealtad a La Resistencia, sirviendo como refugio y base de operaciones para la resistencia contra los cronófagos.
+- **Comunidad Neutral**: Pueblos que han logrado mantenerse neutrales, rechazando tanto a cronófagos como a La Resistencia, pero viviendo bajo constante amenaza de ambas facciones.
 
 #### **⏰ Pueblos Atrapados en Bucles Temporales**
 - **El Pueblo del Ahorcamiento**: Un asentamiento donde un hombre inocente es ejecutado cada día en un bucle temporal. Los habitantes están atrapados en este ciclo macabro, repitiendo la misma tragedia eternamente. Romper este bucle liberará al condenado, quien se convertirá en un aliado poderoso y agradecido.
@@ -681,7 +681,7 @@ Estos asentamientos han sido infiltrados o completamente dominados por los cron�
 
 #### **🎭 Dinámicas Narrativas Especiales**
 - **La Familia Resistent**: En pueblos completamente corrompidos, una familia mantiene la resistencia, proporcionando información crucial y refugio a los PJ.
-- **El Infiltrado**: Un habitante que parece ser cronófago pero en realidad es un espía de los Relojeros Negros.
+- **El Infiltrado**: Un habitante que parece ser cronófago pero en realidad es un espía de La Resistencia.
 - **El Convertido**: Un ex-cronófago que ha visto la luz y ahora lucha contra sus antiguos aliados, pero debe ganarse la confianza de los PJ.
 - **El Testigo**: Un habitante que ha presenciado crímenes horribles pero teme hablar por las represalias contra su familia.
 

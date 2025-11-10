@@ -17,7 +17,7 @@
   - [Los Tejedores de Eones (Magos)](#-los-tejedores-de-eones-magos)
   - [Los Gigantes Barbudos (Guerreros/Berserkers)](#-los-gigantes-barbudos-guerrerosberserkers)
   - [Los Devoradores Comunes](#-los-devoradores-comunes)
-- [Los Relojeros Negros (Cazadores de Magos)](#-los-relojeros-negros-cazadores-de-magos)
+- [Los La Resistencia (Cazadores de Magos)](#-los-relojeros-negros-cazadores-de-magos)
   - [Balthar Herrumbra - Enano Maestro Armero](#-balthar-herrumbra---enano-maestro-armero)
   - [Lucienne Rietveldt - Humana Ingeniera](#-lucienne-rietveldt---humana-ingeniera)
   - [Kaoros el Sordo - Semi-orco Veterano](#-kaoros-el-sordo---semi-orco-veterano)
@@ -54,7 +54,7 @@
 
 **Descripción Física:** Un enano anciano con barba blanca cuidadosamente trenzada, manos callosas de décadas trabajando con engranajes, y ojos que brillaban con la sabiduría de quien entiende el tiempo.
 
-**Historia:** Antiguo miembro de los Relojeros Negros que logró escapar del semiplano y establecerse en Waterdeep como el maestro relojero principal. Su función secreta era **arreglar pequeños desajustes temporales** que aparecían en Faerûn, evitando que los Cronófagos pudieran saltar de plano y expandirse.
+**Historia:** Antiguo miembro de La Resistencia que logró escapar del semiplano y establecerse en Waterdeep como el maestro relojero principal. Su función secreta era **arreglar pequeños desajustes temporales** que aparecían en Faerûn, evitando que los Cronófagos pudieran saltar de plano y expandirse.
 
 **Función Crítica:** Thaddeus mantenía la estabilidad temporal de Faerûn usando el reloj astronómico como ancla. Cada desajuste temporal que reparaba impedía que los Cronófagos se infiltraran en el plano material. Sin él, las distorsiones temporales se intensifican y los Cronófagos pueden saltar de plano con mayor facilidad.
 
@@ -64,7 +64,7 @@
 - Los desajustes temporales ahora se intensifican sin su reparación
 - Su conocimiento sobre la estabilización temporal era una amenaza crítica
 
-**Función en la Campaña:** Su asesinato inicia toda la aventura. Su diario y documentos contienen información crucial sobre el semiplano, los Relojeros Negros, y cómo resistir las distorsiones temporales.
+**Función en la Campaña:** Su asesinato inicia toda la aventura. Su diario y documentos contienen información crucial sobre el semiplano, La Resistencia, y cómo resistir las distorsiones temporales.
 
 ### El Cronófago Asesino - Infiltrado en Waterdeep
 **Raza:** Humano (deformado por el poder temporal)  
@@ -158,11 +158,11 @@
 
 **Características:** Variedad racial, todos deformados de maneras sutiles por la exposición al poder temporal.
 
-### Los Relojeros Negros (Cazadores de Magos)
+### Los La Resistencia (Cazadores de Magos)
 
 #### Balthar Herrumbra - Enano Maestro Armero
 **Raza:** Enano  
-**Rol:** Líder de los Relojeros Negros  
+**Rol:** Líder de La Resistencia  
 **Alineación:** Legal Neutral  
 
 **Descripción Física:** Un enano robusto con manos callosas y ojos que brillan con la pasión del artesano. Siempre lleva herramientas de herrería.
@@ -302,19 +302,19 @@
 - *"Confíen en mí, les llevaré donde necesitan estar. Solo necesitan aceptar mi ayuda."*
 - *"¿Distorsiones temporales? ¡Bah! En el Plano del Caos Primordial, el tiempo fluye hacia atrás los martes."*
 - *"¡Miren esta gema! Viene del Corazón de la Estrella Moribunda. ¡Puede detener el tiempo por una hora!"*
-- *"Este rifle viene del Plano de la Pólvora Eterna. ¡Los Relojeros Negros me compraron el primero hace años!"*
+- *"Este rifle viene del Plano de la Pólvora Eterna. ¡Los La Resistencia me compraron el primero hace años!"*
 
-**Historia con los Relojeros Negros:**
-Zephyr fue el primer ser en traer armas de fuego al semiplano. Los Relojeros Negros, desesperados por encontrar formas de combatir la magia, le compraron su primera pistola. Fascinados por la tecnología, le pidieron más, y Zephyr se convirtió en su proveedor principal. Los Relojeros Negros aprendieron a replicar las armas, pero siempre dependen de Zephyr para obtener las versiones más avanzadas.
+**Historia con La Resistencia:**
+Zephyr fue el primer ser en traer armas de fuego al semiplano. Los La Resistencia, desesperados por encontrar formas de combatir la magia, le compraron su primera pistola. Fascinados por la tecnología, le pidieron más, y Zephyr se convirtió en su proveedor principal. Los La Resistencia aprendieron a replicar las armas, pero siempre dependen de Zephyr para obtener las versiones más avanzadas.
 
 **Momentos Narrativos Clave:**
-- Los PJ pueden encontrarlo vendiendo armas a los Relojeros Negros
+- Los PJ pueden encontrarlo vendiendo armas a La Resistencia
 - Puede ofrecerles objetos que les ayuden a resistir las distorsiones temporales
 - Sus historias de otros planos pueden dar pistas sobre cómo resolver el conflicto
 - Puede ser chantajeado o sobornado para obtener información sobre Aethernus
 
 **Conexión con Otros Personajes:**
-- **Los Relojeros Negros:** Su proveedor principal de armas de fuego avanzadas
+- **Los La Resistencia:** Su proveedor principal de armas de fuego avanzadas
 - **Cornelius "El Inmutable":** Se conocen y respetan mutuamente; Cornelius le compra relojes exóticos
 - **Jarlaxle:** Ambos son comerciantes interplanares y a veces compiten por mercancías raras
 - **Volo:** Se conocen de sus viajes por Faerûn; Zephyr le ha vendido objetos exóticos
@@ -355,7 +355,7 @@ Zephyr fue el primer ser en traer armas de fuego al semiplano. Los Relojeros Neg
 ## 🔗 Conexiones y Relaciones
 
 ### Facciones en Conflicto
-- **Los Relojeros Negros** vs **Los Cronófagos** (enemigos acérrimos)
+- **Los La Resistencia** vs **Los Cronófagos** (enemigos acérrimos)
 - **Los Anacronistas** vs **Ambas facciones** (neutrales pero opuestos a la distorsión temporal)
 - **Los PJ** en el medio de todos los conflictos
 

@@ -1,4 +1,4 @@
-# ⚙️ Los Relojeros Negros
+# ⚙️ La Resistencia
 ## *Cazadores de Magos*
 
 ---
@@ -11,7 +11,7 @@
 
 ## 📋 **RESUMEN EJECUTIVO**
 
-Los Relojeros Negros son una organización de ingenieros y artesanos que odian la magia en todas sus formas, viéndola como corrupción que roba la esencia vital y altera el tejido del mundo. Han desarrollado tecnología anti-magia para combatir a los Cronófagos y cualquier usuario de magia.
+La Resistencia es una organización de ingenieros y artesanos que odian la magia en todas sus formas, viéndola como corrupción que roba la esencia vital y altera el tejido del mundo. Han desarrollado tecnología anti-magia para combatir a los Cronófagos y cualquier usuario de magia.
 
 **🎯 Filosofía**: La magia es corrupción que debe ser eliminada  
 **⚙️ Especialidad**: Tecnología anti-magia y armas mecánicas  
@@ -99,7 +99,7 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Desventajas**: Hostilidad hacia magos, métodos brutales
 - **Cuándo Aliarse**: Contra enemigos puramente mágicos, cuando necesiten tecnología específica
 
-**⚠️ ADVERTENCIA**: Si hay lanzadores de conjuros en el grupo, los Relojeros Negros los verán como objetivo. Su visión extrema (matar a todos los magos, incluidos los jugadores) los convierte en enemigos potenciales.
+**⚠️ ADVERTENCIA**: Si hay lanzadores de conjuros en el grupo, La Resistencia los verá como objetivo. Su visión extrema (matar a todos los magos, incluidos los jugadores) los convierte en enemigos potenciales.
 
 ---
 
@@ -108,7 +108,7 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - Algunos miembros podrían tener agendas ocultas más allá de cazar magos
 - Podrían estar siendo manipulados por fuerzas externas
 - Una facción interna podría querer usar la tecnología para controlar el tiempo en lugar de solo cazarlo
-- El grupo podría descubrir que algunos Relojeros fabrican armas con partes del cuerpo de Cronófagos (barbas, piel endurecida, fragmentos dimensionales), volviéndose igual de oscuros que lo que combaten
+- El grupo podría descubrir que algunos miembros de La Resistencia fabrican armas con partes del cuerpo de Cronófagos (barbas, piel endurecida, fragmentos dimensionales), volviéndose igual de oscuros que lo que combaten
 
 ---
 
@@ -119,5 +119,5 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 
 ---
 
-*Los Relojeros Negros luchan contra la magia con acero y vapor, pero su odio puede cegarlos hasta volverse tan peligrosos como lo que combaten.* ⚙️🔧
+*La Resistencia lucha contra la magia con acero y vapor, pero su odio puede cegarlos hasta volverse tan peligrosos como lo que combaten.* ⚙️🔧
 

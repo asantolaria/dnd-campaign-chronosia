@@ -29,7 +29,7 @@
 - [Artefactos Gnomos (Anacronistas)](#-artefactos-gnomos-anacronistas)
 - [Bendiciones del Vacío (Oceánicos de las Profundidades)](#-bendiciones-del-vacío-océnicos-de-las-profundidades)
 
-### **⚙️ Inventos de los Ingenieros (Relojeros Negros)**
+### **⚙️ Inventos de los Ingenieros (La Resistencia)**
 - [Armas de Neutralización](#-armas-de-neutralización)
 - [Máquinas de Estabilización](#-máquinas-de-estabilización)
 - [Artefactos de Ingeniería](#-artefactos-de-ingeniería)
@@ -37,6 +37,7 @@
 
 ### **🔮 Reliquias Divinas**
 - [Fragmentos de Poder Divino](#-fragmentos-de-poder-divino)
+- [Cristales de la Batalla Divina](#-cristales-de-la-batalla-divina)
 - [Reliquias de la Batalla](#-reliquias-de-la-batalla)
 
 ---
@@ -196,19 +197,19 @@ Cuando se combina con el Cronómetro de Realidades, crea el Talismán de Interce
 **Tipo:** Artefacto (No requiere sintonización)  
 **Rareza:** Artefacto Único (Híbrido)  
 **Peso:** 50 libras  
-**Creadores:** Anacronistas + Relojeros Negros (Sesión 8-9)  
+**Creadores:** Anacronistas + La Resistencia (Sesión 8-9)  
 **Ubicación:** Cronópolis (Taller de los Ingenieros o Santuario de los Anacronistas)  
 **Estado Actual:** ✅ Creado y activo
 
 #### **📍 Ubicación y Obtención:**
 
 **Ubicación:**
-- **Lugar:** Cronópolis - Puede estar en el Taller de los Ingenieros (Relojeros Negros) o en el Santuario de los Anacronistas
+- **Lugar:** Cronópolis - Puede estar en el Taller de los Ingenieros (La Resistencia) o en el Santuario de los Anacronistas
 - **Acceso:** Público - Los PJ pueden consultarlo en cualquier momento
 - **Protección:** No requiere protección especial (no puede ser manipulado)
 
 **Cómo se Obtiene:**
-- **Creado en Sesión 8-9:** Los Anacronistas y Relojeros Negros lo crean juntos durante un encuentro especial
+- **Creado en Sesión 8-9:** Los Anacronistas y La Resistencia lo crean juntos durante un encuentro especial
 - **Los PJ pueden participar:** Pueden ayudar en la creación del artefacto (opcional)
 - **No requiere obtención:** Es un artefacto fijo que permanece en Cronópolis para consulta
 
@@ -218,7 +219,7 @@ Cuando se combina con el Cronómetro de Realidades, crea el Talismán de Interce
 - **Urgencia Visual:** Crea tensión narrativa al mostrar el avance del ritual
 
 #### **📜 Historia:**
-Artefacto híbrido creado por la alianza inesperada entre Anacronistas y Relojeros Negros durante la Sesión 8-9. Combina la percepción mística del tiempo de los Anacronistas con la tecnología de precisión de los Relojeros Negros para monitorear el progreso del ritual de ascensión divina de Manshoon.
+Artefacto híbrido creado por la alianza inesperada entre Anacronistas y La Resistencia durante la Sesión 8-9. Combina la percepción mística del tiempo de los Anacronistas con la tecnología de precisión de La Resistencia para monitorear el progreso del ritual de ascensión divina de Manshoon.
 
 #### **🎨 Descripción Física:**
 Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (como un astrolabio). Engranajes visibles giran constantemente. Fragmentos de aionita incrustados alrededor del borde brillan suavemente. Agujas doradas se mueven hacia números grabados en el borde. Un número central muestra el porcentaje actual del ritual.
@@ -422,14 +423,14 @@ Un reloj de arena de 2 pies de altura con estructura de bronce antiguo. La arena
 
 **Cómo Obtenerlo:**
 1. **Quest de los Ingenieros:** Los Ingenieros de Cronópolis solicitan la construcción de la Excavadora
-2. **Quest Giver:** Din Goldgear o Balthar Herrumbra (Relojeros Negros)
+2. **Quest Giver:** Din Goldgear o Balthar Herrumbra (La Resistencia)
 3. **Materiales Necesarios:**
    - **5,000 po** en materiales (acero reforzado, engranajes de mithril, cristales dimensionales)
    - **Componentes Especiales:** Los PJ pueden necesitar obtener materiales raros de regiones específicas
 4. **Tiempo de Construcción:** 1-2 semanas de trabajo (puede acelerarse si los PJ ayudan)
 
 **Requisitos:**
-- **Alianza con Ingenieros:** Los PJ deben tener buena relación con Din Goldgear o los Relojeros Negros
+- **Alianza con Ingenieros:** Los PJ deben tener buena relación con Din Goldgear o La Resistencia
 - **Nivel Recomendado:** 7-9
 - **Conocimiento Técnico:** Din Goldgear o un Artífice de nivel 9+ debe dirigir la construcción
 
@@ -873,9 +874,9 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 ## ⚙️ **INVENTOS DE LOS INGENIEROS (RELOJEROS NEGROS)**
 
 > **📍 Ubicación y Obtención General:**
-> - **Ubicación:** Cronópolis (Taller de los Relojeros Negros)
+> - **Ubicación:** Cronópolis (Taller de La Resistencia)
 > - **Quest Givers:** Din Goldgear, Balthar Herrumbra, Lucienne Rietveldt, o Kaoros el Sordo
-> - **Requisito:** Alianza con los Relojeros Negros o completar misiones para ellos
+> - **Requisito:** Alianza con La Resistencia o completar misiones para ellos
 > - **Nivel Recomendado:** 5-10
 > - **Nota:** Algunos objetos pueden ser comprados, otros requieren misiones específicas
 
@@ -884,8 +885,8 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 #### **Rifle Anti-Magia**
 
 **📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 8,000 po en el Taller de los Relojeros Negros
-- **Recompensa por Misión:** Los Relojeros Negros lo ofrecen como recompensa por misiones importantes
+- **Compra:** Los PJ pueden comprarlo por 8,000 po en el Taller de La Resistencia
+- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones importantes
 - **Requisito:** Buena relación con Balthar Herrumbra o Din Goldgear
 - **Munición:** Los proyectiles anti-magia deben comprarse por separado (1 po cada uno)
 
@@ -904,8 +905,8 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 #### **Granada de Estabilidad**
 
 **📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 1,500 po en el Taller de los Relojeros Negros
-- **Recompensa por Misión:** Los Relojeros Negros lo ofrecen como recompensa por misiones menores
+- **Compra:** Los PJ pueden comprarlo por 1,500 po en el Taller de La Resistencia
+- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones menores
 - **Requisito:** Buena relación con Lucienne Rietveldt
 - **Nota:** Puede comprarse en lotes (10 granadas por 1,200 po)
 
@@ -924,9 +925,9 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 #### **Escudo Tecnológico**
 
 **📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 3,000 po en el Taller de los Relojeros Negros
-- **Recompensa por Misión:** Los Relojeros Negros lo ofrecen como recompensa por misiones de protección
-- **Requisito:** Buena relación con los Relojeros Negros
+- **Compra:** Los PJ pueden comprarlo por 3,000 po en el Taller de La Resistencia
+- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones de protección
+- **Requisito:** Buena relación con La Resistencia
 
 **Tipo:** Escudo (Tecnología)  
 **Rareza:** Raro  
@@ -941,8 +942,8 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 #### **Trampa Mecánica Anti-Magia**
 
 **📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 2,500 po en el Taller de los Relojeros Negros
-- **Recompensa por Misión:** Los Relojeros Negros lo ofrecen como recompensa por misiones de infiltración
+- **Compra:** Los PJ pueden comprarlo por 2,500 po en el Taller de La Resistencia
+- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones de infiltración
 - **Requisito:** Buena relación con Kaoros el Sordo
 
 **Tipo:** Trampa (Tecnología)  
@@ -1003,8 +1004,8 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 #### **Detector de Magia**
 
 **📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 2,000 po en el Taller de los Relojeros Negros
-- **Recompensa por Misión:** Los Relojeros Negros lo ofrecen como recompensa por misiones de detección
+- **Compra:** Los PJ pueden comprarlo por 2,000 po en el Taller de La Resistencia
+- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones de detección
 - **Requisito:** Buena relación con Kaoros el Sordo
 
 **Tipo:** Dispositivo (Tecnología)  
@@ -1087,7 +1088,7 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 
 ### **👤 Objetos Personales de Líderes**
 
-> **📍 Nota:** Estos objetos están en posesión de los líderes de los Relojeros Negros. Los PJ pueden obtenerlos como recompensas por misiones muy importantes o por derrotar a los líderes (no recomendado).
+> **📍 Nota:** Estos objetos están en posesión de los líderes de La Resistencia. Los PJ pueden obtenerlos como recompensas por misiones muy importantes o por derrotar a los líderes (no recomendado).
 
 #### **Prótesis Mecánica de Balthar**
 
@@ -1129,7 +1130,7 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 #### **Dispositivo de Detección de Kaoros**
 
 **📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 2,500 po en el Taller de los Relojeros Negros
+- **Compra:** Los PJ pueden comprarlo por 2,500 po en el Taller de La Resistencia
 - **Recompensa por Misión:** Kaoros lo ofrece como recompensa por misiones de detección
 - **Requisito:** Buena relación con Kaoros el Sordo
 
@@ -1196,6 +1197,179 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 
 ---
 
+### **💎 Cristales de la Batalla Divina**
+
+Durante la batalla eterna entre Amaunator y Voidar, los estallidos de poder divino a veces crean **cristales especiales** que cristalizan en el espacio-tiempo fracturado. Estos cristales son extremadamente raros y pueden tener propiedades opuestas: algunos **neutralizan la magia** (antimagia), mientras que otros **amplifican y canalizan la magia** (canalizadores mágicos).
+
+**⚠️ IMPORTANTE:** Edward Teach ha descubierto cómo usar estos cristales junto con artefactos para **combinar poderes** de diferentes lugartenientes, permitiéndole robar y fusionar habilidades de múltiples fuentes.
+
+#### **🔷 Cristal Antimagia (Cristal de Neutralización)**
+
+**📍 Cómo Obtenerlo:**
+- **Origen:** Creado por estallidos de poder divino durante la batalla entre Amaunator y Voidar
+- **Ubicación:** Aparecen aleatoriamente en regiones con alta actividad temporal/dimensional
+- **Frecuencia:** Extremadamente raros (1d100 para encontrar uno en una región activa)
+- **Nivel Recomendado:** 5-15 (según el tamaño del cristal)
+
+**Tipo:** Consumible/Componente  
+**Rareza:** Muy Raro a Legendario (según tamaño)  
+**Peso:** 0.5-5 libras (según tamaño)
+
+**Descripción Física:**
+Un cristal de color gris opaco que parece absorber la luz. Su superficie es completamente mate, sin reflejos, y emite una sensación de "vacío mágico". Cuando se sostiene, se siente frío y la magia cercana se debilita. Los cristales más grandes pueden tener el tamaño de un puño, mientras que los pequeños son del tamaño de una moneda.
+
+**Propiedades:**
+
+**Tamaño Pequeño (Moneda):**
+- **Neutralización Menor:** Puede cancelar un hechizo de nivel 3 o inferior (acción)
+- **Campo Antimagia (10 pies):** Crea un campo de 10 pies de radio donde la magia se debilita (desventaja en tiradas de ataque con hechizos)
+- **Duración:** 1 hora o hasta que se use
+- **Usos:** 1 uso antes de consumirse
+
+**Tamaño Mediano (Puño):**
+- **Neutralización Mayor:** Puede cancelar un hechizo de nivel 6 o inferior (acción)
+- **Campo Antimagia (30 pies):** Crea un campo de 30 pies de radio donde la magia se debilita significativamente
+- **Bloqueo de Portales:** Puede cerrar portales temporales o dimensionales menores
+- **Duración:** 24 horas o hasta que se use
+- **Usos:** 3 usos antes de consumirse
+
+**Tamaño Grande (Cabeza):**
+- **Neutralización Absoluta:** Puede cancelar cualquier hechizo o efecto mágico (acción)
+- **Campo Antimagia (100 pies):** Crea un campo masivo donde la magia no puede funcionar
+- **Bloqueo de Portales Mayores:** Puede cerrar portales temporales o dimensionales poderosos
+- **Duración:** Permanente hasta que se use
+- **Usos:** 10 usos antes de consumirse
+
+**Uso en Combinación de Poderes (Edward Teach):**
+- Teach usa estos cristales para **estabilizar la combinación** de poderes robados
+- Permite que poderes temporales y dimensionales coexistan sin conflicto
+- Esencial para crear el Talismán de Interceptación Divina
+- Sin estos cristales, la combinación de poderes sería inestable y peligrosa
+
+---
+
+#### **💠 Cristal Canalizador Mágico (Cristal de Amplificación)**
+
+**📍 Cómo Obtenerlo:**
+- **Origen:** Creado por estallidos de poder divino durante la batalla entre Amaunator y Voidar
+- **Ubicación:** Aparecen aleatoriamente en regiones con alta actividad temporal/dimensional
+- **Frecuencia:** Extremadamente raros (1d100 para encontrar uno en una región activa)
+- **Nivel Recomendado:** 5-15 (según el tamaño del cristal)
+
+**Tipo:** Consumible/Componente  
+**Rareza:** Muy Raro a Legendario (según tamaño)  
+**Peso:** 0.5-5 libras (según tamaño)
+
+**Descripción Física:**
+Un cristal brillante que pulsa con energía mágica. Su color varía según el tipo de poder que canaliza: dorado para poder temporal, púrpura para poder dimensional, o multicolor para poder combinado. Emite una luz suave y constante, y cuando se sostiene, se siente cálido y lleno de energía potencial. Los cristales más grandes brillan intensamente, mientras que los pequeños tienen un brillo tenue.
+
+**Propiedades:**
+
+**Tamaño Pequeño (Moneda):**
+- **Amplificación Menor:** Aumenta el nivel de un hechizo en +1 (máximo nivel 5)
+- **Canalización Temporal:** Puede canalizar poder temporal para mejorar hechizos temporales
+- **Canalización Dimensional:** Puede canalizar poder dimensional para mejorar hechizos dimensionales
+- **Duración:** 1 hora o hasta que se use
+- **Usos:** 1 uso antes de consumirse
+
+**Tamaño Mediano (Puño):**
+- **Amplificación Mayor:** Aumenta el nivel de un hechizo en +2 (máximo nivel 7)
+- **Canalización Dual:** Puede canalizar poder temporal Y dimensional simultáneamente
+- **Amplificación de Artefactos:** Puede mejorar temporalmente las propiedades de un artefacto
+- **Duración:** 24 horas o hasta que se use
+- **Usos:** 3 usos antes de consumirse
+
+**Tamaño Grande (Cabeza):**
+- **Amplificación Absoluta:** Aumenta el nivel de un hechizo en +3 (máximo nivel 9)
+- **Canalización Divina:** Puede canalizar poder divino directamente de Amaunator o Voidar
+- **Fusión de Poderes:** Permite combinar poderes temporales y dimensionales de forma estable
+- **Duración:** Permanente hasta que se use
+- **Usos:** 10 usos antes de consumirse
+
+**Uso en Combinación de Poderes (Edward Teach):**
+- Teach usa estos cristales para **amplificar y canalizar** los poderes robados
+- Permite que los poderes se **fusionen** en lugar de simplemente coexistir
+- Esencial para crear el Talismán de Interceptación Divina
+- Sin estos cristales, la combinación de poderes sería débil e ineficiente
+
+---
+
+#### **⚡ Cristales Combinados (Cristales Híbridos)**
+
+**📍 Cómo Obtenerlo:**
+- **Origen:** Creados cuando un estallido de poder divino contiene energía de AMBOS dioses simultáneamente
+- **Ubicación:** Extremadamente raros, solo aparecen cerca de la Torre de la Eternidad o en momentos de máximo conflicto divino
+- **Frecuencia:** Casi imposibles de encontrar (1d1000 para encontrar uno)
+- **Nivel Recomendado:** 13-15
+
+**Tipo:** Consumible/Componente  
+**Rareza:** Legendario  
+**Peso:** 2-10 libras
+
+**Descripción Física:**
+Un cristal que muestra propiedades de AMBOS tipos: parte de su superficie es gris opaco (antimagia) mientras que otra parte brilla intensamente (canalizador). El cristal parece "luchar" consigo mismo, alternando entre absorber y amplificar magia. Es extremadamente inestable y peligroso de usar.
+
+**Propiedades:**
+- **Neutralización Selectiva:** Puede cancelar magia enemiga mientras amplifica magia aliada
+- **Canalización Dual:** Puede canalizar poder temporal Y dimensional simultáneamente
+- **Fusión Perfecta:** Permite combinar poderes de forma perfecta y estable
+- **⚠️ PELIGRO:** Usar este cristal requiere una tirada de Constitución CD 20 o sufre 3d10 de daño necrótico
+- **Usos:** 5 usos antes de consumirse
+
+**Uso en Combinación de Poderes (Edward Teach):**
+- Teach busca desesperadamente estos cristales para crear el Talismán perfecto
+- Con un cristal híbrido, puede combinar poderes sin necesidad de múltiples cristales
+- Es el componente más valioso para su plan de interceptación divina
+
+---
+
+#### **🎯 Cómo se Crean los Cristales**
+
+**El Proceso:**
+1. **Estallido de Poder:** Durante la batalla entre Amaunator y Voidar, los estallidos de poder divino crean ondas de energía
+2. **Cristalización:** Estas ondas de energía a veces se cristalizan en el espacio-tiempo fracturado
+3. **Tipo de Cristal:** El tipo depende de la naturaleza del estallido:
+   - **Estallidos de Poder Temporal Puro** → Cristales Canalizadores (dorados)
+   - **Estallidos de Poder Dimensional Puro** → Cristales Canalizadores (púrpura)
+   - **Estallidos de Conflicto** (poderes que se anulan) → Cristales Antimagia (grises)
+   - **Estallidos Simultáneos** (ambos dioses) → Cristales Híbridos (multicolor)
+
+**Ubicaciones Comunes:**
+- **Regiones con Alta Actividad Temporal:** Cerca de lugartenientes temporales
+- **Regiones con Alta Actividad Dimensional:** Cerca de lugartenientes dimensionales
+- **La Torre de la Eternidad:** Donde la batalla es más intensa
+- **Puntos de Confluencia:** Donde múltiples distorsiones se encuentran
+
+**Frecuencia:**
+- **Cristales Pequeños:** Aparecen ocasionalmente (1d20 para encontrar uno en una región activa)
+- **Cristales Medianos:** Aparecen raramente (1d100 para encontrar uno)
+- **Cristales Grandes:** Aparecen extremadamente raramente (1d1000 para encontrar uno)
+- **Cristales Híbridos:** Casi imposibles (solo cerca de la Torre o en momentos críticos)
+
+---
+
+#### **🏴‍☠️ Uso de Edward Teach - Combinación de Poderes**
+
+**El Sistema de Teach:**
+Edward Teach ha desarrollado un sistema único para combinar poderes usando estos cristales:
+
+1. **Cristal Antimagia:** Usa estos cristales para **estabilizar** la combinación, evitando que los poderes robados entren en conflicto
+2. **Cristal Canalizador:** Usa estos cristales para **amplificar y canalizar** los poderes, permitiendo que se fusionen en lugar de simplemente coexistir
+3. **Artefactos:** Combina los cristales con artefactos (Cronómetro, Perla) para crear objetos híbridos poderosos
+4. **Cristal Híbrido:** Si encuentra un cristal híbrido, puede combinar poderes de forma perfecta sin necesidad de múltiples cristales
+
+**El Talismán de Interceptación Divina:**
+- **Componentes:** Cronómetro + Perla + Cristales Antimagia + Cristales Canalizadores
+- **Proceso:** Los cristales estabilizan y amplifican la fusión de los artefactos
+- **Resultado:** Un artefacto que puede interceptar el poder divino antes de que llegue a Manshoon
+
+**Búsqueda Activa:**
+- Teach busca activamente estos cristales en todas las regiones
+- Puede enviar a sus piratas a buscar cristales mientras él ejecuta otros planes
+- Los cristales son esenciales para su plan de interceptación divina
+
+---
+
 ### **⚔️ Reliquias de la Batalla**
 
 #### **Cristal de la Batalla Eterna**
@@ -1250,12 +1424,19 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 | Arena del Tiempo Estabilizada | Artefacto | Artefacto | 8 lbs | Derrotar Serapis |
 | Excavadora Dimensional | Artefacto | Artefacto | 200 lbs | Quest Ingenieros |
 | Rotor Infinito | Artefacto | Artefacto | 500 lbs | Serapis + Ymir |
-| Rifle Anti-Magia | Muy Raro | Tecnología | 12 lbs | Relojeros Negros |
-| Granada de Estabilidad | Raro | Tecnología | 1 lb | Relojeros Negros |
-| Escudo Tecnológico | Raro | Tecnología | 8 lbs | Relojeros Negros |
+| Rifle Anti-Magia | Muy Raro | Tecnología | 12 lbs | La Resistencia |
+| Granada de Estabilidad | Raro | Tecnología | 1 lb | La Resistencia |
+| Escudo Tecnológico | Raro | Tecnología | 8 lbs | La Resistencia |
 | Estabilizador Temporal | Muy Raro | Tecnología | 200 lbs | Din Goldgear |
 | Fragmento de Amaunator | Artefacto | Reliquia | 1 lb | Torre de la Eternidad |
 | Fragmento de Voidar | Artefacto | Reliquia | 1 lb | Torre de la Eternidad |
+| Cristal Antimagia (Pequeño) | Muy Raro | Consumible | 0.5 lbs | Regiones activas (raro) |
+| Cristal Antimagia (Mediano) | Muy Raro | Consumible | 2 lbs | Regiones activas (muy raro) |
+| Cristal Antimagia (Grande) | Legendario | Consumible | 5 lbs | Regiones activas (extremadamente raro) |
+| Cristal Canalizador (Pequeño) | Muy Raro | Consumible | 0.5 lbs | Regiones activas (raro) |
+| Cristal Canalizador (Mediano) | Muy Raro | Consumible | 2 lbs | Regiones activas (muy raro) |
+| Cristal Canalizador (Grande) | Legendario | Consumible | 5 lbs | Regiones activas (extremadamente raro) |
+| Cristal Híbrido | Legendario | Consumible | 2-10 lbs | Torre de la Eternidad (casi imposible) |
 
 ---
 

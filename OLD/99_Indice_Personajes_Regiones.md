@@ -55,7 +55,7 @@
 
 ### **R**
 - [Regiones del Semiplano](#-regiones-del-semiplano)
-- [Relojeros Negros](#-relojeros-negros)
+- [La Resistencia](#-relojeros-negros)
 
 ### **S**
 - [Sistema de Recompensas](#-sistema-de-recompensas)
@@ -229,7 +229,7 @@
 - **Tipos**: Tejedores de Eones, Gigantes Barbudos, Devoradores Comunes, Tejedores de Dimensiones, Gigantes Dimensionales, Devoradores del Vacío
 - **Líder**: Aethernus Valcarys (Manshoon Clone #47)
 
-### **Relojeros Negros**
+### **La Resistencia**
 - **Filosofía**: Odian la magia temporal y espacial, buscan preservar el flujo natural
 - **Características**: Tecnología anti-magia, armas de fuego, métodos brutales
 - **Líder**: No especificado
