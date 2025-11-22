@@ -504,7 +504,7 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 
 ### **⏳ Pendiente de Desarrollo:**
 
-**📌 Ver:** [00_Plan_Desarrollo_Campana.md](../../../00_Plan_Desarrollo_Campana.md) para lista completa de tareas pendientes
+**📌 Ver:** [00_Plan_Desarrollo_Campana.md](../00_Plan_Desarrollo_Campana.md) para lista completa de tareas pendientes
 
 ### **🎯 Objetivos de Diseño:**
 - **Variedad**: Cada región debe sentirse única con mecánicas distintivas

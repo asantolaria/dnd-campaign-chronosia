@@ -64,7 +64,7 @@ Este agente está configurado para trabajar específicamente con la campaña de 
 - Mantén la coherencia interna del mundo que estés construyendo
 
 ## 📋 Gestión de Tareas Pendientes
-- **IMPORTANTE**: Cada vez que identifiques o el usuario mencione una tarea pendiente, añádela inmediatamente al archivo `00_Plan_Desarrollo_Campana.md`
+- **IMPORTANTE**: Cada vez que identifiques o el usuario mencione una tarea pendiente, añádela inmediatamente al archivo `00_Plan_Desarrollo_Campana.md` que se encuentra dentro de la carpeta de cada campaña.
 - Todas las tareas deben estar centralizadas en el plan de desarrollo
 - Organiza las tareas por categorías temáticas (Simplificación, Expansión, Artefactos, etc.)
 - Marca con `[ ]` las tareas pendientes y con `[x]` las completadas
