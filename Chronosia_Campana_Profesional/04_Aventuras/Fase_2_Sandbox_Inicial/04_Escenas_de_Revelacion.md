@@ -498,7 +498,7 @@ REVELACIÓN PÚBLICA COMPLETA. Ahora TODO EL MUNDO sabe que el fin está cerca.
 **Ubicación:** Cronópolis - Reunión de emergencia
 
 **Setup:**
-Los líderes de las facciones (Anacronistas, Relojeros Negros, Bregan D'aerthe si están presentes) convocan a los PJ para un consejo de emergencia.
+Los líderes de las facciones (Anacronistas, La Resistencia, Bregan D'aerthe si están presentes) convocan a los PJ para un consejo de emergencia.
 
 **Líder Anacronista:** *"Hemos oído la llamada de los dioses. Sabemos lo que debéis hacer. Tomad esto."*
 

@@ -106,7 +106,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 **NPCs Introducidos:**
 - **Kaelthas el Relojero Roto** (antagonista, lugarteniente menor)
 - Maestro Thaddeus Ironwright (víctima, mentor de los PJ)
-- **Zephyr** (líder de los Anacronistas/"Relojeros Negros")
+- **Zephyr** (líder de los Anacronistas/"La Resistencia")
 - **Tiber** (joven Anacronista rescatado de la guarida de Kaelthas)
 - Lord Piergeiron Paladinson (Open Lord de Waterdeep)
 - Khelben "Manos Negras" Arunsun (archmago)
@@ -146,7 +146,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 - Chronosia es un semiplano fracturado creado por Aethernus (Manshoon)
 - Amaunator (dios del sol/tiempo) y Voidar (dios del vacío/espacio) están capturados
 - 12 lugartenientes controlan diferentes regiones (Kaelthas era el #12, ya muerto)
-- Los Anacronistas ("Relojeros Negros") protegen Cronópolis con el Cronómetro de Realidades
+- Los Anacronistas ("La Resistencia") protegen Cronópolis con el Cronómetro de Realidades
 - **Cronópolis será el hogar de los PJ** - volverán aquí después de cada misión
 
 **Recompensas:**

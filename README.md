@@ -1,130 +1,123 @@
-# 🎲 Dungeon Master Ultimate Assistant (DMUA)
-## *Repositorio de Campañas de D&D 5ª Edición*
+# 🎲 Repositorio de Campañas de D&D 5e
+## *Campañas Profesionales y Personalizadas*
 
 ---
 
-## 📚 **ESTRUCTURA DEL REPOSITORIO**
+## 📚 **CAMPAÑAS DISPONIBLES**
 
-Este repositorio contiene **dos campañas completas** de Dungeons & Dragons 5ª Edición, cada una con su propia estructura, documentación y recursos.
-
----
-
-## 🕰️ **CAMPAÑA 1: Chronosia - El Reino del Tiempo Fracturado**
-
-### **📖 Descripción**
-Una campaña épica de nivel 3-15 que combina elementos de sandbox y railroad, centrada en la manipulación temporal/dimensional, una guerra civil entre lugartenientes y una conspiración de ascensión divina.
-
-### **🎯 Características Principales**
-- **Duración**: 15 sesiones estimadas
-- **Niveles**: 3-15
-- **Tipo**: Sandbox con elementos de railroad
-- **Tema**: Manipulación temporal/dimensional, guerra civil, ascensión divina
-- **Villano Principal**: Aethernus Valcarys (Manshoon Clone #47)
-
-### **📁 Ubicación**
-```
-Chronosia_Campana_Profesional/
-├── 00_Esquemas/          # Diagramas Mermaid
-├── 01_Introduccion/      # Resumen, guía rápida, creación de personajes
-├── 02_Guia_DM/          # Documentos del DM (lugartenientes, sistemas, timeline)
-├── 03_Regiones/         # Geografía y regiones de Chronosia
-├── 04_Aventuras/        # Estructura por fases (0-4)
-├── 05_Apendices/        # Monstruos, tesoros, recompensas
-├── 06_Recursos/         # Tablas, mapas, handouts
-├── assets/              # Imágenes, mapas y recursos visuales
-├── 00_Plan_Desarrollo_Campana.md
-├── Simulacion_Chronosia.md
-├── Simulacion_Ejecutada_Chronosia.md
-├── 70_Ideas_Creativas_DM.md
-└── agents.md            # Configuración del agente de IA para esta campaña
-```
-
-### **🚀 Inicio Rápido**
-1. Lee el **[README.md](Chronosia_Campana_Profesional/README.md)** de la campaña
-2. Consulta la **[Guía Rápida](Chronosia_Campana_Profesional/01_Introduccion/02_Guia_Rapida.md)**
-3. Revisa la **[Estructura de la Campaña](Chronosia_Campana_Profesional/04_Aventuras/00_Estructura_Campana.md)**
+Este repositorio contiene campañas completas y profesionales de Dungeons & Dragons 5ª Edición, organizadas siguiendo los estándares de las campañas oficiales de Wizards of the Coast.
 
 ---
 
-## 🐉 **CAMPAÑA 2: El Alzamiento de Tiamat - Sandbox**
+### 🌌 **[Chronosia - El Reino del Tiempo Fracturado](./Chronosia_Campana_Profesional/)**
 
-### **📖 Descripción**
-Una adaptación sandbox de la campaña oficial "El Alzamiento de Tiamat", transformando la estructura lineal original en una experiencia de mundo abierto con múltiples caminos y decisiones significativas.
+**Tipo:** Campaña Original  
+**Niveles:** 3-15  
+**Duración Estimada:** 15 sesiones  
+**Estilo:** Sandbox con elementos de railroad  
+**Tema:** Manipulación temporal/dimensional, guerra civil, ascensión divina
 
-### **🎯 Características Principales**
-- **Duración**: Variable según decisiones de los jugadores
-- **Niveles**: 8-15
-- **Tipo**: Sandbox completo
-- **Tema**: Guerra contra el Culto del Dragón, amenaza de Tiamat
-- **Sistema**: Consejo de Guerra, misiones dinámicas, tracking de facciones
+Una campaña épica donde los jugadores se enfrentan a un reino fracturado por el tiempo, donde lugartenientes poderosos compiten por el poder mientras un ritual de ascensión divina se acerca a su culminación.
 
-### **📁 Ubicación**
-```
-El alzamiento de Tiamat - Sandbox/
-├── 01_Modificaciones_Personalizadas.md
-├── 02_Resumen_Campana.md
-├── 03_Referencias_Original.md
-├── 04_Guia_DM/          # Guías del DM, facciones, NPCs, sistemas
-├── 05_Aventuras/        # Estructura de aventuras y episodios
-├── 06_Recursos/         # Tablas, mapas y recursos
-└── README.md            # Documentación específica de la campaña
-```
-
-### **🚀 Inicio Rápido**
-1. Lee el **[README.md](El%20alzamiento%20de%20Tiamat%20-%20Sandbox/README.md)** de la campaña
-2. Consulta la **[Guía del DM](El%20alzamiento%20de%20Tiamat%20-%20Sandbox/04_Guia_DM/00_Indice_Guia_DM.md)**
-3. Revisa la **[Estructura de Aventuras](El%20alzamiento%20de%20Tiamat%20-%20Sandbox/05_Aventuras/00_Estructura_Aventuras.md)**
+**📖 [Ver Campaña Completa →](./Chronosia_Campana_Profesional/README.md)**
 
 ---
 
-## 🎯 **NAVEGACIÓN RÁPIDA**
+### 🐉 **[El Alzamiento de Tiamat - Sandbox](./El%20alzamiento%20de%20Tiamat%20-%20Sandbox/)**
 
-### **Para Chronosia:**
-- **[README de Chronosia](Chronosia_Campana_Profesional/README.md)** - Visión general completa
-- **[Plan de Desarrollo](Chronosia_Campana_Profesional/00_Plan_Desarrollo_Campana.md)** - Tareas y progreso
-- **[Simulación de Campaña](Chronosia_Campana_Profesional/Simulacion_Chronosia.md)** - Herramienta de simulación
+**Tipo:** Campaña Personalizada (Basada en oficial)  
+**Niveles:** 8-15  
+**Duración Estimada:** Variable  
+**Estilo:** Sandbox con sistema de Consejo de Guerra  
+**Tema:** Culto de Tiamat, diplomacia, guerra contra dragones
 
-### **Para El Alzamiento de Tiamat:**
-- **[README de Tiamat](El%20alzamiento%20de%20Tiamat%20-%20Sandbox/README.md)** - Visión general completa
-- **[Modificaciones Personalizadas](El%20alzamiento%20de%20Tiamat%20-%20Sandbox/01_Modificaciones_Personalizadas.md)** - Cambios respecto a la versión original
-- **[Sistema de Tracking](El%20alzamiento%20de%20Tiamat%20-%20Sandbox/04_Guia_DM/04_Sistema_Tracking.md)** - Sistema de seguimiento
+Una versión personalizada y adaptada de la campaña oficial "El Alzamiento de Tiamat", transformada en un sandbox dinámico con un sistema de Consejo de Guerra que permite a los jugadores influir en el curso de la historia.
+
+**📖 [Ver Campaña Completa →](./El%20alzamiento%20de%20Tiamat%20-%20Sandbox/README.md)**
 
 ---
 
-## 📋 **ORGANIZACIÓN DEL REPOSITORIO**
+## 🎯 **ESTRUCTURA DEL REPOSITORIO**
 
-### **Principios de Organización:**
-- ✅ Cada campaña tiene su propia carpeta independiente
-- ✅ Los recursos (assets, simulaciones, planes) están dentro de cada campaña
-- ✅ No hay archivos compartidos entre campañas
-- ✅ Cada campaña tiene su propio README y documentación completa
-
-### **Estructura de Carpetas:**
 ```
 dnd-campaign/
-├── Chronosia_Campana_Profesional/    # Campaña 1: Chronosia
-├── El alzamiento de Tiamat - Sandbox/ # Campaña 2: Tiamat
-└── README.md                          # Este archivo
+├── Chronosia_Campana_Profesional/     # Campaña original completa
+│   ├── 00_Esquemas/                   # Diagramas Mermaid
+│   ├── 01_Introduccion/               # Resumen, guía rápida, creación de personajes
+│   ├── 02_Guia_DM/                   # Documentos del DM
+│   ├── 03_Regiones/                  # Geografía y regiones
+│   ├── 04_Aventuras/                 # Estructura por fases (0-4)
+│   ├── 05_Apendices/                 # Monstruos, tesoros, recompensas
+│   └── 06_Recursos/                  # Tablas, mapas, handouts
+│
+└── El alzamiento de Tiamat - Sandbox/ # Campaña personalizada
+    ├── 01_Modificaciones_Personalizadas.md
+    ├── 02_Resumen_Campana.md
+    ├── 03_Referencias_Original.md
+    ├── 04_Guia_DM/                   # Guías del director de juego
+    ├── 05_Aventuras/                 # Estructura de aventuras y sesiones
+    └── 06_Recursos/                  # Tablas, mapas, recursos
 ```
 
 ---
 
-## 🎲 **Dungeon Master Ultimate Assistant (DMUA)**
+## 🛠️ **HERRAMIENTAS Y RECURSOS**
 
-Este repositorio está configurado para trabajar con el **Dungeon Master Ultimate Assistant (DMUA)**, un agente de IA especializado en ayudar a Dungeon Masters de D&D 5ª Edición.
+### **📋 Documentos de Configuración:**
+- **[.cursorrules](./.cursorrules)** - Reglas y configuración del asistente de IA para desarrollo de campañas
 
-Cada campaña puede tener su propia configuración de agente:
-- **Chronosia**: `Chronosia_Campana_Profesional/agents.md`
-- **Tiamat**: (Configuración futura si es necesaria)
+### **📊 Características Comunes:**
+- ✅ Estructura profesional siguiendo estándares de D&D oficial
+- ✅ Documentación completa para DMs
+- ✅ Sistemas de tracking y progresión
+- ✅ Tablas y recursos organizados
+- ✅ Referencias cruzadas entre documentos
+- ✅ Diagramas visuales (Mermaid) para flujos y estructuras
+
+---
+
+## 🎭 **PARA DIRECTORES DE JUEGO**
+
+### **¿Por dónde empezar?**
+
+1. **Elige una campaña** según el estilo de juego que busques:
+   - **Chronosia:** Para una experiencia original con mecánicas temporales únicas
+   - **El Alzamiento de Tiamat:** Para una campaña épica con diplomacia y guerra
+
+2. **Lee el README específico** de la campaña elegida para entender su estructura
+
+3. **Consulta la Guía del DM** de cada campaña para entender cómo dirigirla
+
+4. **Revisa los documentos de introducción** para preparar la primera sesión
 
 ---
 
 ## 📝 **NOTAS IMPORTANTES**
 
-- **Separación de Contenido**: Los archivos de cada campaña están completamente separados para evitar confusiones
-- **Recursos Específicos**: Assets, simulaciones y planes de desarrollo pertenecen a su campaña respectiva
-- **Documentación Independiente**: Cada campaña tiene su propia documentación completa y autónoma
+- **Cada campaña es independiente** y puede ejecutarse por separado
+- **Los documentos están interconectados** con referencias cruzadas
+- **Las tablas de tracking** están centralizadas en cada campaña
+- **Los diagramas Mermaid** pueden visualizarse en editores compatibles (GitHub, VS Code, etc.)
 
 ---
 
-*Este repositorio está diseñado para facilitar la gestión de múltiples campañas de D&D de forma organizada y profesional.* 🎲✨
+## 🔄 **MANTENIMIENTO Y ACTUALIZACIONES**
+
+Este repositorio se mantiene activamente con:
+- Actualizaciones de contenido narrativo
+- Mejoras en sistemas de juego
+- Expansión de aventuras y sesiones
+- Refinamiento de mecánicas y balance
+
+**Última actualización general:** 2024
+
+---
+
+## 📖 **LICENCIA Y USO**
+
+Estas campañas están diseñadas para uso personal y educativo. Las referencias a D&D 5e y contenido oficial pertenecen a Wizards of the Coast.
+
+---
+
+*¡Que tus dados rueden con fortuna y que tus sesiones estén llenas de épicas aventuras!* 🎲✨
+

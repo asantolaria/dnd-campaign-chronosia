@@ -257,7 +257,7 @@ Establecer que existe un Cónclave de lugartenientes poderosos, pero mantener la
 
 **Lo Que Ocurre:**
 - Los PJ llegan a Chronosia según tu misión inicial
-- Conocen a las facciones básicas (Relojeros Negros, Cronófagos, etc.)
+- Conocen a las facciones básicas (La Resistencia, Cronófagos, etc.)
 - Escuchan rumores vagos sobre "los Doce del Cónclave"
 
 **Rumores que los PJ Pueden Oír:**
@@ -1573,7 +1573,7 @@ Solo quedan 2-3 lugartenientes vivos + Aethernus
 |-------------|------------------|--------------------------|
 | **Población** | Terror generalizado | NPCs se esconden, ciudades abandonadas |
 | **Geografía** | Regiones devastadas | Batallas entre lugartenientes dejan cicatrices |
-| **Facciones** | Alianzas cambiantes | Relojeros Negros ganan poder, Cronófagos se dividen |
+| **Facciones** | Alianzas cambiantes | La Resistencia ganan poder, Cronófagos se dividen |
 | **Dioses** | Debilitamiento extremo | Amaunator y Voidar están al borde del colapso |
 | **Realidad** | Inestabilidad creciente | Anomalías temporales/espaciales aumentan |
 

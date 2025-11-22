@@ -51,9 +51,9 @@
 #### **Advertencia de Desbalance Moderado**
 *"Mis visiones se vuelven más claras. Veo múltiples futuros donde el equilibrio se rompe. Debéis actuar pronto para evitar la catástrofe."*
 
-### **⚙️ Capitán Marcus (Relojeros Negros) - Advertencias Tecnológicas**
+### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
 
-**Descripción**: Humano militar con uniforme negro y dispositivos tecnológicos avanzados. Líder de los Relojeros Negros, una facción que usa tecnología para combatir las distorsiones.
+**Descripción**: Humano militar con uniforme negro y dispositivos tecnológicos avanzados. Líder de La Resistencia, una facción que usa tecnología para combatir las distorsiones.
 
 **Función**: Advertencias tecnológicas sobre el desbalance con datos concretos.
 
@@ -173,7 +173,7 @@
 
 **Rol como Mano Derecha**: Din se ha convertido en el asistente principal de Cornelius, manejando los aspectos más técnicos y mecánicos del taller mientras Cornelius se enfoca en la comprensión mística del tiempo. Din es quien construye los dispositivos que Cornelius diseña, quien mantiene los relojes complejos funcionando, y quien desarrolla nuevas tecnologías para estabilizar las distorsiones temporales.
 
-**Conexión con los Ingenieros de Cronópolis**: A través de Cornelius, Din ha establecido conexiones con los Relojeros Negros en Cronópolis. Aunque inicialmente desconfiaban de él (por ser un artífice que usa magia), su enfoque práctico y su habilidad para crear dispositivos mecánicos que funcionan sin magia pura le ganaron su respeto. Ahora trabaja ocasionalmente con Balthar Herrumbra, Lucienne Rietveldt y Kaoros el Sordo en proyectos conjuntos de estabilización temporal.
+**Conexión con los Ingenieros de Cronópolis**: A través de Cornelius, Din ha establecido conexiones con La Resistencia en Cronópolis. Aunque inicialmente desconfiaban de él (por ser un artífice que usa magia), su enfoque práctico y su habilidad para crear dispositivos mecánicos que funcionan sin magia pura le ganaron su respeto. Ahora trabaja ocasionalmente con Balthar Herrumbra, Lucienne Rietveldt y Kaoros el Sordo en proyectos conjuntos de estabilización temporal.
 
 **Personalidad y Características**:
 - **Analítico y Frío**: Din es meticuloso y preciso en todo lo que hace, a veces pareciendo distante o desapegado emocionalmente
@@ -207,7 +207,7 @@
 - **Proveedor de Tecnología**: Din puede crear y modificar dispositivos mecánicos y mágicos para los PJ, adaptándolos a las necesidades específicas de cada misión
 - **Reparación de Equipo**: Puede reparar objetos mágicos dañados por distorsiones temporales o espaciales, una habilidad crucial en un mundo donde la magia puede fallar
 - **Información Técnica y Estratégica**: Proporciona explicaciones técnicas sobre cómo funcionan las distorsiones y cómo contrarrestarlas, además de información estratégica basada en su experiencia en Barovia
-- **Puente entre Facciones**: Su conexión con Cornelius (místico) y los Relojeros Negros (tecnológicos) lo convierte en un mediador natural
+- **Puente entre Facciones**: Su conexión con Cornelius (místico) y La Resistencia (tecnológicos) lo convierte en un mediador natural
 - **Inventos Personalizados**: Puede crear dispositivos específicos para los PJ basados en sus necesidades, a menudo trabajando con Cornelius para combinar magia y tecnología
 - **Momento de Conexión Emocional**: Su historia de pérdida (Thaddeus), su experiencia traumática (Barovia), y su búsqueda de propósito puede resonar profundamente con los PJ que también están lejos de casa y atrapados en una situación similar
 - **Voz de Experiencia**: Su conocimiento de Barovia le permite advertir a los PJ sobre patrones similares que ve en Chronosia, ayudándolos a evitar errores que podrían ser fatales
@@ -236,7 +236,7 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 **Diálogos Característicos**:
 - *"La precisión es fundamental. Un cálculo erróneo aquí podría desestabilizar toda la región. Permíteme verificar estos números una vez más..."*
 - *"Cornelius me enseñó que el tiempo tiene un ritmo natural, como los engranajes de un reloj. Las distorsiones son como dientes rotos en una rueda dentada - todo se desalinea."*
-- *"He trabajado con los Relojeros Negros, pero su odio hacia la magia es... extremo. La magia es una herramienta, como cualquier otra. Lo que importa es cómo la usas."*
+- *"He trabajado con La Resistencia, pero su odio hacia la magia es... extremo. La magia es una herramienta, como cualquier otra. Lo que importa es cómo la usas."*
 - *"Mi familia perdió todo por mala gestión. No voy a cometer el mismo error. Cada cálculo, cada invento, cada decisión... debe ser perfecta."*
 - *"Thaddeus... Thaddeus era un buen hombre. Un maestro relojero sin igual. La última vez que hablamos, discutíamos teorías sobre la naturaleza del tiempo. Eso fue... hace años. Antes de que este maldito dispositivo me trajera aquí. No sé qué habrá sido de él..."* (Si los PJ le dicen que Thaddeus fue asesinado, Din se derrumbará emocionalmente)
 - *"He visto esto antes. Una región completa, arrancada de la realidad, atrapada en un limbo. En Barovia, no pudimos escapar hasta que derrotamos a Strahd. Aquí... aquí será diferente. Esta vez sé qué buscar, qué evitar, qué hacer."*
@@ -281,16 +281,16 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 - **Poder**: Es inmune a todas las distorsiones temporales
 - **Función**: Proporciona rituales de estabilización y protección
 
-### **⚙️ Capitán Marcus "El Inquebrantable" - Líder de los Relojeros Negros**
+### **⚙️ Capitán Marcus "El Inquebrantable" - Líder de La Resistencia**
 - **Raza**: Humano veterano de guerra
 - **Edad**: 45 años, con cicatrices de batalla y ojos que han visto demasiado
-- **Profesión**: Capitán de los Relojeros Negros en Chronosia
+- **Profesión**: Capitán de La Resistencia en Chronosia
 - **Alineación**: Legal Neutral (con tendencia al Bien)
 - **Ubicación**: Fortaleza de Acero, bastión de seguridad en Chronópolis
 
 **Descripción Física**: Un hombre de estatura media pero de constitución robusta, con brazos musculosos de años trabajando con metal y maquinaria. Su cabello castaño está salpicado de canas prematuras, y sus ojos grises tienen la mirada penetrante de quien ha visto la corrupción de la magia de cerca. Lleva siempre un delantal de cuero manchado de aceite y herramientas colgando de su cinturón. Su mano derecha es una prótesis mecánica compleja que él mismo diseñó.
 
-**Historia Personal**: Marcus perdió su brazo derecho en una explosión mágica durante una misión contra un grupo de cronófagos. Desde entonces, ha dedicado su vida a perfeccionar la tecnología anti-magia y a entrenar a nuevos reclutas en los métodos de los Relojeros Negros. Su esposa y su hijo pequeño murieron cuando un portal dimensional se abrió en su ciudad natal, y desde entonces jura venganza contra todas las formas de magia distorsionada.
+**Historia Personal**: Marcus perdió su brazo derecho en una explosión mágica durante una misión contra un grupo de cronófagos. Desde entonces, ha dedicado su vida a perfeccionar la tecnología anti-magia y a entrenar a nuevos reclutas en los métodos de La Resistencia. Su esposa y su hijo pequeño murieron cuando un portal dimensional se abrió en su ciudad natal, y desde entonces jura venganza contra todas las formas de magia distorsionada.
 
 **Personalidad y Motivaciones**:
 - **Inicialmente**: Extremadamente desconfiado de cualquier mago o persona con poderes mágicos
@@ -327,7 +327,7 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 **Poderes y Habilidades**:
 - **Maestro Armero**: Puede crear y modificar armas de fuego personalizadas
 - **Tecnología Anti-Magia**: Conoce los secretos para neutralizar efectos mágicos
-- **Liderazgo Militar**: Comanda un ejército de Relojeros Negros
+- **Liderazgo Militar**: Comanda un ejército de La Resistencia
 - **Conocimiento Táctico**: Experto en estrategias contra criaturas mágicas
 - **Prótesis Mecánica**: Su brazo artificial tiene múltiples funciones útiles
 
@@ -351,6 +351,166 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 - **Granadas de Neutralización**: Explosivos que cancelan efectos mágicos
 - **Detector de Magia**: Dispositivo que localiza fuentes de poder mágico
 - **Prótesis Mecánica**: Brazo artificial con múltiples herramientas integradas
+
+---
+
+### **⚙️ Los Altos Oficiales de La Resistencia - Candidatos a Traidor**
+
+**⚠️ IMPORTANTE PARA EL DM:**
+Uno de estos tres oficiales será **reemplazado por Serapis el Retroceso** durante la trama de "La Traición de Serapis". El DM debe elegir cuál según la narrativa y las interacciones previas con los PJ. El oficial elegido será asesinado por Serapis, quien se hará pasar por él durante la infiltración.
+
+#### **🔧 Balthar Herrumbra - Maestro Ingeniero**
+
+- **Raza**: Enano de las Colinas
+- **Edad**: 52 años
+- **Profesión**: Maestro Ingeniero y Jefe de Desarrollo Tecnológico de La Resistencia
+- **Alineación**: Legal Neutral
+- **Ubicación**: Taller Principal de Ingeniería, Fortaleza de Acero, Cronópolis
+
+**Descripción Física**: Un enano robusto con una barba castaña salpicada de canas y manchada de aceite. Sus manos están cubiertas de cicatrices de quemaduras y cortes de años trabajando con metal caliente. Lleva siempre un delantal de cuero grueso y gafas de protección que se deslizan por su nariz cuando se concentra. Su voz es ronca y profunda, y habla con un acento enano marcado.
+
+**Historia Personal**: Balthar proviene de una familia de herreros enanos que se estableció en Chronosia hace generaciones. Perdió a su esposa y a sus dos hijos cuando un portal dimensional se abrió en su taller, arrastrándolos a otro plano. Desde entonces, ha dedicado su vida a desarrollar tecnología que pueda cerrar portales y neutralizar distorsiones espaciales. Es uno de los ingenieros más respetados de La Resistencia.
+
+**Personalidad y Características**:
+- **Perfeccionista Obsesivo**: Balthar es extremadamente meticuloso y detallista, a veces hasta el punto de la obsesión
+- **Maestro Artesano**: Puede crear y reparar cualquier dispositivo mecánico o tecnológico
+- **Desconfiado de la Magia**: Comparte la filosofía anti-magia de Marcus, pero es más pragmático
+- **Protector de sus Diseños**: Guarda celosamente sus planos y secretos técnicos
+- **Leal a Marcus**: Respeta profundamente al Capitán Marcus y seguiría sus órdenes sin cuestionar
+
+**Habilidades y Conocimientos**:
+- **Ingeniería Avanzada**: Experto en crear dispositivos anti-magia y estabilizadores temporales
+- **Metalurgia**: Conoce los secretos de trabajar con metales especiales que resisten distorsiones
+- **Diseño de Armas**: Puede crear armas de fuego personalizadas y dispositivos defensivos
+- **Reparación de Tecnología**: Puede reparar cualquier dispositivo tecnológico, incluso los más complejos
+
+**Función en La Resistencia**:
+- **Jefe de Desarrollo**: Supervisa todos los proyectos tecnológicos importantes
+- **Entrenador**: Enseña a nuevos ingenieros los métodos de La Resistencia
+- **Asesor Técnico**: Proporciona consejos técnicos al Capitán Marcus en decisiones estratégicas
+- **Creador de Artefactos**: Desarrolla dispositivos únicos necesarios para misiones específicas
+
+**Relación con Din Goldgear**:
+- **Respeto Mutuo**: Balthar respeta las habilidades técnicas de Din, aunque desconfía de su uso de magia
+- **Colaboración Ocasional**: Trabajan juntos en proyectos que combinan ingeniería y artífice
+- **Tensión Filosófica**: Balthar cree que la tecnología pura es superior, mientras que Din combina magia y tecnología
+
+**Pistas de que es el Impostor (si Serapis se hace pasar por él)**:
+- **Conocimientos Técnicos Inconsistentes**: Puede no conocer detalles específicos de proyectos en los que Balthar trabajó
+- **Falta de Cicatrices**: Las manos del impostor no tendrán las cicatrices características de Balthar
+- **Comportamiento Temporal Extraño**: Sus movimientos pueden parecer "desfasados" temporalmente
+- **Notas o Documentos Desconocidos**: Balthar real puede haber dejado notas que el impostor no conoce
+
+---
+
+#### **🔬 Lucienne Rietveldt - Científica e Investigadora**
+
+- **Raza**: Humana
+- **Edad**: 38 años
+- **Profesión**: Científica Principal e Investigadora de Distorsiones de La Resistencia
+- **Alineación**: Neutral Bueno
+- **Ubicación**: Laboratorio de Investigación, Fortaleza de Acero, Cronópolis
+
+**Descripción Física**: Una mujer delgada y de estatura media con cabello negro recogido en un moño desordenado. Sus ojos verdes brillan con curiosidad constante detrás de unas gafas redondas que constantemente se empañan cuando trabaja con vapor o químicos. Lleva una bata de laboratorio manchada de productos químicos y siempre tiene un cuaderno de notas en las manos. Sus dedos están manchados de tinta y sus uñas están cortas y limpias, perfectas para trabajar con instrumentos delicados.
+
+**Historia Personal**: Lucienne era una científica brillante en Faerûn antes de ser arrastrada a Chronosia por una distorsión temporal masiva hace 8 años. Perdió a su mentor y compañero de investigación en el proceso, y desde entonces ha dedicado su vida a entender las distorsiones para encontrar una forma de prevenir que otros sufran su destino. Es la principal investigadora de La Resistencia sobre las causas y efectos de las distorsiones temporales y espaciales.
+
+**Personalidad y Características**:
+- **Curiosidad Insaciable**: Lucienne quiere entender TODO sobre las distorsiones, a veces poniéndose en peligro
+- **Metódica y Precisa**: Lleva registros detallados de todo y documenta cada descubrimiento
+- **Empática pero Distante**: Se preocupa por la gente, pero a veces se pierde en su trabajo
+- **Innovadora**: No teme probar nuevas teorías o métodos, incluso si son arriesgados
+- **Leal pero Independiente**: Respeta a Marcus pero no duda en cuestionar decisiones si tiene evidencia
+
+**Habilidades y Conocimientos**:
+- **Investigación Científica**: Experta en analizar distorsiones temporales y espaciales
+- **Química y Física**: Conoce los principios científicos detrás de las distorsiones
+- **Documentación**: Mantiene archivos completos de todas las distorsiones observadas
+- **Análisis de Patrones**: Puede identificar patrones en las distorsiones que otros no ven
+
+**Función en La Resistencia**:
+- **Investigación Principal**: Dirige todos los proyectos de investigación sobre distorsiones
+- **Asesora Estratégica**: Proporciona información científica crucial para las decisiones de Marcus
+- **Desarrolladora de Contramedidas**: Crea soluciones científicas para neutralizar distorsiones
+- **Educadora**: Enseña a otros miembros sobre la naturaleza de las distorsiones
+
+**Relación con Din Goldgear**:
+- **Colaboración Científica**: Trabajan juntos frecuentemente, combinando ciencia y artífice
+- **Respeto Intelectual**: Se respetan mutuamente por sus conocimientos y métodos
+- **Debates Teóricos**: Tienen largas discusiones sobre la naturaleza de las distorsiones
+
+**Pistas de que es la Impostora (si Serapis se hace pasar por ella)**:
+- **Conocimientos Científicos Inconsistentes**: Puede no conocer detalles específicos de investigaciones en las que Lucienne trabajó
+- **Falta de Documentación Personal**: El impostor puede no tener acceso a los cuadernos personales de Lucienne
+- **Comportamiento Temporal Extraño**: Sus movimientos pueden parecer "desfasados" temporalmente
+- **Teorías Desconocidas**: Lucienne real puede haber desarrollado teorías que el impostor no conoce
+
+---
+
+#### **🔇 Kaoros el Sordo - Maestro de Comunicaciones**
+
+- **Raza**: Humano
+- **Edad**: 45 años
+- **Profesión**: Maestro de Comunicaciones y Estratega de Inteligencia de La Resistencia
+- **Alineación**: Legal Neutral
+- **Ubicación**: Centro de Comunicaciones, Fortaleza de Acero, Cronópolis
+
+**Descripción Física**: Un hombre de estatura media con cabello gris prematuro y una cicatriz que atraviesa su mejilla izquierda. Sus ojos marrones son penetrantes y siempre alerta, escaneando constantemente su entorno. Aunque es completamente sordo desde una explosión mágica hace 15 años, ha desarrollado una capacidad extraordinaria para leer los labios y comunicarse mediante señas. Lleva siempre un dispositivo de comunicación visual que le permite "ver" las ondas sonoras como patrones de luz.
+
+**Historia Personal - LA VERDAD OCULTA**: 
+Kaoros perdió su audición durante una misión contra cronófagos cuando una explosión mágica destruyó sus tímpanos. Sin embargo, lo que nadie sabe es que **Serapis el Retroceso lo colocó desde el principio entre las filas de La Resistencia**. La "explosión mágica" fue en realidad un encuentro con Serapis, quien le otorgó una capacidad telepática especial para comunicarse a distancia. Desde entonces, Kaoros ha sido un agente doble, sirviendo a Serapis mientras aparenta lealtad a La Resistencia.
+
+**⚠️ SECRETO CRÍTICO - SOLO PARA EL DM:**
+- **Agente Doble desde el Principio**: Kaoros fue colocado por Serapis hace años, no es un reemplazo reciente
+- **Capacidad Telepática**: Kaoros puede comunicarse telepáticamente con Serapis a cierta distancia (hasta 10 millas)
+- **Falsa Adaptación**: Su "adaptación" a la sordera es real, pero también le permite ocultar sus comunicaciones telepáticas
+- **Doble Vida**: Kaoros mantiene una fachada perfecta de lealtad mientras pasa información crucial a Serapis
+
+**Personalidad y Características**:
+- **Observador Excepcional**: Su pérdida de audición ha agudizado sus otros sentidos
+- **Comunicador Hábil**: Domina el lenguaje de señas y la lectura de labios
+- **Estratega Brillante**: Puede ver patrones y conexiones que otros pasan por alto
+- **Paciente y Metódico**: No se apresura en sus decisiones, analiza todo cuidadosamente
+- **Leal y Protector**: Protege ferozmente a los miembros de La Resistencia
+
+**Habilidades y Conocimientos**:
+- **Comunicaciones Avanzadas**: Experto en sistemas de comunicación tecnológicos
+- **Inteligencia y Espionaje**: Recolecta y analiza información sobre movimientos enemigos (y la pasa a Serapis)
+- **Detección de Distorsiones**: Puede "ver" distorsiones temporales y espaciales a través de vibraciones
+- **Estrategia Militar**: Desarrolla planes tácticos complejos para misiones de La Resistencia
+- **⚠️ COMUNICACIÓN TELEPÁTICA**: Puede comunicarse telepáticamente con Serapis el Retroceso a distancia (hasta 10 millas)
+
+**Función en La Resistencia**:
+- **Coordinador de Comunicaciones**: Mantiene contacto con todas las células de La Resistencia
+- **Estratega Principal**: Desarrolla planes tácticos para misiones importantes
+- **Recolector de Inteligencia**: Supervisa la recolección de información sobre enemigos
+- **Asesor de Seguridad**: Identifica vulnerabilidades y desarrolla contramedidas
+
+**Relación con Din Goldgear**:
+- **Colaboración Técnica**: Trabajan juntos en dispositivos de comunicación mejorados
+- **Respeto Mutuo**: Se respetan por sus habilidades únicas y complementarias
+- **Proyectos Conjuntos**: Han desarrollado varios dispositivos de comunicación juntos
+
+**⚠️ PISTAS DE QUE ES UN AGENTE DOBLE (para el DM):**
+- **Comportamiento Temporal Extraño**: Sus movimientos pueden parecer "desfasados" temporalmente cuando está comunicándose telepáticamente con Serapis
+- **Información Filtrada**: Información crucial de La Resistencia llega a Serapis antes de tiempo
+- **Momentos de Concentración**: A veces parece "distraído" o "concentrado" cuando en realidad está comunicándose telepáticamente
+- **Conocimiento de Movimientos Enemigos**: Parece tener información sobre movimientos de Serapis que no debería tener (pero en realidad es porque se la pasa él mismo)
+- **Falta de Reacción a Distorsiones**: A veces no reacciona a distorsiones temporales que debería detectar (porque está ocupado comunicándose con Serapis)
+
+**⚠️ IMPORTANTE**: Los PJ NO deben descubrir esto hasta la revelación final. Las pistas deben ser extremadamente sutiles y solo evidentes en retrospectiva.
+
+---
+
+**⚠️ NOTA CRÍTICA PARA EL DM:**
+
+**KAOROS ES EL TRAIDOR ELEGIDO** - No es un reemplazo, sino un agente doble desde el principio.
+
+1. **Agente Doble desde el Principio**: Kaoros fue colocado por Serapis hace años, no es un reemplazo reciente
+2. **Comunicación Telepática**: Kaoros se comunica regularmente con Serapis usando su capacidad telepática
+3. **Fachada Perfecta**: Kaoros mantiene una fachada perfecta de lealtad mientras pasa información crucial
+4. **Pistas Extremadamente Sutiles**: Las pistas deben ser casi imperceptibles, solo evidentes en retrospectiva
+5. **Revelación Impactante**: Cuando se revele, debe ser un momento de shock total para los PJ
 
 ---
 
@@ -701,7 +861,7 @@ Se alimenta de los destellos de poder generados por la batalla entre Amaunator y
 - **Manshoon**: Aethernus es su clone y sirve a sus objetivos
 
 ### **Enemistades**
-- **Relojeros Negros**: Odian las distorsiones que Aethernus crea
+- **La Resistencia**: Odian las distorsiones que Aethernus crea
 - **Anacronistas**: Resisten las distorsiones que Aethernus controla
 - **Jugadores**: Son la mayor amenaza para los planes de Aethernus
 

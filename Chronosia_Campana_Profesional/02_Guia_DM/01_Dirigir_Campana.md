@@ -100,7 +100,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 
 *"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente."*
 
-#### **⚙️ Capitán Marcus (Relojeros Negros) - Advertencias Tecnológicas**
+#### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
 *"Nuestros sensores detectan anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
 
 *"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
@@ -212,7 +212,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 **Resumen Rápido:**
 - **Cronófagos**: Hostiles, sirven a Aethernus, manipulan tiempo/espacio
 - **Anacronistas**: Aliados de los PJ, protegen Cronópolis, guían a los PJ
-- **Relojeros Negros**: Neutrales, tecnología anti-magia, pueden aliarse
+- **La Resistencia**: Neutrales, tecnología anti-magia, pueden aliarse
 - **Oceánicos de las Profundidades**: Vendetta contra Edward Teach, aliados potenciales
 - **Bregan D'aerthe**: Mercenarios ambiguos, sirven a quien pague
 - **Colonos del Archipiélago**: Habitantes de las islas, neutrales pero aliados si ayudas contra Teach

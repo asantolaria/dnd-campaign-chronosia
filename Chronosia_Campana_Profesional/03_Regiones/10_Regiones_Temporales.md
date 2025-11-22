@@ -85,6 +85,8 @@ Edward Teach "Barbanegra" - Ver acciones legendarias actualizadas en [08_Cronofa
 
 **🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - Participa en "La Ascensión del Cónclave"
 
+**⚔️ SOLDADOS ÚNICOS:** Serapis entrena y otorga poderes de **Reversión Temporal** a sus soldados, llamados "Los Retrocedentes". Estos soldados pueden revertir heridas menores, repetir acciones fallidas, y usar armas regresivas. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+
 ### **Descripción Geográfica**
 Un valle montañoso dominado por un **Reloj de Arena Gigante** de 100 metros de altura tallado en la roca. La arena fluye constantemente: cuando sube, el tiempo avanza; cuando baja, todo se reinicia. Las aldeas están construidas alrededor del reloj, y los habitantes trabajan físicamente cada día para hacer subir la arena y mantener el tiempo fluyendo.
 
@@ -277,7 +279,7 @@ Al derrotar a Serapis:
 
 Si los PJ fallan los 4 intentos:
 - Quedan atrapados en el bucle eterno con los aldeanos
-- Deben ser rescatados por NPCs aliados (Anacronistas, Relojeros Negros)
+- Deben ser rescatados por NPCs aliados (Anacronistas, La Resistencia)
 - O pueden intentar escapar de otra forma (portal dimensional, ayuda de Varrak)
 - Serapis permanece invicto
 
@@ -303,14 +305,27 @@ Si los PJ fallan los 4 intentos:
 
 ## 🌊 **El Abismo de los Posibles (Varrak del Horizonte)**
 
-**Ubicación**: Región central, cordillera flotante entre las llanuras y el sur
+**Ubicación**: Región central, zona salvaje de estilo oriental entre las llanuras templadas del norte y las regiones volcánicas del sur
 
 **🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - Participa en "La Ascensión del Cónclave"
 
 **⚠️ PERSONAJE ESPECIAL:** Varrak es el **Oráculo Neutral** que puede convertirse en aliado, siervo o mártir según las acciones de los PJ. Ver [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md) para su sistema completo.
 
+**⚔️ SOLDADOS ÚNICOS:** Varrak entrena y otorga poderes de **Predicción Temporal** a sus soldados, llamados "Los Videntes". Estos soldados pueden ver el futuro próximo, esquivar ataques proféticamente, y atacar anticipadamente. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+
 ### **Descripción Geográfica**
-Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas realidades. Un puente puede llevar a tres lugares distintos según la hora. Reflejos temporales flotan como sombras visibles. Esta región separa las llanuras templadas del norte de las regiones volcánicas del sur, creando una barrera natural entre los climas.
+
+**🌏 Paisaje Oriental Salvaje:**
+Una región montañosa de estilo oriental que evoca los paisajes majestuosos de Tailandia y China. Montañas cubiertas de densos bosques de bambú se elevan hacia el cielo, sus cumbres perdidas en la niebla matutina. Templos antiguos medio derruidos se alzan entre las montañas, sus estructuras de piedra tallada mostrando siglos de historia y abandono. Cascadas cristalinas caen entre rocas musgosas, creando arroyos serpenteantes que fluyen hacia valles ocultos. Senderos estrechos y serpenteantes se pierden en la niebla, conectando templos, monasterios y lugares sagrados.
+
+**🐼 Los Guardianes Naturales - Pandas Gigantes:**
+Los animales de la región son normales, salvo los osos: aquí habitan **osos gigantes pero pandas**, criaturas majestuosas de pelaje blanco y negro que se mueven con gracia entre los bosques de bambú. Estos pandas gigantes son guardianes naturales de la región, y Varrak ha aprendido a coexistir con ellos en armonía. Los pandas gigantes no son agresivos por naturaleza, pero protegen ferozmente su territorio y los lugares sagrados de la región. Son criaturas sabias y antiguas, y algunos de ellos han vivido tanto tiempo que parecen entender el flujo del tiempo mismo.
+
+**⏰ Fragmentación Temporal:**
+A pesar de su apariencia serena y natural, la región está fragmentada temporalmente. Diferentes zonas vibran en distintas realidades, y un puente puede llevar a tres lugares distintos según la hora del día o la decisión que se tome al cruzarlo. Reflejos temporales flotan como sombras visibles entre los árboles, mostrando versiones alternativas de la realidad. Los templos antiguos a veces existen en múltiples épocas simultáneamente: una puerta puede llevar a la versión del templo de hace mil años, mientras que otra puerta en el mismo edificio lleva a una versión futura que aún no ha sido construida.
+
+**🌫️ La Niebla del Tiempo:**
+La niebla matutina que envuelve la región no es niebla normal: es una manifestación física de las múltiples realidades temporales que coexisten. Caminar a través de la niebla puede llevar a los viajeros a diferentes versiones de la misma ubicación, o a momentos temporales diferentes. La niebla es más densa cerca de los lugares sagrados y los templos antiguos, donde el poder temporal de Varrak es más fuerte.
 
 ### **Condiciones Especiales**
 - Cada zona tiene múltiples versiones coexistiendo
@@ -319,22 +334,65 @@ Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas
 - Las decisiones en una realidad afectan a las otras
 
 ### **Habitantes**
-- **Versiones Alternativas**: De los propios PJ
+- **Varrak del Horizonte**: El oráculo anciano que habita en un templo en las montañas
+- **El Monje Manco**: Subordinado leal de Varrak, maestro de la espada con un brazo faltante que crea brazos etéreos al atacar
+- **Pandas Gigantes**: Guardianes naturales de la región, criaturas sabias y antiguas que protegen los lugares sagrados
+- **Monjes Errantes**: Monjes que han encontrado refugio en los templos antiguos, algunos conscientes de las múltiples realidades
+- **Versiones Alternativas**: De los propios PJ que aparecen en diferentes realidades temporales
 - **Criaturas Imposibles**: Que solo existen en una línea temporal específica
-- **Ciudades Fragmentadas**: Con versiones contradictorias de sus líderes
-- **Ecos de Futuro**: Versiones de personas que aún no han nacido
+- **Ecos de Futuro**: Versiones de personas que aún no han nacido, visibles en la niebla temporal
+- **Espíritus de los Templos**: Manifestaciones temporales de monjes y sabios que vivieron en los templos en diferentes épocas
 
 ### **Puntos de Interés**
-- **El Puente de las Realidades**: Que lleva a diferentes versiones del mismo lugar
-- **La Ciudad de los Espejos**: Donde cada edificio refleja una realidad diferente
-- **El Bosque de los Posibles**: Donde los árboles muestran futuros alternativos
-- **La Torre de la Fragmentación**: Donde Varrak observa todos los futuros posibles
+
+**🏯 El Templo del Oráculo:**
+El templo donde habita Varrak, construido en la cima de una montaña sagrada. El templo es una estructura antigua de piedra tallada, con múltiples niveles que se extienden tanto hacia arriba como hacia abajo en la montaña. Los pasillos del templo cambian según la realidad temporal que se esté experimentando, y algunas habitaciones solo existen en ciertos momentos del día o en ciertas realidades. En el centro del templo se encuentra el **Jardín de la Contemplación**, donde Varrak medita y observa todos los futuros posibles.
+
+**🌉 El Puente de las Realidades:**
+Un puente de piedra antiguo que cruza un abismo profundo. El puente puede llevar a tres lugares distintos según la hora del día, la decisión que se tome al cruzarlo, o la realidad temporal en la que se encuentre el viajero. Un extremo del puente siempre lleva a un templo diferente, y el otro extremo puede llevar a un valle, una cascada, o incluso a una versión futura o pasada del mismo puente.
+
+**🌲 El Bosque de Bambú Eterno:**
+Un bosque denso de bambú que se extiende por kilómetros. Los pandas gigantes habitan aquí, y el bosque mismo parece estar fragmentado temporalmente: algunas secciones del bosque muestran el bambú en diferentes etapas de crecimiento simultáneamente. Caminar por el bosque puede llevar a los viajeros a diferentes momentos temporales, y los senderos cambian según la realidad que se esté experimentando.
+
+**💧 Las Cascadas del Tiempo:**
+Múltiples cascadas que caen entre las montañas. El agua de estas cascadas tiene propiedades temporales únicas: beber de ellas puede mostrar visiones del futuro o del pasado. Las cascadas más poderosas están protegidas por pandas gigantes ancianos, que solo permiten el acceso a aquellos que demuestran respeto y sabiduría.
+
+**🏛️ Los Templos Fragmentados:**
+Múltiples templos antiguos dispersos por la región, cada uno existiendo en diferentes realidades temporales. Algunos templos solo son visibles en ciertos momentos del día, mientras que otros existen en múltiples épocas simultáneamente. Los monjes que habitan estos templos a veces son ecos temporales de monjes que vivieron hace siglos, o versiones futuras de monjes que aún no han nacido.
+
+**🌫️ El Valle de la Niebla Temporal:**
+Un valle profundo donde la niebla temporal es más densa. Caminar por este valle puede llevar a los viajeros a diferentes realidades, y es fácil perderse si no se tiene cuidado. El valle es el hogar de muchas criaturas imposibles que solo existen en líneas temporales específicas.
+
+**🗻 La Montaña de los Mil Futuros:**
+La montaña más alta de la región, donde se encuentra el Templo del Oráculo. La montaña misma parece existir en múltiples realidades simultáneamente, y escalarla puede llevar a los viajeros a diferentes versiones de la misma montaña en diferentes épocas.
 
 ### **Mecánicas de Juego**
-- **Saltos de Realidad**: Los PJ pueden cambiar entre versiones (limitadamente)
-- **Combates con Clones**: Encuentros con versiones alternativas
-- **Objetos de Realidades Alternativas**: Posibilidad de obtener objetos únicos
-- **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 1+ lugarteniente
+
+**⏰ Saltos de Realidad:**
+Los PJ pueden cambiar entre versiones de la realidad (limitadamente, 1-3 veces por día según el nivel). Cada salto requiere una tirada de Sabiduría CD 15 para navegar correctamente entre las realidades.
+
+**🐼 Encuentros con Pandas Gigantes:**
+Los pandas gigantes son criaturas pacíficas pero territoriales. Si los PJ muestran respeto y no amenazan los lugares sagrados, los pandas pueden:
+- Guiar a los PJ a través de los senderos seguros
+- Proteger a los PJ de criaturas hostiles
+- Mostrar ubicaciones de templos ocultos
+- Compartir sabiduría sobre el flujo del tiempo
+
+Si los PJ son agresivos o profanan lugares sagrados, los pandas se volverán hostiles (CR 8-10 según el tamaño del grupo).
+
+**🏯 Exploración de Templos:**
+Los templos antiguos pueden explorarse, pero cada templo existe en múltiples realidades. Los PJ pueden necesitar resolver puzzles temporales para acceder a ciertas áreas, o tomar decisiones que afecten qué versión del templo experimentan.
+
+**🌫️ Navegación en la Niebla Temporal:**
+Caminar a través de la niebla temporal requiere tiradas de Sabiduría para no perderse. La niebla puede llevar a los PJ a diferentes momentos temporales o realidades alternativas.
+
+**⚔️ Combates con Clones:**
+Encuentros con versiones alternativas de los propios PJ o de otros personajes. Estos clones pueden ser aliados o enemigos dependiendo de las decisiones que los PJ hayan tomado en otras realidades.
+
+**💎 Objetos de Realidades Alternativas:**
+Posibilidad de obtener objetos únicos que solo existen en ciertas realidades temporales. Estos objetos pueden tener propiedades temporales especiales.
+
+**Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 1+ lugarteniente
 
 ### **Efectos Específicos de Varrak del Horizonte**
 - **Versión Alternativa**: Aparece una versión de un PJ que tomó una decisión diferente
@@ -361,6 +419,8 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 **🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - Participa en "La Ascensión del Cónclave"
 
 **⚔️ LÍDER DEL BANDO TEMPORAL** - Comanda "Los Sedientos de Tiempo" en la competencia
+
+**⚔️ SOLDADOS ÚNICOS:** Vorthak entrena y otorga poderes de **Drenaje Temporal de Vida** a sus soldados, llamados "Los Drenados". Estos soldados pueden drenar vida temporal de los enemigos, transferir vida a Vorthak, y almacenar reservas temporales. Muestran signos de envejecimiento prematuro por el drenaje constante. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
 ### **Descripción Geográfica**
 Una mansión gótica colosal construida con piedra negra que absorbe la luz, rodeada por una niebla temporal que envejece y rejuvenece constantemente. La mansión tiene múltiples niveles, cada uno representando una época diferente, desde la antigüedad hasta el futuro. Los pasillos están llenos de espejos que muestran versiones de diferentes edades de los visitantes, y las habitaciones cambian de época según la necesidad del vampiro.

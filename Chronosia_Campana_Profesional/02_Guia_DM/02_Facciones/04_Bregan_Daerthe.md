@@ -42,11 +42,11 @@ Bregan D'aerthe es una organización mercenaria drow contratada por Manshoon (us
 ### **🕵️ Agentes Infiltrados**
 - **En los Cronófagos**: Espías que reportan actividades y debilidades
 - **En los Espacialistas**: Agentes que sabotean operaciones cuando es conveniente
-- **En los Relojeros Negros**: Informantes que conocen sus planes y tecnología
+- **En La Resistencia**: Informantes que conocen sus planes y tecnología
 - **En los Anacronistas**: Observadores que monitorean su resistencia a las distorsiones
 
 ### **⚔️ Operaciones Especiales**
-- **Contrabando de Armas**: Suministran tecnología avanzada a los Relojeros Negros
+- **Contrabando de Armas**: Suministran tecnología avanzada a La Resistencia
 - **Sabotaje**: Interrumpen operaciones de las facciones cuando beneficia a Manshoon
 - **Inteligencia**: Recopilan información sobre los movimientos de los PJ
 - **Eliminación**: Asesinan objetivos específicos que amenazan los planes

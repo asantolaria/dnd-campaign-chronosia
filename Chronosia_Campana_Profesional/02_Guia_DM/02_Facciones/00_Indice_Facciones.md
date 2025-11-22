@@ -20,7 +20,7 @@
 
 ---
 
-### **⚙️ LOS RELOJEROS NEGROS**
+### **⚙️ LA RESISTENCIA**
 **Cazadores de Magos**
 
 - **Filosofía**: Odian la magia en todas sus formas
@@ -75,7 +75,7 @@
 | **Facción** | **Actitud hacia PJ** | **Especialidad** | **Aliado Potencial** |
 |------------|----------------------|------------------|---------------------|
 | **Cronófagos** | Hostiles | Manipulación temporal/espacial | ❌ No |
-| **Relojeros Negros** | Neutrales | Tecnología anti-magia | ⚠️ Depende |
+| **La Resistencia** | Neutrales | Tecnología anti-magia | ⚠️ Depende |
 | **Anacronistas** | Amigables | Resistencia temporal | ✅ Sí |
 | **Bregan D'aerthe** | Ambiguos | Espionaje y mercenariado | ⚠️ Depende |
 | **Colonos del Archipiélago** | Neutrales (amigables si enemigos de Teach) | Navegación, comercio, conocimiento local | ✅ Sí (si ayudan) |

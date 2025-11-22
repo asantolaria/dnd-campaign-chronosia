@@ -18,10 +18,13 @@
 ## 🎭 **DESCRIPCIÓN NARRATIVA**
 
 ### **⚡ Poder**
-Varrak ha vivido millones de vidas a la vez: anciano y niño simultáneamente. Predice futuros porque los ha experimentado ya. Su existencia fragmentada le permite acceder a conocimientos de todas sus vidas pasadas y ver múltiples futuros posibles simultáneamente.
+Varrak ha vivido millones de vidas a la vez: anciano y niño simultáneamente. Predice futuros porque los ha experimentado ya. Su existencia fragmentada le permite acceder a conocimientos de todas sus vidas pasadas y ver múltiples futuros posibles simultáneamente. Como oráculo, puede ver el futuro un turno antes, permitiéndole predecir los movimientos de sus enemigos con precisión absoluta.
 
 ### **👁️ Apariencia**
-Varrak tiene un cuerpo fragmentado en múltiples versiones de sí mismo, cada una de diferente edad. Un brazo puede ser de un anciano mientras la otra mano es de un niño. Sus ojos muestran múltiples momentos temporales superpuestos, y su voz resuena con ecos de diferentes épocas.
+Varrak es un orco muy anciano, con la sabiduría de mil vidas grabada en cada arruga de su rostro. Su cuerpo, aunque fragmentado temporalmente, muestra la elegancia de un monje maestro que ha perfeccionado el arte del combate durante siglos. Viste túnicas simples de estilo oriental, con colores terrosos que se mezclan con el paisaje salvaje de su región. Sus movimientos son fluidos y despreocupados, como los de un mono borracho que baila entre los árboles - aparentemente caóticos, pero perfectamente calculados. Sus ojos brillan con la luz de múltiples futuros posibles, y cuando se mueve, parece que ya sabe exactamente dónde estará cada gota de lluvia antes de que caiga.
+
+### **🌏 La Región: Zona Salvaje Oriental**
+Varrak habita en una región salvaje de estilo oriental, que evoca los paisajes de Tailandia y China. Montañas cubiertas de bambú, templos antiguos medio derruidos, cascadas que caen entre rocas musgosas, y senderos serpenteantes que se pierden en la niebla matutina. Los animales de la región son normales, salvo los osos: aquí habitan osos gigantes pero pandas, criaturas majestuosas de pelaje blanco y negro que se mueven con gracia entre los bosques de bambú. Estos pandas gigantes son guardianes naturales de la región, y Varrak ha aprendido a coexistir con ellos en armonía.
 
 ### **💀 Efecto al Morir**
 Cuando Varrak muere (ya sea por los PJ o por otro lugarteniente), **El Abismo de los Posibles se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente: las fragmentaciones de realidad se estabilizan, las visiones de futuros múltiples cesan, y la región recupera su estado natural sin las anomalías temporales que Varrak había creado.
@@ -62,8 +65,8 @@ Cuando Varrak muere (ya sea por los PJ o por otro lugarteniente), **El Abismo de
 **Vidas Paralelas.**  
 Varrak ha vivido millones de vidas simultáneamente. Al inicio del combate, crea 1d4 copias temporales de sí mismo (clones) que actúan independientemente. Cada clon tiene los mismos HP y estadísticas que Varrak, pero comparten el mismo pool de acciones legendarias.
 
-**Predicción del Futuro.**  
-Varrak puede ver los próximos 2 turnos de combate. Tiene ventaja en todas las tiradas de salvación y los enemigos tienen desventaja en ataques contra él durante los primeros 2 rounds del combate.
+**Predicción del Futuro - Estilo Mono Borracho.**  
+Varrak puede ver el futuro un turno antes, prediciendo todos los movimientos de sus enemigos. Sin embargo, su estilo de combate es único: **siempre ataca último en la iniciativa**, permitiendo que todos actúen primero. Esto le da la ventaja de reaccionar a todo con acciones legendarias. Tiene ventaja en todas las tiradas de salvación y los enemigos tienen desventaja en ataques contra él, ya que él ya sabe exactamente qué van a hacer antes de que lo hagan. Sus movimientos parecen descoordinados y caóticos (como un mono borracho), pero cada movimiento está perfectamente calculado para contrarrestar los ataques enemigos.
 
 **Experiencia Ancestral.**  
 Varrak puede acceder a conocimientos de vidas pasadas. Una vez por combate, puede ganar +5 a todas las tiradas por 1 turno completo.
@@ -158,7 +161,51 @@ Varrak es neutral y puede aliarse con los PJ si:
 - Los PJ le ofrecen una visión del futuro mejor que la de Aethernus
 - Los PJ le ayudan a entender su propia naturaleza fragmentada
 
+### **🎭 El Encuentro con los PJ - La Revelación del Oráculo**
+
+Cuando los PJ llegan a la región de Varrak, inicialmente pueden encontrarse en combate con él. Sin embargo, **a las pocas rondas de combate, Varrak detiene la batalla** y explica su verdadera naturaleza:
+
+**Diálogo Clave:**
+```
+VARRAK (deteniendo el combate con un gesto):
+"Esperad. He visto este momento en mil futuros diferentes. Vosotros... 
+vosotros sois los que pueden cambiar lo que está por venir."
+
+[Varrak se sienta, ofreciendo té a los PJ]
+
+"Yo soy Varrak, el Oráculo. Hace tiempo que dejé de seguir a Aethernus. 
+Lo que está por venir es muy peligroso, más peligroso de lo que cualquiera 
+de vosotros puede imaginar. He visto el futuro, y en la mayoría de los futuros... 
+todos perdemos. Pero hay un futuro, uno entre millones, donde vosotros triunfáis. 
+Y ese futuro... ese futuro requiere que yo os ayude."
+```
+
+**Después del Encuentro:**
+Antes de que los PJ se vayan, Varrak toma un **cristal raro** (un fragmento de tiempo puro, brillante como un diamante pero con la consistencia del agua). Lo sostiene entre sus manos, y su poder temporal se imbuye en el cristal, haciendo que brille con una luz dorada que pulsa como un corazón.
+
+**Varrak entrega el cristal a los PJ:**
+```
+VARRAK:
+"Tomad este cristal. No es para vosotros. Dáselo a Din Goldgear. 
+Él sabrá qué hacer con él cuando llegue el momento. Es... una advertencia. 
+Y una oportunidad. El futuro depende de que este mensaje llegue a tiempo."
+```
+
 **Revelación en Sesión 11:** Varrak puede mostrar a los PJ una entrada secreta a la Ciudad Subterránea de Veldrisza si se convierte en aliado.
+
+### **👥 El Subordinado: El Monje Manco**
+
+Varrak tiene un subordinado leal, un monje que le falta un brazo. Este monje es un maestro de la espada, y su técnica es única: cuando ataca con el brazo que le falta, **en el instante del impacto se crea un brazo etéreo de energía temporal** que golpea con la fuerza de un brazo físico. Este brazo temporal desaparece inmediatamente después del impacto, pero el daño ya está hecho.
+
+**Estadísticas del Monje Manco:**
+- **Nivel:** 8-10 (Monje)
+- **CA:** 17 (Armadura sin armadura + Destreza)
+- **PV:** 85-110
+- **Habilidad Especial:** **Brazo Temporal del Impacto** - Cuando ataca con el brazo faltante, crea un brazo etéreo que causa daño adicional (1d8 + modificador de Destreza) de daño temporal.
+- **Lealtad:** Absoluta a Varrak. Está dispuesto a morir por su maestro.
+
+**Función Narrativa:**
+El monje manco es la mano derecha de Varrak, y su presencia añade profundidad emocional a la historia de Varrak. Cuando Varrak se sacrifica (ver sección de Sacrificio), el monje manco será quien ejecute el ritual final, metiendo su mano mágica en el pecho de Varrak para extraer su esencia temporal.
 
 ---
 
@@ -181,12 +228,51 @@ Varrak, habiendo visto millones de futuros posibles, comprende que un desbalance
 
 1. **Varrak detecta el desbalance:** Sus visiones le muestran la catástrofe inminente
 2. **Varrak contacta a los PJ:** Si es aliado, les explica su decisión
-3. **El sacrificio:** Varrak se quita la vida voluntariamente
+3. **El sacrificio:** Varrak se quita la vida voluntariamente mediante **harakiri ritual** (seppuku)
 4. **Efecto inmediato:**
    - **Balance se restaura:** -1 temporal derrotado (Varrak)
    - **Diferencia se reduce:** El desbalance crítico se mitiga
    - **Región se restaura:** El Abismo de los Posibles vuelve a la normalidad
    - **Poder temporal liberado:** Se disipa suavemente, ayudando a estabilizar Chronosia
+
+### **🎭 El Ritual del Harakiri - El Sacrificio Final**
+
+**El Momento del Sacrificio:**
+Varrak aparece en el funeral del líder de La Resistencia (ver trama de traición de Serapis). Se acerca a Din Goldgear y a los presentes, felicitando a Din por su plan y reconociendo la valentía de todos.
+
+**Diálogo Final:**
+```
+VARRAK:
+"Habéis hecho bien, Din Goldgear. Vuestro plan era arriesgado, pero necesario. 
+La valentía que habéis mostrado... es la clase de valentía que puede cambiar el futuro."
+
+[Varrak se arrodilla, preparándose para el ritual]
+
+"He visto millones de futuros, y en todos donde el desbalance alcanza este punto... 
+Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde equilibro 
+los poderes con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
+real de detener a Aethernus."
+
+[Varrak saca su daga ceremonial]
+
+"Permitidme daros toda la información que necesitáis. Y luego... luego debo hacer 
+lo que debe hacerse."
+```
+
+**El Harakiri:**
+Varrak realiza el ritual de harakiri (seppuku), pero **no sangra**. En su lugar, de su herida emana **luz pura de energía temporal**, brillando como un sol en miniatura. Su cuerpo no se descompone, sino que comienza a brillar con la intensidad de mil estrellas.
+
+**El Ritual del Monje Manco:**
+Inmediatamente después, el monje manco (subordinado de Varrak) se acerca. Sin vacilar, **mete su mano mágica (el brazo que le falta) directamente en el pecho de Varrak**, atravesando la luz temporal. De dentro del pecho de Varrak, el monje extrae algo **etéreo y brillante** - la esencia temporal pura de Varrak.
+
+**Aplicación del Poder:**
+El monje manco toma el artilugio del lugarteniente (Serapis) que había sido agotado durante la batalla final, y **aplica la esencia etérea sobre el artilugio**. El artilugio se recarga completamente, recuperando todas sus cargas y brillando con la misma luz temporal que emanaba de Varrak.
+
+**La Muerte de Varrak:**
+Varrak muere, pero su sacrificio no es en vano. Su poder temporal se ha transferido al artilugio, permitiendo que Din Goldgear lo use para:
+1. **Revivir a su compañero** (el líder de La Resistencia que fue ejecutado)
+2. **Restaurar los edificios** afectados por la incursión de los Bregan Daerthe
+3. **Devolver el artilugio al grupo** con 1d4+2 cargas restantes, capaz de curar completamente a un aliado
 
 ### **Momento Narrativo:**
 

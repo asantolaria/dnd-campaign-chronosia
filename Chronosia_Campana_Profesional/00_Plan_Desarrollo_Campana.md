@@ -17,6 +17,7 @@
 
 #### **📊 Desarrollo de Contenido:**
 - [x] **17_Monstruos_Enemigos.md**: Crear statblocks completos para los 8 lugartenientes principales activos (Serapis, Varrak, Vorthak, Edward Teach, Dimensionalis, Ignis, Veldrisza, Gemelas) + 3 menores (Medusa, Tempus, Ymir) + Aethernus Valcarys ✅
+- [x] **Sistema de Soldados y Ejércitos Regionales**: Documentar cómo cada lugarteniente otorga poderes únicos a sus soldados. Distinguir entre lugartenientes con conexiones planares (Veldrisza, Ignis) y lugartenientes que crean soldados entrenados. Cada región tiene soldados únicos con habilidades específicas. ✅
 - [ ] **Desarrollar la Torre de la Eternidad**: Sede de Aethernus Valcarys - **NUEVO DISEÑO**: Crear 8 niveles únicos. Al inicio, cada grupo (PJs, Teach, otros) debe elegir un camino. Se seleccionan 5 niveles aleatorios de los 8 para cada camino. Cada camino lleva por distintos niveles hasta el final. Sistema de elección de caminos y selección aleatoria de niveles.
 
 #### **🗺️ Desarrollo de Geografía y Regiones:**
@@ -38,7 +39,10 @@
 - [ ] **El Jardín de los Tiempos Gemelos**: Dar protagonismo a Las Gemelas del Espejo como dueñas, Medusa pasa a ser aliada menor
 
 #### **🔧 Nuevos Sistemas de Artefactos y Desbloqueos:**
-- [ ] **Visión de Varrak (Varrak)**: Desarrollar escena completa donde Varrak muestra entrada secreta a Ciudad Subterránea
+- [x] **Visión de Varrak (Varrak)**: Desarrollar escena completa donde Varrak muestra entrada secreta a Ciudad Subterránea ✅
+- [x] **Varrak el Oráculo - Detalles Completos**: Zona salvaje oriental, estilo mono borracho, subordinado monje manco, pandas gigantes, encuentro con PJ, cristal para Din Goldgear ✅
+- [x] **La Traición de Serapis**: Trama completa documentada (infiltración, emboscada, juicio popular, revelación, batalla final, funeral y sacrificio de Varrak) ✅
+- [x] **Cristales de la Batalla Divina**: Sistema completo de cristales especiales (antimagia, canalizadores mágicos, híbridos) creados por estallidos de poder divino. Integración con Edward Teach y su sistema de combinación de poderes. Documentado en objetos mágicos y actualizado en Talismán de Interceptación. ✅
 - [ ] **Batalla Naval de Edward Teach**: Diseñar mecánicas específicas de batalla naval (interceptación obligatoria, abordaje, combate en barco gigante, dificultad de movimiento en cubierta, poderes híbridos pirata+estasis)
 
 #### **⏰ La Espiral del Reloj de Arena (Serapis) - Desarrollo Completo:**
@@ -69,6 +73,7 @@
 - ✅ Recompensas de facciones (Artefactos Gnomos, Bendiciones del Vacío)
 - ✅ Inventos de los Ingenieros (armas, máquinas, artefactos)
 - ✅ Reliquias Divinas (Fragmentos de Poder, Reliquias de la Batalla)
+- ✅ Cristales de la Batalla Divina (Antimagia, Canalizadores Mágicos, Híbridos) - Sistema completo con propiedades, tamaños, y uso en combinación de poderes
 - ✅ Documento centralizado `21_Objetos_Magicos_Reliquias.md` con ubicación y obtención
 
 ### **Misiones y Contenido:**
@@ -92,6 +97,9 @@
 - ✅ Escenas de Revelación (15 escenas dramáticas)
 - ✅ Talismán de Interceptación (sistema completo)
 - ✅ Oceánicos de las Profundidades (nueva raza y facción)
+- ✅ Varrak el Oráculo - Desarrollo completo (zona oriental, estilo mono borracho, subordinado, encuentro con PJ, cristal profético)
+- ✅ La Traición de Serapis - Trama épica completa (infiltración, juicio, revelación, batalla, sacrificio de Varrak)
+- ✅ Sistema de Soldados y Ejércitos Regionales - Documentación completa de cómo cada lugarteniente otorga poderes únicos. Distinción entre lugartenientes con conexiones planares (Veldrisza, Ignis) y lugartenientes que crean soldados entrenados. Soldados únicos por región con habilidades específicas.
 
 ---
 

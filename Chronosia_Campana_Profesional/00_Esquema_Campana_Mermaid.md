@@ -38,30 +38,30 @@ flowchart TD
     
     S6A --> S6[Sesión 6: Caos Desencadenado<br/>Guerra espontánea comienza]
     
-    S6 --> FASE2[FASE 2: SANDBOX INICIAL<br/>Sesiones 6-9]
+    S6 --> FASE2[FASE 2: SANDBOX INICIAL<br/>Sesiones 6-9<br/>Objetivo: Derrotar 2 lugartenientes]
     
-    FASE2 --> S7[Sesión 6-7: Exploración Libre<br/>6 regiones desbloqueadas]
+    FASE2 --> S7[Sesión 6-7: Exploración Libre<br/>6 regiones desbloqueadas<br/>PJ derrotan 1er lugarteniente]
     S7 --> SAND_DETAIL[📊 Ver detalle Sandbox]
     SAND_DETAIL -.->|Enlace| SAND_LINK[./00_Esquemas/01_Sandbox.md]
-    S7 --> S8[Sesión 8: Primera Sospecha<br/>¿Dónde está Manshoon?]
-    S8 --> S8A[🤝 Contador del Ritual<br/>Anacronistas + Relojeros Negros]
-    S8A --> S9[Sesión 9: Exploración Avanzada<br/>9 regiones desbloqueadas]
+    S7 --> S8[Sesión 8: Primera Sospecha<br/>¿Dónde está Manshoon?<br/>PJ derrotan 2do lugarteniente]
+    S8 --> S8A[🤝 Contador del Ritual<br/>Anacronistas + La Resistencia]
+    S8A --> S9[⚔️ Sesión 9: La Traición de Serapis<br/>Cierre del Sandbox Inicial]
+    S9 --> S9A[Varrak entrega cristal<br/>a los PJ para Din Goldgear]
+    S9A --> S9B[⚔️ La Traición de Serapis<br/>Kaoros revelado como traidor]
+    S9B --> TRAICION_DETAIL[📖 Ver La Traición de Serapis]
+    TRAICION_DETAIL -.->|Enlace| TRAICION_LINK[./04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md]
+    S9B --> S9C[Juicio y Ejecución<br/>Capitán Marcus]
+    S9C --> S9D[Batalla contra Serapis<br/>Kaoros se revela<br/>Serapis derrotado]
+    S9D --> S9E[⚰️ Sacrificio de Varrak<br/>Resurrección de Marcus]
+    S9E --> S9F[📊 Revelaciones Masivas<br/>Secrets desvelados<br/>Transición a Fase 3]
     
-    S9 --> FASE3[FASE 3: SANDBOX AVANZADO<br/>Sesiones 9-12]
+    S9F --> FASE3[FASE 3: SANDBOX AVANZADO<br/>Sesiones 10-12<br/>Objetivo: Derrotar 3 lugartenientes]
     
-    FASE3 --> S10[Sesión 10: Algo Está Mal<br/>Revelación sobre ritual]
-    S10 --> S11[Sesión 11: Momento de Elección<br/>Varrak elige bando]
+    FASE3 --> S10[Sesión 10: Algo Está Mal<br/>Revelación sobre ritual<br/>PJ derrotan 3er lugarteniente]
+    S10 --> S11[Sesión 11: Exploración Avanzada<br/>PJ derrotan 4to lugarteniente<br/>5 lugartenientes restantes<br/>forman alianzas o luchan]
     S11 --> ASC_DETAIL[⚔️ Ver Ascensión del Cónclave]
     ASC_DETAIL -.->|Enlace| ASC_LINK[./00_Esquemas/02_Ascension_Conclave.md]
-    
-    S11 --> S11A{¿Varrak se une a PJ?}
-    S11A -->|Aliado| S11B[Varrak ayuda a PJ<br/>+3 puntos aliados]
-    S11A -->|Enemigo| S11C[Varrak se une a Vorthak<br/>+5 puntos enemigos]
-    S11A -->|Mártir| S11D[Varrak se sacrifica<br/>Poder épico a PJ]
-    
-    S11B --> S12
-    S11C --> S12
-    S11D --> S12[Sesión 12: El Ritual<br/>Ritual al 92%]
+    S11 --> S12[Sesión 12: El Ritual<br/>PJ derrotan 5to lugarteniente<br/>Ritual al 92%<br/>Últimos 4 lugartenientes<br/>luchan por supremacía]
     
     S12 --> FASE4[FASE 4: CLÍMAX<br/>Sesiones 13-15]
     
@@ -101,6 +101,12 @@ flowchart TD
     style SAND_DETAIL fill:#fff5e1,stroke:#ffaa00,stroke-width:3px
     style ASC_DETAIL fill:#ffffcc,stroke:#ffaa00,stroke-width:3px
     style TORRE_DETAIL fill:#ffe1e1,stroke:#ffaa00,stroke-width:3px
+    style TRAICION_DETAIL fill:#ffe1f5,stroke:#ff00aa,stroke-width:3px
+    style S9B fill:#ffcccc
+    style S9C fill:#ffcccc
+    style S9D fill:#ffcccc
+    style S9E fill:#ffcccc
+    style S9F fill:#ffffcc
 ```
 
 ---
@@ -118,6 +124,9 @@ Los 5 niveles del asalto final, condiciones para cada uno de los 4 finales posib
 
 ### **🎭 [Decisiones Críticas](./00_Esquemas/04_Decisiones_Criticas.md)**
 Los 6 puntos de decisión que determinan el curso de la campaña y afectan directamente el desenlace final.
+
+### **⚔️ [La Traición de Serapis](./04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md)**
+La infiltración de Kaoros el Sordo, el juicio del Capitán Marcus, la revelación del traidor, el sacrificio heroico de Varrak, y la derrota de Serapis. **Cierra la Fase 2 (Sandbox Inicial)** y desvela muchos secretos, siendo el punto perfecto de transición a la Fase 3.
 
 ---
 
@@ -137,8 +146,18 @@ Los 6 puntos de decisión que determinan el curso de la campaña y afectan direc
 - **FINAL D (Rosa)**: Demasiado Tarde - Manshoon ya ascendió (mal final)
 
 ### **Eventos Fijos vs Variables:**
-- **Eventos Fijos** (ocurren siempre): Asesinato en Waterdeep, Robo del Cronómetro, Asesinato de Thyra, Reacción Espontánea, Elección de Varrak, Llamada de los Dioses
-- **Eventos Variables** (dependen de los PJ): Orden de enfrentamiento de lugartenientes, Alianzas, Revelaciones tempranas, Interrupciones de eventos
+- **Eventos Fijos** (ocurren siempre): Asesinato en Waterdeep, Robo del Cronómetro, Asesinato de Thyra, Reacción Espontánea, La Traición de Serapis (Sesión 9 - Cierre Fase 2), Llamada de los Dioses
+- **Eventos Variables** (dependen de los PJ): Orden de enfrentamiento de lugartenientes, Alianzas, Revelaciones tempranas, Interrupciones de eventos, Timing de entrega del cristal de Varrak
+
+### **📊 Conteo de Lugartenientes:**
+- **Total Inicial**: 12 lugartenientes (8 principales + 3 menores + 1 caída)
+- **Muertos en Fase 0 (Railroad)**: 1 (Kaelthas - primer lugarteniente derrotado)
+- **Muertos en Fase 1**: 1 (Thyra - asesinada por Edward Teach)
+- **Muertos en Fase 2 (Sandbox Inicial)**: 3 (2 derrotados por PJ + Serapis en La Traición de Serapis)
+- **Muertos en Fase 3 (Sandbox Avanzado)**: 3 (derrotados por PJ - total de 5 derrotados por PJ)
+- **Suicidio**: 1 (Varrak - en La Traición de Serapis)
+- **Total Muertos**: 7 (1 Kaelthas + 1 Thyra + 5 PJ + 1 Varrak)
+- **Quedan Activos**: 5 lugartenientes (forman alianzas, luchan entre sí, o actúan independientemente en la Fase 4)
 
 ---
 

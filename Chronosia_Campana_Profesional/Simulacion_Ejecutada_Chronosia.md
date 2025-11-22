@@ -61,7 +61,7 @@
 
 **Eventos Fijos:**
 - ✅ Llegada a Cronópolis
-- ✅ Presentación de facciones (Anacronistas, Relojeros Negros)
+- ✅ Presentación de facciones (Anacronistas, La Resistencia)
 - ✅ Los PJ ven el Cronómetro de Realidades (setup crítico)
 
 **Acciones Simuladas de PJ:**
@@ -309,7 +309,7 @@
 
 **Eventos Fijos:**
 - ✅ Revelación sobre reclusión de Manshoon
-- ✅ **Contador del Ritual creado** por Anacronistas y Relojeros Negros
+- ✅ **Contador del Ritual creado** por Anacronistas y La Resistencia
 
 **Acciones Simuladas de PJ:**
 - Descubren que Manshoon está recluido

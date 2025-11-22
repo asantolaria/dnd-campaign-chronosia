@@ -157,7 +157,7 @@ El **Reloj Astronómico de Waterdeep** se alza majestuoso en la **Plaza del Tiem
 - **Investigation (CD 14)**: Descubrir que el asesino dejó un rastro de energía temporal
 - **Arcana (CD 16)**: Identificar que las marcas son de magia temporal híbrida (humano + Cronófago)
 - **History (CD 15)**: Reconocer el nombre "Kaelthas" - era un famoso relojero hace 15 años que desapareció misteriosamente
-- **Gnomo (idioma)**: Leer la inscripción del reloj: "Los Relojeros Negros nos protegen"
+- **Gnomo (idioma)**: Leer la inscripción del reloj: "Los La Resistencia nos protegen"
 
 ### **2.3 La Reacción de la Multitud**
 **Descripción**: El pánico se extiende por la plaza mientras los guardias intentan mantener el orden.
@@ -383,7 +383,7 @@ KAELTHAS (susurrando, lágrimas cayendo de su ojo humano):
 [Mira a los PJ con su último aliento]
 
 KAELTHAS:
-"Los... Relojeros Negros... pueden llevaros... a Chronosia... Pero tened cuidado... 
+"Los... La Resistencia... pueden llevaros... a Chronosia... Pero tened cuidado... 
 El Cónclave... tiene doce... y yo era el más débil..."
 
 [Explosión temporal - su reloj de bolsillo estalla, creando una distorsión]
@@ -399,12 +399,12 @@ El Cónclave... tiene doce... y yo era el más débil..."
 - **Aethernus Valcarys** es el líder de los Cronófagos
 - **El Cónclave** tiene 12 lugartenientes totales
 - **Chronosia** es el semiplano donde ocurre todo
-- **Los Relojeros Negros** (Anacronistas) son la clave para viajar allí
+- **Los La Resistencia** (Anacronistas) son la clave para viajar allí
 - **Los dioses** están capturados por Aethernus
 
 ---
 
-## 🎪 **Escena 6: Los Relojeros Negros**
+## 🎪 **Escena 6: Los La Resistencia**
 
 ### **6.1 La Aparición de los Anacronistas**
 **Descripción**: La distorsión temporal causada por la muerte de Kaelthas atrae a los Anacronistas, que estaban monitoreando Waterdeep desde las sombras.
@@ -454,7 +454,7 @@ Valcarys y se convirtió en esto."
 
 ZEPHYR:
 "Permitidme presentarme. Soy Zephyr, líder de los Anacronistas... algunos nos 
-llaman 'Los Relojeros Negros'. Somos una orden secreta de gnomos y relojeros 
+llaman 'Los La Resistencia'. Somos una orden secreta de gnomos y relojeros 
 que protegemos el tiempo mismo."
 
 [Pausa dramática]
@@ -573,7 +573,7 @@ ZEPHYR:
 - ✅ **Investigar** el asesinato del Maestro Thaddeus Ironwright
 - ✅ **Rastrear** a Kaelthas el Relojero Roto hasta su guarida
 - ✅ **Derrotar** a Kaelthas y sus 4 Cronófagos secuaces
-- ✅ **Conocer** a los Anacronistas ("Relojeros Negros")
+- ✅ **Conocer** a los Anacronistas ("La Resistencia")
 - ✅ **Viajar** a Chronosia a través del portal temporal
 
 ### **Objetivos Secundarios**

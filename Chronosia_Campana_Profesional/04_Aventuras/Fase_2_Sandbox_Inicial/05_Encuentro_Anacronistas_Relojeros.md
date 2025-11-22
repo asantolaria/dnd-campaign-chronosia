@@ -1,4 +1,4 @@
-# 🤝 Encuentro: Anacronistas y Relojeros Negros
+# 🤝 Encuentro: Anacronistas y La Resistencia
 ## *La Alianza Inesperada y el Contador del Ritual*
 
 ---
@@ -7,7 +7,7 @@
 > - [← Volver a Fase 2](./00_Guia_General_Fase_2.md)
 > - [Sesión 8: Primera Sospecha](./02_Sesion_8_Primera_Sospecha.md)
 > - [Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)
-> - [Relojeros Negros](../../02_Guia_DM/02_Facciones/02_Relojeros_Negros.md)
+> - [La Resistencia](../../02_Guia_DM/02_Facciones/02_Relojeros_Negros.md)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)
 
 ---
@@ -16,7 +16,7 @@
 
 **Cuándo Ocurre:** Sesión 8-9 (cuando el ritual está al 90-91%)  
 **Dónde:** Cronópolis (Taller de los Ingenieros o Santuario de los Anacronistas)  
-**Quién Participa:** Zephyr (Anacronistas) + Balthar Herrumbra/Lucienne Rietveldt (Relojeros Negros)  
+**Quién Participa:** Zephyr (Anacronistas) + Balthar Herrumbra/Lucienne Rietveldt (La Resistencia)  
 **Resultado:** Creación del **Contador del Ritual** - Artefacto que monitorea el avance del ritual de Manshoon
 
 **🎯 Propósito Narrativo:**
@@ -36,10 +36,10 @@
 **Trigger Natural:**
 - Los PJ regresan a Cronópolis después de una misión
 - O visitan a los Anacronistas para información
-- O consultan a los Relojeros Negros sobre tecnología
+- O consultan a La Resistencia sobre tecnología
 
 **El Momento Perfecto:**
-Los Anacronistas (con su percepción mística del tiempo verdadero) han sentido que "algo terrible se está gestando en el corazón del tiempo". Los Relojeros Negros (con sus detectores de magia) han registrado "anomalías cósmicas sin precedentes". Ambos grupos han llegado a la misma conclusión: **algo está a punto de completarse, y no hay tiempo que perder**.
+Los Anacronistas (con su percepción mística del tiempo verdadero) han sentido que "algo terrible se está gestando en el corazón del tiempo". Los La Resistencia (con sus detectores de magia) han registrado "anomalías cósmicas sin precedentes". Ambos grupos han llegado a la misma conclusión: **algo está a punto de completarse, y no hay tiempo que perder**.
 
 ---
 
@@ -49,7 +49,7 @@ Los Anacronistas (con su percepción mística del tiempo verdadero) han sentido 
 
 **Si los PJ están en Cronópolis:**
 
-Los PJ notan una procesión inusual: **Zephyr y varios Anacronistas** caminan por las calles de Cronópolis, dirigiéndose directamente hacia el **Taller de los Ingenieros** (donde trabajan los Relojeros Negros).
+Los PJ notan una procesión inusual: **Zephyr y varios Anacronistas** caminan por las calles de Cronópolis, dirigiéndose directamente hacia el **Taller de los Ingenieros** (donde trabajan La Resistencia).
 
 **Descripción:**
 ```
@@ -73,7 +73,7 @@ Zephyr se acerca a los PJ con expresión grave:
 ```
 ZEPHYR (con voz tensa):
 "Amigos, algo terrible se está gestando. El tiempo mismo me susurra advertencias. 
-Necesito hablar con los Relojeros Negros. A pesar de nuestras diferencias, 
+Necesito hablar con La Resistencia. A pesar de nuestras diferencias, 
 ellos tienen la tecnología que necesitamos. Y nosotros... tenemos la percepción 
 que ellos carecen."
 
@@ -84,7 +84,7 @@ que ellos carecen."
 
 ### **2. La Reunión en el Taller (30 minutos)**
 
-**Escena:** El Taller de los Ingenieros - Un lugar lleno de máquinas, engranajes, y el olor a aceite y metal. Los Relojeros Negros trabajan en sus proyectos, pero se detienen cuando ven a los Anacronistas entrar.
+**Escena:** El Taller de los Ingenieros - Un lugar lleno de máquinas, engranajes, y el olor a aceite y metal. Los La Resistencia trabajan en sus proyectos, pero se detienen cuando ven a los Anacronistas entrar.
 
 **Balthar Herrumbra** (o **Lucienne Rietveldt** si Balthar no está disponible) se acerca, con expresión de desconfianza pero también curiosidad:
 
@@ -149,7 +149,7 @@ crear un reloj... un contador del fin."
    - **Percepción mística** del pulso del tiempo
    - **Ritual de vinculación** que conecta el artefacto con el flujo temporal verdadero
 
-2. **Los Relojeros Negros aportan:**
+2. **Los La Resistencia aportan:**
    - **Tecnología de detección** anti-magia
    - **Mecanismos de precisión** (engranajes, relojes, contadores)
    - **Estabilizadores** que previenen distorsiones
@@ -162,7 +162,7 @@ crear un reloj... un contador del fin."
 ```
 Durante las siguientes horas, el taller se convierte en un lugar de colaboración 
 improbable. Los Anacronistas realizan rituales suaves, susurrando palabras en 
-lenguas antiguas mientras sostienen fragmentos de aionita. Los Relojeros Negros 
+lenguas antiguas mientras sostienen fragmentos de aionita. Los La Resistencia 
 trabajan con precisión mecánica, ajustando engranajes y calibrando sensores.
 
 Zephyr y Balthar trabajan juntos, combinando misticismo y tecnología de una 
@@ -318,7 +318,7 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 
 ### **Cómo Presentar el Encuentro:**
 
-1. **No lo fuerces:** Si los PJ no están en Cronópolis, haz que los Anacronistas o Relojeros Negros los busquen
+1. **No lo fuerces:** Si los PJ no están en Cronópolis, haz que los Anacronistas o La Resistencia los busquen
 2. **Crea misterio:** "¿Por qué los Anacronistas van al taller de los Relojeros?"
 3. **Permite participación:** Los PJ pueden ayudar en la creación del artefacto
 4. **Hazlo memorable:** Este es un momento único de unión entre facciones
@@ -342,7 +342,7 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 ## 🔗 **REFERENCIAS**
 
 - **[Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)** - Información sobre Zephyr y los Anacronistas
-- **[Relojeros Negros](../../02_Guia_DM/02_Facciones/02_Relojeros_Negros.md)** - Información sobre Balthar y los Relojeros Negros
+- **[La Resistencia](../../02_Guia_DM/02_Facciones/02_Relojeros_Negros.md)** - Información sobre Balthar y La Resistencia
 - **[Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timing del ritual
 - **[Tablas de Tracking](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** - Progresión del ritual
 - **[Sesión 8: Primera Sospecha](./02_Sesion_8_Primera_Sospecha.md)** - Contexto de la sesión
@@ -353,7 +353,7 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 
 ### **Variaciones del Encuentro:**
 
-**Si los PJ tienen mala relación con los Relojeros Negros:**
+**Si los PJ tienen mala relación con La Resistencia:**
 - Balthar puede ser más reacio
 - Los PJ pueden necesitar mediar
 - Puede requerir una prueba de Persuasión (CD 15)
@@ -364,7 +364,7 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - Pueden obtener información adicional
 
 **Si los PJ no están presentes:**
-- Los Anacronistas y Relojeros Negros crean el artefacto de todos modos
+- Los Anacronistas y La Resistencia crean el artefacto de todos modos
 - Los PJ descubren el Contador cuando regresan a Cronópolis
 - "Mientras estabais fuera, algo increíble ocurrió..."
 

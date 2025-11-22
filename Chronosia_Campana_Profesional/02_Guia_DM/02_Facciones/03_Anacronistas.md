@@ -24,7 +24,7 @@ Los Anacronistas son un pequeño clan o hermandad que resiste las distorsiones d
 
 Un pequeño clan o hermandad que resiste las distorsiones del tiempo. No envejecen ni rejuvenecen al azar, ni olvidan ni recuerdan falsos pasados. Cuando las primeras paradojas sacudieron el mundo, ellos permanecieron intactos.
 
-**Equilibrio político**: Ni aman la magia (como los Cronófagos), ni la odian (como los Relojeros Negros). Se consideran los guardianes de la verdad del tiempo.
+**Equilibrio político**: Ni aman la magia (como los Cronófagos), ni la odian (como La Resistencia). Se consideran los guardianes de la verdad del tiempo.
 
 ---
 
@@ -46,7 +46,7 @@ Tres posibles explicaciones (puedes elegir una o mezclarlas):
 ### **⏰ La Reliquia del Reloj Invertido**
 - Un artefacto en forma de reloj de arena, pero con la arena ascendiendo en lugar de caer
 - Mantiene un campo de estabilidad temporal alrededor de quienes viven bajo su influencia
-- Debe ser protegido a toda costa: si cae en manos del Cónclave o los Relojeros Negros, ambos intentarían usarlo para fines propios
+- Debe ser protegido a toda costa: si cae en manos del Cónclave o La Resistencia, ambos intentarían usarlo para fines propios
 
 ---
 
@@ -66,7 +66,7 @@ Tres posibles explicaciones (puedes elegir una o mezclarlas):
 - **Aliados clave**: Los PJ encontrarán en los Anacronistas a guías para moverse entre zonas alteradas sin quedar atrapados
 - **Guardianes del conocimiento**: Conservan recuerdos "verdaderos" de cómo era el mundo antes de la fractura
 - **Mediadores neutrales**: Pueden servir como mediadores entre otras facciones
-- **Equilibrio político**: Ni aman la magia (como los Cronófagos), ni la odian (como los Relojeros Negros). Se consideran los guardianes de la verdad del tiempo
+- **Equilibrio político**: Ni aman la magia (como los Cronófagos), ni la odian (como La Resistencia). Se consideran los guardianes de la verdad del tiempo
 
 ---
 

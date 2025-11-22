@@ -22,7 +22,7 @@
 - [Ecos Espaciales](#-ecos-espaciales)
 - [Criaturas Comprimidas](#-criaturas-comprimidas)
 
-### **⚙️ Relojeros Negros**
+### **⚙️ La Resistencia**
 - [Maestros Armeros](#-maestros-armeros)
 - [Ingenieros](#-ingenieros)
 - [Constructores](#-constructores)

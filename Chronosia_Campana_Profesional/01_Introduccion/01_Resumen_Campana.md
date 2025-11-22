@@ -41,7 +41,7 @@
 
 ### **🎲 Guías del DM**
 - **[../02_Guia_DM/05_Dirigir_Campana.md](../02_Guia_DM/05_Dirigir_Campana.md)** - Estructura de sesiones y niveles
-- **[../02_Guia_DM/06_Facciones_Organizaciones.md](../02_Guia_DM/06_Facciones_Organizaciones.md)** - Cronófagos, Relojeros Negros, Anacronistas, Bregan D'aerthe
+- **[../02_Guia_DM/06_Facciones_Organizaciones.md](../02_Guia_DM/06_Facciones_Organizaciones.md)** - Cronófagos, La Resistencia, Anacronistas, Bregan D'aerthe
 - **[../02_Guia_DM/08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md)** - ⭐ **FUENTE DE VERDAD** sobre lugartenientes y poderes
 - **[../02_Guia_DM/09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia entre lugartenientes
 - **[../02_Guia_DM/22_Eventos_Ascension_Conclave.md](../02_Guia_DM/22_Eventos_Ascension_Conclave.md)** - ⭐ Eventos que modifican puntos
