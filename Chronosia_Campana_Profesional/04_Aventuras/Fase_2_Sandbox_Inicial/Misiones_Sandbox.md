@@ -34,7 +34,7 @@
 - [Las Calderas Dimensionales (Ignis - Principal/Líder)](#-las-calderas-dimensionales-ignis---principallíder)
 - [La Ciudad Subterránea de Veldrisza (Matrona Veldrisza - Principal)](#-la-ciudad-subterránea-de-veldrisza-matrona-veldrisza---principal)
 - [El Jardín de los Tiempos Gemelos (Las Gemelas - Principales/Neutrales)](#-el-jardín-de-los-tiempos-gemelos-las-gemelas---principalesneutrales)
-- [Glacialis (Ymir - Menor)](#-glacialis-ymir---menor)
+- [Glacialis (Ymir)](#-glacialis-ymir)
 
 ### **🎭 Misiones Especiales**
 - [Misiones de Facciones](#-misiones-de-facciones)
@@ -61,7 +61,7 @@ A partir de la llegada a Chronosia, los PJ pueden:
 
 **📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
 
-Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó una competencia entre los 8 lugartenientes principales por convertirse en su mano derecha. Esto crea dinámicas únicas:
+Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó una competencia entre los 9 lugartenientes activos (4 temporales vs 5 dimensionales) por convertirse en su mano derecha. Esto crea dinámicas únicas:
 
 - **Alianzas entre Lugartenientes**: Pueden formar coaliciones temporales
 - **Traiciones**: Pueden atacarse entre sí por puntos de ascensión
@@ -236,18 +236,18 @@ Una mansión gótica colosal rodeada por niebla temporal. Tiene múltiples nivel
 
 ---
 
-## 🐍 **EL JARDÍN DE LOS TIEMPOS GEMELOS (MEDUSA - MENOR)**
+## 🐍 **EL JARDÍN DE LOS TIEMPOS GEMELOS (MEDUSA)**
 
 ### **Medusa la Eterna - Estasis Temporal / Petrificación**
 
-**🎭 LUGARTENIENTE MENOR/OPCIONAL** - No participa activamente en "La Ascensión del Cónclave"
+**🎭 LUGARTENIENTE TEMPORAL** - Participa activamente en "La Ascensión del Cónclave"
 
 **⚠️ NOTA:** Esta región puede ser compartida con **Las Gemelas del Espejo** (Dimensionales). El DM decide si ambos lugartenientes coexisten o solo uno controla la región.
 
 #### **🎯 Objetivos**
 - **Principal**: Derrotar a **Medusa la Eterna** y liberar el jardín de la petrificación temporal
 - **Secundarios**: Liberar estatuas conscientes, obtener artefactos de estasis, descubrir secretos del jardín
-- **Balance**: Esta es una misión TEMPORAL MENOR - Menos impacto en el balance general
+- **Balance**: Esta es una misión TEMPORAL - Impacto completo en el balance general
 
 #### **🌍 Descripción de la Región**
 Un jardín extenso donde todo ha sido petrificado por la mirada de Medusa. Estatuas de personas, animales y plantas llenan el paisaje, todas convertidas en piedra temporal que conserva la consciencia de sus víctimas.
@@ -263,11 +263,11 @@ Un jardín extenso donde todo ha sido petrificado por la mirada de Medusa. Estat
 
 ---
 
-## ⚙️ **LAS RUINAS DEL TIEMPO PERDIDO (TEMPUS - MENOR)**
+## ⚙️ **LAS RUINAS DEL TIEMPO PERDIDO (TEMPUS)**
 
 ### **Tempus el Fragmentado - Bucles Temporales / Programación**
 
-**🎭 LUGARTENIENTE MENOR/OPCIONAL** - No participa activamente en "La Ascensión del Cónclave"
+**🎭 LUGARTENIENTE TEMPORAL** - Participa activamente en "La Ascensión del Cónclave"
 
 #### **🎯 Objetivos**
 - **Principal**: Derrotar a **Tempus el Fragmentado** y romper los bucles temporales
@@ -428,16 +428,16 @@ Un jardín lleno de espejos que actúan como portales dimensionales. La luz se r
 
 ---
 
-## ❄️ **GLACIALIS (YMIR - MENOR)**
+## ❄️ **GLACIALIS (YMIR)**
 
 ### **Ymir el Eterno Invierno - Control Espacial a través del Hielo**
 
-**🎭 LUGARTENIENTE MENOR/OPCIONAL** - No participa activamente en "La Ascensión del Cónclave"
+**🎭 LUGARTENIENTE DIMENSIONAL** - Participa activamente en "La Ascensión del Cónclave"
 
 #### **🎯 Objetivos**
 - **Principal**: Derrotar a **Ymir el Eterno Invierno** y descongelar Glacialis
 - **Secundarios**: Explorar glaciares dimensionales, obtener artefactos de hielo, descubrir secretos del norte
-- **Balance**: Esta es una misión DIMENSIONAL MENOR - Menos impacto en el balance general
+- **Balance**: Esta es una misión DIMENSIONAL - Impacto completo en el balance general
 
 #### **🌍 Descripción de la Región**
 Un reino de hielo eterno en el extremo norte donde Ymir domina con control espacial. Los glaciares se extienden infinitamente y las auroras boreales iluminan el cielo. El espacio se cristaliza en patrones de hielo.

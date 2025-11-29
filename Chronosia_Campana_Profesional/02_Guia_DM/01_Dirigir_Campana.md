@@ -21,17 +21,17 @@
 ### **📊 Estructura de Niveles**
 - **Nivel Inicial**: 3 (llegada a Chronosia)
 - **Primera Misión**: 3→5 (Waterdeep + primer lugarteniente)
-- **Fase Sandbox**: 5→13 (derrotar 8 lugartenientes principales)
+- **Fase Sandbox**: 5→13 (derrotar lugartenientes manteniendo balance)
 - **Clímax**: 13→15 (batalla contra Aethernus)
 
 ### **⚠️ IMPORTANTE - SISTEMA DE BALANCE CRÍTICO**
-La campaña tiene **8 lugartenientes principales activos** fijos:
-- **3 Temporales**: Serapis, Varrak, Vorthak
+La campaña tiene **10 lugartenientes activos** inicialmente (5 de cada tipo):
+- **5 Temporales**: Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra (viva al inicio)
 - **5 Dimensionales**: Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas
-- **3 Menores Opcionales**: Medusa, Tempus, Ymir
-- **1 Caído**: Thyra (asesinada por Edward Teach)
+- **1 Caído**: Thyra (asesinada por Edward Teach en Sesión 6)
 
-**⚠️ BALANCE INICIAL**: 3 temporales vs 5 dimensionales = **Desequilibrio intencional**
+**⚠️ BALANCE INICIAL**: 5 temporales vs 5 dimensionales = **Equilibrio**
+**⚠️ BALANCE POST-THYRA**: 4 temporales vs 5 dimensionales = **Desequilibrio hacia dimensional**
 
 **Ver tabla completa en:** [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 

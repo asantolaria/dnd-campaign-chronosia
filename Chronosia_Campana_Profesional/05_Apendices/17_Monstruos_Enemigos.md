@@ -141,7 +141,7 @@
 
 **📖 Ver información completa de poderes y acciones legendarias:** [08_Cronofagos_Detallado.md](../../02_Guia_DM/08_Cronofagos_Detallado.md)
 
-**⚠️ DESARROLLO PENDIENTE:** Este archivo requiere una actualización mayor para incluir los statblocks completos de los 8 lugartenientes principales activos. Por ahora, se mantiene como referencia histórica de Thyra (caída).
+**⚠️ DESARROLLO PENDIENTE:** Este archivo requiere una actualización mayor para incluir los statblocks completos de los 10 lugartenientes (5 temporales + 5 dimensionales). Por ahora, se mantiene como referencia histórica de Thyra (caída).
 
 ---
 

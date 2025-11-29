@@ -36,17 +36,17 @@ flowchart LR
     DIM --> D6[Gemelas<br/>Nivel 9-11]
     
     T1 --> DEC1{¿Derrotar?}
-    T2 --> DEC2{¿Derrotar/Aliarse?}
+    T2 --> DEC2{¿Derrotar/Aliarse?<br/>Sesión 11}
     T3 --> DEC3{¿Derrotar?}
     T4 --> DEC4{¿Derrotar?}
     T5 --> DEC5{¿Derrotar?}
     
     D1 --> DEC6{¿Derrotar?}
-    D2 --> DEC7{¿Derrotar/Aliarse?}
-    D3 --> DEC8{¿Derrotar/Aliarse?}
+    D2 --> DEC7{¿Derrotar?}
+    D3 --> DEC8{¿Derrotar?}
     D4 --> DEC9{¿Derrotar?}
-    D5 --> DEC10{¿Derrotar/Aliarse?}
-    D6 --> DEC11{¿Derrotar/Aliarse?}
+    D5 --> DEC10{¿Derrotar?}
+    D6 --> DEC11{¿Derrotar/Aliarse?<br/>Según circunstancias}
     
     DEC1 --> BALANCE[⚖️ Sistema de Balance<br/>Temporales vs Dimensionales]
     DEC2 --> BALANCE
@@ -80,10 +80,10 @@ flowchart LR
 
 ### **⚖️ Sistema de Balance Crítico**
 
-**Balance Inicial:**
-- **Temporales Principales:** 3 (Serapis, Varrak, Vorthak)
-- **Dimensionales Principales:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Ya hay desequilibrio** favorable a lo dimensional (3 vs 5)
+**Balance Inicial (Después de la muerte de Thyra):**
+- **Temporales:** 4 (Serapis, Varrak, Vorthak, Medusa, Tempus)
+- **Dimensionales:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Ya hay desequilibrio** favorable a lo dimensional (4 vs 5)
 
 **Cálculo del Desbalance:**
 - **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
@@ -116,16 +116,26 @@ flowchart LR
 ### **🎯 Estrategia Recomendada:**
 
 **Para mantener el equilibrio:**
-- Derrotar al menos 2 dimensionales antes de enfrentar más temporales
+- Derrotar al menos 1 dimensional antes de enfrentar más temporales
 - Alternar entre temporales y dimensionales cuando sea posible
 - Considerar alianzas en lugar de derrotas cuando el balance esté en riesgo
 
-**Lugartenientes con opciones de alianza:**
-- **Varrak** (Sesión 11): Puede unirse a los PJ
-- **Edward Teach**: Puede negociar (peligroso)
-- **Dimensionalis**: Puede vender información
-- **Las Gemelas**: Pueden aliarse según circunstancias
-- **Veldrisza**: Puede negociar (conexión con Jarlaxle)
+**⚠️ IMPORTANTE - Opciones de Alianza con Lugartenientes:**
+
+**Alianzas Reales (Pueden unirse a los PJ):**
+- **Varrak** (Sesión 11): Puede unirse a los PJ si le dan esperanza, o unirse a Vorthak si lo traicionan, o sacrificarse
+- **Las Gemelas**: Pueden aliarse con los PJ si demuestran que pueden cambiar la realidad
+
+**Negociaciones (NO son alianzas formales):**
+- **Edward Teach**: Puede negociar (peligroso, no es alianza)
+- **Dimensionalis**: Puede vender información (no es alianza)
+- **Veldrisza**: Puede negociar (conexión con Jarlaxle, no es alianza)
+
+**Enemigos (Sin opción de alianza):**
+- **Vorthak**: Enemigo declarado, ve a los PJ como amenaza directa
+- **Serapis**: Subordinado leal de Vorthak
+- **Ignis**: Líder del bando dimensional
+- **Medusa, Tempus, Ymir**: Sin opciones de alianza documentadas
 
 ---
 

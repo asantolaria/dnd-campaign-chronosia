@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9ac22b88bbec603d",
+        "id": "c84ad79ca5c0892b",
         "type": "tabs",
         "children": [
           {
-            "id": "ab5a061376d2fca3",
+            "id": "62eba603b4934406",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
+                "file": "Chronosia_Campana_Profesional/00_Esquemas/01_Sandbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Tabla_Misiones_Consejo"
+              "title": "01_Sandbox"
             }
           }
         ]
@@ -170,8 +170,26 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "ab5a061376d2fca3",
+  "active": "62eba603b4934406",
   "lastOpenFiles": [
+    "Chronosia_Campana_Profesional/00_Esquemas/02_Ascension_Conclave.md",
+    "Chronosia_Campana_Profesional/00_Esquemas/03_Torre_Eternidad.md",
+    "Chronosia_Campana_Profesional/00_Esquemas/01_Sandbox.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/01_Dirigir_Campana.md",
+    "Chronosia_Campana_Profesional/01_Introduccion/03_Creacion_Personajes.md",
+    "Chronosia_Campana_Profesional/01_Introduccion/02_Guia_Rapida.md",
+    "Chronosia_Campana_Profesional/01_Introduccion/01_Resumen_Campana.md",
+    "Chronosia_Campana_Profesional/00_Esquemas/04_Decisiones_Criticas.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md",
+    "Chronosia_Campana_Profesional/06_Recursos/Tablas/20_Tablas_Tracking_Campana.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/00_Estructura_Aventuras.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/01_Episodio_1_Consejo_Aguas_Profundas.md",
+    "Chronosia_Campana_Profesional/02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md",
+    "Chronosia_Campana_Profesional/04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md",
+    "El alzamiento de Tiamat - Sandbox/04_Guia_DM/05_Sistema_Consejo_Guerra.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/A14_Mision_Ruinas_Norte.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/04A_Mision_Culto_Contraataca_I_Emboscadas.md",
+    "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
     "README.md",
     "OLD/99_Indice_Personajes_Regiones.md",
     "OLD/07_NPCs_Personajes.md",
@@ -181,25 +199,7 @@
     "OLD/01_Campaña_Principal.md",
     "OLD",
     "El alzamiento de Tiamat - Sandbox/agents.md",
-    "Chronosia_Campana_Profesional/OLD/README.md",
-    "Chronosia_Campana_Profesional/OLD/99_Indice_Personajes_Regiones.md",
-    "Chronosia_Campana_Profesional/OLD/50_Guia_Sandbox_Dirigido.md",
-    "Chronosia_Campana_Profesional/OLD/08_Eventos_Tablas.md",
-    "Chronosia_Campana_Profesional/OLD/07_NPCs_Personajes.md",
-    "Chronosia_Campana_Profesional/OLD/06_Antagonistas_Villanos.md",
-    "Chronosia_Campana_Profesional/OLD/05_Facciones_Grupos.md",
-    "Chronosia_Campana_Profesional/OLD/04_Mecanicas_Temporales_y_Dimensionales.md",
-    "Chronosia_Campana_Profesional/OLD/03_Regiones_Lugares.md",
-    "Chronosia_Campana_Profesional/OLD/02_Ambientacion_y_Tono.md",
-    "Chronosia_Campana_Profesional/OLD/01_Campaña_Principal.md",
     "Chronosia_Campana_Profesional/OLD",
-    "Chronosia_Campana_Profesional/Misiones/03_Final/66_Mision_[RR]_Batalla_Final_Liberacion_Dioses.md",
-    "Chronosia_Campana_Profesional/Misiones/03_Final/65_Mision_[RR]_Revelacion_Manshoon.md",
-    "Chronosia_Campana_Profesional/Misiones/02_Desarrollo - sandbox/64_Mision_Corazon_Chronosia.md",
-    "Chronosia_Campana_Profesional/Misiones/02_Desarrollo - sandbox/63_Mision_Esfera_Invertida.md",
-    "Chronosia_Campana_Profesional/Misiones/02_Desarrollo - sandbox/62_Mision_Ciudad_Subterranea_Veldrisza.md",
-    "Chronosia_Campana_Profesional/Misiones/02_Desarrollo - sandbox/61_Mision_Calderas_Dimensionales.md",
-    "Chronosia_Campana_Profesional/Misiones/02_Desarrollo - sandbox/60_Mision_Laberinto_Dimensiones.md",
     "Chronosia_Campana_Profesional/Misiones/03_Final",
     "Chronosia_Campana_Profesional/Misiones/02_Desarrollo - sandbox",
     "Chronosia_Campana_Profesional/Misiones/01_Inicio - rail road",

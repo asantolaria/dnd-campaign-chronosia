@@ -106,7 +106,7 @@
 | **2** | | 0 | 0 | 0 | ✅ Equilibrio | Ninguno |
 | **3** | | 0 | 0 | 0 | ✅ Equilibrio | Ninguno |
 | **4-5** | | 0 | 0 | 0 | ✅ Equilibrio | Ninguno |
-| **6** | | 0 | 0 | 0 | ⚠️ Desequilibrio Inicial | 3T vs 5D (post-Thyra) |
+| **6** | | 0 | 0 | 0 | ⚠️ Desequilibrio Inicial | 4T vs 5D (post-Thyra) |
 | **7** | | | | | | |
 | **8** | | | | | | |
 | **9** | | | | | | |
@@ -115,9 +115,9 @@
 | **12** | | | | | | |
 
 ### **📊 Estado Inicial (Sesión 6):**
-- **Temporales Activos:** 3 (Serapis, Varrak, Vorthak)
+- **Temporales Activos:** 4 (Serapis, Varrak, Vorthak, Medusa, Tempus)
 - **Dimensionales Activos:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Diferencia:** -2 (favorable a dimensionales)
+- **Diferencia:** -1 (favorable a dimensionales)
 
 ### **📝 Niveles de Desbalance:**
 

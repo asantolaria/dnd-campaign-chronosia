@@ -1,5 +1,5 @@
 # ❄️ Ymir el Eterno Invierno
-## *Lugarteniente Dimensional - Elemental de Hielo Ancestral - Menor*
+## *Lugarteniente Dimensional - Elemental de Hielo Ancestral*
 
 ---
 
@@ -7,10 +7,10 @@
 
 - **Raza:** Elemental de Hielo Ancestral
 - **Tipo:** Dimensional (Poder de Voidar)
-- **Rol:** Menor/Opcional
+- **Rol:** Lugarteniente Dimensional
 - **Región:** Glacialis
 - **Nivel Recomendado:** 5-7
-- **Bando:** Menor (no participa activamente en La Ascensión del Cónclave)
+- **Bando:** Variable (puede aliarse o actuar independientemente según decisiones)
 - **Estado de Acceso:** 🔓 Desbloqueada (accesible desde el inicio)
 
 ---

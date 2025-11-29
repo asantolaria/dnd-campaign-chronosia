@@ -1,5 +1,5 @@
 # 🐍 Medusa la Eterna
-## *Lugarteniente Temporal - Medusa Ancestral - Menor*
+## *Lugarteniente Temporal - Medusa Ancestral*
 
 ---
 
@@ -7,10 +7,10 @@
 
 - **Raza:** Medusa Ancestral
 - **Tipo:** Temporal (Poder de Amaunator)
-- **Rol:** Menor/Opcional
+- **Rol:** Lugarteniente Temporal
 - **Región:** El Jardín de los Tiempos Gemelos
 - **Nivel Recomendado:** 8-9
-- **Bando:** Menor (aliada de Las Gemelas)
+- **Bando:** Variable (puede aliarse con Las Gemelas u otros según decisiones)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 2+ lugartenientes)
 
 ---

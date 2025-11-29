@@ -48,9 +48,8 @@ Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organizaci
 - **Aethernus Valcarys** (Manshoon Clone #47) - Líder Supremo del Cónclave
 
 ### **👑 LUGARTENIENTES DEL CÓNCLAVE (ESTADO ACTUAL)**
-- **3 Lugartenientes Temporales Principales** - Serapis, Varrak, Vorthak
-- **5 Lugartenientes Dimensionales Principales** - Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas
-- **3 Lugartenientes Menores Opcionales** - Medusa, Tempus, Ymir
+- **4 Lugartenientes Temporales** - Serapis, Varrak, Vorthak, Medusa, Tempus
+- **5 Lugartenientes Dimensionales** - Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas
 - **1 Lugarteniente Caído** - Thyra la Suspendida (asesinada por Edward Teach)
 
 ### **🎖️ OFICIALES CRONÓFAGOS**
@@ -86,7 +85,7 @@ Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organizaci
 
 ## ⚠️ **MECÁNICA CRÍTICA**
 
-Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Dado que hay 3 temporales principales y 5 dimensionales principales, el equilibrio está **intencionalmente desbalanceado**. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
+Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Dado que hay 4 temporales y 5 dimensionales (después de la muerte de Thyra), el equilibrio está **desbalanceado hacia lo dimensional**. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
 
 **📖 Para más detalles sobre el sistema de balance:**
 - [Sistema de Balance Temporal/Dimensional](../01_Dirigir_Campana.md#-sistema-de-balance-temporal-dimensional)

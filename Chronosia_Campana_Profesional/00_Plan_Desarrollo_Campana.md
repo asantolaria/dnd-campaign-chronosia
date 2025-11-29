@@ -16,7 +16,7 @@
 ### **🎯 Tareas Críticas**
 
 #### **📊 Desarrollo de Contenido:**
-- [x] **17_Monstruos_Enemigos.md**: Crear statblocks completos para los 8 lugartenientes principales activos (Serapis, Varrak, Vorthak, Edward Teach, Dimensionalis, Ignis, Veldrisza, Gemelas) + 3 menores (Medusa, Tempus, Ymir) + Aethernus Valcarys ✅
+- [x] **17_Monstruos_Enemigos.md**: Crear statblocks completos para los 10 lugartenientes (5 temporales: Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra; 5 dimensionales: Edward Teach, Dimensionalis, Ignis, Veldrisza, Gemelas) + Aethernus Valcarys ✅
 - [x] **Sistema de Soldados y Ejércitos Regionales**: Documentar cómo cada lugarteniente otorga poderes únicos a sus soldados. Distinguir entre lugartenientes con conexiones planares (Veldrisza, Ignis) y lugartenientes que crean soldados entrenados. Cada región tiene soldados únicos con habilidades específicas. ✅
 - [ ] **Desarrollar la Torre de la Eternidad**: Sede de Aethernus Valcarys - **NUEVO DISEÑO**: Crear 8 niveles únicos. Al inicio, cada grupo (PJs, Teach, otros) debe elegir un camino. Se seleccionan 5 niveles aleatorios de los 8 para cada camino. Cada camino lleva por distintos niveles hasta el final. Sistema de elección de caminos y selección aleatoria de niveles.
 

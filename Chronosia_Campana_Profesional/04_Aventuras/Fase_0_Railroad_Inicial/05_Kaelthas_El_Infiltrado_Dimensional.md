@@ -241,9 +241,9 @@ El taller de Kaelthas es un edificio de tres pisos en el distrito de artesanos d
 ## ⚖️ **IMPACTO EN EL BALANCE**
 
 ### **Balance Inicial Corregido**
-- **Antes**: Kaelthas temporal → 4 temporales vs 5 dimensionales (desequilibrio)
-- **Después**: Kaelthas dimensional → 3 temporales vs 5 dimensionales (desequilibrio intencional)
-- **Resultado**: El desequilibrio inicial es ahora intencional y parte del diseño
+- **Antes**: Kaelthas temporal → 6 temporales vs 6 dimensionales (equilibrio)
+- **Después**: Kaelthas dimensional → 5 temporales vs 6 dimensionales (después de muerte de Thyra)
+- **Resultado**: El desequilibrio inicial es ligero y parte del diseño
 
 ### **Mecánicas de Desbalance**
 - **Los PJ enfrentan** un desequilibrio desde el inicio

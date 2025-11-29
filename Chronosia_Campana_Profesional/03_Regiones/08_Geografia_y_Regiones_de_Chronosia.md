@@ -133,31 +133,27 @@ Cronosia es atacada periódicamente por grupos y asaltantes de distintas regione
 ## 📊 **RESUMEN ESTADÍSTICO**
 
 **⚠️ ESTADO INICIAL (Sesión 1-5):**
-- **Total Activo**: 11 (1 Líder Supremo + 8 Lugartenientes Principales + 3 Menores/Opcionales)
-- **Lugartenientes Principales Activos**: 8 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Lugartenientes Temporales (Principales)**: 3 (Serapis, Varrak, Vorthak)
-- **Lugartenientes Dimensionales (Principales)**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Lugartenientes Temporales (Menores)**: 2 (Medusa, Tempus)
-- **Lugartenientes Dimensionales (Menores)**: 1 (Ymir)
+- **Total Activo**: 10 (1 Líder Supremo + 10 Lugartenientes)
+- **Lugartenientes Activos**: 10 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Medusa, Tempus)
+- **Lugartenientes Temporales**: 5 (Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra - viva al inicio)
+- **Lugartenientes Dimensionales**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
 - **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - viva al inicio, asesinada por Edward Teach en Sesión 6)
 - **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Valle de la Aguja Suspendida, Glacialis, Cronópolis)
 - **Regiones Bloqueadas**: 7
 
 **⚠️ ESTADO POST-ASESINATO DE THYRA (Sesión 6+):**
-- **Total Activo**: 10 (1 Líder Supremo + 8 Lugartenientes Principales + 3 Menores/Opcionales)
-- **Lugartenientes Principales Activos**: 8 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Lugartenientes Temporales (Principales)**: 3 (Serapis, Varrak, Vorthak)
-- **Lugartenientes Dimensionales (Principales)**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Lugartenientes Temporales (Menores)**: 2 (Medusa, Tempus)
-- **Lugartenientes Dimensionales (Menores)**: 1 (Ymir)
+- **Total Activo**: 9 (1 Líder Supremo + 9 Lugartenientes)
+- **Lugartenientes Activos**: 9 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Medusa, Tempus)
+- **Lugartenientes Temporales**: 4 (Serapis, Varrak, Vorthak, Medusa, Tempus)
+- **Lugartenientes Dimensionales**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
 - **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
-- **Regiones Activas**: 11 (1 caída, 10 explorables)
+- **Regiones Activas**: 10 (1 caída, 9 explorables)
 - **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis, Cronópolis)
 - **Regiones Bloqueadas**: 7
 
 **⚖️ Balance Crítico:**
-- **Temporales vs Dimensionales**: 3 vs 5 (desequilibrio hacia dimensional)
-- **Estrategia Recomendada**: Derrotar al menos 2 dimensionales antes de enfrentar más temporales
+- **Temporales vs Dimensionales**: 4 vs 5 (desequilibrio hacia dimensional)
+- **Estrategia Recomendada**: Derrotar al menos 1 dimensional antes de enfrentar más temporales para mantener equilibrio
 - **⚠️ MECÁNICAS DE DESBALANCE**: El desequilibrio afecta directamente a los PJ (ver sistema de niveles de desbalance)
 
 ---
@@ -227,7 +223,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 
 ### **🎯 Concepto Central**
 
-Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes principales compiten por el favor de Aethernus. Los PJ deben **mantener balance** entre derrotar temporales y dimensionales, o un dios prevalecerá causando catástrofe cósmica.
+Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes activos compiten por el favor de Aethernus. Los PJ deben **mantener balance** entre derrotar temporales y dimensionales, o un dios prevalecerá causando catástrofe cósmica.
 
 ### **⚔️ Tres Bandos:**
 - **⏰ Temporal**: Vorthak (Líder), Serapis
@@ -235,7 +231,7 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 8 lugartenientes 
 - **🏴‍☠️ Independientes**: Edward Teach, Dimensionalis
 - **🟡 Neutrales**: Varrak, Las Gemelas (deciden en Sesión 11)
 
-### **⚠️ Balance Crítico:** 3 Temporales vs 5 Dimensionales → Los PJ deben derrotar al menos 2 dimensionales antes de más temporales
+### **⚠️ Balance Crítico:** 4 Temporales vs 5 Dimensionales → Los PJ deben derrotar al menos 1 dimensional antes de más temporales para mantener equilibrio
 
 ---
 
@@ -514,7 +510,7 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 ## 📝 **NOTAS DE DESARROLLO**
 
 ### **✅ Completado:**
-- Distribución de 8 lugartenientes principales + 3 menores/opcionales + 1 caída
+- Distribución de 11 lugartenientes activos + 1 caída
 - Sistema de "La Ascensión del Cónclave" simplificado con 3 bandos
 - Varrak el Oráculo como personaje neutral con sistema de elección
 - Edward Teach reposicionado como nivel 11-13 (refleja poder robado de Thyra)

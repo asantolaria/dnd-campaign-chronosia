@@ -19,19 +19,17 @@
 
 Estas regiones están dominadas por lugartenientes que controlan aspectos específicos del tiempo. Los jugadores deben enfrentar a estos lugartenientes manteniendo el equilibrio con las regiones dimensionales.
 
-**⚠️ ESTADO ACTUAL:** Thyra la Suspendida está **VIVA** al inicio de la campaña (Sesión 1-5) y se bloquea permanentemente tras ser asesinada por Edward Teach (Sesión 6). Quedan **3 lugartenientes temporales principales activos** en la competencia por el favor de Aethernus.
+**⚠️ ESTADO ACTUAL:** Thyra la Suspendida está **VIVA** al inicio de la campaña (Sesión 1-5) y se bloquea permanentemente tras ser asesinada por Edward Teach (Sesión 6). Quedan **4 lugartenientes temporales activos** en la competencia por el favor de Aethernus.
 
 **⚠️ MECÁNICA CRÍTICA:** Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
 
-**👑 LUGARTENIENTES PRINCIPALES (4 inicialmente, 3 tras asesinato):**
+**👑 LUGARTENIENTES TEMPORALES (5 inicialmente, 4 tras asesinato):**
 - Serapis el Retroceso
 - Varrak del Horizonte
 - Lord Vorthak "El Sediento Eterno"
-- Thyra la Suspendida (VIVA Sesión 1-5, MUERTA Sesión 6+)
-
-**🎭 LUGARTENIENTES MENORES/OPCIONALES (2):**
 - Medusa la Eterna
 - Tempus el Fragmentado
+- Thyra la Suspendida (VIVA Sesión 1-5, MUERTA Sesión 6+)
 
 **⚰️ LUGARTENIENTES CAÍDOS (1):**
 - Thyra la Suspendida (asesinada por Edward Teach en Sesión 5-6)

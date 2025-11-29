@@ -1,5 +1,5 @@
 # ⚙️ Tempus el Fragmentado
-## *Lugarteniente Temporal - Constructo Temporal - Menor*
+## *Lugarteniente Temporal - Constructo Temporal*
 
 ---
 
@@ -7,10 +7,10 @@
 
 - **Raza:** Constructo Temporal
 - **Tipo:** Temporal (Poder de Amaunator)
-- **Rol:** Menor/Opcional
+- **Rol:** Lugarteniente Temporal
 - **Región:** Las Ruinas del Tiempo Perdido
 - **Nivel Recomendado:** 10-12
-- **Bando:** Menor (no participa activamente en La Ascensión del Cónclave)
+- **Bando:** Variable (puede aliarse o actuar independientemente según decisiones)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere Arena del Tiempo o derrotar 3+ lugartenientes temporales)
 
 ---

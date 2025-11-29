@@ -19,19 +19,16 @@
 
 Estas regiones están dominadas por lugartenientes que controlan aspectos específicos del espacio. Los jugadores deben enfrentar a estos lugartenientes manteniendo el equilibrio con las regiones temporales.
 
-**⚠️ ESTADO ACTUAL:** Edward Teach está **BLOQUEADO** al inicio de la campaña (Sesión 1-5) y se desbloquea tras asesinar a Thyra (Sesión 6). Los **5 lugartenientes dimensionales principales** están activos en la competencia por el favor de Aethernus, además del lugarteniente opcional Ymir.
+**⚠️ ESTADO ACTUAL:** Edward Teach está **BLOQUEADO** al inicio de la campaña (Sesión 1-5) y se desbloquea tras asesinar a Thyra (Sesión 6). Los **5 lugartenientes dimensionales** están activos en la competencia por el favor de Aethernus.
 
 **⚠️ MECÁNICA CRÍTICA:** Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
 
-**👑 LUGARTENIENTES PRINCIPALES (5):**
+**👑 LUGARTENIENTES DIMENSIONALES (5):**
 - Edward Teach "Barbanegra" (Independiente - BLOQUEADO Sesión 1-5, DESBLOQUEADO Sesión 6+)
 - Dimensionalis la Fracturada (Independiente)
 - Ignis el Devorador Espacial (Líder del Bando Dimensional)
 - Matrona Veldrisza "La Tejedora Dimensional" (Bando Dimensional)
 - Las Gemelas del Espejo - Lyra y Nyx (Neutrales hasta Sesión 11)
-
-**🎭 LUGARTENIENTES MENORES/OPCIONALES (1):**
-- Ymir el Eterno Invierno
 
 **📖 Ver documento completo de la competencia:** [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
 

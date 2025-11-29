@@ -166,9 +166,10 @@
 #### **👑 LIDERAZGO SUPREMO**
 - **Aethernus Valcarys** (Manshoon Clone #47) - Líder Supremo del Cónclave
 
-#### **👑 LUGARTENIENTES DEL CÓNCLAVE (12)**
-- **6 Lugartenientes Temporales** - Maestros de distorsiones temporales
-- **6 Lugartenientes Dimensionales** - Maestros de distorsiones espaciales
+#### **👑 LUGARTENIENTES DEL CÓNCLAVE (10 total, 9 activos)**
+- **5 Lugartenientes Temporales** (4 activos + 1 caído) - Maestros de distorsiones temporales
+- **5 Lugartenientes Dimensionales** (5 activos) - Maestros de distorsiones espaciales
+- **1 Caído**: Thyra la Suspendida (asesinada por Edward Teach)
 
 #### **🎖️ OFICIALES CRONÓFAGOS**
 - **Oficiales Temporales** - Comandantes del Tiempo
@@ -280,7 +281,7 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 
 Un consejo originalmente de doce seres de distintas razas, cada uno deformado por su exposición al poder de los dioses en conflicto. Seis recibieron fragmentos del poder temporal de Amaunator, mientras que otros seis absorbieron fragmentos del poder espacial de Voidar.
 
-**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **8 lugartenientes principales activos** en la campaña, compitiendo por el favor de Aethernus en **"La Ascensión del Cónclave"**.
+**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **9 lugartenientes activos** en la campaña, compitiendo por el favor de Aethernus en **"La Ascensión del Cónclave"**.
 
 **📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
 
@@ -329,35 +330,35 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 ### **📈 RESUMEN ESTADÍSTICO**
 
 **⚠️ ESTADO POST-ASESINATO DE THYRA:**
-- **Total Activo**: 9 (1 Líder + 8 Lugartenientes Principales)
-- **Lugartenientes Temporales Activos**: 3 (Serapis, Vorthak, Varrak)
+- **Total Activo**: 9 (1 Líder + 9 Lugartenientes)
+- **Lugartenientes Temporales Activos**: 4 (Serapis, Vorthak, Varrak, Medusa, Tempus)
 - **Lugartenientes Dimensionales Activos**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
 - **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
-- **Razas Representadas**: 8 diferentes
-- **Regiones Activas**: 8
-- **Regiones Desbloqueadas**: 2-3 (25-37%)
-- **Regiones Bloqueadas**: 6 (75%)
-- **Valle de la Aguja Suspendida**: ✅ Restaurado a la normalidad tras la muerte de Thyra
+- **Razas Representadas**: 9 diferentes
+- **Regiones Activas**: 10 (1 caída, 9 explorables)
+- **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis, Cronópolis)
+- **Regiones Bloqueadas**: 7
+- **Valle de la Aguja Suspendida**: ⚰️ Bloqueada permanentemente tras la muerte de Thyra
 
 **👑 LA ASCENSIÓN DEL CÓNCLAVE:**
 
-El asesinato de Thyra desencadenó la competencia entre lugartenientes. Ver documento completo: [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
+El asesinato de Thyra desencadenó la competencia entre lugartenientes. Todos los lugartenientes participan activamente en la lucha por el poder. Ver documento completo: [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
 
 **Bandos Activos:**
-- ⏰ **Bando Temporal** (2-3 miembros) - Liderado por Lord Vorthak
-- 🌌 **Bando Dimensional** (3 miembros) - Liderado por Ignis
-- 🏴‍☠️ **Independientes** (2 miembros) - Edward Teach, Dimensionalis
-- 🟡 **Neutrales** (1-2 miembros) - Varrak (hasta Sesión 11), Las Gemelas
+- ⏰ **Bando Temporal** (variable según alianzas) - Liderado por Lord Vorthak
+- 🌌 **Bando Dimensional** (variable según alianzas) - Liderado por Ignis
+- 🏴‍☠️ **Independientes** (variable según alianzas) - Edward Teach, Dimensionalis, otros
+- 🟡 **Neutrales** (variable según decisiones) - Varrak (hasta Sesión 11), Las Gemelas, otros
 
 **⚠️ MECÁNICA CRÍTICA DE BALANCE:** 
 
-Los PJ deben mantener balance entre poderes temporales y dimensionales. El desequilibrio actual (3 temporales vs 5 dimensionales post-Thyra) ya favorece lo dimensional. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer, provocando catástrofe cósmica.
+Los PJ deben mantener balance entre poderes temporales y dimensionales. El desequilibrio actual (4 temporales vs 5 dimensionales post-Thyra) favorece lo dimensional. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer, provocando catástrofe cósmica.
 
 **⚠️ ACCIÓN ESPECIAL - SACRIFICIO DE VARRAK:**
 
 Si el balance alcanza **desbalance crítico (diferencia de 4+)**, Varrak del Horizonte (probablemente aliado de los PJ) tomará la decisión de quitarse la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Este sacrificio restaurará el balance y estabilizará Chronosia, pero los PJ perderán un aliado poderoso. Ver [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) para detalles completos.
 
-**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio y evitar el sacrificio de Varrak.
+**Estrategia Recomendada:** Derrotar al menos 1 dimensional antes de enfrentar más temporales para mantener equilibrio y evitar el sacrificio de Varrak.
 
 ---
 

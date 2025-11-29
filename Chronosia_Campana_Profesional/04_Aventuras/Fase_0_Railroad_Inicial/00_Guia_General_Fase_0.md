@@ -173,7 +173,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 - Pueden encontrar a otros lugartenientes de lejos
 
 **Regiones Accesibles (Primeras 3 Desbloqueadas):**
-- **Glacialis** (Ymir - Dimensional Menor) - Nivel 5-7
+- **Glacialis** (Ymir - Dimensional) - Nivel 5-7
 - **La Espiral del Reloj de Arena** (Serapis - Temporal Principal) - Nivel 5-7
 - **Valle de la Aguja Suspendida** (Thyra - Temporal Caído) - Nivel 6-8
 
