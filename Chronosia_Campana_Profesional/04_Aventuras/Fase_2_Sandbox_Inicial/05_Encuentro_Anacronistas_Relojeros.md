@@ -7,7 +7,7 @@
 > - [← Volver a Fase 2](./00_Guia_General_Fase_2.md)
 > - [Sesión 8: Primera Sospecha](./02_Sesion_8_Primera_Sospecha.md)
 > - [Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)
-> - [La Resistencia](../../02_Guia_DM/02_Facciones/02_Relojeros_Negros.md)
+> - [La Resistencia](../../02_Guia_DM/02_Facciones/02_La_Resistencia.md)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)
 
 ---
@@ -342,7 +342,7 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 ## 🔗 **REFERENCIAS**
 
 - **[Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)** - Información sobre Zephyr y los Anacronistas
-- **[La Resistencia](../../02_Guia_DM/02_Facciones/02_Relojeros_Negros.md)** - Información sobre Balthar y La Resistencia
+- **[La Resistencia](../../02_Guia_DM/02_Facciones/02_La_Resistencia.md)** - Información sobre Balthar y La Resistencia
 - **[Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timing del ritual
 - **[Tablas de Tracking](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** - Progresión del ritual
 - **[Sesión 8: Primera Sospecha](./02_Sesion_8_Primera_Sospecha.md)** - Contexto de la sesión

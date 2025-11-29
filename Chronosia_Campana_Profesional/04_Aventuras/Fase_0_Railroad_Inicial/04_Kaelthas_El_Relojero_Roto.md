@@ -1,10 +1,10 @@
 # ⚙️ Kaelthas el Relojero Roto
-## *Lugarteniente Menor - El Infiltrado del Material Plane*
+## *Lugarteniente - El Infiltrado del Material Plane*
 
 ---
 
 > **⚠️ PROPÓSITO:**
-> Kaelthas es el lugarteniente menor responsable del asesinato en Waterdeep (Sesión 1). Su derrota lleva a los PJ a conocer a los Anacronistas y viajar a Chronosia.
+> Kaelthas es el lugarteniente responsable del asesinato en Waterdeep (Sesión 1). Su derrota lleva a los PJ a conocer a los Anacronistas y viajar a Chronosia.
 
 ---
 
@@ -31,7 +31,7 @@
 
 ### **El Infiltrado de Waterdeep**
 
-**Kaelthas el Relojero Roto** es un lugarteniente menor de Aethernus asignado a operar en el **Material Plane**, específicamente en Waterdeep. Su misión: **eliminar a todos los maestros relojeros que puedan descubrir la existencia de Chronosia** y cazar a los Anacronistas que se esconden en la ciudad.
+**Kaelthas el Relojero Roto** es un lugarteniente de Aethernus asignado a operar en el **Material Plane**, específicamente en Waterdeep. Su misión: **eliminar a todos los maestros relojeros que puedan descubrir la existencia de Chronosia** y cazar a los Anacronistas que se esconden en la ciudad.
 
 **Apariencia:**
 - Humano corrompido, 45 años (pero parece 60 por las distorsiones temporales)
@@ -66,7 +66,7 @@ Manshoon le ofreció un trato: poder sobre el tiempo a cambio de servicio. Kaelt
 ### **Su Motivación Actual**
 
 **Lo Que Quiere:**
-- Ascender a lugarteniente principal (cree que asesinando suficientes relojeros lo logrará)
+- Ascender en la jerarquía (cree que asesinando suficientes relojeros lo logrará)
 - Vengarse de su antigua humanidad (odia lo que fue)
 - Encontrar una forma de "arreglar" su cuerpo temporal fragmentado
 
@@ -334,14 +334,14 @@ KAELTHAS (susurrando):
 *"Thaddeus fue mi amigo... pero eso fue hace mucho tiempo. Ahora solo es un obstáculo."*
 
 **Defecto:**
-*"Creo que Aethernus me elevará a lugarteniente principal si mato suficientes relojeros. Estoy equivocado."*
+*"Creo que Aethernus me elevará en la jerarquía si mato suficientes relojeros. Estoy equivocado."*
 
 ---
 
 ## 🔗 **CONEXIÓN CON OTROS LUGARTENIENTES**
 
 ### **Relación con Aethernus:**
-- **Status:** Lugarteniente MENOR (el más bajo de la jerarquía)
+- **Status:** Lugarteniente (derrotado en Sesión 3)
 - **Opinión de Manshoon:** "Útil para tareas en el Material Plane, pero prescindible"
 - **Futuro:** Manshoon probablemente lo reemplazará pronto (Kaelthas no lo sabe)
 

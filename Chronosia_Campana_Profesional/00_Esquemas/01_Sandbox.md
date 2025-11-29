@@ -81,9 +81,9 @@ flowchart LR
 ### **⚖️ Sistema de Balance Crítico**
 
 **Balance Inicial (Después de la muerte de Thyra):**
-- **Temporales:** 4 (Serapis, Varrak, Vorthak, Medusa, Tempus)
-- **Dimensionales:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Ya hay desequilibrio** favorable a lo dimensional (4 vs 5)
+- **Temporales:** 5 (Serapis, Varrak, Vorthak, Medusa, Tempus)
+- **Dimensionales:** 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
+- **Ya hay desequilibrio** favorable a lo dimensional (5 vs 6)
 
 **Cálculo del Desbalance:**
 - **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**

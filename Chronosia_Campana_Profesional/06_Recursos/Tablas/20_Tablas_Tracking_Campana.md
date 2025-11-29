@@ -206,12 +206,12 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 |------------|-----------|------------------|-----------------|----------------------|-----------|
 | **1** | | 3 | 3 | Inicio de campaña | |
 | **2** | | 3 | 4 | Investigación completa | |
-| **3** | | 4 | 5 | Primer lugarteniente menor | |
+| **3** | | 4 | 5 | Primer lugarteniente | |
 | **4-5** | | 5 | 6 | Eventos de robos (XP narrativo) | |
 | **6** | | 6 | 7 | Reacción Espontánea | |
 | **7** | | 7 | 8 | Derrotar 1-2 lugartenientes | |
 | **8** | | 8 | 9 | Derrotar 1-2 lugartenientes | |
-| **9** | | 9 | 10 | Derrotar 1 lugarteniente principal | |
+| **9** | | 9 | 10 | Derrotar 1 lugarteniente | |
 | **10** | | 10 | 11 | Revelaciones + 1 lugarteniente | |
 | **11** | | 11 | 12 | Evento de Varrak + 1 lugarteniente | |
 | **12** | | 12 | 13 | Derrotar 1-2 lugartenientes | |

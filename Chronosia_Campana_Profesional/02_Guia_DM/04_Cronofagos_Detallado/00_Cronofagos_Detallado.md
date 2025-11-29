@@ -97,12 +97,10 @@
 
 ### **📊 RESUMEN ESTADÍSTICO**
 
-- **Lugartenientes Principales Activos:** 8
-  - Temporales: 3 (Serapis, Varrak, Vorthak)
-  - Dimensionales: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Lugartenientes Menores:** 3
-  - Temporales: 2 (Medusa, Tempus)
-  - Dimensionales: 1 (Ymir)
+- **Lugartenientes Activos (Post-Thyra):** 11
+  - Temporales: 5 (Serapis, Varrak, Vorthak, Medusa, Tempus)
+  - Dimensionales: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
+- **Lugartenientes Caídos:** 1 (Thyra la Suspendida)
 - **Líder Supremo:** 1 (Aethernus Valcarys)
 - **Total:** 12 lugartenientes + 1 líder supremo
 
@@ -166,9 +164,9 @@
 #### **👑 LIDERAZGO SUPREMO**
 - **Aethernus Valcarys** (Manshoon Clone #47) - Líder Supremo del Cónclave
 
-#### **👑 LUGARTENIENTES DEL CÓNCLAVE (10 total, 9 activos)**
-- **5 Lugartenientes Temporales** (4 activos + 1 caído) - Maestros de distorsiones temporales
-- **5 Lugartenientes Dimensionales** (5 activos) - Maestros de distorsiones espaciales
+#### **👑 LUGARTENIENTES DEL CÓNCLAVE (12 total, 11 activos)**
+- **6 Lugartenientes Temporales** (5 activos + 1 caído) - Maestros de distorsiones temporales
+- **6 Lugartenientes Dimensionales** (6 activos) - Maestros de distorsiones espaciales
 - **1 Caído**: Thyra la Suspendida (asesinada por Edward Teach)
 
 #### **🎖️ OFICIALES CRONÓFAGOS**
@@ -257,7 +255,7 @@ Los lugartenientes del Cónclave premian a sus súbditos con fragmentos del pode
 - **Conocimiento Dimensional**: Secretos sobre la manipulación del espacio
 
 #### **⚔️ Recompensas Generales:**
-- **Ascenso de Rango**: Oportunidad de convertirse en lugarteniente menor
+- **Ascenso de Rango**: Oportunidad de convertirse en lugarteniente
 - **Poder Combinado**: Algunos súbditos reciben fragmentos de ambos dioses
 - **Inmortalidad Parcial**: Extensión de vida a través del poder divino
 - **Poderes Únicos**: Capacidades específicas según su especialización
@@ -281,7 +279,7 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 
 Un consejo originalmente de doce seres de distintas razas, cada uno deformado por su exposición al poder de los dioses en conflicto. Seis recibieron fragmentos del poder temporal de Amaunator, mientras que otros seis absorbieron fragmentos del poder espacial de Voidar.
 
-**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **9 lugartenientes activos** en la campaña, compitiendo por el favor de Aethernus en **"La Ascensión del Cónclave"**.
+**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **11 lugartenientes activos** en la campaña, compitiendo por el favor de Aethernus en **"La Ascensión del Cónclave"**.
 
 **📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
 
@@ -330,9 +328,9 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 ### **📈 RESUMEN ESTADÍSTICO**
 
 **⚠️ ESTADO POST-ASESINATO DE THYRA:**
-- **Total Activo**: 9 (1 Líder + 9 Lugartenientes)
-- **Lugartenientes Temporales Activos**: 4 (Serapis, Vorthak, Varrak, Medusa, Tempus)
-- **Lugartenientes Dimensionales Activos**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Total Activo**: 11 (1 Líder + 11 Lugartenientes)
+- **Lugartenientes Temporales Activos**: 5 (Serapis, Vorthak, Varrak, Medusa, Tempus)
+- **Lugartenientes Dimensionales Activos**: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
 - **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
 - **Razas Representadas**: 9 diferentes
 - **Regiones Activas**: 10 (1 caída, 9 explorables)
@@ -352,7 +350,7 @@ El asesinato de Thyra desencadenó la competencia entre lugartenientes. Todos lo
 
 **⚠️ MECÁNICA CRÍTICA DE BALANCE:** 
 
-Los PJ deben mantener balance entre poderes temporales y dimensionales. El desequilibrio actual (4 temporales vs 5 dimensionales post-Thyra) favorece lo dimensional. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer, provocando catástrofe cósmica.
+Los PJ deben mantener balance entre poderes temporales y dimensionales. El desequilibrio actual (5 temporales vs 6 dimensionales post-Thyra) favorece lo dimensional. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer, provocando catástrofe cósmica.
 
 **⚠️ ACCIÓN ESPECIAL - SACRIFICIO DE VARRAK:**
 

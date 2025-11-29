@@ -61,7 +61,7 @@ A partir de la llegada a Chronosia, los PJ pueden:
 
 **📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
 
-Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó una competencia entre los 9 lugartenientes activos (4 temporales vs 5 dimensionales) por convertirse en su mano derecha. Esto crea dinámicas únicas:
+Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó una competencia entre los 11 lugartenientes activos (5 temporales vs 6 dimensionales) por convertirse en su mano derecha. Esto crea dinámicas únicas:
 
 - **Alianzas entre Lugartenientes**: Pueden formar coaliciones temporales
 - **Traiciones**: Pueden atacarse entre sí por puntos de ascensión
@@ -137,11 +137,11 @@ Un valle completamente congelado en estasis temporal. Los ríos de hielo están 
 
 ---
 
-## 🔄 **LA ESPIRAL INVERSA (SERAPIS - PRINCIPAL)**
+## 🔄 **LA ESPIRAL INVERSA (SERAPIS)**
 
 ### **Serapis el Retroceso - Reversión Temporal**
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - Bando Temporal: "Los Sedientos de Tiempo"
+**🎖️ LUGARTENIENTE ACTIVO** - Bando Temporal: "Los Sedientos de Tiempo"
 
 #### **🎯 Objetivos**
 - **Principal**: Derrotar a **Serapis el Retroceso** y detener los efectos de **Reversión Temporal**
@@ -171,7 +171,7 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 
 ### **Varrak del Horizonte - Fragmentación Temporal / Oráculo Neutral**
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - 🟡 **Neutral hasta Sesión 11**
+**🎖️ LUGARTENIENTE ACTIVO** - 🟡 **Neutral hasta Sesión 11**
 
 **⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md) para su sistema completo.
 
@@ -208,7 +208,7 @@ Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas
 
 ### **Lord Vorthak "El Sediento Eterno" - Drenaje de Vida Temporal**
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - ⏰ **Líder del Bando Temporal**
+**🎖️ LUGARTENIENTE ACTIVO** - ⏰ **Líder del Bando Temporal**
 
 #### **🎯 Objetivos**
 - **Principal**: Derrotar a **Lord Vorthak** y liberar su mansión del drenaje temporal
@@ -292,7 +292,7 @@ Las ruinas de una antigua ciudad que existe en múltiples momentos temporales si
 
 ### **Edward Teach "Barbanegra" - Portales + Poder Robado (Thyra)**
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - 🏴‍☠️ **Independiente**
+**🎖️ LUGARTENIENTE ACTIVO** - 🏴‍☠️ **Independiente**
 
 **⚠️ ASESINO DE THYRA:** Ha robado los poderes de estasis temporal y es un **punto ciego para Varrak**
 
@@ -322,7 +322,7 @@ Un archipiélago de islas piratas dispersas en el Mar Occidental. Las islas est�
 
 ### **Dimensionalis la Fracturada - Compresión Espacial / Fractura Dimensional**
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - 🏴‍☠️ **Independiente**
+**🎖️ LUGARTENIENTE ACTIVO** - 🏴‍☠️ **Independiente**
 
 #### **🎯 Objetivos**
 - **Principal**: Derrotar a **Dimensionalis la Fracturada** y estabilizar el espacio comprimido
@@ -349,7 +349,7 @@ Vastas llanuras donde el espacio se ha comprimido hasta límites imposibles. Las
 
 ### **Ignis el Devorador Espacial - Portales de Fuego Dimensional**
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - 🌌 **Líder del Bando Dimensional**
+**🎖️ LUGARTENIENTE ACTIVO** - 🌌 **Líder del Bando Dimensional**
 
 #### **🎯 Objetivos**
 - **Principal**: Derrotar a **Ignis el Devorador Espacial** y cerrar los portales de fuego
@@ -376,7 +376,7 @@ Una región volcánica devastada donde el espacio se ha fracturado, creando cald
 
 ### **Matrona Veldrisza "La Tejedora Dimensional" - Redes Espaciales**
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - 🌌 **Bando Dimensional** (Aliada de Ignis)
+**🎖️ LUGARTENIENTE ACTIVO** - 🌌 **Bando Dimensional** (Aliada de Ignis)
 
 #### **🎯 Objetivos**
 - **Principal**: Derrotar a **Matrona Veldrisza** y cerrar los portales a Menzoberranzan
@@ -403,7 +403,7 @@ Una ciudad subterránea drow construida en cavernas que se extienden a través d
 
 ### **Las Gemelas del Espejo - Lyra y Nyx - Dimensión Espejo**
 
-**🎖️ LUGARTENIENTES PRINCIPALES ACTIVAS** - 🟡 **Neutrales hasta Sesión 11**
+**🎖️ LUGARTENIENTES ACTIVAS** - 🟡 **Neutrales hasta Sesión 11**
 
 **⚠️ NOTA:** Esta región puede ser compartida con **Medusa la Eterna** (Temporal). El DM decide si ambos lugartenientes coexisten o solo uno controla la región.
 

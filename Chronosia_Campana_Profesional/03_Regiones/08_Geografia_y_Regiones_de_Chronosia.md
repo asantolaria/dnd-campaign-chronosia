@@ -46,7 +46,7 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 - **Clima**: Eterno invierno con temperaturas bajo cero
 - **Características**: Montañas de hielo, glaciares eternos, auroras boreales temporales
 - **Distorsión Principal**: Congelación temporal y manipulación espacial a través del hielo
-- **Lugarteniente**: Ymir el Eterno Invierno (Menor/Opcional)
+- **Lugarteniente**: Ymir el Eterno Invierno
 - **Población**: Aldea de Hielo Eterno - Población congelada en estasis temporal
 - **Acceso**: 🔓 **Desbloqueada** desde el inicio
 
@@ -88,7 +88,7 @@ Cronosia es atacada periódicamente por grupos y asaltantes de distintas regione
 - **Clima**: Calor extremo con erupciones volcánicas constantes
 - **Características**: Volcanes activos, ríos de lava, cenizas eternas
 - **Distorsión Principal**: Portales dimensionales de fuego y manipulación espacial
-- **Lugarteniente**: Ignis el Devorador Espacial (Principal/Líder Dimensional)
+- **Lugarteniente**: Ignis el Devorador Espacial (Líder Dimensional)
 - **Población**: Ciudad de Fuego Eterno - Población atrapada en portales dimensionales
 - **Acceso**: 🔒 **Bloqueada** - Accesible pero extremadamente peligrosa (CR 15+)
 
@@ -115,12 +115,12 @@ Cronosia es atacada periódicamente por grupos y asaltantes de distintas regione
 | 1     | **Serapis el Retroceso**              | Elfo Eterno           | Temporal    | La Espiral del Reloj de Arena      | 5-7       | 🔓        | Accesible desde el inicio                                | Temporal          |
 | 2     | **Ymir el Eterno Invierno**           | Elemental de Hielo    | Dimensional | Glacialis                          | 5-7       | 🔓        | Accesible desde el inicio                                | Menor             |
 | 3     | **Varrak el Oráculo**                 | Orco                  | Temporal    | El Oráculo de los Posibles         | 7-9       | 🔒        | Derrotar 1+ lugarteniente                                | Neutral           |
-| 4     | **Medusa la Eterna**                  | Medusa Ancestral      | Temporal    | El Jardín de los Tiempos Gemelos   | 8-9       | 🔒        | Derrotar 2+ lugartenientes                               | Menor             |
+| 4     | **Medusa la Eterna**                  | Medusa Ancestral      | Temporal    | El Jardín de los Tiempos Gemelos   | 8-9       | 🔒        | Derrotar 2+ lugartenientes                               | Temporal          |
 | 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 9-11      | 🔒        | Derrotar 2+ lugartenientes + Espejo de Realidad (Gemelas o quest) | Neutral   |
 | 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-11      | 🔒        | Espejo de Realidad Fragmentada (de Gemelas) O derrotar Ignis | Independiente |
 | 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | El Valle de los Castillos Malditos | 10-12     | 🔒        | Derrotar 3+ lugartenientes                               | Líder Temporal    |
 | 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Dimensional | Archipiélago de Barbanegra         | 11-13     | 🔒→🔓     | Bloqueado al inicio → Desbloqueado tras asesinar a Thyra (Sesión 6) | Independiente     |
-| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 10-12     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales | Menor             |
+| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 10-12     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales | Temporal          |
 | 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 11-13     | 🔒        | Edward Teach O Artefacto Gnomo O Varrak                  | Dimensional       |
 | 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Las Calderas Dimensionales         | 13-15     | 🔒        | Accesible desde inicio pero extremadamente peligrosa     | Líder Dimensional |
 
@@ -133,26 +133,26 @@ Cronosia es atacada periódicamente por grupos y asaltantes de distintas regione
 ## 📊 **RESUMEN ESTADÍSTICO**
 
 **⚠️ ESTADO INICIAL (Sesión 1-5):**
-- **Total Activo**: 10 (1 Líder Supremo + 10 Lugartenientes)
-- **Lugartenientes Activos**: 10 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Medusa, Tempus)
-- **Lugartenientes Temporales**: 5 (Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra - viva al inicio)
-- **Lugartenientes Dimensionales**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - viva al inicio, asesinada por Edward Teach en Sesión 6)
+- **Total Activo**: 12 (1 Líder Supremo + 12 Lugartenientes)
+- **Lugartenientes Activos**: 12 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Medusa, Tempus, Thyra, Ymir)
+- **Lugartenientes Temporales**: 6 (Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra - viva al inicio)
+- **Lugartenientes Dimensionales**: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
+- **Lugartenientes Caídos**: 0
 - **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Valle de la Aguja Suspendida, Glacialis, Cronópolis)
 - **Regiones Bloqueadas**: 7
 
 **⚠️ ESTADO POST-ASESINATO DE THYRA (Sesión 6+):**
-- **Total Activo**: 9 (1 Líder Supremo + 9 Lugartenientes)
-- **Lugartenientes Activos**: 9 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Medusa, Tempus)
-- **Lugartenientes Temporales**: 4 (Serapis, Varrak, Vorthak, Medusa, Tempus)
-- **Lugartenientes Dimensionales**: 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
+- **Total Activo**: 11 (1 Líder Supremo + 11 Lugartenientes)
+- **Lugartenientes Activos**: 11 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Medusa, Tempus, Ymir)
+- **Lugartenientes Temporales**: 5 (Serapis, Varrak, Vorthak, Medusa, Tempus)
+- **Lugartenientes Dimensionales**: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
 - **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
-- **Regiones Activas**: 10 (1 caída, 9 explorables)
+- **Regiones Activas**: 12 (1 caída, 11 explorables)
 - **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis, Cronópolis)
 - **Regiones Bloqueadas**: 7
 
 **⚖️ Balance Crítico:**
-- **Temporales vs Dimensionales**: 4 vs 5 (desequilibrio hacia dimensional)
+- **Temporales vs Dimensionales**: 5 vs 6 (desequilibrio hacia dimensional)
 - **Estrategia Recomendada**: Derrotar al menos 1 dimensional antes de enfrentar más temporales para mantener equilibrio
 - **⚠️ MECÁNICAS DE DESBALANCE**: El desequilibrio afecta directamente a los PJ (ver sistema de niveles de desbalance)
 
@@ -231,7 +231,7 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 - **🏴‍☠️ Independientes**: Edward Teach, Dimensionalis
 - **🟡 Neutrales**: Varrak, Las Gemelas (deciden en Sesión 11)
 
-### **⚠️ Balance Crítico:** 4 Temporales vs 5 Dimensionales → Los PJ deben derrotar al menos 1 dimensional antes de más temporales para mantener equilibrio
+### **⚠️ Balance Crítico:** 5 Temporales vs 6 Dimensionales → Los PJ deben derrotar al menos 1 dimensional antes de más temporales para mantener equilibrio
 
 ---
 

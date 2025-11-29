@@ -24,7 +24,7 @@
 
 ### **Objetivos Principales:**
 - ✅ Primera exploración de una región de Chronosia
-- ✅ Primer encuentro con un lugarteniente menor
+- ✅ Primer encuentro con un lugarteniente
 - ✅ Aprender sobre distorsiones temporales/dimensionales
 - ✅ Establecer el patrón de exploración para futuras sesiones
 
@@ -178,7 +178,7 @@ Si los PJ preguntan o investigan, pueden escuchar:
 ## 🎁 **RECOMPENSAS**
 
 ### **Recompensas Estándar:**
-- XP por derrotar lugarteniente menor
+- XP por derrotar lugarteniente
 - Tesoros del lugarteniente
 - Información sobre otras regiones
 - Artefactos menores (si aplica)

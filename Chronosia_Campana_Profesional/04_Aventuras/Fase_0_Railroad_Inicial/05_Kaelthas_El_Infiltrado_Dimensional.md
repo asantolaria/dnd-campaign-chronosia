@@ -8,7 +8,7 @@
 **Nombre Completo**: Kaelthas el Infiltrado Dimensional  
 **Título**: El Relojero Corrompido  
 **Raza**: Humano (Gnomo Corrompido)  
-**Tipo**: Lugarteniente Menor Dimensional  
+**Tipo**: Lugarteniente Dimensional  
 **Nivel de Encuentro**: 3-5  
 **Región**: Waterdeep (Misión Inicial)  
 **Afiliación**: Cronófagos (Infiltrado)  

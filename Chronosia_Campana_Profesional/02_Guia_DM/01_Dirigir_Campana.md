@@ -25,13 +25,13 @@
 - **Clímax**: 13→15 (batalla contra Aethernus)
 
 ### **⚠️ IMPORTANTE - SISTEMA DE BALANCE CRÍTICO**
-La campaña tiene **10 lugartenientes activos** inicialmente (5 de cada tipo):
-- **5 Temporales**: Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra (viva al inicio)
-- **5 Dimensionales**: Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas
+La campaña tiene **12 lugartenientes activos** inicialmente (6 de cada tipo):
+- **6 Temporales**: Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra (viva al inicio)
+- **6 Dimensionales**: Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas, Ymir
 - **1 Caído**: Thyra (asesinada por Edward Teach en Sesión 6)
 
-**⚠️ BALANCE INICIAL**: 5 temporales vs 5 dimensionales = **Equilibrio**
-**⚠️ BALANCE POST-THYRA**: 4 temporales vs 5 dimensionales = **Desequilibrio hacia dimensional**
+**⚠️ BALANCE INICIAL**: 6 temporales vs 6 dimensionales = **Equilibrio**
+**⚠️ BALANCE POST-THYRA**: 5 temporales vs 6 dimensionales = **Desequilibrio hacia dimensional**
 
 **Ver tabla completa en:** [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
@@ -174,7 +174,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 ### **🎬 FASE 0: Sesiones 1-3 (Railroad Inicial)**
 - **Sesión 1**: Asesinato en Waterdeep, derrota de Kaelthas (Nivel 3)
 - **Sesión 2**: Llegada a Chronosia, establecimiento en Cronópolis (Nivel 3-4)
-- **Sesión 3**: Primera misión, encuentro con lugarteniente menor (Nivel 4-5)
+- **Sesión 3**: Primera misión, encuentro con lugarteniente (Nivel 4-5)
 - **📖 Timeline completo:** [00_Guia_General_Fase_0.md](../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md#-timeline-de-esta-fase)
 
 ### **🔥 FASE 1: Sesiones 4-6 (Robos y Traición)**

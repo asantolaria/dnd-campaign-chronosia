@@ -6,7 +6,7 @@
 > **📖 NAVEGACIÓN:**
 > - [← Volver al Índice](./00_Indice_Facciones.md)
 > - [Cronófagos](./01_Cronofagos.md)
-> - [La Resistencia](./02_Relojeros_Negros.md)
+> - [La Resistencia](./02_La_Resistencia.md)
 > - [Anacronistas](./03_Anacronistas.md)
 > - [Bregan D'aerthe](./04_Bregan_Daerthe.md)
 > - [Colonos del Archipiélago](./05_Colonos_Archipielago.md)
@@ -135,7 +135,7 @@ Los PJ descubren que los Colonos están organizando una resistencia secreta cont
 - **Desventajas**: Hostilidad hacia magos, métodos brutales
 - **Cuándo Aliarse**: Contra enemigos puramente mágicos, cuando necesiten tecnología específica
 - **⚠️ ADVERTENCIA**: Si hay magos en el grupo, La Resistencia los verán como objetivo
-- **📖 Documento completo:** [02_Relojeros_Negros.md](./02_Relojeros_Negros.md)
+- **📖 Documento completo:** [02_La_Resistencia.md](./02_La_Resistencia.md)
 
 ### **Con los Cronófagos**
 - **Ventajas**: Poder temporal y/o espacial, conocimiento de los secretos del Cónclave

@@ -70,7 +70,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 |------------|----------------------|-----------|---------------|
 | **1** | Asesinato en Waterdeep, derrota de Kaelthas | 3 | Waterdeep |
 | **2** | Llegada a Chronosia, establecimiento de base | 3-4 | Cronópolis |
-| **3** | Primera misión, encuentro con lugarteniente menor | 4-5 | Región elegida |
+| **3** | Primera misión, encuentro con lugarteniente | 4-5 | Región elegida |
 
 **Eventos Fijos:**
 - ✅ Sesión 1: Asesinato de Thaddeus, derrota de Kaelthas

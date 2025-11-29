@@ -19,11 +19,11 @@
 
 Estas regiones están dominadas por lugartenientes que controlan aspectos específicos del tiempo. Los jugadores deben enfrentar a estos lugartenientes manteniendo el equilibrio con las regiones dimensionales.
 
-**⚠️ ESTADO ACTUAL:** Thyra la Suspendida está **VIVA** al inicio de la campaña (Sesión 1-5) y se bloquea permanentemente tras ser asesinada por Edward Teach (Sesión 6). Quedan **4 lugartenientes temporales activos** en la competencia por el favor de Aethernus.
+**⚠️ ESTADO ACTUAL:** Thyra la Suspendida está **VIVA** al inicio de la campaña (Sesión 1-5) y se bloquea permanentemente tras ser asesinada por Edward Teach (Sesión 6). Quedan **5 lugartenientes temporales activos** en la competencia por el favor de Aethernus.
 
 **⚠️ MECÁNICA CRÍTICA:** Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
 
-**👑 LUGARTENIENTES TEMPORALES (5 inicialmente, 4 tras asesinato):**
+**👑 LUGARTENIENTES TEMPORALES (6 inicialmente, 5 tras asesinato):**
 - Serapis el Retroceso
 - Varrak del Horizonte
 - Lord Vorthak "El Sediento Eterno"
@@ -81,7 +81,7 @@ Edward Teach "Barbanegra" - Ver acciones legendarias actualizadas en [08_Cronofa
 
 **Ubicación**: Región montañosa del norte, entre los glaciares y las montañas
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
 
 **⚔️ SOLDADOS ÚNICOS:** Serapis entrena y otorga poderes de **Reversión Temporal** a sus soldados, llamados "Los Retrocedentes". Estos soldados pueden revertir heridas menores, repetir acciones fallidas, y usar armas regresivas. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
@@ -305,7 +305,7 @@ Si los PJ fallan los 4 intentos:
 
 **Ubicación**: Región central, zona salvaje de estilo oriental entre las llanuras templadas del norte y las regiones volcánicas del sur
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
 
 **⚠️ PERSONAJE ESPECIAL:** Varrak es el **Oráculo Neutral** que puede convertirse en aliado, siervo o mártir según las acciones de los PJ. Ver [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md) para su sistema completo.
 
@@ -414,7 +414,7 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 
 **Ubicación**: Región central, mansión gótica rodeada de niebla temporal
 
-**🎖️ LUGARTENIENTE PRINCIPAL ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
 
 **⚔️ LÍDER DEL BANDO TEMPORAL** - Comanda "Los Sedientos de Tiempo" en la competencia
 
@@ -468,7 +468,7 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 
 **Ubicación**: Región central, jardín petrificado con estatuas vivientes
 
-**🎭 LUGARTENIENTE MENOR/OPCIONAL** - No participa activamente en "La Ascensión del Cónclave"
+**🎭 LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
 
 **⚠️ NOTA:** Esta región también puede ser compartida con **Las Gemelas del Espejo** (Lugartenientes Dimensionales). El DM puede elegir si ambos lugartenientes coexisten o si solo uno controla la región.
 
@@ -518,7 +518,7 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 
 **Ubicación**: Región oriental, ruinas de una ciudad antigua
 
-**🎭 LUGARTENIENTE MENOR/OPCIONAL** - No participa activamente en "La Ascensión del Cónclave"
+**🎭 LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
 
 ### **Descripción Geográfica**
 Las ruinas de una antigua ciudad que existe en múltiples momentos temporales simultáneamente. Edificios que se construyen y destruyen en bucles eternos, calles que muestran diferentes épocas superpuestas, y un constructo de metal y cristal que pulsa con energía temporal en el centro. La ciudad parece estar atrapada en un ciclo infinito de creación y destrucción.

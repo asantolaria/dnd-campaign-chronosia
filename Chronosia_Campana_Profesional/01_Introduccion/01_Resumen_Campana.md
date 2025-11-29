@@ -9,7 +9,7 @@
 
 ## 📜 **RESUMEN EJECUTIVO**
 
-*Chronosia* es una campaña épica de D&D donde los PJ investigan un asesinato en Waterdeep que los lleva a un semiplano fracturado donde el tiempo y el espacio se han roto. Deben derrotar a los lugartenientes manteniendo el balance entre poderes temporales y dimensionales (5 vs 5 inicialmente, 4 vs 5 después de la muerte de Thyra), o provocarán una catástrofe cósmica.
+*Chronosia* es una campaña épica de D&D donde los PJ investigan un asesinato en Waterdeep que los lleva a un semiplano fracturado donde el tiempo y el espacio se han roto. Deben derrotar a los lugartenientes manteniendo el balance entre poderes temporales y dimensionales (6 vs 6 inicialmente, 5 vs 6 después de la muerte de Thyra), o provocarán una catástrofe cósmica.
 
 ---
 
@@ -23,10 +23,10 @@
 ### **El Villano Principal**
 - **Aethernus Valcarys** = Manshoon Clone #47
 - Ha capturado a dos dioses (Amaunator y Voidar) y roba su poder
-- Controla a los **Cronófagos** y a **10 lugartenientes** (5 de cada tipo inicialmente)
+- Controla a los **Cronófagos** y a **12 lugartenientes** (6 de cada tipo inicialmente)
 
 ### **La Mecánica Central**
-- **Balance Temporal/Dimensional**: 5 Temporales vs 5 Dimensionales (inicialmente) → 4 Temporales vs 5 Dimensionales (después de la muerte de Thyra)
+- **Balance Temporal/Dimensional**: 6 Temporales vs 6 Dimensionales (inicialmente) → 5 Temporales vs 6 Dimensionales (después de la muerte de Thyra)
 - Si los PJ matan demasiados de un tipo, provocan catástrofe cósmica
 - **La Ascensión del Cónclave**: Todos los lugartenientes compiten por el favor de Aethernus
 

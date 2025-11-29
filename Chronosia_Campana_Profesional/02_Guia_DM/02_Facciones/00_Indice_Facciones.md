@@ -26,7 +26,7 @@
 - **Filosofía**: Odian la magia en todas sus formas
 - **Actitud**: Neutrales, pueden ser aliados o enemigos
 - **Especialidad**: Tecnología anti-magia
-- **📖 Documento completo:** [02_Relojeros_Negros.md](./02_Relojeros_Negros.md)
+- **📖 Documento completo:** [02_La_Resistencia.md](./02_La_Resistencia.md)
 
 ---
 

@@ -34,7 +34,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 - **[03_Sesion_3_Primera_Mision.md](./03_Sesion_3_Primera_Mision.md)**
 - **Nivel:** 4-5
 - **Ubicación:** Región desbloqueada (elección del DM)
-- **Eventos:** Primera exploración, Encuentro con lugarteniente menor, Aprendizaje de distorsiones
+- **Eventos:** Primera exploración, Encuentro con lugarteniente, Aprendizaje de distorsiones
 
 ---
 
@@ -99,12 +99,12 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 - ✅ Festival del Reloj Astronómico en Waterdeep
 - ✅ **Kaelthas el Relojero Roto** asesina al Maestro Thaddeus Ironwright
 - ✅ Los PJ investigan el asesinato y rastrean a Kaelthas hasta su guarida
-- ✅ **COMBATE:** Los PJ derrotan a Kaelthas (Lugarteniente Menor, CR 6)
+- ✅ **COMBATE:** Los PJ derrotan a Kaelthas (Lugarteniente, CR 6)
 - ✅ **Distorsión temporal** al morir Kaelthas atrae a los Anacronistas
 - ✅ Primera mención de "Chronosia" y "Aethernus Valcarys"
 
 **NPCs Introducidos:**
-- **Kaelthas el Relojero Roto** (antagonista, lugarteniente menor)
+- **Kaelthas el Relojero Roto** (antagonista, lugarteniente)
 - Maestro Thaddeus Ironwright (víctima, mentor de los PJ)
 - **Zephyr** (líder de los Anacronistas/"La Resistencia")
 - **Tiber** (joven Anacronista rescatado de la guarida de Kaelthas)
@@ -164,7 +164,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 
 **Eventos Fijos:**
 - ✅ Los Anacronistas envían a los PJ a investigar actividad Cronófaga
-- ✅ Primer encuentro con un lugarteniente MENOR (Medusa, Tempus o Ymir)
+- ✅ Primer encuentro con un lugarteniente (Medusa, Tempus o Ymir)
 - ✅ Los PJ aprenden sobre las distorsiones temporales/dimensionales
 
 **Eventos Variables:**

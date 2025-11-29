@@ -30,8 +30,7 @@
 
 | **Evento** | **Descripción** | **Puntos Afectados** | **Notas** |
 |------------|-----------------|----------------------|-----------|
-| **Derrotar a un Lugarteniente Principal** | Los PJ matan a un lugarteniente de los 8 principales | **-15 pts** (muerto), **+2 pts** a los enemigos de ese bando | Balance temporal/dimensional afectado |
-| **Derrotar a un Lugarteniente Menor** | Los PJ matan a Medusa, Tempus o Ymir | **-10 pts** (muerto), **+1 pt** a los aliados supervivientes | Menos impacto en balance |
+| **Derrotar a un Lugarteniente** | Los PJ matan a un lugarteniente | **-15 pts** (muerto), **+2 pts** a los enemigos de ese bando | Balance temporal/dimensional afectado |
 | **Debilitar sin Matar** | Los PJ hieren gravemente a un lugarteniente pero no lo matan | **-3 pts** (herido), **+1 pt** al bando rival | Oportunidad para que otros ataquen |
 | **Interrumpir Ritual/Plan** | Los PJ frustran un plan importante de un lugarteniente | **-2 pts** (lugarteniente frustrado) | Sin muerte, solo vergüenza |
 | **Robar Artefacto/Tesoro** | Los PJ roban objeto importante de un lugarteniente | **-1 pt** (lugarteniente robado), puede desencadenar venganza | Aumenta tensión narrativa |
@@ -86,7 +85,7 @@
 | **Alianza Formal (2 Lugartenientes)** | Dos lugartenientes firman pacto de no agresión y apoyo mutuo | **+1 pt** cada uno | Hasta que uno traicione | Vorthak + Serapis ya aliados |
 | **Alianza de Bando Completo** | Todo un bando se unifica bajo un líder claro | **+2 pts** al líder, **+1 pt** a miembros | Permanente hasta traición | Ocurre en Sesión 11 |
 | **Traición de Alianza** | Un aliado traiciona a otro públicamente | **+3 pts** (traidor si sobrevive), **-2 pts** (traicionado) | Inmediato | Alto riesgo, alto beneficio |
-| **Subordinación Forzada** | Un lugarteniente fuerza a otro menor a servirle | **+2 pts** (dominante), **-1 pt** (subordinado) | Hasta liberación | Requiere gran diferencia de poder |
+| **Subordinación Forzada** | Un lugarteniente fuerza a otro a servirle | **+2 pts** (dominante), **-1 pt** (subordinado) | Hasta liberación | Requiere gran diferencia de poder |
 | **Deserción** | Un miembro abandona su bando para unirse a otro | **+1 pt** (nuevo bando), **-1 pt** (bando abandonado) | Permanente | Rarísimo, gran impacto narrativo |
 
 ### **🔮 Rituales y Poder Divino**
@@ -196,7 +195,7 @@
 | **Puntos** | **Evento Típico** |
 |------------|-------------------|
 | **-15** | Muerte Permanente |
-| **-10** | Muerte de Gemela (superviviente), Muerte de Lugarteniente Menor |
+| **-10** | Muerte de Gemela (superviviente) |
 | **-5** | Triple Agente Revelado (Dimensionalis), Fuga de un Dios, Intervención de Aethernus (castigo grave) |
 | **-4** | Duelo Perdido (huye herido) |
 | **-3** | Emboscada Recibida, Conquista Total Perdida, Ritual Divino Fallido, Crisis Cósmica, Intervención de Aethernus (castigo) |

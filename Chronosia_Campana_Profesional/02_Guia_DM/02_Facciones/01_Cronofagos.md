@@ -14,7 +14,7 @@
 Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organización jerárquica compleja que combina disciplina militar con poderes sobrenaturales para mantener el control sobre el tiempo y el espacio fracturados.
 
 **🎯 Líder Supremo**: Aethernus Valcarys (Manshoon Clone #47)  
-**👑 Lugartenientes**: Originalmente 12, actualmente 8 principales activos + 3 menores + 1 caída  
+**👑 Lugartenientes**: Originalmente 12, actualmente 11 activos + 1 caída  
 **⚔️ Estructura**: Jerarquía militar con tropa, sargentos, oficiales y lugartenientes  
 **🌌 Poder**: Manipulación temporal y espacial a través de fragmentos de poder divino
 
@@ -48,8 +48,8 @@ Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organizaci
 - **Aethernus Valcarys** (Manshoon Clone #47) - Líder Supremo del Cónclave
 
 ### **👑 LUGARTENIENTES DEL CÓNCLAVE (ESTADO ACTUAL)**
-- **4 Lugartenientes Temporales** - Serapis, Varrak, Vorthak, Medusa, Tempus
-- **5 Lugartenientes Dimensionales** - Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas
+- **6 Lugartenientes Temporales** - Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra
+- **6 Lugartenientes Dimensionales** - Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas, Ymir
 - **1 Lugarteniente Caído** - Thyra la Suspendida (asesinada por Edward Teach)
 
 ### **🎖️ OFICIALES CRONÓFAGOS**
@@ -85,7 +85,7 @@ Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organizaci
 
 ## ⚠️ **MECÁNICA CRÍTICA**
 
-Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Dado que hay 4 temporales y 5 dimensionales (después de la muerte de Thyra), el equilibrio está **desbalanceado hacia lo dimensional**. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
+Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Dado que hay 5 temporales y 6 dimensionales (después de la muerte de Thyra), el equilibrio está **desbalanceado hacia lo dimensional**. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
 
 **📖 Para más detalles sobre el sistema de balance:**
 - [Sistema de Balance Temporal/Dimensional](../01_Dirigir_Campana.md#-sistema-de-balance-temporal-dimensional)

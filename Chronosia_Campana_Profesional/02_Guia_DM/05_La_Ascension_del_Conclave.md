@@ -74,7 +74,7 @@ Después de que Edward Teach asesina a Thyra, los demás lugartenientes **reacci
 
 | **Consecuencia** | **Descripción** | **Efecto en la Campaña** |
 |------------------|-----------------|--------------------------|
-| **Sacrificio Potencial** | Pueden ser sacrificados por los Supremos para ganar más poder | Un Supremo puede drenar completamente a un lugarteniente menor |
+| **Sacrificio Potencial** | Pueden ser sacrificados por los Supremos para ganar más poder | Un Supremo puede drenar completamente a un lugarteniente |
 | **Conquista Territorial** | Sus regiones pueden ser anexadas | Pierden control sobre sus dominios |
 | **Subordinación Forzada** | Deben servir a los Supremos | Pierden autonomía y libertad |
 | **Eliminación** | Pueden ser asesinados por competidores | Muerte permanente posible |
