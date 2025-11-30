@@ -114,7 +114,7 @@ Cada región tiene su propia estructura única. Ver:
 ### **5. Retorno a Cronópolis (30 minutos)**
 
 **Eventos:**
-- Reporte a Zephyr sobre lo descubierto
+- Reporte a Aetherius sobre lo descubierto
 - Descanso y recuperación
 - Planificación de próxima misión
 - Actualización del sistema de balance
