@@ -1,23 +1,26 @@
-# 📖 Sesión 4: El Robo del Cronómetro
-## *Evento Catalizador #1*
+# 📖 Después del 2do Lugarteniente: El Robo del Cronómetro
+## *Evento Catalizador #1.5*
 
 ---
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 1](./00_Guia_General_Fase_1.md)
 > - [Sesión 2: Llegada a Chronosia](../Fase_0_Railroad_Inicial/02_Sesion_2_Llegada_Chronosia.md) - Los PJ vieron el Cronómetro
+> - [Después del 1er Lugarteniente: Robo de la Perla](./01_Despues_1er_Lugarteniente_Robo_Perla.md)
 > - [El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md) - Sección "El Robo del Cronómetro"
-> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 4
+> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos
 
 ---
 
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 5
+- **Nivel Aprox de los PJ:** 6-7 (después de derrotar al 2do lugarteniente)
 - **Ubicación:** Cronópolis
 - **Estilo:** Investigación + Confrontación
-- **⚠️ EVENTO CATALIZADOR #1:** El Cronómetro de Realidades es robado
+- **⚠️ EVENTO CATALIZADOR #1.5:** El Cronómetro de Realidades es robado
+- **⚠️ TIMING:** Ocurre **DESPUÉS DE QUE LOS PJ DERROTEN AL SEGUNDO LUGARTENIENTE**
+- **⚠️ IMPORTANTE:** Teach descubre la relación Anacronistas-Abysara en textos antiguos, lo que le permite planear el robo del Cronómetro
 
 ---
 
@@ -70,26 +73,26 @@ desactivado. El Cronómetro... desapareció."
 
 **Escena:**
 ```
-ZEPHYR (entrando a la cámara, rostro sombrío):
+GALEN (entrando a la cámara, rostro sombrío):
 "Vosotros... conocíais la ubicación del Cronómetro. Fuisteis los únicos 
 forasteros que lo visteis."
 
 [Pausa tensa]
 
-ZEPHYR:
+GALEN:
 "¿Tenéis algo que decir?"
 ```
 
 **Opciones para los PJ:**
 
 #### **Opción A: Demostrar Inocencia Investigando**
-- **Persuasión (CD 15):** Convencer a Zephyr de que investigarán
+- **Persuasión (CD 15):** Convencer a Galen de que investigarán
 - **Investigation (CD 12):** Encontrar pistas en la escena del crimen
-- **Resultado:** Zephyr les da 24 horas para encontrar al verdadero ladrón
+- **Resultado:** Galen les da 24 horas para encontrar al verdadero ladrón
 
 #### **Opción B: Negociar Ofreciéndose a Recuperarlo**
 - **Persuasión (CD 14):** Ofrecerse a recuperar el Cronómetro
-- **Resultado:** Zephyr acepta, pero los PJ deben traerlo de vuelta
+- **Resultado:** Galen acepta, pero los PJ deben traerlo de vuelta
 
 #### **Opción C: Huir de Cronópolis**
 - **Stealth (CD 18):** Escapar sin ser detectados
@@ -126,13 +129,13 @@ ZEPHYR:
 
 **Conclusión de la Investigación:**
 ```
-ZEPHYR (después de que los PJ presenten sus hallazgos):
+GALEN (después de que los PJ presenten sus hallazgos):
 "El medallón... el portal dimensional... todo apunta al Archipiélago de 
 Barbanegra. Edward Teach."
 
 [Pausa, preocupado]
 
-ZEPHYR:
+GALEN:
 "Edward Teach es uno de los lugartenientes más peligrosos. Controla las 
 islas del oeste. Y ahora... tiene el Cronómetro."
 ```
@@ -202,17 +205,18 @@ islas del oeste. Y ahora... tiene el Cronómetro."
 - **Múltiples caminos:** Diferentes formas de descubrir la verdad
 - **Recompensa la creatividad:** Si los PJ tienen ideas buenas, úsalas
 
-### **Setup para Sesión 4-5:**
+### **Setup para Después del 3er Lugarteniente:**
 - **El rastro debe ser claro:** Lleva al Archipiélago de Barbanegra
-- **Menciona a los Oceánicos de las Profundidades:** "Hay una ciudad submarina cerca del archipiélago"
-- **Crea expectativa:** "Teach está planeando algo grande"
+- **Menciona la isla secreta:** "Teach tiene una isla donde ejecuta rituales"
+- **Crea expectativa:** "Teach está combinando los artefactos - debemos actuar rápido"
+- **Prepara la Combinación:** Los PJ deben saber que Teach está creando algo poderoso
 
 ---
 
 ## 🔗 **REFERENCIAS**
 
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "El Robo del Cronómetro"
-- **[Cronología Maestra - Sesión 4](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-4-el-robo-del-cronómetro)**
+- **[Cronología Maestra - Eventos Progresivos](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-fase-1-robos-y-traición-eventos-progresivos)**
 - **[Edward Teach - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Statblock completo e información ultra-secreta
 
 ---

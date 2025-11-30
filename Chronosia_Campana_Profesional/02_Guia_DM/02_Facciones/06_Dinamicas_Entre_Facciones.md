@@ -9,7 +9,7 @@
 > - [La Resistencia](./02_La_Resistencia.md)
 > - [Anacronistas](./03_Anacronistas.md)
 > - [Bregan D'aerthe](./04_Bregan_Daerthe.md)
-> - [Colonos del Archipiélago](./05_Colonos_Archipielago.md)
+> - [Oceánicos de las Profundidades](./07_Oceanicos_Abysara.md)
 
 ---
 
@@ -30,10 +30,15 @@
 - **Tácticas**: Rivalidad entre bandos temporales y dimensionales
 - **Resultado**: La Ascensión del Cónclave (competencia entre lugartenientes)
 
-### **Edward Teach vs. Colonos del Archipiélago**
-- **Naturaleza del Conflicto**: Teach controla las islas mediante fuerza y tributo, los Colonos sobreviven en resistencia silenciosa
-- **Tácticas**: Los Colonos pagan tributo pero ocultan información y ayudan a enemigos de Teach
-- **Resultado**: Los Colonos esperan una oportunidad para liberarse del dominio de Teach
+### **Oceánicos de las Profundidades vs. Edward Teach**
+- **Naturaleza del Conflicto**: Vendetta eterna tras la traición de Teach (robo de la Perla y masacre de 47 guerreros)
+- **Tácticas**: Los Oceánicos perseguirán a Teach en cada plano y dimensión
+- **Resultado**: Los Oceánicos se convierten en aliados naturales de los PJ si se oponen a Teach
+
+### **Oceánicos de las Profundidades vs. Cronófagos (General)**
+- **Naturaleza del Conflicto**: Los Oceánicos desconfían de los Cronófagos por su abuso del poder divino
+- **Tácticas**: Aislamiento defensivo, protección de Abysara
+- **Resultado**: Neutralidad hostil hacia los Cronófagos, pero aliados si los PJ se oponen a ellos
 
 ---
 
@@ -55,10 +60,10 @@
 - Los Anacronistas pueden servir como mediadores neutrales entre facciones
 - Los PJ pueden usarlos para negociar con otras facciones
 
-### **Colonos del Archipiélago como Aliados Locales**
-- Los Colonos pueden proporcionar información crucial sobre el Archipiélago y Teach
-- Los PJ pueden ganar su lealtad ayudándolos contra Teach
-- Pueden ofrecer refugio, suministros y guías expertos
+### **Oceánicos de las Profundidades como Aliados**
+- Después de la traición de Teach, los Oceánicos buscan aliados contra él
+- Los PJ pueden formar alianza permanente si se oponen a Teach
+- Ofrecen recursos únicos: guerreros, acceso a Abysara, cristales de estabilización
 
 ---
 
@@ -85,9 +90,6 @@ Puede ser convencido de traicionar a Manshoon, pero siempre con un precio. Los P
 ### **Relojeros Oscuros**
 El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de Cronófagos (barbas, piel endurecida, fragmentos dimensionales), volviéndose igual de oscuros que lo que combaten.
 
-### **Los Colonos del Archipiélago y la Resistencia**
-Los PJ descubren que los Colonos están organizando una resistencia secreta contra Teach. Pueden unirse a ellos, lo que proporciona aliados locales, información y refugio, pero también los expone a represalias si Teach descubre la traición.
-
 ---
 
 ## 🔮 **POSIBLES GIROS Y TRAICIONES**
@@ -113,12 +115,6 @@ Los PJ descubren que los Colonos están organizando una resistencia secreta cont
 - Algunos agentes pueden estar trabajando para otras organizaciones de Faerûn
 - Bregan D'aerthe podría estar preparando su propia traición a Manshoon
 - Algunos agentes pueden haberse convertido genuinamente a las causas de las facciones
-
-### **Los Colonos del Archipiélago**
-- Algunos Colonos pueden traicionar a los PJ por miedo a Teach si se sienten amenazados
-- Un Colonos puede ser un espía de Teach que intenta descubrir los planes de los PJ
-- La resistencia puede estar infiltrada por agentes de Bregan D'aerthe
-- Algunos Colonos pueden estar trabajando con los Oceánicos de las Profundidades en secreto
 
 ---
 
@@ -151,12 +147,13 @@ Los PJ descubren que los Colonos están organizando una resistencia secreta cont
 - **⚠️ ADVERTENCIA**: Su verdadera lealtad es con Manshoon, pero Jarlaxle puede ser convencido de cambiar de bando
 - **📖 Documento completo:** [04_Bregan_Daerthe.md](./04_Bregan_Daerthe.md)
 
-### **Con los Colonos del Archipiélago**
-- **Ventajas**: Conocimiento detallado del Archipiélago, información sobre Teach, suministros, refugio, guías expertos
-- **Desventajas**: Miedo a represalias de Teach, algunos pueden traicionar por miedo, recursos limitados
-- **Cuándo Aliarse**: Cuando necesiten información sobre el Archipiélago, cuando busquen refugio o suministros, cuando planeen enfrentar a Teach
-- **⚠️ ADVERTENCIA**: Algunos Colonos pueden traicionar a los PJ por miedo a Teach si se sienten amenazados
-- **📖 Documento completo:** [05_Colonos_Archipielago.md](./05_Colonos_Archipielago.md)
+### **Con los Oceánicos de las Profundidades**
+- **Ventajas**: 10 Guerreros Oceánicos CR 8, acceso a Abysara como base submarina, Bendiciones del Vacío, Cristales de Estabilización (únicos en Abysara), conocimiento antiguo sobre los Chronianos
+- **Desventajas**: Aislamiento inicial, desconfianza hacia los de la superficie, acceso difícil (requiere magia o ayuda de los Oceánicos)
+- **Cuándo Aliarse**: Después del robo de la Perla, cuando se opongan a Edward Teach, cuando necesiten recursos submarinos o protección contra distorsiones
+- **🤝 Afinidad Especial**: Conexión ancestral con los Anacronistas (ambos eran los Chronianos), relación compleja pero respetuosa
+- **⚠️ REQUISITO**: Deben demostrar oposición a Teach o ayudar a recuperar la Perla
+- **📖 Documento completo:** [07_Oceanicos_Abysara.md](./07_Oceanicos_Abysara.md)
 
 ---
 
@@ -168,7 +165,7 @@ Los PJ descubren que los Colonos están organizando una resistencia secreta cont
 | **La Resistencia** | Neutrales (hostiles si hay magos) | Tecnología anti-magia | ⚠️ Depende | ⚠️⚠️ Moderado |
 | **Anacronistas** | Amigables | Resistencia temporal | ✅ Sí | ✅ Bajo |
 | **Bregan D'aerthe** | Ambiguos | Espionaje y mercenariado | ⚠️ Depende | ⚠️⚠️⚠️ Alto |
-| **Colonos del Archipiélago** | Neutrales (amigables si enemigos de Teach) | Navegación, comercio, conocimiento local | ✅ Sí (si ayudan) | ⚠️ Bajo-Moderado |
+| **Oceánicos de las Profundidades** | Aliados (después de traición de Teach) | Combate submarino, cristales | ✅ Sí | ✅ Bajo |
 
 ---
 

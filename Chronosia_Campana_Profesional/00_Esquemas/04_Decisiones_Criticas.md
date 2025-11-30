@@ -33,8 +33,8 @@ flowchart TD
     
     ALT --> D7
     
-    D7 -->|Aliado| D8[Varrak ayuda a PJ<br/>+3 puntos aliados<br/>Visiones útiles]
-    D7 -->|Enemigo| D9[Varrak se une a Vorthak<br/>+5 puntos enemigos<br/>Bando Temporal fortalecido]
+    D7 -->|Aliado| D8[Varrak ayuda a PJ<br/>Aliado poderoso<br/>Visiones útiles]
+    D7 -->|Enemigo| D9[Varrak se une a Vorthak<br/>Bando Temporal fortalecido<br/>Enemigo adicional]
     D7 -->|Mártir| D10[Varrak se sacrifica<br/>Poder épico a PJ<br/>Mejor oportunidad de victoria]
     
     D8 --> D11[Decisión 5: Sesiones 6-12<br/>¿Mantener balance temporal/dimensional?]
@@ -132,8 +132,8 @@ flowchart TD
 - Debe elegir entre tres caminos según las acciones de los PJ
 
 **Opciones:**
-- **Aliado Reticente:** Varrak se une a los PJ, +3 puntos aliados, visiones útiles
-- **Servidor Fiel:** Varrak se une a Vorthak, +5 puntos enemigos, Bando Temporal fortalecido
+- **Aliado Reticente:** Varrak se une a los PJ, aliado poderoso, visiones útiles
+- **Servidor Fiel:** Varrak se une a Vorthak, Bando Temporal fortalecido, enemigo adicional
 - **Mártir Quebrado:** Varrak se sacrifica, poder épico a los PJ, mejor oportunidad de victoria
 
 **Consecuencias:**
@@ -156,10 +156,9 @@ flowchart TD
 - **No - Desequilibrar:** Penalizaciones severas, riesgo de catástrofe cósmica
 
 **Consecuencias:**
-- **Equilibrio:** Todo funciona normalmente
-- **Desequilibrio 2:** Desbalance Menor (1d4 efectos/sesión)
-- **Desequilibrio 3:** Desbalance Moderado (1d6 efectos/sesión)
-- **Desequilibrio 4+:** Desbalance Crítico (1d8 efectos/sesión)
+- **Equilibrio (Diferencia 0-1):** Todo funciona normalmente, sin efectos
+- **Desbalance (Diferencia 2+):** 1d4 efectos por sesión al inicio
+- **⚠️ NOTA:** Si el desbalance es extremo (diferencia 4+), Varrak puede sacrificarse voluntariamente para equilibrar
 
 **Impacto:** Afecta directamente la jugabilidad y la dificultad de la campaña.
 

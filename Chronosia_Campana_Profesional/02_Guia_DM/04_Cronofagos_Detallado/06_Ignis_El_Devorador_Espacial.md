@@ -18,7 +18,13 @@
 ## 🎭 **DESCRIPCIÓN NARRATIVA**
 
 ### **⚡ Poder**
-Ignis puede crear portales dimensionales que conectan con el Plano Elemental del Fuego, absorbiendo la energía espacial de su entorno y convirtiéndola en poder destructivo. Su dominio sobre los portales de fuego le permite traer ejércitos de criaturas de fuego y atacar desde múltiples dimensiones simultáneamente.
+Ignis puede crear portales dimensionales que conectan con el **Plano Elemental del Fuego y los Nueve Infiernos**, absorbiendo la energía espacial de su entorno y convirtiéndola en poder destructivo. Su dominio sobre los portales de fuego le permite traer ejércitos de criaturas de fuego y demonios, y atacar desde múltiples dimensiones simultáneamente.
+
+**🌋 Influencia en los Nueve Infiernos:**
+Ignis se encarga de **influir su poder en los Nueve Infiernos** y abrir portales allí para traer criaturas a este plano, **sembrando el caos sin ninguna razón**. No tiene un objetivo estratégico - simplemente disfruta del caos y la destrucción que traen las criaturas infernales.
+
+**💎 Cristales de Poder:**
+Cerca de la región de Ignis (Las Calderas Dimensionales) es donde **más cristales de poder hay**. Esta es una fuente importante para La Resistencia, pero la zona es **extremadamente peligrosa** debido a los portales constantes a los Infiernos y las criaturas infernales que trae Ignis.
 
 ### **👁️ Apariencia**
 Un dragón rojo colosal con escamas que brillan como lava fundida. Sus ojos son pozos de fuego que muestran reflejos de múltiples dimensiones. Su presencia misma distorsiona el espacio a su alrededor, y los portales de fuego aparecen y desaparecen constantemente cerca de él.
@@ -60,7 +66,7 @@ Cuando Ignis muere (ya sea por los PJ o por otro lugarteniente), **Las Calderas 
 ### **Rasgos Especiales**
 
 **Maestro de Portales Dimensionales.**  
-Ignis puede crear portales dimensionales que conectan con el Plano Elemental del Fuego. Todos sus portales traen criaturas o efectos de fuego.
+Ignis puede crear portales dimensionales que conectan con el **Plano Elemental del Fuego y los Nueve Infiernos**. Todos sus portales traen criaturas o efectos de fuego, demonios, o criaturas infernales. Ignis abre estos portales **sin razón aparente**, simplemente para sembrar el caos.
 
 **Portales Múltiples.**  
 Ignis puede mantener hasta 3 portales abiertos simultáneamente. Puede atacar a través de todos los portales en el mismo turno.
@@ -167,5 +173,45 @@ Ignis lidera el Bando Dimensional junto con Veldrisza y potencialmente Las Gemel
 
 ---
 
-*Ignis representa el poder destructivo del fuego combinado con la manipulación del espacio, creando portales que traen devastación desde el Plano Elemental del Fuego.* 🔥
+## 🎭 **PERSONALIDAD Y ALINEACIÓN**
+
+### **Caótico Malvado:**
+Ignis es **Caótico Malvado** en su esencia más pura. No sigue ningún código, ley o estructura - actúa por impulso y deseo destructivo.
+
+**Características de su Caos:**
+- **Sin razón aparente:** Abre portales a los Nueve Infiernos simplemente para sembrar el caos, sin objetivo estratégico
+- **Disfruta la destrucción:** No busca poder, control o riqueza - solo disfruta ver el mundo arder
+- **Impulsivo:** Actúa según sus caprichos, sin planificación a largo plazo
+- **Desprecio por el orden:** Rechaza cualquier estructura, jerarquía o regla
+- **Caos por el caos:** La destrucción y el caos son fines en sí mismos, no medios para otro objetivo
+
+**Motivaciones:**
+- **Ninguna estrategia:** No tiene planes complejos ni objetivos a largo plazo
+- **Diversión destructiva:** Abre portales y trae demonios porque le divierte ver el caos que causan
+- **Poder por poder:** Aunque es líder del Bando Dimensional, no lidera por ambición - simplemente es el más poderoso y los demás lo siguen por miedo
+
+**Relación con Otros:**
+- **Veldrisza:** La tolera porque es útil, pero no tiene lealtad real hacia ella
+- **Otros Lugartenientes:** Los ve como herramientas o juguetes para su diversión
+- **Aethernus:** No le importa el plan de Aethernus - solo sigue órdenes porque le permiten causar más caos
+
+---
+
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **⚠️ Sin Ganchos Narrativos Especiales**
+Ignis es principalmente un **enemigo a derrotar**. No tiene ganchos narrativos que permitan alianzas o interacciones especiales más allá del combate.
+
+### **🎭 Características Relevantes:**
+- **Líder del Bando Dimensional:** Dragón rojo ancestral extremadamente poderoso
+- **Influencia en los Nueve Infiernos:** Abre portales a los Infiernos para traer criaturas sin razón aparente
+- **Sembrando el caos:** No tiene objetivo estratégico - simplemente disfruta del caos y la destrucción
+- **Cristales de Poder:** Su región tiene la mayor concentración de cristales de poder (importante para La Resistencia pero extremadamente peligrosa)
+- **Conexiones planares:** Trae criaturas del Plano Elemental del Fuego y los Nueve Infiernos
+- **Caótico Malvado:** Actúa por impulso y deseo destructivo, sin código ni estructura
+
+
+---
+
+*Ignis representa el poder destructivo del fuego combinado con la manipulación del espacio, creando portales que traen devastación desde el Plano Elemental del Fuego y los Nueve Infiernos. Es la encarnación del caos puro - destructivo, impulsivo y sin propósito más allá de la destrucción misma.* 🔥
 

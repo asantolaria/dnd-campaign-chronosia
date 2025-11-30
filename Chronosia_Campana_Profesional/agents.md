@@ -71,7 +71,7 @@ Chronosia_Campana_Profesional/
 
 #### **Documentos Maestros (Fuentes de Verdad):**
 - **Timeline:** `07_Cronologia_Maestra_Campana.md`
-- **Sistema de Puntos:** `06_Eventos_Ascension_Conclave.md`
+- **Sistema Narrativo de Competencia:** `05_La_Ascension_del_Conclave.md`
 - **Tracking:** `20_Tablas_Tracking_Campana.md`
 - **Lugartenientes:** `04_Cronofagos_Detallado.md`
 - **Regiones:** `08_Geografia_y_Regiones_de_Chronosia.md`
@@ -179,7 +179,7 @@ Chronosia_Campana_Profesional/
 
 #### **Sistemas de Juego:**
 - `02_Guia_DM/05_La_Ascension_del_Conclave.md` - Sistema de competencia + Resolución final
-- `02_Guia_DM/06_Eventos_Ascension_Conclave.md` - Sistema de puntos
+- `02_Guia_DM/05_La_Ascension_del_Conclave.md` - Sistema narrativo de competencia
 - `06_Recursos/Tablas/20_Tablas_Tracking_Campana.md` - Tablas de tracking
 
 #### **Contenido Narrativo:**

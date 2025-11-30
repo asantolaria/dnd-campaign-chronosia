@@ -227,18 +227,17 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 ### **🎯 Concepto Simplificado**
 Cuando hay desbalance entre lugartenientes temporales y dimensionales derrotados, los PJ sufren efectos aleatorios que afectan su día a día. **Cuanto mayor sea el desbalance, más veces hay que lanzar en la tabla**.
 
-### **📊 Sistema de Lanzamientos por Nivel**
+### **📊 Sistema de Lanzamientos por Nivel (SIMPLIFICADO)**
 
 | **Nivel de Desbalance** | **Diferencia** | **Lanzamientos por Sesión** | **Momento de Lanzamiento** |
 |-------------------------|----------------|----------------------------|----------------------------|
 | 🟢 **Equilibrio** | 0-1 | **0** | Ninguno |
-| 🟡 **Menor** | 2 | **1d4** | Al inicio de cada sesión |
-| 🟠 **Moderado** | 3 | **1d6** | Al inicio + cada 2 horas |
-| 🔴 **Crítico** | 4+ | **1d8** | Al inicio + cada hora + eventos importantes |
+| ⚠️ **Desbalance** | 2-3 | **1d4** | Al inicio de cada sesión |
+| 🔴 **Crítico** | 4+ | **1d6** | Al inicio + cada 2 horas + eventos importantes |
 
-### **🎲 Tabla de Efectos de Desbalance (1d20)**
+### **🎲 Tabla de Efectos de Desbalance (1d10) - SIMPLIFICADA**
 
-| d20 | Efecto de Desbalance | Duración | Tipo |
+| d10 | Efecto de Desbalance | Duración | Tipo |
 |-----|----------------------|----------|------|
 | 1 | **Fatiga Temporal**: Los PJ están cansados. Desventaja en todas las tiradas de Fuerza y Destreza por 1 hora. | 1 hora | Temporal |
 | 2 | **Confusión Espacial**: Los PJ se desorientan. Desventaja en tiradas de Sabiduría (Percepción) y navegación por 30 minutos. | 30 min | Espacial |
@@ -246,20 +245,10 @@ Cuando hay desbalance entre lugartenientes temporales y dimensionales derrotados
 | 4 | **Restricción de Descanso**: Los PJ no pueden hacer descanso largo en Cronópolis por 1 día. | 1 día | Restricción |
 | 5 | **Portal Inestable**: Los portales fallan (50% de probabilidad) por 4 horas. | 4 horas | Viaje |
 | 6 | **Envejecimiento Aleatorio**: Un PJ envejece o rejuvenece 1d4 años aleatoriamente. | Permanente | Temporal |
-| 7 | **Prohibición de Hechizos**: Un PJ no puede usar hechizos de un nivel específico (1d4) por 1 día. | 1 día | Mágico |
-| 8 | **Distorsión de Gravedad**: La gravedad cambia aleatoriamente en Cronópolis por 1 hora. | 1 hora | Espacial |
-| 9 | **Nivel de Agotamiento**: Todos los PJ ganan 1 nivel de agotamiento que dura 1 día. | 1 día | Físico |
-| 10 | **Acceso Denegado**: Los PJ no pueden acceder a ciertos distritos de Cronópolis por 1 día. | 1 día | Restricción |
-| 11 | **Bucle Temporal Menor**: Los PJ repiten los últimos 10 minutos de acciones por 1 hora. | 1 hora | Temporal |
-| 12 | **Compresión Espacial**: Las distancias se duplican en Cronópolis por 2 horas. | 2 horas | Espacial |
-| 13 | **Fallo de Objetos Mágicos**: Los objetos mágicos fallan aleatoriamente (33% de probabilidad) por 3 horas. | 3 horas | Mágico |
-| 14 | **Restricción de Comercio**: Los comerciantes no venden a los PJ por 1 día. | 1 día | Social |
-| 15 | **Portal Erróneo**: Los portales llevan a lugares incorrectos (25% de probabilidad) por 6 horas. | 6 horas | Viaje |
-| 16 | **Estasis Temporal**: Un PJ queda paralizado temporalmente por 1d4 rondas. | 1d4 rondas | Temporal |
-| 17 | **Fractura Dimensional**: Aparecen grietas en el espacio que causan 1d6 daño por contacto por 1 hora. | 1 hora | Espacial |
-| 18 | **Prohibición Total de Magia**: Los PJ no pueden usar magia por 2 horas. | 2 horas | Mágico |
-| 19 | **Exilio Temporal**: Los PJ son expulsados de Cronópolis por 1 día. | 1 día | Restricción |
-| 20 | **Catástrofe Menor**: Combinación de 3 efectos aleatorios de la tabla. | Variable | Múltiple |
+| 7 | **Nivel de Agotamiento**: Todos los PJ ganan 1 nivel de agotamiento que dura 1 día. | 1 día | Físico |
+| 8 | **Compresión Espacial**: Las distancias se duplican en Cronópolis por 2 horas. | 2 horas | Espacial |
+| 9 | **Fallo de Objetos Mágicos**: Los objetos mágicos fallan aleatoriamente (33% de probabilidad) por 3 horas. | 3 horas | Mágico |
+| 10 | **Catástrofe Menor**: Combinación de 2 efectos aleatorios de esta tabla (lanza 2d10 y aplica ambos). | Variable | Múltiple |
 
 ### **📝 Instrucciones de Uso**
 
@@ -274,25 +263,20 @@ Cuando hay desbalance entre lugartenientes temporales y dimensionales derrotados
 2. **Aplica el efecto** inmediatamente
 3. **Anota la duración** y el tipo de efecto
 4. **Informa a los PJ** sobre el efecto y su causa
-5. **Usa los explicadores** (Zephyr, Varrak, Capitán Marcus) para explicar por qué ocurre
+5. **Usa los explicadores** (Galen, Varrak, Capitán Marcus) para explicar por qué ocurre
 
-#### **Ejemplos de Uso:**
+#### **Ejemplos de Uso (SIMPLIFICADO):**
 
-**Desbalance Menor (Diferencia 2):**
+**Desbalance:**
 - Al inicio de sesión: Lanza 1d4 → 3 lanzamientos
-- Efectos: 1d20 = 4 (Restricción de Descanso), 1d20 = 12 (Compresión Espacial), 1d20 = 7 (Prohibición de Hechizos)
-
-**Desbalance Crítico (Diferencia 4+):**
-- Al inicio de sesión: Lanza 1d8 → 6 lanzamientos
-- Cada hora: Lanza 1d8 → 3 lanzamientos más
-- En evento importante: Lanza 1d8 → 2 lanzamientos más
-- **Total**: 11 efectos activos simultáneamente
+- Efectos: 1d10 = 4 (Restricción de Descanso), 1d10 = 8 (Compresión Espacial), 1d10 = 7 (Nivel de Agotamiento)
+- **Nota**: Si el desbalance es extremo (diferencia de 4+), el DM puede aumentar la frecuencia de lanzamientos
 
 ### **🎭 Integración Narrativa**
 
 #### **Explicaciones de los Explicadores:**
 
-**Zephyr (Desbalance Temporal):**
+**Galen (Desbalance Temporal):**
 *"El equilibrio se rompe hacia lo temporal. Amaunator se debilita, y el tiempo se vuelve caótico. Estos efectos son manifestaciones de su agonía."*
 
 **Varrak (Desbalance Dimensional):**
@@ -304,9 +288,8 @@ Cuando hay desbalance entre lugartenientes temporales y dimensionales derrotados
 ### **⚖️ Restauración del Equilibrio**
 
 #### **Efectos que Mejoran con el Equilibrio:**
-- **Diferencia 3→2**: Reduce lanzamientos de 1d6 a 1d4
-- **Diferencia 2→1**: Reduce lanzamientos de 1d4 a 0
-- **Diferencia 1→0**: Elimina todos los efectos activos
+- Cuando los PJ restauran el equilibrio (diferencia de 0-1), todos los efectos activos se eliminan
+- Los efectos desaparecen gradualmente a medida que el balance se restaura
 
 #### **Motivación para los PJ:**
 - **Los efectos empeoran** si no mantienen el equilibrio

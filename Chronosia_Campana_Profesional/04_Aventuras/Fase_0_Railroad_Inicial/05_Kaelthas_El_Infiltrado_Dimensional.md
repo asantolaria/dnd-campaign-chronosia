@@ -248,7 +248,7 @@ El taller de Kaelthas es un edificio de tres pisos en el distrito de artesanos d
 ### **Mecánicas de Desbalance**
 - **Los PJ enfrentan** un desequilibrio desde el inicio
 - **Deben aprender** sobre la importancia del balance
-- **Zephyr explica** la teoría del balance después de derrotar a Kaelthas
+- **Galen explica** la teoría del balance después de derrotar a Kaelthas
 - **Motivación** para equilibrar futuros enfrentamientos
 
 ---

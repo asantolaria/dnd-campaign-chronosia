@@ -190,5 +190,26 @@ Cuando Dimensionalis muere (ya sea por los PJ o por otro lugarteniente), **Las L
 
 ---
 
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **🎯 Gancho Principal: Mercader de Información**
+Dimensionalis es **independiente** y puede:
+- **Vender información** a todos los bandos
+- **Ofrecer favores** a cambio de favores
+- **Traicionar** a cualquiera si le conviene
+
+### **⚔️ Oportunidades Narrativas:**
+- **Información Privilegiada:** Puede revelar planes de otros lugartenientes
+- **Favores por Favores:** Sistema de intercambio de información
+- **Dilema de Confianza:** Siempre hay riesgo de traición
+
+### **🎭 Naturaleza Única:**
+- Existe simultáneamente en múltiples dimensiones
+- Puede separar a los PJ en habitaciones dimensionales cerradas
+- Cuerpo muestra múltiples versiones de sí misma
+
+
+---
+
 *Dimensionalis representa el poder de fracturar la realidad misma, existiendo simultáneamente en múltiples dimensiones y confundiendo a sus enemigos sobre qué es real.* 🌌
 

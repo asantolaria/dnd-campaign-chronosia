@@ -62,16 +62,12 @@ flowchart LR
     
     BALANCE --> CONSEC{¿Desequilibrio?}
     CONSEC -->|Equilibrio| OK[Todo normal<br/>Sin penalizaciones]
-    CONSEC -->|Desequilibrio 2| MENOR[Desbalance Menor<br/>1d4 efectos/sesión]
-    CONSEC -->|Desequilibrio 3| MOD[Desbalance Moderado<br/>1d6 efectos/sesión]
-    CONSEC -->|Desequilibrio 4+| CRIT[Desbalance Crítico<br/>1d8 efectos/sesión]
+    CONSEC -->|Desbalance| DESB[Desbalance<br/>1d4 efectos/sesión]
     
     style SANDBOX fill:#fff5e1
     style BALANCE fill:#ffe1e1
     style OK fill:#ccffcc
-    style MENOR fill:#ffffcc
-    style MOD fill:#ffcc99
-    style CRIT fill:#ff9999
+    style DESB fill:#ffcc99
 ```
 
 ---
@@ -85,32 +81,24 @@ flowchart LR
 - **Dimensionales:** 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
 - **Ya hay desequilibrio** favorable a lo dimensional (5 vs 6)
 
-**Cálculo del Desbalance:**
-- **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
-- **Ejemplo:** Si derrotan 2 temporales y 0 dimensionales → Diferencia = 2 (Desbalance Moderado)
+**Cálculo del Balance:**
+- **Equilibrio:** Cuando el número de temporales derrotados es igual o muy similar al número de dimensionales derrotados (diferencia de 0-1)
+- **Desbalance:** Cuando hay una diferencia significativa entre temporales y dimensionales derrotados (diferencia de 2+)
 
-### **🔴 Niveles de Desbalance:**
+### **🔴 Estados del Balance:**
 
-#### **🟢 EQUILIBRIO (Diferencia 0-1)**
+#### **🟢 EQUILIBRIO**
 - **Estado:** Todo funciona normalmente
 - **Cronópolis:** Completamente seguro y estable
 - **Viajes:** Sin problemas, portales funcionan al 100%
 - **Descanso:** Descanso largo disponible sin restricciones
+- **Efectos:** Ninguno
 
-#### **🟡 DESBALANCE MENOR (Diferencia 2)**
+#### **⚠️ DESBALANCE**
 - **Lanzamientos:** 1d4 efectos por sesión
 - **Momento:** Al inicio de cada sesión
 - **Efectos:** Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-
-#### **🟠 DESBALANCE MODERADO (Diferencia 3)**
-- **Lanzamientos:** 1d6 efectos por sesión
-- **Momento:** Al inicio + cada 2 horas
-- **Efectos:** Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-
-#### **🔴 DESBALANCE CRÍTICO (Diferencia 4+)**
-- **Lanzamientos:** 1d8 efectos por sesión
-- **Momento:** Al inicio + cada hora + eventos importantes
-- **Efectos:** Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+- **⚠️ ACCIÓN ESPECIAL:** Si el desbalance es extremo (diferencia de 4+), Varrak puede sacrificarse voluntariamente para equilibrar
 - **⚠️ ACCIÓN ESPECIAL:** Si el balance alcanza desbalance crítico (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
 
 ### **🎯 Estrategia Recomendada:**

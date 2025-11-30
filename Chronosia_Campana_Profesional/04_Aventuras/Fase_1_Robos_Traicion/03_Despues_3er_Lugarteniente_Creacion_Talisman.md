@@ -1,24 +1,26 @@
-# 📖 Sesión 5: La Combinación
+# 📖 Después del 3er Lugarteniente: La Creación del Talismán
 ## *Decisión Crítica - ¿Interrumpen el Ritual?*
 
 ---
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 1](./00_Guia_General_Fase_1.md)
-> - [Sesión 4-5: Traición de Barbanegra](./02_Sesion_4-5_Traicion_Barbanegra.md)
-> - [Sesión 5-6: Asesinato de Thyra](./04_Sesion_5-6_Asesinato_Thyra.md)
+> - [Después del 1er Lugarteniente: Robo de la Perla](./01_Despues_1er_Lugarteniente_Robo_Perla.md)
+> - [Después del 2do Lugarteniente: Robo del Cronómetro](./02_Despues_2do_Lugarteniente_Robo_Cronometro.md)
+> - [Después del 3er Lugarteniente: Asesinato de Thyra](./04_Despues_3er_Lugarteniente_Asesinato_Thyra.md)
 > - [El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md) - Sección "La Combinación"
-> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 5
+> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos
 
 ---
 
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 6
+- **Nivel Aprox de los PJ:** 7-8 (después de derrotar al 3er lugarteniente)
 - **Ubicación:** Isla secreta en el Archipiélago de Barbanegra
 - **Estilo:** Infiltración + Combate Épico (opcional)
 - **⚠️ DECISIÓN CRÍTICA:** ¿Interrumpen la creación del Talismán?
+- **⚠️ TIMING:** Ocurre **DESPUÉS DE QUE LOS PJ DERROTEN AL TERCER LUGARTENIENTE**
 
 ---
 
@@ -172,17 +174,17 @@ se unen. El Talismán de Interceptación Divina... casi está completo."
 - **Recompensa la estrategia:** Si los PJ planean bien, pueden tener ventaja
 - **Permite retirada:** Si es demasiado difícil, los PJ pueden escapar
 
-### **Setup para Sesión 5-6:**
-- **Menciona a Thyra:** "Teach menciona que necesita más poder"
-- **Crea expectativa:** "Esto no ha terminado"
-- **Prepara el asesinato:** Los PJ deben saber que algo grande viene
+### **Setup para Después del 3er Lugarteniente - Asesinato de Thyra:**
+- **Menciona a Thyra:** "Teach menciona que necesita más poder - menciona a Thyra específicamente"
+- **Crea expectativa:** "Esto no ha terminado - Teach está planeando asesinar a otro lugarteniente"
+- **Prepara el asesinato:** Los PJ deben saber que Teach necesita el Talismán para penetrar la barrera de estasis de Thyra
 
 ---
 
 ## 🔗 **REFERENCIAS**
 
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "La Combinación"
-- **[Cronología Maestra - Sesión 5](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-5-la-combinación)**
+- **[Cronología Maestra - Eventos Progresivos](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-fase-1-robos-y-traición-eventos-progresivos)**
 - **[Edward Teach - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Statblock completo e información ultra-secreta
 
 ---

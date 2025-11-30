@@ -307,7 +307,7 @@ KAELTHAS (susurrando):
 1. Kaelthas es un ex-relojero convertido en Cronófago
 2. Los Anacronistas ("La Resistencia") están monitoreando distorsiones temporales
 3. Hay un lugar llamado Chronosia donde Aethernus captura dioses
-4. Zephyr (líder Anacronista) querrá hablar con los PJ
+4. Galen (líder Anacronista) querrá hablar con los PJ
 
 **Recompensa:** Tiber se convierte en contacto de los PJ en Cronópolis (aparece en Sesión 2)
 
@@ -440,7 +440,7 @@ Cada vez que uses *Salto Temporal Menor*, debes hacer salvación de Constitució
 - Rescate de Tiber (Anacronista capturado)
 
 **Parte 5: Los Anacronistas (30 min)**
-- Zephyr y los "La Resistencia" aparecen
+- Galen y los "La Resistencia" aparecen
 - Explicación sobre Chronosia y Aethernus
 - Oferta de viajar a Cronópolis
 

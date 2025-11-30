@@ -165,5 +165,77 @@ Cuando Veldrisza muere (ya sea por los PJ o por otro lugarteniente), **La Ciudad
 
 ---
 
-*Veldrisza representa el poder de Lolth combinado con la manipulación del espacio, tejiendo redes dimensionales que conectan con Menzoberranzan y atrapan a sus enemigos en dimensiones de pesadilla.* 🕷️
+## 🕷️ **CONTROL DE LOS BREGAN DAERTHE**
+
+**⚠️ INFORMACIÓN CRÍTICA:** La Matrona Veldrisza tiene **comprados a los Bregan Daerthe por encima de Serapis**. Aunque los Bregan Daerthe pueden trabajar para Serapis temporalmente, su verdadera lealtad es con Veldrisza.
+
+**Cómo Funciona:**
+- Veldrisza pagó a los Bregan Daerthe hace tiempo para que trabajen como agentes dobles
+- Los Bregan Daerthe pueden trabajar para Serapis, pero siempre reportan a Veldrisza
+- Cuando Veldrisza lo ordene, los Bregan Daerthe se revelarán contra Serapis
+- Esta relación es secreta - ni Serapis ni los PJ saben de ella inicialmente
+
+**En la Traición de Serapis:**
+- Los Bregan Daerthe ayudan a Serapis en su plan de infiltración
+- Después de la batalla, vuelven con Serapis (manteniendo la fachada)
+- Cuando Veldrisza vea cómo los lugartenientes mueven sus casillas, ordenará a los Bregan Daerthe que maten a Serapis
+- Los Bregan Daerthe llevarán el cuerpo de Serapis a Veldrisza para el ritual Zin-Carla
+
+**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa.
+
+---
+
+## 🔮 **RITUAL ZIN-CARLA**
+
+**El Ritual Drow de Resurrección:**
+Veldrisza puede invocar el ritual **Zin-Carla**, un ritual drow de resurrección que resucita al muerto como **no-muerto bajo el control de quien realiza el ritual**.
+
+**Cómo Funciona:**
+- Requiere el cuerpo del muerto (debe estar relativamente intacto)
+- Se realiza en el Templo de Lolth
+- Requiere múltiples sacerdotisas drow para el ritual
+- El resucitado conserva sus poderes originales pero está bajo control mental de Veldrisza
+- El resucitado muestra signos de no-muerte (ojos brillantes, distorsiones dimensionales)
+
+**Serapis Resucitado:**
+- Conserva sus poderes temporales
+- Ahora está bajo el control de Veldrisza
+- Combina poderes temporales y dimensionales de forma única
+- Sirve a Veldrisza como guardián poderoso
+
+**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa del ritual.
+
+---
+
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **🎯 Gancho Principal: Manipuladora Maestra (Gancho Indirecto)**
+Veldrisza tiene un gancho narrativo **indirecto pero crucial** a través de su control sobre los Bregan Daerthe y su participación en la trama de Serapis.
+
+### **🎭 Control de los Bregan Daerthe:**
+- **Agentes Dobles:** Tiene comprados a los Bregan Daerthe por encima de Serapis
+- **Manipulación:** Los Bregan Daerthe trabajan para Serapis pero reportan a Veldrisza
+- **Traición Final:** Cuando Veldrisza lo ordena, los Bregan Daerthe matan a Serapis
+
+### **🔮 Ritual Zin-Carla:**
+- **Resurrección de Lugartenientes:** Puede resucitar lugartenientes muertos como no-muertos bajo su control
+- **Serapis Resucitado:** Después de que los Bregan Daerthe maten a Serapis, Veldrisza lo resucita como aliado
+- **Poder Combinado:** Serapis resucitado combina poderes temporales y dimensionales bajo el control de Veldrisza
+
+### **⚔️ Oportunidades Narrativas:**
+- **Revelación de la Manipulación:** Los PJ descubren que los Bregan Daerthe están comprados por Veldrisza
+- **Descubrimiento del Ritual:** Aprenden sobre el ritual Zin-Carla y el poder de Veldrisza
+- **Consecuencias:** Veldrisza gana un aliado poderoso con poderes temporales, intensificando la guerra civil
+
+### **🎭 Naturaleza de su Gancho:**
+Aunque Veldrisza no interactúa directamente con los PJ en esta trama, su influencia es **fundamental**:
+- Controla los eventos desde las sombras
+- Manipula a otros lugartenientes sin que se den cuenta
+- Gana poder significativo sin exponerse directamente
+
+**📖 Trama relacionada:** [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe)  
+
+---
+
+*Veldrisza representa el poder de Lolth combinado con la manipulación del espacio, tejiendo redes dimensionales que conectan con Menzoberranzan y atrapan a sus enemigos en dimensiones de pesadilla. Su control sobre los Bregan Daerthe y su capacidad de resucitar lugartenientes la convierten en una de las manipuladoras más peligrosas de Chronosia.* 🕷️
 

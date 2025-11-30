@@ -8,7 +8,7 @@
 ### **🎯 Conceptos Principales**
 - [Concepto Central](#-concepto-central-la-mano-derecha-de-aethernus)
 - [Los Tres Bandos](#-los-tres-bandos-de-la-competencia)
-- [Sistema de Puntos](#-sistema-de-puntos-de-ascensión)
+- [Competencia Narrativa](#-competencia-narrativa-entre-lugartenientes)
 
 ### **📅 Cronología**
 - [Fase 1: Tensión Oculta](#fase-1-tensión-oculta-sesiones-1-4)
@@ -88,27 +88,34 @@ Después de que Edward Teach asesina a Thyra, los demás lugartenientes **reacci
 **Líder:** Lord Vorthak "El Sediento Eterno"
 
 **Miembros:**
-- **Serapis el Retroceso** (subordinado leal, débil pero útil)
 - **Varrak del Horizonte** (neutral inicialmente, puede unirse)
+- **⚠️ Serapis el Retroceso NO puede aliarse** - Debido a cambios en las dinámicas de poder, Serapis está aislado y vulnerable
 
 **Filosofía:**
 *"El tiempo es poder absoluto. Quien controle el flujo temporal, controla la vida y la muerte de todos los seres. Drenaremos los siglos de nuestros enemigos y nos alimentaremos de la eternidad."*
+
+**Características del Líder:**
+- **El más despiadado:** Vorthak es el lugarteniente más despiadado de todos
+- **Solo le importa su plano:** Su único objetivo es quedarse con toda Chronosia
+- **Solo le importa el poder de Aethernus:** Ve a Aethernus únicamente como fuente de poder, no como líder
+- **Sin lealtad:** Está dispuesto a traicionar a cualquiera si le beneficia
 
 **Estrategia de Competencia:**
 - **Drenaje Temporal:** Roban años de vida de regiones enteras
 - **Conquista Agresiva:** Ataques directos para demostrar fuerza
 - **Subordinación por Miedo:** Usan terror para controlar a los débiles
-- **Pacto de Sangre:** Vorthak ofrece "protección" a cambio de lealtad eterna
+- **Pacto de Sangre:** Vorthak ofrece "protección" a cambio de lealtad eterna (pero es despiadado con sus subordinados)
 
 **Objetivos:**
 1. Conquistar al menos 3 regiones adicionales
 2. Eliminar a Edward Teach (amenaza impredecible)
 3. Drenar poder de un lugarteniente dimensional para equilibrar
+4. Quedarse con toda Chronosia para sí mismo
 
 **Relación con PJ:** 
 - **Enemigos declarados** - Vorthak ve a los PJ como amenaza directa
-- Serapis puede pedir ayuda secretamente si los PJ lo tratan bien
 - Varrak es neutral pero observa
+- Serapis está aislado y no puede unirse al bando temporal
 
 ---
 
@@ -117,27 +124,39 @@ Después de que Edward Teach asesina a Thyra, los demás lugartenientes **reacci
 **Líder:** Ignis el Devorador Espacial
 
 **Miembros:**
-- **Matrona Veldrisza** (aliada pragmática, intereses mutuos)
+- **Matrona Veldrisza** (aliada pragmática, intereses mutuos, controla los Bregan Daerthe)
 - **Las Gemelas del Espejo** (neutrales pero inclinadas al bando dimensional)
 - **Ymir el Eterno Invierno** (opcional, si está presente)
 
 **Filosofía:**
 *"El espacio es infinito, los planos son innumerables. Expandiremos nuestro dominio a través de todas las dimensiones. Seremos amos de mil mundos."*
 
+**Características del Líder:**
+- **Caótico Malvado:** Ignis es Caótico Malvado en su esencia más pura
+- **Sin razón aparente:** Abre portales a los Nueve Infiernos simplemente para sembrar el caos
+- **Disfruta la destrucción:** No busca poder, control o riqueza - solo disfruta ver el mundo arder
+- **Impulsivo:** Actúa según sus caprichos, sin planificación a largo plazo
+- **Caos por el caos:** La destrucción y el caos son fines en sí mismos
+
 **Estrategia de Competencia:**
-- **Expansión Metódica:** Conquista organizada y sistemática
-- **Red de Portales:** Construcción de infraestructura dimensional
-- **Alianzas Estratégicas:** Negociaciones y pactos calculados
-- **Imperio Multidimensional:** Creación de un sistema de gobierno a largo plazo
+- **Expansión Metódica:** Conquista organizada y sistemática (aunque impulsiva)
+- **Red de Portales:** Construcción de infraestructura dimensional (incluyendo portales a los Nueve Infiernos)
+- **Sembrar el Caos:** Abre portales a los Infiernos sin razón aparente, solo por diversión destructiva
+- **Alianzas Estratégicas:** Negociaciones y pactos calculados (pero puede romperlos por capricho)
+- **Imperio Multidimensional:** Creación de un sistema de gobierno a largo plazo (aunque no tiene objetivo estratégico real)
 
 **Objetivos:**
 1. Conectar todas las regiones con portales bajo su control
-2. Establecer alianzas con planos externos (Menzoberranzan, Plano de Fuego)
-3. Demostrar superioridad organizativa sobre el caos temporal
+2. Establecer alianzas con planos externos (Menzoberranzan, Plano de Fuego, Nueve Infiernos)
+3. Sembrar el caos y la destrucción (sin objetivo estratégico)
+4. Disfrutar del poder y la devastación
+
+**Recursos Especiales:**
+- **Cristales de Poder:** Su región tiene la mayor concentración de cristales de poder en Chronosia (importante para La Resistencia pero extremadamente peligrosa)
 
 **Relación con PJ:**
 - **Negociables** - Pueden formar alianzas temporales si beneficia
-- Ignis respeta la fuerza; los PJ pueden ganarse su consideración
+- Ignis respeta la fuerza; los PJ pueden ganarse su consideración (pero puede traicionarlos por capricho)
 - Veldrisza ve oportunidad de manipulación política
 - Las Gemelas juegan su propio juego misterioso
 
@@ -174,50 +193,56 @@ Después de que Edward Teach asesina a Thyra, los demás lugartenientes **reacci
 
 ---
 
-## 📊 **SISTEMA DE PUNTOS DE ASCENSIÓN**
+## 📊 **COMPETENCIA NARRATIVA ENTRE LUGARTENIENTES**
 
-Los lugartenientes acumulan "Puntos de Ascensión" durante la competencia. Cuando alguien alcanza **15 puntos**, Aethernus lo elige como Lugarteniente Supremo.
+Los lugartenientes compiten por el favor de Aethernus y por poder divino, pero **sin un sistema mecánico de puntos**. La competencia se desarrolla narrativamente según las acciones de los lugartenientes y las decisiones de los PJ.
 
-### **Tabla de Acciones y Puntos:**
+### **Acciones que Aumentan el Poder de un Lugarteniente:**
 
-| **Acción** | **Puntos** | **Ejemplos Específicos** |
-|------------|------------|--------------------------|
-| **Asesinar a otro lugarteniente** | +5 | Edward Teach mata a Thyra = 5 puntos |
-| **Conquistar región completa** | +3 | Ignis anexa Las Calderas = 3 puntos |
-| **Debilitar significativamente a los PJ** | +2 | Matar a un PJ, destruir aliados importantes |
-| **Completar misión de Aethernus** | +2 | Sacrificar 1000 almas, encontrar artefacto |
-| **Formar alianza exitosa (3+ sesiones)** | +1 | Vorthak + Serapis se mantienen unidos |
-| **Ritual de extracción divina** | +4 | Extraer poder directamente de los dioses (1 vez) |
-| **Traicionar exitosamente** | +2 | Dimensionalis traiciona y sobrevive |
-| **Defender exitosamente de invasión** | +1 | Rechazar ataque de otro lugarteniente |
+| **Acción** | **Efecto Narrativo** | **Ejemplos Específicos** |
+|------------|----------------------|--------------------------|
+| **Asesinar a otro lugarteniente** | Gana poder significativo y reputación | Edward Teach mata a Thyra y absorbe su poder |
+| **Conquistar región completa** | Expande su dominio y recursos | Ignis anexa Las Calderas |
+| **Debilitar significativamente a los PJ** | Demuestra fuerza y elimina amenazas | Matar a un PJ, destruir aliados importantes |
+| **Completar misión de Aethernus** | Gana favor directo | Sacrificar 1000 almas, encontrar artefacto |
+| **Formar alianza exitosa (3+ sesiones)** | Estabilidad y poder conjunto | Vorthak + Serapis se mantienen unidos |
+| **Ritual de extracción divina** | Acceso directo a poder divino | Extraer poder directamente de los dioses (1 vez) |
+| **Traicionar exitosamente** | Demuestra astucia y supervivencia | Dimensionalis traiciona y sobrevive |
+| **Defender exitosamente de invasión** | Demuestra fuerza y resistencia | Rechazar ataque de otro lugarteniente |
 
-### **Modificadores Especiales:**
+### **Cómo Determinar "Lugartenientes Supremos":**
 
-| **Situación** | **Modificador** | **Nota** |
-|---------------|-----------------|----------|
-| **Derrotar a lugarteniente de tipo opuesto** | x2 puntos | Temporal mata a Dimensional o viceversa |
-| **Robar poder (como Edward Teach)** | +3 adicionales | Bonus por absorción de poder |
-| **Ser derrotado por PJ** | -3 puntos | Penalización por debilidad mostrada |
-| **Perder región conquistada** | -2 puntos | Penalización por incompetencia |
+**Criterios Narrativos:**
+- **Acciones Significativas:** Lugartenientes que han logrado múltiples victorias importantes
+- **Poder Acumulado:** Aquellos que han robado o absorbido poder de otros
+- **Dominio Territorial:** Lugartenientes que controlan múltiples regiones
+- **Influencia:** Aquellos que han formado alianzas poderosas o han demostrado liderazgo
+
+**El DM decide narrativamente** qué lugartenientes se han vuelto lo suficientemente poderosos como para ser considerados "Supremos" basándose en:
+- Eventos que han ocurrido en la campaña
+- Derrotas de otros lugartenientes
+- Alianzas formadas
+- Poder robado o absorbido
+
+**Máximo 3 Supremos** pueden existir simultáneamente durante la campaña, pero esto se determina narrativamente, no mecánicamente.
 
 ---
 
 ## 📊 **TABLA DE SEGUIMIENTO DEL DM**
 
 > **📊 Para tablas completas de tracking:**
-> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#1-sistema-de-puntos-de-la-ascensión-del-cónclave)** para:
-> - Tabla de Puntuación de Lugartenientes (completa y actualizable)
-> - Registro de Eventos por Sesión
-> - Estado de Lugartenientes
+> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** para:
+> - Estado de Lugartenientes (vivo/muerto/aliado)
+> - Balance Temporal/Dimensional
+> - Desbloqueo de Regiones
 > - Todas las demás tablas de tracking de la campaña
 
 **Instrucciones para el DM:**
-- Actualiza los puntos después de cada evento importante en la tabla centralizada
-- Marca relaciones cambiantes con los PJ
-- Cuando alguien alcance 15 puntos, **recibe automáticamente** un fragmento de poder divino (Supremo)
-  - **NO hay proclamación** - el poder fluye automáticamente al más fuerte
-  - Manshoon configuró el sistema así ANTES de recluirse, pero ahora NO sabe quién lo recibe
-- Máximo 3 Supremos durante la campaña
+- **Trackea el estado narrativo** de cada lugarteniente (vivo/muerto/aliado)
+- **Registra acciones importantes** que aumenten o disminuyan su poder
+- **Evalúa narrativamente** qué lugartenientes se han vuelto "Supremos" basándose en sus logros
+- **Mantén coherencia narrativa** - si un lugarteniente ha logrado múltiples victorias importantes, es candidato a Supremo
+- **Máximo 3 Supremos** durante la campaña (determinado narrativamente)
 
 ---
 
@@ -225,20 +250,37 @@ Los lugartenientes acumulan "Puntos de Ascensión" durante la competencia. Cuand
 
 Cada 2-3 sesiones, tira **1d12** para determinar qué ocurre en el Cónclave:
 
-| **d12** | **Evento** | **Descripción** | **Puntos Otorgados** |
-|---------|------------|-----------------|----------------------|
-| **1** | **Duelo a Muerte** | Dos lugartenientes se enfrentan; uno muere o huye gravemente herido | Ganador: +5 pts |
-| **2** | **Conquista Territorial** | Un lugarteniente invade la región de otro exitosamente | Conquistador: +3 pts |
-| **3** | **Alianza Forjada** | Dos lugartenientes forman alianza formal (beneficio mutuo) | Ambos: +1 pt |
-| **4** | **Traición Revelada** | Un aliado traiciona a otro lugarteniente públicamente | Traidor: +2 pts si sobrevive |
-| **5** | **Ritual Oscuro** | Un lugarteniente intenta extraer poder divino directamente | Éxito: +4 pts, Fallo: -2 pts |
-| **6** | **Búsqueda de PJ** | Un lugarteniente busca activamente alianza/confrontación con los PJ | Variable según resultado |
-| **7** | **Ataque a los PJ** | Un lugarteniente prepara emboscada o trampa contra los PJ | Si éxito: +2 pts |
-| **8** | **Intervención de Aethernus** | Manshoon castiga o premia a alguien públicamente | +2 pts si premiado, -3 si castigado |
-| **9** | **Robo de Poder** | Edward Teach intenta asesinar a otro para robar su poder | Variable, alto riesgo |
-| **10** | **Espionaje Revelado** | Dimensionalis es descubierta espiando para múltiples bandos | Caos general |
-| **11** | **Guerra Abierta** | Dos bandos enteros entran en conflicto armado masivo | Múltiples puntos en juego |
-| **12** | **Ascenso Prematuro** | Aethernus elige a un Supremo antes de alcanzar 15 puntos | Elegido: Supremo inmediato |
+| **d12** | **Evento** | **Descripción** | **Efecto Narrativo** |
+|---------|------------|-----------------|---------------------|
+| **1** | **Duelo a Muerte** | Dos lugartenientes se enfrentan; uno muere o huye gravemente herido | Ganador gana poder significativo y reputación |
+| **2** | **Conquista Territorial** | Un lugarteniente invade la región de otro exitosamente | Conquistador expande su dominio |
+| **3** | **Alianza Forjada** | Dos lugartenientes forman alianza formal (beneficio mutuo) | Ambos ganan estabilidad y poder conjunto |
+| **4** | **Traición Revelada** | Un aliado traiciona a otro lugarteniente públicamente | Traidor demuestra astucia si sobrevive |
+| **5** | **Ritual Oscuro** | Un lugarteniente intenta extraer poder divino directamente | Éxito: Gana poder divino significativo. Fallo: Pierde poder |
+| **6** | **Búsqueda de PJ** | Un lugarteniente busca activamente alianza/confrontación con los PJ | Variable según resultado de la interacción |
+| **7** | **Ataque a los PJ** | Un lugarteniente prepara emboscada o trampa contra los PJ | Si éxito: Demuestra fuerza y elimina amenazas |
+| **8** | **Intervención de Aethernus** | Manshoon castiga o premia a alguien públicamente | Premio: Gana favor. Castigo: Pierde poder |
+| **9** | **Robo de Poder** | Edward Teach intenta asesinar a otro para robar su poder | Variable, alto riesgo pero alto beneficio si tiene éxito |
+| **10** | **Espionaje Revelado** | Dimensionalis es descubierta espiando para múltiples bandos | Caos general, relaciones rotas |
+| **11** | **Guerra Abierta** | Dos bandos enteros entran en conflicto armado masivo | **⚠️ ZONA DE GUERRA:** Todas las regiones de ambos bandos se convierten en zonas de guerra. Múltiples lugartenientes compiten por poder |
+| **12** | **Ascenso Prematuro** | Un lugarteniente logra un acto tan poderoso que se vuelve Supremo inmediatamente | Elegido: Se convierte en Supremo narrativamente |
+
+---
+
+## ⚔️ **ZONAS DE GUERRA**
+
+### **🔴 ¿Qué son las Zonas de Guerra?**
+
+Cuando dos lugartenientes se enfrentan directamente (duelo, batalla abierta, conquista territorial, guerra entre bandos), sus territorios se convierten en **Zonas de Guerra**. Estas regiones se vuelven extremadamente peligrosas y activas, con encuentros frecuentes entre fuerzas enemigas.
+
+**⚠️ Efectos en las Regiones:**
+- **Encuentros Frecuentes:** Los PJ tienen **50% más probabilidad** de encontrarse con grupos o batallas
+- **Patrullas Activas:** Ambos bandos patrullan constantemente
+- **Destrucción Visible:** Paisaje devastado, fortalezas dañadas, campos de batalla
+- **Refugiados:** Civiles huyendo de la guerra
+- **Oportunidades:** Los PJ pueden aprovechar el caos para infiltrarse o aliarse
+
+**📖 Para tablas de encuentros y mecánicas detalladas:** Ver sección "Zonas de Guerra" más abajo en este documento.
 
 ---
 
@@ -424,7 +466,7 @@ THYRA: "¡Nunca! ¡Guardias!"
 
 FRAGMENTO 3:
 [Combate brutal. Teach lucha con habilidad pirata + poderes robados de un 
-lugarteniente anterior menor]
+lugarteniente anterior]
 THYRA: "¡Maldito! ¡Te suspenderé en el tiempo para siempre!"
 [Intenta usar su poder supremo]
 
@@ -551,17 +593,20 @@ VORTHAK:
 SERAPIS:
 "No... no no no. Si Thyra cayó, YO podría ser el siguiente. Soy el más débil..."
 
-[Recibe el mensaje de Vorthak]
+[Intenta contactar a Vorthak, pero algo le impide hacerlo]
 
 SERAPIS:
-"Vorthak... quiere hablar. No tengo opción. Si no me alío con alguien poderoso, 
-moriré."
+"Vorthak... no responde. Algo está mal. No puedo aliarme con él... 
+se van a realizar cambios. ¿Qué significa esto?"
 
-[Abre un portal temporal para ir a la mansión de Vorthak]
+[Serapis está confundido y aterrorizado, sin saber qué hacer]
 
 SERAPIS (murmurando):
-"Mejor ser subordinado de Vorthak que ser el próximo cadáver..."
+"Si no puedo aliarme con Vorthak... ¿qué opciones tengo? 
+Solo puedo confiar en mis propios planes."
 ```
+
+**⚠️ NOTA:** Serapis **NO puede aliarse con Vorthak** debido a cambios en las dinámicas de poder que se van a realizar. Esto lo deja más vulnerable y aislado.
 
 **3. IGNIS EL DEVORADOR ESPACIAL (En Volcanis):**
 ```
@@ -601,6 +646,12 @@ Debemos asegurar una alianza con Ignis inmediatamente."
 
 VELDRISZA (mensaje):
 "Dragón. Hablemos. Los dimensionales debemos coordinarnos o caeremos uno por uno."
+
+[Pausa, pensando estratégicamente]
+
+VELDRISZA (a sus consejeros):
+"Los Bregan Daerthe están en posición. Cuando los lugartenientes muevan sus casillas, 
+actuarán. Serapis será útil... una vez que esté bajo mi control."
 ```
 
 **5. EDWARD TEACH (En el Archipiélago de Barbanegra):**
@@ -834,7 +885,7 @@ Los dos líderes de bando más poderosos entran en conflicto directo:
 **Causa del Conflicto:**
 - Ignis intenta expandir Las Calderas Dimensionales hacia territorio temporal
 - Vorthak ve esto como amenaza directa
-- Ambos quieren demostrar superioridad para ganar puntos de Ascensión
+- Ambos quieren demostrar superioridad para ganar poder y reputación
 
 ---
 
@@ -907,18 +958,18 @@ VELDRISZA (tejiendo redes espaciales):
 **Opción A: Victoria de Vorthak**
 - Vorthak drena suficiente vida temporal de Ignis para debilitarlo gravemente
 - Ignis huye a Las Calderas a recuperarse
-- Vorthak gana +3 puntos (conquista territorial)
+- **Efecto Narrativo:** Vorthak gana poder significativo y reputación (conquista territorial)
 - Consecuencia: Bando Temporal domina por ahora
 
 **Opción B: Victoria de Ignis**
 - Ignis quema la mitad de la Mansión con fuego dimensional
 - Vorthak se retira, necesita recuperar sus reservas temporales
-- Ignis gana +3 puntos (conquista territorial)
+- **Efecto Narrativo:** Ignis gana poder significativo y reputación (conquista territorial)
 - Consecuencia: Bando Dimensional domina por ahora
 
 **Opción C: Empate Sangriento**
 - Ambos se retiran, gravemente heridos
-- No ganan puntos
+- **Efecto Narrativo:** Ambos pierden influencia, mostrando debilidad
 - Consecuencia: Ventana de oportunidad para otros (Edward Teach, Dimensionalis)
 - Los Independientes pueden actuar sin oposición fuerte
 
@@ -1149,6 +1200,33 @@ El caos alcanza su punto máximo. Los bandos se fragmentan. Las traiciones ocurr
 
 ---
 
+#### **0. La Traición de Serapis y su Resurrección (Fase 3: Sandbox Avanzado)**
+
+**⚠️ TIMING:** Ocurre después de la trama de "La Traición de Serapis" (ver [04_La_Traicion_de_Serapis.md](../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md))
+
+**Lo Que Ocurre:**
+Después de que los lugartenientes mueven sus casillas en la guerra civil, la Matrona Veldrisza ordena a los Bregan Daerthe (que están comprados por ella) que maten a Serapis. Los Bregan Daerthe traicionan a Serapis, lo asesinan, y llevan su cuerpo a Veldrisza.
+
+**El Ritual Zin-Carla:**
+Veldrisza invoca el ritual drow de resurrección, resucitando a Serapis como no-muerto bajo su control. Serapis resucitado conserva sus poderes temporales pero ahora está bajo el control de Veldrisza, combinando poderes temporales y dimensionales de forma única.
+
+**Consecuencias:**
+- **Veldrisza gana un aliado poderoso** con poderes temporales
+- **Serapis está "muerto" pero resucitado** como no-muerto
+- **Los Bregan Daerthe revelan su verdadera lealtad** (están comprados por Veldrisza)
+- **La guerra civil se intensifica** - Veldrisza ahora tiene ventaja significativa
+- **El Bando Dimensional se fortalece** con un lugarteniente temporal bajo su control
+
+**Impacto en la Competencia:**
+- **Efecto Narrativo:** Veldrisza gana poder significativo y reputación (traición exitosa y adquisición de aliado poderoso)
+- El Bando Dimensional gana ventaja significativa
+- El Bando Temporal se debilita (Serapis ya no puede unirse a ellos de todas formas)
+- Los PJ descubren el poder de manipulación de Veldrisza
+
+---
+
+---
+
 #### **1. La Traición de Dimensionalis**
 
 **Escena:** Dimensionalis traiciona a quien le haya pagado más recientemente
@@ -1159,15 +1237,15 @@ El caos alcanza su punto máximo. Los bandos se fragmentan. Las traiciones ocurr
 - Si trabajaba para los PJ → vende su información al mejor postor
 
 **Resultado:**
-- Dimensionalis gana +2 puntos (traición exitosa)
-- El traicionado pierde -2 puntos
+- **Efecto Narrativo:** Dimensionalis gana poder y reputación (traición exitosa)
+- El traicionado pierde influencia y poder
 - Los PJ aprenden: **Nunca confiar completamente en Dimensionalis**
 
 ---
 
 #### **2. Edward Teach Intenta Su Segundo Asesinato**
 
-**Objetivo de Teach:** Robar otro poder para acercarse a la Ascensión
+**Objetivo de Teach:** Robar otro poder para fortalecerse y demostrar superioridad
 
 **Víctimas Potenciales:**
 - **Serapis el Retroceso** (débil, poder de reversión temporal valioso)
@@ -1182,13 +1260,13 @@ Los PJ pueden:
 - **Tender trampa a ambos** (intentan eliminar a dos lugartenientes)
 
 **Si Edward Tiene Éxito:**
-- Gana +5 puntos (asesinato de lugarteniente)
+- **Efecto Narrativo:** Gana poder significativo y reputación (asesinato de lugarteniente)
 - Gana nuevo poder (actualizar acciones legendarias)
 - Varrak se fragmenta AÚN MÁS (casi colapsa mentalmente)
-- Edward alcanza ~12-14 puntos (cerca de Ascensión)
+- Edward se vuelve extremadamente peligroso y temido
 
 **Si Edward Falla:**
-- Pierde -3 puntos (mostrar debilidad)
+- **Efecto Narrativo:** Pierde influencia y reputación (mostrar debilidad)
 - Se convierte en enemigo del bando de la víctima
 - Debe esconderse temporalmente
 
@@ -1249,7 +1327,7 @@ JARLAXLE (sonriendo):
 **Consecuencias:**
 - Bregan D'aerthe entra en Chronosia como facción mercenaria
 - Los PJ pueden contratar a Jarlaxle (si tienen oro)
-- Veldrisza gana +1 punto (alianza exitosa)
+- **Efecto Narrativo:** Veldrisza gana poder y estabilidad (alianza exitosa)
 - Nueva complicación: Drow en la superficie
 
 **Oportunidad PJ:**
@@ -1269,62 +1347,56 @@ Los primeros Supremos son elegidos. La competencia alcanza su clímax. Los PJ de
 
 ### **Sesión 15-16: Primeros Ascendidos**
 
-**Evento Principal: Aethernus Elige al Primer Supremo**
+**Evento Principal: Primeros Lugartenientes Supremos**
 
-**Candidatos Más Probables (según puntos acumulados):**
+**⚠️ NOTA:** La ascensión a Supremo se determina **narrativamente** según los logros de cada lugarteniente, no por un sistema de puntos.
+
+**Candidatos Más Probables (según logros narrativos):**
 
 | **Lugarteniente** | **Probabilidad** | **Razón** |
 |-------------------|------------------|-----------|
-| **Edward Teach** | 60% | Ha matado 1-2 lugartenientes, robado sus poderes |
-| **Lord Vorthak** | 30% | Ha conquistado territorios, lidera bando temporal |
-| **Ignis** | 25% | Ha expandido territorio, lidera bando dimensional |
-| **Dimensionalis** | 15% | Ha traicionado exitosamente múltiples veces |
+| **Edward Teach** | Alta | Ha matado 1-2 lugartenientes, robado sus poderes, tiene el Talismán |
+| **Lord Vorthak** | Media-Alta | Ha conquistado territorios, lidera bando temporal, es el más despiadado |
+| **Ignis** | Media | Ha expandido territorio, lidera bando dimensional, extremadamente poderoso |
+| **Matrona Veldrisza** | Media | Ha manipulado exitosamente, controla Bregan Daerthe, resucitó a Serapis |
+| **Dimensionalis** | Baja-Media | Ha traicionado exitosamente múltiples veces, pero es independiente |
 
 ---
 
-#### **Escena: La Primera Ascensión**
+#### **Escena: La Primera Ascensión (Narrativa)**
 
-**Ubicación:** El Corazón de Chronosia
+**⚠️ IMPORTANTE:** La ascensión a Supremo NO requiere una escena formal de Aethernus. Los lugartenientes se vuelven Supremos **narrativamente** cuando han acumulado suficiente poder a través de sus acciones.
 
-**Los Presentes:** Todos los lugartenientes vivos + los PJ (si son relevantes)
+**Cómo Funciona:**
+- El DM evalúa narrativamente qué lugartenientes han logrado múltiples victorias importantes
+- Lugartenientes que han robado poder, conquistado territorios, o formado alianzas poderosas son candidatos
+- Cuando un lugarteniente alcanza un nivel de poder significativo, se considera "Supremo" narrativamente
+- **Máximo 3 Supremos** pueden existir simultáneamente
+
+**Escena Opcional (si el DM quiere dramatizarla):**
+
+**Ubicación:** El Corazón de Chronosia o la región del lugarteniente
+
+**Los Presentes:** Lugartenientes relevantes + los PJ (si están presentes)
 
 ```
-[Aethernus aparece en su trono, con los dioses capturados visibles detrás 
-de él - Amaunator y Voidar, debilitados pero aún poderosos]
+[El lugarteniente que ha acumulado suficiente poder siente una transformación]
 
-AETHERNUS:
-"Ha llegado el momento. Uno de vosotros ha demostrado valía suficiente."
+LUGARTENIENTE (sintiendo poder divino fluyendo):
+"Algo... algo ha cambiado. Siento... poder. Poder real."
 
-[Mira al elegido]
+[Su cuerpo comienza a brillar con energía temporal/dimensional]
 
-AETHERNUS:
-"[NOMBRE DEL ELEGIDO]. Arrodíllate."
-
-[El elegido se arrodilla]
-
-AETHERNUS:
-"Has conquistado. Has destruido. Has demostrado ambición sin límite. 
-Te concedo mi don."
-
-[Coloca su mano sobre la cabeza del elegido. Energía DIVINA explota]
-
-[El elegido GRITA mientras poder divino fluye hacia él. Su cuerpo brilla 
-con luz temporal/dimensional]
-
-AETHERNUS:
-"Levántate. Ya no eres simple lugarteniente. Eres mi MANO DERECHA. 
-Mi extensión. Mi voluntad hecha carne."
+LUGARTENIENTE (transformándose):
+"Ya no soy simple lugarteniente. Soy... SUPREMO."
 
 [El ahora-Supremo se levanta, transformado. Su aura hace temblar la realidad]
 
 SUPREMO:
-"Gracias... mi señor. No te decepcionaré."
-
-[Mira al resto de lugartenientes con superioridad]
-
-SUPREMO:
 "Los demás... arrodillaos ante mí. O uniros a los caídos."
 ```
+
+**Nota:** Esta escena es opcional. El DM puede simplemente declarar que un lugarteniente se ha vuelto Supremo basándose en sus logros narrativos.
 
 ---
 
@@ -1416,20 +1488,20 @@ LORD VORTHAK (calculando):
 
 ### **📊 Cómo se Resuelve la Lucha de Poder:**
 
-La lucha de poder se resuelve mediante el **Sistema de Puntos de Ascensión**:
+La lucha de poder se resuelve **narrativamente** según las acciones de los lugartenientes y las decisiones de los PJ:
 
-| **Mecánica** | **Descripción** | **Cuándo Ocurre** |
-|--------------|-----------------|-------------------|
-| **Ascensión a Supremo** | Un lugarteniente alcanza 15 puntos | Puede ocurrir desde Sesión 15 |
+| **Mecánica Narrativa** | **Descripción** | **Cuándo Ocurre** |
+|------------------------|-----------------|-------------------|
+| **Ascensión a Supremo** | Un lugarteniente logra múltiples victorias importantes y acumula poder significativo | Puede ocurrir desde Sesión 10+ según narrativa |
 | **Máximo de Supremos** | Solo 3 lugartenientes pueden ascender | Durante toda la campaña |
-| **Muerte Permanente** | Un lugarteniente es derrotado por los PJ | -15 puntos (sale de la competencia) |
+| **Muerte Permanente** | Un lugarteniente es derrotado por los PJ | Sale de la competencia permanentemente |
 | **Eliminación Natural** | Lugartenientes se matan entre sí | Eventos aleatorios (duelos, traiciones) |
 
 ### **🎯 Estado al Llegar al Clímax (Sesión 13-15):**
 
 **Escenario Típico:**
 - **2-3 lugartenientes vivos** (el resto fueron derrotados por los PJ o se mataron entre sí)
-- **0-3 Supremos** (depende de si alguien alcanzó 15 puntos)
+- **0-3 Supremos** (determinado narrativamente según logros y poder acumulado)
 - **Alianzas rotas o reforzadas** (según las acciones de los PJ)
 
 **Ejemplos de Estados Finales:**
@@ -1443,13 +1515,14 @@ La lucha de poder se resuelve mediante el **Sistema de Puntos de Ascensión**:
 
 ### **👑 Estado de los Lugartenientes al Llegar al Clímax:**
 
-#### **Lugartenientes Supremos (15+ puntos):**
+#### **Lugartenientes Supremos (Narrativamente Determinados):**
 - **Poder x3:** HP, daño, CD de hechizos multiplicados por 3
 - **Inmortalidad Divina:** No pueden morir permanentemente (se regeneran en 1d4 días)
 - **Autoridad Suprema:** Pueden convocar a otros lugartenientes
 - **¿Dónde Están?** Defendiendo regiones, intentando llegar a la Torre, o ya en la Torre como guardianes
+- **Criterio:** Lugartenientes que han logrado múltiples victorias importantes, robado poder significativo, o controlan múltiples regiones
 
-#### **Lugartenientes No-Supremos (0-14 puntos):**
+#### **Lugartenientes No-Supremos:**
 - **Poder Normal:** Estadísticas base
 - **Mortalidad:** Pueden morir permanentemente
 - **¿Dónde Están?** Defendiendo regiones, intentando llegar a la Torre, aliados con los PJ, o ya derrotados
@@ -1462,7 +1535,7 @@ La lucha de poder se resuelve mediante el **Sistema de Puntos de Ascensión**:
 - **Dificultad:** ⭐⭐⭐ (Normal)
 
 #### **Escenario 2: Manshoon + Supremos (Lugartenientes Supremos Vivos)**
-- 1-3 lugartenientes alcanzaron 15 puntos (Supremos)
+- 1-3 lugartenientes se han vuelto Supremos narrativamente (lograron múltiples victorias importantes)
 - Combate multi-fase: Primero los Supremos, luego Manshoon
 - **Dificultad:** ⭐⭐⭐⭐⭐ (Muy Difícil)
 
@@ -1511,11 +1584,11 @@ La lucha de poder se resuelve mediante el **Sistema de Puntos de Ascensión**:
 
 ### **📋 Tabla de Resolución Rápida (Sesión 13):**
 
-**Antes de la Sesión 13, el DM debe calcular:**
+**Antes de la Sesión 13, el DM debe evaluar narrativamente:**
 
 | **Factor** | **Pregunta** | **Opciones** |
 |------------|--------------|--------------|
-| **Supremos** | ¿Cuántos lugartenientes alcanzaron 15 puntos? | 0, 1, 2, o 3 |
+| **Supremos** | ¿Cuántos lugartenientes se han vuelto Supremos narrativamente? | 0, 1, 2, o 3 (basado en logros) |
 | **Lugartenientes Vivos** | ¿Cuántos lugartenientes siguen vivos? | 0-12 |
 | **Aliados PJ** | ¿Los PJ tienen aliados lugartenientes? | Sí (lista) o No |
 | **Edward Teach** | ¿Teach tiene el Talismán y está vivo? | Sí o No |
@@ -1532,10 +1605,11 @@ La lucha de poder se resuelve mediante el **Sistema de Puntos de Ascensión**:
 | **3** | **3-5** | **No** | Escenario 2: Múltiples Supremos (Muy Difícil) |
 
 **💡 Consejos para el DM:**
-1. **Calcula el estado ANTES de la Sesión 13:** Revisa las tablas de tracking en [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)
-2. **Adapta la dificultad:** Si hay muchos Supremos, reduce su número o hazlos enemigos entre sí
-3. **Mantén la coherencia narrativa:** Si Vorthak es Supremo y está aliado con Manshoon, debe aparecer en el combate
-4. **Balancea el combate:** No hagas el combate imposible (a menos que sea Final D)
+1. **Evalúa el estado narrativamente ANTES de la Sesión 13:** Revisa las tablas de tracking en [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)
+2. **Determina Supremos narrativamente:** Considera qué lugartenientes han logrado múltiples victorias, robado poder, o controlan múltiples regiones
+3. **Adapta la dificultad:** Si hay muchos Supremos, reduce su número o hazlos enemigos entre sí
+4. **Mantén la coherencia narrativa:** Si Vorthak es Supremo y está aliado con Manshoon, debe aparecer en el combate
+5. **Balancea el combate:** No hagas el combate imposible (a menos que sea Final D)
 
 ---
 
@@ -1601,26 +1675,33 @@ Solo quedan 2-3 lugartenientes vivos + Aethernus
 
 Después de cada sesión donde ocurran eventos del Cónclave:
 
-- [ ] Actualizar puntos de Ascensión de cada lugarteniente
+- [ ] Evaluar narrativamente qué lugartenientes han ganado poder significativo
 - [ ] Anotar cambios en relaciones PJ-lugartenientes
-- [ ] Verificar si alguien alcanzó 15 puntos (Ascensión)
+- [ ] Evaluar si algún lugarteniente se ha vuelto Supremo narrativamente (basado en logros)
 - [ ] Determinar próximo evento (tabla o narrativo)
 - [ ] Actualizar estado de Varrak (si Edward Teach actuó)
 - [ ] Preparar consecuencias para próxima sesión
 
 ---
 
-### **Tabla Rápida: ¿Quién Asciende Primero?**
+### **Guía Rápida: ¿Quién Asciende Primero?**
 
-Usa esto si necesitas decidir rápidamente:
+Evalúa narrativamente basándote en logros:
 
-| **Lugarteniente** | **Puntos Probables Sesión 15** | **Probabilidad Ascensión** |
-|-------------------|--------------------------------|----------------------------|
-| Edward Teach | 12-14 | ⭐⭐⭐⭐⭐ |
-| Lord Vorthak | 10-12 | ⭐⭐⭐⭐ |
-| Ignis | 9-11 | ⭐⭐⭐ |
-| Dimensionalis | 7-9 | ⭐⭐ |
-| Matrona Veldrisza | 6-8 | ⭐⭐ |
+| **Lugarteniente** | **Logros Típicos para Ascensión** | **Probabilidad Ascensión** |
+|-------------------|-----------------------------------|----------------------------|
+| Edward Teach | Ha matado 1-2 lugartenientes, robado sus poderes, tiene el Talismán | ⭐⭐⭐⭐⭐ |
+| Lord Vorthak | Ha conquistado territorios, lidera bando temporal, es el más despiadado | ⭐⭐⭐⭐ |
+| Ignis | Ha expandido territorio, lidera bando dimensional, extremadamente poderoso | ⭐⭐⭐ |
+| Matrona Veldrisza | Ha manipulado exitosamente, controla Bregan Daerthe, resucitó a Serapis | ⭐⭐⭐ |
+| Dimensionalis | Ha traicionado exitosamente múltiples veces, pero es independiente | ⭐⭐ |
+
+**Criterios Narrativos para Ascensión:**
+- Ha matado o derrotado a otros lugartenientes
+- Ha conquistado múltiples regiones
+- Ha formado alianzas poderosas y estables
+- Ha robado o absorbido poder significativo
+- Ha demostrado liderazgo y ambición sin límites
 
 ---
 

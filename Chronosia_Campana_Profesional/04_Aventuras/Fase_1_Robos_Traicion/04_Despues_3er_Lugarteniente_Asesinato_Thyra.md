@@ -5,6 +5,8 @@
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 1](./00_Guia_General_Fase_1.md)
+> - [Después del 3er Lugarteniente: Creación del Talismán](./03_Despues_3er_Lugarteniente_Creacion_Talisman.md)
+> - [Inmediatamente Después: Caos Desencadenado](./05_Inmediatamente_Despues_Caos_Desencadenado.md)
 > - [El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md) - Sección "El Asesinato de Thyra"
 > - [La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Sistema completo
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos
@@ -74,20 +76,16 @@ Y luego... silencio eterno.
 
 **Si los PJ Investigan el Valle:**
 
-**⚠️ IMPORTANTE:** La región de Thyra está **BLOQUEADA** por una barrera de estasis temporal **ANTES** del asesinato. Los PJ NO pueden entrar sin el Talismán. Solo pueden observar desde fuera. **DESPUÉS** del asesinato, la estasis desaparece y la región se vuelve totalmente accesible.
+**⚠️ IMPORTANTE:** La región de Thyra está **BLOQUEADA** por una barrera de estasis temporal. Los PJ NO pueden entrar sin el Talismán. Solo pueden observar desde fuera.
 
-**Lo Que Encuentran (Si Llegan ANTES del Asesinato - Desde Fuera):**
+**Lo Que Encuentran (Desde Fuera):**
 - El Valle está completamente congelado en el tiempo
 - Una barrera de estasis visible (como un muro de cristal temporal) rodea la región
+- Dentro, visible a través de la barrera:
+  - Thyra la Suspendida, con una espada atravesándole el pecho
+  - Edward Teach visible en el momento del asesinato (congelado en el acto de robar el poder)
+  - Sangre suspendida en el aire, formando patrones de cristal temporal
 - La barrera es impenetrable sin el Talismán (CD 22 Sabiduría, casi imposible)
-- Solo pueden observar desde fuera
-
-**Lo Que Encuentran (Si Llegan DESPUÉS del Asesinato - Región Accesible):**
-- ✅ **La barrera de estasis ha desaparecido** - La región es totalmente accesible
-- Restos del asesinato: Cristales de tiempo rotos esparcidos por el suelo
-- Sangre seca y signos de lucha brutal
-- El cuerpo de Thyra (si los PJ investigan)
-- **El camino hacia la Torre de la Eternidad en las montañas del norte ahora es visible**
 
 **Mecánica Especial - "Ecos del Asesinato":**
 
@@ -121,7 +119,7 @@ THYRA: "No... mi poder... ¡NO PUEDES—! ¡Mi barrera...!"
 FRAGMENTO 6:
 [Teach absorbe el poder de Thyra usando el Talismán. Una explosión de energía temporal]
 EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
-[La barrera de estasis de Thyra se desvanece lentamente - su poder ya no la mantiene. El valle queda accesible]
+[El valle entero se congela permanentemente, la barrera de estasis se vuelve permanente]
 ```
 
 ---
@@ -145,8 +143,8 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 
 **Si los PJ NO Tienen el Talismán (Lo Más Probable):**
 - Llegan DESPUÉS del asesinato (Opción B)
-- **Antes del asesinato:** Solo pueden observar desde fuera de la barrera (si llegan mientras Teach está atacando)
-- **Después del asesinato:** La barrera desaparece y pueden entrar libremente
+- Solo pueden observar desde fuera de la barrera
+- Ven los ecos del asesinato a través de la barrera de estasis
 
 **Consecuencias (SIEMPRE ocurren):**
 - ⚠️ Thyra muere (evento fijo)
@@ -157,17 +155,16 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 #### **Opción B: Llegan DESPUÉS (Lo Más Probable)**
 
 **Si los PJ Llegan Tarde:**
-- Encuentran el valle **ahora accesible** - la barrera de estasis ha desaparecido
-- Ven restos del asesinato: cristales de tiempo rotos, sangre seca, signos de lucha
+- Encuentran el valle congelado con la barrera de estasis permanente
+- Ven los ecos del asesinato a través de la barrera
 - **Evento Fijo:** Thyra está muerta, guerra espontánea comienza
-- **Descubren:** Solo alguien con el Talismán pudo entrar mientras la barrera existía (Teach)
-- **Nuevo descubrimiento:** El camino hacia la Torre de la Eternidad en las montañas del norte ahora es visible
+- **Descubren:** Solo alguien con el Talismán pudo entrar (Teach)
 
 **Consecuencias:**
 - ⚠️ Thyra muere (evento fijo)
 - ⚠️ Teach gana poder de estasis temporal
-- ✅ **La región queda totalmente accesible** - La estasis desaparece al morir Thyra
-- ✅ **El camino hacia la Torre de la Eternidad se revela** - Ya no está bloqueado por la barrera
+- ✅ **La estasis desaparece:** La barrera de estasis temporal se desvanece completamente, haciendo la región accesible
+- ⚠️ La región queda devastada pero accesible, revelando el camino hacia la Torre de la Eternidad en las montañas del norte
 - ⚠️ Otros lugartenientes reaccionan
 - ⚠️ **Guerra espontánea comienza** (inmediatamente después)
 
@@ -178,11 +175,12 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 ### **Si Thyra Muere (Evento Fijo):**
 
 **Efectos Inmediatos:**
-- ✅ **La barrera de estasis desaparece** - Al morir Thyra, su poder ya no mantiene la estasis
-- ✅ **El Valle de la Aguja Suspendida queda totalmente accesible** - Los PJ pueden entrar libremente
-- ✅ **El camino hacia la Torre de la Eternidad se revela** - Ya no está bloqueado por la barrera de estasis
-- ⚠️ Edward Teach gana poderes de Thyra (ver acciones legendarias actualizadas)
-- ⚠️ Restos del asesinato: Cristales de tiempo rotos, sangre seca, signos de lucha brutal
+- El Valle de la Aguja Suspendida queda devastado pero accesible
+- **La barrera de estasis de Thyra desaparece completamente** con su muerte
+- La región puede ser explorada libremente, revelando el camino hacia la Torre de la Eternidad
+- **El acceso a la Torre:** Más allá del valle, en las montañas del norte, se encuentra el portal que conduce a la Torre de la Eternidad
+- Edward Teach gana poderes de Thyra (ver acciones legendarias actualizadas)
+- Thyra está "muerta" pero también "congelada eternamente" - ambiguo
 - **La Resistencia comienza a trabajar en el Motor de Viento Perpetuo** - Después del asesinato de Thyra, La Resistencia (Din Goldgear y los Ingenieros) se da cuenta de que necesitan una forma de llegar al Archipiélago de Barbanegra para enfrentar a Teach. Si los PJ tienen el Rotor Infinito completo (derrotaron a Serapis y Ymir), los Ingenieros pueden construir el Motor de Viento Perpetuo para navegar el mar en calma
 
 **Efecto en Varrak del Horizonte:**

@@ -157,5 +157,18 @@ Cuando Medusa muere (ya sea por los PJ o por otro lugarteniente), **El Jardín d
 
 ---
 
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **⚠️ Sin Ganchos Narrativos Especiales**
+Medusa es principalmente un **enemigo opcional a derrotar**. No tiene ganchos narrativos que permitan alianzas o interacciones especiales más allá del combate.
+
+### **🎭 Características Relevantes:**
+- **Enemigo opcional:** Puede ser enfrentada o evitada según las decisiones de los PJ
+- **Comparte región:** Con Las Gemelas del Espejo
+- **Poder único:** Petrificación temporal
+
+
+---
+
 *Medusa representa el poder de congelar el tiempo mismo, petrificando no solo cuerpos sino también el flujo temporal y atrapando a sus víctimas en un momento eterno.* 🐍
 

@@ -211,5 +211,27 @@ Las Gemelas son neutrales y pueden aliarse con los PJ si:
 
 ---
 
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **🎯 Gancho Principal: Alianza Condicional**
+Las Gemelas son **neutrales** y pueden aliarse con los PJ si:
+- Los PJ demuestran que pueden cambiar la realidad
+- Los PJ les ofrecen una visión del futuro mejor que la de Aethernus
+- Los PJ les ayudan a entender su propia naturaleza fragmentada
+
+### **⚔️ Decisión Crítica (Sesión 11):**
+Las Gemelas eligen bando según el estado de la campaña:
+- **Si Bando Dimensional está ganando:** Se unen a Ignis
+- **Si Bando Temporal está ganando:** Se unen a Vorthak
+- **Si hay empate:** Permanecen neutrales (por ahora)
+
+### **🎭 Naturaleza Única:**
+- Existen simultáneamente en múltiples realidades
+- Pueden crear clones de los PJ
+- El daño a los clones se comparte con el original
+
+
+---
+
 *Las Gemelas representan el poder de la dimensión espejo, existiendo simultáneamente en múltiples realidades y confundiendo a sus enemigos sobre qué es real.* 🪞
 

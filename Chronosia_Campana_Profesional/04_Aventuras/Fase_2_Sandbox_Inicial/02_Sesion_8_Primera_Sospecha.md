@@ -82,9 +82,9 @@ solo son rumores. Yo nunca he estado allí."
 
 #### **Pista 3: Información de NPCs Aliados**
 
-**Si los PJ preguntan a Zephyr o Anacronistas:**
+**Si los PJ preguntan a Galen o Anacronistas:**
 ```
-ZEPHYR (pensativo):
+GALEN (pensativo):
 "Es cierto... Aethernus no ha aparecido públicamente en meses. Todas las 
 órdenes vienen a través de los lugartenientes. Es... sospechoso."
 ```
@@ -121,7 +121,7 @@ Cuando los PJ regresan a Cronópolis (o están en el Santuario de los Anacronist
 **📖 Para desarrollo completo de este encuentro:** [05_Encuentro_Anacronistas_Relojeros.md](./05_Encuentro_Anacronistas_Relojeros.md)
 
 **Resumen:**
-- Zephyr (Anacronistas) percibe que el ritual está muy avanzado (90-91%)
+- Galen (Anacronistas) percibe que el ritual está muy avanzado (90-91%)
 - Los La Resistencia han detectado anomalías cósmicas con sus sensores
 - Ambas facciones trabajan juntas para crear **El Contador del Ritual**
 - El artefacto muestra el progreso del ritual (actualmente 90-91%)

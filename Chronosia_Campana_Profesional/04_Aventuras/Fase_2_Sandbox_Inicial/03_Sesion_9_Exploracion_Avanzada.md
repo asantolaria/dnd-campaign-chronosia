@@ -82,7 +82,7 @@
 ## 💡 **CONSEJOS PARA EL DM**
 
 ### **Progresión:**
-- Los PJ deberían haber derrotado 2-3 lugartenientes menores o 1 principal
+- Los PJ deberían haber derrotado 2-3 lugartenientes
 - El balance debe estar siendo trackeado
 - Eventos aleatorios pueden ocurrir
 

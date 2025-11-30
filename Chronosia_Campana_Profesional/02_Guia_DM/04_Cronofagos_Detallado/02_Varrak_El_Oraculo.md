@@ -310,5 +310,35 @@ todos moriremos. Al menos así... al menos así vosotros tenéis una oportunidad
 
 ---
 
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **🎯 Gancho Principal: Aliado Potencial**
+Varrak es **neutral** y puede aliarse con los PJ si:
+- Los PJ demuestran que pueden cambiar el futuro
+- Los PJ le ofrecen una visión del futuro mejor que la de Aethernus
+- Los PJ le ayudan a entender su propia naturaleza fragmentada
+
+### **🎭 Encuentro Especial:**
+**Detiene el combate** después de unas rondas y explica su verdadera naturaleza:
+- Ve múltiples futuros simultáneamente
+- Ha visto que los PJ pueden cambiar el destino
+- Ofrece ayuda a cambio de esperanza
+
+### **🎁 Recompensa Única:**
+- **Cristal Profético:** Entrega un cristal raro para Din Goldgear (advertencia y oportunidad)
+- **Revelación en Sesión 11:** Puede mostrar entrada secreta a la Ciudad Subterránea de Veldrisza si es aliado
+
+### **⚔️ Decisión Crítica (Sesión 11):**
+Varrak debe elegir bando. Los PJ determinan el resultado:
+- **Aliado Reticente:** Si le dan esperanza → Se une a los PJ
+- **Servidor Fiel:** Si lo traicionan/desilusionan → Se une a Vorthak
+- **Mártir Quebrado:** Si lo destruyen → Se sacrifica, los PJ reciben poder épico
+
+### **💀 Sacrificio Heroico:**
+Si el balance alcanza **desbalance crítico (diferencia 4+)**, Varrak puede **sacrificarse voluntariamente** para equilibrar los poderes y evitar la catástrofe cósmica.
+
+
+---
+
 *Varrak representa el poder de ver todas las posibilidades, existiendo simultáneamente en múltiples realidades. Su combate es una batalla contra la inevitabilidad del destino.* 🔮
 

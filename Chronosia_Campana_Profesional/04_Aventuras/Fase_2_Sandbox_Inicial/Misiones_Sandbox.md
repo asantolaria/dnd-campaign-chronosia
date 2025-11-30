@@ -68,47 +68,40 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó u
 - **Varrak como Neutral**: El Oráculo puede aliarse con los PJ o con Aethernus (Sesión 11)
 - **Edward Teach como Amenaza**: Es un punto ciego para Varrak, impredecible
 
-### **⚖️ Sistema de Niveles de Desbalance**
+### **⚖️ Sistema de Balance (SIMPLIFICADO)**
 
-**⚠️ BALANCE CRÍTICO:**
+**⚠️ BALANCE INICIAL:**
 - **Temporales Principales Activos:** 3 (Serapis, Vorthak, Varrak)
 - **Dimensionales Principales Activos:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
 - **Balance Actual:** Ya hay desequilibrio favorable a lo dimensional (3 vs 5)
 
-**📊 Cálculo del Desbalance:**
-- **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
-- **Ejemplo**: Si derrotan 2 temporales y 0 dimensionales → Diferencia = 2 (Desbalance Moderado)
+**📊 Cálculo del Balance:**
+- **Equilibrio:** Cuando el número de temporales derrotados es igual o muy similar al número de dimensionales derrotados (diferencia de 0-1)
+- **Desbalance:** Cuando hay una diferencia significativa entre temporales y dimensionales derrotados (diferencia de 2+)
 
-**🔴 Niveles de Desbalance:**
+**🔴 Estados del Balance:**
 
-#### **🟢 EQUILIBRIO (Diferencia 0-1)**
+#### **🟢 EQUILIBRIO**
 - **Estado**: Todo funciona normalmente
 - **Cronópolis**: Completamente seguro y estable
 - **Viajes**: Sin problemas, portales funcionan al 100%
 - **Descanso**: Descanso largo disponible sin restricciones
+- **Recursos**: Comerciantes y NPCs funcionan normalmente
+- **Efectos**: Ninguno
 
-#### **🟡 DESBALANCE MENOR (Diferencia 2)**
+#### **⚠️ DESBALANCE**
 - **Lanzamientos**: 1d4 efectos por sesión
 - **Momento**: Al inicio de cada sesión
 - **Efectos**: Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-
-#### **🟠 DESBALANCE MODERADO (Diferencia 3)**
-- **Lanzamientos**: 1d6 efectos por sesión
-- **Momento**: Al inicio + cada 2 horas
-- **Efectos**: Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-
-#### **🔴 DESBALANCE CRÍTICO (Diferencia 4+)**
-- **Lanzamientos**: 1d8 efectos por sesión
-- **Momento**: Al inicio + cada hora + eventos importantes
-- **Efectos**: Ver [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-- **⚠️ ACCIÓN ESPECIAL:** Si el balance alcanza desbalance crítico (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
+- **Advertencia**: Los explicadores (Galen, Varrak, Capitán Marcus) advierten sobre el desbalance
+- **⚠️ ACCIÓN ESPECIAL:** Si el desbalance es extremo (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
 
 **👥 Explicadores del Balance:**
-- **Zephyr (Anacronistas)**: Explicador principal de la teoría del balance
+- **Galen (Anacronistas)**: Explicador principal de la teoría del balance
 - **Varrak del Horizonte**: Confirmación visual con visiones del futuro
 - **Capitán Marcus (La Resistencia)**: Advertencias tecnológicas con datos
 
-**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio.
+**Estrategia Recomendada:** Derrotar lugartenientes de ambos tipos por igual para mantener equilibrio.
 
 ---
 
@@ -116,22 +109,24 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó u
 
 ### **⚰️ Thyra la Suspendida - ASESINADA**
 
-**ESTADO:** ⚰️ **REGIÓN PERMANENTEMENTE CONGELADA** - Thyra fue asesinada por Edward Teach en Sesión 5-6
+**ESTADO:** 🔒 **BLOQUEADA** (Sesión 1+) → 🔓 **ACCESIBLE** (Después del 3er lugarteniente derrotado) - Thyra fue asesinada por Edward Teach en Sesión 5-6, la estasis desapareció
 
-#### **🎯 Misión NO DISPONIBLE**
-- **Estado**: ⚰️ **INACCESIBLE** - La región está permanentemente congelada en estasis
-- **Consecuencia**: Todo en el Valle está suspendido en un momento eterno
-- **Narrativa**: Los PJ pueden ver la región desde lejos como advertencia del poder de Edward Teach
+#### **🎯 Misión DISPONIBLE: Explorar el Valle y Descubrir el Camino a la Torre**
+- **Estado**: 🔓 **ACCESIBLE** - La región está devastada pero accesible tras la muerte de Thyra
+- **Consecuencia**: La estasis desapareció completamente, revelando el camino hacia la Torre de la Eternidad
+- **Narrativa**: Los PJ pueden explorar el valle devastado y descubrir el sendero que conduce a las montañas del norte donde se encuentra el acceso a la Torre
 - **Su Poder**: Ahora pertenece a Edward Teach "Barbanegra"
+- **🏰 Función Especial**: El valle es el punto de partida hacia la Torre de la Eternidad, ubicada más allá en las montañas del norte
 
 #### **🌍 Descripción de la Región**
-Un valle completamente congelado en estasis temporal. Los ríos de hielo están suspendidos como cristal líquido en el aire, los caballeros nórdicos están a punto de golpear eternamente, las aves atrapadas con las alas abiertas en pleno vuelo. En el centro, la aguja de hielo eterno emite pulsos de estasis permanente.
+Un valle devastado que muestra las cicatrices del combate entre Edward Teach y Thyra. La Aguja Central está fracturada, los ríos de hielo se han derretido parcialmente, y las ruinas del mercado y el bosque muestran la violencia del asesinato. Más allá del valle, un sendero montañoso serpentea hacia las altas cumbres donde se encuentra el portal a la Torre de la Eternidad (coordenadas 47, 89, 12). El sendero es escarpado y peligroso, con vientos gélidos y ecos temporales residuales de la muerte de Thyra.
 
 #### **🎭 Implicaciones Narrativas**
-- **Monumento a la Traición**: La región es un recordatorio visible del asesinato
+- **Monumento a la Traición**: La región devastada es un recordatorio visible del asesinato
 - **Advertencia**: Los PJ ven el poder combinado de Edward Teach
-- **Pérdida**: Tesoros y secretos de Thyra están permanentemente inaccesibles
+- **Oportunidad**: Algunos tesoros y secretos de Thyra pueden ser encontrados entre las ruinas
 - **Motivación**: Puede inspirar a los PJ a detener a Edward Teach
+- **🏰 Camino a la Torre**: El valle revela el sendero hacia la Torre de la Eternidad, el objetivo final de la campaña
 
 **Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
 
@@ -147,6 +142,7 @@ Un valle completamente congelado en estasis temporal. Los ríos de hielo están 
 - **Principal**: Derrotar a **Serapis el Retroceso** y detener los efectos de **Reversión Temporal**
 - **Secundarios**: Descubrir secretos del pasado, restaurar edificios dañados, obtener conocimiento temporal
 - **Balance**: Esta es una misión TEMPORAL - Cuidado con el desbalance
+- **💎 Elemento Único**: Los **12 Cristales de Arena** dispersos por la región otorgan **+2 puntos de arena cada uno** (+24 puntos totales) cuando se destruyen. Son fundamentales para ganar tiempo antes del reinicio.
 
 #### **🌍 Descripción de la Región**
 Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconstruyen solas, los árboles decrecen hacia sus semillas, y los edificios se desarman constantemente. En el centro, una espiral de piedra que gira en dirección opuesta al tiempo.
@@ -179,6 +175,7 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 - **Principal**: Influenciar a **Varrak del Horizonte** para que se alíe con los PJ (o derrotarlo si se convierte en enemigo)
 - **Secundarios**: Explorar realidades paralelas, obtener visiones del futuro, descubrir secretos dimensionales
 - **Balance**: Esta es una misión TEMPORAL - Cuidado con el desbalance
+- **🐼 Guardianes Naturales**: La región está protegida por **pandas gigantes**, criaturas majestuosas de pelaje blanco y negro que pueden ayudar o atacar según el comportamiento de los PJ
 
 #### **🌍 Descripción de la Región**
 Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas realidades. Un puente puede llevar a tres lugares distintos según la hora. Reflejos temporales flotan como sombras visibles.
@@ -355,6 +352,7 @@ Vastas llanuras donde el espacio se ha comprimido hasta límites imposibles. Las
 - **Principal**: Derrotar a **Ignis el Devorador Espacial** y cerrar los portales de fuego
 - **Secundarios**: Obtener tesoros de dragón rojo ancestral, descubrir secretos del Plano Elemental del Fuego
 - **Balance**: Esta es una misión DIMENSIONAL - Recomendada para equilibrar
+- **💎 Cristales de Poder**: Esta región tiene la **mayor concentración de cristales de poder** en todo Chronosia, importante para La Resistencia pero extremadamente peligrosa debido a los portales constantes a los Infiernos
 
 #### **🌍 Descripción de la Región**
 Una región volcánica devastada donde el espacio se ha fracturado, creando calderas que conectan con el Plano Elemental del Fuego. Los volcanes escupen lava dimensional que se extiende a través de múltiples planos.
@@ -438,6 +436,7 @@ Un jardín lleno de espejos que actúan como portales dimensionales. La luz se r
 - **Principal**: Derrotar a **Ymir el Eterno Invierno** y descongelar Glacialis
 - **Secundarios**: Explorar glaciares dimensionales, obtener artefactos de hielo, descubrir secretos del norte
 - **Balance**: Esta es una misión DIMENSIONAL - Impacto completo en el balance general
+- **🌌 Función Crítica**: Ymir es el **Reclutador Interplanar** de los Cronófagos. Mantiene una red de portales que conecta Chronosia con múltiples planos (Agua, Aire, Astral, Material), permitiendo el reclutamiento de criaturas y el transporte de suministros. Su muerte interrumpe significativamente las operaciones de los Cronófagos en múltiples planos.
 
 #### **🌍 Descripción de la Región**
 Un reino de hielo eterno en el extremo norte donde Ymir domina con control espacial. Los glaciares se extienden infinitamente y las auroras boreales iluminan el cielo. El espacio se cristaliza en patrones de hielo.
@@ -727,6 +726,61 @@ Ensamblar el Rotor Infinito completo usando el Núcleo Temporal (de Serapis) y l
 
 ---
 
+#### **🌌 Misión: "Limitar Suministros Interplanares"**
+
+**Quest Giver:** Lucienne Rietveldt (Maestra Ingeniera)  
+**Nivel Recomendado:** 5-9  
+**Ubicación:** Glacialis (Región de Ymir)
+
+**⚠️ IMPORTANTE:** Esta misión solo está disponible **después de que Lucienne Rietveldt haya descubierto el sistema de reclutamiento de Ymir**. Lucienne ha estado observando los portales durante años y ha documentado cómo funcionan.
+
+**Contexto:**
+Lucienne Rietveldt ha descubierto que Ymir el Eterno Invierno mantiene una red de portales interplanares que trae suministros y criaturas de otros planos a los Cronófagos. Esta red es crucial para mantener las operaciones de los Cronófagos, y La Resistencia quiere interrumpirla.
+
+**Objetivos:**
+
+1. **Sabotear Portales de Hielo:**
+   - Infiltrarse en Glacialis
+   - Localizar portales activos de Ymir
+   - Usar dispositivos anti-magia para cerrar o desestabilizar portales
+   - **Dificultad:** CD 18 Arcano o Herramientas de Artífice para cerrar cada portal
+   - **Recompensa:** 1,500 po + Granada de Estabilidad (x3) por cada portal cerrado
+
+2. **Interceptar Suministros:**
+   - Emboscar convoyes que llegan por los portales
+   - Robar o destruir suministros interplanares
+   - **Encuentros:** 2d4 Criaturas Planares (CR 3-5 cada una) + 1d4 Cronófagos (CR 2-4 cada uno)
+   - **Recompensa:** Suministros robados (valor 2,000-5,000 po) + Información sobre rutas de suministro
+
+3. **Destruir Base de Operaciones:**
+   - Infiltrarse en la base principal de Ymir en Glacialis
+   - Destruir el mecanismo que mantiene los portales activos
+   - **Dificultad:** Combate con Ymir (si está presente) o sus guardianes
+   - **Recompensa:** 5,000 po + Dispositivo Anti-Portal (objeto único) + Información completa sobre la red de reclutamiento
+
+4. **Robar Documentos de Reclutamiento:**
+   - Encontrar y robar los documentos de Ymir sobre la red de portales
+   - **Ubicación:** Base de Ymir en Glacialis
+   - **Dificultad:** CD 20 Sigilo para infiltrarse, CD 18 Investigación para encontrar documentos
+   - **Recompensa:** Información estratégica sobre todos los portales + Mapa de rutas interplanares + 3,000 po
+
+**Información Revelada al Completar:**
+- Lista de planos conectados a la red
+- Frecuencia de transporte de suministros
+- Rutas de suministro específicas
+- Puntos débiles de los portales
+- Cómo cerrar portales permanentemente
+
+**Consecuencias:**
+- **Éxito Parcial (1-2 objetivos):** Los Cronófagos pierden 25% de sus suministros interplanares
+- **Éxito Moderado (3 objetivos):** Los Cronófagos pierden 50% de sus suministros, algunos portales se cierran
+- **Éxito Total (4 objetivos):** La red de reclutamiento se interrumpe significativamente, los Cronófagos deben encontrar métodos alternativos
+
+**Nota para el DM:**
+Esta misión puede completarse antes o después de derrotar a Ymir. Si se completa antes, hace más fácil derrotar a Ymir (menos refuerzos). Si se completa después, los portales ya están cerrados pero los documentos aún pueden ser valiosos.
+
+---
+
 #### **🌊 Misión: "Ayuda para los Oceánicos de las Profundidades"**
 
 **Quest Giver:** Reina Nereia o Comandante Kael  
@@ -750,7 +804,7 @@ Ensamblar el Rotor Infinito completo usando el Núcleo Temporal (de Serapis) y l
 
 #### **⏰ Misión: "Conocimiento para los Anacronistas"**
 
-**Quest Giver:** Maestro Relojero o Zephyr  
+**Quest Giver:** Maestro Relojero o Galen  
 **Nivel Recomendado:** 5-9  
 **Ubicación:** Cronópolis o regiones temporales
 

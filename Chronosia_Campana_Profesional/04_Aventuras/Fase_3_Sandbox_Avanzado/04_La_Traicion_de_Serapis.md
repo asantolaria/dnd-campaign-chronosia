@@ -55,6 +55,7 @@ Esta trama compleja se desarrolla al **final de la Fase 2: Sandbox Inicial** (Se
 - **Rol:** Mercenarios drow disfrazados de civiles
 - **Acción:** Siembran el caos en Chronosia
 - **Función:** Facilitan la traición de Serapis
+- **⚠️ NOTA CRÍTICA:** Los Bregan Daerthe están **comprados por la Matrona Veldrisza**, no por Serapis. Después de la incursión, vuelven con Serapis, pero cuando Veldrisza vea cómo los lugartenientes mueven sus casillas, se revelarán contra Serapis y lo matarán, llevando su cuerpo a Veldrisza para el ritual Zin-Carla.
 
 ---
 
@@ -78,9 +79,10 @@ Esta trama compleja se desarrolla al **final de la Fase 2: Sandbox Inicial** (Se
 
 ### **La Batalla Final:**
 11. **Din ofrece el dinero a Bregan Daerthe** → Les pide cambiar de bando
-12. **Bregan Daerthe acepta** → Se unen a La Resistencia
+12. **Bregan Daerthe aceptan temporalmente** → Se unen a La Resistencia para la batalla
 13. **Batalla contra Serapis** → Usa su artilugio para reiniciar el combate
 14. **Serapis es derrotado** → Agota todas las cargas de su artilugio
+15. **Bregan Daerthe vuelven con Serapis** → Después de la batalla, abandonan a La Resistencia y regresan con Serapis (su verdadero amo es Veldrisza, pero deben mantener la fachada)
 
 ### **El Funeral y el Sacrificio:**
 15. **Funeral con todos los honores** → El Capitán Marcus es enterrado como héroe
@@ -89,6 +91,13 @@ Esta trama compleja se desarrolla al **final de la Fase 2: Sandbox Inicial** (Se
 18. **El monje manco extrae la esencia** → Recarga el artilugio de Serapis
 19. **Din revive al Capitán Marcus** → Usa el artilugio recargado
 20. **Restauración y devolución** → Din restaura edificios y devuelve el artilugio
+
+### **Después del Funeral: La Traición Final de los Bregan Daerthe**
+21. **Los Bregan Daerthe se revelan** → Después de que la Matrona Veldrisza vea cómo los lugartenientes mueven sus casillas, los Bregan Daerthe se revelan contra Serapis
+22. **Serapis es asesinado** → Los Bregan Daerthe matan a Serapis definitivamente
+23. **El cuerpo es llevado a Veldrisza** → Los Bregan Daerthe transportan el cuerpo de Serapis a la Ciudad Subterránea de Veldrisza
+24. **Ritual Zin-Carla** → Veldrisza invoca el ritual drow de resurrección, resucitando a Serapis como no-muerto bajo su control
+25. **Serapis se convierte en aliado de Veldrisza** → Serapis resucitado sirve a Veldrisza como guardián poderoso
 
 ---
 
@@ -246,7 +255,10 @@ tiene un artilugio muy valioso que podéis tomar como botín adicional."
 ```
 
 **La Decisión de Bregan Daerthe:**
-Los Bregan Daerthe, siendo mercenarios pragmáticos, aceptan la oferta. Se unen a La Resistencia y arremeten contra Serapis.
+Los Bregan Daerthe, siendo mercenarios pragmáticos, aceptan la oferta **temporalmente**. Se unen a La Resistencia y arremeten contra Serapis, pero **su verdadera lealtad es con la Matrona Veldrisza**, quien los ha comprado por encima de Serapis.
+
+**⚠️ NOTA IMPORTANTE:**
+Los Bregan Daerthe **NO se quedan** con La Resistencia después de la batalla. Después de ayudar a derrotar a Serapis, **vuelven con él** (manteniendo su fachada de lealtad a Serapis, pero en realidad sirviendo a Veldrisza).
 
 **La Batalla:**
 - **La Resistencia + Bregan Daerthe + PJ** vs **Serapis**
@@ -372,25 +384,103 @@ Finalmente, Din devuelve el artilugio a los PJ con **1d4+2 cargas restantes**. E
 
 ---
 
+### **🕷️ FASE 7: LA TRAICIÓN FINAL DE LOS BREGAN DAERTHE**
+
+**⚠️ TIMING:** Esta fase ocurre **después del funeral y el sacrificio de Varrak**, cuando la Matrona Veldrisza observa cómo los lugartenientes mueven sus casillas en la guerra civil.
+
+**El Momento de la Revelación:**
+Después de que Veldrisza vea cómo los lugartenientes se posicionan y forman alianzas, decide que es el momento de actuar. Los Bregan Daerthe, que habían vuelto con Serapis después de la batalla, reciben órdenes secretas de Veldrisza.
+
+**La Traición:**
+```
+[Serapis está en su región, recuperándose de la batalla anterior. Los Bregan Daerthe 
+que habían vuelto con él están presentes, aparentemente leales]
+
+BREGAN DAERTHE LÍDER (acercándose a Serapis):
+"Maestro Serapis... tenemos información importante. Hemos descubierto algo 
+sobre los planes de La Resistencia."
+
+SERAPIS (confiado):
+"¿Qué es? Decidme."
+
+[En ese momento, los Bregan Daerthe atacan por sorpresa. Serapis, debilitado 
+y confiado, no puede defenderse adecuadamente]
+
+SERAPIS (sorprendido):
+"¿Qué...? ¿Qué estáis haciendo? ¡Sois mis aliados!"
+
+BREGAN DAERTHE LÍDER (sonriendo):
+"Lo sentimos, Serapis. Pero nuestra verdadera lealtad es con la Matrona Veldrisza. 
+Ella nos compró hace mucho tiempo. Y ahora... ahora es el momento de cumplir 
+nuestro verdadero propósito."
+```
+
+**El Asesinato:**
+Los Bregan Daerthe, siendo mercenarios expertos y traicioneros, asesinan a Serapis. El combate es breve pero brutal - Serapis, ya debilitado por la batalla anterior y confiado en sus "aliados", no puede defenderse.
+
+**El Transporte:**
+Los Bregan Daerthe toman el cuerpo de Serapis y lo transportan a la Ciudad Subterránea de Veldrisza, usando portales dimensionales para llegar rápidamente.
+
+**La Invocación del Zin-Carla:**
+```
+[En el Templo de Lolth, en la Ciudad Subterránea de Veldrisza]
+
+VELDRISZA (rodeada de sacerdotisas drow):
+"Finalmente. El cuerpo de Serapis. Perfecto para el ritual."
+
+[Veldrisza comienza el ritual Zin-Carla - un ritual drow de resurrección 
+que resucita al muerto como no-muerto bajo el control de quien realiza el ritual]
+
+VELDRISZA (invocando):
+"Por el poder de Lolth, por las sombras de Menzoberranzan, 
+por el espacio que teje todas las dimensiones... 
+¡Levántate, Serapis! ¡Levántate y sírveme!"
+
+[El cuerpo de Serapis se levanta, pero ahora es diferente. Sus ojos brillan 
+con una luz púrpura, y su forma muestra distorsiones dimensionales. 
+Es un no-muerto, pero conserva sus poderes temporales]
+
+SERAPIS RESUCITADO (con voz distorsionada):
+"Sí... mi matrona. Serviré... a Veldrisza."
+```
+
+**El Resultado:**
+Serapis resucitado se convierte en **aliado de Veldrisza**, sirviéndola como guardián poderoso. Conserva sus poderes temporales pero ahora está bajo el control de Veldrisza, combinando poderes temporales y dimensionales de forma única.
+
+**⚠️ CONSECUENCIAS:**
+- Serapis está "muerto" pero resucitado como no-muerto
+- Ahora sirve a Veldrisza, no a Aethernus
+- Veldrisza gana un aliado poderoso con poderes temporales
+- Los Bregan Daerthe revelan su verdadera lealtad
+- La guerra civil entre lugartenientes se intensifica
+
+---
+
 ## 🎯 **CONSECUENCIAS Y REVELACIONES**
 
 ### **✅ Consecuencias Positivas:**
 - El Capitán Marcus está vivo
 - Los edificios están restaurados
-- Los Bregan Daerthe ahora son aliados
 - Los PJ tienen un artilugio poderoso
 - Los PJ tienen información crucial sobre Aethernus
+- Serapis está debilitado (aunque será resucitado después)
 
 ### **⚠️ Consecuencias Negativas:**
 - Varrak está muerto (aliado poderoso perdido)
 - El monje manco está de duelo (pero sigue siendo aliado)
 - El pueblo se siente culpable por haber ejecutado al Capitán Marcus injustamente
+- Los Bregan Daerthe NO son aliados permanentes (su verdadera lealtad es con Veldrisza)
+- Serapis será resucitado como no-muerto bajo el control de Veldrisza
+- Veldrisza gana un aliado poderoso con poderes temporales
 
 ### **🔮 Revelaciones Clave:**
 - Los PJ descubren la verdadera naturaleza de Serapis
 - Los PJ descubren la infiltración de los Bregan Daerthe
 - Los PJ descubren el poder profético de Varrak
 - Los PJ obtienen información crucial sobre Aethernus y Manshoon
+- Los PJ descubren que los Bregan Daerthe están comprados por Veldrisza
+- Los PJ descubren el ritual Zin-Carla y el poder de Veldrisza
+- Los PJ descubren que Serapis resucitado sirve a Veldrisza
 
 ---
 

@@ -12,7 +12,7 @@
 ### **La Premisa**
 1. **Waterdeep** → Asesinato durante el Festival del Reloj Astronómico
 2. **Investigación** → Los PJ descubren distorsiones temporales
-3. **Viaje** → Zephyr los lleva a Chronosia (semiplano fracturado)
+3. **Viaje** → Galen los lleva a Chronosia (semiplano fracturado)
 4. **Objetivo** → Derrotar a los lugartenientes manteniendo balance temporal/dimensional (5 temporales vs 6 dimensionales después de la muerte de Thyra)
 5. **Clímax** → Enfrentar a Aethernus (Manshoon Clone #47) y decidir el destino de los dioses
 

@@ -166,5 +166,18 @@ Cuando Tempus muere (ya sea por los PJ o por otro lugarteniente), **Las Ruinas d
 
 ---
 
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **⚠️ Sin Ganchos Narrativos Especiales**
+Tempus es principalmente un **enemigo opcional a derrotar**. No tiene ganchos narrativos que permitan alianzas o interacciones especiales más allá del combate.
+
+### **🎭 Características Relevantes:**
+- **Enemigo opcional:** Puede ser enfrentado o evitado según las decisiones de los PJ
+- **Naturaleza única:** Constructo temporal con bucles temporales
+- **Mecánica única:** Bucles temporales programados
+
+
+---
+
 *Tempus representa el poder de los bucles temporales, programando secuencias que se repiten eternamente y fragmentándose en múltiples versiones temporales de sí mismo.* ⚙️
 

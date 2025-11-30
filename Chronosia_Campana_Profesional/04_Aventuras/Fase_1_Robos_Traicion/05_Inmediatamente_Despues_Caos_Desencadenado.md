@@ -1,24 +1,25 @@
-# 📖 Sesión 6: El Caos Desencadenado
+# 📖 Inmediatamente Después: El Caos Desencadenado
 ## *Guerra Espontánea - La Ascensión del Cónclave Comienza*
 
 ---
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 1](./00_Guia_General_Fase_1.md)
-> - [Sesión 5-6: Asesinato de Thyra](./04_Sesion_5-6_Asesinato_Thyra.md)
+> - [Después del 3er Lugarteniente: Asesinato de Thyra](./04_Despues_3er_Lugarteniente_Asesinato_Thyra.md)
 > - [Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
 > - [La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Sistema completo
-> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 6
+> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos
 
 ---
 
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 6-7
+- **Nivel Aprox de los PJ:** 7-8 (inmediatamente después del asesinato de Thyra)
 - **Ubicación:** En cualquier lugar de Chronosia
 - **Estilo:** Revelación + Transición a Sandbox
 - **⚠️⚠️⚠️ EVENTO FIJO:** Guerra espontánea comienza
+- **⚠️ TIMING:** Ocurre **INMEDIATAMENTE DESPUÉS** del asesinato de Thyra
 
 ---
 
@@ -288,8 +289,7 @@ Los PJ ahora entienden que:
 ## 🔗 **REFERENCIAS**
 
 - **[La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema completo
-- **[Eventos de Ascensión](../../02_Guia_DM/06_Eventos_Ascension_Conclave.md)** - Sistema de puntos
-- **[Cronología Maestra - Sesión 6](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-6-el-caos-desencadenado)**
+- **[Cronología Maestra - Eventos Progresivos](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-fase-1-robos-y-traición-eventos-progresivos)**
 - **[Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)** - Próxima fase
 
 ---

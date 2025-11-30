@@ -159,9 +159,38 @@ Cuando Vorthak muere (ya sea por los PJ o por otro lugarteniente), **La Mansión
 
 ## 👑 **COMO LÍDER DEL BANDO TEMPORAL**
 
-Vorthak lidera el Bando Temporal junto con Serapis (y potencialmente Varrak). Es el lugarteniente más poderoso del bando temporal y representa la mayor amenaza temporal para los PJ.
+Vorthak lidera el Bando Temporal, pero **NO puede aliarse con Serapis** debido a cambios en las dinámicas de poder. Es el lugarteniente más poderoso del bando temporal y representa la mayor amenaza temporal para los PJ.
+
+### **🎭 Personalidad y Motivaciones:**
+
+**El Más Despiadado:**
+Vorthak es el lugarteniente más despiadado de todos. Solo le importa **su plano** (Chronosia) y el **poder de Aethernus**. No tiene lealtad hacia otros lugartenientes, y está dispuesto a traicionar a cualquiera si le beneficia.
+
+**Objetivo Principal:**
+Su único objetivo es **quedarse con toda Chronosia**. Ve a Aethernus únicamente como una fuente de poder, no como un líder al que servir. Si pudiera robar el poder de Aethernus, lo haría sin dudarlo.
+
+**Relación con Otros Lugartenientes:**
+- **Serapis:** NO puede aliarse con él (se van a realizar cambios en las dinámicas)
+- **Varrak:** Lo ve como una amenaza potencial que debe ser eliminada
+- **Otros Temporales:** Los usa como herramientas, no como aliados verdaderos
 
 ---
 
-*Vorthak representa la sed insaciable de poder y vida eterna, drenando el tiempo mismo de sus víctimas para mantenerse joven y poderoso. Su combate es una batalla contra la inevitabilidad del envejecimiento.* 🩸
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **⚠️ Sin Ganchos Narrativos Especiales**
+Vorthak es principalmente un **enemigo a derrotar**. No tiene ganchos narrativos que permitan alianzas o interacciones especiales más allá del combate.
+
+### **🎭 Características Relevantes:**
+- **El más despiadado:** Es el lugarteniente más despiadado de todos
+- **Solo le importa su plano:** Su único objetivo es quedarse con toda Chronosia
+- **Solo le importa el poder de Aethernus:** Ve a Aethernus únicamente como fuente de poder, no como líder
+- **NO puede aliarse con Serapis:** Se van a realizar cambios en las dinámicas
+- **Líder del Bando Temporal:** Forma alianzas para protegerse, pero es despiadado con sus subordinados
+- **Poder único:** Drena tiempo de sus víctimas
+
+
+---
+
+*Vorthak representa la sed insaciable de poder y vida eterna, drenando el tiempo mismo de sus víctimas para mantenerse joven y poderoso. Es el más despiadado de todos los lugartenientes, y solo le importa su dominio sobre Chronosia y el poder de Aethernus.* 🩸
 

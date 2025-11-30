@@ -23,9 +23,10 @@
   - Resumen General de Sesión
 
 ### **Tablas de Encuentros:**
-- [ ] Encuentros por región
-- [ ] Encuentros por nivel
-- [ ] Encuentros especiales
+- [ ] **Encuentros por región**: Tablas específicas para cada una de las 11 regiones (temporales y dimensionales)
+- [ ] **Encuentros por nivel**: Tablas de encuentros escalados por nivel de los PJ (CR apropiado)
+- [ ] **Encuentros especiales**: Encuentros únicos para eventos específicos de la campaña
+- [ ] **Encuentros de La Espiral del Reloj de Arena**: Tabla específica para la región de Serapis (criaturas temporales, ecos, anomalías)
 
 ### **Tablas de Tesoros:**
 - [x] **[21_Objetos_Magicos_Reliquias.md](21_Objetos_Magicos_Reliquias.md)** - Catálogo completo de objetos mágicos, artefactos y reliquias ✅
@@ -34,8 +35,9 @@
   - Recompensas de Facciones (Anacronistas, Oceánicos de las Profundidades)
   - Inventos de los Ingenieros (La Resistencia)
   - Reliquias Divinas (Fragmentos de Amaunator y Voidar)
-- [ ] Tesoros por nivel
-- [ ] Recompensas de facciones (detalladas)
+  - Ubicación y obtención de todos los objetos
+- [ ] **Tesoros por nivel**: Tabla de recompensas apropiadas por nivel de los PJ (oro, objetos mágicos menores, etc.)
+- [ ] **Recompensas de facciones (detalladas)**: Tabla expandida con todas las recompensas posibles de cada facción según nivel de relación
 
 ### **Tablas de Utilidad:**
 - [ ] Nombres de NPCs
@@ -44,4 +46,14 @@
 
 ---
 
-*Última actualización: [Fecha actual]*
+---
+
+## 📝 **NOTAS IMPORTANTES**
+
+- La tabla de tracking del **Contador de Arena de Serapis** está incluida en `20_Tablas_Tracking_Campana.md` (sección 6)
+- La mecánica completa del Reloj de Arena está documentada en `03_Regiones/10_Regiones_Temporales.md`
+- Para actualizar el estado de las tablas, consultar `00_Plan_Desarrollo_Campana.md`
+
+---
+
+*Última actualización: Diciembre 2025*

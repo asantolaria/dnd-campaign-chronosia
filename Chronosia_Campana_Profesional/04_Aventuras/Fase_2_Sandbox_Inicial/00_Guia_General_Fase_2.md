@@ -77,9 +77,9 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 - **Ya hay desequilibrio** favorable a lo dimensional
 
 **Consecuencias del Desequilibrio:**
-- **Desequilibrio 2:** Desbalance Menor (1d4 efectos/sesión)
-- **Desequilibrio 3:** Desbalance Moderado (1d6 efectos/sesión)
-- **Desequilibrio 4+:** Desbalance Crítico (1d8 efectos/sesión)
+- **Equilibrio (Diferencia 0-1):** Sin efectos, todo funciona normalmente
+- **Desbalance (Diferencia 2+):** 1d4 efectos por sesión al inicio
+- **⚠️ NOTA:** Si el desbalance es extremo (diferencia 4+), Varrak puede sacrificarse voluntariamente para equilibrar
 
 **Ver:** [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
 
@@ -90,7 +90,6 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 ### **Documentos del DM:**
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro (referencia general)
 - **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema de competencia
-- **[06_Eventos_Ascension_Conclave.md](../../02_Guia_DM/06_Eventos_Ascension_Conclave.md)** - Sistema de puntos y eventos
 - **[04_Escenas_de_Revelacion.md](./04_Escenas_de_Revelacion.md)** - Revelaciones graduales
 - **[05_Encuentro_Anacronistas_Relojeros.md](./05_Encuentro_Anacronistas_Relojeros.md)** - Contador del Ritual (Sesión 8-9)
 
@@ -137,7 +136,7 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 - Duelo a muerte entre lugartenientes (d12=1)
 - Conquista territorial (d12=2)
 - Alianza sorpresa (d12=3)
-- Etc. (ver `06_Eventos_Ascension_Conclave.md`)
+- Etc. (ver `05_La_Ascension_del_Conclave.md` - Tabla de Eventos Aleatorios)
 
 **Progresión de Niveles:**
 - **Sesión 6:** Nivel 6-7
@@ -167,10 +166,10 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 
 **Eventos de Sandbox:** Continúan
 
-**Progresión:** Los PJ deberían haber derrotado 2-3 lugartenientes menores o 1 principal
+**Progresión:** Los PJ deberían haber derrotado 2-3 lugartenientes
 
 **Regiones Nuevas Desbloqueadas (Total: 9):**
-- **El Desierto Espejado** (Tempus - Temporal Menor) - Nivel 7-9
+- **El Desierto Espejado** (Tempus - Temporal) - Nivel 7-9
 
 **Progresión de Niveles:**
 - **Sesión 9:** Nivel 9 → 10

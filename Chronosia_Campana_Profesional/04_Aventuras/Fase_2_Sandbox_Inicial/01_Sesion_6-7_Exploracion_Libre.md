@@ -125,7 +125,7 @@ Cada región tiene su propia estructura única. Ver:
 
 **Si el DM quiere añadir eventos del mundo:**
 - Tira **1d12** para eventos aleatorios
-- Ver: [06_Eventos_Ascension_Conclave.md](../../02_Guia_DM/06_Eventos_Ascension_Conclave.md)
+- Ver: [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Tabla de Eventos Aleatorios
 
 **Ejemplos:**
 - Duelo a muerte entre lugartenientes
@@ -159,7 +159,6 @@ Cada región tiene su propia estructura única. Ver:
 - **[Misiones Sandbox](./Misiones_Sandbox.md)** - Descripciones detalladas de cada región
 - **[Cronología Maestra - Sesión 6-7](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-6-7-exploración-libre)**
 - **[La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema de competencia
-- **[Eventos de Ascensión](../../02_Guia_DM/06_Eventos_Ascension_Conclave.md)** - Sistema de puntos
 
 ---
 

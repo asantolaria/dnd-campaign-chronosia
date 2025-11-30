@@ -5,7 +5,7 @@
 
 ## ⚖️ **EXPLICADORES DEL BALANCE**
 
-### **🔮 Zephyr (Anacronistas) - Explicador Principal**
+### **🔮 Galen (Anacronistas) - Explicador Principal**
 
 **Descripción**: Humano anciano con túnica azul y ojos que brillan con sabiduría temporal. Líder de los Anacronistas, una facción dedicada a mantener el equilibrio entre tiempo y espacio.
 
@@ -22,11 +22,8 @@
 
 *"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
 
-#### **Advertencia de Desbalance Menor**
-*"Veo que habéis derrotado más lugartenientes de un tipo que del otro. Las distorsiones se están volviendo más visibles. Cronópolis ya no es completamente estable."*
-
-#### **Advertencia de Desbalance Moderado**
-*"El equilibrio se está rompiendo. Las distorsiones son evidentes, y los portales fallan con frecuencia. Si continuáis así, las consecuencias serán graves."*
+#### **Advertencia de Desbalance**
+*"Veo que habéis derrotado más lugartenientes de un tipo que del otro. Las distorsiones se están volviendo más visibles. Cronópolis ya no es completamente estable. Si continuáis así, las consecuencias serán graves."*
 
 #### **Advertencia de Desbalance Crítico**
 *"¡Es demasiado tarde! El equilibrio está roto. Cronópolis se vuelve inestable, y pronto no habrá lugar seguro en todo Chronosia. Debéis actuar ahora para restaurar el equilibrio."*
@@ -48,31 +45,33 @@
 #### **Visión del Futuro Correcto**
 *"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente. Ese es el futuro que debéis elegir."*
 
-#### **Advertencia de Desbalance Moderado**
+#### **Advertencia de Desbalance**
 *"Mis visiones se vuelven más claras. Veo múltiples futuros donde el equilibrio se rompe. Debéis actuar pronto para evitar la catástrofe."*
 
 ### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
 
 **Descripción**: Humano militar con uniforme negro y dispositivos tecnológicos avanzados. Líder de La Resistencia, una facción que usa tecnología para combatir las distorsiones.
 
-**Función**: Advertencias tecnológicas sobre el desbalance con datos concretos.
+**Función**: Advertencias tecnológicas sobre el desbalance con datos concretos, **pero solo después del descubrimiento del balance**.
+
+**⚠️ IMPORTANTE**: El Capitán Marcus **NO** puede advertir sobre el balance hasta **después de que los PJ derroten a su segundo lugarteniente**, momento en el que Din Goldgear inventa el artilugio detector de balance.
 
 **Diálogos Clave**:
 
-#### **Primera Advertencia Tecnológica**
-*"Nuestros sensores detectan anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
+#### **Tras la Muerte de Thyra (Sesión 5-6) - Primera Señal**
+*"Algo extraño está pasando. Algunos de nuestros artefactos más sensibles a lo temporal están teniendo malfuncionamientos menores. No sabemos por qué, pero algo ha cambiado."*
 
-#### **Advertencia de Desbalance Menor**
-*"Los sensores muestran pequeñas fluctuaciones en el equilibrio. Los dispositivos anti-distorsión funcionan al 90% de eficiencia."*
+#### **Tras el Segundo Lugarteniente Derrotado - El Descubrimiento**
+*"Din Goldgear ha descubierto algo increíble. Ha inventado un artilugio que detecta el equilibrio entre poderes temporales y dimensionales. Parece que cada vez que un lugarteniente cae, el balance se altera, y eso afecta a nuestros dispositivos."*
 
-#### **Advertencia de Desbalance Moderado**
-*"Las anomalías son evidentes. Los dispositivos anti-distorsión funcionan al 75% de eficiencia. Algunos sistemas fallan ocasionalmente."*
+#### **Advertencia de Desbalance (Post-Descubrimiento)**
+*"El artilugio de Din muestra fluctuaciones en el equilibrio. Los dispositivos anti-distorsión están perdiendo eficiencia. Algunos sistemas fallan ocasionalmente. El desbalance se está volviendo peligroso."*
 
-#### **Advertencia de Desbalance Crítico**
-*"¡CRÍTICO! Los dispositivos anti-distorsión funcionan al 50% de eficiencia. Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
+#### **Advertencia de Desbalance Crítico (Post-Descubrimiento)**
+*"¡CRÍTICO! El artilugio marca un desbalance extremo. Los dispositivos anti-distorsión funcionan al 50% de eficiencia. Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
 
-#### **Advertencia de Desbalance Extremo**
-*"¡FALLO INMINENTE! Los dispositivos anti-distorsión fallarán en las próximas horas. Cronópolis será completamente inestable. Debéis restaurar el equilibrio AHORA o todos moriremos."*
+#### **Advertencia de Desbalance Extremo (Post-Descubrimiento)**
+*"¡FALLO INMINENTE! El artilugio predice que los dispositivos anti-distorsión fallarán en las próximas horas. Cronópolis será completamente inestable. Debéis restaurar el equilibrio AHORA o todos moriremos."*
 
 ---
 
@@ -200,6 +199,7 @@
 - **Sirviente Homúnculo**: Ha creado un homúnculo especial a partir de un cristal temporal estabilizado (valorado en al menos 100 po). El homúnculo puede detectar distorsiones temporales y alertar a Din.
 - **Anillo de Recarga de Conjuros**: Puede recuperar un espacio de conjuro gastado (nivel 3 o inferior) una vez por amanecer.
 - **Dispositivos de Estabilización Temporal**: Din ha desarrollado varios dispositivos únicos que ayudan a estabilizar pequeñas distorsiones temporales, trabajando en conjunto con los relojes de Cornelius.
+- **🔧 Artilugio Detector de Balance** (Inventado después del segundo lugarteniente derrotado): Din Goldgear inventa este artilugio crucial después de descubrir la relación directa entre las bajas de lugartenientes y el equilibrio temporal/dimensional. El artilugio puede medir el equilibrio entre poderes temporales y dimensionales, detectar fluctuaciones cuando un lugarteniente cae, predecir fallos en dispositivos anti-distorsión, y alertar cuando el equilibrio se vuelve crítico. Este dispositivo se convierte en una herramienta esencial para La Resistencia y permite al Capitán Marcus proporcionar advertencias precisas sobre el estado del balance.
 
 **Función en la Campaña - Mecenas y Creador de Artefactos**:
 - **Mecenas Importante**: Din se ha convertido en uno de los mecenas más importantes de la campaña, proporcionando recursos, información y apoyo logístico a los PJ
@@ -648,12 +648,13 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Recompensa**: Prótesis mecánica personalizada + acceso total al arsenal
 **Desarrollo**: Los PJ deben usar tecnología naval para estabilizar los vórtices
 
-### **👑 MISIÓN FINAL: "La Torre de la Eternidad" - Chronópolis (Nivel 11-12)**
+### **👑 MISIÓN FINAL: "La Torre de la Eternidad" - Montañas del Norte (Nivel 11-12)**
 **Lugarteniente**: Aethernus Valcarys (Manshoon Clone #47)
+**Ubicación**: Más allá del Valle de la Aguja Suspendida, en las profundidades de las montañas del norte (dimensión de bolsillo)
 **Objetivo**: Infiltrarse en la Torre de la Eternidad y enfrentar al origen de todo
 **Requisitos**: Haber liberado al menos 6 regiones para obtener acceso
 **Recompensa**: Acceso a la Torre de la Eternidad + confrontación final
-**Desarrollo**: Los PJ deben usar todo el conocimiento y tecnología adquirida
+**Desarrollo**: Los PJ deben usar todo el conocimiento y tecnología adquirida. El camino comienza en el Valle de la Aguja Suspendida (accesible tras la muerte de Thyra) y continúa por un sendero montañoso hacia el portal dimensional
 
 ---
 
@@ -881,7 +882,7 @@ Se alimenta de los destellos de poder generados por la batalla entre Amaunator y
 
 ### **Momentos Clave**
 - **Asesinato de Thaddeus**: Inicia toda la campaña
-- **Encuentro con Zephyr**: Transición a Chronosia
+- **Encuentro con Galen**: Transición a Chronosia
 - **Revelación de Manshoon**: Cambia completamente la comprensión
 - **Batalla Final**: Confrontación épica con Aethernus
 

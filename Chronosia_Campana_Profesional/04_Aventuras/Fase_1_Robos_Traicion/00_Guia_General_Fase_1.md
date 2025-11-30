@@ -1,5 +1,5 @@
 # 🔥 FASE 1: ROBOS Y TRAICIÓN
-## *Sesiones 4-6 - Eventos Catalizadores*
+## *Eventos Progresivos - Catalizadores de la Campaña*
 
 ---
 
@@ -18,33 +18,40 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 ## 📚 **ARCHIVOS DE ESTA FASE**
 
-### **Sesión 4: El Robo del Cronómetro**
-- **[01_Sesion_4_Robo_Cronometro.md](./01_Sesion_4_Robo_Cronometro.md)**
-- **Nivel:** 5
-- **Ubicación:** Cronópolis
-- **Evento:** ⚠️ **CATALIZADOR #1** - El Cronómetro de Realidades es robado
+> **⚠️ IMPORTANTE - CRONOLOGÍA PROGRESIVA:**
+> Estos eventos ocurren **DESPUÉS** de que los PJ derroten lugartenientes, NO en sesiones fijas. El orden es:
+> 1. **Después del 1er Lugarteniente:** Robo de la Perla
+> 2. **Después del 2do Lugarteniente:** Robo del Cronómetro
+> 3. **Después del 3er Lugarteniente:** Creación del Talismán + Asesinato de Thyra
+> 4. **Inmediatamente después:** Caos Desencadenado
 
-### **Sesión 4-5: La Traición de Barbanegra**
-- **[02_Sesion_4-5_Traicion_Barbanegra.md](./02_Sesion_4-5_Traicion_Barbanegra.md)**
-- **Nivel:** 5-6
+### **Después del 1er Lugarteniente: El Robo de la Perla**
+- **[01_Despues_1er_Lugarteniente_Robo_Perla.md](./01_Despues_1er_Lugarteniente_Robo_Perla.md)**
+- **Nivel Aprox:** 5-6
 - **Ubicación:** Archipiélago de Barbanegra + Abysara
-- **Evento:** ⚠️ **CATALIZADOR #1.5** - La Perla del Vacío Primordial es robada
+- **Evento:** ⚠️ **CATALIZADOR #1** - La Perla del Vacío Primordial es robada (masacre en Abysara)
 
-### **Sesión 5: La Combinación**
-- **[03_Sesion_5_Combinacion.md](./03_Sesion_5_Combinacion.md)**
-- **Nivel:** 6
+### **Después del 2do Lugarteniente: El Robo del Cronómetro**
+- **[02_Despues_2do_Lugarteniente_Robo_Cronometro.md](./02_Despues_2do_Lugarteniente_Robo_Cronometro.md)**
+- **Nivel Aprox:** 6-7
+- **Ubicación:** Cronópolis
+- **Evento:** ⚠️ **CATALIZADOR #1.5** - El Cronómetro de Realidades es robado (Teach descubre relación Anacronistas-Abysara)
+
+### **Después del 3er Lugarteniente: La Creación del Talismán**
+- **[03_Despues_3er_Lugarteniente_Creacion_Talisman.md](./03_Despues_3er_Lugarteniente_Creacion_Talisman.md)**
+- **Nivel Aprox:** 7-8
 - **Ubicación:** Isla secreta en el Archipiélago
 - **Evento:** ⚠️ **CRÍTICO** - Edward Teach crea el Talismán de Interceptación Divina
 
-### **Sesión 5-6: El Asesinato de Thyra**
-- **[04_Sesion_5-6_Asesinato_Thyra.md](./04_Sesion_5-6_Asesinato_Thyra.md)**
-- **Nivel:** 6
+### **Después del 3er Lugarteniente: El Asesinato de Thyra**
+- **[04_Despues_3er_Lugarteniente_Asesinato_Thyra.md](./04_Despues_3er_Lugarteniente_Asesinato_Thyra.md)**
+- **Nivel Aprox:** 7-8
 - **Ubicación:** Valle de la Aguja Suspendida
 - **Evento:** ⚠️⚠️ **CATALIZADOR #2** - El evento más importante de la campaña
 
-### **Sesión 6: El Caos Desencadenado**
-- **[05_Sesion_6_Caos_Desencadenado.md](./05_Sesion_6_Caos_Desencadenado.md)**
-- **Nivel:** 6-7
+### **Inmediatamente Después: El Caos Desencadenado**
+- **[05_Inmediatamente_Despues_Caos_Desencadenado.md](./05_Inmediatamente_Despues_Caos_Desencadenado.md)**
+- **Nivel Aprox:** 7-8
 - **Ubicación:** En cualquier lugar de Chronosia
 - **Evento:** ⚠️⚠️⚠️ **Guerra espontánea comienza** - La Ascensión del Cónclave se desencadena
 
@@ -53,41 +60,44 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 ## 🎯 **CARACTERÍSTICAS DE ESTA FASE**
 
 ### **✅ Eventos Fijos (Ocurren Siempre):**
-- Sesión 4: Robo del Cronómetro
-- Sesión 4-5: Robo de la Perla
-- Sesión 5: Creación del Talismán (si los PJ no interrumpen)
-- Sesión 5-6: Asesinato de Thyra
-- Sesión 6: Reacción espontánea de lugartenientes
+- **Después del 1er Lugarteniente:** Robo de la Perla (masacre en Abysara - 47 guerreros Oceánicos mueren)
+- **Después del 2do Lugarteniente:** Robo del Cronómetro (Teach encuentra relación Anacronistas-Abysara en textos antiguos)
+- **Después del 3er Lugarteniente:** Creación del Talismán (SIEMPRE ocurre - evento fijo)
+- **Después del 3er Lugarteniente:** Asesinato de Thyra (SIEMPRE ocurre - evento fijo)
+- **Inmediatamente después:** Reacción espontánea de lugartenientes (guerra espontánea comienza)
 
 ### **🎲 Decisiones Críticas de los PJ:**
-- **Sesión 4:** ¿Investigan el robo del Cronómetro?
-- **Sesión 5:** ⚠️ Creación del Talismán (SIEMPRE ocurre - evento fijo) - Los PJ pueden intentar interrumpir pero Teach lo completa de todas formas
-- **Sesión 5-6:** ¿Salvan a Thyra? (cambia completamente la campaña)
+- **Después del 1er Lugarteniente:** ¿Investigan la masacre en Abysara?
+- **Después del 2do Lugarteniente:** ¿Investigan el robo del Cronómetro?
+- **Después del 3er Lugarteniente:** ⚠️ Creación del Talismán (SIEMPRE ocurre - evento fijo) - Los PJ pueden intentar interrumpir pero Teach lo completa de todas formas
+- **Después del 3er Lugarteniente:** ⚠️ ¿Salvan a Thyra? (Thyra SIEMPRE muere - evento fijo, pero los PJ pueden intentar prevenir)
 
-### **📊 Progresión de Niveles:**
-- **Sesión 4:** Nivel 5
-- **Sesión 4-5:** Nivel 5-6
-- **Sesión 5:** Nivel 6
-- **Sesión 5-6:** Nivel 6
-- **Sesión 6:** Nivel 6-7
+### **📊 Progresión de Niveles (Aproximada):**
+- **Después del 1er Lugarteniente:** Nivel 5-6
+- **Después del 2do Lugarteniente:** Nivel 6-7
+- **Después del 3er Lugarteniente:** Nivel 7-8
+- **Inmediatamente después:** Nivel 7-8
 
 ---
 
 ## ⚠️ **EVENTOS CATALIZADORES**
 
-### **CATALIZADOR #1: Robo del Cronómetro (Sesión 4)**
+### **CATALIZADOR #1: Robo de la Perla (Después del 1er Lugarteniente)**
+- Edward Teach roba la Perla del Vacío Primordial
+- Traiciona a los Oceánicos de las Profundidades (20 años de alianza)
+- **47 guerreros Oceánicos mueren** (masacre en Abysara)
+- Los Oceánicos de las Profundidades declaran vendetta eterna
+
+### **CATALIZADOR #1.5: Robo del Cronómetro (Después del 2do Lugarteniente)**
 - Edward Teach roba el Cronómetro de Realidades
+- Descubre relación Anacronistas-Abysara en textos antiguos
 - Los PJ son sospechosos del robo
 - Deben demostrar inocencia o recuperar el artefacto
 
-### **CATALIZADOR #1.5: Robo de la Perla (Sesión 4-5)**
-- Edward Teach traiciona a los Oceánicos de las Profundidades
-- 47 guerreros Oceánicos mueren
-- Los Oceánicos de las Profundidades declaran vendetta eterna
-
-### **CATALIZADOR #2: Asesinato de Thyra (Sesión 5-6)**
+### **CATALIZADOR #2: Creación del Talismán + Asesinato de Thyra (Después del 3er Lugarteniente)**
 - **EL EVENTO MÁS IMPORTANTE DE LA CAMPAÑA**
-- Edward Teach asesina a Thyra y roba su poder
+- Edward Teach crea el Talismán de Interceptación Divina
+- Asesina a Thyra y roba su poder de estasis temporal
 - Desencadena La Ascensión del Cónclave
 - Cambia completamente el curso de la campaña
 
@@ -99,7 +109,6 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro (referencia general)
 - **[06_El_Talisman_de_Interceptacion.md](./06_El_Talisman_de_Interceptacion.md)** - Sistema completo del Talismán
 - **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema de competencia
-- **[06_Eventos_Ascension_Conclave.md](../../02_Guia_DM/06_Eventos_Ascension_Conclave.md)** - Eventos que modifican puntos
 
 ### **Documentos de NPCs:**
 - **[04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Edward Teach (ficha completa)
@@ -109,22 +118,29 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 ## 💡 **NOTAS CRÍTICAS PARA EL DM**
 
-### **Sesión 4 - El Robo:**
+### **Después del 1er Lugarteniente - El Robo de la Perla:**
+- **Enfatiza la tragedia:** 47 guerreros Oceánicos mueren
+- **Muestra la traición:** 20 años de alianza rota
+- **Crea vínculo emocional:** Los Oceánicos de las Profundidades quieren venganza
+
+### **Después del 2do Lugarteniente - El Robo del Cronómetro:**
 - **Los PJ deben sentir la pérdida** del Cronómetro (lo vieron en Sesión 2)
 - **Crear tensión:** Los Anacronistas están furiosos
 - **Pistas deben ser claras:** Rastro lleva al Archipiélago de Barbanegra
+- **Teach descubre conexión:** Encuentra relación Anacronistas-Abysara en textos antiguos
 
-### **Sesión 5 - La Combinación:**
+### **Después del 3er Lugarteniente - La Combinación:**
 - **⚠️ EVENTO FIJO:** El Talismán SIEMPRE se crea
 - **Si intentan interrumpir:** Combate épico vs Edward Teach (CR 17), pero el Talismán se completa de todas formas
 - **Final B depende del timing:** Si Teach llega primero a la Torre, usa el Talismán (Final B)
 
-### **Sesión 5-6 - Asesinato de Thyra:**
+### **Después del 3er Lugarteniente - Asesinato de Thyra:**
 - **⚠️ EVENTO FIJO:** Thyra SIEMPRE muere - El evento más importante de la campaña
+- **Teach necesita el Talismán:** Para penetrar la barrera de estasis de Thyra
 - **Si los PJ intentan prevenir:** Combate épico, pero Thyra muere de todas formas
-- **Si no salvan:** Evento fijo, guerra espontánea comienza
+- **La región queda accesible:** La estasis desaparece, revelando el camino hacia la Torre de la Eternidad
 
-### **Sesión 6 - Caos Desencadenado:**
+### **Inmediatamente Después - Caos Desencadenado:**
 - **NO hay proclamación oficial:** Manshoon está recluido
 - **Guerra espontánea:** Los lugartenientes reaccionan orgánicamente
 - **Cada lugarteniente reacciona según su personalidad**
@@ -133,14 +149,48 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 ## 📅 **TIMELINE DE ESTA FASE**
 
-### **📖 SESIÓN 4: "El Robo del Cronómetro"**
+> **⚠️ IMPORTANTE:** Estos eventos ocurren **DESPUÉS** de que los PJ derroten lugartenientes, NO en sesiones fijas. El orden es crítico:
+> 1. **Después del 1er Lugarteniente:** Robo de la Perla
+> 2. **Después del 2do Lugarteniente:** Robo del Cronómetro
+> 3. **Después del 3er Lugarteniente:** Creación del Talismán + Asesinato de Thyra
+> 4. **Inmediatamente después:** Caos Desencadenado
 
-**Ubicación:** Cronópolis  
-**Nivel de los PJ:** 5
+### **📖 DESPUÉS DEL 1er LUGARTENIENTE: "El Robo de la Perla"**
+
+**Ubicación:** Archipiélago de Barbanegra + Abysara (ciudad submarina)  
+**Nivel Aprox de los PJ:** 5-6
 
 **⚠️ EVENTO CATALIZADOR #1:**
+- ❗ **LA PERLA DEL VACÍO PRIMORDIAL ES ROBADA**
+- ❗ Edward Teach traiciona a los Oceánicos de las Profundidades (20 años de alianza)
+- ❗ **47 GUERREROS OCEÁNICOS MUERTOS** (masacre en Abysara)
+
+**Desarrollo:**
+1. **Teach visita Abysara** bajo pretexto de comercio/alianza
+2. **Esa noche:** Teach roba la Perla usando portales dimensionales
+3. **Masacre:** 47 guerreros Oceánicos son succionados al Vacío Primordial
+4. **Consecuencia:** Los Oceánicos de las Profundidades declaran vendetta eterna contra Teach
+5. **Los PJ descubren:** La masacre cuando investigan o visitan Abysara
+
+**NPCs Introducidos:**
+- Reina Nereia (líder Oceánicos de las Profundidades, 347 años)
+- Comandante Kael (líder militar Oceánicos)
+- Archivista Mira (erudita Oceánica)
+
+**Regiones Nuevas Accesibles:**
+- **Archipiélago de Barbanegra** (Edward Teach - Dimensional) - Nivel 11-13 (bloqueado hasta después del 3er lugarteniente)
+- **Abysara** (ciudad submarina Oceánicos de las Profundidades) - Explorable pero no hostil
+
+---
+
+### **📖 DESPUÉS DEL 2do LUGARTENIENTE: "El Robo del Cronómetro"**
+
+**Ubicación:** Cronópolis  
+**Nivel Aprox de los PJ:** 6-7
+
+**⚠️ EVENTO CATALIZADOR #1.5:**
 - ❗ **EL CRONÓMETRO DE REALIDADES ES ROBADO**
-- ❗ Edward Teach (o secuaz/traidor) lo roba durante la noche
+- ❗ Edward Teach descubre relación Anacronistas-Abysara en textos antiguos
 - ❗ **Los PJ son SOSPECHOSOS del robo** (porque conocían su ubicación)
 
 **Desarrollo:**
@@ -156,38 +206,10 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 ---
 
-### **📖 SESIÓN 4-5: "La Traición de Barbanegra"**
-
-**Ubicación:** Archipiélago de Barbanegra + Abysara (ciudad submarina)  
-**Nivel de los PJ:** 5-6
-
-**⚠️ EVENTO CATALIZADOR #1.5:**
-- ❗ **LA PERLA DEL VACÍO PRIMORDIAL ES ROBADA**
-- ❗ Edward Teach traiciona a los Oceánicos de las Profundidades
-- ❗ **47 GUERREROS OCEÁNICOS MUERTOS**
-
-**Desarrollo:**
-1. **Los PJ siguen el rastro** del robo del Cronómetro al Archipiélago
-2. **Descubren** que Teach visitó a los Oceánicos de las Profundidades bajo el agua
-3. **Esa noche:** Teach roba la Perla usando el Cronómetro
-4. **Masacre:** 47 guerreros Oceánicos son succionados al Vacío Primordial
-5. **Consecuencia:** Los Oceánicos de las Profundidades declaran vendetta eterna contra Teach
-
-**NPCs Introducidos:**
-- Reina Nereia (líder Oceánicos de las Profundidades, 347 años)
-- Comandante Kael (líder militar Oceánicos)
-- Archivista Mira (erudita Oceánica)
-
-**Regiones Nuevas Accesibles:**
-- **Archipiélago de Barbanegra** (Edward Teach - Dimensional Principal) - Nivel 11-13
-- **Abysara** (ciudad submarina Oceánicos de las Profundidades) - Explorable pero no hostil
-
----
-
-### **📖 SESIÓN 5: "La Combinación"**
+### **📖 DESPUÉS DEL 3er LUGARTENIENTE: "La Creación del Talismán"**
 
 **Ubicación:** Isla secreta en el Archipiélago de Barbanegra  
-**Nivel de los PJ:** 6
+**Nivel Aprox de los PJ:** 7-8
 
 **Evento Crítico:**
 - ❗ **EDWARD TEACH CREA EL TALISMÁN DE INTERCEPTACIÓN DIVINA**
@@ -208,43 +230,46 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 ---
 
-### **📖 SESIÓN 5-6: "El Asesinato de Thyra"**
+### **📖 DESPUÉS DEL 3er LUGARTENIENTE: "El Asesinato de Thyra"**
 
 **Ubicación:** Valle de la Aguja Suspendida (Región de Thyra)  
-**Nivel de los PJ:** 6
+**Nivel Aprox de los PJ:** 7-8
 
 **⚠️ EVENTO CATALIZADOR #2 (El más importante de la campaña):**
 - ❗❗ **EDWARD TEACH ASESINA A THYRA LA SUSPENDIDA**
-- ❗❗ Roba sus poderes de estasis temporal usando el Talismán
+- ❗❗ Usa el Talismán para penetrar la barrera de estasis de Thyra
+- ❗❗ Roba sus poderes de estasis temporal
 - ❗❗ **DESENCADENA LA ASCENSIÓN DEL CÓNCLAVE**
 
 **Desarrollo:**
 1. **Edward Teach** (ahora con el Talismán) se siente invencible
-2. **Confronta a Thyra** en su fortaleza bajo pretexto de "alianza"
-3. **La ataca** usando el Cronómetro, la Perla, y el Talismán combinados
-4. **La mata** y su poder de estasis temporal fluye hacia Teach (interceptado por el Talismán)
-5. **Perturbación masiva:** Los Anacronistas detectan la muerte de un lugarteniente
+2. **Penetra la barrera de estasis** de Thyra usando el Talismán (único que puede hacerlo)
+3. **Confronta a Thyra** en su fortaleza bajo pretexto de "alianza"
+4. **La ataca** usando el Cronómetro, la Perla, y el Talismán combinados
+5. **La mata** y su poder de estasis temporal fluye hacia Teach (interceptado por el Talismán)
+6. **Perturbación masiva:** Los Anacronistas detectan la muerte de un lugarteniente
 
 **⚠️ IMPORTANTE - EVENTO FIJO:**
 - **Thyra SIEMPRE muere** - Los PJ pueden intentar salvarla, pero el asesinato ocurre inevitablemente
+- **La región queda accesible:** La estasis desaparece, revelando el camino hacia la Torre de la Eternidad (barrera impenetrable sin Talismán)
 
 **Opciones para los PJ:**
-- **Llegar DURANTE el asesinato:** Pueden intentar prevenir, pero el asesinato ocurre de todas formas (combate épico, pero Thyra muere)
-- **Llegar DESPUÉS:** Encuentran la fortaleza vacía, cristales de tiempo por el suelo
+- **Llegar DURANTE el asesinato:** Muy difícil - la barrera de estasis bloquea el acceso (solo Teach con Talismán puede entrar)
+- **Llegar DESPUÉS:** Encuentran el valle congelado, cristales de tiempo por el suelo, barrera permanente
 - **Enterarse por rumores:** Los Anacronistas les informan de la perturbación
 
 **Consecuencias (SIEMPRE ocurren):**
-- **Thyra muere:** Su región queda sin líder (lugartenientes pueden reclamarla)
-- **Teach gana poder de estasis:** Ahora es extremadamente peligroso
+- **Thyra muere:** Su región queda accesible, la estasis desaparece, revelando el camino hacia la Torre de la Eternidad en las montañas del norte
+- **Teach gana poder de estasis:** Ahora es extremadamente peligroso (poderes híbridos)
 - **Otros lugartenientes se enteran:** Algunos aterrorizados, otros buscan aliarse/destruirlo
-- **Manshoon reacciona:** En lugar de castigar a Teach, lo aprovecha
+- **La Resistencia inventa el Motor de Viento Perpetuo:** Para acceder al Archipiélago de Barbanegra
 
 ---
 
-### **📖 SESIÓN 6: "El Caos Desencadenado"**
+### **📖 INMEDIATAMENTE DESPUÉS: "El Caos Desencadenado"**
 
 **Ubicación:** En cualquier lugar de Chronosia  
-**Nivel de los PJ:** 6-7
+**Nivel Aprox de los PJ:** 7-8
 
 **Evento Fijo:**
 - ❗❗❗ **LA NOTICIA DEL ASESINATO DE THYRA SE PROPAGA**
@@ -254,12 +279,13 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 **Desarrollo:**
 1. **Rumores se propagan:** Testigos, perturbaciones mágicas, espías confirman la muerte de Thyra
 2. **Cada lugarteniente reacciona según su personalidad:**
-   - **Vorthak + Serapis:** "Esto es una oportunidad. Si Teach puede matar a Thyra, nosotros podemos ascender también."
-   - **Ignis + Veldrisza:** "Edward es una amenaza. Debemos formar alianzas defensivas."
+   - **Vorthak:** "Esto es una oportunidad. Si Teach puede matar a Thyra, yo puedo ascender también. El tiempo es poder absoluto."
+   - **Serapis:** "Estoy aislado y vulnerable. Debo sobrevivir... pero esto demuestra que cualquiera puede ser eliminado." (reacciona solo, no puede aliarse)
+   - **Ignis + Veldrisza:** "Edward es una amenaza. Debemos formar alianzas defensivas para protegernos de este caos."
    - **Edward Teach:** "Perfecto. Seguiré robando poder mientras están distraídos."
-   - **Dimensionalis:** "Caos = oportunidad. Venderé información a todos."
-   - **Varrak:** "Esto es horrible. Los PJ tienen razón - debemos detener esto."
-   - **Las Gemelas:** "Esperaremos y veremos quién prevalece."
+   - **Dimensionalis:** "Caos = oportunidad. Venderé información a todos los bandos."
+   - **Varrak:** "Esto es horrible. Los PJ tienen razón - debemos detener esto." (neutral, observa)
+   - **Las Gemelas:** "Esperaremos y veremos quién prevalece. Jugar nuestro propio juego."
 3. **Los PJ se enteran:** Anacronistas, Oceánicos de las Profundidades, u otros NPCs les informan del caos creciente
 4. **Sistema de puntos comienza** (solo para tracking del DM): Todos empiezan con 0 pts (Edward Teach con +5 pts por matar a Thyra)
 
@@ -270,9 +296,9 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - Es una guerra espontánea provocada por la ambición de Teach y la paranoia de otros
 
 **Regiones Nuevas Desbloqueadas (Total: 6):**
-- **El Abismo de los Posibles** (Varrak - Temporal Principal) - Nivel 7-9
-- **Volcanis** (Ignis - Dimensional Principal) - Nivel 13-15
-- **La Mansión de la Sed Eterna** (Vorthak - Temporal Principal) - Nivel 9-11
+- **El Abismo de los Posibles** (Varrak - Temporal) - Nivel 7-9
+- **Volcanis** (Ignis - Dimensional) - Nivel 13-15
+- **La Mansión de la Sed Eterna** (Vorthak - Temporal) - Nivel 9-11
 
 ---
 

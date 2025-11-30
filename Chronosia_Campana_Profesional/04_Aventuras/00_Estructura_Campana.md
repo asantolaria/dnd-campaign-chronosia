@@ -69,7 +69,7 @@
 1. **La trama paralela NO depende de los PJ** - avanza automáticamente
 2. **Los PJ pueden influir** en la trama paralela a través del sistema de puntos
 3. **El DM debe consultar** `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` antes de cada sesión
-4. **El sistema de puntos** se calcula con `../02_Guia_DM/06_Eventos_Ascension_Conclave.md`
+4. **El sistema narrativo de competencia** se gestiona con `../02_Guia_DM/05_La_Ascension_del_Conclave.md`
 5. **El clímax depende** del recuento final de puntos
 
 ## 📋 **DOCUMENTOS RELACIONADOS**
@@ -77,7 +77,7 @@
 ### **Para el DM:**
 - **`../02_Guia_DM/00_Guia_Navegacion_DM.md`** → Guía completa de navegación
 - **`../02_Guia_DM/07_Cronologia_Maestra_Campana.md`** → Timeline maestro
-- **`../02_Guia_DM/06_Eventos_Ascension_Conclave.md`** → Sistema de puntos
+- **`../02_Guia_DM/05_La_Ascension_del_Conclave.md`** → Sistema narrativo de competencia
 - **`Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md`** → Escenas de revelación
 - **`Fase_0_Railroad_Inicial/04_Kaelthas_El_Relojero_Roto.md`** → Stats de Kaelthas
 
@@ -95,16 +95,16 @@
 ### **Sesiones 2-7 (SANDBOX + TRAMA PARALELA):**
 1. Lee `02_Misiones_Sandbox.md` para misiones disponibles
 2. **ANTES de cada sesión:** Consulta `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para eventos paralelos
-3. **DURANTE la sesión:** Usa `../02_Guia_DM/06_Eventos_Ascension_Conclave.md` para calcular puntos
-4. **DESPUÉS de la sesión:** Actualiza puntuaciones en `../02_Guia_DM/06_Eventos_Ascension_Conclave.md`
+3. **DURANTE la sesión:** Usa `../02_Guia_DM/05_La_Ascension_del_Conclave.md` para gestionar eventos narrativos
+4. **DESPUÉS de la sesión:** Actualiza el estado narrativo de los lugartenientes
 
 ### **Sesiones 8-13 (REVELACIONES):**
 1. Sigue `Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md` cronológicamente
-2. Continúa usando `../02_Guia_DM/06_Eventos_Ascension_Conclave.md` para puntos
+2. Continúa usando `../02_Guia_DM/05_La_Ascension_del_Conclave.md` para eventos narrativos
 3. Consulta `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para eventos fijos
 
 ### **Sesión 14 (RECUENTO):**
-1. **ANTES de la sesión:** Calcula puntos finales con `../02_Guia_DM/06_Eventos_Ascension_Conclave.md`
+1. **ANTES de la sesión:** Evalúa el estado narrativo final con `../02_Guia_DM/05_La_Ascension_del_Conclave.md`
 2. Determina el estado final de cada lugarteniente
 3. Prepara `03_Climax.md` según los resultados
 
@@ -140,7 +140,7 @@
    - Derrotan al primer lugarteniente
 
 5. **Encuentro con Anacronistas** (30 min)
-   - Zephyr explica la verdad
+   - Galen explica la verdad
    - Oferta de unirse a la resistencia
    - Viaje a Chronosia
 

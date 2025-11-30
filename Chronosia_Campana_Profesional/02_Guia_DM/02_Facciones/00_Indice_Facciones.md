@@ -50,13 +50,14 @@
 
 ---
 
-### **🏝️ LOS COLONOS DEL ARCHIPIÉLAGO**
-**Los Habitantes de las Islas Perdidas**
+### **🌊 LOS OCEÁNICOS DE LAS PROFUNDIDADES**
+**Guardianes de Abysara**
 
-- **Ubicación**: Islas menores del Archipiélago de Barbanegra
-- **Actitud**: Neutrales hacia los PJ, hostiles hacia Teach (en secreto)
-- **Especialidad**: Navegación, comercio, conocimiento de las islas
-- **📖 Documento completo:** [05_Colonos_Archipielago.md](./05_Colonos_Archipielago.md)
+- **Líder**: Reina Nereia
+- **Ciudad**: Abysara (ciudad sumergida)
+- **Actitud**: Aliados potenciales (después de la traición de Teach)
+- **Especialidad**: Combate submarino, conocimiento de cristales
+- **📖 Documento completo:** [07_Oceanicos_Abysara.md](./07_Oceanicos_Abysara.md)
 
 ---
 
@@ -78,7 +79,7 @@
 | **La Resistencia** | Neutrales | Tecnología anti-magia | ⚠️ Depende |
 | **Anacronistas** | Amigables | Resistencia temporal | ✅ Sí |
 | **Bregan D'aerthe** | Ambiguos | Espionaje y mercenariado | ⚠️ Depende |
-| **Colonos del Archipiélago** | Neutrales (amigables si enemigos de Teach) | Navegación, comercio, conocimiento local | ✅ Sí (si ayudan) |
+| **Oceánicos de las Profundidades** | Aliados (después de traición de Teach) | Combate submarino, cristales | ✅ Sí |
 
 ---
 

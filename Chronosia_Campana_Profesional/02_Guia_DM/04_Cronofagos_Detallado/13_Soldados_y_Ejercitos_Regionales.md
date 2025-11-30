@@ -49,7 +49,7 @@ El resto de los lugartenientes **entrenan y otorgan poderes** directamente a sus
 
 ### **⚡ El Proceso de Infusión**
 
-1. **Reclutamiento**: El lugarteniente recluta seguidores (humanos, elfos, orcos, etc.) de su región
+1. **Reclutamiento**: El lugarteniente recluta seguidores (humanos, elfos, orcos, etc.) de su región y de su plano correspondiente
 2. **Entrenamiento**: Los seguidores son entrenados en las artes de combate y en el uso de los poderes del lugarteniente
 3. **Infusión de Poder**: El lugarteniente infunde fragmentos de su poder temporal o dimensional en los seguidores
 4. **Transformación**: Los seguidores desarrollan habilidades únicas basadas en el poder específico de su lugarteniente

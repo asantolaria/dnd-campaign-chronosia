@@ -9,7 +9,6 @@
 > **🔐 INFORMACIÓN ULTRA-SECRETA:**
 > Todo el contenido de este documento es información que los PJs NO deben conocer hasta que la descubran activamente. El DM debe seguir estrictamente la cronología de revelaciones especificada en este documento.
 >
-> **📖 Para validación completa:** Ver `02_Guia_DM/10_Validacion_Informacion_Ultra_Secreta.md`
 
 ---
 
@@ -48,7 +47,7 @@ Las revelaciones NO deben ser dadas directamente. Los PJ deben DESCUBRIRLAS acti
 1. **Investigación** - Buscar información en bibliotecas, interrogar NPCs
 2. **Combate** - Los enemigos dejan pistas al morir (diarios, órdenes escritas)
 3. **Observación** - Notar patrones extraños en el comportamiento de los lugartenientes
-4. **Aliados** - NPCs como Varrak o Zephyr revelan información si confían en los PJ
+4. **Aliados** - NPCs como Varrak o Galen revelan información si confían en los PJ
 
 ### **Principio de "Pista → Confirmación":**
 
@@ -182,7 +181,7 @@ Incluso los LUGARTENIENTES no están seguros de dónde está Aethernus. Esto deb
 
 ### **Pistas Adicionales de la Sesión 8:**
 
-- **Zephyr (si está vivo)** menciona casualmente: *"Es extraño que Aethernus no haya aparecido para confrontaros personalmente. Normalmente, le gusta... observar."*
+- **Galen (si está vivo)** menciona casualmente: *"Es extraño que Aethernus no haya aparecido para confrontaros personalmente. Normalmente, le gusta... observar."*
 - **Distorsiones cósmicas** están aumentando en frecuencia (el cielo se fractura ocasionalmente)
 - **Varrak del Horizonte** (si está aliado) menciona: *"Veo muchos futuros... pero en TODOS, Aethernus está... ausente. Rodeado de oscuridad. No puedo ver qué está haciendo."*
 
@@ -222,7 +221,7 @@ CONFIRMACIÓN MAYOR: Aethernus está recluido intencionalmente. Los lugartenient
 
 ### **Escena 5: "La Biblioteca Secreta"**
 
-**Ubicación:** Cronópolis - Biblioteca de Zephyr o lugar similar
+**Ubicación:** Cronópolis - Biblioteca de Galen o lugar similar
 
 **Setup:**
 Los PJ buscan información activamente en una biblioteca. Con una tirada exitosa de Investigación (CD 18), encuentran un diario antiguo.
@@ -355,10 +354,10 @@ Varrak del Horizonte envía un mensajero urgente a los PJ. Cuando llegan, encuen
 
 **Varrak:** *"He visto el futuro. Tres caminos se abren ante vosotros. En uno, Manshoon completa su ascensión y destruye la realidad. En otro, Edward Teach roba el poder y destruye la realidad de manera diferente. En el tercero... vosotros llegáis a tiempo y detenéis ambos."*
 
-**Zephyr/Anacronista:** *"La Torre de la Eternidad está oculta en una dimensión de bolsillo. Solo tres formas de acceder:*
+**Zephyr/Anacronista:** *"La Torre de la Eternidad está oculta en una dimensión de bolsillo, más allá del Valle de la Aguja Suspendida, en las profundidades de las montañas del norte. Solo tres formas de acceder:*
 1. *Una clave divina (los dioses pueden otorgarla)*
 2. *Un artefacto de los lugartenientes que resuene con la torre*
-3. *O... preguntarle a Edward Teach. Él ya sabe cómo llegar."*
+3. *O... preguntarle a Edward Teach. Él ya sabe cómo llegar, pues fue él quien abrió el camino al asesinar a Thyra."*
 
 **Varrak:** *"Debéis actuar PRONTO. El ritual está al... 85% de completarse. Tenéis días. Tal vez horas."*
 
@@ -482,7 +481,7 @@ Una voz resuena en las mentes de TODOS en Chronosia:
 
 **Voz de Amaunator (desesperada):** *"Mortales de Chronosia... escuchad mi súplica. Yo, Amaunator, Dios del Sol y el Tiempo, estoy prisionero. Mi hermano Voidar y yo... seremos consumidos. El Clone Número 47... el que se hace llamar Aethernus... está a momentos de completar su ascensión. Si se convierte en dios... vuestro mundo, vuestro plano, vuestra REALIDAD entera... cesará de existir. Por favor... liberadnos..."*
 
-**Voz de Voidar (furiosa y agonizante):** *"¡NO TENÉIS MUCHO TIEMPO! La Torre de la Eternidad... dimensión de bolsillo... coordenadas 47, 89, 12... ¡VENID YA!"*
+**Voz de Voidar (furiosa y agonizante):** *"¡NO TENÉIS MUCHO TIEMPO! La Torre de la Eternidad... más allá del Valle de la Aguja Suspendida, en las montañas del norte... dimensión de bolsillo... coordenadas 47, 89, 12... ¡VENID YA!"*
 
 Las voces cesan. El cielo fracturado comienza a sangrar energía roja.
 
@@ -521,7 +520,7 @@ Los PJ reciben TODOS los recursos disponibles. Este es el momento "todos los ali
 **Setup:**
 Los PJ están a punto de partir hacia la Torre de la Eternidad. NPCs importantes se acercan para despedirse.
 
-**Zephyr (si está vivo):** *"Si no regresáis... fue un honor conoceros. Salvad nuestro mundo, héroes."*
+**Galen (si está vivo):** *"Si no regresáis... fue un honor conoceros. Salvad nuestro mundo, héroes."*
 
 **Varrak (si está aliado):** *"He visto múltiples futuros. En algunos, regresáis victoriosos. En otros... no regresáis. Pero en TODOS los futuros donde tenéis éxito... sois recordados como leyendas."*
 
@@ -567,7 +566,7 @@ Momento emotivo antes de la batalla final. Los jugadores deben sentir el peso de
 - **Sesión 12:** "El futuro se colapsa en un solo punto"
 - **Sesión 13:** "Este es el momento que he visto mil veces"
 
-**Zephyr (Guía):**
+**Galen (Guía):**
 - **Sesión 8:** "¿Por qué Aethernus no ha aparecido?"
 - **Sesión 10:** "Esto es peor de lo que pensé"
 - **Sesión 12:** "Debemos actuar AHORA"

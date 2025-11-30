@@ -67,7 +67,7 @@ Los PJ pueden elegir entre 3 regiones desbloqueadas:
 ### **1. Preparación en Cronópolis (15 minutos)**
 
 **Setup:**
-Los PJ se reúnen con Zephyr para planificar su primera misión.
+Los PJ se reúnen con Galen para planificar su primera misión.
 
 **Información Proporcionada:**
 - Mapa de la región elegida
@@ -144,7 +144,7 @@ Los PJ deben enfrentar al lugarteniente de la región elegida.
 Los PJ regresan a Cronópolis después de su primera misión.
 
 **Eventos:**
-- Reporte a Zephyr sobre lo descubierto
+- Reporte a Galen sobre lo descubierto
 - Descanso y recuperación
 - Planificación de próxima misión
 - **Setup para Sesión 4:** Menciones vagas sobre "actividad extraña" en Cronópolis

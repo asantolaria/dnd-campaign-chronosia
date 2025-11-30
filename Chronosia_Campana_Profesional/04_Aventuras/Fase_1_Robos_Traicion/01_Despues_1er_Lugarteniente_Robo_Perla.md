@@ -1,24 +1,25 @@
-# 📖 Sesión 4-5: La Traición de Barbanegra
-## *Evento Catalizador #1.5*
+# 📖 Después del 1er Lugarteniente: El Robo de la Perla
+## *Evento Catalizador #1 - Masacre en Abysara*
 
 ---
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 1](./00_Guia_General_Fase_1.md)
-> - [Sesión 4: Robo del Cronómetro](./01_Sesion_4_Robo_Cronometro.md)
-> - [Sesión 5: La Combinación](./03_Sesion_5_Combinacion.md)
+> - [Después del 2do Lugarteniente: Robo del Cronómetro](./02_Despues_2do_Lugarteniente_Robo_Cronometro.md)
+> - [Después del 3er Lugarteniente: Creación del Talismán](./03_Despues_3er_Lugarteniente_Creacion_Talisman.md)
 > - [El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md) - Sección "La Traición de Barbanegra"
-> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 4-5
+> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos
 
 ---
 
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 5-6
+- **Nivel Aprox de los PJ:** 5-6 (después de derrotar al 1er lugarteniente)
 - **Ubicación:** Archipiélago de Barbanegra + Abysara (ciudad submarina)
 - **Estilo:** Exploración + Confrontación + Tragedia
-- **⚠️ EVENTO CATALIZADOR #1.5:** La Perla del Vacío Primordial es robada
+- **⚠️ EVENTO CATALIZADOR #1:** La Perla del Vacío Primordial es robada (masacre en Abysara)
+- **⚠️ TIMING:** Ocurre **DESPUÉS DE QUE LOS PJ DERROTEN AL PRIMER LUGARTENIENTE**
 
 ---
 
@@ -83,7 +84,7 @@ Los PJ siguen el rastro del robo del Cronómetro hasta el Archipiélago de Barba
 
 ### **3. La Traición de Edward Teach (1 hora)**
 
-**⚠️ TIMING CRÍTICO:** Esto ocurre INMEDIATAMENTE después de que Teach obtiene el Cronómetro.
+**⚠️ TIMING CRÍTICO:** Esto ocurre **DESPUÉS DE QUE LOS PJ DERROTEN AL PRIMER LUGARTENIENTE**. Teach roba la Perla ANTES del Cronómetro.
 
 **Escena - "La Recepción en Abysara":**
 
@@ -104,9 +105,9 @@ Solicito vuestro consejo sobre cómo defenderme de las distorsiones dimensionale
 - Teach sonríe, pero sus ojos brillan con codicia
 
 **El Robo (Esa Noche):**
-- Teach usa el Cronómetro para congelar el tiempo (6 segundos)
-- Entra al Templo del Vacío mediante portal dimensional
+- Teach usa portales dimensionales para entrar al Templo del Vacío
 - Toma la Perla y escapa
+- **Nota:** Teach aún NO tiene el Cronómetro (lo robará después del 2do lugarteniente)
 
 **La Masacre:**
 - 47 guerreros Oceánicos intentan detener a Teach
@@ -192,17 +193,17 @@ Ayudadnos a vengarnos. Y recuperaremos vuestra reliquia también."
 - **La codicia:** Teach los traicionó por poder
 - **La venganza:** Los Oceánicos de las Profundidades quieren venganza eterna
 
-### **Setup para Sesión 5:**
-- **Menciona la isla secreta:** "Teach tiene una isla donde ejecuta rituales"
-- **Crea urgencia:** "Debemos actuar rápido antes de que complete su plan"
-- **Prepara la Combinación:** Los PJ deben saber que Teach está combinando los artefactos
+### **Setup para Después del 2do Lugarteniente:**
+- **Menciona que Teach necesita otro artefacto:** "Teach menciona que necesita algo más para completar su plan"
+- **Crea expectativa:** "Esto no ha terminado - Teach está planeando algo más grande"
+- **Prepara el robo del Cronómetro:** Los PJ deben saber que Teach buscará otro artefacto
 
 ---
 
 ## 🔗 **REFERENCIAS**
 
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "La Traición de Barbanegra"
-- **[Cronología Maestra - Sesión 4-5](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-4-5-la-traición-de-barbanegra)**
+- **[Cronología Maestra - Eventos Progresivos](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-fase-1-robos-y-traición-eventos-progresivos)**
 - **[Los Oceánicos de las Profundidades](./06_El_Talisman_de_Interceptacion.md#-los-océnicos-de-las-profundidades---raza-de-las-profundidades)** - Información completa sobre la raza
 
 ---

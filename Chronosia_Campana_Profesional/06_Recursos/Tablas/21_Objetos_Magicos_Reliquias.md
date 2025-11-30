@@ -37,7 +37,7 @@
 
 ### **🔮 Reliquias Divinas**
 - [Fragmentos de Poder Divino](#-fragmentos-de-poder-divino)
-- [Cristales de la Batalla Divina](#-cristales-de-la-batalla-divina)
+- [Cristales de Chronosia](#-cristales-de-chronosia)
 - [Reliquias de la Batalla](#-reliquias-de-la-batalla)
 
 ---
@@ -49,7 +49,8 @@
 **Tipo:** Artefacto (Requiere Sintonización)  
 **Rareza:** Artefacto Único  
 **Peso:** 2 libras  
-**Creador:** Fundadores de los Anacronistas (hace 500 años)  
+**Creador:** Fundadores de los Anacronistas (hace más de 800 años, poco después de la división de los Chronianos)  
+**Componente Clave:** Creado usando el **único Cristal de Estabilización** que los Anacronistas obtuvieron antes de la división del pueblo Chroniano  
 **Ubicación Original:** Cámara del Tiempo, Cronópolis (Anacronistas)  
 **Estado Actual:** ⚠️ Robado por Edward Teach (Sesión 4)
 
@@ -78,7 +79,11 @@
 - Acceso a tecnología avanzada de los Anacronistas
 
 #### **📜 Historia:**
-Artefacto gnomo antiguo creado por los fundadores de los Anacronistas hace más de 500 años. Fue diseñado originalmente para medir y estabilizar distorsiones temporales, pero con el tiempo, los Anacronistas descubrieron que también podía detectar y capturar fragmentos de poder temporal.
+Artefacto creado por los fundadores de los Anacronistas hace más de 800 años, poco después de la división de los Chronianos. Cuando el pueblo se dividió entre los que eligieron las profundidades (Oceánicos) y los que eligieron la superficie (Anacronistas), los Anacronistas obtuvieron el **único Cristal de Estabilización** que lograron conseguir antes de la separación.
+
+Con este cristal, los primeros Anacronistas inventaron el **Cronómetro de Realidades**, diseñado para estabilizar distorsiones temporales y proteger a su pueblo. El artefacto no solo mide y estabiliza distorsiones temporales, sino que crea un campo de protección alrededor de Cronópolis, convirtiendo la ciudad en una pequeña "Galia" - un bastión de estabilidad donde los poderes de los Cronófagos no tienen efecto.
+
+Con el tiempo, los Anacronistas descubrieron que el Cronómetro también podía detectar y capturar fragmentos de poder temporal, pero su función principal sigue siendo la protección de Cronópolis y sus habitantes.
 
 #### **🎨 Descripción Física:**
 Un reloj de bolsillo gnomo del tamaño de una mano. Su carcasa es de oro envejecido con engranajes visibles a través de cristal de zafiro. Los engranajes NO giran normalmente: algunos giran hacia atrás, otros se detienen y arrancan aleatoriamente, y algunos parecen girar en múltiples direcciones simultáneamente. En el centro, donde debería haber manecillas, hay un pequeño cristal que pulsa con luz dorada.
@@ -425,8 +430,9 @@ Un reloj de arena de 2 pies de altura con estructura de bronce antiguo. La arena
 1. **Quest de los Ingenieros:** Los Ingenieros de Cronópolis solicitan la construcción de la Excavadora
 2. **Quest Giver:** Din Goldgear o Balthar Herrumbra (La Resistencia)
 3. **Materiales Necesarios:**
-   - **5,000 po** en materiales (acero reforzado, engranajes de mithril, cristales dimensionales)
-   - **Componentes Especiales:** Los PJ pueden necesitar obtener materiales raros de regiones específicas
+   - **5,000 po** en materiales (acero reforzado, engranajes de mithril)
+   - **5 Cristales de Poder Púrpura (Dimensionales):** Se requieren cristales de poder dimensionales específicos de 5 regiones diferentes (ver misión "Cristales Dimensionales para la Excavadora" en Misiones_Sandbox.md)
+   - **⚠️ NOTA:** Los "Cristales Dimensionales Puros" mencionados en la misión son en realidad **Cristales de Poder Púrpura (dimensionales)** que se forman en regiones con alta actividad dimensional. Cada región dimensional puede tener un cristal único con propiedades específicas de esa región.
 4. **Tiempo de Construcción:** 1-2 semanas de trabajo (puede acelerarse si los PJ ayudan)
 
 **Requisitos:**
@@ -498,7 +504,7 @@ Una máquina de excavación del tamaño de un carro pequeño, con múltiples tal
 
 **Requisitos:**
 - **Ambas Partes:** Necesitas derrotar a AMBOS lugartenientes (Serapis Y Ymir)
-- **Nivel Recomendado:** 5-7 (ambos son lugartenientes menores, relativamente fáciles)
+- **Nivel Recomendado:** 5-7 (ambos son lugartenientes de nivel bajo, relativamente fáciles)
 - **Alianza con Ingenieros:** Los Ingenieros deben estar dispuestos a construir con el Rotor
 
 **Proceso de Ensamblaje:**
@@ -1019,6 +1025,37 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 - **Mecánica:** Vibra cuando detecta magia, más fuerte cuanto más cerca
 - **Uso:** No requiere sintonización, funciona para cualquiera
 
+#### **🔧 Artilugio Detector de Balance**
+
+**📍 Cómo Obtenerlo:**
+- **Creación:** Din Goldgear lo inventa después de que los PJ derroten a su segundo lugarteniente
+- **Ubicación:** Cronópolis (Taller de Din Goldgear / Taller de los Ingenieros)
+- **Uso:** Los PJ pueden consultarlo si tienen permiso de Din Goldgear o el Capitán Marcus
+- **Requisito:** Debe haberse derrotado al menos 2 lugartenientes para que Din lo invente
+
+**⚠️ IMPORTANTE:** Este artilugio solo existe **después de que los PJ derroten a su segundo lugarteniente**. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
+
+**Tipo:** Dispositivo (Tecnología + Magia)  
+**Rareza:** Muy Raro  
+**Peso:** 15 libras  
+**Creador:** Din Goldgear
+
+**Historia:**
+Después de que los personajes derroten a su segundo lugarteniente, Din Goldgear se da cuenta de que hay una reacción directa entre las bajas de los lugartenientes y cómo afecta su influencia en el mundo de Chronosia. Utilizando su conocimiento como artífice y su experiencia con distorsiones temporales (aprendida en Barovia), Din inventa este artilugio crucial que permite detectar el equilibrio entre poderes temporales y dimensionales.
+
+**Propiedades:**
+- **Medición del Equilibrio:** Mide el equilibrio actual entre poderes temporales y dimensionales, mostrando la diferencia numérica entre ambos
+- **Detección de Fluctuaciones:** Detecta fluctuaciones inmediatas cuando un lugarteniente cae, alertando sobre cambios en el balance
+- **Predicción de Fallos:** Predice fallos en dispositivos anti-distorsión basándose en el nivel de desbalance, mostrando porcentajes de eficiencia esperada
+- **Alertas de Estado:** Alerta cuando el equilibrio se vuelve crítico (diferencia de 3+), moderado (diferencia de 2), o extremo (diferencia de 4+)
+- **Visualización:** Muestra una representación visual del balance (escala, agujas, o luces que indican el estado actual)
+- **Uso:** Requiere una acción para consultar el estado actual del balance
+
+**Mecánica de Juego:**
+- El DM puede usar este artilugio para proporcionar información precisa sobre el estado del balance a los PJ
+- El Capitán Marcus usa este artilugio para proporcionar sus advertencias tecnológicas
+- Los PJ pueden consultarlo cuando regresen a Cronópolis para conocer el estado actual del balance
+
 #### **Neutralizador de Campo**
 
 **📍 Cómo Obtenerlo:**
@@ -1197,92 +1234,55 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 
 ---
 
-### **💎 Cristales de la Batalla Divina**
+### **💎 Cristales de Chronosia**
 
-Durante la batalla eterna entre Amaunator y Voidar, los estallidos de poder divino a veces crean **cristales especiales** que cristalizan en el espacio-tiempo fracturado. Estos cristales son extremadamente raros y pueden tener propiedades opuestas: algunos **neutralizan la magia** (antimagia), mientras que otros **amplifican y canalizan la magia** (canalizadores mágicos).
+Durante la batalla eterna entre Amaunator y Voidar, los estallidos de poder divino a veces crean **cristales especiales** que cristalizan en el espacio-tiempo fracturado. Existen dos tipos principales de cristales con propiedades únicas.
 
 **⚠️ IMPORTANTE:** Edward Teach ha descubierto cómo usar estos cristales junto con artefactos para **combinar poderes** de diferentes lugartenientes, permitiéndole robar y fusionar habilidades de múltiples fuentes.
 
-#### **🔷 Cristal Antimagia (Cristal de Neutralización)**
-
-**📍 Cómo Obtenerlo:**
-- **Origen:** Creado por estallidos de poder divino durante la batalla entre Amaunator y Voidar
-- **Ubicación:** Aparecen aleatoriamente en regiones con alta actividad temporal/dimensional
-- **Frecuencia:** Extremadamente raros (1d100 para encontrar uno en una región activa)
-- **Nivel Recomendado:** 5-15 (según el tamaño del cristal)
-
-**Tipo:** Consumible/Componente  
-**Rareza:** Muy Raro a Legendario (según tamaño)  
-**Peso:** 0.5-5 libras (según tamaño)
-
-**Descripción Física:**
-Un cristal de color gris opaco que parece absorber la luz. Su superficie es completamente mate, sin reflejos, y emite una sensación de "vacío mágico". Cuando se sostiene, se siente frío y la magia cercana se debilita. Los cristales más grandes pueden tener el tamaño de un puño, mientras que los pequeños son del tamaño de una moneda.
-
-**Propiedades:**
-
-**Tamaño Pequeño (Moneda):**
-- **Neutralización Menor:** Puede cancelar un hechizo de nivel 3 o inferior (acción)
-- **Campo Antimagia (10 pies):** Crea un campo de 10 pies de radio donde la magia se debilita (desventaja en tiradas de ataque con hechizos)
-- **Duración:** 1 hora o hasta que se use
-- **Usos:** 1 uso antes de consumirse
-
-**Tamaño Mediano (Puño):**
-- **Neutralización Mayor:** Puede cancelar un hechizo de nivel 6 o inferior (acción)
-- **Campo Antimagia (30 pies):** Crea un campo de 30 pies de radio donde la magia se debilita significativamente
-- **Bloqueo de Portales:** Puede cerrar portales temporales o dimensionales menores
-- **Duración:** 24 horas o hasta que se use
-- **Usos:** 3 usos antes de consumirse
-
-**Tamaño Grande (Cabeza):**
-- **Neutralización Absoluta:** Puede cancelar cualquier hechizo o efecto mágico (acción)
-- **Campo Antimagia (100 pies):** Crea un campo masivo donde la magia no puede funcionar
-- **Bloqueo de Portales Mayores:** Puede cerrar portales temporales o dimensionales poderosos
-- **Duración:** Permanente hasta que se use
-- **Usos:** 10 usos antes de consumirse
-
-**Uso en Combinación de Poderes (Edward Teach):**
-- Teach usa estos cristales para **estabilizar la combinación** de poderes robados
-- Permite que poderes temporales y dimensionales coexistan sin conflicto
-- Esencial para crear el Talismán de Interceptación Divina
-- Sin estos cristales, la combinación de poderes sería inestable y peligrosa
+**📝 NOTA SOBRE NOMENCLATURA:**
+- Los "**Cristales Dimensionales Puros**" mencionados en misiones (como la construcción de la Excavadora Dimensional) son en realidad **Cristales de Poder Púrpura (dimensionales)** que se forman en regiones con alta actividad dimensional.
+- Cada región dimensional puede tener cristales con propiedades específicas de esa región, pero todos son variantes de los **Cristales de Poder** descritos aquí.
+- No existe un tipo de cristal separado llamado "Cristal Dimensional" - todos son Cristales de Poder con poder dimensional (púrpura).
 
 ---
 
-#### **💠 Cristal Canalizador Mágico (Cristal de Amplificación)**
+#### **⚡ Cristal de Poder**
 
 **📍 Cómo Obtenerlo:**
-- **Origen:** Creado por estallidos de poder divino durante la batalla entre Amaunator y Voidar
-- **Ubicación:** Aparecen aleatoriamente en regiones con alta actividad temporal/dimensional
-- **Frecuencia:** Extremadamente raros (1d100 para encontrar uno en una región activa)
-- **Nivel Recomendado:** 5-15 (según el tamaño del cristal)
+- **Origen:** Se forma mágicamente cuando los estallidos de poder divino entre Amaunator y Voidar cristalizan en el espacio-tiempo fracturado
+- **Ubicación Principal:** **Abysara** - Los Oceánicos de las Profundidades conocen mejor cómo encontrarlos y recolectarlos en las profundidades del lecho marino cerca de la ciudad
+- **Otras Ubicaciones:** También pueden formarse espontáneamente en regiones con alta actividad temporal o dimensional (regiones controladas por lugartenientes), pero son extremadamente raros y difíciles de encontrar sin conocimiento especializado
+- **Frecuencia:** Extremadamente raros. Los Oceánicos de Abysara tienen el conocimiento más completo sobre su existencia y cómo encontrarlos
+- **Nivel Recomendado:** 7-15 (según el tamaño del cristal)
+- **⚠️ SECRETO:** El conocimiento sobre estos cristales es **guardado celosamente** por los Oceánicos de las Profundidades. Aunque pueden formarse en otras regiones, solo los Oceánicos saben cómo identificarlos y recolectarlos de forma segura. En otras regiones, encontrar estos cristales requiere exploración peligrosa y conocimiento arcano avanzado.
 
 **Tipo:** Consumible/Componente  
 **Rareza:** Muy Raro a Legendario (según tamaño)  
 **Peso:** 0.5-5 libras (según tamaño)
 
 **Descripción Física:**
-Un cristal brillante que pulsa con energía mágica. Su color varía según el tipo de poder que canaliza: dorado para poder temporal, púrpura para poder dimensional, o multicolor para poder combinado. Emite una luz suave y constante, y cuando se sostiene, se siente cálido y lleno de energía potencial. Los cristales más grandes brillan intensamente, mientras que los pequeños tienen un brillo tenue.
+Un cristal brillante que pulsa con energía mágica. Su color varía según el tipo de poder que contiene: **dorado** para poder temporal, **púrpura** para poder dimensional, o **multicolor** cuando contiene ambos. Emite una luz suave y constante, y cuando se sostiene, se siente cálido y lleno de energía potencial. Los cristales más grandes brillan intensamente, mientras que los pequeños tienen un brillo tenue.
 
 **Propiedades:**
 
 **Tamaño Pequeño (Moneda):**
-- **Amplificación Menor:** Aumenta el nivel de un hechizo en +1 (máximo nivel 5)
-- **Canalización Temporal:** Puede canalizar poder temporal para mejorar hechizos temporales
-- **Canalización Dimensional:** Puede canalizar poder dimensional para mejorar hechizos dimensionales
+- **Amplificación Temporal:** Aumenta el nivel de un hechizo temporal en +1 (máximo nivel 5)
+- **Amplificación Dimensional:** Aumenta el nivel de un hechizo dimensional en +1 (máximo nivel 5)
 - **Duración:** 1 hora o hasta que se use
 - **Usos:** 1 uso antes de consumirse
 
 **Tamaño Mediano (Puño):**
-- **Amplificación Mayor:** Aumenta el nivel de un hechizo en +2 (máximo nivel 7)
-- **Canalización Dual:** Puede canalizar poder temporal Y dimensional simultáneamente
-- **Amplificación de Artefactos:** Puede mejorar temporalmente las propiedades de un artefacto
+- **Amplificación Temporal:** Aumenta el nivel de un hechizo temporal en +2 (máximo nivel 7)
+- **Amplificación Dimensional:** Aumenta el nivel de un hechizo dimensional en +2 (máximo nivel 7)
+- **Amplificación de Artefactos:** Puede mejorar temporalmente las propiedades de un artefacto temporal o dimensional
 - **Duración:** 24 horas o hasta que se use
 - **Usos:** 3 usos antes de consumirse
 
 **Tamaño Grande (Cabeza):**
-- **Amplificación Absoluta:** Aumenta el nivel de un hechizo en +3 (máximo nivel 9)
+- **Amplificación Temporal:** Aumenta el nivel de un hechizo temporal en +3 (máximo nivel 9)
+- **Amplificación Dimensional:** Aumenta el nivel de un hechizo dimensional en +3 (máximo nivel 9)
 - **Canalización Divina:** Puede canalizar poder divino directamente de Amaunator o Voidar
-- **Fusión de Poderes:** Permite combinar poderes temporales y dimensionales de forma estable
 - **Duración:** Permanente hasta que se use
 - **Usos:** 10 usos antes de consumirse
 
@@ -1294,57 +1294,95 @@ Un cristal brillante que pulsa con energía mágica. Su color varía según el t
 
 ---
 
-#### **⚡ Cristales Combinados (Cristales Híbridos)**
+#### **🛡️ Cristal Estabilizador**
 
 **📍 Cómo Obtenerlo:**
-- **Origen:** Creados cuando un estallido de poder divino contiene energía de AMBOS dioses simultáneamente
-- **Ubicación:** Extremadamente raros, solo aparecen cerca de la Torre de la Eternidad o en momentos de máximo conflicto divino
-- **Frecuencia:** Casi imposibles de encontrar (1d1000 para encontrar uno)
-- **Nivel Recomendado:** 13-15
+- **Origen:** Tecnología única de los Oceánicos de las Profundidades de Abysara
+- **Ubicación:** **SOLO conocido y disponible en Abysara** (ciudad submarina de los Oceánicos)
+- **Frecuencia:** Extremadamente raros, solo los Oceánicos saben cómo crearlos
+- **Nivel Recomendado:** 7-15
+- **⚠️ SECRETO:** Este cristal es un conocimiento guardado celosamente por los Oceánicos. Solo se puede obtener a través de alianza o comercio con ellos.
 
-**Tipo:** Consumible/Componente  
-**Rareza:** Legendario  
-**Peso:** 2-10 libras
+**Tipo:** Objeto Mágico (Requiere Sintonización)  
+**Rareza:** Muy Raro a Legendario (según tamaño)  
+**Peso:** 1-3 libras
 
 **Descripción Física:**
-Un cristal que muestra propiedades de AMBOS tipos: parte de su superficie es gris opaco (antimagia) mientras que otra parte brilla intensamente (canalizador). El cristal parece "luchar" consigo mismo, alternando entre absorber y amplificar magia. Es extremadamente inestable y peligroso de usar.
+Un cristal de color azul profundo con matices turquesa que parece contener el océano en su interior. Su superficie es lisa como el vidrio pero con una textura orgánica que recuerda al coral. Emite una luz tenue y constante de color azul verdoso, y cuando se sostiene, se siente estable y protector. Los Oceánicos los crean usando técnicas ancestrales que combinan magia dimensional con la energía del océano profundo.
 
 **Propiedades:**
-- **Neutralización Selectiva:** Puede cancelar magia enemiga mientras amplifica magia aliada
-- **Canalización Dual:** Puede canalizar poder temporal Y dimensional simultáneamente
-- **Fusión Perfecta:** Permite combinar poderes de forma perfecta y estable
-- **⚠️ PELIGRO:** Usar este cristal requiere una tirada de Constitución CD 20 o sufre 3d10 de daño necrótico
-- **Usos:** 5 usos antes de consumirse
+
+**Tamaño Pequeño (Moneda):**
+- **Inmunidad Menor:** Otorga inmunidad a efectos temporales menores (ralentización, aceleración temporal leve)
+- **Inmunidad Dimensional Menor:** Otorga inmunidad a efectos dimensionales menores (compresión/expansión leve)
+- **Estabilización:** Protege contra distorsiones temporales y dimensionales menores
+- **Duración:** Permanente mientras se porta
+
+**Tamaño Mediano (Puño):**
+- **Inmunidad Temporal:** Otorga inmunidad completa a efectos temporales (ralentización, aceleración, bucles temporales, estasis)
+- **Inmunidad Dimensional:** Otorga inmunidad completa a efectos dimensionales (compresión, expansión, portales forzados)
+- **Estabilización Avanzada:** Protege contra distorsiones temporales y dimensionales mayores
+- **Resistencia:** Resistencia a daño temporal y dimensional
+- **Duración:** Permanente mientras se porta
+
+**Tamaño Grande (Cabeza):**
+- **Inmunidad Absoluta:** Otorga inmunidad completa a TODOS los efectos temporales y dimensionales
+- **Inmunidad a Manipulación Espacial:** Protege contra teletransportación forzada, portales, y distorsiones espaciales
+- **Inmunidad a Manipulación Temporal:** Protege contra todos los efectos de tiempo, incluyendo envejecimiento mágico
+- **Estabilización Perfecta:** El portador es completamente inmune a las distorsiones de Chronosia
+- **Resistencia Mayor:** Resistencia a daño temporal, dimensional, y necrótico
+- **Duración:** Permanente mientras se porta
 
 **Uso en Combinación de Poderes (Edward Teach):**
-- Teach busca desesperadamente estos cristales para crear el Talismán perfecto
-- Con un cristal híbrido, puede combinar poderes sin necesidad de múltiples cristales
-- Es el componente más valioso para su plan de interceptación divina
+- Teach busca desesperadamente estos cristales para **estabilizar** la combinación de poderes robados
+- Permite que poderes temporales y dimensionales coexistan sin conflicto
+- Esencial para crear el Talismán de Interceptación Divina sin sufrir daño por la fusión
+- Sin estos cristales, la combinación de poderes sería inestable y peligrosa
+
+**⚠️ IMPORTANTE - Conocimiento Secreto:**
+- Los **Cristales Estabilizadores** son un **secreto guardado celosamente** por los Oceánicos de las Profundidades
+- Solo se pueden obtener en **Abysara**, la ciudad submarina
+- Los Oceánicos rara vez los comparten con extranjeros debido a su aislamiento y desconfianza
+- Después de la traición de Teach, los Oceánicos están aún más reacios a compartir este conocimiento
+- Los PJ pueden obtenerlos a través de:
+  - **Alianza fuerte** con los Oceánicos (ayudarles a vengarse de Teach)
+  - **Misiones de alto valor** para la Reina Nereia
+  - **Comercio excepcional** (requiere objetos de gran valor o información crucial)
 
 ---
 
 #### **🎯 Cómo se Crean los Cristales**
 
-**El Proceso:**
+**Cristal de Poder:**
 1. **Estallido de Poder:** Durante la batalla entre Amaunator y Voidar, los estallidos de poder divino crean ondas de energía
 2. **Cristalización:** Estas ondas de energía a veces se cristalizan en el espacio-tiempo fracturado
-3. **Tipo de Cristal:** El tipo depende de la naturaleza del estallido:
-   - **Estallidos de Poder Temporal Puro** → Cristales Canalizadores (dorados)
-   - **Estallidos de Poder Dimensional Puro** → Cristales Canalizadores (púrpura)
-   - **Estallidos de Conflicto** (poderes que se anulan) → Cristales Antimagia (grises)
-   - **Estallidos Simultáneos** (ambos dioses) → Cristales Híbridos (multicolor)
+3. **Tipo de Poder:** El color depende de la naturaleza del estallido:
+   - **Estallidos de Poder Temporal Puro** → Cristales de Poder Dorados (temporales)
+   - **Estallidos de Poder Dimensional Puro** → Cristales de Poder Púrpura (dimensionales)
+   - **Estallidos Simultáneos** (ambos dioses) → Cristales de Poder Multicolor (ambos poderes)
 
-**Ubicaciones Comunes:**
-- **Regiones con Alta Actividad Temporal:** Cerca de lugartenientes temporales
-- **Regiones con Alta Actividad Dimensional:** Cerca de lugartenientes dimensionales
-- **La Torre de la Eternidad:** Donde la batalla es más intensa
-- **Puntos de Confluencia:** Donde múltiples distorsiones se encuentran
+**Cristal Estabilizador:**
+1. **Tecnología Oceánica:** Los Oceánicos de las Profundidades han desarrollado técnicas únicas durante siglos
+2. **Proceso Secreto:** Combinan magia dimensional con la energía del océano profundo
+3. **Ubicación:** Solo se pueden crear en Abysara, usando recursos únicos del lecho marino
+4. **Conocimiento Guardado:** El proceso exacto es un secreto que solo los maestros artesanos Oceánicos conocen
+
+**Ubicaciones de Cristales de Poder:**
+- **Abysara (Principal):** La ciudad submarina de los Oceánicos de las Profundidades (2 millas bajo la superficie, 10 millas al sur del Archipiélago de Barbanegra). Se forman mágicamente en las profundidades del lecho marino cerca de la ciudad. Los Oceánicos tienen el conocimiento más completo sobre su existencia y cómo encontrarlos de forma segura.
+- **Regiones con Alta Actividad Dimensional:** Las regiones controladas por lugartenientes dimensionales (Las Llanuras de la Compresión, La Ciudad Subterránea, El Jardín de los Tiempos Gemelos, Glacialis, Las Calderas Dimensionales) pueden tener Cristales de Poder Púrpura (dimensionales) formándose espontáneamente, pero son extremadamente raros y peligrosos de recolectar sin conocimiento especializado.
+- **Regiones con Alta Actividad Temporal:** Las regiones controladas por lugartenientes temporales pueden tener Cristales de Poder Dorados (temporales) formándose espontáneamente, pero son extremadamente raros.
+- **⚠️ NOTA:** Aunque los cristales pueden formarse en otras regiones, solo los Oceánicos de Abysara tienen el conocimiento completo y seguro para identificarlos y recolectarlos. En otras regiones, encontrar estos cristales requiere exploración peligrosa y puede ser parte de misiones específicas (como la construcción de la Excavadora Dimensional).
+
+**Ubicaciones de Cristales Estabilizadores:**
+- **Abysara:** La ciudad submarina de los Oceánicos (donde se descubrió originalmente durante la reconstrucción de la ciudad)
+- **Cronópolis:** Los Anacronistas obtuvieron el único Cristal de Estabilización que tienen antes de la división, usado para crear el Cronómetro de Realidades
+- **Otras ubicaciones:** Pueden encontrarse ocasionalmente en vetas profundas bajo montañas antiguas, pero son extremadamente raros
 
 **Frecuencia:**
-- **Cristales Pequeños:** Aparecen ocasionalmente (1d20 para encontrar uno en una región activa)
-- **Cristales Medianos:** Aparecen raramente (1d100 para encontrar uno)
-- **Cristales Grandes:** Aparecen extremadamente raramente (1d1000 para encontrar uno)
-- **Cristales Híbridos:** Casi imposibles (solo cerca de la Torre o en momentos críticos)
+- **Cristales de Poder Pequeños:** Extremadamente raros. Más comunes en Abysara (requieren alianza o comercio especial con Oceánicos). Pueden encontrarse ocasionalmente en regiones con alta actividad temporal/dimensional, pero son muy peligrosos de recolectar sin conocimiento especializado.
+- **Cristales de Poder Medianos:** Casi legendarios. Principalmente en Abysara (solo disponibles a través de misiones de alto valor para la Reina Nereia). Extremadamente raros en otras regiones.
+- **Cristales de Poder Grandes:** Legendarios únicos. Principalmente en Abysara (solo disponibles como recompensa por servicios excepcionales). Casi imposibles de encontrar en otras regiones.
+- **Cristales Estabilizadores:** Raros, principalmente en Abysara y Cronópolis (requieren alianza o comercio especial). Solo los Oceánicos saben cómo crearlos.
 
 ---
 
@@ -1353,20 +1391,21 @@ Un cristal que muestra propiedades de AMBOS tipos: parte de su superficie es gri
 **El Sistema de Teach:**
 Edward Teach ha desarrollado un sistema único para combinar poderes usando estos cristales:
 
-1. **Cristal Antimagia:** Usa estos cristales para **estabilizar** la combinación, evitando que los poderes robados entren en conflicto
-2. **Cristal Canalizador:** Usa estos cristales para **amplificar y canalizar** los poderes, permitiendo que se fusionen en lugar de simplemente coexistir
+1. **Cristal Estabilizador:** Usa estos cristales para **estabilizar** la combinación, evitando que los poderes robados entren en conflicto y protegiéndose de los efectos secundarios
+2. **Cristal de Poder:** Usa estos cristales para **amplificar y canalizar** los poderes, permitiendo que se fusionen en lugar de simplemente coexistir
 3. **Artefactos:** Combina los cristales con artefactos (Cronómetro, Perla) para crear objetos híbridos poderosos
-4. **Cristal Híbrido:** Si encuentra un cristal híbrido, puede combinar poderes de forma perfecta sin necesidad de múltiples cristales
 
 **El Talismán de Interceptación Divina:**
-- **Componentes:** Cronómetro + Perla + Cristales Antimagia + Cristales Canalizadores
-- **Proceso:** Los cristales estabilizan y amplifican la fusión de los artefactos
+- **Componentes:** Cronómetro + Perla + Cristales Estabilizadores + Cristales de Poder
+- **Proceso:** Los cristales estabilizadores protegen contra los efectos de la fusión, mientras que los cristales de poder amplifican y canalizan la energía
 - **Resultado:** Un artefacto que puede interceptar el poder divino antes de que llegue a Manshoon
 
 **Búsqueda Activa:**
-- Teach busca activamente estos cristales en todas las regiones
-- Puede enviar a sus piratas a buscar cristales mientras él ejecuta otros planes
+- Teach busca desesperadamente **Cristales de Poder** en Abysara (pero los Oceánicos lo rechazan después de su traición y solo ellos conocen cómo encontrarlos de forma segura)
+- Teach busca desesperadamente **Cristales Estabilizadores** en Abysara (pero los Oceánicos lo rechazan después de su traición)
+- Puede enviar a sus piratas a buscar cristales en regiones con alta actividad dimensional/temporal, pero sin el conocimiento de los Oceánicos, es extremadamente peligroso y raro encontrar Cristales de Poder
 - Los cristales son esenciales para su plan de interceptación divina
+- **⚠️ PROBLEMA DE TEACH:** Sin acceso a Abysara y sin el conocimiento especializado de los Oceánicos, Teach no puede obtener Cristales de Poder de forma segura. Aunque técnicamente pueden formarse en otras regiones, encontrarlos y recolectarlos sin el conocimiento de los Oceánicos es casi imposible y extremadamente peligroso. Esto puede ser un punto de presión narrativa importante.
 
 ---
 
@@ -1430,13 +1469,12 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 | Estabilizador Temporal | Muy Raro | Tecnología | 200 lbs | Din Goldgear |
 | Fragmento de Amaunator | Artefacto | Reliquia | 1 lb | Torre de la Eternidad |
 | Fragmento de Voidar | Artefacto | Reliquia | 1 lb | Torre de la Eternidad |
-| Cristal Antimagia (Pequeño) | Muy Raro | Consumible | 0.5 lbs | Regiones activas (raro) |
-| Cristal Antimagia (Mediano) | Muy Raro | Consumible | 2 lbs | Regiones activas (muy raro) |
-| Cristal Antimagia (Grande) | Legendario | Consumible | 5 lbs | Regiones activas (extremadamente raro) |
-| Cristal Canalizador (Pequeño) | Muy Raro | Consumible | 0.5 lbs | Regiones activas (raro) |
-| Cristal Canalizador (Mediano) | Muy Raro | Consumible | 2 lbs | Regiones activas (muy raro) |
-| Cristal Canalizador (Grande) | Legendario | Consumible | 5 lbs | Regiones activas (extremadamente raro) |
-| Cristal Híbrido | Legendario | Consumible | 2-10 lbs | Torre de la Eternidad (casi imposible) |
+| Cristal de Poder (Pequeño) | Muy Raro | Consumible | 0.5 lbs | Regiones activas (raro) |
+| Cristal de Poder (Mediano) | Muy Raro | Consumible | 2 lbs | Regiones activas (muy raro) |
+| Cristal de Poder (Grande) | Legendario | Consumible | 5 lbs | Regiones activas (extremadamente raro) |
+| Cristal Estabilizador (Pequeño) | Muy Raro | Objeto Mágico | 1 lb | Abysara (solo) |
+| Cristal Estabilizador (Mediano) | Muy Raro | Objeto Mágico | 2 lbs | Abysara (solo) |
+| Cristal Estabilizador (Grande) | Legendario | Objeto Mágico | 3 lbs | Abysara (solo) |
 
 ---
 

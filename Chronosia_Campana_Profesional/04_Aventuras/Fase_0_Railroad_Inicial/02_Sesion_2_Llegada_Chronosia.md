@@ -15,7 +15,7 @@
 
 - **Duración Estimada:** 3-4 horas
 - **Nivel de los PJ:** 3-4
-- **Ubicación:** Cronópolis (centro de Chronosia) - **BASE PERMANENTE DE LOS PJ**
+- **Ubicación:** Cronópolis (Costa Oeste de Chronosia, cerca del mar) - **BASE PERMANENTE DE LOS PJ**
 - **Estilo:** Railroad (lineal, establecimiento del mundo)
 
 ---
@@ -29,7 +29,7 @@
 - ✅ Explicar la situación completa de Chronosia
 
 ### **Objetivos Secundarios:**
-- ⭐ Crear conexión emocional con NPCs clave (Zephyr, Tiber, Maestra Nira)
+- ⭐ Crear conexión emocional con NPCs clave (Galen, Tiber, Maestra Nira)
 - ⭐ Establecer recursos disponibles en Cronópolis
 - ⭐ Presentar el mapa de Chronosia y las regiones
 
@@ -68,7 +68,7 @@ gigantes. El cielo sobre vosotros está FRACTURADO - grietas de luz dorada y pú
 cruzan el firmamento. El tiempo y el espacio se ven distorsionados, como si estuvierais 
 mirando a través de un prisma roto.
 
-ZEPHYR (sonriendo):
+AETHERIUS (sonriendo):
 "Bienvenidos a Chronosia. El Reino del Tiempo Fracturado."
 ```
 
@@ -83,7 +83,7 @@ ZEPHYR (sonriendo):
 - **Ambiente:** Esperanzado pero tenso - saben que están en peligro constante
 
 **NPCs Presentes:**
-- **Zephyr** (líder Anacronista, guía principal)
+- **Galen** (líder Anacronista, guía principal)
 - **Tiber** (si fue rescatado en Sesión 1, se vuelve amigo cercano)
 - Habitantes refugiados (muestran esperanza y miedo)
 
@@ -131,9 +131,9 @@ el tiempo y el espacio."
 [Señala diferentes regiones en el mapa]
 
 ZEPHYR:
-"Aethernus tiene 12 lugartenientes - 8 principales y 3 menores. Cada uno controla 
+"Aethernus tiene 12 lugartenientes. Cada uno controla 
 una región y recibe fragmentos del poder divino. Kaelthas, el que derrotasteis, 
-era el más débil."
+era uno de ellos."
 
 [Pausa, mirando directamente a los PJ]
 
@@ -144,7 +144,7 @@ durante décadas, pero no podemos derrotar a Aethernus solos. Necesitamos vuestr
 
 **Información Revelada:**
 - Aethernus Valcarys = Manshoon Clone #47 (pero esto NO se revela aún)
-- 12 lugartenientes (8 principales + 3 menores + 1 caído: Kaelthas)
+- 12 lugartenientes (11 activos + 1 caído: Kaelthas)
 - Chronosia es un semiplano-prisión
 - Los dioses están capturados y luchando eternamente
 - Los Anacronistas son la resistencia
@@ -152,7 +152,7 @@ durante décadas, pero no podemos derrotar a Aethernus solos. Necesitamos vuestr
 **Mapa de Chronosia Presentado:**
 - 13 regiones mostradas
 - 3 regiones desbloqueadas inicialmente (Glacialis, Espiral del Reloj, Valle de la Aguja)
-- Cronópolis en el centro
+- Cronópolis en la Costa Oeste, cerca del mar
 
 ---
 
@@ -271,7 +271,7 @@ peligros. Y cada lugarteniente es poderoso."
 - **Símbolo Anacronista:** Medallón que identifica a los PJ como aliados
 - **Acceso a Recursos:** Tienda, templo, biblioteca, sala de mapas
 - **Información:** Mapa completo de Chronosia, información sobre 3 regiones
-- **Conexiones:** NPCs clave presentados (Zephyr, Tiber, Maestra Nira, Korin, Elara)
+- **Conexiones:** NPCs clave presentados (Galen, Tiber, Maestra Nira, Korin, Elara)
 
 ---
 
@@ -303,7 +303,7 @@ peligros. Y cada lugarteniente es poderoso."
 
 - **[Cronología Maestra - Sesión 2](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-2-llegada-a-chronosia)**
 - **[Facciones y Organizaciones](../../02_Guia_DM/02_Facciones/00_Indice_Facciones.md)** - Información sobre Anacronistas
-- **[NPCs Importantes](../../02_Guia_DM/03_NPCs_Importantes.md)** - Zephyr, Tiber, Maestra Nira
+- **[NPCs Importantes](../../02_Guia_DM/03_NPCs_Importantes.md)** - Galen, Tiber, Maestra Nira
 - **[Geografía de Chronosia](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - Información sobre regiones
 
 ---

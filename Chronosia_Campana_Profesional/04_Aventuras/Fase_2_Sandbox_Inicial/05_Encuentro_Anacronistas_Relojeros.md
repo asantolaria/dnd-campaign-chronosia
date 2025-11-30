@@ -14,9 +14,9 @@
 
 ## 📋 **RESUMEN EJECUTIVO**
 
-**Cuándo Ocurre:** Sesión 8-9 (cuando el ritual está al 90-91%)  
+**Cuándo Ocurre:** Sesión 8-9 (cuando la urgencia del ritual es media-alta)  
 **Dónde:** Cronópolis (Taller de los Ingenieros o Santuario de los Anacronistas)  
-**Quién Participa:** Zephyr (Anacronistas) + Balthar Herrumbra/Lucienne Rietveldt (La Resistencia)  
+**Quién Participa:** Galen (Anacronistas) + Balthar Herrumbra/Lucienne Rietveldt (La Resistencia)  
 **Resultado:** Creación del **Contador del Ritual** - Artefacto que monitorea el avance del ritual de Manshoon
 
 **🎯 Propósito Narrativo:**
@@ -49,7 +49,7 @@ Los Anacronistas (con su percepción mística del tiempo verdadero) han sentido 
 
 **Si los PJ están en Cronópolis:**
 
-Los PJ notan una procesión inusual: **Zephyr y varios Anacronistas** caminan por las calles de Cronópolis, dirigiéndose directamente hacia el **Taller de los Ingenieros** (donde trabajan La Resistencia).
+Los PJ notan una procesión inusual: **Aetherius y varios Anacronistas** caminan por las calles de Cronópolis, dirigiéndose directamente hacia el **Taller de los Ingenieros** (donde trabajan La Resistencia).
 
 **Descripción:**
 ```
@@ -68,10 +68,10 @@ hay una urgencia que no habéis visto antes.
 
 **Si los PJ están con los Anacronistas:**
 
-Zephyr se acerca a los PJ con expresión grave:
+Galen se acerca a los PJ con expresión grave:
 
 ```
-ZEPHYR (con voz tensa):
+GALEN (con voz tensa):
 "Amigos, algo terrible se está gestando. El tiempo mismo me susurra advertencias. 
 Necesito hablar con La Resistencia. A pesar de nuestras diferencias, 
 ellos tienen la tecnología que necesitamos. Y nosotros... tenemos la percepción 
@@ -182,29 +182,29 @@ movimiento es inquietante: avanzan hacia algo inevitable.
 ```
 El Contador del Ritual cobra vida. Las agujas se mueven, los engranajes giran, 
 y los fragmentos de aionita brillan con una luz tenue. En el centro del reloj, 
-aparece un número:
+aparece un símbolo que cambia constantemente:
 
-**91%**
+**⚡⚡⚡** (Tres rayos - Urgencia Alta)
 
 ZEPHYR (con voz temblorosa):
-"Noventa y uno por ciento... el ritual está al noventa y uno por ciento. 
-Cuando llegue al cien... Manshoon se convertirá en un dios."
+"El ritual avanza... las agujas se mueven hacia el final. Cuando el símbolo 
+se vuelva completamente rojo... Manshoon se convertirá en un dios."
 
 BALTHAR (golpeando su prótesis mecánica contra una mesa):
 "¡Maldita sea! No tenemos tiempo. Cada día que pasa, el ritual avanza. 
 Si no detenemos a los lugartenientes y llegamos a la Torre de la Eternidad 
-antes de que llegue al cien por ciento... será demasiado tarde."
+antes de que el símbolo se vuelva rojo... será demasiado tarde."
 
 LUCIENNE (calculando rápidamente):
 "Basándome en la velocidad actual... tenemos aproximadamente 3-4 sesiones 
-antes de que llegue al 100%. Pero la velocidad puede acelerarse si los 
+antes de que el ritual se complete. Pero la velocidad puede acelerarse si los 
 lugartenientes continúan alimentando el ritual con sus acciones."
 ```
 
 **Los PJ ahora entienden:**
-- El ritual está al **91%** (o el porcentaje actual según la sesión)
-- Avanza aproximadamente **1-2% por sesión**
-- Tienen **tiempo limitado** antes de que llegue al 100%
+- El ritual está **avanzando** (indicado por símbolos visuales de urgencia)
+- Avanza **constantemente** con el tiempo
+- Tienen **tiempo limitado** antes de que se complete
 - Deben **priorizar** qué lugartenientes enfrentar
 
 ---
@@ -222,16 +222,17 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - **Número central** que muestra el porcentaje actual del ritual
 
 **Efectos Visuales:**
-- Las agujas se mueven **muy lentamente** (1-2% por sesión)
+- Las agujas se mueven **muy lentamente** hacia el final
 - Cuando el ritual avanza, las agujas **aceleran momentáneamente**
 - Los fragmentos de aionita **pulsan** en sintonía con el pulso del tiempo
-- Si el ritual llega al **95%+**, el artefacto emite una **luz roja** de advertencia
+- Cuando la urgencia es **crítica**, el artefacto emite una **luz roja** de advertencia
+- Los símbolos centrales cambian según la urgencia: ⚡ (Baja) → ⚡⚡ (Media) → ⚡⚡⚡ (Alta) → 🔴 (Crítica)
 
 ### **🎯 Mecánicas del Artefacto**
 
 **Funcionalidad:**
-- **Monitorea el progreso del ritual** de Manshoon (85-100%)
-- **Actualiza automáticamente** cuando el ritual avanza
+- **Monitorea la urgencia del ritual** de Manshoon mediante indicadores visuales
+- **Actualiza automáticamente** cuando el ritual avanza (cambia símbolos/colores)
 - **No puede ser manipulado** (está vinculado al flujo temporal verdadero)
 - **Visible para todos** (no requiere magia para verlo)
 
@@ -245,17 +246,17 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - **Fuerza decisiones:** "¿Enfrentamos a este lugarteniente o a ese? ¿Tenemos tiempo para ambos?"
 - **Crea presión narrativa:** Cada sesión que pasa, el número aumenta
 
-### **📈 Progresión del Ritual (Referencia)**
+### **📈 Indicadores de Urgencia del Ritual (Referencia)**
 
-| **Sesión** | **Progresión** | **Estado** | **Efecto Visual** |
-|------------|----------------|------------|------------------|
-| 8-9 | 90-91% | Avanzando | Agujas se mueven lentamente |
-| 10 | 92% | ⚠️ Urgencia | Agujas aceleran ligeramente |
-| 11 | 93-94% | ⚠️ Urgencia | Fragmentos de aionita pulsan más rápido |
-| 12 | 95-97% | ⚠️⚠️ Crítico | Luz roja de advertencia |
-| 13 | 98% | ⚠️⚠️⚠️ Crítico | Luz roja intensa, agujas se mueven visiblemente |
-| 14 | 98-99% | ⚠️⚠️⚠️ Crítico | Artefacto vibra, luz roja parpadea |
-| 15 | 100% | **FINAL** | Artefacto se detiene - "100%" |
+| **Sesión** | **Urgencia** | **Estado** | **Efecto Visual** |
+|------------|--------------|------------|------------------|
+| 8-9 | Baja | Avanzando | Agujas se mueven lentamente, símbolo: ⚡ |
+| 10 | Media | ⚠️ Urgencia | Agujas aceleran ligeramente, símbolo: ⚡⚡ |
+| 11 | Alta | ⚠️ Urgencia | Fragmentos de aionita pulsan más rápido, símbolo: ⚡⚡⚡ |
+| 12 | Crítica | ⚠️⚠️ Crítico | Luz roja de advertencia, símbolo: 🔴 |
+| 13 | Crítica Extrema | ⚠️⚠️⚠️ Crítico | Luz roja intensa, agujas se mueven visiblemente, símbolo: 🔴🔴 |
+| 14 | Crítica Extrema | ⚠️⚠️⚠️ Crítico | Artefacto vibra, luz roja parpadea, símbolo: 🔴🔴🔴 |
+| 15 | Completado | **FINAL** | Artefacto se detiene - Símbolo final: 💀 |
 
 ---
 
@@ -268,8 +269,8 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - Pueden explorar libremente sin presión temporal
 
 **Después del Contador:**
-- **Ven el número aumentar** cada sesión
-- **Saben cuánto tiempo tienen** antes del 100%
+- **Ven los símbolos cambiar** cada sesión (indicando mayor urgencia)
+- **Saben que el tiempo es limitado** antes de que el ritual se complete
 - **Sienten la presión** de tomar decisiones rápidas
 
 ### **2. Fuerza Decisiones**
@@ -289,8 +290,9 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - Una **fuente de ansiedad** cuando el número aumenta
 
 **El DM puede usar el Contador para:**
-- Aumentar tensión: "El Contador ahora muestra 94%"
-- Crear urgencia: "Las agujas se mueven más rápido de lo normal"
+- Aumentar tensión: "El Contador ahora muestra tres rayos (⚡⚡⚡) - la urgencia es alta"
+- Crear urgencia: "Las agujas se mueven más rápido de lo normal, los fragmentos de aionita pulsan con más frecuencia"
+- Transmitir urgencia crítica: "El Contador ahora emite una luz roja de advertencia - el ritual está muy cerca de completarse"
 - Generar presión: "Solo queda 6% antes del final"
 
 ### **4. Unión de Facciones**
@@ -308,12 +310,12 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 
 **Opción A: Sesión 8 (Recomendado)**
 - Los PJ acaban de descubrir la primera sospecha sobre Manshoon
-- El ritual está al 90%
+- El ritual muestra urgencia media (símbolo: ⚡⚡)
 - Es el momento perfecto para crear urgencia
 
 **Opción B: Sesión 9**
 - Los PJ han explorado más
-- El ritual está al 91%
+- El ritual muestra urgencia alta (símbolo: ⚡⚡⚡)
 - Puede ser una revelación más impactante
 
 ### **Cómo Presentar el Encuentro:**
@@ -332,7 +334,7 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 
 ### **Integración con la Campaña:**
 
-- **Actualiza el Contador** según la tabla de progresión del ritual
+- **Actualiza el Contador** según los indicadores de urgencia narrativa
 - **Usa el Contador** para justificar urgencia narrativa
 - **Permite que los PJ consulten el Contador** cuando quieran
 - **Haz que el Contador sea parte del mundo:** Otros NPCs también lo consultan
@@ -341,10 +343,10 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 
 ## 🔗 **REFERENCIAS**
 
-- **[Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)** - Información sobre Zephyr y los Anacronistas
+- **[Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)** - Información sobre Aetherius y los Anacronistas
 - **[La Resistencia](../../02_Guia_DM/02_Facciones/02_La_Resistencia.md)** - Información sobre Balthar y La Resistencia
 - **[Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timing del ritual
-- **[Tablas de Tracking](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** - Progresión del ritual
+- **[Tablas de Tracking](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** - Estado de lugartenientes y balance
 - **[Sesión 8: Primera Sospecha](./02_Sesion_8_Primera_Sospecha.md)** - Contexto de la sesión
 
 ---

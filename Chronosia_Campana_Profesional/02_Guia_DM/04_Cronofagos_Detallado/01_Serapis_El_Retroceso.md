@@ -10,7 +10,7 @@
 - **Rol:** Principal
 - **Región:** La Espiral Inversa
 - **Nivel Recomendado:** 5-7
-- **Bando:** Temporal (Bajo Lord Vorthak)
+- **Bando:** Temporal (Bajo Lord Vorthak) → **⚠️ NO puede aliarse con Vorthak** (se van a realizar cambios)
 - **Estado de Acceso:** 🔓 Desbloqueada (accesible desde el inicio)
 
 ---
@@ -147,5 +147,51 @@ Cuando Serapis muere (ya sea por los PJ o por otro lugarteniente), **La Espiral 
 
 ---
 
-*Serapis representa el poder de revertir el tiempo, haciendo que cada herida sea temporal y cada error pueda ser deshecho. Su combate es una batalla contra la inevitabilidad del daño y la muerte.* ⏰
+## ⚠️ **RELACIÓN CON VORTHAK Y DESTINO FINAL**
+
+### **NO Puede Aliarse con Vorthak:**
+Serapis **NO puede aliarse con Vorthak** debido a cambios en las dinámicas de poder que se van a realizar. Esto lo deja más vulnerable y aislado tras el asesinato de Thyra.
+
+### **Destino Final - La Traición de los Bregan Daerthe:**
+Después de la trama de la Traición de Serapis, cuando la Matrona Veldrisza vea cómo los lugartenientes mueven sus casillas, los **Bregan Daerthe se revelarán contra Serapis** y lo matarán definitivamente. Los Bregan Daerthe llevarán su cuerpo a Veldrisza, quien invocará el ritual **Zin-Carla** para resucitarlo como no-muerto bajo su control.
+
+**Serapis Resucitado:**
+- Conserva sus poderes temporales
+- Ahora está bajo el control de Veldrisza
+- Combina poderes temporales y dimensionales de forma única
+- Sirve a Veldrisza como guardián poderoso
+
+**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa.
+
+---
+
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **🎯 Gancho Principal: Trama Compleja de Traición**
+Serapis está involucrado en una de las tramas más complejas y emocionales de la campaña: **La Traición de Serapis**.
+
+### **🎭 La Trama Completa:**
+- **Infiltración en La Resistencia:** Serapis tiene un agente doble (Kaoros el Sordo) que se comunica telepáticamente con él
+- **Emboscada y Juicio:** Organiza una emboscada que lleva a la ejecución injusta del Capitán Marcus
+- **Revelación Impactante:** Se revela como el verdadero traidor, mostrando cómo ha manipulado a La Resistencia
+- **Batalla Épica:** Combate contra Serapis usando su artilugio de retroceso temporal
+- **Destino Final:** Será traicionado por los Bregan Daerthe (que están comprados por Veldrisza) y resucitado como no-muerto
+
+### **⚔️ Oportunidades Narrativas:**
+- **Momento Emocional:** Los PJ ven cómo un aliado (Capitán Marcus) es ejecutado injustamente
+- **Revelación de Traición:** Descubren la verdadera naturaleza de Serapis y su agente doble
+- **Combate Único:** Batalla contra un enemigo que puede reiniciar el combate usando su artilugio
+- **Consecuencias:** La muerte de Varrak, la resurrección del Capitán Marcus, y el destino final de Serapis
+
+### **⚠️ Características Especiales:**
+- **NO puede aliarse con Vorthak:** Se van a realizar cambios en las dinámicas de poder
+- **Vulnerable y aislado:** Sin la opción de aliarse con Vorthak, Serapis está más vulnerable
+- **Mecánica única:** Sistema del Reloj de Arena (ver región)
+- **Destino final:** Será asesinado por los Bregan Daerthe y resucitado como no-muerto bajo el control de Veldrisza mediante el ritual Zin-Carla
+
+**📖 Trama completa:** [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md)  
+
+---
+
+*Serapis representa el poder de revertir el tiempo, haciendo que cada herida sea temporal y cada error pueda ser deshecho. Su combate es una batalla contra la inevitabilidad del daño y la muerte. Sin embargo, su destino final es ser traicionado por aquellos en quienes confiaba y resucitado como esclavo de Veldrisza.* ⏰
 

@@ -13,76 +13,66 @@
 
 ## ⚔️ **DIAGRAMA: LA ASCENSIÓN DEL CÓNCLAVE**
 
-Este diagrama muestra cómo el asesinato de Thyra desencadena la competencia entre lugartenientes, la formación de bandos, y el sistema de puntos que determina quién asciende a Supremo.
+Este diagrama muestra cómo el asesinato de Thyra desencadena la guerra civil entre lugartenientes, y cómo todos los supervivientes llegan a la Torre de la Eternidad para el enfrentamiento final.
 
 ```mermaid
 flowchart TD
     CATALIZADOR[Asesinato de Thyra<br/>Sesión 5-6] --> REACCION[Reacción Espontánea<br/>Sesión 6]
     
-    REACCION --> BANDOS[Formación de Bandos y Categorías]
+    REACCION --> COMPETENCIA[Guerra Civil Entre Lugartenientes<br/>Sesiones 6-12<br/>Luchan entre sí]
     
-    BANDOS --> BANDO_T[🩸 Bando Temporal - ALIANZA<br/>Vorthak + Serapis<br/>Subordinación real]
-    BANDOS --> BANDO_D[🔥 Bando Dimensional - ALIANZA<br/>Ignis + Veldrisza<br/>Alianza pragmática]
-    BANDOS --> INDEP[🏴‍☠️ Independientes - SIN ALIANZA<br/>Teach<br/>Dimensionalis]
-    BANDOS --> NEUTRAL[🟡 Neutrales - SIN ALIANZA<br/>Varrak<br/>Gemelas]
+    COMPETENCIA --> EVENTOS[Eventos Aleatorios<br/>1d12 cada 2 sesiones<br/>Lugartenientes luchan entre sí]
     
-    BANDO_T --> COMPETENCIA[Competencia por Puntos<br/>Sesiones 6-12]
-    BANDO_D --> COMPETENCIA
-    INDEP --> COMPETENCIA
-    NEUTRAL --> COMPETENCIA
-    
-    COMPETENCIA --> EVENTOS[Eventos Aleatorios<br/>1d12 cada 2 sesiones]
-    
-    EVENTOS --> E1[Duelo a Muerte<br/>+5 pts al ganador]
-    EVENTOS --> E2[Conquista Territorial<br/>+3 pts]
-    EVENTOS --> E3[Alianza Forjada<br/>+1 pt a ambos]
-    EVENTOS --> E4[Traición Revelada<br/>+2 pts si sobrevive]
-    EVENTOS --> E5[Ritual Oscuro<br/>+4 pts éxito, -2 fallo]
+    EVENTOS --> E1[Duelo a Muerte<br/>Ganador gana poder]
+    EVENTOS --> E2[Conquista Territorial<br/>Gana poder y territorio]
+    EVENTOS --> E3[Alianza Forjada<br/>Ambos ganan estabilidad]
+    EVENTOS --> E4[Traición Revelada<br/>Traidor gana poder si sobrevive]
+    EVENTOS --> E5[Ritual Oscuro<br/>Éxito: poder significativo]
     EVENTOS --> E6[Robo de Poder<br/>Variable, alto riesgo]
     
-    E1 --> PUNTOS[Sistema de Puntos<br/>15 = Ascensión]
-    E2 --> PUNTOS
-    E3 --> PUNTOS
-    E4 --> PUNTOS
-    E5 --> PUNTOS
-    E6 --> PUNTOS
+    E1 --> ESTADO_FINAL[Estado Final: Sesión 13<br/>- Lugartenientes vivos/muertos<br/>- Aliados de los PJ<br/>- Balance T/D]
+    E2 --> ESTADO_FINAL
+    E3 --> ESTADO_FINAL
+    E4 --> ESTADO_FINAL
+    E5 --> ESTADO_FINAL
+    E6 --> ESTADO_FINAL
     
-    PUNTOS --> S11[Sesión 11: Elecciones<br/>Varrak y Gemelas eligen bando]
+    ESTADO_FINAL --> TORRE[Torre de la Eternidad<br/>Sesión 14<br/>Todos los lugartenientes vivos entran]
     
-    S11 --> VORTHAK{¿Vorthak asciende?}
-    S11 --> IGNIS{¿Ignis asciende?}
-    S11 --> TEACH{¿Teach asciende?}
+    TORRE --> ANTESALA[Antesala: Revelación Masiva<br/>Toda la verdad al descubierto]
     
-    VORTHAK -->|Sí| SUPREMO1[Supremo Temporal<br/>Poder x3, Inmortalidad]
-    IGNIS -->|Sí| SUPREMO2[Supremo Dimensional<br/>Poder x3, Inmortalidad]
-    TEACH -->|Sí| SUPREMO3[Supremo Independiente<br/>Poder x3, Inmortalidad]
+    ANTESALA --> N1[Nivel 1: Sala de Ecos<br/>Puzzles y acertijos<br/>Revelación completa]
     
-    SUPREMO1 --> RESOLUCION[Resolución: Sesión 13<br/>Estado Final Determinado]
-    SUPREMO2 --> RESOLUCION
-    SUPREMO3 --> RESOLUCION
+    N1 --> ANTESALA2[Antesala Nivel 2<br/>Todos se ven]
+    ANTESALA2 --> N2[Nivel 2: Casa de Manshoon<br/>Clones de PJs<br/>Tesoros en habitaciones]
     
-    RESOLUCION --> ESTADO[Estado Final:<br/>- Supremos vivos<br/>- Lugartenientes vivos<br/>- Aliados PJ<br/>- Balance T/D]
+    N2 --> ANTESALA3[Antesala Nivel 3<br/>Todos se ven]
+    ANTESALA3 --> N3[Nivel 3: Eliminatoria<br/>Prueba de Voluntad<br/>Teach tiene ventaja]
     
-    ESTADO --> CLIMAX[Clímax: Sesiones 13-15<br/>Confrontación final]
+    N3 --> ANTESALA4[Antesala Nivel 4<br/>Últimos sobrevivientes]
+    ANTESALA4 --> N4[Nivel 4: Cámara de Ascensión<br/>Manshoon + Dioses encadenados<br/>Ritual en progreso]
     
-    CLIMAX --> FINAL_A[FINAL A: Manshoon<br/>Solo o + Supremos]
-    CLIMAX --> FINAL_B[FINAL B: Blackbeard<br/>Teach usurpa poder]
-    CLIMAX --> FINAL_C[FINAL C: Carrera Divina<br/>3+ bandos]
-    CLIMAX --> FINAL_D[FINAL D: Demasiado Tarde<br/>Ritual 100%]
+    N4 --> TIMING{¿Ritual completado?}
+    
+    TIMING -->|No| COMBATE[Combate Final<br/>Liberar dioses o perder]
+    TIMING -->|Sí| FINAL_D[FINAL D: Demasiado Tarde<br/>Manshoon invencible<br/>CR 25+]
+    
+    COMBATE --> RESULTADO[Victoria o Derrota<br/>Destino del Multiverso]
+    
+    FINAL_D --> RESULTADO
     
     style CATALIZADOR fill:#ffcccc
     style COMPETENCIA fill:#ffffcc
-    style PUNTOS fill:#ccffcc
-    style RESOLUCION fill:#ffcc99
-    style ESTADO fill:#ffffcc
-    style CLIMAX fill:#ff9999
-    style SUPREMO1 fill:#ffcccc
-    style SUPREMO2 fill:#ccccff
-    style SUPREMO3 fill:#ccffcc
-    style FINAL_A fill:#ff6666
-    style FINAL_B fill:#66ff66
-    style FINAL_C fill:#6666ff
+    style ESTADO_FINAL fill:#ffcc99
+    style TORRE fill:#ffe1e1
+    style ANTESALA fill:#ffffcc
+    style N1 fill:#e1f5ff
+    style N2 fill:#e1f5ff
+    style N3 fill:#e1f5ff
+    style N4 fill:#ffe1e1
+    style COMBATE fill:#ff9999
     style FINAL_D fill:#ff66ff
+    style RESULTADO fill:#ccffcc
 ```
 
 ---
@@ -101,92 +91,73 @@ flowchart TD
 - **La aprovechó como distracción** para mantener a sus lugartenientes ocupados
 - **Edward Teach sospecha la verdad** y está investigando cómo robar el poder divino
 
-### **⚔️ Los Bandos y Categorías:**
+### **⚔️ La Guerra Civil Entre Lugartenientes:**
 
-#### **🩸 Bando Temporal - "Los Sedientos de Tiempo" (ALIANZA REAL)**
-- **Líder:** Lord Vorthak "El Sediento Eterno"
-- **Miembros:** Serapis el Retroceso (subordinado leal)
-- **Varrak:** Neutral inicialmente, puede unirse en Sesión 11
-- **Estrategia:** Drenaje temporal, conquista agresiva, subordinación por miedo
-- **Objetivos:** Conquistar 3+ regiones, eliminar a Edward Teach, drenar poder dimensional
-- **⚠️ IMPORTANTE:** Esta es una **ALIANZA REAL** - Vorthak y Serapis trabajan juntos
+Tras el asesinato de Thyra, los lugartenientes reaccionan espontáneamente. Algunos forman alianzas temporales, otros actúan solos, pero todos compiten por poder y supervivencia. Esta guerra civil es **orgánica y no planeada** - Manshoon ni siquiera sabe que está ocurriendo.
 
-#### **🔥 Bando Dimensional - "Los Conquistadores de Planos" (ALIANZA REAL)**
-- **Líder:** Ignis el Devorador Espacial
-- **Miembros:** Matrona Veldrisza (aliada pragmática)
-- **Las Gemelas:** Neutrales pero inclinadas, pueden unirse en Sesión 11
-- **Estrategia:** Expansión metódica, red de portales, alianzas estratégicas
-- **Objetivos:** Conectar todas las regiones con portales, alianzas con planos externos
-- **⚠️ IMPORTANTE:** Esta es una **ALIANZA REAL** - Ignis y Veldrisza trabajan juntos
+**Características:**
+- **Lugartenientes luchan entre sí** por poder, territorio y supervivencia
+- **Alianzas temporales** pueden formarse y romperse
+- **Eventos aleatorios** determinan quién gana o pierde en cada conflicto
+- **Todos los supervivientes** llegarán a la Torre de la Eternidad en Sesión 14
+- **Edward Teach** siempre llega (tiene el Talismán, evento fijo)
 
-#### **🏴‍☠️ Independientes - "Los Oportunistas del Caos" (SIN ALIANZA)**
-- **Miembros:** Edward Teach (solo), Dimensionalis la Fracturada (solo)
-- **Estrategia:** Traiciones calculadas, robo de poder, manipulación, supervivencia
-- **Objetivos:** Sobrevivir al caos, robar poder de los débiles, esperar momento perfecto
-- **⚠️ IMPORTANTE:** **NO forman alianza entre ellos** - solo están en la misma categoría porque ambos actúan solos
-
-#### **🟡 Neutrales - "Los Observadores" (SIN ALIANZA)**
-- **Miembros:** Varrak del Horizonte (solo), Las Gemelas del Espejo (solo)
-- **Estado:** Observan, decidirán más tarde (Sesión 11)
-- **⚠️ IMPORTANTE:** **NO forman alianza entre ellos** - solo están en la misma categoría porque ambos permanecen neutrales inicialmente
-
-### **📊 Sistema de Puntos de Ascensión:**
+### **📊 Competencia Narrativa Entre Lugartenientes:**
 
 > **📊 Para tablas completas de tracking:**
-> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#1-sistema-de-puntos-de-la-ascensión-del-cónclave)** para:
-> - Tabla de Puntuación de Lugartenientes (completa y actualizable)
-> - Registro de Eventos por Sesión
+> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** para:
+> - Estado de Lugartenientes (vivo/muerto/aliado)
+> - Balance Temporal/Dimensional
 > - Todas las demás tablas de tracking
 
-**Resumen de Acciones y Puntos:**
+**Resumen de Acciones y Efectos Narrativos:**
 
-| **Acción** | **Puntos** | **Ejemplos** |
-|------------|-----------|--------------|
-| Asesinar a otro lugarteniente | +5 | Edward Teach mata a Thyra |
-| Conquistar región completa | +3 | Ignis anexa Las Calderas |
-| Debilitar significativamente a los PJ | +2 | Matar a un PJ, destruir aliados |
-| Completar misión de Aethernus | +2 | Sacrificar 1000 almas |
-| Formar alianza exitosa (3+ sesiones) | +1 | Vorthak + Serapis |
-| Ritual de extracción divina | +4 | Extraer poder directamente (1 vez) |
-| Traicionar exitosamente | +2 | Dimensionalis traiciona y sobrevive |
-| Defender exitosamente de invasión | +1 | Rechazar ataque de otro lugarteniente |
+| **Acción** | **Efecto Narrativo** | **Ejemplos** |
+|------------|---------------------|--------------|
+| Asesinar a otro lugarteniente | Gana poder significativo y reputación | Edward Teach mata a Thyra |
+| Conquistar región completa | Gana poder y control territorial | Ignis anexa Las Calderas |
+| Debilitar significativamente a los PJ | Demuestra fuerza y elimina amenazas | Matar a un PJ, destruir aliados |
+| Completar misión de Aethernus | Gana favor directo | Sacrificar 1000 almas |
+| Formar alianza exitosa (3+ sesiones) | Gana estabilidad y poder conjunto | Vorthak + Serapis |
+| Ritual de extracción divina | Gana poder divino significativo | Extraer poder directamente (1 vez) |
+| Traicionar exitosamente | Demuestra astucia si sobrevive | Dimensionalis traiciona y sobrevive |
+| Defender exitosamente de invasión | Demuestra fuerza y resistencia | Rechazar ataque de otro lugarteniente |
 
-**Modificadores Especiales:**
-- **Derrotar a lugarteniente de tipo opuesto:** x2 puntos
-- **Robar poder (como Edward Teach):** +3 adicionales
-- **Ser derrotado por PJ:** -3 puntos
-- **Perder región conquistada:** -2 puntos
+**Criterios para Supremos:**
+- **Acciones Significativas:** Lugartenientes que han logrado múltiples victorias importantes
+- **Poder Acumulado:** Aquellos que han robado o absorbido poder de otros
+- **Dominio Territorial:** Lugartenientes que controlan múltiples regiones
+- **Influencia:** Aquellos que han formado alianzas poderosas o han demostrado liderazgo
 
-**Cuando alguien alcanza 15 puntos:**
-- Recibe automáticamente un fragmento de poder divino (Supremo)
+**Cuando alguien se vuelve Supremo (narrativamente):**
+- Recibe automáticamente un fragmento de poder divino (poder x3, inmortalidad)
 - **NO hay proclamación** - el poder fluye automáticamente al más fuerte
 - Manshoon configuró el sistema así ANTES de recluirse, pero ahora NO sabe quién lo recibe
 - Máximo 3 Supremos durante la campaña
 
-**📖 Para lista completa de eventos y puntos:** Ver [06_Eventos_Ascension_Conclave.md](../../02_Guia_DM/06_Eventos_Ascension_Conclave.md)
+**📖 Para eventos narrativos:** Ver [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) para detalles completos sobre la competencia narrativa.
 
 ### **🎲 Eventos Aleatorios (1d12 cada 2-3 sesiones):**
 
-Ver documento completo: [06_Eventos_Ascension_Conclave.md](../../02_Guia_DM/06_Eventos_Ascension_Conclave.md)
+Ver [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) para la tabla completa de eventos aleatorios.
 
 ### **⚔️ Resolución Final y Repercusión en el Clímax:**
 
 **Estado al Llegar al Clímax (Sesión 13-15):**
-- **2-3 lugartenientes vivos** (el resto fueron derrotados por los PJ o se mataron entre sí)
-- **0-3 Supremos** (depende de si alguien alcanzó 15 puntos)
-- **Alianzas rotas o reforzadas** (según las acciones de los PJ)
+- **Lugartenientes vivos** (determinados por eventos de la campaña)
+- **Aliados de los PJ** (si formaron alianzas)
+- **Balance Temporal/Dimensional** (afecta dificultad del combate final)
 
-**Escenarios Posibles en la Torre:**
-1. **Solo Manshoon** (todos eliminados) - ⭐⭐⭐
-2. **Manshoon + Supremos** (1-3 Supremos vivos) - ⭐⭐⭐⭐⭐
-3. **Guerra de Tres Bandos** (Supremos vs Manshoon vs PJ) - ⭐⭐⭐⭐
-4. **PJ + Aliados vs Manshoon** (lugartenientes aliados) - ⭐⭐
+**Todos los Lugartenientes Vivos Llegan a la Torre:**
+- **Edward Teach** siempre llega (tiene el Talismán, evento fijo)
+- **Otros lugartenientes vivos** también llegan (Vorthak, Ignis, etc. si están vivos)
+- **En la Antesala** todos se ven y oyen, pero no pueden atacarse
+- **Revelación masiva** en Nivel 1: toda la verdad al descubierto
 
-**Impacto en los Finales:**
-- **Final A (Manshoon):** Dificultad varía según Supremos y aliados
-- **Final B (Blackbeard):** Si Teach es Supremo, CR 25+ (casi invencible)
-- **Final C (Carrera Divina):** Múltiples Supremos pueden unirse (4+ bandos)
-- **Final D (Demasiado Tarde):** Supremos pueden ser convocados como refuerzos
+**Impacto en el Combate Final:**
+- **Lugartenientes aliados con PJ:** Actúan como NPCs aliados en el combate
+- **Lugartenientes enemigos:** Pueden aparecer como refuerzos de Manshoon o como tercer bando
+- **Edward Teach:** Siempre presente, determina el final según timing narrativo
 
 **📊 Para tablas completas de resolución final:**
 - Consulta [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#9-resolución-final-y-estado-para-el-clímax)

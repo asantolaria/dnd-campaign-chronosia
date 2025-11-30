@@ -232,51 +232,58 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 
 ### **💎 SISTEMA DE CRISTALES - COMBINACIÓN DE PODERES**
 
-Edward Teach ha descubierto cómo usar **cristales especiales** creados por los estallidos de poder de la batalla entre Amaunator y Voidar para combinar poderes de diferentes lugartenientes. Este sistema es esencial para su plan de interceptación divina.
+Edward Teach ha descubierto cómo usar **cristales especiales** para combinar poderes de diferentes lugartenientes. Este sistema es esencial para su plan de interceptación divina. Existen dos tipos de cristales que Teach necesita:
 
-#### **🔷 Cristales Antimagia (Estabilización)**
-
-**Función:**
-- Teach usa estos cristales para **estabilizar la combinación** de poderes robados
-- Previene que los poderes temporales y dimensionales entren en conflicto
-- Crea un campo de neutralización que permite que poderes opuestos coexistan
-
-**Uso en el Talismán:**
-- Esencial para combinar el Cronómetro (temporal) y la Perla (dimensional)
-- Sin estos cristales, la fusión sería inestable y peligrosa
-- Los cristales se consumen durante el ritual de combinación
-
-#### **💠 Cristales Canalizadores Mágicos (Amplificación)**
+#### **⚡ Cristales de Poder (Amplificación)**
 
 **Función:**
 - Teach usa estos cristales para **amplificar y canalizar** los poderes robados
 - Permite que los poderes se **fusionen** en lugar de simplemente coexistir
 - Aumenta la eficiencia y potencia de los poderes combinados
+- Puede aumentar efectos temporales o dimensionales
 
 **Uso en el Talismán:**
 - Amplifica la energía de ambos artefactos durante la fusión
 - Canaliza el poder divino de forma controlada
 - Los cristales se consumen durante el ritual de combinación
 
-#### **⚡ Cristales Híbridos (Fusión Perfecta)**
+**Origen:**
+- Creados por estallidos de poder divino durante la batalla entre Amaunator y Voidar
+- Aparecen en regiones con alta actividad temporal/dimensional
+- Teach busca activamente estos cristales en todas las regiones
+
+#### **🛡️ Cristales Estabilizadores (Protección)**
 
 **Función:**
-- Si Teach encuentra un cristal híbrido, puede combinar poderes de forma perfecta
-- No necesita múltiples cristales (antimagia + canalizador)
-- Permite una fusión más estable y poderosa
+- Teach usa estos cristales para **estabilizar la combinación** de poderes robados
+- Previene que los poderes temporales y dimensionales entren en conflicto
+- **Otorga inmunidades** al portador contra efectos temporales y dimensionales
+- Protege a Teach de los efectos destructivos de la fusión
 
-**Búsqueda Activa:**
-- Teach busca desesperadamente estos cristales
-- Son extremadamente raros (solo cerca de la Torre de la Eternidad)
-- Es el componente más valioso para su plan
+**Uso en el Talismán:**
+- Esencial para combinar el Cronómetro (temporal) y la Perla (dimensional)
+- Sin estos cristales, la fusión sería inestable y peligrosa
+- Los cristales se consumen durante el ritual de combinación
+
+**Origen:**
+- **SOLO conocidos y disponibles en Abysara** (ciudad submarina de los Oceánicos)
+- Tecnología única de los Oceánicos de las Profundidades
+- **PROBLEMA:** Después de la traición de Teach, los Oceánicos lo rechazan y no le venden cristales
+- Teach busca desesperadamente estos cristales pero tiene dificultades para obtenerlos
 
 #### **🎯 Cómo Teach Obtiene los Cristales**
 
-**Métodos:**
+**Cristales de Poder:**
 1. **Búsqueda Activa:** Envía a sus piratas a buscar cristales en regiones con alta actividad temporal/dimensional
 2. **Robo:** Puede robar cristales de otros lugartenientes o facciones
 3. **Intercambio:** Puede negociar con otras facciones por cristales
 4. **Creación Forzada:** En teoría, podría intentar crear estallidos de poder para generar cristales (muy peligroso)
+
+**Cristales Estabilizadores:**
+1. **Intento de Comercio:** Intenta negociar con los Oceánicos después de su traición (rechazado)
+2. **Robo:** Podría intentar robar cristales de Abysara (muy peligroso, los Oceánicos están alerta)
+3. **Intermediarios:** Podría usar intermediarios para obtener cristales sin revelar su identidad
+4. **Alternativas:** Busca desesperadamente alternativas o métodos para estabilizar la fusión sin estos cristales
 
 **Almacenamiento:**
 - Teach guarda sus cristales en su isla secreta del Archipiélago de Barbanegra
@@ -289,14 +296,21 @@ Edward Teach ha descubierto cómo usar **cristales especiales** creados por los 
 - La combinación de poderes sería inestable y peligrosa
 - El Talismán no podría crearse de forma segura
 - Teach no podría interceptar el poder divino
+- Sin Cristales Estabilizadores, Teach sufriría daño severo durante la fusión
 
 **Con Cristales:**
 - La combinación es estable y poderosa
 - El Talismán puede crearse exitosamente
 - Teach puede ejecutar su plan de interceptación divina
+- Los Cristales Estabilizadores lo protegen de los efectos secundarios
+
+**Dilema de Teach:**
+- **Problema Principal:** Necesita Cristales Estabilizadores de Abysara, pero los Oceánicos lo rechazan después de su traición
+- **Solución Temporal:** Teach podría estar buscando métodos alternativos o intentando obtener los cristales por la fuerza
+- **Oportunidad para los PJ:** Los PJ podrían ayudar a los Oceánicos y obtener acceso a los cristales, o podrían usar esto como ventaja contra Teach
 
 **Referencias:**
-- Ver [Cristales de la Batalla Divina](../../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-cristales-de-la-batalla-divina) para detalles completos sobre los cristales
+- Ver [Cristales de Chronosia](../../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-cristales-de-chronosia) para detalles completos sobre los cristales
 - **Estrategia**: Los PJ pueden usar conocimiento del lugarteniente original contra él
 
 ---
@@ -347,6 +361,28 @@ Edward Teach NO es solo un oportunista. Es el **único lugarteniente que SOSPECH
 - Está investigando cómo interceptar el poder divino
 - Puede convertirse en aliado temporal de los PJ si descubren la verdad
 - Puede convertirse en el villano final alternativo si roba suficiente poder
+
+---
+
+## 🎣 **GANCHOS NARRATIVOS**
+
+### **🎯 Gancho Principal: Aliado Temporal o Villano Final**
+Edward Teach es el **único lugarteniente que SOSPECHA el verdadero plan de Manshoon**.
+
+### **🔮 Información Ultra-Secreta:**
+- Sabe que Manshoon está recluido ejecutando un ritual de ascensión divina
+- Está investigando cómo interceptar el poder divino
+- Puede convertirse en **aliado temporal** de los PJ si descubren la verdad
+- Puede convertirse en el **villano final alternativo** si roba suficiente poder
+
+### **⚔️ Oportunidades Narrativas:**
+- **Revelación de la Verdad:** Si los PJ descubren el plan de Manshoon, Teach puede aliarse temporalmente
+- **Dilema del Talismán:** Teach necesita Cristales Estabilizadores de Abysara, pero los Oceánicos lo rechazan
+- **Villano Final Alternativo:** Si roba suficiente poder, puede convertirse en el final B (Blackbeard el Usurpador)
+
+### **💀 Punto Ciego de Varrak:**
+Varrak **NO puede predecir** las acciones de Teach debido a su naturaleza híbrida (temporal + dimensional).
+
 
 ---
 

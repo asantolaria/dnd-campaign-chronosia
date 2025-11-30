@@ -43,22 +43,21 @@
 Edward Teach es un estratega paciente que ha estado **investigando en secreto** desde que sospechó del plan de Manshoon. Durante su investigación, descubrió que existen dos artefactos que, si se combinan, podrían interceptar el flujo de poder divino.
 
 **⚠️ CRONOLOGÍA IMPORTANTE:**
-Edward Teach **NO tiene el Talismán al inicio de la campaña**. Lo creará DURANTE las sesiones después de robar ambos componentes. Los PJ estarán directamente involucrados en estos eventos.
+Edward Teach **NO tiene el Talismán al inicio de la campaña**. Lo creará **DESPUÉS DE QUE LOS PJ DERROTEN AL TERCER LUGARTENIENTE**, después de robar ambos componentes. Los PJ estarán directamente involucrados en estos eventos.
 
 **Los Dos Artefactos:**
 - **El Cronómetro de Realidades** (Temporal) - Pertenece a los Anacronistas en Cronópolis
 - **La Perla del Vacío Primordial** (Dimensional) - Pertenece a los Oceánicos de las Profundidades en Abysara
 
 **🔗 Conexión Anacronistas-Abysara:**
-Los **Anacronistas** tienen **raíces en Abysara**. El **Cronómetro** es **tecnología original de Abysara** que llegó a la superficie a través de contactos secretos. Teach descubrió esta conexión y robó ambos artefactos para crear el Talismán.
+Los **Anacronistas** tienen **raíces en Abysara**. El **Cronómetro** es **tecnología original de Abysara** que llegó a la superficie a través de contactos secretos. Teach descubrió esta conexión en textos antiguos después de robar la Perla, lo que le permitió planear el robo del Cronómetro.
 
 **El Plan de Teach:**
 1. **Sesiones 1-3:** Investigar discretamente los artefactos
-2. **Sesión 4:** Robar el Cronómetro de Realidades (con ayuda de secuaz o traidor)
-3. **Sesión 4-5:** Robar la Perla del Vacío Primordial (traición masiva)
-4. **Sesión 5:** Combinar los artefactos en el Talismán
-5. **Sesión 5-6:** **ASESINAR A THYRA** y robar su poder de estasis temporal
-6. **Sesión 6+:** Desencadenar La Ascensión del Cónclave (guerra entre lugartenientes)
+2. **Después del 1er Lugarteniente:** Robar la Perla del Vacío Primordial (masacre en Abysara - 47 guerreros Oceánicos mueren)
+3. **Después del 2do Lugarteniente:** Robar el Cronómetro de Realidades (Teach encuentra relación Anacronistas-Abysara en textos antiguos)
+4. **Después del 3er Lugarteniente:** Combinar los artefactos en el Talismán Y **ASESINAR A THYRA** (robar su poder de estasis temporal usando el Talismán para penetrar su barrera de estasis)
+5. **Inmediatamente después:** Desencadenar La Ascensión del Cónclave (guerra entre lugartenientes)
 
 Cuando se combinan, crean el **Talismán de Interceptación Divina**, capaz de desviar el flujo de poder divino del ritual de Manshoon hacia su portador.
 
@@ -76,7 +75,7 @@ El Cronómetro de Realidades es un artefacto gnomo antiguo creado por los fundad
 
 **Estado al Inicio de la Campaña:** **SEGURO** - Los Anacronistas lo protegen celosamente. Los PJ pueden verlo durante su visita a Cronópolis.
 
-**Fecha del Robo:** **Sesión 4** - Durante la campaña, después de que los PJ conozcan su existencia.
+**Fecha del Robo:** **Después del 2do Lugarteniente Derrotado** - Teach encuentra la relación entre Anacronistas y Abysara en textos antiguos, lo que le permite planear el robo del Cronómetro.
 
 ---
 
@@ -112,7 +111,7 @@ El Cronómetro de Realidades es un artefacto gnomo antiguo creado por los fundad
 
 #### **🔐 Cómo Edward Teach Planea Obtenerlo:**
 
-**⚠️ EVENTOS DURANTE LA CAMPAÑA (Sesiones 2-4):**
+**⚠️ EVENTOS DURANTE LA CAMPAÑA (Progresivos):**
 
 **Sesión 2-3: Los PJ Conocen a los Anacronistas**
 
@@ -216,7 +215,7 @@ Los Oceánicos de las Profundidades, una raza acuática inteligente, adoraban la
 
 **Estado al Inicio de la Campaña:** **SEGURO** - Los Oceánicos de las Profundidades la guardan como su reliquia más sagrada. Desconocen que Edward Teach planea robarla.
 
-**Fecha del Robo:** **Sesión 4-5** - Poco después del robo del Cronómetro.
+**Fecha del Robo:** **Después del 1er Lugarteniente Derrotado** - Teach roba la Perla causando una masacre en Abysara (47 guerreros Oceánicos mueren). Este evento será recordado como una de las mayores traiciones de la historia de los Oceánicos.
 
 ---
 
@@ -253,16 +252,16 @@ Los Oceánicos de las Profundidades, una raza acuática inteligente, adoraban la
 
 #### **🔐 Cómo Edward Teach Planea Obtenerla:**
 
-**⚠️ EVENTOS DURANTE LA CAMPAÑA (Sesión 4-5):**
+**⚠️ EVENTOS DURANTE LA CAMPAÑA (Después del 1er Lugarteniente):**
 
 **Contexto:**
 Edward Teach tiene una relación comercial con los Oceánicos de las Profundidades desde hace **20 años**. Les ha vendido mercancías de superficie (armas, herramientas, alimentos exóticos) a cambio de tesoros submarinos. Los Oceánicos lo consideran un **aliado confiable** (error fatal).
 
+**⚠️ TIMING:** Esto ocurre **DESPUÉS DE QUE LOS PJ DERROTEN AL PRIMER LUGARTENIENTE**. Teach aprovecha el caos y la distracción para ejecutar su plan. Este es el primer paso de su estrategia: obtener la Perla antes de buscar el Cronómetro.
+
 ---
 
-**Sesión 4-5: La Traición de Barbanegra**
-
-**⚠️ TIMING:** Esto ocurre INMEDIATAMENTE después de que Teach obtiene el Cronómetro. Ahora necesita el segundo componente.
+**Después del 1er Lugarteniente: La Traición de Barbanegra - Masacre en Abysara**
 
 **La Petición:**
 
@@ -295,13 +294,13 @@ Teach sonríe, pero sus ojos brillan con codicia.
 
 Esa noche, mientras los Oceánicos de las Profundidades duermen (no todos al mismo tiempo, pero tienen guardias reducidos), Teach actúa.
 
-**⚠️ IMPORTANTE:** Teach NO tiene los poderes de Thyra todavía. Usa sus poderes dimensionales naturales + el Cronómetro recién robado.
+**⚠️ IMPORTANTE:** Teach NO tiene los poderes de Thyra todavía, ni el Cronómetro. Usa solo sus poderes dimensionales naturales para robar la Perla. La Perla le dará ventajas para el robo del Cronómetro posterior.
 
 **Método:**
-1. Usa el **Cronómetro de Realidades** para congelar el tiempo localmente (6 segundos)
-2. Durante esos 6 segundos, usa portal dimensional para entrar al Templo del Vacío
+1. Usa sus **poderes dimensionales naturales** para crear un portal al Templo del Vacío
+2. Entra al templo mientras los guardias están distraídos
 3. Toma la Perla del pedestal
-4. Sale mediante portal antes de que el tiempo se reanude
+4. Usa la **Perla recién robada** para abrir un portal al Vacío Primordial y escapar
 
 **La Alarma:**
 
@@ -367,7 +366,7 @@ Los Oceánicos de las Profundidades son una raza humanoide acuática que vive en
 Los Oceánicos de las Profundidades han vivido **reprimidos y aislados** por conflictos antiguos que ya nadie recuerda. Tienen **cierto odio hacia los de la superficie** debido a este aislamiento forzado. Historiadores tienen **evidencias** de que Abysara existe, pero la mayoría la considera una **leyenda**.
 
 **🔗 Conexión con los Anacronistas:**
-Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Oceánicos escaparon a la superficie y fundaron la facción, llevando consigo **tecnología avanzada** que se convirtió en el **Cronómetro de Realidades**. Esta conexión secreta explica por qué Teach robó ambos artefactos.
+Los **Anacronistas** y los **Oceánicos** eran **un mismo pueblo** hace más de 800 años: los **Chronianos**. Cuando la batalla entre Amaunator y Voidar comenzó a devastar Chronosia, el pueblo se dividió en dos facciones con filosofías opuestas sobre cómo sobrevivir. Los Oceánicos eligieron refugiarse bajo el mar, mientras que los Anacronistas eligieron la superficie. Esta conexión ancestral explica por qué ambos pueblos comparten similitudes físicas, culturales y tecnológicas, y por qué Teach robó ambos artefactos (Cronómetro y Perla) - ambos son reliquias del mismo pueblo dividido.
 
 ---
 
@@ -412,23 +411,31 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Oceáni
 
 ---
 
-#### **🌊 Abysara - La Ciudad Sumergida**
+#### **🌊 Abysara - La Ciudad Sumergida Reconstruida**
 
-**Descripción:**
+**Historia de la Reconstrucción:**
 
-*"Abysara es una metrópolis submarina de cristal y coral vivo. Las estructuras crecen orgánicamente del lecho marino, formando torres espirales de hasta 500 pies de altura. Todo brilla con bioluminiscencia: azul, verde, púrpura. Peces y criaturas marinas nadan libremente entre edificios. En el centro, el Palacio Real: una estructura de cristal negro con forma de caracola gigante."*
+Hace más de 800 años, cuando los Chronianos se dividieron, el bando que se convertiría en los Oceánicos decidió buscar refugio bajo el mar. Encontraron las ruinas de una antigua ciudad sumergida llamada **Abysara** y decidieron reconstruirla. Durante la reconstrucción, descubrieron el **Cristal de Estabilización** en las profundidades del lecho marino. Este descubrimiento fue crucial: el cristal les permitió crear vida bajo el agua, resistir la presión abisal, y protegerse de las distorsiones temporales y espaciales causadas por la batalla de los dioses.
+
+**La Decisión Estratégica:**
+Los Oceánicos creyeron que las profundidades oceánicas ofrecían la mejor protección contra las disfunciones dimensionales y temporales. Y funcionó: Abysara se convirtió en un refugio seguro donde las distorsiones apenas tienen efecto, protegidos por las profundidades y el poder del Cristal de Estabilización.
+
+**Descripción Actual:**
+
+*"Abysara es una metrópolis submarina de cristal y coral vivo. Las estructuras crecen orgánicamente del lecho marino, formando torres espirales de hasta 500 pies de altura. Todo brilla con bioluminiscencia: azul, verde, púrpura. Peces y criaturas marinas nadan libremente entre edificios. En el centro, el Palacio Real: una estructura de cristal negro con forma de caracola gigante. La ciudad emana una sensación de estabilidad y protección, como si el tiempo y el espacio respetaran sus límites."*
 
 **Ubicación:** 2 millas bajo la superficie, 10 millas al sur del Archipiélago de Barbanegra
 
 **Población:** ~3,000 Oceánicos de las Profundidades
 
 **Puntos de Interés:**
-- **Palacio Real:** Residencia de la Reina Nereia
+- **Palacio Real:** Residencia de la Reina Nereia, construido alrededor del primer Cristal de Estabilización encontrado
 - **Templo del Vacío:** Donde se guardaba la Perla (ahora vacío y lugar de luto)
-- **Academia de Eruditos:** Biblioteca submarina con textos antiguos
+- **Academia de Eruditos:** Biblioteca submarina con textos antiguos que documentan la historia de los Chronianos y la división
 - **Barracas de Guerreros:** Donde entrenan los defensores de Abysara
+- **Cámara del Cristal:** Lugar sagrado donde se guardan los Cristales de Estabilización y de Poder
 
-**Acceso:** Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mortal)
+**Acceso:** Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mortal). Los Oceánicos usan artefactos tribales creados con fragmentos del Cristal de Estabilización para permitir el descenso a la ciudad.
 
 ---
 
@@ -452,7 +459,15 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Oceáni
 - **Edad:** 412 años (anciana)
 - **Apariencia:** 6 pies, piel verde pálido, cabello casi transparente
 - **Personalidad:** Intelectual, curiosa, posee conocimiento antiguo
-- **Información Clave:** Conoce la historia completa de la Perla y sus poderes
+- **Información Clave:** Conoce la historia completa de la Perla y sus poderes. Es una de las pocas que recuerda la historia completa de los Chronianos y la división. Guarda textos antiguos que documentan la conexión con los Anacronistas.
+
+**Kaelen el Joven Rebelde (NPC Nuevo - Joven Oceánico)**
+- **Edad:** 67 años (joven para los Oceánicos, equivalente a ~20 años humanos)
+- **Apariencia:** 6.5 pies, piel turquesa brillante, ojos grandes con bioluminiscencia intensa, marcas faciales que cambian rápidamente de color (reflejando su frustración)
+- **Personalidad:** Frustrado, impaciente, valiente, idealista
+- **Motivación:** Está frustrado por la impasibilidad de su pueblo ante las amenazas. Quiere acción contra Teach y los Cronófagos, pero los ancianos prefieren mantener el aislamiento.
+- **Rol Narrativo:** Actúa como puente entre los PJ y la Reina Nereia. Los encuentra en las islas o en la superficie, los reconoce como aliados potenciales, y los presenta a la Reina. El odio compartido contra Teach une a todos.
+- **Información Clave:** Conoce la historia de los Chronianos y la conexión con los Anacronistas. Puede revelar información sobre el Cristal de Poder (secreto de Abysara) si los PJ ganan su confianza.
 
 ---
 
@@ -493,35 +508,36 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Oceáni
 - Ven el Cronómetro de Realidades
 - **Thyra la Suspendida está VIVA** (los PJ pueden encontrarse con ella)
 
-**Sesión 4: EL ROBO DEL CRONÓMETRO**
-- Edward Teach (o su secuaz/traidor) roba el Cronómetro
-- Los Anacronistas descubren el robo al amanecer
-- **Los PJ pueden ser SOSPECHOSOS o INVESTIGADORES**
-- Rastro lleva al Archipiélago de Barbanegra
-
-**Sesión 4-5: EL ROBO DE LA PERLA**
-- Teach visita Abysara (usando el Cronómetro para el robo)
+**Después del 1er Lugarteniente: EL ROBO DE LA PERLA**
+- Teach visita Abysara (usando portales dimensionales)
 - Roba la Perla del Vacío Primordial
 - **MASACRE DE 47 GUERREROS OCEÁNICOS**
 - Los Oceánicos de las Profundidades declaran vendetta eterna
 - Los PJ pueden descubrir la traición
 
-**Sesión 5: LA COMBINACIÓN DEL TALISMÁN**
+**Después del 2do Lugarteniente: EL ROBO DEL CRONÓMETRO**
+- Edward Teach (o su secuaz/traidor) roba el Cronómetro
+- Teach descubre relación Anacronistas-Abysara en textos antiguos
+- Los Anacronistas descubren el robo al amanecer
+- **Los PJ pueden ser SOSPECHOSOS o INVESTIGADORES**
+- Rastro lleva al Archipiélago de Barbanegra
+
+**Después del 3er Lugarteniente: LA COMBINACIÓN DEL TALISMÁN**
 - Teach regresa a su isla secreta
 - Ejecuta el ritual de combinación (1 hora)
 - Crea el **Talismán de Interceptación Divina**
 - Los PJ pueden intentar interrumpir (si actuaron rápido)
 
-**Sesión 5-6: EL ASESINATO DE THYRA**
+**Después del 3er Lugarteniente: EL ASESINATO DE THYRA**
 - **⚠️ EVENTO CATALIZADOR DE LA CAMPAÑA**
 - Edward Teach, ahora con el Talismán completo, se siente invencible
+- Usa el Talismán para **penetrar la barrera de estasis** de Thyra (único que puede hacerlo)
 - Confronta a **Thyra la Suspendida** en su región
-- Usa el Talismán para debilitarla temporalmente
 - **ASESINA A THYRA** y absorbe sus poderes de estasis temporal
 - Los otros lugartenientes se enteran del asesinato
 - **COMIENZA LA ASCENSIÓN DEL CÓNCLAVE** (guerra entre lugartenientes)
 
-**Sesión 6: LA REACCIÓN ESPONTÁNEA**
+**Inmediatamente Después: LA REACCIÓN ESPONTÁNEA**
 - Los lugartenientes se enteran del asesinato de Thyra (rumores, espías, perturbaciones mágicas)
 - **Manshoon NO sabe nada** - está completamente recluido en la Torre de la Eternidad
 - Cada lugarteniente reacciona según su personalidad (ver `05_La_Ascension_del_Conclave.md` en `../../02_Guia_DM/05_La_Ascension_del_Conclave.md`)
@@ -545,29 +561,29 @@ Los **Anacronistas** tienen **raíces en Abysara**. Hace siglos, algunos Oceáni
 
 **Tabla de Eventos Clave:**
 
-| **Sesión** | **Evento** | **Descripción** |
+| **Momento** | **Evento** | **Descripción** |
 |-----------|-----------|----------------|
-| **2-3** | Los PJ conocen a los Anacronistas | Ven el Cronómetro de Realidades en la Cámara del Tiempo |
-| **4** | **ROBO DEL CRONÓMETRO** | Teach/secuaz roba el artefacto, los PJ pueden ser sospechosos |
-| **4-5** | **ROBO DE LA PERLA** | Teach traiciona a los Oceánicos, masacre de 47 guerreros |
-| **5** | **COMBINACIÓN DEL TALISMÁN** | Teach crea el Talismán (los PJ pueden interrumpir) |
-| **5-6** | **⚡ ASESINATO DE THYRA** | Teach mata a Thyra y roba sus poderes (EVENTO CATALIZADOR) |
-| **6** | **REACCIÓN ESPONTÁNEA** | Los lugartenientes reaccionan al asesinato (guerra entre lugartenientes) |
-| **6-12** | Fase Sandbox | Los PJ enfrentan a los lugartenientes, Teach es el más poderoso |
-| **13+** | Clímax | Teach intenta robar el poder divino de Manshoon |
+| **Sesión 2-3** | Los PJ conocen a los Anacronistas | Ven el Cronómetro de Realidades en la Cámara del Tiempo |
+| **Después del 1er Lugarteniente** | **ROBO DE LA PERLA** | Teach traiciona a los Oceánicos, masacre de 47 guerreros |
+| **Después del 2do Lugarteniente** | **ROBO DEL CRONÓMETRO** | Teach/secuaz roba el artefacto (descubre relación Anacronistas-Abysara), los PJ pueden ser sospechosos |
+| **Después del 3er Lugarteniente** | **COMBINACIÓN DEL TALISMÁN** | Teach crea el Talismán (los PJ pueden interrumpir) |
+| **Después del 3er Lugarteniente** | **⚡ ASESINATO DE THYRA** | Teach mata a Thyra usando el Talismán para penetrar su barrera (EVENTO CATALIZADOR) |
+| **Inmediatamente Después** | **REACCIÓN ESPONTÁNEA** | Los lugartenientes reaccionan al asesinato (guerra entre lugartenientes) |
+| **Fase Sandbox** | Fase Sandbox | Los PJ enfrentan a los lugartenientes, Teach es el más poderoso |
+| **Sesión 13+** | Clímax | Teach intenta robar el poder divino de Manshoon |
 
 ---
 
 ### **⚡ EL ASESINATO DE THYRA - EVENTO CATALIZADOR**
 
-**⚠️ SESIÓN 5-6: El Momento que lo Cambia Todo**
+**⚠️ DESPUÉS DEL 3er LUGARTENIENTE: El Momento que lo Cambia Todo**
 
 #### **Contexto:**
 
 Edward Teach ahora posee:
-- El Cronómetro de Realidades (robado en Sesión 4)
-- La Perla del Vacío Primordial (robado en Sesión 4-5)
-- El Talismán de Interceptación Divina (creado en Sesión 5)
+- La Perla del Vacío Primordial (robada después del 1er lugarteniente)
+- El Cronómetro de Realidades (robado después del 2do lugarteniente)
+- El Talismán de Interceptación Divina (creado después del 3er lugarteniente)
 
 Se siente **invencible** y decide probar su poder contra otro lugarteniente.
 
@@ -699,7 +715,7 @@ Los PJ aprenden sobre el Cronómetro. Si revelan su ubicación a cualquiera, fac
 
 ---
 
-#### **Pista 2: "El Robo del Cronómetro" (Sesión 4)**
+#### **Pista 2: "El Robo del Cronómetro" (Después del 2do Lugarteniente)**
 
 **Ubicación:** Cronópolis - Al amanecer
 
@@ -722,7 +738,7 @@ Los PJ son confrontados. Deben:
 
 ---
 
-#### **Pista 3: "La Traición en las Profundidades" (Sesión 4-5)**
+#### **Pista 3: "La Traición en las Profundidades" (Después del 1er Lugarteniente)**
 
 **Ubicación:** Archipiélago de Barbanegra - Después del robo de la Perla
 
@@ -734,7 +750,7 @@ Ver sección "Cómo Edward Teach Planea Obtenerla" arriba. Los PJ descubren la m
 
 ---
 
-#### **Pista 4: "El Asesinato de Thyra" (Sesión 5-6)**
+#### **Pista 4: "El Asesinato de Thyra" (Después del 3er Lugarteniente)**
 
 **Ubicación:** Región de Thyra o Cronópolis (perturbación detectada)
 
@@ -748,7 +764,7 @@ Los PJ pueden viajar a la región de Thyra e investigar.
 
 ---
 
-#### **Pista 5: "La Ascensión del Cónclave Comienza" (Sesión 6)**
+#### **Pista 5: "La Ascensión del Cónclave Comienza" (Inmediatamente Después)**
 
 **Ubicación:** En cualquier lugar de Chronosia
 
@@ -811,7 +827,7 @@ Los PJ pueden intentar prevenir la creación del Talismán, pero **Teach lo comp
 
 **Dificultad:** DIFÍCIL (requiere timing perfecto)
 
-**Cuándo Ocurre:** Edward Teach debe combinar los artefactos justo ANTES de ir a la Torre de la Eternidad (Sesión 13).
+**Cuándo Ocurre:** Edward Teach combina los artefactos **DESPUÉS DE QUE LOS PJ DERROTEN AL TERCER LUGARTENIENTE**, justo antes de ir a la Torre de la Eternidad (Sesión 13+).
 
 **Ubicación del Ritual:** Isla secreta en el Archipiélago de Barbanegra (los Oceánicos de las Profundidades pueden guiar a los PJ)
 
@@ -837,21 +853,21 @@ Los PJ pueden intentar prevenir la creación del Talismán, pero **Teach lo comp
 **Requisitos:**
 1. El Cronómetro de Realidades
 2. La Perla del Vacío Primordial
-3. **Cristales Antimagia** (al menos 2 medianos o 1 grande) - Para estabilizar la combinación
-4. **Cristales Canalizadores Mágicos** (al menos 2 medianos o 1 grande) - Para amplificar y canalizar los poderes
+3. **Cristales Estabilizadores** (al menos 2 medianos o 1 grande) - Para estabilizar la combinación y proteger contra efectos secundarios
+4. **Cristales de Poder** (al menos 2 medianos o 1 grande) - Para amplificar y canalizar los poderes
 5. Un círculo ritual inscrito con runas temporales y dimensionales
 6. 1 hora de concentración ininterrumpida
 7. Sacrificio de un fragmento de poder divino (Teach usa el poder robado de Thyra)
 
-**⚠️ IMPORTANTE:** Sin los cristales, la combinación de poderes temporales y dimensionales sería inestable y peligrosa. Los cristales son esenciales para que el ritual tenga éxito.
+**⚠️ IMPORTANTE:** Sin los cristales, la combinación de poderes temporales y dimensionales sería inestable y peligrosa. Los cristales son esenciales para que el ritual tenga éxito. Los **Cristales Estabilizadores** son especialmente críticos, ya que protegen a Teach de los efectos destructivos de la fusión.
 
 **Proceso:**
 
 1. **Preparación (10 minutos):** Teach dibuja un círculo de 20 pies con runas en Supernal y Abismal
 2. **Colocación (5 minutos):** Coloca el Cronómetro en el norte, la Perla en el sur, y los cristales en posiciones estratégicas alrededor del círculo
-3. **Estabilización (10 minutos):** Los cristales antimagia se activan, creando un campo de estabilización que previene conflictos entre los poderes
-4. **Invocación (30 minutos):** Canta en idiomas antiguos, canalizando poder a través de los cristales canalizadores
-5. **Fusión (15 minutos):** Los artefactos comienzan a flotar y rotar, acercándose gradualmente mientras los cristales canalizadores amplifican la energía
+3. **Estabilización (10 minutos):** Los cristales estabilizadores se activan, creando un campo de protección que previene conflictos entre los poderes y protege a Teach de los efectos secundarios
+4. **Invocación (30 minutos):** Canta en idiomas antiguos, canalizando poder a través de los cristales de poder
+5. **Fusión (15 minutos):** Los artefactos comienzan a flotar y rotar, acercándose gradualmente mientras los cristales de poder amplifican la energía
 6. **Culminación (1 minuto):** Explosión de luz dorada y púrpura, los artefactos se fusionan y los cristales se consumen en el proceso
 
 **Resultado:**

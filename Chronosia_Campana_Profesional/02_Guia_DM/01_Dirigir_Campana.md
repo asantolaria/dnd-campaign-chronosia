@@ -10,6 +10,7 @@
 > - **[04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ Vista general de lugartenientes (ver archivos individuales para statblocks completos)
 > - **[05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia + Resolución final
 > - **[07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md)** - ⭐ Timeline maestro completo
+> - **[08_Por_Que_Derrotar_Lugartenientes.md](./08_Por_Que_Derrotar_Lugartenientes.md)** - ⭐ Motivos narrativos y mecánicos por los que los PJ deben enfrentarse a los lugartenientes
 > - **[05_Encuentro_Anacronistas_Relojeros.md](../04_Aventuras/Fase_2_Sandbox_Inicial/05_Encuentro_Anacronistas_Relojeros.md)** - ⭐ Contador del Ritual (Sesión 8-9)
 > - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Regiones y niveles
 > - **[../04_Aventuras/00_Estructura_Campana.md](../04_Aventuras/00_Estructura_Campana.md)** - ⭐ Estructura completa de fases
@@ -54,33 +55,26 @@ La campaña tiene **12 lugartenientes activos** inicialmente (6 de cada tipo):
 ### **🎯 Concepto Central**
 El equilibrio entre lugartenientes temporales y dimensionales es crítico para la estabilidad de Chronosia. Cuando los PJ derrotan demasiados de un tipo sin equilibrar con el otro, el mundo se vuelve inestable y afecta directamente su capacidad de viajar, descansar y acceder a recursos.
 
-### **📊 Cálculo del Desbalance**
-- **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
-- **Ejemplo**: Si derrotan 2 temporales y 0 dimensionales → Diferencia = 2 (Desbalance Moderado)
+### **📊 Cálculo del Balance**
+- **Equilibrio:** Cuando el número de temporales derrotados es igual o muy similar al número de dimensionales derrotados (diferencia de 0-1)
+- **Desbalance:** Cuando hay una diferencia significativa entre temporales y dimensionales derrotados (diferencia de 2+)
 
-### **🔴 Niveles de Desbalance**
+### **🔴 Estados del Balance (SIMPLIFICADO)**
 
-#### **🟢 EQUILIBRIO (Diferencia 0-1)**
+#### **🟢 EQUILIBRIO**
 - **Estado**: Todo funciona normalmente
 - **Cronópolis**: Completamente seguro y estable
 - **Viajes**: Sin problemas, portales funcionan al 100%
 - **Descanso**: Descanso largo disponible sin restricciones
 - **Recursos**: Comerciantes y NPCs funcionan normalmente
+- **Efectos**: Ninguno
 
-#### **🟡 DESBALANCE MENOR (Diferencia 2)**
+#### **⚠️ DESBALANCE**
 - **Lanzamientos**: 1d4 efectos por sesión
 - **Momento**: Al inicio de cada sesión
 - **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-
-#### **🟠 DESBALANCE MODERADO (Diferencia 3)**
-- **Lanzamientos**: 1d6 efectos por sesión
-- **Momento**: Al inicio + cada 2 horas
-- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-
-#### **🔴 DESBALANCE CRÍTICO (Diferencia 4+)**
-- **Lanzamientos**: 1d8 efectos por sesión
-- **Momento**: Al inicio + cada hora + eventos importantes
-- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+- **Advertencia**: Los explicadores (Zephyr, Varrak, Capitán Marcus) advierten sobre el desbalance
+- **⚠️ ACCIÓN ESPECIAL**: Si el desbalance es extremo (diferencia de 4+), Varrak puede sacrificarse voluntariamente para equilibrar (ver sección de Sacrificio de Varrak)
 
 ### **👥 Explicadores del Balance**
 
@@ -101,9 +95,11 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 *"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente."*
 
 #### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
-*"Nuestros sensores detectan anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
+*"El artilugio de Din Goldgear detecta anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
 
 *"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
+
+**⚠️ NOTA**: El Capitán Marcus solo puede proporcionar estas advertencias **después de que los PJ derroten a su segundo lugarteniente**, momento en el que Din Goldgear inventa el artilugio detector de balance. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
 
 ### **📝 Hoja de Seguimiento del Desbalance**
 
@@ -197,7 +193,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **📖 Timeline completo:** [00_Guia_General_Fase_3.md](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md#-timeline-de-esta-fase)
 
 ### **⚔️ FASE 4: Sesiones 13-15 (Clímax)**
-- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual al 98% (Nivel 13)
+- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual casi completo (Nivel 13)
 - **Sesión 14**: Asalto a la Torre (5 niveles), determinación del final (Nivel 14)
 - **Sesión 15**: Combate final (uno de 4 finales posibles) (Nivel 15)
 - **📖 Timeline completo:** [00_Guia_General_Fase_4.md](../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md#-timeline-de-esta-fase)
@@ -215,7 +211,6 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **La Resistencia**: Neutrales, tecnología anti-magia, pueden aliarse
 - **Oceánicos de las Profundidades**: Vendetta contra Edward Teach, aliados potenciales
 - **Bregan D'aerthe**: Mercenarios ambiguos, sirven a quien pague
-- **Colonos del Archipiélago**: Habitantes de las islas, neutrales pero aliados si ayudas contra Teach
 
 ---
 
@@ -245,9 +240,9 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
    - Usa diálogos de explicadores cuando haya desbalance
    - Aplica consecuencias inmediatamente
 
-2. **Sistema de Puntos (La Ascensión del Cónclave):**
-   - Actualiza puntos después de cada evento importante
-   - 15 puntos = Supremo (máximo 3)
+2. **Competencia Narrativa (La Ascensión del Cónclave):**
+   - Evalúa narrativamente qué lugartenientes han ganado poder después de cada evento importante
+   - Supremos determinados narrativamente según logros (máximo 3)
    - Ver [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md) para detalles
 
 3. **Preparación del Clímax (ANTES de Sesión 13):**
@@ -269,7 +264,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 ### **Revelaciones Graduales (Fases 2-3)**
 - **Sesión 8**: Primera sospecha sobre Manshoon (¿Dónde está?)
 - **Sesión 10**: Revelación del ritual de ascensión divina
-- **Sesión 12**: Ritual al 92%, urgencia máxima
+- **Sesión 12**: Urgencia máxima, ritual avanzando
 - **Impacto**: Los PJ descubren la verdad sobre Manshoon gradualmente
 
 ### **Elecciones Críticas (Fase 3)**
@@ -285,7 +280,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **📖 Detalles completos:** [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax)
 
 ### **Clímax (Fase 4)**
-- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual al 98%
+- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual casi completo
 - **Sesión 14**: Asalto a la Torre, determinación del final
 - **Sesión 15**: Combate final (uno de 4 finales posibles)
 - **Impacto**: Determina el futuro del multiverso

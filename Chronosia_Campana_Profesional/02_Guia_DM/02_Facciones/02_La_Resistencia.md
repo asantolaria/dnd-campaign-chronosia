@@ -51,6 +51,7 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Apariencia**: Fría y calculadora, con un brazo mecánico lleno de herramientas y cuchillas
 - **Especialidad**: Trampas temporales y dispositivos anti-magia
 - **Historia**: Su familia fue asesinada por cronófagos, ahora dedica su vida a crear armas que los destruyan
+- **🔍 Descubrimiento Crítico**: Lucienne ha descubierto cómo funciona el sistema de reclutamiento interplanar de Ymir el Eterno Invierno. A través de años de observación y análisis de los portales en Glacialis, ha documentado los patrones de activación, planos conectados, frecuencia de transporte, puntos débiles y rutas de suministro. Esta información es crucial para las misiones de La Resistencia destinadas a limitar los suministros de los Cronófagos.
 
 ### **🔨 Kaoros el Sordo - Maestro Constructor**
 - **Raza**: Semi-orco veterano de guerra
@@ -73,6 +74,34 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Compresores Dimensionales**: Dispositivos que cierran portales
 - **Detectores de Magia**: Sensores que localizan hechizos
 - **Neutralizadores de Campo**: Generadores que cancelan la magia
+- **Motor de Viento Perpetuo**: Inventado después del asesinato de Thyra para navegar el mar en calma del Archipiélago de Barbanegra (requiere Rotor Infinito completo)
+
+---
+
+## ⚖️ **DESCUBRIMIENTO DEL BALANCE TEMPORAL/DIMENSIONAL**
+
+### **Estado Inicial (Sesión 1-5)**
+La Resistencia **NO monitoriza el balance** entre poderes temporales y dimensionales. Han vivido durante años y años con las distorsiones como parte de su realidad cotidiana, y nunca había habido un desbalance significativo que llamara su atención. Sus dispositivos funcionaban con normalidad, y aunque las distorsiones eran constantes, se mantenían en un estado relativamente estable.
+
+### **Primera Señal: Muerte de Thyra (Sesión 5-6)**
+Tras el asesinato de Thyra la Suspendida por Edward Teach, algunos artefactos más sensibles a lo temporal comenzaron a tener **ligeros malfuncionamientos**. Los ingenieros notaron pequeñas anomalías en dispositivos que dependían de la estabilidad temporal, pero inicialmente no comprendieron la causa. Algunos estabilizadores temporales funcionaban con una eficiencia ligeramente reducida, y ciertos mecanismos mostraban comportamientos inusuales.
+
+### **El Descubrimiento: Segundo Lugarteniente Derrotado**
+Después de que los personajes derroten a un **segundo lugarteniente**, **Din Goldgear** (trabajando en colaboración con La Resistencia) se da cuenta de que hay una **reacción directa entre las bajas de los lugartenientes y cómo afecta su influencia en el mundo de Chronosia**. 
+
+Din, con su experiencia en Barovia y su comprensión de las distorsiones planares, conecta los puntos: cada vez que un lugarteniente cae, el equilibrio entre poderes temporales y dimensionales se altera, y esto se refleja en el funcionamiento de los artefactos tecnológicos.
+
+### **El Artilugio Detector de Balance**
+Din Goldgear, utilizando su conocimiento como artífice y su experiencia con distorsiones temporales, **inventa un artilugio capaz de detectar este desbalance**. Este dispositivo puede:
+
+- **Medir el equilibrio** entre poderes temporales y dimensionales
+- **Detectar fluctuaciones** cuando un lugarteniente cae
+- **Predecir fallos** en dispositivos anti-distorsión basándose en el desbalance
+- **Alertar** cuando el equilibrio se vuelve crítico
+
+Este artilugio se convierte en una herramienta crucial para La Resistencia, permitiéndoles monitorear el estado del balance y ajustar sus dispositivos en consecuencia.
+
+**⚠️ IMPORTANTE**: Este descubrimiento ocurre **después** de que los PJ derroten a su segundo lugarteniente. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
 
 ---
 

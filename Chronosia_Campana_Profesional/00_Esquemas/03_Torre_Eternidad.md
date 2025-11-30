@@ -13,51 +13,52 @@
 
 ## 🏰 **DIAGRAMA: TORRE DE LA ETERNIDAD**
 
-Este diagrama muestra los 5 niveles del asalto final, las condiciones para cada uno de los 4 finales posibles, y las mecánicas del combate final.
+Este diagrama muestra los 4 niveles del asalto final con antesalas, la revelación masiva, y las mecánicas del combate final.
 
 ```mermaid
 flowchart TD
-    ENTRADA[Entrada a la Torre<br/>Sesión 14<br/>Ritual al 98%] --> N1[Nivel 1: Sala de Ecos<br/>Simulacros de Manshoon<br/>Ecos de realidades]
+    ENTRADA[Entrada a la Torre<br/>Sesión 14<br/>Todos los lugartenientes vivos entran] --> ANTESALA[Antesala Inicial<br/>Todos se ven y oyen<br/>No pueden atacarse<br/>Medidor del ritual visible]
     
-    N1 --> N2[Nivel 2: Archivo de Clones<br/>Clones dormidos<br/>Grimorio flotante]
+    ANTESALA --> N1[Nivel 1: Sala de Ecos<br/>Puzzles y acertijos<br/>REVELACIÓN MASIVA<br/>Toda la verdad al descubierto]
     
-    N2 --> N3[Nivel 3: Prisión de los Fieles<br/>Prisioneros<br/>Llave de la Realidad]
+    N1 --> ANTESALA2[Antesala Nivel 2<br/>Todos se ven<br/>Medidor del ritual visible]
+    ANTESALA2 --> N2[Nivel 2: Casa de Manshoon<br/>Corazón del Tiempo<br/>Clones de PJs en habitaciones<br/>Tesoros: pociones/objetos mágicos]
     
-    N3 --> N4[Nivel 4: Corazón del Tiempo<br/>Bucles temporales<br/>PJ del futuro]
+    N2 --> ANTESALA3[Antesala Nivel 3<br/>Todos se ven<br/>Medidor del ritual visible]
+    ANTESALA3 --> N3[Nivel 3: Eliminatoria<br/>Prueba de Voluntad<br/>CD 18 Sabiduría<br/>Teach tiene ventaja]
     
-    N4 --> N5[Nivel 5: Cámara de Ascensión<br/>Ritual en progreso<br/>Amaunator y Voidar encadenados]
+    N3 --> ANTESALA4[Antesala Nivel 4<br/>Últimos sobrevivientes<br/>Medidor del ritual visible]
+    ANTESALA4 --> N4[Nivel 4: Cámara de Ascensión<br/>Manshoon ejecutando ritual<br/>Amaunator y Voidar encadenados<br/>Medidor del ritual: 0-100%]
     
-    N5 --> TIMING{¿Ritual al 98-99%?}
+    N4 --> TIMING{¿Ritual al 100%?}
     
-    TIMING -->|Sí| CHECK_TEACH{¿Teach tiene Talismán?}
-    TIMING -->|100%| FINAL_D[FINAL D: Demasiado Tarde<br/>Manshoon invencible<br/>CR 25+]
+    TIMING -->|No| COMBATE[Combate Final<br/>Manshoon + Teach + otros vivos<br/>Deben liberar dioses en 3 pasos]
+    TIMING -->|Sí| FINAL_D[FINAL D: Demasiado Tarde<br/>Manshoon invencible<br/>CR 25+]
     
-    CHECK_TEACH -->|Sí| CHECK_ARRIVAL{¿Quién llegó primero?}
-    CHECK_TEACH -->|No| FINAL_A[FINAL A: Manshoon Ascendente<br/>Ritual al 98-99%<br/>CR 23]
+    COMBATE --> PASO1[Paso 1: Interrumpir Ritual<br/>Atacar Cronosellado<br/>Ritual se detiene temporalmente]
     
-    CHECK_ARRIVAL -->|Teach primero<br/>Ritual 95-98%| FINAL_B[FINAL B: Blackbeard Usurpador<br/>Teach intercepta poder<br/>CR 25]
-    CHECK_ARRIVAL -->|PJ primero<br/>Ritual 98-99%| FINAL_A
-    CHECK_ARRIVAL -->|Simultáneo<br/>Ritual 98%| FINAL_C[FINAL C: Carrera Divina<br/>3 bandos luchan<br/>Combate épico]
+    PASO1 --> PASO2[Paso 2: Romper Cadenas<br/>Poder opuesto o Talismán<br/>Dioses se liberan parcialmente]
     
-    FINAL_A --> COMBATE1[Combate vs Manshoon<br/>4 Fases de Combate<br/>Deben liberar dioses]
-    FINAL_B --> COMBATE2[Combate vs Teach<br/>Teach en ascensión<br/>Manshoon moribundo ayuda]
-    FINAL_C --> COMBATE3[Combate 3 bandos<br/>PJ vs Manshoon vs Teach<br/>Carrera al Cronosellado]
+    PASO2 --> PASO3[Paso 3: Restaurar Equilibrio<br/>Convencer dioses o artefacto<br/>Dioses se liberan completamente]
     
-    COMBATE1 --> LIBERAR{¿Liberan dioses?}
-    COMBATE2 --> LIBERAR
-    COMBATE3 --> LIBERAR
+    PASO3 --> VICTORIA[Victoria: Dioses liberados<br/>Chronosia se estabiliza<br/>PJ son héroes legendarios]
     
-    LIBERAR -->|Sí| VICTORIA[Victoria: Dioses liberados<br/>Chronosia se estabiliza<br/>PJ son héroes legendarios]
-    LIBERAR -->|No| DERROTA[Derrota: Villano vencedor<br/>Conquista multiverso<br/>Mal final]
+    COMBATE -->|Falla| DERROTA[Derrota: Villano vencedor<br/>Conquista multiverso<br/>Mal final]
     
+    FINAL_D --> DERROTA
+    
+    style ANTESALA fill:#ffffcc
     style N1 fill:#e1f5ff
+    style ANTESALA2 fill:#ffffcc
     style N2 fill:#e1f5ff
-    style N3 fill:#e1f5ff
-    style N4 fill:#e1f5ff
-    style N5 fill:#ffe1e1
-    style FINAL_A fill:#ffcccc
-    style FINAL_B fill:#ccffcc
-    style FINAL_C fill:#ccccff
+    style ANTESALA3 fill:#ffffcc
+    style N3 fill:#ffe1e1
+    style ANTESALA4 fill:#ffffcc
+    style N4 fill:#ffcccc
+    style COMBATE fill:#ff9999
+    style PASO1 fill:#ccffcc
+    style PASO2 fill:#ccffcc
+    style PASO3 fill:#ccffcc
     style FINAL_D fill:#ffccff
     style VICTORIA fill:#ccffcc
     style DERROTA fill:#ffcccc
@@ -67,92 +68,123 @@ flowchart TD
 
 ## 📋 **INFORMACIÓN DETALLADA**
 
-### **🏰 Los Cinco Niveles de la Torre:**
+### **🏰 Estructura de la Torre:**
 
-#### **Nivel 1: Sala de Ecos**
-- **Encuentros:** Simulacros de Manshoon (versiones de diferentes realidades)
-- **Mecánica:** Ecos de conversaciones de otras líneas temporales
-- **Objetivo:** Encontrar el camino correcto entre múltiples realidades
+#### **Antesala (antes de cada nivel)**
+- **Mecánica:** Todos los que entraron se ven y oyen, pero **no pueden atacarse**
+- **Avance:** Solo pueden avanzar al siguiente nivel cuando todos estén listos (o cuando alguien encuentra la forma de avanzar)
+- **Medidor del Ritual:** Visible en cada antesala, muestra progreso 0-100%
+- **Tensión:** Todos saben que el ritual avanza, creando urgencia
 
-#### **Nivel 2: Archivo de Clones**
-- **Encuentros:** Clones dormidos de Manshoon (pueden despertar)
-- **Tesoro:** Grimorio flotante con información sobre el ritual
-- **Objetivo:** Evitar despertar a los clones o enfrentarlos estratégicamente
+#### **Nivel 1: Sala de Ecos - Revelación Masiva**
+- **Mecánica:** Puzzles y acertijos que revelan información
+- **Revelación Completa:**
+  - Aethernus = Manshoon Clone #47
+  - Plan completo de ascensión divina
+  - Los dioses Amaunator y Voidar están encadenados
+  - El Talismán de Teach puede interceptar poder divino
+  - Motivos y trasfondos de cada lugarteniente
+  - La guerra civil fue orgánica, no planeada por Manshoon
+- **Efecto:** Todos escuchan las revelaciones simultáneamente
+- **Objetivo:** Completar los puzzles para avanzar
 
-#### **Nivel 3: Prisión de los Fieles**
-- **Encuentros:** Prisioneros leales a Manshoon (pueden ser liberados o interrogados)
-- **Tesoro:** Llave de la Realidad (necesaria para liberar a los dioses)
-- **Objetivo:** Obtener la llave sin alertar a Manshoon
+#### **Nivel 2: Corazón del Tiempo - Casa de Manshoon**
+- **Apariencia:** Una gran mansión lujosa donde vivía Manshoon antes del ritual
+- **Mecánica por Habitación:**
+  - Cada habitación contiene un **tesoro** (poción u objeto mágico)
+  - En cada habitación aparece un **clon de uno de los PJs** (versión distorsionada)
+  - El clon intenta convencer al PJ de que se quede ("Aquí puedes ser feliz", "No necesitas luchar")
+- **Peligro:** Resistir la tentación de quedarse
+- **Objetivo:** Avanzar sin caer en la trampa de los clones
 
-#### **Nivel 4: Corazón del Tiempo**
-- **Mecánica:** Bucles temporales donde los PJ pueden encontrarse con versiones futuras de sí mismos
-- **Peligro:** Quedar atrapado en un bucle temporal
-- **Objetivo:** Navegar los bucles sin quedar atrapado
+#### **Nivel 3: Eliminatoria**
+- **Mecánica:** Prueba de Voluntad
+  - Todos hacen una tirada de **Sabiduría (CD 18)**
+  - **Edward Teach tiene ventaja** (usa el Talismán)
+  - El que falla queda eliminado (no puede avanzar al Nivel 4)
+- **Solución para Números Impares:**
+  - Si hay número impar de participantes, el que falla la tirada queda fuera
+  - Si todos pasan, el último en completar el Nivel 2 queda eliminado
+- **Objetivo:** Superar la prueba para llegar al combate final
 
-#### **Nivel 5: Cámara de Ascensión**
-- **Estado:** Ritual en progreso (98-100%)
-- **Presentes:** Manshoon, Amaunator y Voidar encadenados
-- **Objetivo:** Interrumpir el ritual y liberar a los dioses
+#### **Nivel 4: Cámara de Ascensión**
+- **Estado:** Manshoon ejecutando el ritual de ascensión
+- **Presentes:** 
+  - Manshoon (Aethernus Valcarys) en el centro del ritual
+  - Amaunator y Voidar encadenados a pilares de poder
+  - Todos los que superaron el Nivel 3 (PJ, Teach, otros lugartenientes vivos)
+- **Medidor del Ritual:** Visible, muestra progreso 0-100%
+- **Urgencia:** Si llega a 100%, Manshoon se convierte en dios (invencible)
+- **Objetivo:** Interrumpir el ritual y liberar a los dioses antes de que se complete
 
-### **⚔️ Los Cuatro Finales Posibles:**
+### **⚔️ El Combate Final:**
 
-#### **🔴 FINAL A: Manshoon Ascendente**
+**Participantes:**
+- **Manshoon (Aethernus Valcarys):** Ejecutando el ritual, CR 23-25 según progreso
+- **Edward Teach:** Siempre presente (tiene el Talismán), puede ayudar o interferir
+- **Otros Lugartenientes Vivos:** 
+  - Si están aliados con los PJ → Actúan como NPCs aliados
+  - Si son enemigos → Pueden aparecer como refuerzos de Manshoon o como tercer bando
+- **Los PJ:** Deben liberar a los dioses para ganar
+
+**Medidor del Ritual:**
+- Visible en todo momento durante el combate
+- Si llega a **100%**, Manshoon se convierte en dios (invencible, CR 25+)
+- Avanza cada 2-3 turnos durante el combate (narrativo, no mecánico estricto)
+
+### **🎯 Mecánica de Liberación de los Dioses (Tres Pasos):**
+
+#### **Paso 1: Interrumpir el Ritual**
+- **Acción:** Atacar el **Cronosellado** (centro del ritual)
+- **Requisito:** Acción completa + tirada de ataque o hechizo
+- **Efecto:** El ritual se detiene temporalmente, Manshoon se debilita
+- **CD:** 20 (AC del Cronosellado) o tirada de salvación de Sabiduría CD 18
+- **Crítico:** Sin interrumpir el ritual, los dioses no pueden liberarse
+
+#### **Paso 2: Romper las Cadenas Divinas**
+- **Mecánica:** Las cadenas están hechas de poder temporal y espacial combinado
+- **Opción A - Poder Opuesto:**
+  - Usar poder **temporal** para romper cadenas **espaciales** (de Voidar)
+  - Usar poder **espacial** para romper cadenas **temporales** (de Amaunator)
+  - Requiere: Acción completa + hechizo de nivel 5+ o poder equivalente
+- **Opción B - Talismán de Teach:**
+  - Edward Teach puede usar el Talismán para interceptar las cadenas
+  - Requiere: Acción completa + voluntad de Teach (puede ayudar o traicionar)
+- **Efecto:** Los dioses se liberan parcialmente, pueden ayudar limitadamente
+
+#### **Paso 3: Restaurar el Equilibrio**
+- **Problema:** Los dioses están en conflicto eterno (manipulado por Manshoon)
+- **Opción A - Convencimiento:**
+  - Convencer a los dioses de que cesen la lucha
+  - Requiere: Acción completa + tirada de Persuasión CD 25 (muy difícil)
+  - Alternativa: Varrak (si está vivo) puede usar su poder profético para mostrarles el futuro
+- **Opción B - Artefacto:**
+  - Usar un artefacto que restaure el equilibrio (si los PJ lo tienen)
+  - Requiere: Acción completa + artefacto específico
+- **Opción C - Combinación de Artefactos:**
+  - **Llave de la Realidad** (si la obtuvieron) + **Talismán de Teach** + **Cristal de Varrak** (si lo tienen)
+  - Usar los tres juntos = liberación automática
+- **Efecto:** Los dioses se liberan completamente y restauran el equilibrio cósmico
+
+**Consecuencias de la Liberación:**
+- **Amaunator y Voidar atacan a Manshoon:** Daño masivo, debilita significativamente
+- **Equilibrio Restaurado:** Chronosia comienza a estabilizarse
+- **Victoria:** Los PJ ganan el combate final
+
+**Si Falla la Liberación:**
+- **Ritual se Completa:** Manshoon se convierte en dios (CR 25+)
+- **Derrota:** Los PJ no pueden ganar, el multiverso cae bajo el dominio de Manshoon
+- **Mal Final:** Solo pueden huir o sacrificarse heroicamente
+
+### **🟣 FINAL D: Demasiado Tarde**
 **Condiciones:**
-- Los PJ llegan cuando el ritual está al 98-99%
-- Edward Teach está ausente o fue derrotado previamente
-- Manshoon está a MOMENTOS de completar la ascensión
-
-**Combate:**
-- **4 Fases:** Manshoon Mortal Potenciado → Ritual Acelera → Ascensión Parcial → El Dios Débil
-- **CR 23** (Manshoon Ascendente)
-- **Mecánica Crítica:** Los PJ DEBEN liberar a los dioses o perderán automáticamente
-
-#### **🟢 FINAL B: Blackbeard el Usurpador**
-**Condiciones:**
-- Edward Teach tiene el Talismán de Interceptación
-- Teach llega ANTES que los PJ
-- El ritual está al 95-98%
-
-**Combate:**
-- **3 Fases:** Blackbeard Ascendente → El Dios Pirata → Furia Divina
-- **CR 25** (Blackbeard Ascendant)
-- **Giro Épico:** Manshoon cae al suelo, debilitado, y puede ayudar a los PJ
-
-#### **🔵 FINAL C: La Carrera Divina**
-**Condiciones:**
-- Edward Teach y los PJ llegan SIMULTÁNEAMENTE
-- El ritual está al 98%
-
-**Combate:**
-- **Mecánica Única:** Combate de tres bandos (PJ vs Manshoon vs Teach)
-- **Objetivo:** Llegar primero al Cronosellado (centro del ritual)
-- **Ritual avanza:** Cada 2 turnos, el ritual avanza 1%
-
-#### **🟣 FINAL D: Demasiado Tarde**
-**Condiciones:**
-- Los PJ llegan cuando el ritual está al 100%
+- El medidor del ritual llega a **100%** antes de que los PJ liberen a los dioses
 - Manshoon YA ascendió completamente
 
 **Combate:**
 - **CR 25+** (Manshoon completamente divino)
 - **Casi invencible:** Los PJ solo pueden huir o sacrificarse heroicamente
 - **Mal final:** El villano conquista el multiverso
-
-### **🎯 Mecánicas del Combate Final:**
-
-**Liberar a los Dioses:**
-- **Requisito:** Llave de la Realidad (Nivel 3) + Acción de 1 turno
-- **Efecto:** Amaunator y Voidar se liberan y atacan al villano
-- **Crítico:** Sin liberar a los dioses, los PJ no pueden ganar
-
-**Progresión del Ritual:**
-- **Sesión 13:** Ritual al 98%
-- **Sesión 14:** Ritual al 98-99% (durante el asalto)
-- **Sesión 15:** Ritual al 98-100% (depende del timing)
-
-**Edward Teach:**
-- **Si tiene Talismán:** Puede llegar ANTES, DURANTE o DESPUÉS de los PJ
-- **Si NO tiene Talismán:** Final B imposible
 
 ---
 

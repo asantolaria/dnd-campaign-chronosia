@@ -61,24 +61,24 @@ flowchart TD
     S10 --> S11[Sesión 11: Exploración Avanzada<br/>PJ derrotan 4to lugarteniente<br/>5 lugartenientes restantes<br/>forman alianzas o luchan]
     S11 --> ASC_DETAIL[⚔️ Ver Ascensión del Cónclave]
     ASC_DETAIL -.->|Enlace| ASC_LINK[./00_Esquemas/02_Ascension_Conclave.md]
-    S11 --> S12[Sesión 12: El Ritual<br/>PJ derrotan 5to lugarteniente<br/>Ritual al 92%<br/>Últimos 4 lugartenientes<br/>luchan por supremacía]
+    S11 --> S12[Sesión 12: El Ritual<br/>PJ derrotan 5to lugarteniente<br/>Urgencia máxima<br/>Últimos 4 lugartenientes<br/>luchan por supremacía]
     
     S12 --> FASE4[FASE 4: CLÍMAX<br/>Sesiones 13-15]
     
-    FASE4 --> S13[Sesión 13: Llamada de los Dioses<br/>Ritual al 98%]
-    S13 --> S14[Sesión 14: Asalto a la Torre<br/>5 niveles de la Torre]
+    FASE4 --> S13[Sesión 13: Llamada de los Dioses<br/>Ritual casi completo]
+    S13 --> S14[Sesión 14: Asalto a la Torre<br/>4 niveles + antesalas<br/>Revelación masiva]
     S14 --> TORRE_DETAIL[🏰 Ver Torre de la Eternidad]
     TORRE_DETAIL -.->|Enlace| TORRE_LINK[./00_Esquemas/03_Torre_Eternidad.md]
     
     S14 --> S14A{¿Edward Teach tiene Talismán?}
     S14A -->|Sí| S14B{¿Teach llegó primero?}
-    S14A -->|No| FINAL_A[FINAL A: Manshoon Ascendente<br/>Ritual al 98-99%]
+    S14A -->|No| FINAL_A[FINAL A: Manshoon Ascendente<br/>Ritual casi completo]
     
     S14B -->|Sí| FINAL_B[FINAL B: Blackbeard Usurpador<br/>Teach intercepta poder]
     S14B -->|No| FINAL_A
     S14B -->|Simultáneo| FINAL_C[FINAL C: Carrera Divina<br/>3 bandos luchan]
     
-    S14 --> S15A{¿Ritual al 100%?}
+    S14 --> S15A{¿Ritual completado?}
     S15A -->|Sí| FINAL_D[FINAL D: Demasiado Tarde<br/>Manshoon invencible]
     S15A -->|No| S15[Sesión 15: Destino del Multiverso<br/>Combate final]
     
@@ -117,7 +117,7 @@ flowchart TD
 Exploración libre de regiones temporales y dimensionales, sistema de balance crítico, y consecuencias del desequilibrio.
 
 ### **⚔️ [La Ascensión del Cónclave](./00_Esquemas/02_Ascension_Conclave.md)**
-Formación de bandos tras el asesinato de Thyra, sistema de puntos de ascensión, eventos aleatorios, y elección de Supremos.
+Formación de bandos tras el asesinato de Thyra, competencia narrativa entre lugartenientes, eventos aleatorios, y determinación narrativa de Supremos.
 
 ### **🏰 [Torre de la Eternidad](./00_Esquemas/03_Torre_Eternidad.md)**
 Los 5 niveles del asalto final, condiciones para cada uno de los 4 finales posibles, y mecánicas del combate final.
@@ -150,7 +150,7 @@ La infiltración de Kaoros el Sordo, el juicio del Capitán Marcus, la revelaci�
 - **Eventos Variables** (dependen de los PJ): Orden de enfrentamiento de lugartenientes, Alianzas, Revelaciones tempranas, Interrupciones de eventos, Timing de entrega del cristal de Varrak
 
 ### **📊 Conteo de Lugartenientes:**
-- **Total Inicial**: 12 lugartenientes (8 principales + 3 menores + 1 caída)
+- **Total Inicial**: 12 lugartenientes (11 activos + 1 caída)
 - **Muertos en Fase 0 (Railroad)**: 1 (Kaelthas - primer lugarteniente derrotado)
 - **Muertos en Fase 1**: 1 (Thyra - asesinada por Edward Teach)
 - **Muertos en Fase 2 (Sandbox Inicial)**: 3 (2 derrotados por PJ + Serapis en La Traición de Serapis)

@@ -27,7 +27,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 ### **Sesión 2: Llegada a Chronosia**
 - **[02_Sesion_2_Llegada_Chronosia.md](./02_Sesion_2_Llegada_Chronosia.md)**
 - **Nivel:** 3-4
-- **Ubicación:** Cronópolis (centro de Chronosia)
+- **Ubicación:** Cronópolis (Costa Oeste de Chronosia, cerca del mar)
 - **Eventos:** Portal a Chronosia, Tour de Cronópolis, Consejo Anacronista, Ver Cronómetro de Realidades
 
 ### **Sesión 3: Primera Misión**
@@ -74,7 +74,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 ### **Sesión 1:**
 - **Enfatiza la tragedia** de Kaelthas (era amigo de Thaddeus)
 - **Usa Reversión Temporal** para crear momento "OH NO"
-- **Zephyr debe tener peso** - es un personaje importante y recurrente
+- **Galen debe tener peso** - es un personaje importante y recurrente
 
 ### **Sesión 2:**
 - **Cronópolis es la base permanente** - los PJ volverán aquí después de cada misión
@@ -106,7 +106,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 **NPCs Introducidos:**
 - **Kaelthas el Relojero Roto** (antagonista, lugarteniente)
 - Maestro Thaddeus Ironwright (víctima, mentor de los PJ)
-- **Zephyr** (líder de los Anacronistas/"La Resistencia")
+- **Galen** (líder de los Anacronistas/"La Resistencia")
 - **Tiber** (joven Anacronista rescatado de la guarida de Kaelthas)
 - Lord Piergeiron Paladinson (Open Lord de Waterdeep)
 - Khelben "Manos Negras" Arunsun (archmago)
@@ -126,7 +126,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 **Nivel de los PJ:** 3-4
 
 **Eventos Fijos:**
-- ✅ **Zephyr abre portal temporal** desde Waterdeep a Chronosia
+- ✅ **Galen abre portal temporal** desde Waterdeep a Chronosia
 - ✅ Los PJ llegan a **Cronópolis** (única zona segura en Chronosia)
 - ✅ **Bienvenida de los Anacronistas** - Presentación formal de la orden
 - ✅ **Tour de Cronópolis** - Los PJ conocen la ciudad refugio
@@ -135,7 +135,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 - ✅ **Asignación de Alojamiento** - Los PJ reciben habitaciones permanentes
 
 **NPCs Introducidos:**
-- **Zephyr** (líder Anacronista, guía principal)
+- **Galen** (líder Anacronista, guía principal)
 - **Tiber** (joven Anacronista rescatado en Sesión 1, se vuelve amigo de los PJ)
 - **Maestra Nira** (gnoma anciana, guardiana del Cronómetro)
 - **Korin Martillo-de-Hierro** (enano, herrero de Cronópolis)

@@ -15,7 +15,6 @@
 
 ### **⏰ LUGARTENIENTES TEMPORALES** (Poder de Amaunator)
 
-#### **Principales:**
 1. **[01_Serapis_El_Retroceso.md](./01_Serapis_El_Retroceso.md)** - Elfo Eterno
    - Nivel Recomendado: 5-7 | CR: 8
    - Región: La Espiral Inversa | Estado: 🔓 Desbloqueada
@@ -30,7 +29,6 @@
    - Región: La Mansión de la Sed Eterna | Estado: 🔒 Bloqueada
    - Nota: Líder del Bando Temporal
 
-#### **Menores:**
 4. **[10_Medusa_La_Eterna.md](./10_Medusa_La_Eterna.md)** - Medusa Ancestral
    - Nivel Recomendado: 8-9 | CR: 9
    - Región: El Jardín de los Tiempos Gemelos | Estado: 🔒 Bloqueada
@@ -43,7 +41,6 @@
 
 ### **🌌 LUGARTENIENTES DIMENSIONALES** (Poder de Voidar)
 
-#### **Principales:**
 6. **[04_Edward_Teach_Barbanegra.md](./04_Edward_Teach_Barbanegra.md)** - Humano Pirata
    - Nivel Recomendado: 11-13 | CR: 17
    - Región: Archipiélago de Barbanegra | Estado: 🔓 Desbloqueada (Sesión 6+)
@@ -69,10 +66,10 @@
     - Región: El Jardín de los Tiempos Gemelos | Estado: 🔒 Bloqueada
     - Nota: Neutrales, pueden aliarse con los PJ
 
-#### **Menores:**
 11. **[09_Ymir_El_Eterno_Invierno.md](./09_Ymir_El_Eterno_Invierno.md)** - Elemental de Hielo Ancestral
     - Nivel Recomendado: 5-7 | CR: 8
     - Región: Glacialis | Estado: 🔓 Desbloqueada
+    - **⚠️ FUNCIÓN CRÍTICA:** Reclutador Interplanar - Mantiene la red de portales que trae suministros y criaturas de otros planos
 
 ---
 

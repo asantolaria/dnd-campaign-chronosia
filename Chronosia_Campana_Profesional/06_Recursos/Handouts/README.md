@@ -30,4 +30,14 @@
 
 ---
 
-*Última actualización: [Fecha actual]*
+---
+
+## 📝 **NOTAS IMPORTANTES**
+
+- Las imágenes de cronófagos están en `assets/` (cronófago guerrero, lanzador de conjuros, luchador, sargento, oficial)
+- Los mapas visuales se pueden generar usando el prompt en `assets/Prompt_Mapa_ChatGPT.md`
+- Para actualizar el estado de los handouts, consultar `00_Plan_Desarrollo_Campana.md`
+
+---
+
+*Última actualización: Diciembre 2025*

@@ -50,15 +50,20 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 - **Población**: Aldea de Hielo Eterno - Población congelada en estasis temporal
 - **Acceso**: 🔓 **Desbloqueada** desde el inicio
 
-### **🏰 CRONÓPOLIS - El Corazón Temporal (Centro)**
-- **Clima**: Estable pero con fluctuaciones temporales constantes
-- **Características**: La Torre de la Eternidad, relojes gigantes, arquitectura temporal, Fortaleza de Acero
-- **Distorsión Principal**: Control total del tiempo y espacio desde el centro
-- **Líder Supremo**: Aethernus Valcarys (Manshoon Clone #47)
+### **🏰 CRONÓPOLIS - La Ciudad Costera Protegida - La "Galia" de Chronosia**
+- **Ubicación Geográfica**: **Costa Oeste de Chronosia**, cerca del mar, aproximadamente 50 millas al norte del Archipiélago de Barbanegra. La ciudad se extiende desde la costa hacia el interior, con un puerto protegido y acantilados que ofrecen defensa natural.
+- **Clima**: Estable y protegido - las distorsiones temporales y espaciales no tienen efecto dentro de la ciudad. Clima templado costero con brisas marinas constantes.
+- **Características**: Relojes gigantes, arquitectura temporal, Fortaleza de Acero, puerto marítimo, faros costeros que brillan con luz temporal estabilizada
+- **Distorsión Principal**: **NINGUNA** - Cronópolis está protegida por el Cronómetro de Realidades
+- **Protección Especial**: El **Cronómetro de Realidades** (creado con el único Cristal de Estabilización que obtuvieron los Anacronistas) mantiene un campo de estabilidad alrededor de Cronópolis. Los poderes de los Cronófagos **NO tienen efecto** dentro de esta región protegida, convirtiendo a Cronópolis en una pequeña "Galia" - un bastión de estabilidad en medio del caos de Chronosia.
+- **Conexión Histórica con el Mar**: Los Anacronistas eligieron establecerse cerca del mar como un recordatorio de su origen común con los Oceánicos. Aunque eligieron la superficie en lugar de las profundidades, la proximidad al océano mantiene viva la memoria de que ambos pueblos fueron una vez los Chronianos. Algunos Anacronistas más ancianos aún recuerdan las historias de sus "hermanos de las profundidades" en Abysara.
+- **Líder Supremo**: Aethernus Valcarys (Manshoon Clone #47) - **Ubicado en la Torre de la Eternidad** (más allá del Valle de Thyra, en las montañas del norte), **FUERA** de la protección del Cronómetro
 - **Población**: Ciudadanos refugiados que rara vez salen de los muros protectores
-- **Seguridad**: Único bastión completamente seguro en todo Chronosia
+- **Seguridad**: Único bastión completamente seguro en todo Chronosia gracias al Cronómetro de Realidades
 - **Facciones**: La Resistencia (Fortaleza de Acero), Anacronistas, Ingenieros/Gnomos
 - **Acceso**: 🔓 **Desbloqueada** desde el inicio
+- **⚠️ VULNERABILIDAD CRÍTICA**: Si el Cronómetro de Realidades fuera destruido o robado (como ocurrió cuando Teach lo robó), Cronópolis perdería su protección y quedaría expuesta a las distorsiones como el resto de Chronosia
+- **🏰 Torre de la Eternidad**: Ubicada en una dimensión de bolsillo, accesible a través de un portal en las montañas del norte, más allá del Valle de la Aguja Suspendida. **NO está protegida** por el Cronómetro.
 
 #### **⚔️ Defensa y Seguridad de Cronópolis**
 
@@ -109,20 +114,20 @@ Cronosia es atacada periódicamente por grupos y asaltantes de distintas regione
 - **Desbloqueo**: Requisito para acceder a la región
 - **Bando**: Afiliación en "La Ascensión del Cónclave"
 
-| **#** | **Lugarteniente**                     | **Raza**              | **Tipo**    | **Región**                         | **Nivel** | **Disp.** | **Desbloqueo**                                           | **Bando**         |
-| ----- | ------------------------------------- | --------------------- | ----------- | ---------------------------------- | --------- | --------- | -------------------------------------------------------- | ----------------- |
-| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | Valle de la Aguja Suspendida      | 6-8       | 🔓→⚰️     | Viva al inicio → Muerta tras asesinato por Edward Teach (Sesión 6) | CAÍDA             |
-| 1     | **Serapis el Retroceso**              | Elfo Eterno           | Temporal    | La Espiral del Reloj de Arena      | 5-7       | 🔓        | Accesible desde el inicio                                | Temporal          |
-| 2     | **Ymir el Eterno Invierno**           | Elemental de Hielo    | Dimensional | Glacialis                          | 5-7       | 🔓        | Accesible desde el inicio                                | Menor             |
-| 3     | **Varrak el Oráculo**                 | Orco                  | Temporal    | El Oráculo de los Posibles         | 7-9       | 🔒        | Derrotar 1+ lugarteniente                                | Neutral           |
-| 4     | **Medusa la Eterna**                  | Medusa Ancestral      | Temporal    | El Jardín de los Tiempos Gemelos   | 8-9       | 🔒        | Derrotar 2+ lugartenientes                               | Temporal          |
-| 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 9-11      | 🔒        | Derrotar 2+ lugartenientes + Espejo de Realidad (Gemelas o quest) | Neutral   |
-| 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-11      | 🔒        | Espejo de Realidad Fragmentada (de Gemelas) O derrotar Ignis | Independiente |
-| 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | El Valle de los Castillos Malditos | 10-12     | 🔒        | Derrotar 3+ lugartenientes                               | Líder Temporal    |
-| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Dimensional | Archipiélago de Barbanegra         | 11-13     | 🔒→🔓     | Bloqueado al inicio → Desbloqueado tras asesinar a Thyra (Sesión 6) | Independiente     |
-| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 10-12     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales | Temporal          |
-| 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 11-13     | 🔒        | Edward Teach O Artefacto Gnomo O Varrak                  | Dimensional       |
-| 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Las Calderas Dimensionales         | 13-15     | 🔒        | Accesible desde inicio pero extremadamente peligrosa     | Líder Dimensional |
+| **#** | **Lugarteniente**                     | **Raza**              | **Tipo**    | **Región**                         | **Nivel** | **Disp.** | **Desbloqueo**                                                                                                                               |
+| ----- | ------------------------------------- | --------------------- | ----------- | ---------------------------------- | --------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | Valle de la Aguja Suspendida       | 6-8       | 🔒→⚰️     | Bloqueada (poder de estasis) → Muerta tras asesinato por Edward Teach (después del 3er lugarteniente)                                        |
+| 1     | **Serapis el Retroceso**              | Elfo Eterno           | Temporal    | La Espiral del Reloj de Arena      | 5-7       | 🔓        | Accesible desde el inicio                                                                                                                    |
+| 2     | **Ymir el Eterno Invierno**           | Elemental de Hielo    | Dimensional | Glacialis                          | 5-7       | 🔓        | Accesible desde el inicio                                                                                                                    |
+| 3     | **Varrak el Oráculo**                 | Orco                  | Temporal    | El Oráculo de los Posibles         | 7-9       | 🔒        | Derrotar 1+ lugarteniente                                                                                                                    |
+| 4     | **Medusa la Eterna**                  | Medusa Ancestral      | Temporal    | El Jardín de los Tiempos Gemelos   | 8-9       | 🔒        | Derrotar 2+ lugartenientes                                                                                                                   |
+| 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 9-11      | 🔒        | Derrotar 2+ lugartenientes + Espejo de Realidad (Gemelas o quest)                                                                            |
+| 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-11      | 🔒        | Espejo de Realidad Fragmentada (de Gemelas) O derrotar Ignis                                                                                 |
+| 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | El Valle de los Castillos Malditos | 10-12     | 🔒        | Derrotar 3+ lugartenientes                                                                                                                   |
+| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Dimensional | Archipiélago de Barbanegra         | 11-13     | 🔒→🔓     | Bloqueado al inicio (mar en calma) → Desbloqueado cuando La Resistencia inventa el Motor de Viento Perpetuo (después del asesinato de Thyra) |
+| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 10-12     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales                                                                           |
+| 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 11-13     | 🔒        | Edward Teach O Artefacto Gnomo O Varrak                                                                                                      |
+| 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Las Calderas Dimensionales         | 13-15     | 🔒        | Accesible desde inicio pero extremadamente peligrosa                                                                                         |
 
 **📖 Ver documentos de regiones específicas:**
 - [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Detalles de cada región temporal
@@ -163,38 +168,30 @@ Cronosia es atacada periódicamente por grupos y asaltantes de distintas regione
 ### **🎯 Concepto Central**
 El equilibrio entre lugartenientes temporales y dimensionales es crítico para la estabilidad de Chronosia. Cuando los PJ derrotan demasiados de un tipo sin equilibrar con el otro, el mundo se vuelve inestable y afecta directamente su capacidad de viajar, descansar y acceder a recursos.
 
-### **📊 Cálculo del Desbalance**
-- **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
-- **Ejemplo**: Si derrotan 2 temporales y 0 dimensionales → Diferencia = 2 (Desbalance Moderado)
+### **📊 Cálculo del Balance**
+- **Equilibrio:** Cuando el número de temporales derrotados es igual o muy similar al número de dimensionales derrotados (diferencia de 0-1)
+- **Desbalance:** Cuando hay una diferencia significativa entre temporales y dimensionales derrotados (diferencia de 2+)
 
-### **🔴 Niveles de Desbalance**
+### **🔴 Estados del Balance**
 
-#### **🟢 EQUILIBRIO (Diferencia 0-1)**
+#### **🟢 EQUILIBRIO**
 - **Estado**: Todo funciona normalmente
 - **Cronópolis**: Completamente seguro y estable
 - **Viajes**: Sin problemas, portales funcionan al 100%
 - **Descanso**: Descanso largo disponible sin restricciones
 - **Recursos**: Comerciantes y NPCs funcionan normalmente
+- **Efectos**: Ninguno
 
-#### **🟡 DESBALANCE MENOR (Diferencia 2)**
+#### **⚠️ DESBALANCE**
 - **Lanzamientos**: 1d4 efectos por sesión
 - **Momento**: Al inicio de cada sesión
 - **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-
-#### **🟠 DESBALANCE MODERADO (Diferencia 3)**
-- **Lanzamientos**: 1d6 efectos por sesión
-- **Momento**: Al inicio + cada 2 horas
-- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-
-#### **🔴 DESBALANCE CRÍTICO (Diferencia 4+)**
-- **Lanzamientos**: 1d8 efectos por sesión
-- **Momento**: Al inicio + cada hora + eventos importantes
-- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-- **⚠️ ACCIÓN ESPECIAL:** Si el balance alcanza desbalance crítico (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
+- **Advertencia**: Los explicadores (Zephyr, Varrak, Capitán Marcus) advierten sobre el desbalance
+- **⚠️ ACCIÓN ESPECIAL:** Si el desbalance es extremo (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
 
 ### **👥 Explicadores del Balance**
 
-#### **🔮 Zephyr (Anacronistas) - Explicador Principal**
+#### **🔮 Galen (Anacronistas) - Explicador Principal**
 *"Escuchad, jóvenes. Chronosia existe en un equilibrio precario entre dos fuerzas fundamentales: el Tiempo y el Espacio. Amaunator y Voidar, aunque prisioneros, siguen luchando. Su poder se filtra a través de sus lugartenientes."*
 
 *"Si derrotáis demasiados lugartenientes temporales sin equilibrar con los dimensionales, Amaunator se debilitará. El tiempo se volverá caótico, los portales temporales fallarán, y Cronópolis perderá su estabilidad."*
@@ -211,9 +208,11 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 *"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente."*
 
 #### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
-*"Nuestros sensores detectan anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
+*"El artilugio de Din Goldgear detecta anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
 
 *"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
+
+**⚠️ NOTA**: El Capitán Marcus solo puede proporcionar estas advertencias **después de que los PJ derroten a su segundo lugarteniente**, momento en el que Din Goldgear inventa el artilugio detector de balance. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
 
 ---
 
@@ -249,23 +248,30 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 #### **2. Valle de la Aguja Suspendida (Thyra la Suspendida)**
 - **Tipo**: Temporal Principal
 - **Nivel**: 6-8
-- **Acceso**: 🔓 **Disponible desde el inicio** (Sesión 1-5)
-- **⚠️ CAMBIO DE ESTADO**: Se bloquea permanentemente tras el asesinato por Edward Teach (Sesión 6)
-- **Mecánica Especial**: Manipulación temporal avanzada, estasis temporal
+- **Acceso**: 🔒 **BLOQUEADA** (Sesión 1+) → 🔓 **ACCESIBLE** (Después del 3er lugarteniente) - Thyra tiene poder de bloqueo que hace la región inaccesible hasta su muerte
+- **⚠️ CAMBIO DE ESTADO**: La estasis desaparece tras el asesinato por Edward Teach (después del 3er lugarteniente), haciendo la región accesible
+- **🏰 FUNCIÓN ESPECIAL**: Punto de partida hacia la Torre de la Eternidad, ubicada más allá del valle en las montañas del norte
+- **Mecánica Especial**: 
+  - **Campo de Estasis Perimetral (ANTES):** Barrera de estasis temporal que envuelve la región (5 millas de radio)
+  - **CD 22 Sabiduría** para resistir - Casi imposible sin el Talismán de Interceptación Divina
+  - **Solo Edward Teach con el Talismán** puede penetrar esta barrera mientras Thyra vive
+  - **DESPUÉS DEL ASESINATO:** La estasis desaparece completamente, la región queda devastada pero accesible
+  - Thyra está recluida y no necesita ejército debido a este poder
 - **Bando**: Temporal (antes de ser asesinada)
 
 #### **3. Glacialis (Ymir el Eterno Invierno)**
-- **Tipo**: Dimensional Menor
+- **Tipo**: Dimensional
 - **Nivel**: 5-7
 - **Acceso**: Disponible desde el inicio
 - **Mecánica Especial**: Frío extremo, manipulación espacial a través del hielo
 - **Bando**: Menor (no participa en competencia)
 
-#### **4. Cronópolis (Centro Neutral)**
-- **Tipo**: Región Central
+#### **4. Cronópolis (Costa Oeste - Región Protegida)**
+- **Tipo**: Región Costera Protegida
 - **Nivel**: N/A
 - **Acceso**: Disponible desde el inicio
-- **Características**: Único lugar completamente seguro, hub principal, comercio, facciones
+- **Ubicación**: Costa Oeste, cerca del mar, aproximadamente 50 millas al norte del Archipiélago de Barbanegra
+- **Características**: Único lugar completamente seguro, hub principal, comercio, facciones, puerto marítimo, conexión histórica con los Oceánicos
 
 ### **🔒 Regiones Bloqueadas Inicialmente (7):**
 
@@ -283,9 +289,8 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 - **Efecto de Bloqueo**: "Los espejos y estatuas atrapan a los intrusos en bucles de reflejos y estasis"
 - **Desbloqueo**: Derrotar a **2+ lugartenientes**
 - **Nivel**: 8-10
-- **Tipo**: Dimensional Principal + Temporal Menor (región compartida)
-- **Dueñas Principales**: Las Gemelas del Espejo (Lyra y Nyx)
-- **Aliada Menor**: Medusa la Eterna
+- **Tipo**: Dimensional + Temporal (región compartida)
+- **Lugartenientes**: Las Gemelas del Espejo (Lyra y Nyx) + Medusa la Eterna
 - **Recompensa Las Gemelas**: Objetos relacionados con espejos y clones
 - **Recompensa Medusa**: Objetos relacionados con estasis y petrificación
 
@@ -303,7 +308,7 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
   - **Opción A**: Obtener **Arena del Tiempo Estabilizada** (derrotar a Serapis)
   - **Opción B**: Derrotar **3+ lugartenientes temporales** (Serapis, Varrak, Vorthak)
 - **Nivel**: 10-12
-- **Tipo**: Temporal Menor
+- **Tipo**: Temporal
 - **Recompensa**: Objetos relacionados con bucles temporales y programación
 
 #### **La Ciudad Subterránea de Veldrisza (Matrona Veldrisza)**
@@ -333,6 +338,14 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 ### **🔓→🔒 Regiones que Cambian de Estado:**
 
 #### **Archipiélago de Barbanegra (Edward Teach)**
+
+**⚠️ BLOQUEO ESPECIAL - MAR EN CALMA:**
+- **Efecto de Bloqueo**: Mar en Calma (sin viento, imposible navegar)
+- **Problema**: El mar alrededor del Archipiélago está completamente en calma, sin viento. Los barcos normales no pueden navegar sin viento
+- **Solución**: La Resistencia (Din Goldgear y los Ingenieros) inventa el **Motor de Viento Perpetuo** usando el Rotor Infinito completo
+- **Requisito para el Rotor**: Los PJ deben derrotar a Serapis (Núcleo Temporal) Y Ymir (Carcasa Helada)
+- **Construcción del Motor**: Los Ingenieros construyen el Motor en 2 semanas (requiere 10,000 po en materiales adicionales)
+- **Desbloqueo**: Una vez construido el Motor, los PJ pueden navegar el mar en calma y acceder al Archipiélago
 - **Estado Inicial**: 🔒 **BLOQUEADO** (Sesión 1-5)
 - **Efecto de Bloqueo**: Mar en Calma (sin viento, imposible navegar)
 - **Cambio de Estado**: 🔓 **DESBLOQUEADO** tras asesinar a Thyra (Sesión 6)
@@ -356,8 +369,9 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
   - **Carcasa Helada** (Ymir) - La estructura exterior, estabiliza portales dimensionales
 - **Obtención**: Derrotar a Serapis **Y** Ymir (necesitas ambas partes)
 - **Quest Giver**: **Ingenieros de Cronópolis** (tienen tecnología avanzada de Eberron)
-- **Desbloquea**: Archipiélago de Barbanegra (Mar en Calma) - Solo después de que Teach se desbloquee
-- **Uso Inmediato**: Ingenieros construyen Motor de Viento Perpetuo
+- **Desbloquea**: Archipiélago de Barbanegra (Mar en Calma) - El Motor de Viento Perpetuo permite navegar el mar en calma
+- **Uso Inmediato**: Los Ingenieros construyen el Motor de Viento Perpetuo usando el Rotor Infinito completo (2 semanas, 10,000 po en materiales)
+- **⚠️ IMPORTANTE**: La región de Edward Teach se desbloquea cuando La Resistencia inventa el Motor, NO simplemente cuando Teach asesina a Thyra
 - **Uso Posterior**: Construir Ferrocarril Universal conectando todas las regiones **Y** creando portal a Faerún (post-campaña)
 
 ### **🪞 Espejo de Realidad Fragmentada**
@@ -425,6 +439,23 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 - **Distorsiones Espaciales**: Los PJ pueden aparecer en lugares inesperados
 - **Criaturas Dimensionales**: Encuentros con seres de otros planos
 - **Efectos Combinados**: Mecánicas que combinan tiempo y espacio
+
+---
+
+## ⚔️ **ZONAS DE GUERRA**
+
+### **🔴 ¿Qué son las Zonas de Guerra?**
+
+Cuando dos lugartenientes se enfrentan directamente (duelo, batalla abierta, conquista territorial, guerra entre bandos), sus territorios se convierten en **Zonas de Guerra**. Estas regiones se vuelven extremadamente peligrosas y activas.
+
+**⚠️ Efectos en las Regiones:**
+- **Encuentros Frecuentes:** Los PJ tienen **50% más probabilidad** de encontrarse con grupos o batallas
+- **Patrullas Activas:** Ambos bandos patrullan constantemente
+- **Destrucción Visible:** Paisaje devastado, fortalezas dañadas, campos de batalla
+- **Refugiados:** Civiles huyendo de la guerra
+- **Oportunidades:** Los PJ pueden aprovechar el caos para infiltrarse o aliarse
+
+**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md#-zonas-de-guerra)** - Sección "Zonas de Guerra"
 
 ---
 
@@ -496,7 +527,7 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 ### **🔧 Sistema de Artefactos de Ingeniería:**
 - **Introduce temprano** a los Ingenieros/Gnomos de Cronópolis (sesión 1-2)
 - **Quest Givers**: Los ingenieros solicitan componentes específicos a los PJs
-- **Tecnología Avanzada**: Tienen manuales de Eberron (vendidos por Zephyr o encontrados en regiones)
+- **Tecnología Avanzada**: Tienen manuales de Eberron (vendidos por Zephyr "El Saltamundos" o encontrados en regiones)
 - **Rotor Infinito**: Necesitas **ambas partes** (Serapis + Ymir) para completarlo
 - **Misiones de Ingenieros**:
   1. **"Necesitamos el Núcleo Temporal"** → Derrotar a Serapis
