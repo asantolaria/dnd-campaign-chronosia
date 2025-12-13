@@ -34,7 +34,7 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 **⚰️ LUGARTENIENTES CAÍDOS (1):**
 - Thyra la Suspendida (asesinada por Edward Teach en Sesión 5-6)
 
-**📖 Ver documento completo de la competencia:** [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
+**📖 Ver sistema de anillos de poder:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)
 
 ---
 
@@ -102,7 +102,7 @@ Edward Teach "Barbanegra" - Ver acciones legendarias actualizadas en [08_Cronofa
 
 **Ubicación**: Región montañosa del norte, entre los glaciares y las montañas
 
-**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO**
 
 **⚔️ SOLDADOS ÚNICOS:** Serapis entrena y otorga poderes de **Reversión Temporal** a sus soldados, llamados "Los Retrocedentes". Estos soldados pueden revertir heridas menores, repetir acciones fallidas, y usar armas regresivas. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
@@ -114,240 +114,65 @@ Un valle montañoso dominado por un **Reloj de Arena Gigante** de 100 metros de 
 **⏰ El Reloj de Arena Gigante:**
 - Torre de piedra negra con una ampolla de cristal gigante en el centro
 - Arena dorada que brilla con energía temporal
-- Cuando la arena llega al fondo (0 puntos), **todo en la región se reinicia** al amanecer del día anterior
-- Cuando la arena sube (20 puntos), el tiempo fluye normalmente
-- Los aldeanos pueden VER físicamente la arena subir o bajar según los eventos
+- El reloj es un elemento visual imponente que domina el paisaje
+- Los aldeanos trabajan constantemente para mantener el tiempo fluyendo
 
-### **Condiciones Especiales - Sistema del Reloj de Arena**
+### **Condiciones Especiales**
 
-#### **⏰ MECÁNICA PRINCIPAL: El Contador de Tiempo**
+La región está bajo el control de Serapis el Retroceso, quien puede manipular el flujo temporal. El tiempo puede avanzar, retroceder o repetirse según su voluntad, creando una sensación de inestabilidad constante.
 
-**Contador Inicial:** 10 Puntos de Arena al amanecer (SIMPLIFICADO)
-
-La región funciona con un sistema de **Puntos de Arena** que representan cuánto tiempo queda antes del reinicio:
-
-- **10 puntos**: Arena en la parte superior, tiempo estable
-- **5-7 puntos**: Arena a la mitad, tensión creciente
-- **2-4 puntos**: Arena bajando rápido, urgencia crítica
-- **0 puntos**: ⚠️ **REINICIO TOTAL** → Todo vuelve al amanecer del día anterior
-
-#### **📉 Acciones que BAJAN la Arena (SIMPLIFICADO - Solo Acciones Importantes):**
-
-- **Combate prolongado** (cada 3 turnos de combate): -1 punto
-- **Usar hechizos de nivel 4+**: -2 puntos
-- **Descanso corto**: -2 puntos
-- **Descanso largo**: -4 puntos (NO recomendado)
-- **Muerte de un PJ**: -2 puntos
-
-#### **📈 Acciones que SUBEN la Arena (SIMPLIFICADO):**
-
-- **💎 Destruir Cristales de Arena** (dispersos por la región): **+2 puntos por cristal** ⭐ **RECURSO ÚNICO DE ESTA REGIÓN** - Los 12 Cristales de Arena son la forma más eficiente de ganar tiempo. Destruir todos los cristales otorga **+24 puntos totales**, más de un día completo de tiempo adicional.
-- **Resolver puzzles temporales**: +3 puntos
-- **Sacrificar un objeto mágico al Reloj**: +5 puntos (el objeto se destruye)
-- **Completar rituales temporales con los aldeanos**: +4 puntos
-
-**⚠️ NOTA ESTRATÉGICA:** Los Cristales de Arena son el recurso más valioso de la región. Los PJ deberían priorizar encontrarlos y destruirlos, ya que ofrecen la mejor relación esfuerzo/beneficio para ganar tiempo antes del reinicio.
-
-#### **🔄 MECÁNICA DEL REINICIO:**
-
-**Cuando el Contador llega a 0:**
-1. Todo en la región **vuelve al amanecer del día anterior**
-2. Los PJ **conservan su memoria** de los intentos anteriores
-3. Los PJ **vuelven a estar vivos** con HP completos (si habían muerto)
-4. Todos los objetos consumibles **se restauran** (pociones, hechizos, usos diarios)
-5. El Contador **vuelve a 10 puntos** (SIMPLIFICADO)
-
-**⚠️ LÍMITE DE REINICIOS: 3 veces**
-- **Reinicio 1**: Los PJ aprenden la mecánica
-- **Reinicio 2**: Los PJ ajustan su estrategia
-- **Reinicio 3**: Última oportunidad
-- **Si fallan el 4º intento**: Serapis gana, los PJ quedan atrapados en bucle eterno (deben ser rescatados o escapar)
-
-### **👥 Los Habitantes: Trabajadores del Tiempo**
+### **👥 Los Habitantes**
 
 #### **Los Portadores de Arena**
 - **200 aldeanos** que viven en la región
-- Cada día, al amanecer, trabajan en **turnos de 12 horas** para hacer subir la arena
-- Usan **grúas manuales, poleas y cuerdas** conectadas al mecanismo del reloj
-- Su trabajo físico hace que la arena suba lentamente: **+1 punto cada 3 horas de trabajo colectivo**
-
-#### **El Ciclo Diario:**
-- **06:00 - Amanecer**: Contador en 20 puntos, los aldeanos comienzan a trabajar
-- **12:00 - Mediodía**: Contador en ~15 puntos (han subido +1, pero el tiempo natural baja -6)
-- **18:00 - Anochecer**: Contador en ~10 puntos, los aldeanos terminan el trabajo
-- **00:00 - Medianoche**: Contador en ~5 puntos, peligro crítico
-- **06:00 - Amanecer**: Si el contador llegó a 0, **todo se reinicia**
+- Trabajan constantemente para mantener el tiempo fluyendo normalmente
+- Viven bajo la tiranía temporal de Serapis
+- Algunos han perdido la noción del tiempo normal tras años de manipulación temporal
 
 #### **Diálogo Clave con los Aldeanos:**
 
-> **Anciana del Pueblo**: "Cada día es igual, forasteros. Trabajamos desde el amanecer hasta el anochecer para mantener la arena arriba. Si descansamos, la arena baja... y todo vuelve a empezar. Llevamos años así. Algunos ya no recuerdan cómo era el tiempo normal. Ayudadnos... por favor, derrotad a Serapis antes de que caiga la noche."
+> **Anciana del Pueblo**: "Cada día es una lucha, forasteros. Trabajamos desde el amanecer hasta el anochecer para mantener el tiempo fluyendo. Serapis controla el reloj, y si no trabajamos, el tiempo se vuelve caótico. Llevamos años así. Algunos ya no recuerdan cómo era el tiempo normal. Ayudadnos... por favor, derrotad a Serapis y liberadnos de esta prisión temporal."
 
 ### **Habitantes**
-- **Portadores de Arena**: 200 aldeanos que trabajan turnos de 12 horas para mantener el Reloj funcionando
-- **El Maestro Relojero**: Anciano que conoce todos los secretos del Reloj y la ubicación de los Cristales de Arena
-- **Niños Temporales**: Niños que han vivido el mismo día cientos de veces, nunca envejecen
-- **💎 Guardianes del Cristal**: **6 constructos temporales únicos** creados por Serapis específicamente para proteger los Cristales de Arena. Cada guardián está vinculado a un cristal específico y se regenera tras cada reinicio. Son criaturas de arena dorada solidificada con habilidades temporales menores. Ver sección de Cristales de Arena para detalles completos.
-- **Conscientes del Bucle**: Aldeanos que recuerdan cada reinicio (enloquecidos por la experiencia)
+- **Portadores de Arena**: 200 aldeanos que trabajan para mantener el tiempo fluyendo
+- **El Maestro Relojero**: Anciano que conoce los secretos del Reloj y la región
+- **Niños Temporales**: Niños que han vivido bajo la manipulación temporal de Serapis, algunos nunca han experimentado el tiempo normal
+- **Guardianes Temporales**: Constructos creados por Serapis para proteger su dominio
 
 ### **Puntos de Interés**
 
 #### **⏰ El Reloj de Arena Gigante (Centro)**
 - Torre de 100 metros con mecanismo visible
-- Los PJ pueden ver la arena subir/bajar en tiempo real
-- En la base hay un altar donde se sacrifican objetos mágicos
+- Los PJ pueden ver la arena fluir en tiempo real
+- En la base hay un altar donde los aldeanos realizan rituales temporales
 
 #### **🏘️ Aldea de los Portadores**
-- 200 habitantes que trabajan en turnos
-- Posada donde los PJ pueden descansar (cuesta -5 puntos)
-- Herrero que puede reparar armas (cuesta -2 puntos)
-- Templo donde se realizan rituales temporales (+4 puntos)
-
-#### **💎 LOS CRISTALES DE ARENA - Elemento Único de La Espiral**
-
-**⚠️ IMPORTANCIA CRÍTICA:** Los Cristales de Arena son un elemento **ÚNICO Y EXCLUSIVO** de la región de La Espiral del Reloj de Arena. No existen en ninguna otra parte de Chronosia, y son fundamentales para la supervivencia y el éxito de los PJ en esta región.
-
-**🔮 Origen y Naturaleza:**
-
-Los Cristales de Arena son manifestaciones físicas de la energía temporal que Serapis ha canalizado a través del Reloj de Arena Gigante. Cuando el poder temporal del Reloj se desborda o se concentra en puntos específicos de la región, cristaliza en forma de estos enormes cristales dorados que brillan con la misma energía que alimenta el Reloj.
-
-**Características Físicas:**
-- **Tamaño**: Aproximadamente el tamaño de una persona adulta (1.5-2 metros de altura)
-- **Apariencia**: Cristales dorados translúcidos que brillan con una luz temporal pulsante
-- **Textura**: Superficie lisa como vidrio, pero con una resistencia sobrenatural
-- **Energía**: Emiten un zumbido temporal sutil que se puede sentir a distancia
-- **Cantidad Total**: **12 Cristales de Arena** dispersos estratégicamente por toda la región
-
-**⚡ Propiedades Únicas:**
-
-1. **Almacenamiento Temporal**: Cada cristal contiene una reserva concentrada de energía temporal equivalente a **+2 puntos de arena** cuando se destruye (total de +24 puntos si se destruyen los 12 cristales)
-2. **Estabilización Local**: Mientras existen, los cristales estabilizan temporalmente el área circundante (radio de 50 metros), ralentizando ligeramente la caída del contador
-3. **Resonancia con el Reloj**: Los cristales "resuenan" con el Reloj de Arena Gigante, y su destrucción envía una onda de energía temporal directamente al mecanismo principal
-4. **Regeneración**: Tras cada reinicio temporal, los cristales se regeneran en las mismas ubicaciones (si fueron destruidos en el intento anterior)
-
-**🛡️ Los Guardianes del Cristal:**
-
-Cada uno de los 12 Cristales de Arena está protegido por un **Guardián del Cristal**, una criatura temporal única creada por Serapis específicamente para proteger estos recursos vitales. Los Guardianes son:
-
-- **Tipo**: Constructos temporales con consciencia limitada
-- **Nivel de Desafío**: CR 4-6 (varía según la ubicación del cristal)
-- **Apariencia**: Figuras humanoides hechas de arena dorada solidificada, con ojos que brillan como el Reloj
-- **Habilidades Especiales**:
-  - **Reversión Menor**: Pueden revertir pequeñas heridas en sí mismos
-  - **Ataque Temporal**: Sus golpes pueden ralentizar temporalmente a los objetivos
-  - **Vínculo con el Cristal**: Si el cristal está cerca, el guardián se regenera lentamente
-  - **Alerta Temporal**: Detectan cambios en el flujo temporal, alertando de la presencia de intrusos
-
-**📍 Distribución Estratégica:**
-
-Los 12 Cristales de Arena están dispersos estratégicamente por toda la región para:
-- Crear rutas de escape y avance para los PJ
-- Forzar decisiones tácticas sobre qué cristales destruir primero
-- Proporcionar puntos de control temporales en áreas clave
-- Equilibrar el poder entre los aldeanos y Serapis
-
-**💥 Efecto al Destruir un Cristal:**
-
-Cuando un Cristal de Arena es destruido:
-1. **Explosión de Energía Temporal**: Una onda dorada se expande desde el cristal
-2. **+2 Puntos de Arena**: El contador sube inmediatamente en 2 puntos
-3. **Estabilización Momentánea**: El área circundante se estabiliza temporalmente por 1 hora
-4. **Reacción de Serapis**: Serapis puede sentir la destrucción de un cristal y puede enviar refuerzos
-5. **Liberación del Guardián**: El Guardián del Cristal se desvanece o se vuelve inofensivo
-
-**🎯 Importancia Estratégica:**
-
-Los Cristales de Arena son **ESENCIALES** para el éxito de los PJ porque:
-- **Ganancia de Tiempo Masiva**: Destruir los 12 cristales otorga **+24 puntos totales** (más de un día completo de tiempo)
-- **Optimización de Rutas**: Los PJ pueden planificar rutas que pasen por múltiples cristales
-- **Estrategia de Reinicio**: Después de un reinicio, los PJ saben exactamente dónde están los cristales
-- **Equilibrio del Poder**: Los cristales representan una forma de contrarrestar el poder de Serapis
-
-**⚠️ ADVERTENCIA ÚNICA:**
-
-Los Cristales de Arena **SOLO EXISTEN EN ESTA REGIÓN**. No se pueden encontrar, crear o replicar en ninguna otra parte de Chronosia. Son una manifestación única del poder temporal de Serapis y del Reloj de Arena Gigante. Una vez que los PJ abandonen esta región, no volverán a encontrar estos recursos únicos.
+- 200 habitantes que trabajan para mantener el tiempo fluyendo
+- Posada donde los PJ pueden descansar
+- Herrero que puede reparar armas
+- Templo donde se realizan rituales temporales
 
 #### **🗼 La Torre de Serapis (Cumbre de la Montaña)**
 - Fortaleza donde reside Serapis el Retroceso
-- Solo accesible cuando el contador está en 15+ puntos
+- Accesible tras superar las defensas temporales de la región
 - Enfrentamiento final con Serapis
 
 #### **🌲 El Bosque de los Ecos**
 - Árboles que muestran "ecos" de eventos pasados
-- Los PJ pueden ver sus propios intentos anteriores proyectados en los árboles
-- Útil para planificar estrategias después de un reinicio
+- Los PJ pueden ver fragmentos de eventos temporales proyectados en los árboles
+- Útil para obtener información sobre la región y Serapis
 
 ### **Mecánicas de Juego**
 
-#### **⚠️ PRIMERA EXPERIENCIA: TPK Controlado (OBLIGATORIO)**
-
-**Objetivo Narrativo:** Los PJ deben experimentar el reinicio para comprender la mecánica.
-
-**Cómo Ejecutarlo:**
-1. Los PJ llegan a la región al mediodía (Contador en 15 puntos)
-2. No conocen la mecánica del reloj todavía
-3. Exploran, luchan contra enemigos, pierden tiempo
-4. Al anochecer (Contador en ~5 puntos), los aldeanos les advierten: "¡Corred! ¡El reloj está bajando!"
-5. Los PJ intentan llegar al Reloj, pero es demasiado tarde
-6. **Contador llega a 0 → Todos mueren instantáneamente** (describir cómo la arena cae, el tiempo se detiene, todo se oscurece)
-7. **REINICIO**: Los PJ despiertan en el mismo punto donde llegaron, al amanecer (Contador en 20 puntos)
-8. Ahora **saben que pueden reiniciar** y deben planificar mejor
-
-**Diálogo Post-Reinicio:**
-
-> **Guerrero PJ**: "Espera... ¿no acabamos de morir?"  
-> **Mago PJ**: "Estamos de vuelta en la mañana. El reloj... nos ha reiniciado."  
-> **Anciana del Pueblo**: "Ahora lo entendéis, forasteros. Este es nuestro infierno. Cada día, la misma lucha. Pero vosotros... vosotros recordáis. Quizás podáis romper el ciclo."
-
-#### **🎯 Estrategias de los PJ:**
-
-**💎 LOS CRISTALES DE ARENA COMO ELEMENTO CENTRAL:**
-
-Los Cristales de Arena deben ser el **foco principal** de la estrategia de los PJ. Son el recurso más valioso y único de la región, y su destrucción sistemática es clave para el éxito.
-
-**Reinicio 1 (Aprendizaje):**
-- **Exploración de Cristales**: Identifican la ubicación de los 12 Cristales de Arena
-- **Reconocimiento de Guardianes**: Aprenden las tácticas y debilidades de los Guardianes del Cristal
-- **Mapeo de Rutas**: Planifican rutas eficientes que pasen por múltiples cristales
-- **Diálogo con Aldeanos**: Hablan con aldeanos, aprenden sobre el trabajo del tiempo y obtienen información sobre los cristales
-- **Localización de la Torre**: Localizan la Torre de Serapis y entienden los requisitos de acceso
-- **Planificación**: Diseñan una estrategia optimizada para el siguiente intento
-
-**Reinicio 2 (Optimización - Enfoque en Cristales):**
-- **Destrucción Sistemática de Cristales**: Destruyen los 12 Cristales de Arena lo más rápido posible (**+24 puntos totales**, +2 puntos por cristal)
-- **Ruta Optimizada**: Siguen una ruta pre-planificada que maximiza la eficiencia
-- **Combate Estratégico**: Evitan combates innecesarios que consuman tiempo, pero derrotan a los Guardianes del Cristal de forma eficiente
-- **Apoyo a Aldeanos**: Ayudan a aldeanos con trabajo físico solo si tienen tiempo extra (+3-4 puntos adicionales)
-- **Llegada a la Torre**: Llegan a la Torre de Serapis con Contador en 15+ puntos gracias a los cristales
-
-**Reinicio 3 (Ejecución Final - Perfección):**
-- **Ruta Perfecta**: Siguen una ruta perfectamente optimizada basada en los dos intentos anteriores
-- **Destrucción Rápida**: Destruyen todos los cristales en el orden más eficiente
-- **Manejo de Tiempo**: Gestionan el tiempo de forma óptima, evitando acciones que consuman puntos innecesariamente
-- **Enfrentamiento Final**: Llegan a Serapis con tiempo suficiente (20+ puntos) para el combate
-- **Victoria o Derrota Definitiva**: Este es el intento final, no hay más oportunidades
-
-**⚠️ CONSEJO ESTRATÉGICO PARA EL DM:**
-
-Recuerda a los PJ constantemente sobre la importancia de los Cristales de Arena. Los aldeanos pueden mencionarlos, el Maestro Relojero puede explicar su importancia, y los ecos temporales pueden mostrar a los PJ destruyendo cristales en intentos anteriores. Los Cristales de Arena son el elemento que diferencia esta región de todas las demás en Chronosia.
-
 #### **⚔️ COMBATE CONTRA SERAPIS:**
-
-**Mecánica Especial del Jefe:**
-- El combate contra Serapis **consume -1 punto por turno**
-- Serapis tiene **acciones que aceleran la caída de arena**:
-  - **"Arena del Olvido"**: -3 puntos instantáneos
-  - **"Inversión del Reloj"**: Invierte el flujo, ahora cada turno **baja -2 puntos**
-- Los PJ deben derrotarlo **antes de que el Contador llegue a 0**
-- Si el Contador llega a 0 durante el combate, **pierden automáticamente** (reinicio)
 
 #### **Efectos Específicos de Serapis el Retroceso:**
 
 **Durante el Combate:**
 - **Regresión de Heridas**: Puede usar 1 acción para revertir el daño recibido (-10 HP restaurados)
-- **Arena del Olvido**: Reduce el contador en -3 puntos, los PJ olvidan temporalmente sus estrategias
-- **Inversión del Reloj**: Invierte el flujo de arena, ahora baja -2 puntos por turno
 - **Bucle de Acción**: Repite la última acción de un PJ contra él mismo
-- **Eco Temporal**: Convoca una versión débil de un PJ de un reinicio anterior (50% HP, sin recursos)
+- **Eco Temporal**: Convoca una versión débil de un PJ de un momento anterior (50% HP, sin recursos)
+- **Manipulación Temporal**: Puede ralentizar o acelerar el tiempo localmente
 
 **Acciones Legendarias:**
 Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa, incluyendo:
@@ -360,35 +185,23 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 #### **🏆 Victoria:**
 
 Al derrotar a Serapis:
-- El Reloj de Arena se detiene en su posición actual
-- Los aldeanos quedan liberados del bucle eterno
-- El tiempo vuelve a fluir normalmente
-- Los PJ pueden descansar sin perder puntos
-- Recompensa: Elección entre **Arena del Tiempo** O **Reloj de Arena Invertido**
-
-#### **💀 Derrota (4 reinicios fallidos):**
-
-Si los PJ fallan los 4 intentos:
-- Quedan atrapados en el bucle eterno con los aldeanos
-- Deben ser rescatados por NPCs aliados (Anacronistas, La Resistencia)
-- O pueden intentar escapar de otra forma (portal dimensional, ayuda de Varrak)
-- Serapis permanece invicto
+- El Reloj de Arena se detiene
+- Los aldeanos quedan liberados de la manipulación temporal
+- El tiempo vuelve a fluir normalmente en la región
+- Los PJ pueden obtener la **Arena del Tiempo Estabilizada** como recompensa
 
 ### **🎭 Elementos Narrativos Clave**
 
 #### **Momentos Emocionales:**
 
-1. **Primer Reinicio**: El shock de morir y despertar de nuevo
-2. **Los Niños que No Crecen**: Niños que han vivido el mismo día 500 veces, nunca envejecen
-3. **El Maestro Relojero**: Anciano que recuerda cada reinicio, ha perdido la esperanza
-4. **El Sacrificio del Aldeano**: Un aldeano se ofrece a sacrificar su reliquia familiar para dar +5 puntos a los PJ
-5. **La Victoria Final**: Cuando el reloj se detiene, los aldeanos lloran de alegría al ver por primera vez el atardecer sin miedo
+1. **Los Niños que No Crecen**: Niños que han vivido bajo la manipulación temporal de Serapis, algunos nunca han experimentado el tiempo normal
+2. **El Maestro Relojero**: Anciano que conoce los secretos del Reloj y ha perdido la esperanza de ser liberado
+3. **La Victoria Final**: Cuando Serapis es derrotado, los aldeanos lloran de alegría al ver el tiempo fluir normalmente por primera vez en años
 
 #### **Dilemas Morales:**
 
-- ¿Sacrifican objetos mágicos valiosos para ganar tiempo?
-- ¿Ayudan a los aldeanos (gastando tiempo) o van directo a Serapis?
-- ¿Destruyen todos los Cristales (liberan tiempo) o los dejan para los aldeanos?
+- ¿Ayudan a los aldeanos o van directo a enfrentar a Serapis?
+- ¿Cómo manejan la manipulación temporal de Serapis durante el combate?
 
 **Estado de Acceso:** 🔓 **Desbloqueada** - Accesible desde el inicio
 
@@ -398,7 +211,7 @@ Si los PJ fallan los 4 intentos:
 
 **Ubicación**: Región central, zona salvaje de estilo oriental entre las llanuras templadas del norte y las regiones volcánicas del sur
 
-**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO**
 
 **⚠️ PERSONAJE ESPECIAL:** Varrak es el **Oráculo Neutral** que puede convertirse en aliado, siervo o mártir según las acciones de los PJ. Ver [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md) para su sistema completo.
 
@@ -507,7 +320,7 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 
 **Ubicación**: Región central, mansión gótica rodeada de niebla temporal
 
-**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO**
 
 **⚔️ LÍDER DEL BANDO TEMPORAL** - Comanda "Los Sedientos de Tiempo" en la competencia
 
@@ -561,7 +374,7 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 
 **Ubicación**: Región central, jardín petrificado con estatuas vivientes
 
-**🎭 LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎭 LUGARTENIENTE ACTIVO**
 
 **⚠️ NOTA:** Esta región también puede ser compartida con **Las Gemelas del Espejo** (Lugartenientes Dimensionales). El DM puede elegir si ambos lugartenientes coexisten o si solo uno controla la región.
 
@@ -611,7 +424,7 @@ Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para 
 
 **Ubicación**: Región oriental, ruinas de una ciudad antigua
 
-**🎭 LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎭 LUGARTENIENTE ACTIVO**
 
 ### **Descripción Geográfica**
 Las ruinas de una antigua ciudad que existe en múltiples momentos temporales simultáneamente. Edificios que se construyen y destruyen en bucles eternos, calles que muestran diferentes épocas superpuestas, y un constructo de metal y cristal que pulsa con energía temporal en el centro. La ciudad parece estar atrapada en un ciclo infinito de creación y destrucción.

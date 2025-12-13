@@ -15,11 +15,10 @@
 1. [Balance Temporal/Dimensional](#1-balance-temporal-dimensional)
 2. [Desbloqueo de Regiones](#2-desbloqueo-de-regiones)
 3. [Progresión de Niveles de los PJ](#3-progresión-de-niveles-de-los-pj)
-4. [Contador de Arena de Serapis](#4-contador-de-arena-de-serapis)
-5. [Estado de Artefactos](#5-estado-de-artefactos)
-6. [Estado de Lugartenientes](#6-estado-de-lugartenientes)
-7. [Resolución Final y Estado para el Clímax](#7-resolución-final-y-estado-para-el-clímax)
-8. [Resumen General de Sesión](#8-resumen-general-de-sesión)
+4. [Estado de Lugartenientes](#4-estado-de-lugartenientes)
+5. [Anillos de Poder](#5-anillos-de-poder)
+6. [Estado de Máquina Salta-Mundos](#6-estado-de-máquina-salta-mundos)
+7. [Resumen General de Sesión](#7-resumen-general-de-sesión)
 
 ---
 
@@ -138,9 +137,13 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 | **10** | | 10 | 11 | Revelaciones + 1 lugarteniente | |
 | **11** | | 11 | 12 | Evento de Varrak + 1 lugarteniente | |
 | **12** | | 12 | 13 | Derrotar 1-2 lugartenientes | |
-| **13** | | 13 | 13 | Preparación para clímax | |
-| **14** | | 13 | 14 | Atravesar Torre (Niveles 1-4) | |
-| **15** | | 14 | 15 | Combate final (Nivel 5) | |
+| **13** | | 13 | 14 | Preparación para ritual | |
+| **14** | | 14 | 15 | Batalla contra Teach, ritual completado | |
+| **15** | | 15 | 15 | Mundo post-ritual | |
+| **16** | | 15 | 16 | Construcción máquina | |
+| **17** | | 16 | 16 | Viaje al pasado | |
+| **18** | | 16 | 17 | Llegada a tiempo | |
+| **19-20** | | 17 | 20 | Batalla final por fases | |
 
 ### **📝 Tracking Individual de PJ:**
 
@@ -155,83 +158,7 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 
 ---
 
-## 4. **CONTADOR DE ARENA DE SERAPIS (SIMPLIFICADO)**
-
-### **⏰ Tabla de Tracking del Contador de Arena**
-
-**Región:** La Espiral del Reloj de Arena  
-**Lugarteniente:** Serapis el Retroceso  
-**⚠️ SIMPLIFICADO:** Contador reducido de 20 a 10 puntos, 6 cristales en lugar de 12
-
-| **Reinicio** | **Puntos Iniciales** | **Acciones que Bajan** | **Acciones que Suben** | **Puntos Finales** | **Resultado** |
-|--------------|---------------------|------------------------|----------------------|-------------------|---------------|
-| **1** | 10 | | | | |
-| **2** | 10 | | | | |
-| **3** | 10 | | | | |
-| **4** | 10 | | | | ⚠️ Bucle Eterno |
-
-### **📉 Acciones que BAJAN la Arena (SIMPLIFICADO - Registro):**
-
-| **Turno/Hora** | **Acción** | **Puntos Perdidos** | **Puntos Restantes** | **Notas** |
-|----------------|------------|---------------------|----------------------|-----------|
-| | Combate prolongado (cada 3 turnos) | -1 | | |
-| | Hechizo nivel 4+ | -2 | | |
-| | Descanso corto | -2 | | |
-| | Descanso largo | -4 | | |
-| | Muerte de PJ | -2 | | |
-
-### **📈 Acciones que SUBEN la Arena (SIMPLIFICADO - Registro):**
-
-| **Turno/Hora** | **Acción** | **Puntos Ganados** | **Puntos Totales** | **Notas** |
-|----------------|------------|-------------------|-------------------|-----------|
-| | Destruir Cristal de Arena | +3 | | (6 cristales totales) |
-| | Resolver puzzle temporal | +3 | | |
-| | Sacrificar objeto mágico | +5 | | |
-| | Ritual temporal con aldeanos | +4 | | |
-
-### **📝 Notas de Tracking:**
-- **Límite de Reinicios:** 3 veces máximo
-- **Reinicio 1:** Aprendizaje de mecánica
-- **Reinicio 2:** Optimización de estrategia
-- **Reinicio 3:** Última oportunidad
-- **Reinicio 4:** Bucle eterno (deben ser rescatados)
-
----
-
-## 5. **ESTADO DE ARTEFACTOS**
-
-### **💎 Tabla de Estado de Artefactos**
-
-| **Artefacto** | **Ubicación Original** | **Estado Actual** | **Poseedor Actual** | **Sesión** | **Fecha** | **Notas** |
-|---------------|----------------------|-------------------|---------------------|------------|-----------|-----------|
-| **Cronómetro de Realidades** | Cronópolis (Anacronistas) | ⚠️ Robado | Edward Teach | Sesión 4 | | Componente del Talismán |
-| **Perla del Vacío Primordial** | Abysara (Oceánicos de las Profundidades) | ⚠️ Robado | Edward Teach | Sesión 4-5 | | Componente del Talismán |
-| **Talismán de Interceptación Divina** | — | ✅ Creado | Edward Teach | Sesión 5 | | ⚠️ SIEMPRE se crea (evento fijo) |
-| **Rotor Infinito** | Fragmentado | 🔄 En construcción | Ingenieros | Post-campaña | | Núcleo + Carcasa |
-| **Espejo de Realidad Fragmentada** | — | ❓ Desconocido | — | — | | Pendiente |
-| **Arena del Tiempo Estabilizada** | — | ❓ Desconocido | — | — | | Pendiente |
-| **Excavadora Dimensional** | — | ❓ Desconocido | — | — | | Pendiente |
-| **Visión de Varrak** | — | ❓ Desconocido | — | — | | Pendiente |
-
-### **📝 Estados:**
-- **✅ En posesión:** Artefacto está con su dueño legítimo
-- **⚠️ Robado:** Artefacto fue robado
-- **🔄 En construcción:** Artefacto está siendo creado/ensamblado
-- **❓ Desconocido:** Estado no determinado aún
-- **💀 Destruido:** Artefacto fue destruido
-
-### **📋 Cronología de Artefactos:**
-
-| **Sesión** | **Fecha** | **Evento** | **Artefacto** | **Cambio de Estado** |
-|------------|-----------|-----------|---------------|----------------------|
-| 2 | | Los PJ ven el Cronómetro | Cronómetro | ✅ En Cronópolis |
-| 4 | | Robo del Cronómetro | Cronómetro | ⚠️ Robado por Teach |
-| 4-5 | | Robo de la Perla | Perla | ⚠️ Robado por Teach |
-| 5 | | Creación del Talismán | Talismán | ✅ Creado (SIEMPRE - evento fijo) |
-
----
-
-## 6. **ESTADO DE LUGARTENIENTES**
+## 4. **ESTADO DE LUGARTENIENTES**
 
 ### **👑 Tabla de Estado de Lugartenientes**
 
@@ -250,7 +177,7 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 | **Medusa**        | Temporal              | ✅ Activo   | —                    | Jardín Pétreo             |                               |
 | **Tempus**        | Temporal              | ✅ Activo   | —                    | Desierto Espejado         |                               |
 | **Ymir**          | Dimensional           | ✅ Activo   | —                    | Glacialis                 |                               |
-| **Manshoon**      | Líder Supremo         | ✅ Recluido | —                    | Torre de la Eternidad     | Ejecutando ritual             |
+| **Aethernus Valcarys (Manshoon)** | Líder | ✅ Recluido → ⚠️ Dios | —                    | Torre de la Eternidad     | Ejecutando ritual → Se convierte en dios (Fase 4) |
 
 ### **📝 Estados:**
 - **✅ Activo:** Lugarteniente está vivo y activo
@@ -271,66 +198,76 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 
 ---
 
-## 7. **RESOLUCIÓN FINAL Y ESTADO PARA EL CLÍMAX**
+## 5. **ANILLOS DE PODER**
 
-### **📊 Tabla de Estado Final (Sesión 13)**
+### **💍 Tabla de Tracking de Anillos de Poder**
 
-**⚠️ IMPORTANTE:** Completa esta tabla ANTES de la Sesión 13 para determinar el estado final del combate según la narrativa.
+**⚠️ IMPORTANTE:** Los anillos desaparecen 1-2 minutos después de la muerte del portador. El Talismán de Interceptación puede "congelar" anillos para preservarlos.
 
-| **Factor** | **Valor** | **Notas** |
-|------------|-----------|-----------|
-| **Número de Lugartenientes Vivos** | _____ | Lista: _____ |
-| **Lugartenientes Aliados con PJ** | _____ | Lista: _____ |
-| **Edward Teach: ¿Tiene Talismán?** | Sí / No | |
-| **Edward Teach: ¿Está Vivo?** | Sí / No | |
-| **Balance Temporal/Dimensional** | _____ | Diferencia: _____ |
-| **Urgencia Narrativa** | Baja / Media / Alta / Crítica | Basado en eventos narrativos |
+| **Lugarteniente** | **Tipo** | **Estado** | **Anillo Obtenido** | **Sesión** | **Preservado con Talismán** | **Notas** |
+|-------------------|----------|------------|---------------------|------------|----------------------------|-----------|
+| **Serapis** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
+| **Varrak** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
+| **Vorthak** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
+| **Las Gemelas** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
+| **Tempus** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
+| **Ymir** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
+| **Dimensionalis** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
+| **Ignis** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
+| **Veldrisza** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
+| **Las Gemelas** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
+| **Medusa** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
+| **Edward Teach** | Dimensional | ⚠️ Derrotado | Anillo Robado | Sesión 14 | ✅ Sí (Talismán) | Preservado después de batalla |
 
-### **🎯 Matriz de Decisión del Combate Final (Narrativa):**
+### **📊 Anillos Disponibles para Máquina Salta-Mundos:**
 
-| **Lugartenientes Vivos** | **Aliados PJ** | **Edward Teach** | **Escenario Probable** | **Dificultad** |
-|---------------------------|----------------|------------------|------------------------|----------------|
-| **0-2** | **No** | Muerto o sin Talismán | Escenario 1: Solo Manshoon | ⭐⭐⭐ |
-| **1-3** | **No** | Vivo con Talismán | Escenario 2: Manshoon vs Teach vs PJ | ⭐⭐⭐⭐ |
-| **2-4** | **Sí** | Cualquiera | Escenario 3: PJ + Aliados vs Manshoon/Teach | ⭐⭐ |
-| **3-5** | **No** | Vivo con Talismán | Escenario 4: Guerra de Múltiples Bandos | ⭐⭐⭐⭐⭐ |
+| **Anillo** | **Fuente** | **Estado** | **Usado en Máquina** | **Notas** |
+|------------|------------|------------|---------------------|-----------|
+| **Talismán de Teach** | Edward Teach | ✅ Obtenido | Sí / No | Componente clave |
+| **Anillo #1** | _____ | ✅ Obtenido | Sí / No | |
+| **Anillo #2** | _____ | ✅ Obtenido | Sí / No | |
+| **Anillo #3** | _____ | ✅ Obtenido | Sí / No | (Opcional) |
+| **Anillo #4** | _____ | ✅ Obtenido | Sí / No | (Opcional) |
 
-### **📋 Estado Detallado de Lugartenientes para el Clímax:**
-
-| **Lugarteniente** | **Estado** | **¿Aliado PJ?** | **¿En Torre?** | **Notas** |
-|-------------------|------------|-----------------|----------------|-----------|
-| **Vorthak** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Serapis** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Varrak** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Ignis** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Veldrisza** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Edward Teach** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Dimensionalis** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Las Gemelas** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Medusa** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Tempus** | Vivo / Muerto | Sí / No | Sí / No | |
-| **Ymir** | Vivo / Muerto | Sí / No | Sí / No | |
-
-### **📊 Determinación de Finales (Narrativa):**
-
-**Final Determinado:** _____ (A / B / C / D)
-
-**Criterios Narrativos:**
-- **Final A (Manshoon Ascendente):** Si los PJ llegan tarde o no detienen el ritual
-- **Final B (Blackbeard Usurpador):** Si Teach tiene el Talismán y llega primero a la Torre
-- **Final C (Carrera Divina):** Si Teach y Manshoon compiten simultáneamente
-- **Final D (Demasiado Tarde):** Si los PJ llegan cuando el ritual ya está completo
-
-| **Final** | **Estado de Lugartenientes** | **Impacto en Dificultad** | **Modificadores** |
-|-----------|------------------------------|---------------------------|-------------------|
-| **A: Manshoon** | _____ | _____ | _____ |
-| **B: Blackbeard** | _____ | _____ | _____ |
-| **C: Carrera Divina** | _____ | _____ | _____ |
-| **D: Demasiado Tarde** | _____ | _____ | _____ |
+### **📝 Requisitos para Máquina Salta-Mundos:**
+- **Mínimo:** 2 anillos + Talismán de Teach
+- **Recomendado:** 3-4 anillos para mayor estabilidad
+- **Estado:** Los anillos se consumen completamente durante el salto temporal (único uso)
 
 ---
 
-## 8. **RESUMEN GENERAL DE SESIÓN**
+## 6. **ESTADO DE MÁQUINA SALTA-MUNDOS**
+
+### **🚂 Tabla de Estado de la Máquina Salta-Mundos**
+
+| **Componente** | **Estado** | **Sesión** | **Fecha** | **Notas** |
+|----------------|------------|------------|-----------|-----------|
+| **Talismán de Teach** | ✅ Obtenido | Sesión 14 | | Componente clave |
+| **Anillos de Poder** | ⬜ Pendiente | | | Mínimo 2 necesarios |
+| **Construcción** | ⬜ No iniciada | | | Requiere Din Goldgear |
+| **Salto Temporal** | ⬜ No realizado | | | Solo 1 uso posible |
+| **Saltos Espaciales** | ⬜ Disponible | | | Funcionalidad permanente |
+
+### **📝 Estados de la Máquina:**
+- **⬜ No iniciada:** La máquina aún no se ha construido
+- **🔄 En construcción:** Los Gnomos están construyendo la máquina
+- **✅ Completa:** La máquina está lista para usar
+- **⚠️ Salto Temporal Usado:** El salto temporal se ha consumido (único uso)
+- **✅ Funcional (Espacial):** La máquina puede seguir saltando entre planos
+
+### **📋 Cronología de la Máquina:**
+
+| **Sesión** | **Fecha** | **Evento** | **Estado** |
+|------------|-----------|-----------|------------|
+| 14 | | Talismán obtenido de Teach | ✅ Componente clave obtenido |
+| 15 | | Obtención de anillos | ⬜ Pendiente |
+| 16 | | Construcción de máquina | 🔄 En construcción |
+| 17 | | Viaje temporal | ⚠️ Salto temporal usado |
+| Post-campaña | | Saltos espaciales | ✅ Funcional |
+
+---
+
+## 7. **RESUMEN GENERAL DE SESIÓN**
 
 ### **📋 Plantilla de Resumen de Sesión**
 
@@ -396,16 +333,21 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
    - Evalúa urgencia narrativa según eventos
    - Completa el Resumen General de Sesión
 
-3. **Antes de la Sesión 13 (Clímax):**
-   - **COMPLETA la Tabla de Resolución Final** (Sección 7)
-   - Determina qué lugartenientes están vivos y quién es aliado
-   - Evalúa el estado de Edward Teach (¿tiene Talismán? ¿está vivo?)
-   - Determina qué final ocurrirá según la narrativa y decisiones de los PJ
+3. **Antes de la Sesión 13 (Fase 4: Ritual Completado):**
+   - Los PJ intentarán llegar a tiempo al ritual
+   - El ritual está al 92-98%, avanzando rápidamente
+   - Los PJ llegarán tarde (evento fijo)
+   - El ritual se completará y Aethernus se convertirá en dios
 
-4. **Durante la Sesión:**
-   - Si los PJ visitan la región de Serapis, usa la tabla del Contador de Arena
-   - Si hay eventos aleatorios, úsalos narrativamente
+4. **Antes de la Sesión 15 (Fase 5: Viaje al Pasado):**
+   - Determina qué lugartenientes quedan vivos post-ritual (dinámico según decisiones de los PJ)
+   - Verifica que los PJ tienen mínimo 2 anillos + Talismán
+   - La máquina salta-mundos debe estar lista para construir
+
+5. **Durante la Sesión:**
    - Si derrotan a un lugarteniente, actualiza balance y estado
+   - Si obtienen un anillo, actúa rápidamente para preservarlo con el Talismán
+   - Si hay eventos aleatorios, úsalos narrativamente
 
 5. **Revisión Periódica:**
    - Cada 3 sesiones, revisa que todo esté actualizado
@@ -417,9 +359,9 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 ## 🔗 **REFERENCIAS**
 
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro y eventos de desbloqueo
-- **[10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)** - Sistema del Contador de Arena
 - **[08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - Información de regiones y desbloqueos
-- **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema narrativo de competencia entre lugartenientes
+- **[21_Objetos_Magicos_Reliquias.md](./21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)** - Sistema de Anillos de Poder
+- **[00_Documento_Trabajo_Restructuracion.md](../../00_Documento_Trabajo_Restructuracion.md)** - Documento de trabajo de restructuración
 
 ---
 

@@ -36,13 +36,27 @@
 - **Estructura semi-lineal** con **elecciones críticas** (Sesión 11: Varrak)
 - La trama paralela continúa avanzando
 - **Revelación gradual #2:** El ritual de ascensión divina
+- **Preparación para Fase 4:** Los PJ deben estar listos para el asalto final
 
-### **⚔️ FASE 4: CLÍMAX (Sesiones 13-15)**
-- **[00_Guia_General_Fase_4.md](./Fase_4_Climax/00_Guia_General_Fase_4.md)** → **MÚLTIPLES FINALES**
-- **Sesión 13:** Ritual al 98%, llamada de los dioses
-- **Sesión 14:** Asalto a la Torre, determinación del final
-- **Sesión 15:** Combate final según el final elegido
-- **Completamente lineal** una vez determinado el estado final
+### **⚔️ FASE 4: RITUAL COMPLETADO (Sesiones 13-14)**
+- **[00_Guia_General_Fase_4.md](./Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)** → **BATALLA CONTRA TEACH Y RITUAL COMPLETADO**
+- **Sesión 13:** Ritual al 98%, llamada de los dioses, preparación final
+- **Sesión 14:** ⚠️⚠️⚠️ **BATALLA ÉPICA CONTRA TEACH** + **RITUAL SE COMPLETA** + **AETHERNUS SE CONVIERTE EN DIOS**
+- **Completamente lineal** - Los eventos ocurren en secuencia fija
+- **Punto de no retorno:** El mundo cambia permanentemente
+
+### **⏰ FASE 5: VIAJE AL PASADO (Sesiones 15-17)**
+- **[00_Guia_General_Fase_5.md](./Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md)** → **MUNDO POST-RITUAL Y VIAJE TEMPORAL**
+- **Sesión 15:** El mundo post-ritual, obtención de anillos de poder
+- **Sesión 16:** Construcción de la máquina salta-mundos
+- **Sesión 17:** ⚠️⚠️⚠️ **VIAJE AL PASADO** + **FUSIÓN TEMPORAL** + **REBATALLA CONTRA TEACH**
+- **Semi-lineal** - Los PJ eligen qué lugartenientes enfrentar para obtener anillos
+
+### **⚔️ FASE 6: BATALLA FINAL (Sesiones 18-20)**
+- **[00_Guia_General_Fase_6.md](./Fase_6_Batalla_Final/00_Guia_General_Fase_6.md)** → **LLEGADA A TIEMPO Y BATALLA FINAL POR FASES**
+- **Sesión 18:** Llegada a tiempo al ritual, preparación
+- **Sesiones 19-20:** ⚠️⚠️⚠️ **BATALLA FINAL ÉPICA POR FASES** (tipo videojuego)
+- **Completamente lineal** - Batalla final en múltiples fases épicas
 
 ## 🎯 **PARA EL DM**
 
@@ -50,7 +64,8 @@
 - ✅ Sesión 1 (Misión Inicial)
 - ✅ Eventos de la trama paralela (timeline maestro)
 - ✅ Sesiones 8-13 (Revelaciones)
-- ✅ Sesión 15 (Clímax según estado final)
+- ✅ Fase 4: Ritual Completado (Sesiones 13-14)
+- ✅ Fase 6: Batalla Final (Sesiones 18-20)
 
 ### **¿Qué es SANDBOX?**
 - ✅ Sesiones 2-7 (elección de misiones)
@@ -59,25 +74,26 @@
 
 ### **¿Qué es TRAMA PARALELA?**
 - ✅ Avance automático de eventos según timeline
-- ✅ Sistema de puntuaciones del Cónclave
 - ✅ Robos del Talismán (Sesiones 4-5)
 - ✅ Asesinato de Thyra (Sesión 5-6)
 - ✅ Reacciones de lugartenientes (Sesión 6)
+- ⚠️ **NOTA:** El sistema de "Ascensión del Cónclave" ha sido eliminado
 
 ## ⚠️ **RECORDATORIOS CRÍTICOS**
 
 1. **La trama paralela NO depende de los PJ** - avanza automáticamente
-2. **Los PJ pueden influir** en la trama paralela a través del sistema de puntos
-3. **El DM debe consultar** `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` antes de cada sesión
-4. **El sistema narrativo de competencia** se gestiona con `../02_Guia_DM/05_La_Ascension_del_Conclave.md`
-5. **El clímax depende** del recuento final de puntos
+2. **El DM debe consultar** `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` antes de cada sesión
+3. **El ritual se completa la primera vez** - Los PJ llegan tarde (Fase 4)
+4. **Los lugartenientes vivos se determinan dinámicamente** - Dependen de las decisiones de los PJ
+5. **El viaje al pasado es la única forma** de prevenir el ritual (Fase 5)
+6. **La batalla final es por fases** - Tipo videojuego, múltiples fases épicas (Fase 6)
 
 ## 📋 **DOCUMENTOS RELACIONADOS**
 
 ### **Para el DM:**
 - **`../02_Guia_DM/00_Guia_Navegacion_DM.md`** → Guía completa de navegación
 - **`../02_Guia_DM/07_Cronologia_Maestra_Campana.md`** → Timeline maestro
-- **`../02_Guia_DM/05_La_Ascension_del_Conclave.md`** → Sistema narrativo de competencia
+- **`../00_Documento_Trabajo_Restructuracion.md`** → Documento de trabajo de restructuración
 - **`Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md`** → Escenas de revelación
 - **`Fase_0_Railroad_Inicial/04_Kaelthas_El_Relojero_Roto.md`** → Stats de Kaelthas
 
@@ -95,22 +111,28 @@
 ### **Sesiones 2-7 (SANDBOX + TRAMA PARALELA):**
 1. Lee `02_Misiones_Sandbox.md` para misiones disponibles
 2. **ANTES de cada sesión:** Consulta `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para eventos paralelos
-3. **DURANTE la sesión:** Usa `../02_Guia_DM/05_La_Ascension_del_Conclave.md` para gestionar eventos narrativos
-4. **DESPUÉS de la sesión:** Actualiza el estado narrativo de los lugartenientes
+3. **DURANTE la sesión:** Gestiona eventos narrativos según el timeline maestro
+4. **DESPUÉS de la sesión:** Actualiza el estado narrativo de los lugartenientes (tracking dinámico)
 
-### **Sesiones 8-13 (REVELACIONES):**
+### **Sesiones 8-12 (REVELACIONES Y SANDBOX AVANZADO):**
 1. Sigue `Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md` cronológicamente
-2. Continúa usando `../02_Guia_DM/05_La_Ascension_del_Conclave.md` para eventos narrativos
-3. Consulta `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para eventos fijos
+2. Consulta `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para eventos fijos
+3. Los PJ preparan para el asalto final
 
-### **Sesión 14 (RECUENTO):**
-1. **ANTES de la sesión:** Evalúa el estado narrativo final con `../02_Guia_DM/05_La_Ascension_del_Conclave.md`
-2. Determina el estado final de cada lugarteniente
-3. Prepara `03_Climax.md` según los resultados
+### **Sesiones 13-14 (FASE 4: RITUAL COMPLETADO):**
+1. **Sesión 13:** Sigue `Fase_4_Ritual_Completado/01_Sesion_13_El_Camino_al_Ritual.md`
+2. **Sesión 14:** Sigue `Fase_4_Ritual_Completado/02_Sesion_14_Batalla_Teach_Ritual_Completado.md`
+3. **⚠️ CRÍTICO:** El ritual se completa, el mundo cambia permanentemente
 
-### **Sesión 15 (CLÍMAX):**
-1. Lee `03_Climax.md` según el estado calculado
-2. Sigue la estructura del clímax elegido
+### **Sesiones 15-17 (FASE 5: VIAJE AL PASADO):**
+1. **Sesión 15:** Mundo post-ritual, obtención de anillos
+2. **Sesión 16:** Construcción de la máquina salta-mundos
+3. **Sesión 17:** Viaje al pasado, fusión temporal, rebatalla contra Teach
+
+### **Sesiones 18-20 (FASE 6: BATALLA FINAL):**
+1. **Sesión 18:** Llegada a tiempo al ritual, preparación
+2. **Sesiones 19-20:** Batalla final por fases (tipo videojuego)
+3. **Epílogo:** Resolución final de la campaña
 
 ## 🎯 **DETALLES POR FASE**
 
@@ -163,19 +185,19 @@
 - **Sesión 6:** Asesinato de Thyra por Edward Teach
 - **Sesión 6:** Reacciones espontáneas de lugartenientes
 
-**Sistema de Puntos:**
-- Las acciones de los PJ influyen en la trama paralela
-- Cada lugarteniente tiene puntuación
-- El estado final determina el clímax
+**Sistema Dinámico:**
+- Las acciones de los PJ determinan qué lugartenientes quedan vivos post-ritual
+- Los lugartenientes que los PJ no derroten antes del ritual aumentan su poder después
+- El estado final se determina dinámicamente según decisiones de los PJ
 
-### **🔍 FASE 3: REVELACIONES (Sesiones 8-13)**
+### **🌟 FASE 3: SANDBOX AVANZADO (Sesiones 9-12)**
 
-**Objetivo:** Descubrir gradualmente la verdad sobre Manshoon y Edward Teach.
+**Objetivo:** Descubrir gradualmente la verdad sobre Manshoon y el ritual de ascensión.
 
 **Estructura Semi-Lineal:**
-- **Sesiones 8-9:** Descubrimiento de la reclusión de Manshoon
-- **Sesiones 10-11:** Revelación del ritual de ascensión
-- **Sesiones 12-13:** Plan de Edward Teach y ubicación de la Torre
+- **Sesiones 9-10:** Descubrimiento de la reclusión de Manshoon
+- **Sesión 11:** Revelación del ritual de ascensión, elecciones críticas
+- **Sesión 12:** Ritual al 92%, preparación para el asalto final
 
 **Elecciones Dentro de Escenas:**
 - Cómo investigar
@@ -183,19 +205,57 @@
 - Qué información revelar
 - Cómo prepararse para el clímax
 
-### **⚔️ FASE 4: CLÍMAX (Sesiones 14-15)**
+### **⚔️ FASE 4: RITUAL COMPLETADO (Sesiones 13-14)**
 
-**Sesión 14 - Recuento:**
-1. Calcular puntos finales
-2. Determinar estado de cada lugarteniente
-3. Preparar el clímax según resultados
+**⚠️⚠️⚠️ PUNTO DE NO RETORNO:**
 
-**Sesión 15 - Clímax:**
-- **4 finales posibles** según puntuaciones
-- **Manshoon Ascendente:** Si Manshoon gana
-- **Blackbeard el Usurpador:** Si Edward Teach gana
-- **La Carrera Divina:** Si hay empate
-- **Demasiado Tarde:** Si ambos fallan
+**Sesión 13 - El Camino al Ritual:**
+- Llamada de los dioses
+- Revelación de ubicación de la Torre
+- Preparación final
+- Edward Teach parte hacia la Torre
+
+**Sesión 14 - Batalla contra Teach y Ritual Completado:**
+1. **Batalla Épica contra Teach:** Combina 2 poderes, combate desafiante
+2. **Llegada Tarde:** Los PJ llegan tarde al ritual
+3. **Ritual Completado:** Los dioses mueren, Aethernus se convierte en dios
+4. **Consecuencias:** Mundo cambia permanentemente
+
+### **⏰ FASE 5: VIAJE AL PASADO (Sesiones 15-17)**
+
+**Objetivo:** Construir la máquina salta-mundos y viajar al pasado para prevenir el ritual.
+
+**Sesión 15 - El Mundo Post-Ritual:**
+- Exploración del nuevo mundo (campo de batalla multidimensional)
+- Obtención de anillos de poder (mínimo 2 más)
+- Lugartenientes vivos son más poderosos ahora
+
+**Sesión 16 - Construcción de la Máquina:**
+- Los Gnomos construyen la máquina salta-mundos
+- Usan el artefacto de Teach como componente clave
+- Requiere energía divina (anillos de poder)
+
+**Sesión 17 - El Viaje al Pasado:**
+- Viaje temporal al pasado
+- Fusión con "yo del pasado"
+- Rebatalla contra Teach (más sencilla)
+- Llegada a tiempo al ritual
+
+### **⚔️ FASE 6: BATALLA FINAL (Sesiones 18-20)**
+
+**Objetivo:** Prevenir el ritual, liberar a los dioses, derrotar a Aethernus.
+
+**Sesión 18 - Llegada a Tiempo:**
+- Los PJ llegan a tiempo al ritual
+- El ritual está al 95-98% (aún no completado)
+- Preparación para la batalla final
+
+**Sesiones 19-20 - Batalla Final por Fases:**
+- **Fase 1:** Combate inicial contra Aethernus
+- **Fase 2:** Liberación de los dioses
+- **Fase 3:** Combate contra Aethernus potenciado
+- **Fase 4:** Combate final contra Aethernus divino
+- **Fase 5:** Epílogo y resolución
 
 ---
 

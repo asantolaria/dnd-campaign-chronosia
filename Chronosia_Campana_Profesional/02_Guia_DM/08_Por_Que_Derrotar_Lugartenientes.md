@@ -397,3 +397,5 @@ Cada sesión que pasa, el ritual avanza, los lugartenientes se vuelven más pode
 
 *Este documento debe usarse como referencia cuando los PJ necesiten recordar por qué están luchando, o cuando el DM necesite reforzar las motivaciones narrativas de la campaña.* ⚔️✨
 
+
+

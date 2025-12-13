@@ -6,7 +6,7 @@
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 3](./00_Guia_General_Fase_3.md)
 > - [Sesión 11: Momento de Elección](./02_Sesion_11_Momento_Eleccion.md)
-> - [Fase 4: Clímax](../Fase_4_Climax/00_Guia_General_Fase_4.md)
+> - [Fase 4: Ritual Completado](../Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 12
 
 ---

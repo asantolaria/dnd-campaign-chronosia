@@ -390,11 +390,11 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 - **Obtención**: Quest con Ingenieros/Gnomos de Cronópolis
 - **Desbloquea**: Ciudad Subterránea de Veldrisza
 - **Costo**: Materiales + misión específica
-- **Alternativas**: Derrotar Edward Teach O Varrak (visión)
+- **Alternativas**: Derrotar Edward Teach O recibir ayuda de Varrak (si aliado)
 
-### **🔮 Visión de Varrak**
-- **Obtención**: Aliarse con Varrak el Oráculo (acumular puntos positivos)
-- **Desbloquea**: Ciudad Subterránea de Veldrisza (entrada secreta)
+### **🔮 Ayuda de Varrak (Si Aliado)**
+- **Obtención**: Aliarse con Varrak el Oráculo (influencia positiva)
+- **Desbloquea**: Ciudad Subterránea de Veldrisza (entrada secreta mediante visión del futuro)
 - **Costo**: Influencia positiva hasta Sesión 11
 
 ---

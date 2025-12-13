@@ -228,3 +228,5 @@ Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mo
 
 *Los Oceánicos de las Profundidades son guardianes de un legado antiguo, hermanos perdidos de los Anacronistas, y aliados poderosos para aquellos que comparten su vendetta contra Edward Teach.* 🌊✨
 
+
+

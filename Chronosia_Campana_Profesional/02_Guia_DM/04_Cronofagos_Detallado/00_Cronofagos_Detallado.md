@@ -98,7 +98,7 @@
   - Temporales: 5 (Serapis, Varrak, Vorthak, Medusa, Tempus)
   - Dimensionales: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
 - **Lugartenientes Caídos:** 1 (Thyra la Suspendida)
-- **Líder Supremo:** 1 (Aethernus Valcarys)
+- **Líder:** 1 (Aethernus Valcarys)
 - **Total:** 12 lugartenientes + 1 líder supremo
 
 ---
@@ -134,7 +134,7 @@
 - [Signos de Distorsión](#-signos-de-distorsión)
 - [Sistema de Recompensas](#-sistema-de-recompensas-de-los-lugartenientes)
 
-### **👑 Liderazgo Supremo**
+### **👑 Liderazgo**
 - [Aethernus Valcarys](#-aethernus-valcarys-manshoon-clone-47)
   - **Statblock:** [12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md)
 
@@ -144,7 +144,6 @@
 - [Lugartenientes Dimensionales](#-lugartenientes-dimensionales-poder-de-voidar)
   - **Statblocks:** [04_Edward_Teach](./04_Edward_Teach_Barbanegra.md), [05_Dimensionalis](./05_Dimensionalis_La_Fracturada.md), [06_Ignis](./06_Ignis_El_Devorador_Espacial.md), [07_Veldrisza](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md), [08_Las_Gemelas](./08_Las_Gemelas_Del_Espejo.md), [09_Ymir](./09_Ymir_El_Eterno_Invierno.md)
 - [Sistema de Acciones Legendarias](#-sistema-de-acciones-legendarias)
-- [⚔️ La Ascensión del Cónclave](#-la-ascensión-del-cónclave)
 
 ### **🎭 Apariencia y Equipamiento**
 - [Apariencia por Rango](#-apariencia-visual-por-rango-jerárquico)
@@ -158,8 +157,8 @@
 
 ### **📊 ESTRUCTURA JERÁRQUICA SIMPLIFICADA**
 
-#### **👑 LIDERAZGO SUPREMO**
-- **Aethernus Valcarys** (Manshoon Clone #47) - Líder Supremo del Cónclave
+#### **👑 LIDERAZGO**
+- **Aethernus Valcarys** (Manshoon Clone #47) - Líder del Cónclave
 
 #### **👑 LUGARTENIENTES DEL CÓNCLAVE (12 total, 11 activos)**
 - **6 Lugartenientes Temporales** (5 activos + 1 caído) - Maestros de distorsiones temporales
@@ -266,7 +265,7 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 
 - **Raza**: Humano (Clone de Manshoon #47)
 - **Tipo**: Temporal + Dimensional (Poder de Amaunator y Voidar)
-- **Rol**: Líder Supremo
+- **Rol**: Líder del Cónclave
 - **Región**: Torre de la Eternidad
 - **⚔️ Ficha Completa:** [12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md) (Incluye **INFORMACIÓN ULTRA-SECRETA** sobre su verdadero plan, apariencia completa, poderes únicos y descripción narrativa detallada)
 
@@ -276,9 +275,9 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 
 Un consejo originalmente de doce seres de distintas razas, cada uno deformado por su exposición al poder de los dioses en conflicto. Seis recibieron fragmentos del poder temporal de Amaunator, mientras que otros seis absorbieron fragmentos del poder espacial de Voidar.
 
-**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **11 lugartenientes activos** en la campaña, compitiendo por el favor de Aethernus en **"La Ascensión del Cónclave"**.
+**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **11 lugartenientes activos** en la campaña. Los lugartenientes que los PJ no derroten antes del ritual completado aumentarán su poder después (sistema dinámico según decisiones de los PJ).
 
-**📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
+**📖 Ver sistema de anillos de poder:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)
 
 ### **⚔️ Sistema de Acciones Legendarias (Aplicable a Todos los Lugartenientes):**
 
@@ -371,7 +370,7 @@ Si el balance alcanza **desbalance crítico (diferencia de 4+)**, Varrak del Hor
   - El tiempo volvió a fluir normalmente en la región
   - Edward Teach absorbió sus poderes de estasis
   - Las visiones de Varrak se fragmentaron (ya no puede ver futuros de Teach)
-  - Aethernus proclamó "La Ascensión del Cónclave"
+  - La guerra entre lugartenientes comenzó espontáneamente
 - **Región**: Valle de la Aguja Suspendida (ahora restaurada a la normalidad)
 
 **Su poder ahora pertenece a:** Edward Teach "Barbanegra" (Ver acciones legendarias actualizadas)

@@ -6,7 +6,7 @@
 > **📖 NAVEGACIÓN:**
 > - [← Volver al Índice Principal](../00_Estructura_Campana.md)
 > - [Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
-> - [Fase 4: Clímax](../Fase_4_Climax/00_Guia_General_Fase_4.md)
+> - [Fase 4: Ritual Completado](../Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
 
 ---
 
@@ -128,14 +128,21 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 - ❗ **Fragmento de poder divino liberado** cuando un lugarteniente muere
 - ❗ Los PJ tocan el fragmento y escuchan la voz de Amaunator: "El ritual está al 92%. Pronto será irreversible."
 - ❗ **Visión/sueño de Voidar:** Advierte que si el ritual completa, la realidad colapsará
+- ❗ **Urgencia máxima:** Los PJ deben actuar pronto o será demasiado tarde
 
 **Eventos Típicos:**
 - Los PJ deberían haber derrotado 4-6 lugartenientes en total
 - Guerra entre bandos está en su punto máximo
 - Edward Teach está investigando activamente la Torre de la Eternidad
+- **Preparación para Fase 4:** Los PJ deben estar listos para el asalto final
 
 **Progresión de Niveles:**
 - **Sesión 12:** Nivel 12 → 13
+
+**⚠️ TRANSICIÓN A FASE 4:**
+- Después de esta sesión, los PJ deben estar preparados para el asalto final
+- El ritual está al 92-95%, avanzando rápidamente
+- La siguiente fase será completamente lineal: intento de llegar al ritual a tiempo
 
 ---
 

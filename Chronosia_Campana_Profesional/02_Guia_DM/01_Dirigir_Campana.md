@@ -8,8 +8,8 @@
 
 > **📖 DOCUMENTOS CLAVE:**
 > - **[04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ Vista general de lugartenientes (ver archivos individuales para statblocks completos)
-> - **[05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia + Resolución final
 > - **[07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md)** - ⭐ Timeline maestro completo
+> - **[00_Documento_Trabajo_Restructuracion.md](../../00_Documento_Trabajo_Restructuracion.md)** - ⭐ Documento de trabajo de restructuración
 > - **[08_Por_Que_Derrotar_Lugartenientes.md](./08_Por_Que_Derrotar_Lugartenientes.md)** - ⭐ Motivos narrativos y mecánicos por los que los PJ deben enfrentarse a los lugartenientes
 > - **[05_Encuentro_Anacronistas_Relojeros.md](../04_Aventuras/Fase_2_Sandbox_Inicial/05_Encuentro_Anacronistas_Relojeros.md)** - ⭐ Contador del Ritual (Sesión 8-9)
 > - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Regiones y niveles
@@ -38,15 +38,15 @@ La campaña tiene **12 lugartenientes activos** inicialmente (6 de cada tipo):
 
 ### **📋 Lista de Verificación Pre-Campaña**
 - [ ] Leer [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) - Vista general de lugartenientes (ver archivos individuales para statblocks completos)
-- [ ] Leer [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md) - Sistema de competencia y resolución final
 - [ ] Leer [07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md) - Timeline maestro
 - [ ] Revisar [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md) - Regiones
 - [ ] Revisar [00_Estructura_Campana.md](../04_Aventuras/00_Estructura_Campana.md) - Estructura de fases
 - [ ] Preparar tablas de tracking (ver [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md))
-- [ ] Preparar encuentros para niveles 3-15
+- [ ] Preparar encuentros para niveles 3-20
 - [ ] **Familiarizarse con sistema de balance temporal/dimensional**
 - [ ] **Memorizar diálogos de explicadores del balance**
-- [ ] **Revisar resolución final de lucha de poder** (ver sección en [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax))
+- [ ] **Revisar sistema de anillos de poder** (ver [21_Objetos_Magicos_Reliquias.md](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes))
+- [ ] **Revisar nueva narrativa del ritual completado** (ver [Fase 4: Ritual Completado](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md))
 
 ---
 
@@ -153,12 +153,24 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **Revelación gradual #2**: El ritual de ascensión divina (Sesión 10)
 - **📖 Guía completa:** [00_Guia_General_Fase_3.md](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
 
-### **⚔️ FASE 4: CLÍMAX (Sesiones 13-15)**
-- **Objetivo**: Resolver la trama principal y enfrentar al villano final
-- **Estilo**: Completamente lineal una vez determinado el estado final
-- **Elementos**: Llamada de los dioses → Asalto a la Torre → Combate final
-- **Múltiples finales**: A (Manshoon), B (Blackbeard), C (Carrera Divina), D (Demasiado Tarde)
-- **📖 Guía completa:** [00_Guia_General_Fase_4.md](../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md)
+### **⚔️ FASE 4: RITUAL COMPLETADO (Sesiones 13-14)**
+- **Objetivo**: Batalla contra Teach, ritual se completa, Aethernus se convierte en dios
+- **Estilo**: Completamente lineal - eventos fijos
+- **Elementos**: Llamada de los dioses → Batalla contra Teach → Ritual completado → Mundo cambia
+- **⚠️ PUNTO DE NO RETORNO**: El mundo cambia permanentemente
+- **📖 Guía completa:** [00_Guia_General_Fase_4.md](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
+
+### **⏰ FASE 5: VIAJE AL PASADO (Sesiones 15-17)**
+- **Objetivo**: Construir máquina salta-mundos y viajar al pasado
+- **Estilo**: Semi-lineal - los PJ eligen qué lugartenientes enfrentar para obtener anillos
+- **Elementos**: Mundo post-ritual → Construcción máquina → Viaje temporal → Rebatalla contra Teach
+- **📖 Guía completa:** [00_Guia_General_Fase_5.md](../04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md)
+
+### **⚔️ FASE 6: BATALLA FINAL (Sesiones 18-20)**
+- **Objetivo**: Prevenir el ritual, liberar dioses, derrotar a Aethernus
+- **Estilo**: Completamente lineal - batalla por fases
+- **Elementos**: Llegada a tiempo → Batalla final por fases → Epílogo
+- **📖 Guía completa:** [00_Guia_General_Fase_6.md](../04_Aventuras/Fase_6_Batalla_Final/00_Guia_General_Fase_6.md)
 
 ---
 
@@ -192,11 +204,21 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **Sesión 12**: ⚠️ Ritual al 92%, urgencia máxima (Nivel 12-13)
 - **📖 Timeline completo:** [00_Guia_General_Fase_3.md](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md#-timeline-de-esta-fase)
 
-### **⚔️ FASE 4: Sesiones 13-15 (Clímax)**
-- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual casi completo (Nivel 13)
-- **Sesión 14**: Asalto a la Torre (5 niveles), determinación del final (Nivel 14)
-- **Sesión 15**: Combate final (uno de 4 finales posibles) (Nivel 15)
-- **📖 Timeline completo:** [00_Guia_General_Fase_4.md](../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md#-timeline-de-esta-fase)
+### **⚔️ FASE 4: Sesiones 13-14 (Ritual Completado)**
+- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual al 98%, preparación final (Nivel 13-14)
+- **Sesión 14**: ⚠️⚠️⚠️ Batalla contra Teach, ritual completado, Aethernus se convierte en dios (Nivel 14-15)
+- **📖 Timeline completo:** [00_Guia_General_Fase_4.md](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md#-timeline-de-esta-fase)
+
+### **⏰ FASE 5: Sesiones 15-17 (Viaje al Pasado)**
+- **Sesión 15**: Mundo post-ritual, obtención de anillos de poder (Nivel 15)
+- **Sesión 16**: Construcción de la máquina salta-mundos (Nivel 15-16)
+- **Sesión 17**: ⚠️⚠️⚠️ Viaje al pasado, fusión temporal, rebatalla contra Teach (Nivel 16)
+- **📖 Timeline completo:** [00_Guia_General_Fase_5.md](../04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md#-timeline-de-esta-fase)
+
+### **⚔️ FASE 6: Sesiones 18-20 (Batalla Final)**
+- **Sesión 18**: Llegada a tiempo al ritual, preparación (Nivel 16-17)
+- **Sesiones 19-20**: ⚠️⚠️⚠️ Batalla final por fases (tipo videojuego) (Nivel 17-20)
+- **📖 Timeline completo:** [00_Guia_General_Fase_6.md](../04_Aventuras/Fase_6_Batalla_Final/00_Guia_General_Fase_6.md#-timeline-de-esta-fase)
 
 ---
 
@@ -240,16 +262,17 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
    - Usa diálogos de explicadores cuando haya desbalance
    - Aplica consecuencias inmediatamente
 
-2. **Competencia Narrativa (La Ascensión del Cónclave):**
-   - Evalúa narrativamente qué lugartenientes han ganado poder después de cada evento importante
-   - Supremos determinados narrativamente según logros (máximo 3)
-   - Ver [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md) para detalles
+2. **Sistema Dinámico de Lugartenientes:**
+   - Los lugartenientes vivos post-ritual se determinan dinámicamente por decisiones de los PJ
+   - Los que los PJ no derroten antes del ritual aumentan su poder después (CR +2-3)
+   - No hay sistema de "Supremos" - todos los vivos reciben poder divino
+   - Ver [00_Documento_Trabajo_Restructuracion.md](../../00_Documento_Trabajo_Restructuracion.md) para detalles
 
-3. **Preparación del Clímax (ANTES de Sesión 13):**
-   - Completa [Tabla de Resolución Final](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#9-resolución-final-y-estado-para-el-clímax)
-   - Determina estado de lugartenientes (vivos, Supremos, aliados)
-   - Calcula escenario del combate final
-   - **📖 Detalles completos:** [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax)
+3. **Preparación para Fase 4 (ANTES de Sesión 13):**
+   - Los PJ deben estar preparados para la batalla contra Teach
+   - El ritual está al 92-98%, avanzando rápidamente
+   - Los PJ intentarán llegar a tiempo pero llegarán tarde
+   - **📖 Detalles completos:** [Fase 4: Ritual Completado](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
 
 ---
 
@@ -258,7 +281,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 ### **Eventos Catalizadores (Fase 1)**
 - **Sesión 4**: ⚠️ Robo del Cronómetro (Catalizador #1)
 - **Sesión 5-6**: ⚠️⚠️ Asesinato de Thyra (Catalizador #2 - EL MÁS IMPORTANTE)
-- **Sesión 6**: ⚠️⚠️⚠️ Guerra espontánea comienza (La Ascensión del Cónclave se desencadena)
+- **Sesión 6**: ⚠️⚠️⚠️ Guerra espontánea comienza (lugartenientes reaccionan al asesinato)
 - **Impacto**: Cambia completamente el curso de la campaña
 
 ### **Revelaciones Graduales (Fases 2-3)**
@@ -272,19 +295,23 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **Sesión 11**: ⚠️⚠️ Las Gemelas eligen bando
 - **Impacto**: Determina aliados y enemigos para el clímax
 
-### **Resolución Final (Antes de Sesión 13)**
-- **Cuándo**: Antes de la Sesión 13
-- **Qué calcular**: Estado de lugartenientes, Supremos, aliados, balance
-- **Cómo**: Usar [Tabla de Resolución Final](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#9-resolución-final-y-estado-para-el-clímax)
-- **Impacto**: Determina la dificultad y el escenario del combate final
-- **📖 Detalles completos:** [05_La_Ascension_del_Conclave.md](./05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax)
+### **Ritual Completado (Fase 4)**
+- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual al 98%, preparación final
+- **Sesión 14**: ⚠️⚠️⚠️ Batalla contra Teach, ritual completado, Aethernus se convierte en dios
+- **Impacto**: El mundo cambia permanentemente - punto de no retorno
+- **Consecuencias**: Lugartenientes vivos aumentan poder, portales se abren, invasión comienza
 
-### **Clímax (Fase 4)**
-- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual casi completo
-- **Sesión 14**: Asalto a la Torre, determinación del final
-- **Sesión 15**: Combate final (uno de 4 finales posibles)
+### **Viaje al Pasado (Fase 5)**
+- **Sesión 15**: Mundo post-ritual, obtención de anillos de poder
+- **Sesión 16**: Construcción de la máquina salta-mundos
+- **Sesión 17**: ⚠️⚠️⚠️ Viaje temporal, fusión con yo del pasado, rebatalla contra Teach
+- **Impacto**: Única oportunidad de cambiar el pasado
+
+### **Batalla Final (Fase 6)**
+- **Sesión 18**: Llegada a tiempo al ritual, preparación
+- **Sesiones 19-20**: ⚠️⚠️⚠️ Batalla final por fases (tipo videojuego)
 - **Impacto**: Determina el futuro del multiverso
-- **Consecuencias**: Efectos permanentes en la realidad
+- **Consecuencias**: Restauración del equilibrio cósmico o derrota final
 
 ---
 

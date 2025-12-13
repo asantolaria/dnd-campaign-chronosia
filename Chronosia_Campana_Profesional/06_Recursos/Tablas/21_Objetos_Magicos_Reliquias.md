@@ -21,6 +21,13 @@
 - [Excavadora Dimensional](#-excavadora-dimensional)
 - [Rotor Infinito](#-rotor-infinito)
 
+### **💍 Anillos de Poder de los Lugartenientes**
+- [Sistema de Anillos de Poder](#-sistema-de-anillos-de-poder-de-los-lugartenientes)
+- [Mecánica de Vinculación con Aethernus](#-mecánica-de-vinculación-con-aethernus)
+- [Mecánica de Anillos Robados](#-mecánica-de-anillos-robados)
+- [Integración con Talismán de Interceptación](#-integración-con-talismán-de-interceptación)
+- [Requisitos para la Máquina Salta-Mundos](#-requisitos-para-la-máquina-salta-mundos)
+
 ### **👑 Objetos de NPCs Importantes**
 - [Objetos de Aethernus Valcarys](#-objetos-de-aethernus-valcarys-manshoon)
 - [Objetos de Lugartenientes](#-objetos-de-lugartenientes)
@@ -365,8 +372,8 @@ Un espejo circular de 3 pies de diámetro con marco de plata ornamentada. La sup
 3. **Región:** La Espiral del Reloj de Arena
 
 **Requisitos:**
-- **Completar la Mecánica del Reloj de Arena:** Los PJ deben resolver el sistema de puntos (0-20 puntos) para acceder a Serapis
-- **Estrategia:** Pueden usar hasta 3 reinicios para optimizar su estrategia
+- **Derrotar a Serapis:** Los PJ deben enfrentar y derrotar a Serapis el Retroceso
+- **Nivel Recomendado:** 5-7 (primera región recomendada)
 - **Nota:** Serapis es el primer lugarteniente recomendado para enfrentar
 
 **Uso Post-Obtención:**
@@ -442,7 +449,7 @@ Un reloj de arena de 2 pies de altura con estructura de bronce antiguo. La arena
 
 **Uso Post-Obtención:**
 - **Desbloquea:** Permite acceder a La Ciudad Subterránea de Veldrisza
-- **Alternativa:** Si los PJ derrotan a Edward Teach o obtienen la Visión de Varrak, pueden acceder sin la Excavadora
+- **Alternativa:** Si los PJ derrotan a Edward Teach o reciben ayuda de Varrak del Horizonte (aliado), pueden acceder sin la Excavadora
 
 #### **📜 Historia:**
 Artefacto gnomo creado por Din Goldgear en colaboración con los Ingenieros de Cronópolis. Diseñado específicamente para excavar túneles dimensionales que conectan regiones subterráneas sin usar portales mágicos tradicionales.
@@ -566,6 +573,214 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 - Requiere Din Goldgear o un Artífice de nivel 9+ para ensamblar
 - Requiere 1 semana de trabajo continuo
 - Requiere materiales adicionales (5000 po en materiales)
+
+---
+
+## 💍 **SISTEMA DE ANILLOS DE PODER DE LOS LUGARTENIENTES**
+
+### **💍 Anillos de Poder de los Lugartenientes**
+
+**Tipo:** Artefacto (Requiere Sintonización con Aethernus)  
+**Rareza:** Artefacto Único (Cada uno)  
+**Peso:** 0.1 libras  
+**Creador:** Aethernus Valcarys (Manshoon)  
+**Cantidad Total:** 12 anillos (uno por cada lugarteniente original)  
+**Estado Actual:** 11 anillos activos (Thyra la Suspendida fue asesinada, su anillo desapareció)
+
+#### **📍 Ubicación y Obtención:**
+
+**Ubicación:**
+- **Poseedores:** Cada lugarteniente activo tiene un anillo
+- **Estado:** Los anillos están vinculados mágicamente a sus portadores
+- **Distribución:** 6 anillos temporales (lugartenientes temporales) + 6 anillos dimensionales (lugartenientes dimensionales)
+
+**Cómo Obtenerlos:**
+1. **Derrotar a un Lugarteniente:** Al derrotar a un lugarteniente, su anillo puede ser obtenido
+2. **⚠️ CRÍTICO - Desaparición:** Los anillos desaparecen al poco tiempo (1-2 minutos) después de la muerte de su portador
+3. **Solución:** El Talismán de Interceptación Divina puede "congelar" temporalmente un anillo para preservarlo
+4. **Requisito:** Los PJ deben actuar rápidamente después de derrotar a un lugarteniente
+
+**Requisitos para la Máquina Salta-Mundos:**
+- **Mínimo:** 2 anillos + Talismán de Teach
+- **Recomendado:** 3-4 anillos para mayor estabilidad
+- **Función:** Los anillos proporcionan energía divina pura necesaria para el salto temporal
+
+#### **📜 Historia:**
+
+Cuando Aethernus Valcarys (Manshoon Clone #47) comenzó a otorgar poder a sus lugartenientes, creó estos anillos como **canalizadores mágicos** que conectan directamente a cada lugarteniente con su poder divino. Los anillos son idénticos a los que Aethernus porta en sus propias manos, creando una **vinculación mágica** entre el portador y el dios en ascensión.
+
+Cada anillo está diseñado con la forma de una **serpiente en forma de infinito** (∞), simbolizando la conexión eterna entre el portador y el poder divino. Esta forma también representa la naturaleza cíclica del tiempo y el espacio que Aethernus busca controlar.
+
+#### **🎨 Descripción Física:**
+
+Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una **serpiente que se muerde la cola formando el símbolo del infinito (∞)**. La serpiente está tallada con detalles exquisitos, con escamas visibles y ojos que parecen brillar con luz divina (dorada para anillos temporales, púrpura para anillos dimensionales).
+
+**Dimensiones:** Tamaño ajustable (se adapta al portador)  
+**Material:** Hierro negro o adamantina, con incrustaciones de poder divino  
+**Peso:** 0.1 libras  
+**Brillo:** Los anillos emiten un brillo suave constante (dorado para temporales, púrpura para dimensionales)
+
+**Efectos Visuales:**
+- Los anillos pulsan sutilmente con poder divino
+- Cuando Aethernus otorga poder, los anillos brillan intensamente
+- Los anillos de lugartenientes temporales brillan en dorado
+- Los anillos de lugartenientes dimensionales brillan en púrpura
+
+#### **⚡ Propiedades Mágicas:**
+
+**Canalización de Poder Divino (Pasivo):**
+- El anillo canaliza poder divino directamente de Aethernus al portador
+- Aumenta las capacidades mágicas del portador según su especialización (temporal o dimensional)
+- El portador recibe **+1 a todas las tiradas de salvación** mientras porta el anillo
+- El portador recibe **+1 a todas las tiradas de ataque con magia** mientras porta el anillo
+
+**Amplificación de Poderes (Pasivo):**
+- **Anillos Temporales:** Amplifican poderes temporales del portador (+1 nivel de hechizos temporales, máximo nivel 9)
+- **Anillos Dimensionales:** Amplifican poderes dimensionales del portador (+1 nivel de hechizos dimensionales, máximo nivel 9)
+- Los poderes del portador se vuelven más potentes y eficientes
+
+**Fuente de Energía Divina (Pasivo):**
+- El anillo contiene energía divina pura que puede ser extraída
+- **Energía Total:** Equivalente a un hechizo de nivel 9 (una vez consumido, el anillo se desvanece)
+- **Uso en Máquina Salta-Mundos:** Los anillos proporcionan la energía necesaria para el salto temporal
+- **Limitación:** Una vez que la energía se consume completamente, el anillo desaparece permanentemente
+
+**Vinculación con Aethernus (Pasivo):**
+- El anillo está vinculado mágicamente al anillo correspondiente de Aethernus
+- Aethernus puede detectar la ubicación del portador a través del anillo
+- Aethernus puede otorgar poder adicional al portador a través del anillo
+- Si Aethernus muere o se convierte en dios, la vinculación se rompe
+
+#### **🔗 Mecánica de Vinculación con Aethernus:**
+
+**Conexión Mágica:**
+- Cada anillo de lugarteniente está vinculado a un anillo específico de Aethernus
+- La vinculación permite comunicación, transferencia de poder, y detección
+- Los anillos forman una red mágica que conecta a todos los lugartenientes con Aethernus
+
+**Comunicación:**
+- Aethernus puede comunicarse con cualquier lugarteniente a través del anillo
+- Los lugartenientes pueden comunicarse entre sí usando los anillos (con permiso de Aethernus)
+- La comunicación es telepática y no requiere palabras
+
+**Transferencia de Poder:**
+- Aethernus puede otorgar poder adicional a un lugarteniente a través del anillo
+- Cuando Aethernus se convierte en dios, todos los lugartenientes vivos reciben poder divino a través de sus anillos
+- Los lugartenientes vivos aumentan su poder (CR +2-3) después del ritual completado
+
+**Detección:**
+- Aethernus puede detectar la ubicación de cualquier lugarteniente a través del anillo
+- Si un lugarteniente muere, Aethernus lo detecta inmediatamente
+- Los anillos pueden detectar la presencia de otros anillos en un radio de 1 milla
+
+**Control (Limitado):**
+- Aethernus tiene control limitado sobre los anillos
+- No puede forzar acciones, pero puede otorgar o retirar poder
+- Si un lugarteniente traiciona, Aethernus puede intentar retirar el poder (CD 25 de Carisma para resistir)
+
+#### **⚠️ Mecánica de Anillos Robados:**
+
+**Anillo Robado de Teach:**
+- Edward Teach robó un anillo de otro lugarteniente (antes de la batalla contra los PJ)
+- El anillo robado **NO desaparece** después de la batalla contra Teach
+- **Razón:** El Talismán de Interceptación Divina "congela" temporalmente el anillo robado
+- **Mecánica:** El Talismán intercepta la magia que normalmente haría desaparecer el anillo
+
+**Por Qué el Anillo Robado No Desaparece:**
+1. **Poder Robado:** El anillo fue robado usando poder robado, no otorgado directamente por Aethernus
+2. **Talismán de Interceptación:** El Talismán intercepta la magia de desaparición
+3. **Vinculación Rota:** La vinculación con Aethernus está parcialmente rota (el anillo no está completamente vinculado)
+4. **Congelación Temporal:** El Talismán "congela" el anillo en el tiempo, previniendo su desaparición
+
+**Anillo Propio de Teach:**
+- Teach tiene su propio anillo (otorgado por Aethernus)
+- Este anillo **SÍ desaparece** después de la batalla (comportamiento normal)
+- Los PJ pueden obtener el anillo robado si actúan rápidamente y usan el Talismán
+
+#### **🔧 Integración con Talismán de Interceptación:**
+
+**Capacidad de Congelación:**
+- El Talismán de Interceptación Divina puede "congelar" temporalmente un anillo
+- **Mecánica:** El Talismán intercepta la magia que hace desaparecer el anillo
+- **Duración:** El anillo permanece estable mientras esté en contacto con el Talismán
+- **Limitación:** Solo puede congelar un anillo a la vez
+
+**Cómo Preservar un Anillo:**
+1. **Derrotar al Lugarteniente:** Los PJ derrotan al lugarteniente
+2. **Actuar Rápidamente:** Los PJ tienen 1-2 minutos antes de que el anillo desaparezca
+3. **Usar el Talismán:** Los PJ tocan el anillo con el Talismán de Interceptación
+4. **Congelación:** El Talismán congela el anillo, previniendo su desaparición
+5. **Preservación:** El anillo permanece estable mientras esté en contacto con el Talismán
+
+**Uso en Máquina Salta-Mundos:**
+- Los anillos preservados pueden ser usados como fuente de energía para la máquina
+- El Talismán puede mantener múltiples anillos congelados si están en contacto
+- Los anillos proporcionan energía divina pura necesaria para el salto temporal
+
+#### **🚂 Requisitos para la Máquina Salta-Mundos:**
+
+**Energía Necesaria:**
+- **Mínimo:** 2 anillos + Talismán de Teach
+- **Recomendado:** 3-4 anillos para mayor estabilidad
+- **Máximo:** 5-6 anillos (más allá de esto, la energía es excesiva y peligrosa)
+
+**Por Qué Se Necesitan Anillos Específicamente:**
+1. **Energía Divina Pura:** Los anillos contienen energía divina pura de Aethernus
+2. **Canalización Directa:** Los anillos pueden canalizar poder directamente a la máquina
+3. **Estabilidad:** La energía divina es más estable que otras fuentes de poder
+4. **Vinculación Temporal:** Los anillos tienen vinculación temporal que puede ser aprovechada
+
+**Proceso de Uso:**
+1. **Integración:** Los anillos se integran en la máquina salta-mundos
+2. **Canalización:** La máquina canaliza la energía divina de los anillos
+3. **Salto Temporal:** La energía se consume para realizar el salto temporal (único uso)
+4. **Consumo:** Después del salto temporal, los anillos se consumen completamente
+5. **Funcionalidad Permanente:** La máquina puede seguir funcionando para saltos espaciales (no temporales)
+
+**Limitación Crítica:**
+- **Solo UN salto temporal:** La máquina solo puede hacer un salto temporal
+- **Después del salto:** Las fuentes de poder temporal se agotan
+- **Funcionalidad permanente:** La máquina puede seguir saltando entre planos (no temporales)
+- **Función post-campaña:** Comunica el plano de Chronosia con el resto del multiverso
+
+#### **📊 Tabla de Anillos por Lugarteniente:**
+
+| **Lugarteniente** | **Tipo** | **Estado** | **Anillo** | **Notas** |
+|-------------------|----------|------------|------------|-----------|
+| **Serapis el Retroceso** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Varrak del Horizonte** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Vorthak el Devorador** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Las Gemelas del Espejo** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Tempus el Inmutable** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Ymir el Eterno Invierno** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Thyra la Suspendida** | Temporal | ⚠️ Muerta | ❌ Desaparecido | Asesinada por Teach |
+| **Dimensionalis la Fracturada** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
+| **Ignis el Devorador Espacial** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
+| **Matrona Veldrisza** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
+| **Edward Teach "Barbanegra"** | Dimensional | ⚠️ Derrotado | Anillo Robado | Preservado con Talismán |
+| **Medusa la Paralizante** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
+
+**⚠️ NOTA:** El estado de los lugartenientes es **dinámico** y depende de las decisiones de los PJ durante la campaña. Los lugartenientes que los PJ no derroten antes del ritual quedan vivos post-ritual y aumentan su poder.
+
+#### **💡 Consejos para el DM:**
+
+**Obtención de Anillos:**
+- Los PJ deben planificar estratégicamente qué lugartenientes derrotar
+- Deben tener el Talismán de Teach antes de intentar preservar anillos
+- Deben actuar rápidamente después de derrotar a un lugarteniente (1-2 minutos)
+- Pueden obtener más anillos de los necesarios (opcional, para mayor estabilidad)
+
+**Mecánica de Desaparición:**
+- Los anillos desaparecen 1-2 minutos después de la muerte del portador
+- El Talismán puede prevenir la desaparición si se usa a tiempo
+- Si los PJ no tienen el Talismán, el anillo desaparece permanentemente
+- Esto crea urgencia y tensión narrativa
+
+**Uso en Máquina:**
+- Los anillos son consumidos completamente durante el salto temporal
+- Después del salto, los anillos no pueden ser recuperados
+- La máquina puede seguir funcionando para saltos espaciales
+- Esto limita el uso temporal a una sola vez
 
 ---
 
@@ -737,7 +952,7 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 - **Lugar:** La Ciudad Subterránea de Veldrisza (región de Veldrisza)
 - **Poseedor:** Matrona Veldrisza
 - **Cómo Obtenerlos:** Derrotar a Veldrisza (Nivel 9-11)
-- **Nota:** Requiere la Excavadora Dimensional o la Visión de Varrak para acceder
+- **Nota:** Requiere la Excavadora Dimensional o ayuda de Varrak del Horizonte (aliado) para acceder
 
 **Bastón de Telarañas Dimensionales:**
 - **Tipo:** Bastón +2

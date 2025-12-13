@@ -13,29 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronosia_Campana_Profesional/03_Regiones/10_Regiones_Temporales.md",
+                "file": "El alzamiento de Tiamat - Sandbox/05_Aventuras/00_Estructura_Aventuras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10_Regiones_Temporales"
+              "title": "00_Estructura_Aventuras"
             }
           },
           {
-            "id": "a20f5cc4612f7095",
+            "id": "19b5787bfeac7f9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chronosia_Campana_Profesional/00_Esquemas/01_Sandbox.md",
+                "file": "El alzamiento de Tiamat - Sandbox/01_Modificaciones_Personalizadas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Sandbox"
+              "title": "01_Modificaciones_Personalizadas"
+            }
+          },
+          {
+            "id": "c9b10c59d2ef6af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_Tabla_Misiones_Consejo"
+            }
+          },
+          {
+            "id": "24db417cb7ef74f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO04_Mision_Cultista_Cautivo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AO04_Mision_Cultista_Cautivo"
+            }
+          },
+          {
+            "id": "4a969fa29a92662f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO02_Mision_Poder_Culto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AO02_Mision_Poder_Culto"
+            }
+          },
+          {
+            "id": "634830b249c399a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO01_Mision_Alzamiento_Monstruoso.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AO01_Mision_Alzamiento_Monstruoso"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -184,34 +241,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "62eba603b4934406",
+  "active": "634830b249c399a7",
   "lastOpenFiles": [
-    "Chronosia_Campana_Profesional/ANALISIS_INCONSISTENCIAS_REGIONES.md",
-    "Chronosia_Campana_Profesional/03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_2_Sandbox_Inicial/Misiones_Sandbox.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/08_Por_Que_Derrotar_Lugartenientes.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_1_Robos_Traicion/04_Sesion_5-6_Asesinato_Thyra.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_1_Robos_Traicion/04_Despues_3er_Lugarteniente_Asesinato_Thyra.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_1_Robos_Traicion/03_Despues_3er_Lugarteniente_Creacion_Talisman.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_1_Robos_Traicion/02_Despues_2do_Lugarteniente_Robo_Cronometro.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_2_Sandbox_Inicial/01_Sesion_6-7_Exploracion_Libre.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_1_Robos_Traicion/01_Despues_1er_Lugarteniente_Robo_Perla.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/03_NPCs_Importantes.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_0_Railroad_Inicial/04_Kaelthas_El_Relojero_Roto.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_0_Railroad_Inicial/05_Kaelthas_El_Infiltrado_Dimensional.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_0_Railroad_Inicial/01_Sesion_1_Asesinato_Waterdeep.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md",
-    "Chronosia_Campana_Profesional/04_Aventuras/Fase_0_Railroad_Inicial/03_Sesion_3_Primera_Mision.md",
-    "Chronosia_Campana_Profesional/Simulacion_Chronosia.md",
-    "Chronosia_Campana_Profesional/agents.md",
-    "Chronosia_Campana_Profesional/00_Esquema_Campana_Mermaid.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/10_Validacion_Informacion_Ultra_Secreta.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/06_Eventos_Ascension_Conclave.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/09_Ganchos_Narrativos_Lugartenientes.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/07_Cronologia_Maestra_Campana.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/05_La_Ascension_del_Conclave.md",
+    "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN13_Mision_Enclave_Llamas.md",
+    "El alzamiento de Tiamat - Sandbox/01_Modificaciones_Personalizadas.md",
+    "El alzamiento de Tiamat - Sandbox/02_Resumen_Campana.md",
+    "El alzamiento de Tiamat - Sandbox/03_Referencias_Original.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/00_Estructura_Aventuras.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO04_Mision_Cultista_Cautivo.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO02_Mision_Poder_Culto.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO01_Mision_Alzamiento_Monstruoso.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/01_Episodio_1_Consejo_Aguas_Profundas.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO06_Mision_Muerte_Concilio.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO05_Mision_Heroe_Caido.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN14_Mision_Ruinas_Norte.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN12_Mision_Cenizas_Plata.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN11_Mision_Sombras_Consejo.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN10_Mision_Juicio_Melandrach.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN09_Mision_Pactos_Oscuros.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN08_Mision_Ultima_Llama.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN07_Mision_Precio_Guerra.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN06_Mision_Ecos_Torre.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN05_Mision_Sangre_Dragon.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN04_Mision_Traiciones_Waterdeep.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN03_Mision_Fuego_Norte.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO03_Mision_Demandas_Diabolicas.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO2_Mision_Poder_Culto.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO1_Mision_Alzamiento_Monstruoso.md",
+    "Chronosia_Campana_Profesional/04_Aventuras/Fase_6_Batalla_Final",
+    "Chronosia_Campana_Profesional/04_Aventuras/Fase_5_Viaje_al_Pasado",
+    "Chronosia_Campana_Profesional/04_Aventuras/Fase_4_Ritual_Completado",
     "OLD",
     "Chronosia_Campana_Profesional/OLD",
     "Chronosia_Campana_Profesional/Misiones/03_Final",
@@ -227,9 +287,6 @@
     "Chronosia_Campana_Profesional/assets/cronofago lanzador conjuros.png",
     "Chronosia_Campana_Profesional/assets/Aethernus Valcarys - Manshoon.png",
     "Chronosia_Campana_Profesional/assets",
-    "El alzamiento de Tiamat - Sandbox/El alzamiento de Tiamat - Sandbox/_temp_extract",
-    "El alzamiento de Tiamat - Sandbox/El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas",
-    "El alzamiento de Tiamat - Sandbox/El alzamiento de Tiamat - Sandbox/06_Recursos/Mapas",
     "assets/oficial cronófago.png",
     "assets/simbolo cronófagos.png"
   ]

@@ -156,7 +156,7 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 #### **🎭 Elementos Narrativos**
 - **Pistas**: Historia de Chronosia, poder de Serapis, secretos del pasado, conexión con el Cónclave
 - **Consecuencias**: Restauración temporal, edificios reconstruidos, nuevas oportunidades
-- **Recompensas**: Elección entre **Arena del Tiempo** O **Reloj de Arena Invertido** (el no elegido se destruye)
+- **Recompensas**: **Arena del Tiempo Estabilizada** (obtenida al derrotar a Serapis)
 - **Estado de Acceso:** 🔓 **Desbloqueada** - Accesible desde el inicio
 
 **Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)

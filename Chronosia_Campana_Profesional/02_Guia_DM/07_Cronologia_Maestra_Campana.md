@@ -11,7 +11,9 @@
 > - [Fase 1: Robos y Traición](../../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
 > - [Fase 2: Sandbox Inicial](../../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
 > - [Fase 3: Sandbox Avanzado](../../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
-> - [Fase 4: Clímax](../../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md)
+> - [Fase 4: Ritual Completado](../../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
+- [Fase 5: Viaje al Pasado](../../04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md)
+- [Fase 6: Batalla Final](../../04_Aventuras/Fase_6_Batalla_Final/00_Guia_General_Fase_6.md)
 
 ---
 
@@ -22,7 +24,9 @@
 - [Fase 1: Robos y Traición (Sesiones 4-6)](#fase-1-robos-y-traición-sesiones-4-6)
 - [Fase 2: Sandbox Inicial (Sesiones 6-9)](#fase-2-sandbox-inicial-sesiones-6-9)
 - [Fase 3: Sandbox Avanzado (Sesiones 9-12)](#fase-3-sandbox-avanzado-sesiones-9-12)
-- [Fase 4: Clímax (Sesiones 13-15)](#fase-4-clímax-sesiones-13-15)
+- [Fase 4: Ritual Completado (Sesiones 13-14)](#fase-4-ritual-completado-sesiones-13-14)
+- [Fase 5: Viaje al Pasado (Sesiones 15-17)](#fase-5-viaje-al-pasado-sesiones-15-17)
+- [Fase 6: Batalla Final (Sesiones 18-20)](#fase-6-batalla-final-sesiones-18-20)
 
 ### **📊 Por Sistema**
 - [Desbloqueo de Regiones](#-desbloqueo-de-regiones)
@@ -84,7 +88,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 ## 🔥 **FASE 1: ROBOS Y TRAICIÓN (EVENTOS PROGRESIVOS)**
 
 ### **Objetivo de esta Fase:**
-Edward Teach ejecuta su plan maestro progresivamente: roba los artefactos después de que los PJ derroten lugartenientes, crea el Talismán, asesina a Thyra, y desencadena La Ascensión del Cónclave.
+Edward Teach ejecuta su plan maestro progresivamente: roba los artefactos después de que los PJ derroten lugartenientes, crea el Talismán, asesina a Thyra, y desencadena la guerra espontánea entre lugartenientes.
 
 **📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 1](../../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
 
@@ -197,9 +201,9 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 | **Lugarteniente Derrotado** | **Alineación** | **Desbloqueos** | **Artefactos Obtenidos** | **Información Revelada** | **Regiones Desbloqueadas** | **Notas** |
 |----------------------------|----------------|-----------------|--------------------------|--------------------------|----------------------------|-----------|
 | **Kaelthas** | Dimensional | Waterdeep | - Reloj de Bolsillo Destrozado<br>- Mapa Parcial de Chronosia<br>- Diario de Kaelthas | - Información sobre Cronófagos<br>- Confirmación de conspiración | Waterdeep | Primera misión |
-| **Serapis** | Temporal | La Espiral del Reloj de Arena | - **Núcleo Temporal** (parte 1 del Rotor Infinito)<br>- **Arena del Tiempo Estabilizada** O Reloj de Arena Invertido (elección destructiva) | - Información sobre reversión temporal<br>- Secretos del pasado de Chronosia<br>- Conexión con el Cónclave | La Espiral del Reloj de Arena | Componente del Rotor |
+| **Serapis** | Temporal | La Espiral del Reloj de Arena | - **Núcleo Temporal** (parte 1 del Rotor Infinito)<br>- **Arena del Tiempo Estabilizada** | - Información sobre reversión temporal<br>- Secretos del pasado de Chronosia | La Espiral del Reloj de Arena | Componente del Rotor |
 | **Ymir** | Dimensional | Glacialis | - **Carcasa Helada** (parte 2 del Rotor Infinito) | - Información sobre reclutamiento interplanar<br>- Red de portales de Ymir<br>- Patrones de suministros | Glacialis | Componente del Rotor |
-| **Varrak** | Temporal | El Abismo de los Posibles | - **Espejo de la Verdad** O Fragmento de Realidad Alternativa (elección destructiva)<br>- **Visión de Varrak** (si aliado) | - Información sobre futuros posibles<br>- Confirmación de reclusión de Manshoon<br>- Edward Teach es punto ciego | El Abismo de los Posibles | Puede ser aliado o enemigo |
+| **Varrak** | Temporal | El Abismo de los Posibles | - Objetos temporales (si derrotado)<br>- Ayuda y visión del futuro (si aliado) | - Información sobre futuros posibles<br>- Confirmación de reclusión de Aethernus<br>- Edward Teach es punto ciego | El Abismo de los Posibles | Puede ser aliado o enemigo |
 | **Medusa** | Temporal | El Jardín Pétreo | - Objetos de estasis temporal | - Información sobre petrificación temporal<br>- Secretos del jardín | El Jardín Pétreo | Región compartida con Gemelas |
 | **Tempus** | Temporal | Las Ruinas del Tiempo Perdido | - Objetos de bucles temporales | - Información sobre bucles temporales<br>- Tecnología temporal antigua | Las Ruinas del Tiempo Perdido | Requiere Arena del Tiempo |
 | **Vorthak** | Temporal | La Mansión de la Sed Eterna | - Objetos de drenaje temporal | - Información sobre vampirismo temporal<br>- Secretos de la sed eterna<br>- Líder del Bando Temporal | La Mansión de la Sed Eterna | Líder temporal |
@@ -302,7 +306,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 
 **Eventos Aleatorios (1d12):**
 - Tira cada 2-3 sesiones para eventos del mundo
-- Ver `05_La_Ascension_del_Conclave.md` (Tabla de Eventos Aleatorios)
+- Ver `19_Tablas_Eventos.md` (Tabla de Eventos Aleatorios)
 
 **Alianzas:**
 - Los PJ pueden aliarse con Anacronistas, Oceánicos de las Profundidades, lugartenientes específicos
@@ -326,12 +330,13 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 **Sandbox es Real:**
 - Entre las Sesiones 6-12, los PJ tienen libertad TOTAL
 - No fuerces un orden específico de lugartenientes
-- Usa el sistema narrativo de competencia (`05_La_Ascension_del_Conclave.md`) para simular el mundo vivo
+- Los lugartenientes que los PJ no derroten antes del ritual quedan vivos post-ritual (sistema dinámico)
 - Actualiza las tablas de tracking en [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md) después de cada sesión
 
-**Timing del Clímax:**
+**Timing del Ritual Completado (Fase 4):**
 - Sesión 13 puede moverse a Sesión 12-14 si los PJ avanzan más rápido/lento
-- Pero el ritual DEBE estar en estado crítico (casi completo) cuando se llame a los PJ
+- Pero el ritual DEBE estar en estado crítico (98%) cuando se llame a los PJ
+- Los PJ llegarán tarde (evento fijo) - el ritual se completa en Sesión 14
 - Ajusta la urgencia narrativa según el ritmo de la mesa
 
 ### **Urgencia Escalable:**
@@ -341,7 +346,9 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 **Sesiones 6-9:** Urgencia moderada (guerra entre lugartenientes)  
 **Sesiones 10-12:** Urgencia creciente (revelaciones sobre Manshoon)  
 **Sesión 13:** **URGENCIA MÁXIMA** - "¡NO QUEDA TIEMPO!"  
-**Sesiones 14-15:** Cuenta atrás final (ritual avanzando)
+**Sesión 14:** ⚠️⚠️⚠️ **RITUAL COMPLETADO** - Aethernus se convierte en dios  
+**Sesiones 15-17:** Mundo post-ritual, viaje al pasado  
+**Sesiones 18-20:** Batalla final por fases
 
 ---
 
@@ -352,13 +359,15 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 | **Guías Generales de Fases** | Timeline detallado de cada fase | Preparar cada fase |
 | **06_Facciones_Organizaciones.md** | Info sobre Anacronistas, Oceánicos de las Profundidades, Cronófagos | Sesiones 2+ |
 | **06_El_Talisman_de_Interceptacion.md** (Fase_1_Robos_Traicion) | Robos y traiciones (Sesiones 4-6) | Preparar Sesiones 4-6 |
-| **05_La_Ascension_del_Conclave.md** | Sistema narrativo de la competencia + Resolución final | Sesiones 6-15 |
-| **05_La_Ascension_del_Conclave.md** | Sistema narrativo de competencia y eventos | Sesiones 6-12 |
+| **00_Documento_Trabajo_Restructuracion.md** | Documento de trabajo de restructuración | Referencia |
+| **21_Objetos_Magicos_Reliquias.md** | Sistema de Anillos de Poder | Sesiones 14+ |
 | **20_Tablas_Tracking_Campana.md** | Tablas completas de tracking + Resolución final | Toda la campaña (actualizar después de cada sesión) |
 | **08_Geografia_y_Regiones_de_Chronosia.md** | Tabla maestra de regiones | Toda la campaña |
 | **04_Escenas_de_Revelacion.md** (Fase_2_Sandbox_Inicial) | Revelaciones sobre Manshoon (Sesiones 8-13) | Preparar Sesiones 8-13 |
 | **05_Encuentro_Anacronistas_Relojeros.md** (Fase_2_Sandbox_Inicial) | Contador del Ritual (Sesión 8-9) | Preparar Sesión 8-9 |
-| **04_Aventuras/Fase_4_Climax/** | Torre de la Eternidad y finales | Preparar Sesiones 13-15 |
+| **04_Aventuras/Fase_4_Ritual_Completado/** | Ritual completado, batalla contra Teach | Preparar Sesiones 13-14 |
+| **04_Aventuras/Fase_5_Viaje_al_Pasado/** | Mundo post-ritual, viaje temporal | Preparar Sesiones 15-17 |
+| **04_Aventuras/Fase_6_Batalla_Final/** | Batalla final por fases | Preparar Sesiones 18-20 |
 
 ---
 
