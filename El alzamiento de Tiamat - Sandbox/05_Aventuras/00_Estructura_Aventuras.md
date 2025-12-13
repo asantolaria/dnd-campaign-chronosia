@@ -20,6 +20,7 @@
 
 > **⚠️ IMPORTANTE:**
 > - Las misiones **Oficiales** siempre están disponibles cuando corresponda
+> - Las misiones **Adicionales oficiales** siempre están disponibles cuando corresponda (no se bloquean)
 > - Las misiones **Adicionales** pueden bloquearse mutuamente (ver [Sistema de Ramificaciones](#sistema-de-ramificaciones))
 > - Solo las misiones **Adicionales** están desarrolladas en esta carpeta
 
@@ -35,11 +36,25 @@
 - **04A - El Culto Contraataca I (Emboscadas)** (Nivel 8-9) - 🟡 Disponible
   - [Ver misión desarrollada](./04A_Mision_Culto_Contraataca_I_Emboscadas.md)
 
+#### **Misiones Adicionales Oficiales (Siempre Disponibles)**
+- **AO1 - Alzamiento Monstruoso** (Nivel 9-10) - 🔴 No Disponible inicialmente
+  - 📖 Consultar campaña original (PDF o 5e.tools)
+  - **Localización:** Entre el 1er y 2º Consejo
+  - **Tipo:** Encuentro secundario
+- **AO2 - El Poder del Culto** (Nivel 9-10) - 🔴 No Disponible inicialmente
+  - 📖 Consultar campaña original (PDF o 5e.tools)
+  - **Localización:** Tras Varram o Mar del Hielo
+  - **Tipo:** Investigación / Política
+- **AO4 - Cultista Cautivo** (Nivel 9-10) - 🔴 No Disponible inicialmente
+  - 📖 Consultar campaña original (PDF o 5e.tools)
+  - **Localización:** Tras Varram o Mar del Hielo
+  - **Tipo:** Investigación / Interrogatorio
+
 #### **Misiones Adicionales**
 - **A13 - El Enclave en Llamas** (Nivel 9-10) - 🔴 No Disponible inicialmente
   - [Ver misión desarrollada](./A13_Mision_Enclave_Llamas.md)
 
-> **📖 Misiones oficiales:** Consultar [Referencias Originales](../03_Referencias_Original.md)
+> **📖 Misiones oficiales y adicionales oficiales:** Consultar [Referencias Originales](../03_Referencias_Original.md)
 
 ---
 
@@ -73,7 +88,13 @@
   - **Bloquea:** A10
   - **Impacto:** Consejo +1, Zhentarim +1
 
-> **📖 Misiones oficiales:** Consultar [Referencias Originales](../03_Referencias_Original.md)
+#### **Misiones Adicionales Oficiales (Siempre Disponibles)**
+- **AO5 - Héroe Caído** (Nivel 11-12) - 🔴 No Disponible inicialmente
+  - 📖 Consultar campaña original (PDF o 5e.tools)
+  - **Localización:** Entre el 2º y 3º Consejo
+  - **Tipo:** Evento dramático
+
+> **📖 Misiones oficiales y adicionales oficiales:** Consultar [Referencias Originales](../03_Referencias_Original.md)
 
 ---
 
@@ -111,7 +132,17 @@
   - **Bloquea:** A04
   - **Impacto:** Consejo +2, medidor del líder +2
 
-> **📖 Misiones oficiales:** Consultar [Referencias Originales](../03_Referencias_Original.md)
+#### **Misiones Adicionales Oficiales (Siempre Disponibles)**
+- **AO3 - Demandas Diabólicas** (Nivel 12-13) - 🔴 No Disponible inicialmente
+  - 📖 Consultar campaña original (PDF o 5e.tools)
+  - **Localización:** Tras Torre de Xonthal
+  - **Tipo:** Misión / Moral gris
+- **AO6 - Muerte en el Concilio** (Nivel 12-14) - 🔴 No Disponible inicialmente
+  - 📖 Consultar campaña original (PDF o 5e.tools)
+  - **Localización:** Durante el 3º o 4º Consejo
+  - **Tipo:** Intriga / Asesinato
+
+> **📖 Misiones oficiales y adicionales oficiales:** Consultar [Referencias Originales](../03_Referencias_Original.md)
 
 ---
 
@@ -133,7 +164,13 @@
   - **Bloquea:** A09
   - **Impacto:** Consejo +1-3 (según ciudades salvadas)
 
-> **📖 Misiones oficiales:** Consultar [Referencias Originales](../03_Referencias_Original.md)
+#### **Misiones Adicionales Oficiales (Siempre Disponibles)**
+- **AO6 - Muerte en el Concilio** (Nivel 12-14) - 🔴 No Disponible inicialmente
+  - 📖 Consultar campaña original (PDF o 5e.tools)
+  - **Localización:** Durante el 3º o 4º Consejo
+  - **Tipo:** Intriga / Asesinato
+
+> **📖 Misiones oficiales y adicionales oficiales:** Consultar [Referencias Originales](../03_Referencias_Original.md)
 
 ---
 
@@ -210,6 +247,9 @@ Si los jugadores no eligen ninguna misión de un nodo antes del siguiente Concil
 |---|--------|------|----------------|--------------|-------|
 | 01 | Varram el Blanco | Oficial | 🟢 En Curso | Desierto del Sur | 8-9 |
 | 04A | El Culto Contraataca I | Oficial | 🟡 Disponible | Entre 1er y 2º Consejo | 8-9 |
+| AO1 | Alzamiento Monstruoso | Adicional oficial | 🔴 No Disponible | Entre 1er y 2º Consejo | 9-10 |
+| AO2 | El Poder del Culto | Adicional oficial | 🔴 No Disponible | Tras Varram o Mar del Hielo | 9-10 |
+| AO4 | Cultista Cautivo | Adicional oficial | 🔴 No Disponible | Tras Varram o Mar del Hielo | 9-10 |
 | A13 | El Enclave en Llamas | Adicional | 🔴 No Disponible | Entre 1er y 2º Consejo | 9-10 |
 
 #### **SEGUNDO CONCILIO** *(Nivel 9-11)*
@@ -219,6 +259,10 @@ Si los jugadores no eligen ninguna misión de un nodo antes del siguiente Concil
 | 02 | El Mar de Hielo Movedizo | Oficial | 🟡 Disponible | Norte helado | 9-10 |
 | 03 | Neronvain el Verde | Oficial | 🟡 Disponible | Bosque Brumoso | 10-11 |
 | 04B | El Culto Contraataca II | Oficial | 🟡 Disponible | Entre 2º y 3º Consejo | 10-11 |
+| AO1 | Alzamiento Monstruoso | Adicional oficial | 🔴 No Disponible | Entre 1er y 2º Consejo | 9-10 |
+| AO2 | El Poder del Culto | Adicional oficial | 🔴 No Disponible | Tras Varram o Mar del Hielo | 9-10 |
+| AO4 | Cultista Cautivo | Adicional oficial | 🔴 No Disponible | Tras Varram o Mar del Hielo | 9-10 |
+| AO5 | Héroe Caído | Adicional oficial | 🔴 No Disponible | Entre 2º y 3º Consejo | 11-12 |
 | A03 | Fuego en el Norte | Adicional | 🟡 Disponible | Tras Neronvain | 10-11 |
 | A14 | Ruinas del Norte | Adicional | 🟡 Disponible | Después de Fuego | 10-11 |
 | A10 | El Juicio de Melandrach | Adicional | 🟡 Disponible | Después de Neronvain | 11-12 |
@@ -231,6 +275,9 @@ Si los jugadores no eligen ninguna misión de un nodo antes del siguiente Concil
 | 05 | Dragones Metálicos, Alzaos | Oficial | 🟡 Disponible | Montañas del Norte | 11-12 |
 | 06 | Torre de Xonthal | Oficial | 🟡 Disponible | Torre laberíntica | 12-13 |
 | 04C | El Culto Contraataca III | Oficial | 🟡 Disponible | Entre 3º y 4º Consejo | 12-13 |
+| AO3 | Demandas Diabólicas | Adicional oficial | 🔴 No Disponible | Tras Torre de Xonthal | 12-13 |
+| AO5 | Héroe Caído | Adicional oficial | 🔴 No Disponible | Entre 2º y 3º Consejo | 11-12 |
+| AO6 | Muerte en el Concilio | Adicional oficial | 🔴 No Disponible | Durante 3º o 4º Consejo | 12-14 |
 | A05 | Sangre de Dragón | Adicional | 🟡 Disponible | Después de Dragones Metálicos | 11-12 |
 | A12 | Cenizas de Plata | Adicional | 🟡 Disponible | Después de Dragones Metálicos | 11-12 |
 | A06 | Ecos de la Torre | Adicional | 🟡 Disponible | Durante o tras Xonthal | 12-13 |
@@ -243,6 +290,7 @@ Si los jugadores no eligen ninguna misión de un nodo antes del siguiente Concil
 |---|--------|------|--------|--------------|-------|
 | 07 | Misión a Thay | Oficial | 🟡 Disponible | Thay | 13-14 |
 | 08 | El Retorno de Tiamat | Oficial | 🟡 Disponible | Pozo del Dragón | 14-16 |
+| AO6 | Muerte en el Concilio | Adicional oficial | 🔴 No Disponible | Durante 3º o 4º Consejo | 12-14 |
 | A09 | Pactos Oscuros | Adicional | 🟡 Disponible | Durante o después de Thay | 13-14 |
 | A08 | La Última Llama | Adicional | 🟡 Disponible | Preludio al Pozo | 14-15 |
 

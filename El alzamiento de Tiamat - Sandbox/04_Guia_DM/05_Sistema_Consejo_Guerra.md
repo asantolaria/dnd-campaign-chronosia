@@ -133,51 +133,7 @@ Cada evento representa una acción o consecuencia que puede modificar los valore
 | 35 | Vencer a un wyrmspeaker menor o líder local del Culto | Debilita al Culto regionalmente. |
 | 36 | Fracasar en rescatar a un aliado del Consejo | Pérdida grave que impacta directamente en la confianza y moral. |
 
----
 
-## 💡 **EJEMPLO DE INTERPRETACIÓN**
-
-Si los héroes fracasan en **El Precio de la Guerra**, pierden a un líder del Consejo y la Moral del Norte cae.
-
-Si luego completan con éxito **Sangre de Dragón**, los Dragones Metálicos ganan confianza y el Consejo se refuerza.
-
-Ambos cambios se registran en la tabla y alteran directamente la disposición final de las fuerzas aliadas.
-
----
-
-## 🎭 **CÓMO EXPLICAR LAS MECÁNICAS DE FORMA NEUTRAL (SIN SPOILERS)**
-
-### **✔️ 1. Los "medidores" existen, pero ellos no ven números**
-
-Explícalo así:
-
-> "Hay un sistema interno que mide alianzas, moral, avance enemigo y estabilidad global. Nunca veréis los números. Solo sentiréis las consecuencias narrativas."
-
-Esto mantiene el misterio y evita que los jugadores metagameen.
-
-### **✔️ 2. El Consejo funciona como un 'turno global'**
-
-No reveles qué misiones dependen de qué decisiones. Solo diles:
-
-> "Cada vez que volvamos al Consejo, os informaré de cambios en el mundo: regiones dañadas, ciudades salvadas, nuevas tensiones políticas… lo mismo que oirían vuestros personajes."
-
-### **✔️ 3. Las misiones no siempre estarán disponibles**
-
-Pero no les digas cuáles ni por qué. Solo:
-
-> "Hay misiones que estarán abiertas o cerradas según lo que ocurra en el mundo. No os preocupéis por perder contenido: siempre habrá alternativas y consecuencias interesantes."
-
-### **✔️ 4. No hay caminos 'malos', solo caminos distintos**
-
-Diles:
-
-> "No hay forma óptima de jugar. Cada elección abre posibilidades y cierra otras. No quiero que penséis en fallos, sino en historias."
-
-### **✔️ 5. La guerra avanza sola**
-
-Pero sin detallar cómo:
-
-> "Mientras vosotros actuáis, el Culto del Dragón y otras facciones también lo hacen. A veces os sorprenderán, otras aprenderéis información nueva, otras llegaréis tarde… pero siempre habrá juego."
 
 ---
 
