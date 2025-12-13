@@ -331,7 +331,7 @@ Esta misión debe sentirse como un misterio moral:
 ## 🔗 **REFERENCIAS**
 
 - **Sistema del Consejo:** Ver [../04_Guia_DM/05_Sistema_Consejo_Guerra.md](../04_Guia_DM/05_Sistema_Consejo_Guerra.md)
-- **Misión relacionada:** Ver [A05_Mision_Sangre_Dragon.md](./A05_Mision_Sangre_Dragon.md) (Nivel 11)
+- **Misión relacionada:** Ver [AN05_Mision_Sangre_Dragon.md](./AN05_Mision_Sangre_Dragon.md) (Nivel 11)
 - **Estructura de Aventuras:** Ver [00_Estructura_Aventuras.md](./00_Estructura_Aventuras.md)
 
 ---

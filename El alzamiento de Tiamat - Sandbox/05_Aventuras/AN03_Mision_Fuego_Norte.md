@@ -311,7 +311,7 @@ Esta misión debe sentirse como una batalla épica con decisiones difíciles:
 ## 🔗 **REFERENCIAS**
 
 - **Sistema del Consejo:** Ver [../04_Guia_DM/05_Sistema_Consejo_Guerra.md](../04_Guia_DM/05_Sistema_Consejo_Guerra.md)
-- **Misión relacionada:** Ver [A14_Mision_Ruinas_Norte.md](./A14_Mision_Ruinas_Norte.md) (Nivel 9)
+- **Misión relacionada:** Ver [AN14_Mision_Ruinas_Norte.md](./AN14_Mision_Ruinas_Norte.md) (Nivel 9)
 - **Estructura de Aventuras:** Ver [00_Estructura_Aventuras.md](./00_Estructura_Aventuras.md)
 
 ---

@@ -326,7 +326,7 @@ Esta misión debe sentirse como un thriller político:
 ## 🔗 **REFERENCIAS**
 
 - **Sistema del Consejo:** Ver [../04_Guia_DM/05_Sistema_Consejo_Guerra.md](../04_Guia_DM/05_Sistema_Consejo_Guerra.md)
-- **Misión relacionada:** Ver [A11_Mision_Sombras_Consejo.md](./A11_Mision_Sombras_Consejo.md) (Nivel 11)
+- **Misión relacionada:** Ver [AN11_Mision_Sombras_Consejo.md](./AN11_Mision_Sombras_Consejo.md) (Nivel 11)
 - **Estructura de Aventuras:** Ver [00_Estructura_Aventuras.md](./00_Estructura_Aventuras.md)
 
 ---

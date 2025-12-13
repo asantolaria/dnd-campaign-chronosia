@@ -37,120 +37,116 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 ### **Reglas de Bloqueo**
 
 1. **Misiones Oficiales:** Siempre disponibles, nunca se bloquean
-2. **Misiones Adicionales Oficiales (AO1-AO6):** Siempre disponibles, nunca se bloquean
-3. **Misiones Adicionales (A03-A14):** Pueden bloquearse mutuamente dentro de su nodo
+2. **Misiones Adicionales Oficiales (AO01-AO06):** Siempre disponibles, nunca se bloquean
+3. **Misiones Adicionales (AN03-AN14):** Pueden bloquearse mutuamente dentro de su nodo
 
 ### **Nodos de Decisión**
 
 | Nodo | Concilio | Misiones | Regla | Consecuencia si no eligen ninguna |
 |------|----------|----------|-------|-----------------------------------|
-| **Nodo 1: Defensa del Norte** | 2º | A03, A14 | Elegir 1 bloquea la otra | Ambas se bloquean, Moral -2 |
-| **Nodo 2: Diplomacia** | 2º | A10, A11 | Elegir 1 bloquea la otra | Ambas se bloquean, Consejo -1 |
-| **Nodo 3: Alianza Dracónica** | 3º | A05, A12, A06 | Elegir 1 bloquea las otras 2 | Oportunidad perdida, Dragones Metálicos -1 |
-| **Nodo 4: Inteligencia** | 3º | A04, A07 | Elegir 1 bloquea la otra | Ambas se bloquean, Culto +1 |
-| **Nodo 5: Preparación Final** | 4º | A09, A08 | Elegir 1 bloquea la otra | Menos preparación para el clímax |
+| **Nodo 1: Defensa del Norte** | 2º | AN03, AN14 | Elegir 1 bloquea la otra | Ambas se bloquean, Moral -2 |
+| **Nodo 2: Diplomacia** | 2º | AN10, AN11 | Elegir 1 bloquea la otra | Ambas se bloquean, Consejo -1 |
+| **Nodo 3: Alianza Dracónica** | 3º | AN05, AN12, AN06 | Elegir 1 bloquea las otras 2 | Oportunidad perdida, Dragones Metálicos -1 |
+| **Nodo 4: Inteligencia** | 3º | AN04, AN07 | Elegir 1 bloquea la otra | Ambas se bloquean, Culto +1 |
+| **Nodo 5: Preparación Final** | 4º | AN09, AN08 | Elegir 1 bloquea la otra | Menos preparación para el clímax |
 
-> **💡 IMPORTANTE:** Las misiones que no están en ningún nodo (como A13) no bloquean ni son bloqueadas por otras misiones adicionales.
+> **💡 IMPORTANTE:** Las misiones que no están en ningún nodo (como AN13) no bloquean ni son bloqueadas por otras misiones adicionales.
 
 ---
 
 ## 🎯 **MISIONES POR CONCILIO**
+
+> **💡 IMPORTANTE:** Esta tabla muestra solo las misiones **NUEVAS** que se desbloquean en cada Concilio. Las misiones de concilios anteriores permanecen disponibles (a menos que hayan sido bloqueadas por decisiones en nodos).
 
 ---
 
 ## 📅 **PRIMER CONCILIO**
 ### *(Nivel 8-9)*
 
-### **Misiones Disponibles Inicialmente**
+### **Misiones Nuevas Disponibles**
 
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **01** | **Varram el Blanco – Tumba de Diderius** | En Curso | Desierto del Sur | Mazmorra / Investigación | 8-9 | Matar a Varram / Capturar a Varram / Fracasar en rescatar a un aliado | - | Perseguir al portador de la Máscara Blanca y obtener información sobre la estructura del culto. |
-| **04A** | **[El Culto Contraataca I (Emboscadas)](../../05_Aventuras/04A_Mision_Culto_Contraataca_I_Emboscadas.md)** | Disponible | Entre el 1er y 2º Consejo | Encuentros dinámicos | 8-9 | Ayudar en el ataque de una ciudad aliada / Salvar a una caravana del norte / Fracasar en una misión importante | - | Pequeños ataques coordinados del culto para medir la fuerza de los héroes y desestabilizar regiones aliadas. |
+| # | Misión | Enlace | Tipo | Estado | Localización | Nivel | Eventos del Consejo | Bloquea a | Descripción |
+|---|--------|-------|------|--------|--------------|-------|---------------------|----------|-------------|
+| **01** | **Varram el Blanco – Tumba de Diderius** | 📖 PDF/5e.tools | Oficial | 🟢 En Curso | Desierto del Sur | 8-9 | Matar a Varram / Capturar a Varram / Fracasar en rescatar a un aliado | - | Perseguir al portador de la Máscara Blanca y obtener información sobre la estructura del culto. |
+| **04A** | **El Culto Contraataca I (Emboscadas)** | [Ver misión](../../05_Aventuras/04A_Mision_Culto_Contraataca_I_Emboscadas.md) | Oficial | 🟡 Disponible | Entre el 1er y 2º Consejo | 8-9 | Ayudar en el ataque de una ciudad aliada / Salvar a una caravana del norte / Fracasar en una misión importante | - | Pequeños ataques coordinados del culto para medir la fuerza de los héroes y desestabilizar regiones aliadas. |
 
-### **Misiones No Disponibles (Se Desbloquean Más Tarde)**
+### **Misiones Nuevas No Disponibles (Se Desbloquean Más Tarde)**
 
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **02** | **El Mar de Hielo Movedizo** | No Disponible | Norte helado | Exploración / Combate | 9-10 | Matar a Arauthator o expulsarlo / Salvar a una caravana del norte / Ciudad destruida por un dragón enemigo | - | Rescatar a Maccath la Carmesí, obtener información sobre dragones blancos y la Hermandad Arcana. |
-| **AO1** | **Alzamiento Monstruoso** | No Disponible | Entre el 1er y 2º Consejo | Encuentro secundario | 9-10 | Salvar a una facción menor / Moral del Norte | - | Un grupo de monstruos liberados por el caos del culto ataca asentamientos; los héroes deben decidir si intervenir. |
-| **AO2** | **El Poder del Culto** | No Disponible | Tras Varram o Mar del Hielo | Investigación / Política | 9-10 | Descubrir una traición dentro del culto / Fracasar en una misión importante | - | Los héroes descubren indicios del creciente poder del culto y sus aliados ocultos. |
-| **AO4** | **Cultista Cautivo** | No Disponible | Tras Varram o Mar del Hielo | Investigación / Interrogatorio | 9-10 | Descubrir una traición dentro del culto / Estado del Culto del Dragón | - | Interrogar a un prisionero del culto puede revelar secretos o sembrar desconfianza. |
-| **A13** | **[El Enclave en Llamas](../../05_Aventuras/A13_Mision_Enclave_Llamas.md)** | No Disponible | Entre el 1er y 2º Consejo | Misión de rescate / Combate | 9-10 | Salvar a una facción menor / Moral del Norte | - | Una comunidad aliada del Enclave Esmeralda sufre un ataque del culto; los héroes pueden salvarlos o llegar tarde. |
+| # | Misión | Enlace | Tipo | Estado | Localización | Nivel | Eventos del Consejo | Bloquea a | Descripción |
+|---|--------|-------|------|--------|--------------|-------|---------------------|----------|-------------|
+| **02** | **El Mar de Hielo Movedizo** | 📖 PDF/5e.tools | Oficial | 🔴 No Disponible | Norte helado | 9-10 | Matar a Arauthator o expulsarlo / Salvar a una caravana del norte / Ciudad destruida por un dragón enemigo | - | Rescatar a Maccath la Carmesí, obtener información sobre dragones blancos y la Hermandad Arcana. |
+| **AO01** | **Alzamiento Monstruoso** | [Ver misión](../../05_Aventuras/AO01_Mision_Alzamiento_Monstruoso.md) | Adicional oficial | 🔴 No Disponible | Entre el 1er y 2º Consejo | 9-10 | Salvar a una facción menor / Moral del Norte | - | Un grupo de monstruos liberados por el caos del culto ataca asentamientos; los héroes deben decidir si intervenir. |
+| **AO02** | **El Poder del Culto** | [Ver misión](../../05_Aventuras/AO02_Mision_Poder_Culto.md) | Adicional oficial | 🔴 No Disponible | Tras Varram o Mar del Hielo | 9-10 | Descubrir una traición dentro del culto / Fracasar en una misión importante | - | Los héroes descubren indicios del creciente poder del culto y sus aliados ocultos. |
+| **AO04** | **Cultista Cautivo** | [Ver misión](../../05_Aventuras/AO04_Mision_Cultista_Cautivo.md) | Adicional oficial | 🔴 No Disponible | Tras Varram o Mar del Hielo | 9-10 | Descubrir una traición dentro del culto / Estado del Culto del Dragón | - | Interrogar a un prisionero del culto puede revelar secretos o sembrar desconfianza. |
+| **AN13** | **El Enclave en Llamas** | [Ver misión](../../05_Aventuras/AN13_Mision_Enclave_Llamas.md) | Adicional | 🔴 No Disponible | Entre el 1er y 2º Consejo | 9-10 | Salvar a una facción menor / Moral del Norte | - | Una comunidad aliada del Enclave Esmeralda sufre un ataque del culto; los héroes pueden salvarlos o llegar tarde. |
 
 ---
 
 ## 📅 **SEGUNDO CONCILIO**
 ### *(Nivel 9-11)*
 
-### **Misiones Disponibles**
+> **💡 NOTA:** Las misiones del Primer Concilio (01, 04A) siguen disponibles si no se han completado. Además, se desbloquean las misiones 02, AO01, AO02, AO04, AN13 del concilio anterior.
 
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **04B** | **[El Culto Contraataca II (Ofensiva)](../../05_Aventuras/04B_Mision_Culto_Contraataca_II_Ofensiva.md)** | Disponible | Entre el 2º y 3º Consejo | Encuentros dinámicos | 10-11 | No ayudar en el ataque de una ciudad aliada / Ciudad destruida por un dragón enemigo / Fracasar en rescatar a un aliado | - | El culto lanza ofensivas mayores con dragones y espías; los héroes deben decidir qué frentes atender. |
+### **Misiones Nuevas Disponibles**
 
-### **Misiones Desbloqueadas**
+| # | Misión | Enlace | Tipo | Estado | Localización | Nivel | Eventos del Consejo | Bloquea a | Descripción |
+|---|--------|-------|------|--------|--------------|-------|---------------------|----------|-------------|
+| **04B** | **El Culto Contraataca II (Ofensiva)** | [Ver misión](../../05_Aventuras/04B_Mision_Culto_Contraataca_II_Ofensiva.md) | Oficial | 🟡 Disponible | Entre el 2º y 3º Consejo | 10-11 | No ayudar en el ataque de una ciudad aliada / Ciudad destruida por un dragón enemigo / Fracasar en rescatar a un aliado | - | El culto lanza ofensivas mayores con dragones y espías; los héroes deben decidir qué frentes atender. |
+| **02** | **El Mar de Hielo Movedizo** | 📖 PDF/5e.tools | Oficial | 🟡 Disponible | Norte helado | 9-10 | Matar a Arauthator o expulsarlo / Salvar a una caravana del norte / Ciudad destruida por un dragón enemigo | - | Rescatar a Maccath la Carmesí, obtener información sobre dragones blancos y la Hermandad Arcana. |
+| **03** | **Neronvain el Verde** | 📖 PDF/5e.tools | Oficial | 🟡 Disponible | Bosque Brumoso | 10-11 | Matar a Neronvain / Capturar a Neronvain / Matar a Chuth o expulsarlo / Negociar con los elfos de Melandrach / Matar a Melandrach sin juicio | - | Descubrir la traición del hijo del rey élfico y decidir su destino político. |
+| **AN03** | **Fuego en el Norte** | [Ver misión](../../05_Aventuras/AN03_Mision_Fuego_Norte.md) | Adicional | 🟡 Disponible | Tras Neronvain o entre 2º y 3º Consejo | 10-11 | Ayudar en el ataque de una ciudad aliada / No ayudar en el ataque / Salvar o no salvar caravana | **AN14** (Nodo 1) | Defender el Norte, decidir entre proteger civiles o atacar líderes del culto. |
+| **AN14** | **Ruinas del Norte** | [Ver misión](../../05_Aventuras/AN14_Mision_Ruinas_Norte.md) | Adicional | 🟡 Disponible | Después de Fuego en el Norte / entre el 2º y 3º Consejo | 10-11 | Ciudad destruida por un dragón enemigo / Fracasar en una misión importante | **AN03** (Nodo 1) | Explorar las ruinas de una ciudad arrasada por dragones, rescatar supervivientes y descubrir pistas sobre el ritual. |
+| **AN10** | **El Juicio de Melandrach** | [Ver misión](../../05_Aventuras/AN10_Mision_Juicio_Melandrach.md) | Adicional | 🟡 Disponible | Después de Neronvain / antes del 2º Consejo | 11-12 | Negociar con los elfos de Melandrach sobre Neronvain / Matar a Melandrach sin juicio | **AN11** (Nodo 2) | Evitar una guerra civil élfica juzgando a Neronvain con o sin clemencia. |
+| **AN11** | **Sombras en el Consejo** | [Ver misión](../../05_Aventuras/AN11_Mision_Sombras_Consejo.md) | Adicional | 🟡 Disponible | Entre el 2º y 3º Consejo | 11-12 | Aceptar la ayuda de un espía Zhentarim / Traición dentro del Consejo | **AN10** (Nodo 2) | Un agente Zhentarim ofrece información a cambio de favores; los PJs deben decidir si aceptarla y sus consecuencias. |
 
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **02** | **El Mar de Hielo Movedizo** | Disponible | Norte helado | Exploración / Combate | 9-10 | Matar a Arauthator o expulsarlo / Salvar a una caravana del norte / Ciudad destruida por un dragón enemigo | - | Rescatar a Maccath la Carmesí, obtener información sobre dragones blancos y la Hermandad Arcana. |
-| **03** | **Neronvain el Verde** | Disponible | Bosque Brumoso | Investigación / Diplomacia | 10-11 | Matar a Neronvain / Capturar a Neronvain / Matar a Chuth o expulsarlo / Negociar con los elfos de Melandrach / Matar a Melandrach sin juicio | - | Descubrir la traición del hijo del rey élfico y decidir su destino político. |
-| **A03** | **[Fuego en el Norte](../../05_Aventuras/A03_Mision_Fuego_Norte.md)** | Disponible | Tras Neronvain o entre 2º y 3º Consejo | Combate / Defensa regional | 10-11 | Ayudar en el ataque de una ciudad aliada / No ayudar en el ataque / Salvar o no salvar caravana | **Nodo 1:** Bloquea A14 | Defender el Norte, decidir entre proteger civiles o atacar líderes del culto. |
-| **A14** | **[Ruinas del Norte](../../05_Aventuras/A14_Mision_Ruinas_Norte.md)** | Disponible | Después de Fuego en el Norte / entre el 2º y 3º Consejo | Exploración / Rescate | 10-11 | Ciudad destruida por un dragón enemigo / Fracasar en una misión importante | **Nodo 1:** Bloquea A03 | Explorar las ruinas de una ciudad arrasada por dragones, rescatar supervivientes y descubrir pistas sobre el ritual. |
-| **A10** | **[El Juicio de Melandrach](../../05_Aventuras/A10_Mision_Juicio_Melandrach.md)** | Disponible | Después de Neronvain / antes del 2º Consejo | Política élfica / Diplomacia | 11-12 | Negociar con los elfos de Melandrach sobre Neronvain / Matar a Melandrach sin juicio | **Nodo 2:** Bloquea A11 | Evitar una guerra civil élfica juzgando a Neronvain con o sin clemencia. |
-| **A11** | **[Sombras en el Consejo](../../05_Aventuras/A11_Mision_Sombras_Consejo.md)** | Disponible | Entre el 2º y 3º Consejo | Intriga / Infiltración | 11-12 | Aceptar la ayuda de un espía Zhentarim / Traición dentro del Consejo | **Nodo 2:** Bloquea A10 | Un agente Zhentarim ofrece información a cambio de favores; los PJs deben decidir si aceptarla y sus consecuencias. |
+### **Misiones Nuevas No Disponibles (Se Desbloquean Más Tarde)**
 
-### **Misiones No Disponibles (Se Desbloquean Más Tarde)**
-
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **AO1** | **Alzamiento Monstruoso** | No Disponible | Entre el 1er y 2º Consejo | Encuentro secundario | 9-10 | Salvar a una facción menor / Moral del Norte | - | Un grupo de monstruos liberados por el caos del culto ataca asentamientos. |
-| **AO2** | **El Poder del Culto** | No Disponible | Tras Varram o Mar del Hielo | Investigación / Política | 9-10 | Descubrir una traición dentro del culto / Fracasar en una misión importante | - | Los héroes descubren indicios del creciente poder del culto. |
-| **AO5** | **Héroe Caído** | No Disponible | Entre el 2º y 3º Consejo | Evento dramático | 11-12 | Fracasar en rescatar a un aliado del Consejo / Moral del Norte | - | Un héroe aliado muere o desaparece; los PJs deben gestionar las consecuencias. |
+| # | Misión | Enlace | Tipo | Estado | Localización | Nivel | Eventos del Consejo | Bloquea a | Descripción |
+|---|--------|-------|------|--------|--------------|-------|---------------------|----------|-------------|
+| **AO05** | **Héroe Caído** | [Ver misión](../../05_Aventuras/AO05_Mision_Heroe_Caido.md) | Adicional oficial | 🔴 No Disponible | Entre el 2º y 3º Consejo | 11-12 | Fracasar en rescatar a un aliado del Consejo / Moral del Norte | - | Un héroe aliado muere o desaparece; los PJs deben gestionar las consecuencias. |
 
 ---
 
 ## 📅 **TERCER CONCILIO**
 ### *(Nivel 11-13)*
 
-### **Misiones Disponibles**
+> **💡 NOTA:** Las misiones de concilios anteriores siguen disponibles si no se han completado o bloqueado. Además, se desbloquean las misiones AO01, AO02, AO04, AN13, AO05 del concilio anterior.
 
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **04C** | **[El Culto Contraataca III (Desesperación)](../../05_Aventuras/04C_Mision_Culto_Contraataca_III_Desesperacion.md)** | Disponible | Entre el 3º y 4º Consejo | Encuentros dinámicos | 12-13 | Ataques coordinados del culto / Fracasar en una misión importante / Fracasar en rescatar a un aliado | - | Últimos ataques desesperados del culto antes del ritual final, buscando eliminar aliados o provocar caos político. |
+### **Misiones Nuevas Disponibles**
 
-### **Misiones Desbloqueadas**
+| # | Misión | Enlace | Tipo | Estado | Localización | Nivel | Eventos del Consejo | Bloquea a | Descripción |
+|---|--------|-------|------|--------|--------------|-------|---------------------|----------|-------------|
+| **04C** | **El Culto Contraataca III (Desesperación)** | [Ver misión](../../05_Aventuras/04C_Mision_Culto_Contraataca_III_Desesperacion.md) | Oficial | 🟡 Disponible | Entre el 3º y 4º Consejo | 12-13 | Ataques coordinados del culto / Fracasar en una misión importante / Fracasar en rescatar a un aliado | - | Últimos ataques desesperados del culto antes del ritual final, buscando eliminar aliados o provocar caos político. |
+| **05** | **Dragones Metálicos, Alzaos** | 📖 PDF/5e.tools | Oficial | 🟡 Disponible | Montañas del Norte | 11-12 | Reunir a los dragones metálicos / Hacer concesiones / Los dragones ayudan / Los dragones atacan territorio enemigo / Aparición de un dragón aliado espontáneo | - | Reunir a los dragones metálicos, resolver sus disputas y ganarlos como aliados. |
+| **06** | **Torre de Xonthal** | 📖 PDF/5e.tools | Oficial | 🟡 Disponible | Torre laberíntica | 12-13 | Matar a Rath Modar / Capturar a Rath Modar / Ritual interrumpido en Xonthal / La Hermandad Arcana se une | - | Enfrentar a los magos rebeldes, frenar rituales del culto y obtener apoyo arcano. |
+| **AN05** | **Sangre de Dragón** | [Ver misión](../../05_Aventuras/AN05_Mision_Sangre_Dragon.md) | Adicional | 🟡 Disponible | Después de Dragones Metálicos / antes de Xonthal | 11-12 | Rescatar a un dragón metálico cautivo / Aparición de dragón aliado espontáneo | **AN12, AN06** (Nodo 3) | Rescatar a un dragón metálico prisionero del culto y ganar su lealtad. |
+| **AN12** | **Cenizas de Plata** | [Ver misión](../../05_Aventuras/AN12_Mision_Cenizas_Plata.md) | Adicional | 🟡 Disponible | Después de Dragones Metálicos / antes de Xonthal | 11-12 | Los dragones metálicos atacan territorio enemigo (daños colaterales) | **AN05, AN06** (Nodo 3) | Los héroes investigan un pueblo destruido por "aliados" dracónicos; deben calmar el conflicto. |
+| **AN06** | **Ecos de la Torre** | [Ver misión](../../05_Aventuras/AN06_Mision_Ecos_Torre.md) | Adicional | 🟡 Disponible | Durante o tras Torre de Xonthal | 12-13 | Ritual interrumpido en Xonthal / La Hermandad Arcana se une | **AN05, AN12** (Nodo 3) | Evitar que el culto abra un portal infernal en Xonthal y decidir si aceptar la ayuda de Thay. |
+| **AN07** | **El Precio de la Guerra** | [Ver misión](../../05_Aventuras/AN07_Mision_Precio_Guerra.md) | Adicional | 🟡 Disponible | Entre el 3º y 4º Consejo | 13 | Salvar o perder a un líder del Consejo / Fracasar en rescatar a un aliado | **AN04** (Nodo 4) | Un ataque sorpresa del culto pone en peligro a un miembro importante del Consejo. |
+| **AN04** | **Traiciones en Waterdeep** | [Ver misión](../../05_Aventuras/AN04_Mision_Traiciones_Waterdeep.md) | Adicional | 🟡 Disponible | Entre el 3º y 4º Consejo | 11-12 | Traición dentro del Consejo / Espías Zhentarim o Thay | **AN07** (Nodo 4) | Descubrir quién filtra información al Culto antes de que estalle una crisis política. |
 
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **05** | **Dragones Metálicos, Alzaos** | Disponible | Montañas del Norte | Diplomacia / Negociación | 11-12 | Reunir a los dragones metálicos / Hacer concesiones / Los dragones ayudan / Los dragones atacan territorio enemigo / Aparición de un dragón aliado espontáneo | - | Reunir a los dragones metálicos, resolver sus disputas y ganarlos como aliados. |
-| **06** | **Torre de Xonthal** | Disponible | Torre laberíntica | Mazmorra / Exploración | 12-13 | Matar a Rath Modar / Capturar a Rath Modar / Ritual interrumpido en Xonthal / La Hermandad Arcana se une | - | Enfrentar a los magos rebeldes, frenar rituales del culto y obtener apoyo arcano. |
-| **A05** | **[Sangre de Dragón](../../05_Aventuras/A05_Mision_Sangre_Dragon.md)** | Disponible | Después de Dragones Metálicos / antes de Xonthal | Rescate / Diplomacia dracónica | 11-12 | Rescatar a un dragón metálico cautivo / Aparición de dragón aliado espontáneo | **Nodo 3:** Bloquea A12, A06 | Rescatar a un dragón metálico prisionero del culto y ganar su lealtad. |
-| **A12** | **[Cenizas de Plata](../../05_Aventuras/A12_Mision_Cenizas_Plata.md)** | Disponible | Después de Dragones Metálicos / antes de Xonthal | Investigación / Dilema moral | 11-12 | Los dragones metálicos atacan territorio enemigo (daños colaterales) | **Nodo 3:** Bloquea A05, A06 | Los héroes investigan un pueblo destruido por "aliados" dracónicos; deben calmar el conflicto. |
-| **A06** | **[Ecos de la Torre](../../05_Aventuras/A06_Mision_Ecos_Torre.md)** | Disponible | Durante o tras Torre de Xonthal | Aventura mágica / Sabotaje | 12-13 | Ritual interrumpido en Xonthal / La Hermandad Arcana se une | **Nodo 3:** Bloquea A05, A12 | Evitar que el culto abra un portal infernal en Xonthal y decidir si aceptar la ayuda de Thay. |
-| **A07** | **[El Precio de la Guerra](../../05_Aventuras/A07_Mision_Precio_Guerra.md)** | Disponible | Entre el 3º y 4º Consejo | Rescate / Defensa táctica | 13 | Salvar o perder a un líder del Consejo / Fracasar en rescatar a un aliado | **Nodo 4:** Bloquea A04 | Un ataque sorpresa del culto pone en peligro a un miembro importante del Consejo. |
-| **A04** | **[Traiciones en Waterdeep](../../05_Aventuras/A04_Mision_Traiciones_Waterdeep.md)** | Disponible | Entre el 3º y 4º Consejo | Investigación / Decisión política | 11-12 | Traición dentro del Consejo / Espías Zhentarim o Thay | **Nodo 4:** Bloquea A07 | Descubrir quién filtra información al Culto antes de que estalle una crisis política. |
+### **Misiones Nuevas No Disponibles (Se Desbloquean Más Tarde)**
 
-### **Misiones No Disponibles (Se Desbloquean Más Tarde)**
-
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **AO3** | **Demandas Diabólicas** | No Disponible | Tras Torre de Xonthal | Misión / Moral gris | 12-13 | Traición dentro del Consejo / Thay / Pactos oscuros | - | Negociar con fuerzas infernales que prometen ayuda contra Tiamat a cambio de un precio terrible. |
-| **AO6** | **Muerte en el Concilio** | No Disponible | Durante el 3º o 4º Consejo | Intriga / Asesinato | 12-14 | Traición dentro del Consejo / Consejo de Aguas Profundas | - | Un miembro del Consejo muere en circunstancias sospechosas; deben resolver el crimen. |
+| # | Misión | Enlace | Tipo | Estado | Localización | Nivel | Eventos del Consejo | Bloquea a | Descripción |
+|---|--------|-------|------|--------|--------------|-------|---------------------|----------|-------------|
+| **AO03** | **Demandas Diabólicas** | [Ver misión](../../05_Aventuras/AO03_Mision_Demandas_Diabolicas.md) | Adicional oficial | 🔴 No Disponible | Tras Torre de Xonthal | 12-13 | Traición dentro del Consejo / Thay / Pactos oscuros | - | Negociar con fuerzas infernales que prometen ayuda contra Tiamat a cambio de un precio terrible. |
+| **AO06** | **Muerte en el Concilio** | [Ver misión](../../05_Aventuras/AO06_Mision_Muerte_Concilio.md) | Adicional oficial | 🔴 No Disponible | Durante el 3º o 4º Consejo | 12-14 | Traición dentro del Consejo / Consejo de Aguas Profundas | - | Un miembro del Consejo muere en circunstancias sospechosas; deben resolver el crimen. |
 
 ---
 
 ## 📅 **CUARTO CONCILIO Y FINAL**
 ### *(Nivel 13-16)*
 
-### **Misiones Disponibles**
+> **💡 NOTA:** Las misiones de concilios anteriores siguen disponibles si no se han completado o bloqueado. Además, se desbloquean las misiones AO03, AO06 del concilio anterior.
 
-| # | Misión | Estado | Localización | Tipo | Nivel | Eventos del Consejo | Bloqueos | Descripción |
-|---|--------|--------|--------------|------|-------|---------------------|----------|-------------|
-| **07** | **Misión a Thay** | Disponible | Thay | Diplomacia / Política | 13-14 | Traición dentro del Consejo / Aceptar la ayuda de un espía Zhentarim / Fracasar en una misión importante | - | Buscar la cooperación de los Magos Rojos; negociación peligrosa con Szass Tam. |
-| **A09** | **[Pactos Oscuros](../../05_Aventuras/A09_Mision_Pactos_Oscuros.md)** | Disponible | Durante o después de Thay | Diplomacia / Moral gris | 13-14 | Traición dentro del Consejo / Thay / Pactos oscuros | **Nodo 5:** Bloquea A08 | Los Magos Rojos ofrecen un artefacto demoníaco capaz de sellar el Pozo del Dragón, pero con un costo terrible. |
-| **A08** | **[La Última Llama](../../05_Aventuras/A08_Mision_Ultima_Llama.md)** | Disponible | Preludio al Pozo de los Dragones | Batalla / Defensa simultánea | 14-15 | Ataques coordinados del culto / Ciudad destruida por un dragón enemigo | **Nodo 5:** Bloquea A09 | Tres ataques dracónicos simultáneos; deben elegir qué ciudad salvar antes del clímax. |
-| **08** | **El Retorno de Tiamat – Pozo de los Dragones** | Disponible | Pozo del Dragón | Batalla final / Ritual | 14-16 | Vencer a un wyrmspeaker menor / Fracasar en rescatar a un aliado / Ayudar o no ayudar / Ritual interrumpido (final) | - | Confrontar a Severin y detener la invocación de Tiamat; depende de los medidores globales. |
+### **Misiones Nuevas Disponibles**
+
+| # | Misión | Enlace | Tipo | Estado | Localización | Nivel | Eventos del Consejo | Bloquea a | Descripción |
+|---|--------|-------|------|--------|--------------|-------|---------------------|----------|-------------|
+| **07** | **Misión a Thay** | 📖 PDF/5e.tools | Oficial | 🟡 Disponible | Thay | 13-14 | Traición dentro del Consejo / Aceptar la ayuda de un espía Zhentarim / Fracasar en una misión importante | - | Buscar la cooperación de los Magos Rojos; negociación peligrosa con Szass Tam. |
+| **08** | **El Retorno de Tiamat – Pozo de los Dragones** | 📖 PDF/5e.tools | Oficial | 🟡 Disponible | Pozo del Dragón | 14-16 | Vencer a un wyrmspeaker menor / Fracasar en rescatar a un aliado / Ayudar o no ayudar / Ritual interrumpido (final) | - | Confrontar a Severin y detener la invocación de Tiamat; depende de los medidores globales. |
+| **AN09** | **Pactos Oscuros** | [Ver misión](../../05_Aventuras/AN09_Mision_Pactos_Oscuros.md) | Adicional | 🟡 Disponible | Durante o después de Thay | 13-14 | Traición dentro del Consejo / Thay / Pactos oscuros | **AN08** (Nodo 5) | Los Magos Rojos ofrecen un artefacto demoníaco capaz de sellar el Pozo del Dragón, pero con un costo terrible. |
+| **AN08** | **La Última Llama** | [Ver misión](../../05_Aventuras/AN08_Mision_Ultima_Llama.md) | Adicional | 🟡 Disponible | Preludio al Pozo de los Dragones | 14-15 | Ataques coordinados del culto / Ciudad destruida por un dragón enemigo | **AN09** (Nodo 5) | Tres ataques dracónicos simultáneos; deben elegir qué ciudad salvar antes del clímax. |
 
 ---
 
@@ -169,27 +165,27 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 
 ### **Misiones Adicionales Oficiales (6)**
 
-- AO1: Alzamiento Monstruoso
-- AO2: El Poder del Culto
-- AO3: Demandas Diabólicas
-- AO4: Cultista Cautivo
-- AO5: Héroe Caído
-- AO6: Muerte en el Concilio
+- AO01: Alzamiento Monstruoso
+- AO02: El Poder del Culto
+- AO03: Demandas Diabólicas
+- AO04: Cultista Cautivo
+- AO05: Héroe Caído
+- AO06: Muerte en el Concilio
 
-### **Misiones Adicionales (14)**
+### **Misiones Adicionales (12)**
 
-- A03: Fuego en el Norte
-- A04: Traiciones en Waterdeep
-- A05: Sangre de Dragón
-- A06: Ecos de la Torre
-- A07: El Precio de la Guerra
-- A08: La Última Llama
-- A09: Pactos Oscuros
-- A10: El Juicio de Melandrach
-- A11: Sombras en el Consejo
-- A12: Cenizas de Plata
-- A13: El Enclave en Llamas
-- A14: Ruinas del Norte
+- AN03: Fuego en el Norte
+- AN04: Traiciones en Waterdeep
+- AN05: Sangre de Dragón
+- AN06: Ecos de la Torre
+- AN07: El Precio de la Guerra
+- AN08: La Última Llama
+- AN09: Pactos Oscuros
+- AN10: El Juicio de Melandrach
+- AN11: Sombras en el Consejo
+- AN12: Cenizas de Plata
+- AN13: El Enclave en Llamas
+- AN14: Ruinas del Norte
 
 ---
 
@@ -210,8 +206,8 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 
 3. **Sistema de Bloqueos (Nodos de Decisión):**
    - **Misiones Oficiales:** Siempre disponibles, nunca se bloquean
-   - **Misiones Adicionales Oficiales (AO1-AO6):** Siempre disponibles, nunca se bloquean
-   - **Misiones Adicionales (A03-A14):** Pueden bloquearse mutuamente dentro de su nodo
+   - **Misiones Adicionales Oficiales (AO01-AO06):** Siempre disponibles, nunca se bloquean
+   - **Misiones Adicionales No Oficiales (AN03-AN14):** Pueden bloquearse mutuamente dentro de su nodo
    - Cuando los PJs eligen una misión de un nodo, marca las otras del mismo nodo como "No Disponible"
    - Si no eligen ninguna misión de un nodo antes del siguiente Concilio, aplica la consecuencia correspondiente (ver tabla de Nodos de Decisión)
 
@@ -237,19 +233,21 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 
 **Situación:** Los PJs regresan al Segundo Concilio después de completar "Varram el Blanco".
 
-**Misiones Disponibles para Presentar:**
-1. **El Mar de Hielo Movedizo** (Oficial - siempre disponible)
-2. **Neronvain el Verde** (Oficial - siempre disponible)
-3. **El Culto Contraataca II** (Oficial - siempre disponible)
-4. **Fuego en el Norte** (Adicional - Nodo 1: si eligen esta, A14 se bloquea)
-5. **Ruinas del Norte** (Adicional - Nodo 1: si eligen esta, A03 se bloquea)
-6. **El Juicio de Melandrach** (Adicional - Nodo 2: si eligen esta, A11 se bloquea)
-7. **Sombras en el Consejo** (Adicional - Nodo 2: si eligen esta, A10 se bloquea)
+**Misiones Disponibles para Presentar (Nuevas del 2º Concilio + anteriores no completadas):**
+1. **El Mar de Hielo Movedizo** (Oficial - desbloqueada del 1º Concilio)
+2. **Neronvain el Verde** (Oficial - nueva del 2º Concilio)
+3. **El Culto Contraataca II** (Oficial - nueva del 2º Concilio)
+4. **Fuego en el Norte** (Adicional - nueva del 2º Concilio, Nodo 1: si eligen esta, AN14 se bloquea)
+5. **Ruinas del Norte** (Adicional - nueva del 2º Concilio, Nodo 1: si eligen esta, AN03 se bloquea)
+6. **El Juicio de Melandrach** (Adicional - nueva del 2º Concilio, Nodo 2: si eligen esta, AN11 se bloquea)
+7. **Sombras en el Consejo** (Adicional - nueva del 2º Concilio, Nodo 2: si eligen esta, AN10 se bloquea)
 
 **Presentación Narrativa:**
 > "El Consejo se reúne de nuevo. Varios frentes se han abierto. Taern Hornblade informa de que Maccath la Carmesí aún no ha sido encontrada en el Mar de Hielo. Remallia menciona rumores de actividad del culto en el Bosque Brumoso. Y Ulder Ravengard pide ayuda urgente para defender el norte, pero también hay ruinas que explorar en las tierras arrasadas..."
 
 **Nota para el DM:**
+- Las misiones del 1º Concilio (01, 04A) siguen disponibles si no se completaron
+- Las misiones AO01, AO02, AO04, AN13 del 1º Concilio se desbloquean ahora
 - Si los PJs eligen "Fuego en el Norte", marca "Ruinas del Norte" como "No Disponible"
 - Si los PJs eligen "Ruinas del Norte", marca "Fuego en el Norte" como "No Disponible"
 - Si no eligen ninguna de las dos antes del Tercer Concilio, ambas se bloquean y aplica Moral -2

@@ -327,7 +327,7 @@ Esta misión debe sentirse como un thriller de espionaje:
 ## 🔗 **REFERENCIAS**
 
 - **Sistema del Consejo:** Ver [../04_Guia_DM/05_Sistema_Consejo_Guerra.md](../04_Guia_DM/05_Sistema_Consejo_Guerra.md)
-- **Misión relacionada:** Ver [A04_Mision_Traiciones_Waterdeep.md](./A04_Mision_Traiciones_Waterdeep.md) (Nivel 11-12)
+- **Misión relacionada:** Ver [AN04_Mision_Traiciones_Waterdeep.md](./AN04_Mision_Traiciones_Waterdeep.md) (Nivel 11-12)
 - **Estructura de Aventuras:** Ver [00_Estructura_Aventuras.md](./00_Estructura_Aventuras.md)
 
 ---
