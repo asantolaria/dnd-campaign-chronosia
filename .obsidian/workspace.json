@@ -41,12 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
+                "file": "El alzamiento de Tiamat - Sandbox/05_Aventuras/02_Mision_Mar_Hielo_Movedizo_Botin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Tabla_Misiones_Consejo"
+              "title": "02_Mision_Mar_Hielo_Movedizo_Botin"
+            }
+          },
+          {
+            "id": "6532467c9f9bdb9f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -215,10 +225,14 @@
   },
   "active": "c9b10c59d2ef6af7",
   "lastOpenFiles": [
+    "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/02_Mision_Mar_Hielo_Movedizo_Botin.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/00_Estructura_Aventuras.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/02_Mision_Mar_Hielo_Movedizo.md",
+    "El alzamiento de Tiamat - Sandbox/00_Plan_Desarrollo_Campana.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO01_Mision_Alzamiento_Monstruoso.md",
     "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/01_Tabla_Puntuacion_Consejo.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/04A_Mision_Culto_Contraataca_I_Emboscadas.md",
-    "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/00_Estructura_Aventuras.md",
     "El alzamiento de Tiamat - Sandbox/04_Guia_DM/01_Dirigir_Campana.md",
     "El alzamiento de Tiamat - Sandbox/04_Guia_DM/00_Indice_Guia_DM.md",
     "El alzamiento de Tiamat - Sandbox/04_Guia_DM/06_Asistentes_Consejo.md",
@@ -228,7 +242,6 @@
     "Sin título.base",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN14_Mision_Ruinas_Norte.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO02_Mision_Poder_Culto.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO01_Mision_Alzamiento_Monstruoso.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN13_Mision_Enclave_Llamas.md",
     "El alzamiento de Tiamat - Sandbox/01_Modificaciones_Personalizadas.md",
     "El alzamiento de Tiamat - Sandbox/02_Resumen_Campana.md",
@@ -239,9 +252,6 @@
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN11_Mision_Sombras_Consejo.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN10_Mision_Juicio_Melandrach.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN09_Mision_Pactos_Oscuros.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN08_Mision_Ultima_Llama.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN07_Mision_Precio_Guerra.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN06_Mision_Ecos_Torre.md",
     "Chronosia_Campana_Profesional/04_Aventuras/Fase_6_Batalla_Final",
     "Chronosia_Campana_Profesional/04_Aventuras/Fase_5_Viaje_al_Pasado",
     "Chronosia_Campana_Profesional/04_Aventuras/Fase_4_Ritual_Completado",
