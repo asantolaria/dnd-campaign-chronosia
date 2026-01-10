@@ -509,3 +509,5 @@ Esta misión se conecta con:
 
 *Esta misión muestra cómo el Culto del Dragón está expandiendo su poder de manera más audaz y organizada, estableciendo control económico y político además de militar. Los héroes deben actuar rápidamente para prevenir que el Culto establezca un dominio permanente en la región.* 💰🐉⚔️
 
+
+

@@ -496,3 +496,5 @@ Esta misión se conecta con:
 
 *Esta misión ofrece a los héroes una oportunidad valiosa de obtener información del Culto, pero también los coloca en una posición peligrosa donde deben proteger a una prisionera mientras luchan contra un equipo de rescate determinado a eliminarla.* 🔒⚔️
 
+
+

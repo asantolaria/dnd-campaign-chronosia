@@ -396,3 +396,5 @@ Esta misión se conecta con:
 
 *Esta misión revela el verdadero poder del Culto del Dragón y el Pozo de los Dragones, reforzando la necesidad crítica de reunir todas las facciones del Consejo antes del asalto final. La pérdida o salvación de Cylanestriel tiene consecuencias emocionales y estratégicas que afectan el resultado de la campaña.* 💔🐉⚔️
 
+
+

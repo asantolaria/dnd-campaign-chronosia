@@ -396,7 +396,8 @@ Un "mandato de operación de emergencia", un escrito sellado por Laeral y otros 
 
 > "Si el ritual de invocación depende del Cuerno, y el Cuerno tiene origen antiguo, entonces las respuestas están allá… donde la sangre se congela antes de tocar el suelo."
 
-> **Ver misión completa:** [Misión: El Mar de Hielo Movedizo](./04_Mision_Mar_Hielo_Movedizo.md)
+> **Ver misión completa:** 📖 Consultar campaña original (PDF o 5e.tools)<br/>
+> **💎 Opciones de Botín:** [Tesoro de la Guarida de Arauthator](./02_Mision_Mar_Hielo_Movedizo_Botin.md)
 
 ---
 

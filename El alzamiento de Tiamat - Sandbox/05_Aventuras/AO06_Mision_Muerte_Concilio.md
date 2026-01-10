@@ -507,3 +507,5 @@ Esta misión se conecta con:
 
 *Esta misión revela la infiltración del Culto del Dragón en el corazón del Consejo, creando un misterio de asesinato que debe ser resuelto antes de que el patrón de muerte y división destruya la unidad del Consejo.* 🔍💀⚔️
 
+
+
