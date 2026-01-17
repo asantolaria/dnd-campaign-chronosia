@@ -199,3 +199,4 @@ Y entonces... veis a Edward Teach. Está bloqueando el camino.
 
 *Los dioses llaman. El tiempo se agota. El asalto final comienza. Pero primero... Teach bloquea el camino.* ⚔️🏰✨
 
+

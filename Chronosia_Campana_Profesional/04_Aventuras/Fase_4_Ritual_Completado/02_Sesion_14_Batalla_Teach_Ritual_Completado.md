@@ -306,3 +306,4 @@ Pero primero... debemos sobrevivir. Este mundo es peligroso ahora."
 
 *El ritual se completa. Los dioses mueren. Aethernus se convierte en dios. El mundo cambia para siempre. Pero aún hay esperanza... si pueden viajar al pasado.* ⚔️🏰✨
 
+
