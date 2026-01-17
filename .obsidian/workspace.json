@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El alzamiento de Tiamat - Sandbox/01_Modificaciones_Personalizadas.md",
+                "file": "El alzamiento de Tiamat - Sandbox/05_Aventuras/02_Mision_Mar_Hielo_Movedizo_Botin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Modificaciones_Personalizadas"
+              "title": "02_Mision_Mar_Hielo_Movedizo_Botin"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El alzamiento de Tiamat - Sandbox/05_Aventuras/02_Mision_Mar_Hielo_Movedizo_Botin.md",
+                "file": "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Mision_Mar_Hielo_Movedizo_Botin"
+              "title": "02_Tabla_Misiones_Consejo"
             }
           },
           {
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,35 +223,37 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c9b10c59d2ef6af7",
+  "active": "19b5787bfeac7f9b",
   "lastOpenFiles": [
     "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
+    "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/00_Indice_Tablas.md",
+    "El alzamiento de Tiamat - Sandbox/04_Guia_DM/05_Sistema_Consejo_Guerra.md",
+    "El alzamiento de Tiamat - Sandbox/07_Tracking/01_Cronograma_Campana.md",
+    "El alzamiento de Tiamat - Sandbox/07_Tracking/02_Estado_Actual.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/02_Mision_Mar_Hielo_Movedizo_Botin.md",
+    "Pasted image 20260117132110.png",
+    "El alzamiento de Tiamat - Sandbox/07_Tracking/00_Indice_Tracking.md",
+    "El alzamiento de Tiamat - Sandbox/07_Tracking",
+    "El alzamiento de Tiamat - Sandbox/04_Guia_DM/04_Sistema_Tracking.md",
+    "El alzamiento de Tiamat - Sandbox/04_Guia_DM/01_Dirigir_Campana.md",
+    "El alzamiento de Tiamat - Sandbox/01_Modificaciones_Personalizadas.md",
+    "El alzamiento de Tiamat - Sandbox/00_Plan_Desarrollo_Campana.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/01_Episodio_1_Consejo_Aguas_Profundas.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/00_Estructura_Aventuras.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/02_Mision_Mar_Hielo_Movedizo.md",
-    "El alzamiento de Tiamat - Sandbox/00_Plan_Desarrollo_Campana.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO01_Mision_Alzamiento_Monstruoso.md",
     "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/01_Tabla_Puntuacion_Consejo.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/04A_Mision_Culto_Contraataca_I_Emboscadas.md",
-    "El alzamiento de Tiamat - Sandbox/04_Guia_DM/01_Dirigir_Campana.md",
     "El alzamiento de Tiamat - Sandbox/04_Guia_DM/00_Indice_Guia_DM.md",
     "El alzamiento de Tiamat - Sandbox/04_Guia_DM/06_Asistentes_Consejo.md",
-    "El alzamiento de Tiamat - Sandbox/04_Guia_DM/05_Sistema_Consejo_Guerra.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/01_Episodio_1_Consejo_Aguas_Profundas.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO04_Mision_Cultista_Cautivo.md",
     "Sin título.base",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN14_Mision_Ruinas_Norte.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO02_Mision_Poder_Culto.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN13_Mision_Enclave_Llamas.md",
-    "El alzamiento de Tiamat - Sandbox/01_Modificaciones_Personalizadas.md",
     "El alzamiento de Tiamat - Sandbox/02_Resumen_Campana.md",
     "El alzamiento de Tiamat - Sandbox/03_Referencias_Original.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO06_Mision_Muerte_Concilio.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AO05_Mision_Heroe_Caido.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN12_Mision_Cenizas_Plata.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN11_Mision_Sombras_Consejo.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN10_Mision_Juicio_Melandrach.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN09_Mision_Pactos_Oscuros.md",
     "Chronosia_Campana_Profesional/04_Aventuras/Fase_6_Batalla_Final",
     "Chronosia_Campana_Profesional/04_Aventuras/Fase_5_Viaje_al_Pasado",
     "Chronosia_Campana_Profesional/04_Aventuras/Fase_4_Ritual_Completado",
@@ -260,7 +262,6 @@
     "Chronosia_Campana_Profesional/Misiones/03_Final",
     "Chronosia_Campana_Profesional/Misiones/02_Desarrollo - sandbox",
     "Chronosia_Campana_Profesional/Misiones/01_Inicio - rail road",
-    "Chronosia_Campana_Profesional/Misiones",
     "Chronosia_Campana_Profesional/assets/simbolo cronófagos.png",
     "Chronosia_Campana_Profesional/assets/region-map.png",
     "Chronosia_Campana_Profesional/assets/oficial cronófago.png",
@@ -269,7 +270,6 @@
     "Chronosia_Campana_Profesional/assets/cronofago luchador.png",
     "Chronosia_Campana_Profesional/assets/cronofago lanzador conjuros.png",
     "Chronosia_Campana_Profesional/assets/Aethernus Valcarys - Manshoon.png",
-    "assets/oficial cronófago.png",
-    "assets/simbolo cronófagos.png"
+    "assets/oficial cronófago.png"
   ]
 }
