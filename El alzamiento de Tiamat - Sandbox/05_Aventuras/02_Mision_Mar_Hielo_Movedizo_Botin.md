@@ -236,7 +236,7 @@ Hace una pausa, y cuando habla de nuevo, su voz tiene un tono diferente. Más fu
 
 Sus ojos se posan en vosotros, buscando comprensión.
 
-> "No es que no confíe en vosotros. Pero después de tres años como prisionera, necesito recuperar algo de control sobre mi vida. Luskan es mi hogar. Mi torre. Mis investigaciones. ¿Podéis entenderlo?"
+> "No es que no confíe en vosotros. Pero después de tres años como prisionera, necesito recuperar algo de control sobre mi vida. Luskan es mi hogar. Mis aposentos en la Torre de Huéspedes de lo arcano. Mis investigaciones. ¿Podéis entenderlo?"
 
 ### **Si Arauthator ha huido:**
 
@@ -283,33 +283,39 @@ El viaje desde el Mar de Hielo Movedizo hasta Luskan es más corto de lo esperad
 
 Cuando Luskan aparece en el horizonte, Maccath se pone de pie en la proa del barco. Sus manos se aferran a la barandilla con una fuerza que delata emociones contenidas.
 
-> "Mi torre está en el distrito de los magos," dice sin miraros.  
-> "Espero que… espero que todo esté como lo dejé."
+La ciudad portuaria se extiende a ambos lados del río Mirar, sus edificaciones apelotonadas elevándose dos o tres pisos sobre el nivel del suelo. En la desembocadura del río, cinco islas se alzan sobre las aguas, y en una de ellas —la más cercana a la orilla sur— se distingue la imponente silueta de la **Torre de Huéspedes de lo arcano**, la sede de la Hermandad Arcana. La estructura mágica se alza como un árbol gigante o una mano abierta, con su espira central rodeada por otras cuatro espiras en los puntos cardinales.
+
+> "Mis aposentos están en la Torre de Huéspedes de lo arcano," dice sin miraros, señalando hacia la imponente estructura en la isla.  
+> "Espero que… espero que todo esté como lo dejé. Pero tened cuidado: Luskan no es amigable con los visitantes. La Hermandad Arcana vigila a todos los forasteros. Y esta ciudad… esta ciudad tiene sus propias reglas."
 
 ---
 
-## 🏰 **LUSKAN - LA TORRE DE MACCATH**
+## 🏰 **LUSKAN - LA TORRE DE HUÉSPEDES DE LO ARCANO**
 
 ![[Pasted image 20260117132110.png]]
-La torre de Maccath se alza en el distrito de los magos de Luskan, una estructura de piedra oscura con ventanas que brillan con una luz mágica tenue. Cuando llegáis, la torre está exactamente como Maccath la dejó hace tres años: intacta, protegida por las magias de la Hermandad Arcana, pero con el polvo del tiempo acumulado en cada superficie.
+Maccath os lleva a través del río Mirar, hacia una de las islas de la desembocadura donde se alza la **Torre de Huéspedes de lo arcano**, la sede de la Hermandad Arcana en Luskan. Esta imponente estructura de piedra creada por la magia se alza como un árbol gigante o una mano humana abierta, con una espira central rodeada por otras cuatro espiras en los puntos cardinales. Cada espira está erizada con espiras menores, balcones y torres que se ramifican desde el tronco principal.
 
-Maccath sube las escaleras con pasos lentos, casi reverenciales. Cada habitación que recorre parece despertar recuerdos: su biblioteca personal, su laboratorio de alquimia, su estudio donde pasó incontables horas investigando el Cuerno del Dragón.
+Al acercaros, notáis que la torre está vigilada. No solo por guardias visibles, sino por algo más: una sensación de magia defensiva que os envuelve. Maccath os guía con confianza, pero advierte:
 
-> "Todo está como lo dejé," murmura, tocando el lomo de un libro con cuidado.  
+> "La Hermandad Arcana no confía en nadie. Esta torre está protegida por basiliscos, gólems de piedra, y los propios hechiceros que residen aquí. Y entre ellos… hay rivalidades. Muchas rivalidades."
+
+Cruzando el puente hacia la isla, entráis a la torre a través de una gigantesca cámara de entrada. El acceso a los niveles superiores se hace a través de una escalera de caracol central. Maccath os conduce a sus aposentos en una de las espiras laterales, donde solía estudiar e investigar el Cuerno del Dragón antes de su desaparición.
+
+> "Todo está como lo dejé," murmura, tocando el lomo de un libro con cuidado mientras recorre su biblioteca personal.  
 > "Como si el tiempo se hubiera detenido aquí mientras yo estaba atrapada en el hielo."
 
 En su escritorio, encuentra una nota que no estaba cuando se fue. Está colocada cuidadosamente, como si alguien supiera que algún día regresaría:
 
-> *"Maccath, si alguna vez lees esto, sabrás que el Culto del Dragón ha estado buscando tus investigaciones. Han intentado entrar en tu torre tres veces en los últimos meses. La Hermandad Arcana ha puesto guardias, pero… no podemos protegerla indefinidamente. Si regresas, ve a Waterdeep. El Consejo necesita tu conocimiento. Y tú necesitas su protección."*
+> *"Maccath, si alguna vez lees esto, sabrás que el Culto del Dragón ha estado buscando tus investigaciones. Han intentado entrar en tus aposentos tres veces en los últimos meses. La Hermandad Arcana ha puesto guardias, pero… no podemos protegerlos indefinidamente. Si regresas, ve a Waterdeep. El Consejo necesita tu conocimiento. Y tú necesitas su protección."*
 > 
 > *— Taern Hornblade, Alto Mago de Silverymoon*
 
 Maccath se sienta en su silla, la misma silla donde pasó tantas horas estudiando. Lee la nota varias veces, sus dedos acariciando el papel como si pudiera sentir la urgencia en las palabras.
 
 > "Taern siempre fue directo," dice finalmente.  
-> "Y tiene razón. Pero… necesito una noche. Una noche en mi torre. Para recordar quién era. Para decidir quién quiero ser ahora."
+> "Y tiene razón. Pero… necesito una noche. Una noche aquí, en la torre. Para recordar quién era. Para decidir quién quiero ser ahora."
 
-Pasa la noche en Luskan. Maccath se encierra en su estudio, revisando sus archivos, sus notas, sus investigaciones sobre el Cuerno del Dragón. Vosotros podéis descansar en las habitaciones de invitados de la torre, o explorar Luskan si lo deseáis.
+Pasa la noche en la Torre de Huéspedes de lo arcano. Maccath se encierra en sus aposentos, revisando sus archivos, sus notas, sus investigaciones sobre el Cuerno del Dragón. Vosotros podéis descansar en las habitaciones de invitados de la torre, o explorar Luskan si lo deseáis —aunque debéis tener en cuenta que los visitantes son vigilados constantemente por agentes de la Hermandad Arcana, y que la ciudad tiene fama de ser peligrosa para los forasteros. Si decidís salir, podríais visitar lugares como **El Alfanje**, la notoria taberna pirata, o la **Posada de las Siete velas**, la única posada de Luskan, aunque esta última también está infiltrada por agentes de la Hermandad.
 
 A la mañana siguiente, Maccath baja con una expresión más resuelta. Ha recogido sus archivos más importantes en una bolsa mágica.
 
@@ -320,7 +326,9 @@ A la mañana siguiente, Maccath baja con una expresión más resuelta. Ha recogi
 
 ## ⚔️ **LA EMBOSCADA DEL CULTO**
 
-El puerto de Luskan bulle con actividad. Barcos mercantes, pesqueros, y algunos veleros más grandes se balancean en las aguas. Maccath se dirige hacia el muelle principal, donde un barco mercante con destino a Waterdeep está cargando mercancías.
+El puerto de Luskan bulle con actividad, pero hay algo en el ambiente que os pone en alerta. Barcos mercantes, pesqueros, y algunos veleros más grandes —algunos con banderas que no reconocéis— se balancean en las aguas. Los marineros que trabajan en los muelles os observan con desconfianza, y más de una vez notáis cómo alguien desaparece en un callejón después de miraros fijamente. Esta es una ciudad de piratas y comerciantes despiadados, y los visitantes no son bien recibidos.
+
+Maccath se dirige hacia el muelle principal con determinación, ignorando las miradas sospechosas. Un barco mercante con destino a Waterdeep está cargando mercancías, y ella parece conocer al capitán —o al menos, confía en que el barco partirá a tiempo.
 
 Pero antes de que podáis acercaros, algo os alerta. **Una sensación de peligro**. Tal vez es el reflejo de una armadura demasiado pulida en un callejón. Tal vez es el susurro de una conversación que se corta demasiado rápido. O tal vez es simplemente la intuición de quienes han sobrevivido a suficientes emboscadas.
 
@@ -404,7 +412,7 @@ Hace una pausa, y cuando continúa, su voz es más fuerte, más decidida.
 
 ## 🏛️ **LA HERMANDAD ARCANA**
 
-Maccath os lleva a una torre más grande en el distrito de los magos: la sede local de la Hermandad Arcana en Luskan. Dentro, os recibe un mago anciano con una barba blanca y ojos que brillan con inteligencia arcana.
+A la mañana siguiente, después de que Maccath ha recuperado sus archivos, os conduce a través de la escalera de caracol central hacia una sala de reuniones en la espira central de la Torre de Huéspedes de lo arcano. Allí os recibe un mago anciano con una barba blanca y ojos que brillan con inteligencia arcana.
 
 > "Maccath," dice el mago, abrazándola con sorpresa y alivio.  
 > "Hemos temido lo peor. Tres años sin noticias…"
@@ -473,11 +481,27 @@ Durante el viaje, Maccath comparte información crucial que complementa lo que y
 - **Si los enemigos son capturados:** Pueden proporcionar información limitada (no conocen los planes completos, solo sus órdenes de "matar a la tiefling antes de que llegue a Waterdeep")
 - **Elementos del entorno:** Barriles, cajas, cuerdas, muelle resbaladizo, barcos cercanos, multitud en pánico
 
+### **Luskan - La Ciudad Portuaria del Norte:**
+
+- **Atmósfera:** Luskan es una ciudad peligrosa y desconfiada. Los visitantes no son bien recibidos y son vigilados constantemente por agentes de la Hermandad Arcana. La ciudad tiene fama de ser un puerto de piratas, y los Grandes Capitanes (Táerl, Báram, Kurzh, Súlyack, Rézhnor) gobiernan oficialmente, aunque el verdadero poder reside en la Torre de Huéspedes de lo arcano.
+
+- **Geografía:** El río Mirar divide la ciudad en dos zonas: la sección norte (almacenes y depósitos amurallados) y la zona sur (más antigua y fortificada). Cinco islas se alzan en la desembocadura del río, y la Torre de Huéspedes de lo arcano está en una de las islas más cercanas a la orilla sur.
+
+- **Vigilancia:** La Hermandad Arcana mantiene vigilados a todos los visitantes. Cualquiera que no parezca humano puro corre el riesgo de ser atacado. Los agentes de la Hermandad (ladrones y magos de poco poder pero gran ambición) siguen a los forasteros constantemente.
+
+- **Lugares de Interés:**
+  - **El Alfanje (Cutlass):** Notoria taberna pirata donde se reúnen marineros, comerciantes, ladrones y mercenarios. Las armas están prohibidas dentro, pero el lugar tiene túneles secretos a las alcantarillas.
+  - **Posada de las Siete velas:** La única posada de Luskan, de sorprendente calidad pero infiltrada por al menos seis agentes de la Hermandad Arcana que vigilan a los viajeros.
+  - **Torre de Huéspedes de lo arcano:** Sede de la Hermandad Arcana, protegida por basiliscos, gólems de piedra y los propios hechiceros. Estructura mágica con una espira central y cuatro espiras laterales.
+
+- **Para el DM:** Usa la atmósfera de desconfianza y vigilancia para crear tensión. Los jugadores deberían sentir que están siendo observados. Si exploran la ciudad, pueden encontrar información útil pero también peligros. La presencia de Maccath les da cierta protección, pero no total.
+
 ### **La Hermandad Arcana:**
 
 - Esta escena establece que la Hermandad Arcana se une oficialmente al Consejo
 - Activa el **Evento 13: "La Hermandad Arcana se une a la Alianza"**
 - Maccath ahora tiene una posición oficial, lo que la hace más valiosa y más peligrosa
+- La Torre de Huéspedes de lo arcano es la sede de la Hermandad en Luskan, situada en una de las islas de la desembocadura del río Mirar
 
 ### **Información Crítica:**
 
