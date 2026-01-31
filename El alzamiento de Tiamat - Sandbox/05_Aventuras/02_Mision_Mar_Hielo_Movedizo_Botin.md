@@ -32,21 +32,21 @@ Para determinar qué objetos se encuentran en la guarida, tira **1d100** para ca
 
 ## ⚔️ **OBJETOS MÁGICOS**
 
-| Tirada (d100) | Objeto | Descripción |
-|---------------|--------|-------------|
-| **01-50** | **Armadura de placas +1** | Armadura de placas con bonificador +1 a la CA |
-| **01-40** | **Espada larga +2** | Espada larga con bonificador +2 a las tiradas de ataque y daño |
-| **01-30** | **Espada de hielo** | Espada larga +2, +1d6 de daño por frío, resistencia al frío mientras la empuñas |
-| **01-25** | **Hacha de guerra +2** | Hacha de guerra +2, +1d4 de daño por frío (de los bárbaros del norte) |
-| **01-35** | **Anillo de protección +1** | Anillo que otorga +1 a la CA y a las tiradas de salvación |
-| **01-30** | **Anillo de resistencia al frío** | Anillo que otorga inmunidad al daño por frío |
-| **01-20** | **Armadura de escamas de dragón blanco** | Armadura de placas +1, resistencia al frío |
-| **01-15** | **Armadura de escamas de dragón blanco (mejorada)** | Armadura de placas +2, resistencia al frío, puede lanzar *armadura de hielo* 1/día |
-| **01-20** | **Báculo +1** | Báculo +1, puede lanzar *rayo de escarcha* 2/día |
-| **01-15** | **Báculo del invierno** | Báculo +2, puede lanzar *conjuro de hielo* 3/día |
-| **01-10** | **Espada de hielo eterno** | Espada larga +2, +1d8 de daño por frío, inmunidad al frío mientras la empuñas, puede lanzar *conjuro de hielo* 1/día |
-| **01-10** | **Anillo de dominio del frío** | Inmunidad al frío, puede lanzar *cone of cold* 1/día |
-| **01-08** | **Báculo del Corazón Helado** | Báculo mágico con 7 cargas (recupera 1d6+1 al amanecer). Puedes usar una acción para gastar 1-3 cargas y lanzar un hechizo de frío: 1 carga = *rayo de escarcha* (nivel 1) o *suelo helado* (nivel 1), 2 cargas = *conjuro de hielo* (nivel 3), 3 cargas = *ice storm* (nivel 4). Mientras lo empuñas, tienes resistencia al daño por frío |
+| Tirada (d100) | Objeto                                              | Descripción                                                                                                                                                                                                                                                                                                                                |
+| ------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **01-50**     | **Armadura de placas +1**                           | Armadura de placas con bonificador +1 a la CA                                                                                                                                                                                                                                                                                              |
+| **01-40**     | **Espada larga +2**                                 | Espada larga con bonificador +2 a las tiradas de ataque y daño                                                                                                                                                                                                                                                                             |
+| **01-30**     | **Espada de hielo**                                 | Espada larga +2, +1d6 de daño por frío, resistencia al frío mientras la empuñas                                                                                                                                                                                                                                                            |
+| **01-25**     | **Hacha de guerra +2**                              | Hacha de guerra +2, +1d4 de daño por frío (de los bárbaros del norte)                                                                                                                                                                                                                                                                      |
+| **01-35**     | **Anillo de protección +1**                         | Anillo que otorga +1 a la CA y a las tiradas de salvación                                                                                                                                                                                                                                                                                  |
+| **01-30**     | **Anillo de resistencia al frío**                   | Anillo que otorga inmunidad al daño por frío                                                                                                                                                                                                                                                                                               |
+| **01-20**     | **Armadura de escamas de dragón blanco**            | Armadura de placas +1, resistencia al frío                                                                                                                                                                                                                                                                                                 |
+| **01-15**     | **Armadura de escamas de dragón blanco (mejorada)** | Armadura de placas +2, resistencia al frío, puede lanzar *armadura de hielo* 1/día                                                                                                                                                                                                                                                         |
+| **01-20**     | **Báculo +1**                                       | Báculo +1, puede lanzar *rayo de escarcha* 2/día                                                                                                                                                                                                                                                                                           |
+| **01-15**     | **Báculo del invierno**                             | Báculo +2, puede lanzar *conjuro de hielo* 3/día                                                                                                                                                                                                                                                                                           |
+| **01-10**     | **Espada de hielo eterno**                          | Espada larga +2, +1d8 de daño por frío, inmunidad al frío mientras la empuñas, puede lanzar *conjuro de hielo* 1/día                                                                                                                                                                                                                       |
+| **01-10**     | **Anillo de dominio del frío**                      | Inmunidad al frío, puede lanzar *cone of cold* 1/día                                                                                                                                                                                                                                                                                       |
+| **01-08**     | **Báculo del Corazón Helado**                       | Báculo mágico con 7 cargas (recupera 1d6+1 al amanecer). Puedes usar una acción para gastar 1-3 cargas y lanzar un hechizo de frío: 1 carga = *rayo de escarcha* (nivel 1) o *suelo helado* (nivel 1), 2 cargas = *conjuro de hielo* (nivel 3), 3 cargas = *ice storm* (nivel 4). Mientras lo empuñas, tienes resistencia al daño por frío |
 
 ### **Pociones y Pergaminos**
 
@@ -292,7 +292,9 @@ La ciudad portuaria se extiende a ambos lados del río Mirar, sus edificaciones 
 
 ## 🏰 **LUSKAN - LA TORRE DE HUÉSPEDES DE LO ARCANO**
 
-![[Pasted image 20260117132110.png]]
+![[../06_Recursos/Mapas/Luskan.png]]
+*Luskan — ciudad portuaria del norte, desembocadura del río Mirar y Torre de Huéspedes de lo arcano.*
+
 Maccath os lleva a través del río Mirar, hacia una de las islas de la desembocadura donde se alza la **Torre de Huéspedes de lo arcano**, la sede de la Hermandad Arcana en Luskan. Esta imponente estructura de piedra creada por la magia se alza como un árbol gigante o una mano humana abierta, con una espira central rodeada por otras cuatro espiras en los puntos cardinales. Cada espira está erizada con espiras menores, balcones y torres que se ramifican desde el tronco principal.
 
 Al acercaros, notáis que la torre está vigilada. No solo por guardias visibles, sino por algo más: una sensación de magia defensiva que os envuelve. Maccath os guía con confianza, pero advierte:

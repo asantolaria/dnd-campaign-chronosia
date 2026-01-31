@@ -7,6 +7,7 @@
 > - [Índice de Guía del DM](./00_Indice_Guia_DM.md) - Volver al índice
 > - [Sistema del Consejo de Guerra](./05_Sistema_Consejo_Guerra.md) - Explicación conceptual del sistema
 > - [Tablas de Tracking](../06_Recursos/Tablas/00_Indice_Tablas.md) - Tablas de referencia
+> - [**Tracking de la campaña**](../07_Tracking/00_Indice_Tracking.md) - Cronograma y estado actual (parte práctica)
 
 ---
 
@@ -310,6 +311,7 @@ En el Consejo Final (antes del asalto al Pozo), evalúa:
 
 ## 🔗 **REFERENCIAS**
 
+- **Tracking de la campaña (cronograma y estado actual):** Ver [../07_Tracking/00_Indice_Tracking.md](../07_Tracking/00_Indice_Tracking.md)
 - **Sistema del Consejo:** Ver [05_Sistema_Consejo_Guerra.md](./05_Sistema_Consejo_Guerra.md)
 - **Tabla de Puntuación Completa:** Ver [../06_Recursos/Tablas/01_Tabla_Puntuacion_Consejo.md](../06_Recursos/Tablas/01_Tabla_Puntuacion_Consejo.md)
 - **Tabla de Misiones:** Ver [../06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md](../06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md)

@@ -3,16 +3,16 @@
 
 ---
 
-> **📖 ÚLTIMA ACTUALIZACIÓN:** Día 65 - A punto de combatir contra Arauthator
+> **📖 ÚLTIMA ACTUALIZACIÓN:** Día 65+ - Arauthator derrotado/expulsado. Rescate de Maccath completado
 
 ---
 
 ## 🎯 **ESTADO ACTUAL**
 
 ### **Nivel del Grupo:** 9
-### **Día Actual:** 65
-### **Ubicación:** Oyaviggaton (Mar de Hielo Movedizo) - Dentro de la guarida de Arauthator
-### **Situación:** A punto de combatir contra Arauthator, el dragón blanco anciano
+### **Día Actual:** 65+
+### **Ubicación:** Oyaviggaton (Mar de Hielo Movedizo) — Tras acabar con Arauthator. Próximo: Luskan / Waterdeep
+### **Situación:** Arauthator derrotado o expulsado. Maccath la Carmesí rescatada. En camino a Luskan (Torre de Huéspedes de lo arcano) y luego Waterdeep
 
 ---
 
@@ -20,14 +20,16 @@
 
 **Misión 02: El Mar de Hielo Movedizo**
 - **Objetivo:** Rescatar a Maccath la Carmesí y obtener información sobre el Cuerno del Dragón
-- **Estado:** En curso - Combate contra Arauthator pendiente
+- **Estado:** En curso — Arauthator acabado. Regreso a Luskan y Waterdeep
 - **Progreso:**
   - ✅ Viaje desde Waterdeep completado
   - ✅ Información sobre Maccath obtenida en Luskan
   - ✅ Llegada a Oyaviggaton
   - ✅ Entrada a la guarida
   - ✅ Encuentro con kobolds (2 horas)
-  - 🔄 **PRÓXIMO:** Combate contra Arauthator
+  - ✅ Combate contra Arauthator (derrotado o expulsado)
+  - ✅ Rescate de Maccath la Carmesí
+  - 🔄 **PRÓXIMO:** Viaje a Luskan (Torre de Huéspedes de lo arcano) → Waterdeep → Segundo Concilio
 
 ---
 
@@ -50,27 +52,30 @@
 ## 🎭 **PERSONAJES CLAVE ENCONTRADOS**
 
 - **Varram el Blanco:** Derrotado (muerto) en la Tumba de Diderius
-- **Maccath la Carmesí:** Pendiente de rescate en la guarida de Arauthator
+- **Maccath la Carmesí:** Rescatada. Acompaña al grupo hacia Luskan (aposentos en la Torre de Huéspedes de lo arcano) y Waterdeep
 
 ---
 
 ## 📊 **PRÓXIMOS PASOS ESPERADOS**
 
-1. **Combate contra Arauthator** (Día 65 - Continuación)
-   - Resultado determinará narrativa a usar (muerte o huida)
-   - Rescate de Maccath la Carmesí
+1. **Regreso desde el Mar de Hielo** (Días 66-67+)
+   - Viaje a Luskan
+   - Torre de Huéspedes de lo arcano — aposentos de Maccath (recuperar archivos)
+   - Posible emboscada del Culto en el puerto de Luskan
+   - Decisión de ir a Waterdeep con Maccath como emisaria de la Hermandad Arcana
 
-2. **Regreso desde el Mar de Hielo** (Días 66-67+)
-   - Viaje a Luskan (si Maccath insiste)
-   - Descubrimiento en la torre de Maccath
-   - Decisión de ir a Waterdeep
-
-3. **Segundo Concilio en Waterdeep** (Días 68+)
+2. **Segundo Concilio en Waterdeep** (Días 68+)
    - Presentación del informe sobre la misión
    - Activación de eventos del Consejo:
-     - Evento 14: "Matar a Arauthator o expulsarlo"
-     - Evento 13: "La Hermandad Arcana se une" (si Maccath llega)
+     - **Evento 14:** "Matar a Arauthator o expulsarlo" ✅ (a aplicar al llegar)
+     - **Evento 13:** "La Hermandad Arcana se une" (si Maccath llega como emisaria)
    - Asignación de nuevas misiones
+
+3. **Siguiente misión elegida: Misiones Adicionales - Nodo 1: Defensa del Norte**
+   - **A03 - Fuego en el Norte** (Nivel 10-11) — única disponible del Nodo 1 (A14 - Ruinas del Norte ya completada)
+   - El culto ataca asentamientos del norte en represalia por la derrota de Arauthator. Decidir entre proteger civiles o atacar líderes del culto.
+   - **Impacto previsto:** Consejo +1, Ulder +2, Moral +1
+   - **Nota:** Elegir esta misión bloquea A14 (ya completada), así que no hay conflicto
 
 ---
 
@@ -90,8 +95,10 @@
 
 - El grupo ha completado exitosamente la primera misión principal
 - Han subido a nivel 9 tras derrotar a Varram
-- Están en una misión crítica que puede afectar significativamente el estado del Consejo
-- Maccath la Carmesí es un personaje clave que puede proporcionar información crucial sobre el Cuerno del Dragón
+- Han acabado con Arauthator (derrotado o expulsado) y han rescatado a Maccath la Carmesí
+- El Evento 14 del Consejo (Arauthator) se activará al presentar el informe en Waterdeep
+- Maccath la Carmesí, como emisaria de la Hermandad Arcana, aportará información crucial sobre el Cuerno del Dragón en el Segundo Concilio
+- **Siguiente misión decidida:** Nodo 1 - Defensa del Norte → **A03 - Fuego en el Norte** (tras el Segundo Concilio)
 
 ---
 

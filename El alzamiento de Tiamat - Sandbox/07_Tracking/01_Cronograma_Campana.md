@@ -3,7 +3,7 @@
 
 ---
 
-> **📖 ESTADO ACTUAL:** Día 65 - A punto de combatir contra Arauthator
+> **📖 ESTADO ACTUAL:** Día 66 - Combate con el dragón. Salida al pueblo. Preparativos para volver a Luskan
 
 ---
 
@@ -56,16 +56,20 @@
 | **62** | | Nivel 9 | |
 | **63** | Mar de hielo movedizo: Viaje de Waterdeep hasta Mar de hielo movedizo. Cazadores de hielo | Nivel 9 | |
 | **64** | Avistamiento de Oyaviggaton 12h | Nivel 9 | |
-| **65** | Entrada cueva + 2h (kobolds) | Nivel 9 | **🔄 ACTUAL - A punto de combatir contra Arauthator** |
+| **65** | Entrada cueva + 2h (kobolds) + combate Arauthator (derrotado/expulsado) + rescate Maccath | Nivel 9 | |
+| **66** | Combate con el dragón. Salida al pueblo. Se preparan para volver a Luskan | Nivel 9 | **🔄 ACTUAL** |
 
 ---
 
 ## 🎯 **PRÓXIMOS EVENTOS ESPERADOS**
 
-- **Día 65 (Continuación):** Combate contra Arauthator
-- **Día 66+:** Rescate de Maccath la Carmesí
-- **Día 66+:** Regreso a Waterdeep
-- **Día 66+:** Segundo Concilio
+- **Día 65 (Completado):** ✅ Combate contra Arauthator (derrotado o expulsado) + rescate de Maccath la Carmesí
+- **Día 66 (Completado):** ✅ Combate con el dragón. Salida al pueblo. Preparativos para volver a Luskan
+- **Día 67+:** Viaje a Luskan — Torre de Huéspedes de lo arcano (aposentos de Maccath)
+- **Día 67+:** Posible emboscada del Culto en Luskan
+- **Día 68+:** Regreso a Waterdeep
+- **Día 69+:** Segundo Concilio
+- **Día 70+:** **Misión elegida: Nodo 1 - Defensa del Norte → A03 - Fuego en el Norte** (Nivel 10-11)
 
 ---
 
@@ -78,8 +82,9 @@
 
 ### **Misiones en Curso:**
 - 🔄 **Misión 02: El Mar de Hielo Movedizo** (Día 48-65+)
-  - Rescate de Maccath la Carmesí
-  - Enfrentamiento con Arauthator (en curso)
+  - ✅ Enfrentamiento con Arauthator (derrotado o expulsado)
+  - ✅ Rescate de Maccath la Carmesí
+  - **Próximo:** Viaje a Luskan (Torre de Huéspedes de lo arcano) → Waterdeep → Segundo Concilio → **A03 - Fuego en el Norte** (Nodo 1: Defensa del Norte, ya elegida)
 
 ### **Eventos Clave:**
 - Día 21: Primer Concilio en Waterdeep
@@ -91,4 +96,4 @@
 
 ---
 
-*Última actualización: Día 65 - A punto de combatir contra Arauthator*
+*Última actualización: Día 66 - Combate con el dragón. Salida al pueblo. Preparativos para Luskan.*

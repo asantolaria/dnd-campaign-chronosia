@@ -6,6 +6,17 @@
 > **📖 NAVEGACIÓN:**
 > - [README Principal](../README.md) - Volver al índice general
 > - [Plan de Desarrollo](../00_Plan_Desarrollo_Campana.md) - Tareas pendientes
+> - **[Sistema de Tracking](../04_Guia_DM/04_Sistema_Tracking.md)** — Guía del DM: qué trackear, valores iniciales, medidores del Consejo, eventos y proceso paso a paso
+
+---
+
+## 📖 **RELACIÓN CON EL SISTEMA DE TRACKING**
+
+Este directorio (**07_Tracking**) es la **parte práctica** del seguimiento de la campaña: cronograma día a día y estado actual.  
+La **guía completa** del sistema (medidores del Consejo, progreso del ritual, eventos que modifican puntuaciones, tablas y ejemplos) está en:
+
+- **[04_Guia_DM/04_Sistema_Tracking.md](../04_Guia_DM/04_Sistema_Tracking.md)** — Sistema de Tracking (guía práctica del DM)
+- **[06_Recursos/Tablas/01_Tabla_Puntuacion_Consejo.md](../06_Recursos/Tablas/01_Tabla_Puntuacion_Consejo.md)** — Tabla de puntuación del Consejo (eventos y modificadores)
 
 ---
 
