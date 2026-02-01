@@ -3,33 +3,28 @@
 
 ---
 
-> **📖 ÚLTIMA ACTUALIZACIÓN:** Día 65+ - Arauthator derrotado/expulsado. Rescate de Maccath completado
+> **📖 ÚLTIMA ACTUALIZACIÓN:** Día 80 - Llegada a Yartar. A03 - Fuego en el Norte. Caravana a la espera de la escolta.
 
 ---
 
 ## 🎯 **ESTADO ACTUAL**
 
-### **Nivel del Grupo:** 9
-### **Día Actual:** 65+
-### **Ubicación:** Oyaviggaton (Mar de Hielo Movedizo) — Tras acabar con Arauthator. Próximo: Luskan / Waterdeep
-### **Situación:** Arauthator derrotado o expulsado. Maccath la Carmesí rescatada. En camino a Luskan (Torre de Huéspedes de lo arcano) y luego Waterdeep
+### **Nivel del Grupo:** 10 (subida de nivel el Día 66)
+### **Día Actual:** 80
+### **Ubicación:** Yartar — Caravana de suministros a la espera de la escolta (Misión A03 - Fuego en el Norte)
+### **Situación:** Han pasado por Luskan (Torre de Huéspedes de lo Arcano, emboscada del Culto), llegado a Waterdeep, efectuado el Segundo Concilio y viajado hasta Yartar. En Yartar está la caravana de suministros (cañones explosivos, ballesta antidragón) esperando a los PJ para partir hacia Everlund.
 
 ---
 
 ## 📍 **MISIÓN ACTUAL**
 
-**Misión 02: El Mar de Hielo Movedizo**
-- **Objetivo:** Rescatar a Maccath la Carmesí y obtener información sobre el Cuerno del Dragón
-- **Estado:** En curso — Arauthator acabado. Regreso a Luskan y Waterdeep
+**Misión A03: Fuego en el Norte** (Nodo 1 - Defensa del Norte)
+- **Objetivo:** Proteger la caravana de suministros, escoltarla hasta Everlund y aguantar un día para que los artífices monten cañones y ballesta; defender Everlund (Knightbridge/Dwarfbridge, Marshal Dorn Valeshield, dragón verde joven).
+- **Estado:** En curso — Llegada a Yartar (Día 80)
 - **Progreso:**
-  - ✅ Viaje desde Waterdeep completado
-  - ✅ Información sobre Maccath obtenida en Luskan
-  - ✅ Llegada a Oyaviggaton
-  - ✅ Entrada a la guarida
-  - ✅ Encuentro con kobolds (2 horas)
-  - ✅ Combate contra Arauthator (derrotado o expulsado)
-  - ✅ Rescate de Maccath la Carmesí
-  - 🔄 **PRÓXIMO:** Viaje a Luskan (Torre de Huéspedes de lo arcano) → Waterdeep → Segundo Concilio
+  - ✅ Viaje desde Waterdeep hasta Yartar (tras Segundo Concilio)
+  - ✅ Llegada a Yartar (caravana de suministros a la espera de la escolta)
+  - 🔄 **PRÓXIMO:** Reunirse con la caravana en Yartar → escoltarla hasta Everlund (ruta por Triboar si aplica; en Triboar el contacto entrega el itinerario) → defensa de Everlund (un día de aguante, madrugada: Dorn destruye un puente; primera hora: cañones + dragón verde; 4 impactos de ballesta = dragón huye)
 
 ---
 
@@ -40,6 +35,11 @@
 - **Resultado:** Varram fue derrotado (muerto)
 - **Recompensa:** Subida a nivel 9
 - **Eventos del Consejo:** Evento 11 "Matar a Varram" (activado)
+
+### **Misión 02: El Mar de Hielo Movedizo** ✅
+- **Días:** 48-73 (Luskan Día 69, emboscada + Waterdeep Día 70, Segundo Concilio Día 73)
+- **Resultado:** Arauthator derrotado/expulsado, Maccath rescatada; llegada a Luskan (Torre de Huéspedes de lo Arcano), emboscada del Culto, regreso a Waterdeep, Segundo Concilio efectuado
+- **Eventos del Consejo:** Evento 14 (Arauthator), Evento 13 (Hermandad Arcana con Maccath) — aplicados en Segundo Concilio
 
 ### **Misión A14: Ruinas del Norte** ✅
 - **Días:** Tras la Tumba de Diderius (alrededor del día 40)
@@ -58,24 +58,14 @@
 
 ## 📊 **PRÓXIMOS PASOS ESPERADOS**
 
-1. **Regreso desde el Mar de Hielo** (Días 66-67+)
-   - Viaje a Luskan
-   - Torre de Huéspedes de lo arcano — aposentos de Maccath (recuperar archivos)
-   - Posible emboscada del Culto en el puerto de Luskan
-   - Decisión de ir a Waterdeep con Maccath como emisaria de la Hermandad Arcana
-
-2. **Segundo Concilio en Waterdeep** (Días 68+)
-   - Presentación del informe sobre la misión
-   - Activación de eventos del Consejo:
-     - **Evento 14:** "Matar a Arauthator o expulsarlo" ✅ (a aplicar al llegar)
-     - **Evento 13:** "La Hermandad Arcana se une" (si Maccath llega como emisaria)
-   - Asignación de nuevas misiones
-
-3. **Siguiente misión elegida: Misiones Adicionales - Nodo 1: Defensa del Norte**
-   - **A03 - Fuego en el Norte** (Nivel 10-11) — única disponible del Nodo 1 (A14 - Ruinas del Norte ya completada)
-   - El culto ataca asentamientos del norte en represalia por la derrota de Arauthator. Decidir entre proteger civiles o atacar líderes del culto.
-   - **Impacto previsto:** Consejo +1, Ulder +2, Moral +1
-   - **Nota:** Elegir esta misión bloquea A14 (ya completada), así que no hay conflicto
+1. **A03 - Fuego en el Norte** (Día 80+)
+   - **Actual:** En Yartar; caravana de suministros (cañones explosivos, ballesta antidragón, artífices) a la espera de la escolta
+   - Reunirse con la caravana en Yartar → partir hacia Everlund (ruta: Yartar → Everlund; en Triboar el contacto entrega el itinerario si no lo tienen)
+   - Proteger la caravana en el tramo Yartar–Everlund (encuentro: Culto intenta rodear la caravana)
+   - Llegada a Everlund por el sur (Bridge Gate) → Marshal Dorn Valeshield; aguantar **un día** para que los artífices monten cañones y ballesta
+   - Madrugada: un puente (Knightbridge o Dwarfbridge) a punto de caer → Dorn ordena destruirlo
+   - Primera hora de la mañana: cañones operativos; **dragón verde joven** aparece (es el de Neronvain; será de interés en el Consejo); **4 impactos de ballesta** = dragón huye
+   - **Impacto previsto:** Consejo +1, Moral del Norte +1; evento "Salvar una caravana del norte"; dragón de interés en el Consejo
 
 ---
 
@@ -87,18 +77,20 @@
 4. **Regreso a Waterdeep** (Días 40-48) → Pueblo atacado (Día 43)
 5. **Waterdeep** (Día 48) → Asignación misión Mar de Hielo
 6. **Neverwinter → Luskan** (Días 51-54) → Información sobre Maccath
-7. **Mar de Hielo Movedizo** (Días 63-65+) → Misión actual
+7. **Mar de Hielo Movedizo** (Días 63-66) → Arauthator, rescate Maccath
+8. **Luskan** (Día 69) → Torre de Huéspedes de lo Arcano
+9. **Luskan → Waterdeep** (Día 70) → Emboscada del Culto + regreso
+10. **Waterdeep** (Día 73) → Segundo Concilio
+11. **Waterdeep → Yartar** (Días 74-80) → **Yartar** (Día 80) — A03 - Fuego en el Norte (caravana a la espera)
 
 ---
 
 ## 💡 **NOTAS IMPORTANTES**
 
-- El grupo ha completado exitosamente la primera misión principal
-- Han subido a nivel 9 tras derrotar a Varram
-- Han acabado con Arauthator (derrotado o expulsado) y han rescatado a Maccath la Carmesí
-- El Evento 14 del Consejo (Arauthator) se activará al presentar el informe en Waterdeep
-- Maccath la Carmesí, como emisaria de la Hermandad Arcana, aportará información crucial sobre el Cuerno del Dragón en el Segundo Concilio
-- **Siguiente misión decidida:** Nodo 1 - Defensa del Norte → **A03 - Fuego en el Norte** (tras el Segundo Concilio)
+- El grupo ha completado la Misión 02 (Mar de Hielo Movedizo): Arauthator derrotado/expulsado, Maccath rescatada; Luskan (Torre de Huéspedes de lo Arcano), emboscada del Culto; Waterdeep, Segundo Concilio efectuado
+- Han subido a nivel 9 tras derrotar a Varram (Misión 01)
+- **Misión actual:** A03 - Fuego en el Norte (Nodo 1 - Defensa del Norte). Día 80: llegada a Yartar; la caravana de suministros (cañones explosivos, ballesta antidragón, artífices) espera a la escolta para partir hacia Everlund
+- En Triboar (si pasan por ahí) el contacto entrega el itinerario de la caravana; la caravana sale desde Yartar y espera allí a la escolta
 
 ---
 

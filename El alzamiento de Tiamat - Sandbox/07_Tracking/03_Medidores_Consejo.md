@@ -12,26 +12,26 @@
 
 ## 🎯 **TABLA DE MEDIDORES — ESTADO ACTUAL**
 
-*Actualizar después de cada evento o Concilio. Leyenda: ✅ = alcanza el mínimo; ❌ = no alcanza; — = no aplica.*
+*Valor inicial = Subtotal tras 1º Concilio (tras "El Tesoro de la Reina Dragón"). Valor actual = Valor inicial + suma de todos los eventos aplicados. Estado = ✅ si Valor actual ≥ Mínimo necesario.*
 
-| Medidor | Valor inicial (1º Concilio) | Valor actual | Mínimo necesario | Estado | Notas |
-|---------|-----------------------------|--------------|------------------|--------|--------|
-| Arpistas | 2 | 2 | 5 | ❌ | |
-| Orden del Guantelete | 2 | 4 | 7 | ❌ | |
-| Enclave Esmeralda | 1 | 4 | 5 | ❌ | |
-| Lady Laeral Silverhand | 1 | 4 | 7 | ❌ | |
-| Dagult Neverember | 2 | 3 | 5 | ❌ | |
-| Connerad Brawnanvil | 1 | 2 | 7 | ❌ | |
-| Rey Melandrach | 1 | 3 | 6 | ❌ | |
-| Ulder Ravengard | 2 | 4 | 7 | ❌ | |
-| Taern Hornblade | 1 | 2 | 6 | ❌ | |
-| Sir Isteval | 1 | 5 | 6 | ❌ | |
-| Dragones Metálicos | 0 | 0 | 4 | ❌ | |
-| Estado del Culto del Dragón | 0 | 0 | — | — | Negativo = culto debilitado |
-| Progreso del Ritual de Tiamat | 0 | 0 | — | — | Positivo = ritual avanzando |
-| Thay / Magos Rojos | 0 | 0 | 3 | ❌ | |
-| Moral del Norte | 0 | 1 | — | — | Positivo = moral alta |
-| Zhentarim | 0 | 0 | 1 | ❌ | |
+| Medidor                       | Valor inicial (1º Concilio) | Valor actual | Mínimo necesario | Estado | Cálculo (inicial + Varram + A14 + Arauthator + Hermandad Arcana) |
+| ----------------------------- | --------------------------- | ------------ | ---------------- | ------ | ----------------------------------------------------------------- |
+| Arpistas                      | 2                           | 4            | 5                | ❌      | 2 −1 +1 +1 +1 = 4                                                 |
+| Orden del Guantelete          | 2                           | 4            | 7                | ❌      | 2 +1 +1 +1 −1 = 4                                                 |
+| Enclave Esmeralda             | 1                           | 6            | 5                | ✅      | 1 +1 +2 +1 +1 = 6 (A14: +1 consejo, +1 Enclave)                   |
+| Lady Laeral Silverhand        | 2                           | 6            | 7                | ❌      | 2 +1 +1 +1 +1 = 6                                                 |
+| Dagult Neverember             | 1                           | 5            | 5                | ✅      | 1 +1 +1 +1 +1 = 5                                                 |
+| Connerad Brawnanvil           | 2                           | 4            | 7                | ❌      | 2 −1 +1 +2 +0 = 4                                                 |
+| Rey Melandrach                | 1                           | 5            | 6                | ❌      | 1 +1 +1 +1 +1 = 5                                                 |
+| Ulder Ravengard               | 2                           | 6            | 7                | ❌      | 2 +1 +1 +1 +1 = 6                                                 |
+| Taern Hornblade               | 2                           | 4            | 6                | ❌      | 2 −1 +1 +1 +1 = 4                                                 |
+| Sir Isteval                   | 3                           | 7            | 6                | ✅      | 3 +1 +1 +1 +1 = 7                                                 |
+| Dragones Metálicos            | 0                           | 0            | 4                | ❌      | —                                                                 |
+| Estado del Culto del Dragón   | 0                           | 0            | —                | —      | Negativo = culto debilitado                                       |
+| Progreso del Ritual de Tiamat | 0                           | 0            | —                | —      | Positivo = ritual avanzando                                       |
+| Thay / Magos Rojos            | 0                           | 0            | 3                | ❌      | —                                                                 |
+| Moral del Norte               | 0                           | 1            | —                | —      | 0 +1 (A14) = 1                                                    |
+| Zhentarim                     | 0                           | 0            | 1                | ❌      | —                                                                 |
 
 ---
 
@@ -42,26 +42,25 @@
 | 1º Concilio | Subtotal tras Primer Concilio | Valores iniciales de la tabla | Tras "El Tesoro de la Reina Dragón" |
 | 2º (pendiente informe) | **Matar a Varram** | Arp -1, Ord +1, Encl +1, Laer +1, Dag +1, Conn -1, Mel +1, Uld +1, Taer -1, Ist +1 | Misión 01 completada (Varram muerto) |
 | Adicional | **A14 - Ruinas del Norte** | Consejo +1 (los 10), Enclave +1, Moral +1 | Exploración ruinas, rescate supervivientes |
+| **2º Concilio (Día 73)** | **Matar a Arauthator o expulsarlo** | Arp +1, Ord +1, Encl +1, Laer +1, Dag +1, Conn +2, Mel +1, Uld +1, Taer +1, Ist +1 | Informe Mar de Hielo Movedizo; Arauthator derrotado/expulsado |
+| **2º Concilio (Día 73)** | **La Hermandad Arcana se une a la Alianza** | Arp +1, Ord -1, Encl +1, Laer +1, Dag +1, Conn 0, Mel +1, Uld +1, Taer +1, Ist +1 | Maccath llega como emisaria (Luskan, emboscada, Waterdeep) |
 
 ---
 
-## ⏳ **EVENTOS PENDIENTES (APLICAR EN SEGUNDO CONCILIO)**
-
-*Al presentar el informe en Waterdeep:*
+## ⏳ **EVENTOS PENDIENTES (APLICAR EN TERCER CONCILIO O TRAS MISIÓN)**
 
 | Evento | Condición | Modificadores (al aplicar) |
 |--------|-----------|----------------------------|
-| **Matar a Arauthator o expulsarlo** | Informe Mar de Hielo Movedizo | Arp +1, Ord +1, Encl +1, Laer +1, Dag +1, Conn **+2**, Mel +1, Uld +1, Taer +1, Ist +1 |
-| **La Hermandad Arcana se une a la Alianza** | Si Maccath llega como emisaria | Arp +1, Ord -1, Encl +1, Laer +1, Dag +1, Conn 0, Mel +1, Uld +1, Taer +1, Ist +1 |
-| **Salvar una caravana del norte** | Si se menciona en el informe | Ord +1, Uld +1, Moral +1 |
+| **Salvar una caravana del norte** | Si A03 - Fuego en el Norte tiene éxito (caravana llegada a Everlund) | Ord +1, Uld +1, Moral +1 |
 
 ---
 
 ## 📋 **RESUMEN RÁPIDO**
 
-- **Día / situación:** Tras Misión 02 (Arauthator acabado, Maccath rescatada). Aún no se ha celebrado el Segundo Concilio.
-- **Ninguna facción ha alcanzado aún su mínimo.** Los valores subirán al aplicar los eventos pendientes en Waterdeep.
-- **Próxima actualización:** Tras el Segundo Concilio (informe Mar de Hielo + decisión Hermandad Arcana).
+- **Día / situación:** Día 80. Segundo Concilio celebrado (Día 73). En Yartar — **A03 - Fuego en el Norte** (caravana de suministros a la espera de la escolta).
+- **Eventos del 2º Concilio ya aplicados:** Matar a Arauthator o expulsarlo; La Hermandad Arcana se une (Maccath como emisaria).
+- **Facciones que alcanzan el mínimo (tras 2º Concilio):** Enclave Esmeralda (6 ≥ 5) ✅, Dagult Neverember (5 ≥ 5) ✅, Sir Isteval (7 ≥ 6) ✅. El resto aún por debajo.
+- **Próxima actualización:** Tras A03 - Fuego en el Norte (evento "Salvar una caravana del norte" si la caravana llega a Everlund → Ord +1, Uld +1, Moral +1).
 
 ---
 
