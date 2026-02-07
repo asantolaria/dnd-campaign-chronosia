@@ -132,6 +132,39 @@ La caravana que lleva **víveres y armas decisivas** a Everlund **sale desde Yar
 
 ---
 
+#### **La caravana como entidad — Llegada y mecánica de protección**
+
+La caravana se trata como **una entidad con estadísticas simples**: un “objeto/criatura” que avanza por el camino y recibe ataques. Los PJ y la escolta protegen los flancos; los **artífices** que viajan dentro pueden **repeler parte del ataque enemigo**.
+
+**Estadísticas de la Caravana de Huida**
+
+| **Aspecto** | **Valor** | **Notas** |
+|-------------|-----------|-----------|
+| **Puntos de Vida (PV)** | **40** | Ajustar: **30** si el grupo es bajo nivel, **50** si es nivel medio-alto. Si llega a 0, la caravana cae (carros destruidos o capturados, armas perdidas). |
+| **Clase de Armadura (CA)** | **13** | Madera reforzada, lona, estructura torpe. Solo aplica si algún efecto ataca directamente “a la caravana” como objetivo (p. ej. asalto concentrado a un carro). |
+| **Velocidad narrativa** | **1 tramo por turno** | La caravana avanza 1 tramo del camino cada turno (o cada ronda, según cómo corras el encuentro). El DM define los tramos (ej.: 3–5 tramos hasta un punto seguro, o hasta Everlund). |
+
+**Distribución del enemigo:**  
+Los cultistas y dracónidos están **repartidos por el camino** que recorre la caravana. En cada tramo (o en rondas alternas), la caravana **recibe ataques**; los PJ pueden intentar neutralizar atacantes en los flancos, pero parte del daño va contra la caravana como entidad.
+
+**Ataque enemigo contra la caravana (por ronda o por tramo):**
+- **Tirada de ataque:** 1d20+5 (un ataque representativo del cerco contra los carros).
+- **Daño si impacta:** 2d6 (perforante o contundente; daño a la estructura, carros, lona, etc.).
+- **Defensa de los artífices:** Los artífices que van **dentro** de la caravana intentan repeler el ataque (trampas, humo, herramientas). El DM tira **1d8**: el resultado es la **reducción del daño** que recibe la caravana en ese ataque.
+  - Ejemplo: ataque enemigo 2d6 = 9 de daño; defensa artífices 1d8 = 5 → la caravana recibe **4** puntos de daño (9 − 5).
+- **Bonificación por escolta:** Si al menos **un PJ (o aliado relevante)** está dedicado a proteger el flanco desde el que se produce el ataque, el ataque enemigo sufre **−2** a la tirada de ataque (los artífices tienen más margen para actuar).
+
+**Resumen por ronda/tramo:**
+1. La caravana **avanza 1 tramo** (velocidad narrativa).
+2. El DM determina si hay **ataque enemigo** en ese tramo (según distribución del camino).
+3. Si hay ataque: **1d20+5** (−2 si un PJ protege ese flanco) contra **CA 13** de la caravana. Si impacta, daño **2d6**.
+4. **Defensa artífices:** 1d8 = reducción del daño. Daño final a la caravana = 2d6 − 1d8 (mínimo 0).
+5. Restar ese daño de los **PV de la caravana**. Si llega a 0, la caravana cae (encuentro fallido o consecuencias graves).
+
+**Objetivo táctico:** Los PJ pueden **reducir la presión** matando o dispersando enemigos en los flancos (menos ataques o anular el ataque de ese tramo), **proteger un flanco** para dar el −2 al enemigo, o **curar/repasar** la caravana si tienes una regla ad hoc (p. ej. 1 uso de kit de herrero o hechizo *mending* = recuperar 1d6 PV de la caravana, una vez por encuentro).
+
+---
+
 ### **2️⃣ Encuentro Principal — Contener Everlund durante un día** *(estilo Greenest)*
 
 Los PJ y la caravana **llegan por el sur** (Bridge Gate, Evermoor Way). Everlund está **dividida por el río Rauvin**: la **orilla sur** empieza a estar invadida por el Culto; en la **orilla norte** hay **torres, parapetos y fortificaciones** (Gran Armería, murallas, Moongleam Tower, Keep of Vigilance) para proteger **Knightbridge** y **Dwarfbridge**. El **Marshal Dorn Valeshield**, capitán del Ejército del Valle, recibe a los PJ en la Sala de los Ancianos o en la Gran Armería, les indica los siguientes pasos y coordina la defensa.
