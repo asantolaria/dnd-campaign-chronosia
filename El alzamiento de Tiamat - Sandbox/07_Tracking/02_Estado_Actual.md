@@ -64,7 +64,7 @@
    - Proteger la caravana en el tramo Yartar–Everlund (encuentro: Culto intenta rodear la caravana)
    - Llegada a Everlund por el sur (Bridge Gate) → Marshal Dorn Valeshield; aguantar **un día** para que los artífices monten cañones y ballesta
    - Madrugada: un puente (Knightbridge o Dwarfbridge) a punto de caer → Dorn ordena destruirlo
-   - Primera hora de la mañana: cañones operativos; **dragón verde joven** aparece (es el de Neronvain; será de interés en el Consejo); **4 impactos de ballesta** = dragón huye
+   - Primera hora de la mañana: cañones operativos; **dragón verde joven** aparece (es el de Neronvain; será de interés en el Consejo); **3 impactos de ballesta** = dragón huye
    - **Impacto previsto:** Consejo +1, Moral del Norte +1; evento "Salvar una caravana del norte"; dragón de interés en el Consejo
 
 ---

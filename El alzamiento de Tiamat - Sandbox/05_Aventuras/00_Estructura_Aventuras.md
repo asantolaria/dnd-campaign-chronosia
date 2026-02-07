@@ -64,15 +64,17 @@
   - 📖 Consultar campaña original (PDF o 5e.tools)
   - 💎 [Opciones de Botín](./02_Mision_Mar_Hielo_Movedizo_Botin.md)
 - **03 - Neronvain el Verde** (Nivel 10-11) - 🟡 Disponible
-  - 📖 Consultar campaña original (PDF o 5e.tools)
+  - 📖 Consultar campaña original (PDF o [5e.tools - Neronvain](https://5e.tools/adventure.html#rot,-1,neronvain,1))
+  - **Enlace con AN03:** El dragón verde de esta misión (Bosque Brumoso, Chuth/Neronvain) es el **mismo** que ataca Everlund en **Fuego en el Norte**; se puede jugar AN03 antes y usar el informe de Everlund para asignar esta misión.
 - **04B - El Culto Contraataca II (Ofensiva)** (Nivel 10-11) - 🟡 Disponible
   - [Ver misión desarrollada](./04B_Mision_Culto_Contraataca_II_Ofensiva.md)
 
 #### **Misiones Adicionales - Nodo 1: Defensa del Norte** *(Elige UNA)*
 - **A03 - Fuego en el Norte** (Nivel 10-11) - 🟡 Disponible
-  - [Ver misión desarrollada](./A03_Mision_Fuego_Norte.md)
+  - [Ver misión desarrollada](./AN03_Mision_Fuego_Norte.md)
   - **Bloquea:** A14
   - **Impacto:** Consejo +1, Ulder +2, Moral +1
+  - **Unión con 03 - Neronvain:** El dragón verde que ataca Everlund es el mismo de la misión Neronvain; se puede jugar AN03 primero y enlazar con la misión oficial 03 (ver sección *Unión con Neronvain* en AN03).
 - **A14 - Ruinas del Norte** (Nivel 10-11) - 🟡 Disponible
   - [Ver misión desarrollada](./A14_Mision_Ruinas_Norte.md)
   - **Bloquea:** A03
@@ -202,7 +204,7 @@ Si los jugadores no eligen ninguna misión de un nodo antes del siguiente Concil
 
 #### **Segundo Concilio**
 - [A14_Mision_Ruinas_Norte.md](./A14_Mision_Ruinas_Norte.md) - **A14: Ruinas del Norte**
-- [A03_Mision_Fuego_Norte.md](./A03_Mision_Fuego_Norte.md) - **A03: Fuego en el Norte**
+- [AN03_Mision_Fuego_Norte.md](./AN03_Mision_Fuego_Norte.md) - **A03: Fuego en el Norte**
 - [A10_Mision_Juicio_Melandrach.md](./A10_Mision_Juicio_Melandrach.md) - **A10: El Juicio de Melandrach**
 - [A11_Mision_Sombras_Consejo.md](./A11_Mision_Sombras_Consejo.md) - **A11: Sombras en el Consejo**
 
