@@ -64,8 +64,8 @@
   - 📖 Consultar campaña original (PDF o 5e.tools)
   - 💎 [Opciones de Botín](./02_Mision_Mar_Hielo_Movedizo_Botin.md)
 - **03 - Neronvain el Verde** (Nivel 10-11) - 🟡 Disponible
-  - 📖 Consultar campaña original (PDF o [5e.tools - Neronvain](https://5e.tools/adventure.html#rot,-1,neronvain,1))
-  - **Enlace con AN03:** El dragón verde de esta misión (Bosque Brumoso, Chuth/Neronvain) es el **mismo** que ataca Everlund en **Fuego en el Norte**; se puede jugar AN03 antes y usar el informe de Everlund para asignar esta misión.
+  - [Ver misión desarrollada (adaptada a Altand/The High Forest)](./03_Mision_Neronvain_Verde.md) — autocontenida, sin necesidad de PDF/5e.tools
+  - **Enlace con AN03:** El dragón verde (Chuth) es el **mismo** que ataca Everlund; los PJ pueden llegar desde Everlund a Altand tras Fuego en el Norte.
 - **04B - El Culto Contraataca II (Ofensiva)** (Nivel 10-11) - 🟡 Disponible
   - [Ver misión desarrollada](./04B_Mision_Culto_Contraataca_II_Ofensiva.md)
 

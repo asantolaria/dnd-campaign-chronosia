@@ -3,7 +3,7 @@
 
 ---
 
-> **📖 ESTADO ACTUAL:** Día 80 - Misión Nodo 1 (A03 - Fuego en el Norte). Llegada a Yartar. Caravana de suministros a la espera de la escolta.
+> **📖 ESTADO ACTUAL:** Día 83 - Misión Nodo 1 (A03 - Fuego en el Norte). Everlund defendida (dragón verde huido). En ruta a Altand tras ser informados de los ataques allí.
 
 ---
 
@@ -71,7 +71,10 @@
 | **77** |                                                                                                                        | Nivel 10                    |                   |
 | **78** |                                                                                                                        | Nivel 10                    |                   |
 | **79** |                                                                                                                        | Nivel 10                    |                   |
-| **80** | Misión Nodo 1: Defensa del Norte → **A03 - Fuego en el Norte** → Llegada a Yartar (caravana a la espera de la escolta) | Nivel 10                    | **🔄 ACTUAL**     |
+| **80** | Misión Nodo 1: Llegada a Yartar (caravana a la espera de la escolta)                                                      | Nivel 10                    |                   |
+| **81** | Escolta Yartar → Everlund. Llegada a Everlund (Bridge Gate). Preparativos defensa (cañones, ballesta antidragón)         | Nivel 10                    |                   |
+| **82** | Everlund: madrugada — voladura de puente; amanecer — ataque del dragón verde (Chuth). Combate; **dragón huye**. Información sobre ataques en Altand. Partida hacia Altand | Nivel 10                    |                   |
+| **83** | En ruta a Altand (The High Forest)                                                                                         | Nivel 10                    | **🔄 ACTUAL**     |
 
 ---
 
@@ -80,8 +83,11 @@
 - **Día 69 (Completado):** ✅ Llegada a Luskan — Torre de Huéspedes de lo Arcano
 - **Día 70 (Completado):** ✅ Emboscada del Culto + regreso a Waterdeep
 - **Día 73 (Completado):** ✅ Segundo Concilio en Waterdeep
-- **Día 80 (Actual):** ✅ Llegada a Yartar — **A03 - Fuego en el Norte** (caravana de suministros a la espera de la escolta)
-- **Día 81+:** Reunión con la caravana en Yartar → escolta hasta Everlund (Triboar en ruta si aplica) → defensa de Everlund (puentes, cañones, ballesta antidragón)
+- **Día 80 (Completado):** ✅ Llegada a Yartar — caravana de suministros
+- **Día 81 (Completado):** ✅ Escolta hasta Everlund; llegada y preparativos defensa
+- **Día 82 (Completado):** ✅ Everlund — ataque dragón verde (Chuth); combate, dragón huye; informados de ataques en Altand; partida hacia Altand
+- **Día 83 (Actual):** ✅ En ruta a Altand
+- **Día 84+:** Llegada a Altand; defensa/situación con Alagarthas y el dragón (Neronvain)
 
 ---
 
@@ -93,10 +99,14 @@
   - Subida a nivel 9
 
 ### **Misiones en Curso:**
-- 🔄 **Misión A03: Fuego en el Norte** (Nodo 1 - Defensa del Norte) — Día 80+
+- 🔄 **Misión A03: Fuego en el Norte** (Nodo 1 - Defensa del Norte) — Día 83
   - ✅ Viaje hasta Yartar (tras Segundo Concilio)
   - ✅ Llegada a Yartar (caravana de suministros a la espera de la escolta)
-  - **Próximo:** Reunirse con la caravana en Yartar → escoltarla hasta Everlund (por Triboar si aplica) → aguantar un día para que los artífices monten cañones y ballesta → defensa de Everlund (Marshal Dorn Valeshield, Knightbridge/Dwarfbridge, dragón verde)
+  - ✅ Escolta hasta Everlund; llegada y preparativos (cañones, ballesta antidragón)
+  - ✅ Everlund: madrugada voladura de puente; amanecer ataque del **dragón verde (Chuth)** — combate, **dragón huye**
+  - ✅ Informados de los ataques en **Altand**; partida hacia Altand (The High Forest)
+  - **Próximo:** Llegada a Altand (Alagarthas, situación con el dragón/Neronvain)
+  - **Ballesta antidragón — siguiente mejora prevista:** imbuida mágicamente → **recarga automática** y **daño de proyectiles 5d6** (actualmente lenta y poco daño)
 
 ### **Misión 02: El Mar de Hielo Movedizo** ✅ (completada en tramo Luskan–Waterdeep–Segundo Concilio)
 - ✅ Arauthator derrotado/expulsado, Maccath rescatada
@@ -116,7 +126,10 @@
 - Día 70: Emboscada del Culto en Luskan + regreso a Waterdeep
 - Día 73: Segundo Concilio en Waterdeep
 - Día 80: Llegada a Yartar — inicio A03 - Fuego en el Norte (caravana a la espera de la escolta)
+- Día 81: Escolta hasta Everlund; llegada y preparativos defensa
+- Día 82: Everlund — ataque del dragón verde (Chuth); combate, dragón huye; informados de Altand; partida hacia Altand
+- Día 83: En ruta a Altand
 
 ---
 
-*Última actualización: Día 80 - Llegada a Yartar. A03 - Fuego en el Norte. Caravana a la espera de la escolta.*
+*Última actualización: Día 83 - Everlund defendida (dragón verde huido). En ruta a Altand. Ballesta: próxima mejora imbuida (recarga automática, 5d6).*

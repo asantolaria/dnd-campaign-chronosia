@@ -3,28 +3,32 @@
 
 ---
 
-> **📖 ÚLTIMA ACTUALIZACIÓN:** Día 80 - Llegada a Yartar. A03 - Fuego en el Norte. Caravana a la espera de la escolta.
+> **📖 ÚLTIMA ACTUALIZACIÓN:** Día 83 - Everlund defendida (dragón verde huido). En ruta a Altand.
 
 ---
 
 ## 🎯 **ESTADO ACTUAL**
 
 ### **Nivel del Grupo:** 10 (subida de nivel el Día 66)
-### **Día Actual:** 80
-### **Ubicación:** Yartar — Caravana de suministros a la espera de la escolta (Misión A03 - Fuego en el Norte)
-### **Situación:** Han pasado por Luskan (Torre de Huéspedes de lo Arcano, emboscada del Culto), llegado a Waterdeep, efectuado el Segundo Concilio y viajado hasta Yartar. En Yartar está la caravana de suministros (cañones explosivos, ballesta antidragón) esperando a los PJ para partir hacia Everlund.
+### **Día Actual:** 83
+### **Ubicación:** En ruta a Altand (The High Forest)
+### **Situación:** Tras escoltar la caravana hasta Everlund, defendieron la ciudad: madrugada voladura de puente, amanecer ataque del dragón verde (Chuth). Combate; el dragón huyó. Les han puesto al corriente de los ataques en Altand (refugiados elfos, Alagarthas) y han partido hacia allí. La ballesta antidragón seguirá mejorando; la siguiente mejora será imbuida mágicamente (recarga automática, daño de proyectiles 5d6).
 
 ---
 
 ## 📍 **MISIÓN ACTUAL**
 
 **Misión A03: Fuego en el Norte** (Nodo 1 - Defensa del Norte)
-- **Objetivo:** Proteger la caravana de suministros, escoltarla hasta Everlund y aguantar un día para que los artífices monten cañones y ballesta; defender Everlund (Knightbridge/Dwarfbridge, Marshal Dorn Valeshield, dragón verde joven).
-- **Estado:** En curso — Llegada a Yartar (Día 80)
+- **Objetivo:** Proteger la caravana, escoltarla hasta Everlund, defender Everlund (puentes, cañones, ballesta); luego atender la situación en Altand (ataques del dragón, Alagarthas).
+- **Estado:** En curso — En ruta a Altand (Día 83)
 - **Progreso:**
   - ✅ Viaje desde Waterdeep hasta Yartar (tras Segundo Concilio)
   - ✅ Llegada a Yartar (caravana de suministros a la espera de la escolta)
-  - 🔄 **PRÓXIMO:** Reunirse con la caravana en Yartar → escoltarla hasta Everlund (ruta por Triboar si aplica; en Triboar el contacto entrega el itinerario) → defensa de Everlund (un día de aguante, madrugada: Dorn destruye un puente; primera hora: cañones + dragón verde; 4 impactos de ballesta = dragón huye)
+  - ✅ Escolta hasta Everlund; llegada y preparativos (cañones, ballesta antidragón)
+  - ✅ Everlund: madrugada voladura de puente; amanecer ataque del **dragón verde (Chuth)** — combate, **dragón huye**
+  - ✅ Puestos al corriente de los **ataques en Altand**; partida hacia Altand
+  - 🔄 **PRÓXIMO:** Llegada a Altand (The High Forest; Alagarthas, situación con el dragón/Neronvain)
+- **Ballesta antidragón:** Siguiente mejora prevista — **imbuida mágicamente**: recarga automática y daño de proyectiles **5d6** (actualmente lenta y poco daño).
 
 ---
 
@@ -58,14 +62,14 @@
 
 ## 📊 **PRÓXIMOS PASOS ESPERADOS**
 
-1. **A03 - Fuego en el Norte** (Día 80+)
-   - **Actual:** En Yartar; caravana de suministros (cañones explosivos, ballesta antidragón, artífices) a la espera de la escolta
-   - Reunirse con la caravana en Yartar → partir hacia Everlund (ruta: Yartar → Everlund; en Triboar el contacto entrega el itinerario si no lo tienen)
-   - Proteger la caravana en el tramo Yartar–Everlund (encuentro: Culto intenta rodear la caravana)
-   - Llegada a Everlund por el sur (Bridge Gate) → Marshal Dorn Valeshield; aguantar **un día** para que los artífices monten cañones y ballesta
-   - Madrugada: un puente (Knightbridge o Dwarfbridge) a punto de caer → Dorn ordena destruirlo
-   - Primera hora de la mañana: cañones operativos; **dragón verde joven** aparece (es el de Neronvain; será de interés en el Consejo); **3 impactos de ballesta** = dragón huye
-   - **Impacto previsto:** Consejo +1, Moral del Norte +1; evento "Salvar una caravana del norte"; dragón de interés en el Consejo
+1. **A03 - Fuego en el Norte** (Día 83)
+   - **Actual:** En ruta a **Altand** (The High Forest); Everlund ya defendida (dragón verde Chuth huido)
+   - ✅ Caravana escoltada hasta Everlund; llegada por Bridge Gate; un día de aguante (cañones, ballesta)
+   - ✅ Madrugada: voladura de puente (Dwarfbridge); amanecer: ataque del **dragón verde (Chuth)** — combate, **dragón huye**
+   - ✅ Informados de los **ataques en Altand** (refugiados elfos, Alagarthas); partida hacia Altand
+   - **Próximo:** Llegada a Altand → situación con Alagarthas y el dragón (vinculado a Neronvain)
+   - **Ballesta antidragón:** Próxima mejora = imbuida mágicamente (recarga automática, daño 5d6)
+   - **Impacto previsto (Everlund):** Consejo +1, Moral del Norte +1; evento "Salvar una caravana del norte"; dragón de interés en el Consejo (a aplicar en próximo concilio)
 
 ---
 
@@ -82,15 +86,17 @@
 9. **Luskan → Waterdeep** (Día 70) → Emboscada del Culto + regreso
 10. **Waterdeep** (Día 73) → Segundo Concilio
 11. **Waterdeep → Yartar** (Días 74-80) → **Yartar** (Día 80) — A03 - Fuego en el Norte (caravana a la espera)
+12. **Yartar → Everlund** (Día 81) — escolta, llegada, preparativos defensa
+13. **Everlund** (Día 82) — voladura puente; ataque dragón verde (Chuth); combate, dragón huye; informados de Altand; partida hacia Altand
+14. **En ruta a Altand** (Día 83) — The High Forest (Alagarthas, situación dragón/Neronvain)
 
 ---
 
 ## 💡 **NOTAS IMPORTANTES**
 
-- El grupo ha completado la Misión 02 (Mar de Hielo Movedizo): Arauthator derrotado/expulsado, Maccath rescatada; Luskan (Torre de Huéspedes de lo Arcano), emboscada del Culto; Waterdeep, Segundo Concilio efectuado
+- El grupo ha completado la Misión 02 (Mar de Hielo Movedizo): Arauthator derrotado/expulsado, Maccath rescatada; Luskan, emboscada del Culto; Waterdeep, Segundo Concilio efectuado
 - Han subido a nivel 9 tras derrotar a Varram (Misión 01)
-- **Misión actual:** A03 - Fuego en el Norte (Nodo 1 - Defensa del Norte). Día 80: llegada a Yartar; la caravana de suministros (cañones explosivos, ballesta antidragón, artífices) espera a la escolta para partir hacia Everlund
-- En Triboar (si pasan por ahí) el contacto entrega el itinerario de la caravana; la caravana sale desde Yartar y espera allí a la escolta
+- **Misión actual:** A03 - Fuego en el Norte. Everlund defendida (dragón verde Chuth huido). En ruta a **Altand** tras ser informados de los ataques allí (refugiados elfos, Alagarthas). Ballesta antidragón: siguiente mejora = imbuida mágicamente (recarga automática, daño 5d6)
 
 ---
 

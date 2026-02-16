@@ -57,10 +57,11 @@
 
 ## 📋 **RESUMEN RÁPIDO**
 
-- **Día / situación:** Día 80. Segundo Concilio celebrado (Día 73). En Yartar — **A03 - Fuego en el Norte** (caravana de suministros a la espera de la escolta).
+- **Día / situación:** Día 83. Segundo Concilio celebrado (Día 73). **Everlund defendida** (dragón verde Chuth huido, Día 82). En ruta a **Altand** (The High Forest) tras ser informados de los ataques allí.
 - **Eventos del 2º Concilio ya aplicados:** Matar a Arauthator o expulsarlo; La Hermandad Arcana se une (Maccath como emisaria).
 - **Facciones que alcanzan el mínimo (tras 2º Concilio):** Enclave Esmeralda (6 ≥ 5) ✅, Dagult Neverember (5 ≥ 5) ✅, Sir Isteval (7 ≥ 6) ✅. El resto aún por debajo.
-- **Próxima actualización:** Tras A03 - Fuego en el Norte (evento "Salvar una caravana del norte" si la caravana llega a Everlund → Ord +1, Uld +1, Moral +1).
+- **A03 Everlund:** Caravana llegada a Everlund; defensa completada (dragón huyó). Evento "Salvar una caravana del norte" pendiente de aplicar en próximo concilio → Ord +1, Uld +1, Moral +1.
+- **Próxima actualización:** Tras resolución en Altand y/o próximo concilio (aplicar "Salvar una caravana del norte" por Everlund).
 
 ---
 

@@ -130,7 +130,7 @@ Justo después de hacer explotar el puente, los PJ se encuentran **dentro de las
 | -------------- | -------------------------------------------------------------------------------------------------------------------- |
 | **Montaje**    | 3 turnos (rondas) al amanecer para estar lista.                                                                      |
 | **Operadores** | 2 (1 artífice + 1 PJ). Uno apunta/dispara (ataque), el otro carga/estabiliza.                                        |
-| **Recarga**    | Tras cada disparo, 2 rondas de recarga (al menos un operador con acción en cada ronda).                              |
+| **Recarga**    | Tras cada disparo, 1 rondas de recarga (al menos un operador con acción en cada ronda).                              |
 | **Ataque**     | +6 (o bonificador del PJ); alcance 120/480 ft; daño 3d10 perforante (lanza gigante).                                 |
 | **Huida**      | **Chuth** (el dragón) **huye** tras **3 impactos** que superen su CA. (Opcional DM: 2 si grupo justo, 4 si alargar.) |
 
