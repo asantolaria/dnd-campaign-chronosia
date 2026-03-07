@@ -92,8 +92,8 @@ Toda la información necesaria para dirigir sin consultar otras fuentes.
 ### **Alagarthas**
 - **Rol:** Príncipe élfico, **hijo del Rey Melandrach** (miembro del Consejo de Waterdeep); **hermano de Neronvain** (el jinete enmascarado del dragón verde). Lidera el **campamento de avanzada** en conflicto constante con el Culto del Dragón.
 - **Situación:** La lucha lleva **un mes y medio**; sus números se reducen. El enemigo son sobre todo **kobolds** y **hombres lagarto**, con **cultistas humanos**; evitables. El verdadero problema son las **incursiones de una entidad enmascarada que monta un dragón verde** (Chuth). Esas incursiones llevan unas **semanas detenidas** y no saben por qué. No se han atrevido a adentrarse más en el bosque por falta de efectivos. El **Enclave Esmeralda** ha ayudado y espiado: un **parche de hongos gigantes** ha aparecido de repente en el corazón del bosque, **unos 30 km al este** del campamento; los animales evitan la zona.
-- **Objetivos:** Recibir ayuda; acabar con la amenaza del dragón y su jinete. Si los PJ van tras la guarida, **Alagarthas se une a ellos**.
-- **Actitud con los PJ:** Aliviado por la ayuda; explica la situación y ofrece **dos Pociones de Resistencia al Veneno** antes de partir hacia la guarida (las guardaba para el aliento del dragón verde). Puede sugerir que la guarida esté en la zona de hongos si los PJ no lo deducen.
+- **Objetivos:** Recibir ayuda; acabar con la amenaza del dragón y su jinete. **No puede acompañar** a los PJ: debe **coordinar a sus hombres y seguir defendiendo el pueblo**. Les **pide por favor** que **investiguen esa zona nueva** (el parche de hongos gigantes) que les ha sido informada por el Enclave.
+- **Actitud con los PJ:** Aliviado por la ayuda; explica la situación, ofrece **dos Pociones de Resistencia al Veneno** antes de que partan (las guardaba para el aliento del dragón verde) y sugiere que la guarida pueda estar en la zona de hongos si los PJ no lo deducen.
 
 ### **Galin**
 - **Rol:** Guía/warden que lleva a los PJ hasta el **campamento de avanzada** donde están Alagarthas y sus soldados.
@@ -139,41 +139,58 @@ Al entrar en el campamento de avanzada de los elfos, los **sonidos y olores de l
 
 ---
 
-**Alagarthas:**
+**Alagarthas (en el campamento):**
 
-El guerrero elfo es **Alagarthas**, hijo del Rey Melandrach. Comienza a dirigirse a otras personas y a dar órdenes hasta que los PJ le hablan. Alagarthas **se sentirá aliviado** por la ayuda y puede explicar la siguiente información:
-
-1. **La lucha lleva un mes y medio**; sus números **se reducen rápidamente**.
-2. **El enemigo** está compuesto sobre todo por **kobolds** y **hombres lagarto**, con **algunos cultistas humanos** mezclados. Esos enemigos no son tan temibles y **se pueden evitar con facilidad**. Sin embargo, hay **incursiones frecuentes de una entidad enmascarada que monta un dragón verde**; **esos ataques son los que realmente causan problemas**.
-3. **Las incursiones del dragón se han detenido desde hace unas semanas** y no están seguros de por qué. Han tenido **demasiado miedo de adentrarse más**, ya que sus números son demasiado bajos para penetrar en el bosque.
-4. **El Enclave Esmeralda** ha ayudado en su lucha todo lo que ha podido y ha espiado en el bosque: ha notado que un **gran parche de hongos gigantes ha aparecido de repente en el corazón del bosque**, a **unos 30 km (≈30 millas) al este** del campamento de avanzada. **Los animales parecen evitar por completo la zona**.
-
-**Si el grupo decide ir tras la guarida del dragón, Alagarthas se unirá a ellos.**
+El guerrero elfo es **Alagarthas**, hijo del Rey Melandrach. Comienza a dirigirse a otras personas y a dar órdenes hasta que los PJ le hablan. Alagarthas **se sentirá aliviado** por la ayuda. Sabiendo que vienen **de parte de Dorn** (Everlund) y con la **nota de Delaan**, les **ofrece su casa** para que pasen la noche — un refugio más seguro que las tiendas; allí podrá explicarles con calma todo lo que están viviendo.
 
 ---
 
-**Casa de Alagarthas — pasar la noche:**
+**Casa de Alagarthas — pasar la noche**
 
-Sabiendo que los PJ vienen **de parte de Dorn** (Everlund) y con la **nota de Delaan**, Alagarthas **ofrece su casa** para que pasen la noche — un refugio más seguro y tranquilo que las tiendas del campamento.
+Los PJ pasan la noche bajo su techo. Cuando hay tranquilidad, Alagarthas se sienta con ellos y **explica la situación** que están viviendo. Luego comparte **historias de su familia y su linaje**. Todo lo que sigue puede leerse o parafrasearse a los jugadores.
 
-**Por la noche**, Alagarthas comparte **historias de su familia y su linaje**. Habla de su **padre**, que forma parte del **Consejo** de Waterdeep (el Rey Melandrach), de la antigüedad de su pueblo y del peso de su sangre. En un momento dado, **con tono sombrío y de mala gana**, habla de **su hermano**: alguien que **decidió dejar a los suyos** — que dio la espalda a su pueblo y a su familia, que eligió otro camino y otra lealtad, y que desde entonces es un tema del que no le gusta hablar. No usa la palabra "renegado", pero **la descripción lo retrata**: quien abandona a los suyos y se pone del lado de quienes destruyen lo que su propia sangre debería proteger.
+**1. La situación (lo que están viviendo):**
+
+> "Llevamos **un mes y medio** de lucha. Nuestros números **se reducen** y no podemos permitirnos más pérdidas. El enemigo que nos asedia son sobre todo **kobolds** y **hombres lagarto**, con **cultistas humanos** entre ellos. Esos podemos contenerlos; no son lo peor. Lo que de verdad nos ha destrozado son las **incursiones de alguien enmascarado que monta un dragón verde**. Ese jinete y esa bestia son los que han sembrado el miedo y la muerte.  
+> "Desde hace **unas semanas** esas incursiones se han detenido. No sabemos por qué. No nos hemos atrevido a adentrarnos más en el bosque: nos quedan demasiado pocos para arriesgar una expedición. Lo que sí sabemos es que el **Enclave Esmeralda** nos ha ayudado todo lo que ha podido y ha espiado en el bosque. Nos han informado de algo extraño: un **gran parche de hongos gigantes** ha aparecido de repente en el corazón del bosque, a **unos treinta kilómetros al este** de aquí. Los animales **evitan por completo** esa zona. No sabemos si tiene que ver con el dragón, pero es la única novedad en la zona."
+
+**2. Historias de su familia y su linaje:**
+
+> "Mi **padre** forma parte del **Consejo** de Waterdeep. Es el Rey Melandrach. Nuestra casa es antigua y nuestra sangre lleva el peso de ese nombre. No siempre es un peso liviano."  
+> Hace una pausa. Su tono se vuelve **sombrío y reacio**.  
+> "Tengo un **hermano**. Hace muchos años **decidió dejar a los suyos**. Dio la espalda a su pueblo y a su familia. Eligió otro camino y otra lealtad. Desde entonces es un tema del que no me gusta hablar. Quien abandona a los suyos y se pone del lado de quienes destruyen lo que su propia sangre debería proteger… no merece que pronunciemos su nombre en esta casa."
+
+*(No usa la palabra "renegado"; la descripción lo retrata. Si los PJ nombran a **Neronvain**, Alagarthas puede reaccionar con shock: "¿El hijo del Rey? ¿...Mi hermano?" y reforzar la urgencia.)*
+
+**Alagarthas no pide aún que investiguen:** Espera al día siguiente y al informe de los exploradores; solo entonces, con el peligro de un ataque inminente, les pedirá que vayan a esa zona.
 
 ---
 
-**Al día siguiente — informe de los exploradores:**
+**Al día siguiente — informe de los exploradores**
 
-Por la mañana, **exploradores de Alagarthas** informan: **han vuelto a ver al dragón y a su jinete**. Añaden un detalle que han observado más de una vez: **siempre que lo ven por esa zona** (la que apunta hacia el este, en la dirección de los hongos), **el jinete lleva las ropas y el pelo mojados**. No saben qué significa, pero el patrón se repite — como si el lugar del que sale o al que regresa tuviera **agua** (charca, poza o humedad) en la entrada. Es una pista útil para cuando los PJ se acerquen a la guarida: la cueva tiene **agua en la boca** (ver Escenas 2–3).
+Por la mañana llegan **exploradores** con noticias urgentes. Puedes leer a los jugadores:
+
+> Los exploradores entran con prisas. Uno de ellos se dirige a Alagarthas: "**Han vuelto a ver al dragón y a su jinete.** Se dirigen hacia el este, en la dirección de la zona de los hongos. Y hay algo más: **cada vez que lo vemos por esa zona**, el jinete lleva **las ropas y el pelo mojados**. No sabemos qué significa, pero se repite una y otra vez."
+
+*(Pista para los PJ: el lugar del que sale o al que regresa tiene **agua** en la entrada — charca, poza —; la cueva tiene **agua en la boca**; ver Escenas 2–3.)*
+
+**Peligro inminente:** Con el dragón y el jinete de nuevo en movimiento, **hay riesgo de otro ataque al pueblo**. Es entonces cuando Alagarthas les pide que investiguen.
+
+**3. La petición de Alagarthas (para leer a los jugadores):**
+
+> Alagarthas se vuelve hacia vosotros. "No puedo acompañaros. **Debo coordinar a mis hombres y seguir defendiendo el pueblo.** Si ese dragón vuelve a atacar, tengo que estar aquí. Pero os **pido por favor** que **investiguen esa zona nueva** que nos han informado — el parche de hongos gigantes al este. Nosotros no tenemos efectivos suficientes para adentrarnos. **Vuestra ayuda es la que puede dar con la guarida del dragón y su jinete.**"  
+> Cuando os disponéis a partir, saca dos frascos y os los entrega. "**Dos pociones de resistencia al veneno.** Las he guardado para cuando llegara el momento de enfrentarse al aliento de ese dragón verde. Llevadlas. Y si aún no lo habéis deducido: **la guarida bien podría estar en ese parche de hongos.** Id con cuidado."
 
 ---
 
 **Rol e información:**
 
-- **Nota de Delaan + venir de parte de Dorn:** Alagarthas confía, acepta la ayuda y **ofrece su casa para pasar la noche**. Sin nota ni referencia a Dorn, **Persuasión (DC 12)** para el mismo nivel de confianza (y para que ofrezca la casa).
-- **Historia o Naturaleza (DC 14):** Durante la charla nocturna o antes: recordar leyendas sobre elfos que abandonaron a los suyos o la familia de Melandrach → pista: "Quien manda al dragón podría ser de sangre real élfica." Si los PJ nombran a **Neronvain**, Alagarthas puede reaccionar con shock ("¿El hijo del Rey? ¿...Mi hermano?") y reforzar la urgencia.
+- **Nota de Delaan + venir de parte de Dorn:** En el campamento, Alagarthas confía, acepta la ayuda y **ofrece su casa para pasar la noche** (allí explicará la situación y su linaje). Sin nota ni referencia a Dorn, **Persuasión (DC 12)** para el mismo nivel de confianza y para que ofrezca la casa.
+- **Historia o Naturaleza (DC 14):** Durante la charla nocturna: recordar leyendas sobre elfos que abandonaron a los suyos o la familia de Melandrach → pista: "Quien manda al dragón podría ser de sangre real élfica."
 
 ---
 
-**Salida de la escena:** Los PJ conocen la situación, la dirección general (zona de **hongos gigantes** ~30 km al este), la pista del **jinete con ropa y pelo mojados** (entrada de la guarida con agua) y que Alagarthas puede acompañarles. Si parten hacia la guarida, pasan a la Escena 2 (En el bosque).
+**Salida de la escena:** Los PJ conocen la situación, la dirección general (zona de **hongos gigantes** ~30 km al este), la pista del **jinete con ropa y pelo mojados** (entrada de la guarida con agua) y la petición de Alagarthas de que investiguen esa zona. Si parten hacia la guarida, pasan a la Escena 2 (En el bosque).
 
 ---
 
@@ -181,14 +198,13 @@ Por la mañana, **exploradores de Alagarthas** informan: **han vuelto a ver al d
 
 **Objetivo:** Confirmar la ubicación de la guarida (zona de hongos), recibir las pociones de Alagarthas, y — opcionalmente — pasar la prueba de la dríada y obtener sus guirnaldas y la información sobre la cueva.
 
-**Situación:** Los PJ (y Alagarthas, si se unió) se adentran en el bosque hacia la zona de **hongos gigantes**, al este del campamento. El terreno es difícil; la visibilidad, limitada por la niebla/bruma.
+**Situación:** Los PJ se adentran **solos** en el bosque hacia la zona de **hongos gigantes**, al este del campamento (Alagarthas se queda a coordinar y defender). El terreno es difícil; la visibilidad, limitada por la niebla/bruma.
 
 ---
 
 **Rastreando al dragón:**
 
-- **Alagarthas** puede confirmar que el dragón **debe tener una guarida cerca** para que los ataques hayan sido tan frecuentes. Si los PJ no deducen que la guarida está en el **parche de hongos**, Alagarthas lo **sugerirá como posibilidad**.
-- **Antes de embarcarse** en el viaje hacia el dragón, Alagarthas ofrece a los PJ **dos Pociones de Resistencia al Veneno**, diciendo que las ha estado guardando para cuando llegara el momento de enfrentarse al aliento venenoso del dragón verde.
+- Antes de partir (en la Escena 1), **Alagarthas** ya les habrá indicado que el dragón **debe tener una guarida cerca** para que los ataques hayan sido tan frecuentes, y que la guarida bien podría estar en el **parche de hongos** si no lo han deducido. Les habrá dado **dos Pociones de Resistencia al Veneno** (las guardaba para el aliento del dragón verde).
 
 ---
 
@@ -211,7 +227,7 @@ Mientras los personajes viajan por el bosque, escuchan el **crujido de un gran �
 
 **Si los aventureros atacan a la dríada:** Los **árboles despertados** atacan. Todas las criaturas luchan hasta la muerte.
 
-**Si los PJ piden consejo a Alagarthas** (antes o después del encuentro): Dirá que el bosque es hogar de muchas criaturas místicas de este tipo, incluida esta. No siempre está claro si se puede confiar en ellas, ya que las criaturas del bosque suelen ser **volubles**.
+**Si los PJ preguntaron a Alagarthas** antes de partir (o si vuelven al campamento después): Dirá que el bosque es hogar de muchas criaturas místicas de este tipo, incluida la dríada. No siempre está claro si se puede confiar en ellas, ya que las criaturas del bosque suelen ser **volubles**.
 
 ---
 
