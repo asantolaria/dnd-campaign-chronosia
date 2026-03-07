@@ -91,17 +91,18 @@ Después de que los personajes derroten a un **segundo lugarteniente**, **Din Go
 
 Din, con su experiencia en Barovia y su comprensión de las distorsiones planares, conecta los puntos: cada vez que un lugarteniente cae, el equilibrio entre poderes temporales y dimensionales se altera, y esto se refleja en el funcionamiento de los artefactos tecnológicos.
 
-### **El Artilugio Detector de Balance**
-Din Goldgear, utilizando su conocimiento como artífice y su experiencia con distorsiones temporales, **inventa un artilugio capaz de detectar este desbalance**. Este dispositivo puede:
+### **El Artilugio Detector de Balance (Indicador del Equilibrio)**
+Din Goldgear, junto con los Ingenieros y artífices de Cronópolis, **inventa un artefacto capaz de detectar y mostrar el equilibrio o desequilibrio de poder mágico** entre fuerzas temporales y dimensionales. El dispositivo no se queda solo en el taller: se instala un **monitor central** en Cronópolis (p. ej. Plaza del Equilibrio o atrio de la Fortaleza de Acero) de modo que **la ciudad pueda monitorizar el balance** desde un punto visible. Así, la información del balance deja de depender solo de explicadores puntuales: al volver a la ciudad, los PJ y la ciudadanía pueden ver el estado de "la Balanza" o del Indicador del Equilibrio.
 
+El artefacto puede:
 - **Medir el equilibrio** entre poderes temporales y dimensionales
 - **Detectar fluctuaciones** cuando un lugarteniente cae
 - **Predecir fallos** en dispositivos anti-distorsión basándose en el desbalance
 - **Alertar** cuando el equilibrio se vuelve crítico
 
-Este artilugio se convierte en una herramienta crucial para La Resistencia, permitiéndoles monitorear el estado del balance y ajustar sus dispositivos en consecuencia.
+Se convierte en herramienta crucial para La Resistencia y en **referente visual** para toda Cronópolis: los artífices lo mantienen y toda la ciudad monitoriza el balance de poder mágico desde el centro.
 
-**⚠️ IMPORTANTE**: Este descubrimiento ocurre **después** de que los PJ derroten a su segundo lugarteniente. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
+**⚠️ IMPORTANTE**: Este descubrimiento ocurre **después** de que los PJ derroten a su segundo lugarteniente. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance y no existe el Indicador en la ciudad.
 
 ---
 

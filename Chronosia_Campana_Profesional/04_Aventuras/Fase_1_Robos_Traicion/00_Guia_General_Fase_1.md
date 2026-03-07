@@ -70,7 +70,7 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - **Después del 1er Lugarteniente:** ¿Investigan la masacre en Abysara?
 - **Después del 2do Lugarteniente:** ¿Investigan el robo del Cronómetro?
 - **Después del 3er Lugarteniente:** ⚠️ Creación del Talismán (SIEMPRE ocurre - evento fijo) - Los PJ pueden intentar interrumpir pero Teach lo completa de todas formas
-- **Después del 3er Lugarteniente:** ⚠️ ¿Salvan a Thyra? (Thyra SIEMPRE muere - evento fijo, pero los PJ pueden intentar prevenir)
+- **Después del 3er Lugarteniente:** ⚠️ Thyra SIEMPRE muere (evento fijo). **Sensación in-world:** El Valle de la Aguja está **inaccesible** (barrera de estasis); **solo Teach con el Talismán** puede entrar. Los PJ no pueden plantearse salvar a Thyra porque no tienen forma de llegar hasta ella — no es que "fallen", es que solo Teach tiene ese poder.
 
 ### **📊 Progresión de Niveles (Aproximada):**
 - **Después del 1er Lugarteniente:** Nivel 5-6
@@ -136,9 +136,9 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 ### **Después del 3er Lugarteniente - Asesinato de Thyra:**
 - **⚠️ EVENTO FIJO:** Thyra SIEMPRE muere - El evento más importante de la campaña
-- **Teach necesita el Talismán:** Para penetrar la barrera de estasis de Thyra
-- **Si los PJ intentan prevenir:** Combate épico, pero Thyra muere de todas formas
-- **La región queda accesible:** La estasis desaparece, revelando el camino hacia la Torre de la Eternidad
+- **Por qué tiene sensación inevitable (in-world):** El Valle de la Aguja Suspendida es **inaccesible** para los PJ: una barrera de estasis impide entrar. **Solo Edward Teach, con el Talismán de Interceptación**, puede penetrar esa barrera. Los PJ no tienen el Talismán; por tanto **no pueden plantearse salvar a Thyra** — no es que fallen, es que solo Teach tiene el poder para llegar hasta ella. La sensación debe ser de tragedia lejana, no de opción bloqueada por el DM.
+- **Teach necesita el Talismán:** Para penetrar la barrera de estasis de Thyra (y solo él lo tiene en ese momento)
+- **La región queda accesible:** Tras la muerte de Thyra, la estasis desaparece, revelando el camino hacia la Torre de la Eternidad
 
 ### **Inmediatamente Después - Caos Desencadenado:**
 - **NO hay proclamación oficial:** Manshoon está recluido
@@ -249,12 +249,12 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 5. **La mata** y su poder de estasis temporal fluye hacia Teach (interceptado por el Talismán)
 6. **Perturbación masiva:** Los Anacronistas detectan la muerte de un lugarteniente
 
-**⚠️ IMPORTANTE - EVENTO FIJO:**
-- **Thyra SIEMPRE muere** - Los PJ pueden intentar salvarla, pero el asesinato ocurre inevitablemente
-- **La región queda accesible:** La estasis desaparece, revelando el camino hacia la Torre de la Eternidad (barrera impenetrable sin Talismán)
+**⚠️ IMPORTANTE - EVENTO FIJO (Sensación in-world):**
+- **Thyra SIEMPRE muere.** El valle es **inaccesible** para los PJ (barrera de estasis); **solo Teach con el Talismán** puede entrar. Los PJ no pueden plantearse salvar a Thyra porque no tienen forma de llegar — solo Teach tiene ese poder. Sensación: tragedia lejana, no fallo.
+- **La región queda accesible:** Tras la muerte de Thyra, la estasis desaparece, revelando el camino hacia la Torre de la Eternidad.
 
 **Opciones para los PJ:**
-- **Llegar DURANTE el asesinato:** Muy difícil - la barrera de estasis bloquea el acceso (solo Teach con Talismán puede entrar)
+- **Llegar DURANTE el asesinato:** No es una opción real sin el Talismán — la barrera de estasis bloquea el acceso y solo Teach con Talismán puede penetrarla
 - **Llegar DESPUÉS:** Encuentran el valle congelado, cristales de tiempo por el suelo, barrera permanente
 - **Enterarse por rumores:** Los Anacronistas les informan de la perturbación
 

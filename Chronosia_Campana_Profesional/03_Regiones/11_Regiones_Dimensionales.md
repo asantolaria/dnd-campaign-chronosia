@@ -31,7 +31,7 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 - Las Gemelas del Espejo - Lyra y Nyx (Neutrales hasta Sesión 11)
 - Ymir el Eterno Invierno (Dimensional)
 
-**📖 Ver documento completo de la competencia:** [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
+**📖 Ver documento completo de la competencia:** [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)
 
 ---
 
@@ -105,7 +105,7 @@ Un archipiélago de islas piratas dispersas en el Mar Occidental, donde Edward T
 - **Cañón Suspendido**: Daño masivo a enemigos congelados (doble daño)
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel, incluyendo la tabla de criaturas invocables.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel, incluyendo la tabla de criaturas invocables.
 
 ---
 
@@ -164,7 +164,7 @@ Vastas llanuras donde el espacio se ha comprimido hasta límites imposibles. Las
 - **Criaturas:** Aumentan en poder según el nivel de los PJ
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
 
 ---
 
@@ -223,7 +223,7 @@ Una región volcánica devastada donde el espacio se ha fracturado en múltiples
 - **Portal de Devastación**: Lanza un ejército de dragones y elementales
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
 
 ---
 
@@ -278,7 +278,7 @@ Una ciudad subterránea drow construida en una red de cavernas naturales que se 
 - **Portal de Lolth**: Abre un portal directo a Lolth, trayendo su poder divino
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
 
 ---
 
@@ -340,7 +340,7 @@ Un jardín extenso lleno de espejos de diferentes tamaños y formas que actúan 
 No se sabe realmente si eran dos personas originalmente o si una surgió de la dimensión espejo. Ambas afirman ser la original y la otra el reflejo, creando una dinámica psicológica compleja donde la identidad y la realidad se confunden.
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
 
 ---
 
@@ -411,7 +411,7 @@ Glacialis alberga múltiples portales de hielo que se abren constantemente, cone
 - **Portal Cósmico**: Crea un portal masivo que inunda la región
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
 
 ---
 

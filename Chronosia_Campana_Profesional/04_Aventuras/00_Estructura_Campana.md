@@ -87,10 +87,13 @@
 4. **Los lugartenientes vivos se determinan dinámicamente** - Dependen de las decisiones de los PJ
 5. **El viaje al pasado es la única forma** de prevenir el ritual (Fase 5)
 6. **La batalla final es por fases** - Tipo videojuego, múltiples fases épicas (Fase 6)
+7. **Eventos fijos y sensación in-world:** Los eventos fijos (Talismán, muerte de Thyra, ritual completado) son esenciales para la trama. Deben sentirse **inevitables por lógica del mundo**, no porque el DM diga "no". Ejemplo: Thyra está en una **zona inaccesible** (barrera de estasis); **solo Teach con el Talismán** puede entrar. Los PJ no pueden plantearse salvarla porque no tienen forma de llegar — solo Teach tiene ese poder. Ver [01_Dirigir_Campana.md](../02_Guia_DM/01_Dirigir_Campana.md#-eventos-fijos-sensación-in-world).
 
 ## 📋 **DOCUMENTOS RELACIONADOS**
 
 ### **Para el DM:**
+- **`../02_Guia_DM/DM_Screen_Una_Pagina.md`** → Referencia de una página para mesa
+- **`../02_Guia_DM/Eventos_Que_Siempre_Ocurren.md`** → Lista de hitos fijos y frase para el DM
 - **`../02_Guia_DM/00_Guia_Navegacion_DM.md`** → Guía completa de navegación
 - **`../02_Guia_DM/07_Cronologia_Maestra_Campana.md`** → Timeline maestro
 - **`../00_Documento_Trabajo_Restructuracion.md`** → Documento de trabajo de restructuración
@@ -103,13 +106,13 @@
 
 ## 🎭 **FLUJO DE TRABAJO RECOMENDADO**
 
-### **Sesión 1 (LINEAL):**
-1. Lee `01_Mision_Inicial.md`
+### **Sesión 1 (LINEAL - Fase 0):**
+1. Lee `Fase_0_Railroad_Inicial/01_Sesion_1_Asesinato_Waterdeep.md`
 2. Consulta `Fase_0_Railroad_Inicial/04_Kaelthas_El_Relojero_Roto.md` para stats
 3. Sigue `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` Sesión 1
 
 ### **Sesiones 2-7 (SANDBOX + TRAMA PARALELA):**
-1. Lee `02_Misiones_Sandbox.md` para misiones disponibles
+1. Lee `Fase_2_Sandbox_Inicial/Misiones_Sandbox.md` para misiones disponibles
 2. **ANTES de cada sesión:** Consulta `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para eventos paralelos
 3. **DURANTE la sesión:** Gestiona eventos narrativos según el timeline maestro
 4. **DESPUÉS de la sesión:** Actualiza el estado narrativo de los lugartenientes (tracking dinámico)
@@ -136,7 +139,7 @@
 
 ## 🎯 **DETALLES POR FASE**
 
-### **🎬 FASE 1: RAILROAD INICIAL (Sesión 1)**
+### **🎬 FASE 0: RAILROAD INICIAL (Sesiones 1-3)**
 
 **Objetivo:** Introducir a los PJ al mundo de Chronosia de forma controlada.
 

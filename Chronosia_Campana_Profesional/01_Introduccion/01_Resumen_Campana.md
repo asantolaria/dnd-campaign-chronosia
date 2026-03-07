@@ -40,18 +40,18 @@
 - **[04_Resumen_Mundo.md](./04_Resumen_Mundo.md)** - Geografía, historia y culturas de Chronosia
 
 ### **🎲 Guías del DM**
-- **[../02_Guia_DM/05_Dirigir_Campana.md](../02_Guia_DM/05_Dirigir_Campana.md)** - Estructura de sesiones y niveles
+- **[../02_Guia_DM/01_Dirigir_Campana.md](../02_Guia_DM/01_Dirigir_Campana.md)** - Estructura de sesiones y niveles
 - **[../02_Guia_DM/06_Facciones_Organizaciones.md](../02_Guia_DM/06_Facciones_Organizaciones.md)** - Cronófagos, La Resistencia, Anacronistas, Bregan D'aerthe
-- **[../02_Guia_DM/08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md)** - ⭐ **FUENTE DE VERDAD** sobre lugartenientes y poderes
-- **[../02_Guia_DM/09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia entre lugartenientes
+- **[../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ **FUENTE DE VERDAD** sobre lugartenientes y poderes
+- **[../02_Guia_DM/05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia entre lugartenientes
 - **[../02_Guia_DM/22_Eventos_Ascension_Conclave.md](../02_Guia_DM/22_Eventos_Ascension_Conclave.md)** - ⭐ Eventos que modifican puntos
 
 ### **🗺️ Regiones y Misiones**
 - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Tabla maestra de regiones y desbloqueos
 - **[../03_Regiones/10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)** - 3 principales + 2 menores + 1 caída
 - **[../03_Regiones/11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)** - 5 principales + 1 menor
-- **[../04_Aventuras/12_Mision_Inicial.md](../04_Aventuras/12_Mision_Inicial.md)** - Festival del Reloj Astronómico
-- **[../04_Aventuras/13_Misiones_Sandbox.md](../04_Aventuras/13_Misiones_Sandbox.md)** - Exploración libre de Chronosia
+- **[../04_Aventuras/Fase_0_Railroad_Inicial/01_Sesion_1_Asesinato_Waterdeep.md](../04_Aventuras/Fase_0_Railroad_Inicial/01_Sesion_1_Asesinato_Waterdeep.md)** - Festival del Reloj Astronómico y misión inicial
+- **[../04_Aventuras/Fase_2_Sandbox_Inicial/Misiones_Sandbox.md](../04_Aventuras/Fase_2_Sandbox_Inicial/Misiones_Sandbox.md)** - Exploración libre de Chronosia
 
 ---
 
@@ -77,4 +77,4 @@ Los PJ deben:
 
 ---
 
-*Para comenzar la campaña, lee primero [02_Guia_Rapida.md](./02_Guia_Rapida.md) y luego [../04_Aventuras/12_Mision_Inicial.md](../04_Aventuras/12_Mision_Inicial.md).*
+*Para comenzar la campaña, lee primero [02_Guia_Rapida.md](./02_Guia_Rapida.md) y luego [../04_Aventuras/Fase_0_Railroad_Inicial/01_Sesion_1_Asesinato_Waterdeep.md](../04_Aventuras/Fase_0_Railroad_Inicial/01_Sesion_1_Asesinato_Waterdeep.md).*

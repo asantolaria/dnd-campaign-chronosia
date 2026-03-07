@@ -35,6 +35,17 @@ Esta es la versión profesional de la campaña Chronosia, organizada siguiendo l
 
 ---
 
+## 📋 **ESTUDIO Y VALORACIÓN**
+
+- **[00_Estudio_y_Valoracion_Campana.md](./00_Estudio_y_Valoracion_Campana.md)** – Análisis de la campaña como creador de campañas D&D 5e: puntos fuertes, puntos flojos, recomendaciones valoradas y plan de trabajo.
+
+## 📋 **HERRAMIENTAS RÁPIDAS PARA EL DM**
+
+- **[02_Guia_DM/DM_Screen_Una_Pagina.md](./02_Guia_DM/DM_Screen_Una_Pagina.md)** – Referencia de una página para mesa (balance, lugartenientes, frases clave).
+- **[02_Guia_DM/Eventos_Que_Siempre_Ocurren.md](./02_Guia_DM/Eventos_Que_Siempre_Ocurren.md)** – Lista de hitos fijos de la trama y frase tipo para el DM.
+
+---
+
 ## 🎯 **ESTADO DEL DESARROLLO**
 
 **Versión**: 1.0 (Estructura Base)  

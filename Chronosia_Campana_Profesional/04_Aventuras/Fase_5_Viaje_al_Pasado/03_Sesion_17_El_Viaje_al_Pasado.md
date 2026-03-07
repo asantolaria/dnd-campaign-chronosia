@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 4-5 horas
-- **Nivel de los PJ:** 16
+- **Nivel de los PJ:** 15 (nivel máximo de la campaña)
 - **Ubicación:** Viaje temporal → Pasado (antes del ritual completado)
 - **Estilo:** Viaje Temporal + Fusión + Combate Mejorado
 - **⚠️⚠️⚠️ VIAJE TEMPORAL:** Momento único y épico
@@ -142,7 +142,7 @@ Así que, con todo el respeto del mundo... no puedo dejaros pasar."
 #### **2.2. Combate Mejorado contra Teach**
 
 **Edward Teach - Estadísticas:**
-- **Nivel:** 15-16 (igual que antes)
+- **Nivel:** 15 (nivel máximo de la campaña)
 - **Poderes:** Mismos poderes (propio + robado)
 - **Diferencia:** Los PJ tienen ventajas significativas
 
@@ -194,7 +194,7 @@ Tal vez... tal vez esta vez sea diferente."
 **Recompensas:**
 - **Talismán de Interceptación Divina:** Obtienen el Talismán (igual que antes)
 - **Anillo Robado:** Pueden obtener el anillo robado (si actúan rápido)
-- **Experiencia:** Nivel 16 → 17
+- **Experiencia:** Los PJ permanecen en nivel 15 (nivel máximo de la campaña)
 
 ---
 

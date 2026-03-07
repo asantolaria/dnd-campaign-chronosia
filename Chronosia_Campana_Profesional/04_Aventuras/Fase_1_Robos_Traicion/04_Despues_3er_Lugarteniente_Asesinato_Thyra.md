@@ -29,7 +29,7 @@
 ### **Objetivos Principales:**
 - ✅ Descubrir el asesinato de Thyra la Suspendida
 - ✅ Presenciar o descubrir la traición de Edward Teach
-- ✅ **DECISIÓN CRÍTICA:** ¿Salvan a Thyra? (cambia completamente la campaña)
+- ✅ **Comprender que salvar a Thyra no era posible:** Thyra está en una zona **inaccesible** (barrera de estasis); **solo Edward Teach, con el Talismán**, puede penetrarla. Los PJ no tienen forma de entrar al valle sin el Talismán, así que no pueden plantearse salvarla — la sensación debe ser de tragedia lejana, no de "fallo" o de opción bloqueada por el DM.
 
 ### **Objetivos Secundarios:**
 - ⭐ Ver el poder del Talismán en acción
@@ -126,25 +126,26 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 
 ### **3. El Asesinato de Thyra (30 minutos)**
 
-**⚠️ EVENTO FIJO: THYRA SIEMPRE MUERE**
+**⚠️ EVENTO FIJO: THYRA SIEMPRE MUERE — PERO POR RAZONES IN-WORLD**
 
-#### **Opción A: Llegan DURANTE el Asesinato (Muy Difícil)**
+**Diseño clave:** Los eventos fijos son importantes para que la historia se desarrolle. La sensación debe ser que **salvar a Thyra nunca fue una opción para los PJ**, no que "intentaron y fallaron". El Valle de la Aguja Suspendida es **inaccesible**: solo alguien con el Talismán de Interceptación puede penetrar la barrera de estasis. **Solo Teach** tiene el Talismán y el poder para hacerlo. Los PJ, sin Talismán, no pueden entrar; por tanto, no pueden plantearse salvarla.
 
-**⚠️ PROBLEMA:** La región de Thyra está bloqueada por una barrera de estasis. Los PJ NO pueden entrar sin el Talismán.
+#### **Opción A: Llegan DURANTE el Asesinato (Solo si tienen el Talismán — muy improbable)**
+
+**La región de Thyra está BLOQUEADA por una barrera de estasis.** Sin el Talismán, los PJ **no pueden entrar**. Solo Edward Teach, con el Talismán, puede penetrar esa barrera. Por eso la situación "llegar durante el asesinato" solo aplica si en algún momento los PJ hubieran conseguido el Talismán antes que Teach (extremadamente improbable en el diseño actual).
 
 **Si los PJ Tienen el Talismán (Muy Improbable):**
 - Pueden penetrar la barrera usando el Talismán
 - Pueden llegar mientras Teach está atacando a Thyra
 - **Combate Épico:** Edward Teach (CR 17 con Talismán) vs PJ + Thyra
-- **⚠️ IMPORTANTE:** Aunque los PJ intenten salvarla, **Thyra muere de todas formas**
-  - Pueden retrasar el asesinato
-  - Pueden herir gravemente a Teach
-  - Pero Teach completa el asesinato inevitablemente (puede retirarse y volver, o completarlo durante el combate)
+- **⚠️ IMPORTANTE:** En ese caso excepcional, pueden intentar salvarla; si aun así el evento fijo debe mantenerse por necesidades de la trama, Teach puede completar el asesinato (retirarse y volver, o lograrlo en combate). Pero **lo normal es que los PJ no tengan el Talismán**, así que esta opción no se plantea: no pueden entrar.
 
-**Si los PJ NO Tienen el Talismán (Lo Más Probable):**
+**Si los PJ NO Tienen el Talismán (Lo habitual — diseño esperado):**
+- **No pueden entrar al valle.** La barrera de estasis es impenetrable para ellos (CD 22, prácticamente imposible; y sin el Talismán solo Teach tiene la capacidad de "interceptar" la estasis).
 - Llegan DESPUÉS del asesinato (Opción B)
 - Solo pueden observar desde fuera de la barrera
 - Ven los ecos del asesinato a través de la barrera de estasis
+- **Sensación buscada:** "Solo Teach podía hacerlo. Nosotros no teníamos forma de llegar a tiempo."
 
 **Consecuencias (SIEMPRE ocurren):**
 - ⚠️ Thyra muere (evento fijo)
@@ -203,17 +204,13 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 - **Muestra el poder de Teach:** Ahora tiene poderes híbridos (pirata + estasis)
 - **Crea impacto emocional:** Los PJ deben sentir la gravedad
 
-### **⚠️ EVENTO FIJO: Thyra SIEMPRE Muere**
+### **⚠️ EVENTO FIJO: Thyra SIEMPRE Muere — Sensación In-World**
 
-**Independientemente de las acciones de los PJ:**
-- **Thyra muere inevitablemente** - Los PJ pueden intentar salvarla, pero el asesinato ocurre de todas formas
-- **Si los PJ intentan prevenir:**
-  - Combate épico contra Teach
-  - Pueden debilitar a Teach o ganar información
-  - Pero Teach completa el asesinato (puede retirarse y volver, o completarlo durante el combate)
-- **Evento Fijo:** La guerra espontánea comienza
-- **Setup para Sesión 6:** Los lugartenientes reaccionan
-- **Crea urgencia:** "Algo terrible ha comenzado"
+**Por qué los PJ no deben sentir que "podían haberla salvado":**
+- **Thyra está en una zona inaccesible.** El Valle de la Aguja Suspendida está protegido por una barrera de estasis que solo el **Talismán de Interceptación** puede penetrar. Los PJ no tienen el Talismán (lo tiene Teach); por tanto **no pueden entrar al valle**. Salvar a Thyra no es una opción que se les niegue: es que, en el mundo, **solo Teach tiene el poder** para llegar hasta ella.
+- **Sensación buscada:** Tragedia lejana, no fallo. "Solo Teach podía hacerlo. Nosotros no teníamos forma de llegar a tiempo."
+- **Evento Fijo:** La guerra espontánea comienza; setup para Sesión 6; los lugartenientes reaccionan. **Crea urgencia:** "Algo terrible ha comenzado."
+- **Excepción muy improbable:** Si en tu partida los PJ llegaran a tener el Talismán antes que Teach y entraran durante el asesinato, el DM puede permitir combate épico; si aun así se mantiene el evento fijo por la trama, Teach puede completar el asesinato (retirarse y volver, etc.). En el diseño estándar, los PJ llegan después y solo ven los ecos.
 
 ---
 

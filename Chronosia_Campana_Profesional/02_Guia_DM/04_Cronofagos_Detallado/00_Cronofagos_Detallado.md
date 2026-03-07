@@ -336,7 +336,7 @@ Los lugartenientes escalan su poder según el nivel de los personajes jugadores,
 
 **👑 LA ASCENSIÓN DEL CÓNCLAVE:**
 
-El asesinato de Thyra desencadenó la competencia entre lugartenientes. Todos los lugartenientes participan activamente en la lucha por el poder. Ver documento completo: [09_La_Ascension_del_Conclave.md](./09_La_Ascension_del_Conclave.md)
+El asesinato de Thyra desencadenó la competencia entre lugartenientes. Todos los lugartenientes participan activamente en la lucha por el poder. Ver documento completo: [05_La_Ascension_del_Conclave.md](../05_La_Ascension_del_Conclave.md)
 
 **Bandos Activos:**
 - ⏰ **Bando Temporal** (variable según alianzas) - Liderado por Lord Vorthak

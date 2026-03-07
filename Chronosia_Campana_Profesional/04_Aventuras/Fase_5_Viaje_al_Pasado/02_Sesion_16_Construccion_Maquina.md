@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 15-16
+- **Nivel de los PJ:** 15 (nivel máximo de la campaña)
 - **Ubicación:** Cronópolis (taller de los Gnomos)
 - **Estilo:** Protección + Construcción + Preparación
 - **⚠️ CONSTRUCCIÓN CRÍTICA:** La máquina debe construirse sin interrupciones

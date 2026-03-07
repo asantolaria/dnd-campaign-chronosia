@@ -89,6 +89,20 @@ Cronosia es atacada periódicamente por grupos y asaltantes de distintas regione
 - **Significado**: Un recordatorio constante del precio de la seguridad y la libertad en Chronosia
 - **Visitas**: Los habitantes visitan regularmente el cementerio para honrar a los caídos y recordar que la seguridad tiene un costo
 
+#### **⚖️ El Indicador del Equilibrio – Monitor central del balance**
+
+La curva de información del balance entre poderes temporales y dimensionales se resuelve en Cronópolis mediante un **artefacto de monitorización** construido por los artífices de la ciudad.
+
+- **Nombre en la ciudad:** **Indicador del Equilibrio** (o *Balanza de Chronosia*). Los ingenieros y La Resistencia lo llaman técnicamente "Artilugio Detector de Balance".
+- **Creadores:** Din Goldgear y los Ingenieros/Artífices de Cronópolis, en colaboración con La Resistencia. Lo inventan y construyen **después de que los PJ derroten a su segundo lugarteniente**, cuando Din descubre la relación entre las bajas de lugartenientes y la estabilidad del mundo.
+- **Función:** Detectar y mostrar el **equilibrio o desequilibrio de poder mágico** entre fuerzas temporales (Amaunator) y dimensionales (Voidar). No solo alerta a los expertos: la ciudad puede **monitorizar** el estado del balance desde un punto central.
+- **Ubicación en Cronópolis:**
+  - **Dispositivo principal:** En el taller de Din Goldgear / Taller de los Ingenieros (o Fortaleza de Acero), donde se realizan las lecturas precisas y el mantenimiento.
+  - **Monitor público:** Una **réplica o pantalla conectada** al artefacto está instalada en un lugar céntrico y accesible —por ejemplo la **Plaza del Equilibrio** (junto a la Plaza del Reloj) o el atrio de la **Fortaleza de Acero**— de modo que la ciudadanía y los PJ puedan ver el estado del balance al volver a Cronópolis (luces, agujas, escalas o símbolos que indiquen equilibrio / desbalance leve / crítico).
+- **Ventaja narrativa:** Los PJ reciben la información del balance de forma natural al regresar a la ciudad: ven el Indicador, o un guardia/ingeniero les comenta "la Balanza ha empeorado". Así la curva de información del balance no depende solo de diálogos puntuales con NPCs; se **monitoriza desde la ciudad central** mediante un artefacto que los artífices mantienen y que refleja el poder mágico en juego.
+
+**⚠️ NOTA:** El Indicador solo existe **después de que los PJ derroten a su segundo lugarteniente**. Antes de ese momento, La Resistencia y los artífices no conocen el sistema de balance y no hay monitor central.
+
 ### **🌋 VOLCANIS - Las Tierras Ardientes del Sur**
 - **Clima**: Calor extremo con erupciones volcánicas constantes
 - **Características**: Volcanes activos, ríos de lava, cenizas eternas

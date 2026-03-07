@@ -94,7 +94,7 @@ Thyra la Suspendida ha creado una barrera de estasis temporal que envuelve compl
 - **🏔️ Acceso a la Torre:** El valle es el punto de partida para el viaje hacia la Torre de la Eternidad en las montañas del norte
 
 ### **Su Poder Ahora Pertenece a:**
-Edward Teach "Barbanegra" - Ver acciones legendarias actualizadas en [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md)
+Edward Teach "Barbanegra" - Ver acciones legendarias actualizadas en [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 
 ---
 
@@ -175,7 +175,7 @@ La región está bajo el control de Serapis el Retroceso, quien puede manipular 
 - **Manipulación Temporal**: Puede ralentizar o acelerar el tiempo localmente
 
 **Acciones Legendarias:**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa, incluyendo:
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa, incluyendo:
 - **Arena del Pasado**: Crea un campo que envejece enemigos
 - **Crono-Espada**: Ataca a través del tiempo
 - **Reversión de Heridas**: Restaura HP al revertir el tiempo
@@ -213,7 +213,7 @@ Al derrotar a Serapis:
 
 **🎖️ LUGARTENIENTE ACTIVO**
 
-**⚠️ PERSONAJE ESPECIAL:** Varrak es el **Oráculo Neutral** que puede convertirse en aliado, siervo o mártir según las acciones de los PJ. Ver [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md) para su sistema completo.
+**⚠️ PERSONAJE ESPECIAL:** Varrak es el **Oráculo Neutral** que puede convertirse en aliado, siervo o mártir según las acciones de los PJ. Ver [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) para su sistema completo.
 
 **⚔️ SOLDADOS ÚNICOS:** Varrak entrena y otorga poderes de **Predicción Temporal** a sus soldados, llamados "Los Videntes". Estos soldados pueden ver el futuro próximo, esquivar ataques proféticamente, y atacar anticipadamente. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
@@ -312,7 +312,7 @@ Posibilidad de obtener objetos únicos que solo existen en ciertas realidades te
 Después de que Edward Teach robó el poder de Thyra, Varrak NO puede predecir las acciones del pirata. Esto lo tortura y puede influir en su decisión de aliarse con los PJ o servir a Aethernus.
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
 
 ---
 
@@ -366,7 +366,7 @@ Una mansión gótica colosal construida con piedra negra que absorbe la luz, rod
 - **Reserva Liberada**: Todas las reservas temporales se liberan violentamente
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel, incluyendo la poderosa **Transferencia de Daño** que lo hace extremadamente difícil de derrotar.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel, incluyendo la poderosa **Transferencia de Daño** que lo hace extremadamente difícil de derrotar.
 
 ---
 
@@ -416,7 +416,7 @@ Un jardín extenso donde todo ha sido petrificado por la mirada de Medusa. Estat
 - **Eternidad Absoluta**: Crea un campo donde el tiempo se detiene completamente
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
 
 ---
 
@@ -464,7 +464,7 @@ Las ruinas de una antigua ciudad que existe en múltiples momentos temporales si
 - **Fragmentación Temporal**: Se fragmenta en múltiples versiones de sí mismo
 
 ### **Acciones Legendarias**
-Ver [08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
+Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) para la lista completa de acciones legendarias escalables por nivel.
 
 ---
 

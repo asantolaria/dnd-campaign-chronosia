@@ -141,9 +141,9 @@ Un **reino fracturado** donde el tiempo y el espacio se han roto bajo el peso de
 ## 📚 **DOCUMENTOS COMPLETOS DE REFERENCIA**
 
 ### **Para Preparación de Sesión:**
-- **[../02_Guia_DM/05_Dirigir_Campana.md](../02_Guia_DM/05_Dirigir_Campana.md)** - Estructura completa de sesiones
-- **[../02_Guia_DM/08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md)** - ⭐ Lugartenientes y poderes
-- **[../02_Guia_DM/09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia
+- **[../02_Guia_DM/01_Dirigir_Campana.md](../02_Guia_DM/01_Dirigir_Campana.md)** - Estructura completa de sesiones
+- **[../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ Lugartenientes y poderes
+- **[../02_Guia_DM/05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia
 
 ### **Para Regiones y Aventuras:**
 - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Tabla maestra

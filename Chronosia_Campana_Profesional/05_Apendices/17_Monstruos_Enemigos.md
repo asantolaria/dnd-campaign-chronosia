@@ -139,7 +139,7 @@
 
 ## 👑 **LUGARTENIENTES DEL CÓNCLAVE**
 
-**📖 Ver información completa de poderes y acciones legendarias:** [08_Cronofagos_Detallado.md](../../02_Guia_DM/08_Cronofagos_Detallado.md)
+**📖 Ver información completa de poderes y acciones legendarias:** [00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 
 **⚠️ DESARROLLO PENDIENTE:** Este archivo requiere una actualización mayor para incluir los statblocks completos de los 10 lugartenientes (5 temporales + 5 dimensionales). Por ahora, se mantiene como referencia histórica de Thyra (caída).
 
@@ -195,7 +195,7 @@
 10. **Las Gemelas del Espejo - Lyra y Nyx** (Dimensional - Principales/Neutrales)
 11. **Ymir el Eterno Invierno** (Dimensional - Menor)
 
-**📖 Mientras tanto, consulta sus acciones legendarias en:** [08_Cronofagos_Detallado.md](../../02_Guia_DM/08_Cronofagos_Detallado.md)
+**📖 Mientras tanto, consulta sus acciones legendarias en:** [00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 
 ---
 

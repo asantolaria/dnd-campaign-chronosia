@@ -76,7 +76,7 @@ Así que, con todo el respeto del mundo... no puedo dejaros pasar."
 #### **1.2. La Batalla Épica contra Teach**
 
 **Edward Teach - Estadísticas:**
-- **Nivel:** 15-16 (escalado según nivel de los PJ)
+- **Nivel de los PJ:** 14-15 (alcanzan nivel 15 al final de esta sesión; nivel máximo de la campaña)
 - **Poderes Combinados:** 
   - **Poder Propio (Dimensional):** Manipulación espacial, portales, compresión
   - **Poder Robado (Temporal):** Manipulación temporal, envejecimiento, bucles temporales

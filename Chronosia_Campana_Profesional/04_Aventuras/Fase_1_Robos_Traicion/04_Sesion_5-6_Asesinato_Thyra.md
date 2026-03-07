@@ -27,7 +27,7 @@
 ### **Objetivos Principales:**
 - ✅ Descubrir el asesinato de Thyra la Suspendida
 - ✅ Presenciar o descubrir la traición de Edward Teach
-- ✅ **DECISIÓN CRÍTICA:** ¿Salvan a Thyra? (cambia completamente la campaña)
+- ✅ **Comprender que salvar a Thyra no era posible:** Thyra está en una zona **inaccesible** (barrera de estasis); **solo Edward Teach, con el Talismán**, puede penetrarla. Los PJ no pueden entrar al valle sin el Talismán — la sensación debe ser de tragedia lejana, no de "fallo" o opción bloqueada.
 
 ### **Objetivos Secundarios:**
 - ⭐ Ver el poder del Talismán en acción
@@ -132,13 +132,13 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 
 #### **Opción A: Llegan DURANTE el Asesinato (Muy Difícil)**
 
-**⚠️ PROBLEMA:** La región de Thyra está bloqueada por una barrera de estasis. Los PJ NO pueden entrar sin el Talismán.
+**La región de Thyra está BLOQUEADA por una barrera de estasis.** Solo quien tenga el Talismán puede penetrarla; **solo Teach** lo tiene. Los PJ, sin Talismán, **no pueden entrar** — por tanto no pueden plantearse salvarla. Sensación buscada: "Solo Teach podía hacerlo."
 
 **Si los PJ Tienen el Talismán (Muy Improbable):**
 - Pueden penetrar la barrera usando el Talismán
 - Pueden llegar mientras Teach está atacando a Thyra
 - **Combate Épico:** Edward Teach (CR 17 con Talismán) vs PJ + Thyra
-- **⚠️ IMPORTANTE:** Aunque los PJ intenten salvarla, **Thyra muere de todas formas**
+- **⚠️ IMPORTANTE:** En ese caso excepcional pueden intentar salvarla; si el evento fijo se mantiene, Teach puede completar el asesinato. Lo normal es que **no tengan el Talismán** y lleguen después (Opción B).
   - Pueden retrasar el asesinato
   - Pueden herir gravemente a Teach
   - Pero Teach completa el asesinato inevitablemente (puede retirarse y volver, o completarlo durante el combate)
@@ -205,17 +205,12 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 - **Muestra el poder de Teach:** Ahora tiene poderes híbridos (pirata + estasis)
 - **Crea impacto emocional:** Los PJ deben sentir la gravedad
 
-### **⚠️ EVENTO FIJO: Thyra SIEMPRE Muere**
+### **⚠️ EVENTO FIJO: Thyra SIEMPRE Muere — Sensación In-World**
 
-**Independientemente de las acciones de los PJ:**
-- **Thyra muere inevitablemente** - Los PJ pueden intentar salvarla, pero el asesinato ocurre de todas formas
-- **Si los PJ intentan prevenir:**
-  - Combate épico contra Teach
-  - Pueden debilitar a Teach o ganar información
-  - Pero Teach completa el asesinato (puede retirarse y volver, o completarlo durante el combate)
-- **Evento Fijo:** La guerra espontánea comienza
-- **Setup para Sesión 6:** Los lugartenientes reaccionan
-- **Crea urgencia:** "Algo terrible ha comenzado"
+**Por qué los PJ no deben sentir que "podían haberla salvado":**
+- **Thyra está en una zona inaccesible.** Solo Teach con el Talismán puede penetrar la barrera de estasis. Los PJ no pueden entrar al valle; salvar a Thyra no es una opción que se les niegue — en el mundo, solo Teach tiene el poder para llegar hasta ella. Sensación: tragedia lejana, no fallo.
+- **Evento Fijo:** La guerra espontánea comienza; setup para Sesión 6; los lugartenientes reaccionan. **Crea urgencia:** "Algo terrible ha comenzado."
+- **Excepción muy improbable:** Si los PJ tuvieran el Talismán y entraran durante el asesinato, el DM puede permitir combate épico; si se mantiene el evento fijo, Teach puede completar el asesinato. En el diseño estándar, los PJ llegan después y solo ven los ecos.
 
 ---
 

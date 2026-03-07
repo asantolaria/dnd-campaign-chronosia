@@ -24,6 +24,7 @@
 - [ ] Mapas visuales de regiones
 
 ### **Materiales de Juego:**
+- [x] **Hoja Balance Temporal/Dimensional** - [Hoja_Balance_Temporal_Dimensional.md](./Hoja_Balance_Temporal_Dimensional.md) — Recordatorio para jugadores del equilibrio (temporales vs dimensionales derrotados) y del Indicador del Equilibrio en Cronópolis ✅
 - [ ] Fichas de personajes
 - [ ] Hojas de seguimiento
 - [ ] Tablas de referencia

@@ -7,6 +7,8 @@
 > Este documento es una **guía rápida de referencia** con la información más crítica que necesitas antes y durante cada sesión. Para detalles completos, consulta los documentos específicos listados al final.
 
 > **📖 DOCUMENTOS CLAVE:**
+> - **[DM_Screen_Una_Pagina.md](./DM_Screen_Una_Pagina.md)** - 📋 Referencia de una página para mesa (balance, lugartenientes, frases clave)
+> - **[Eventos_Que_Siempre_Ocurren.md](./Eventos_Que_Siempre_Ocurren.md)** - ⚠️ Lista de hitos fijos y frase para el DM
 > - **[04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ Vista general de lugartenientes (ver archivos individuales para statblocks completos)
 > - **[07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md)** - ⭐ Timeline maestro completo
 > - **[00_Documento_Trabajo_Restructuracion.md](../../00_Documento_Trabajo_Restructuracion.md)** - ⭐ Documento de trabajo de restructuración
@@ -21,9 +23,10 @@
 
 ### **📊 Estructura de Niveles**
 - **Nivel Inicial**: 3 (llegada a Chronosia)
+- **Nivel Máximo**: 15 (no se sube de nivel en Fases 5 y 6)
 - **Primera Misión**: 3→5 (Waterdeep + primer lugarteniente)
 - **Fase Sandbox**: 5→13 (derrotar lugartenientes manteniendo balance)
-- **Clímax**: 13→15 (batalla contra Aethernus)
+- **Clímax**: 13→15 (Fase 4: batalla contra Teach y ritual; se alcanza nivel 15 al final de Sesión 14)
 
 ### **⚠️ IMPORTANTE - SISTEMA DE BALANCE CRÍTICO**
 La campaña tiene **12 lugartenientes activos** inicialmente (6 de cada tipo):
@@ -42,7 +45,7 @@ La campaña tiene **12 lugartenientes activos** inicialmente (6 de cada tipo):
 - [ ] Revisar [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md) - Regiones
 - [ ] Revisar [00_Estructura_Campana.md](../04_Aventuras/00_Estructura_Campana.md) - Estructura de fases
 - [ ] Preparar tablas de tracking (ver [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md))
-- [ ] Preparar encuentros para niveles 3-20
+- [ ] Preparar encuentros para niveles 3-15
 - [ ] **Familiarizarse con sistema de balance temporal/dimensional**
 - [ ] **Memorizar diálogos de explicadores del balance**
 - [ ] **Revisar sistema de anillos de poder** (ver [21_Objetos_Magicos_Reliquias.md](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes))
@@ -99,7 +102,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 
 *"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
 
-**⚠️ NOTA**: El Capitán Marcus solo puede proporcionar estas advertencias **después de que los PJ derroten a su segundo lugarteniente**, momento en el que Din Goldgear inventa el artilugio detector de balance. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
+**⚠️ NOTA**: El Capitán Marcus solo puede proporcionar estas advertencias **después de que los PJ derroten a su segundo lugarteniente**, momento en el que Din Goldgear y los artífices inventan el **Indicador del Equilibrio** (Artilugio Detector de Balance). Ese artefacto se instala en Cronópolis con un **monitor público** (p. ej. Plaza del Equilibrio o Fortaleza de Acero), de modo que la ciudad monitoriza el balance de poder mágico desde el centro y los PJ pueden ver el estado al volver. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
 
 ### **📝 Hoja de Seguimiento del Desbalance**
 
@@ -136,7 +139,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - **Objetivo**: Eventos catalizadores que desencadenan la guerra
 - **Estilo**: Eventos fijos críticos con decisiones importantes
 - **Elementos**: Robo del Cronómetro → Robo de la Perla → Creación del Talismán → Asesinato de Thyra
-- **Eventos fijos**: El Talismán SIEMPRE se crea, Thyra SIEMPRE muere (los PJ pueden intentar prevenir pero estos eventos ocurren inevitablemente)
+- **Eventos fijos**: El Talismán SIEMPRE se crea, Thyra SIEMPRE muere. **Sensación in-world:** Los eventos fijos deben sentirse inevitables por lógica del mundo (p. ej. Thyra está en una zona **inaccesible** — solo Teach con el Talismán puede penetrar la barrera de estasis; los PJ no pueden plantearse salvarla porque no tienen forma de entrar).
 - **📖 Guía completa:** [00_Guia_General_Fase_1.md](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
 
 ### **🎲 FASE 2: SANDBOX INICIAL (Sesiones 6-9)**
@@ -211,14 +214,16 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 
 ### **⏰ FASE 5: Sesiones 15-17 (Viaje al Pasado)**
 - **Sesión 15**: Mundo post-ritual, obtención de anillos de poder (Nivel 15)
-- **Sesión 16**: Construcción de la máquina salta-mundos (Nivel 15-16)
-- **Sesión 17**: ⚠️⚠️⚠️ Viaje al pasado, fusión temporal, rebatalla contra Teach (Nivel 16)
+- **Sesión 16**: Construcción de la máquina salta-mundos (Nivel 15)
+- **Sesión 17**: ⚠️⚠️⚠️ Viaje al pasado, fusión temporal, rebatalla contra Teach (Nivel 15)
 - **📖 Timeline completo:** [00_Guia_General_Fase_5.md](../04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md#-timeline-de-esta-fase)
 
 ### **⚔️ FASE 6: Sesiones 18-20 (Batalla Final)**
-- **Sesión 18**: Llegada a tiempo al ritual, preparación (Nivel 16-17)
-- **Sesiones 19-20**: ⚠️⚠️⚠️ Batalla final por fases (tipo videojuego) (Nivel 17-20)
+- **Sesión 18**: Llegada a tiempo al ritual, preparación (Nivel 15)
+- **Sesiones 19-20**: ⚠️⚠️⚠️ Batalla final por fases (tipo videojuego) (Nivel 15)
 - **📖 Timeline completo:** [00_Guia_General_Fase_6.md](../04_Aventuras/Fase_6_Batalla_Final/00_Guia_General_Fase_6.md#-timeline-de-esta-fase)
+
+**⚠️ Nivel máximo de la campaña: 15.** Los PJ alcanzan nivel 15 al final de la Fase 4 (Sesión 14) y se mantienen en 15 para Fases 5 y 6.
 
 ---
 
@@ -254,6 +259,13 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 ---
 
 ## ⚠️ **CONSEJOS IMPORTANTES**
+
+### **⚠️ Eventos fijos: sensación in-world**
+
+Los eventos fijos (Talismán creado, Thyra muere, ritual se completa la primera vez) son **necesarios** para que la historia se desarrolle. Para que los jugadores no sientan que el DM les "bloquea" opciones, esos eventos deben tener **sensación de inevitabilidad in-world**:
+
+- **Thyra:** El Valle de la Aguja Suspendida es **inaccesible** para los PJ: una barrera de estasis impide entrar. **Solo Edward Teach, con el Talismán de Interceptación**, puede penetrarla. Los PJ no tienen el Talismán; por tanto **no pueden plantearse salvar a Thyra** — no es que fallen, es que solo Teach tiene el poder para llegar hasta ella. La sensación buscada es **tragedia lejana**, no "podíamos haberla salvado".
+- **Otros eventos fijos:** Siempre que sea posible, justifica la inevitabilidad con el mundo (zonas inaccesibles, artefactos únicos en manos del villano, poderes que solo él tiene). Los PJ pueden influir en el **cómo** o en las consecuencias laterales, pero el hito ocurre por lógica del mundo.
 
 ### **⚠️ Reglas Críticas a Recordar:**
 

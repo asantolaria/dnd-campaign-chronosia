@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 6-8 horas (2 sesiones)
-- **Nivel de los PJ:** 17-20 (progresión durante la batalla)
+- **Nivel de los PJ:** 15 (nivel máximo de la campaña; no hay subida de nivel durante la batalla)
 - **Ubicación:** Torre de la Eternidad (cámara del ritual)
 - **Estilo:** Combate Épico por Fases + Liberación de Dioses + Epílogo
 - **⚠️⚠️⚠️ BATALLA FINAL:** El destino del multiverso se decide aquí

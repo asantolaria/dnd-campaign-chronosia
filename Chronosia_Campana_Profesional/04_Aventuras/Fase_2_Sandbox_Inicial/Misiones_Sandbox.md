@@ -9,7 +9,7 @@
 >   - [../03_Regiones/10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
 >   - [../03_Regiones/11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
 > - Para **información sobre lugartenientes y poderes**, consulta:
->   - [../02_Guia_DM/08_Cronofagos_Detallado.md](../02_Guia_DM/08_Cronofagos_Detallado.md)
+>   - [../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 
 ---
 
@@ -59,7 +59,7 @@ A partir de la llegada a Chronosia, los PJ pueden:
 
 ### **⚔️ La Ascensión del Cónclave**
 
-**📖 Ver documento completo:** [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
+**📖 Ver documento completo:** [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)
 
 Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó una competencia entre los 11 lugartenientes activos (5 temporales vs 6 dimensionales) por convertirse en su mano derecha. Esto crea dinámicas únicas:
 
@@ -169,7 +169,7 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 
 **🎖️ LUGARTENIENTE ACTIVO** - 🟡 **Neutral hasta Sesión 11**
 
-**⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md) para su sistema completo.
+**⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) para su sistema completo.
 
 #### **🎯 Objetivos**
 - **Principal**: Influenciar a **Varrak del Horizonte** para que se alíe con los PJ (o derrotarlo si se convierte en enemigo)
@@ -197,7 +197,7 @@ Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas
 - **Recompensas**: Elección entre **Espejo de la Verdad** O **Fragmento de Realidad Alternativa**
 - **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 1+ lugarteniente
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md) y [09_La_Ascension_del_Conclave.md](../02_Guia_DM/09_La_Ascension_del_Conclave.md)
+**Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md) y [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)
 
 ---
 

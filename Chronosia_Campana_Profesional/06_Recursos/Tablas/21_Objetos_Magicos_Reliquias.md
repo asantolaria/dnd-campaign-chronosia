@@ -1240,36 +1240,38 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Mecánica:** Vibra cuando detecta magia, más fuerte cuanto más cerca
 - **Uso:** No requiere sintonización, funciona para cualquiera
 
-#### **🔧 Artilugio Detector de Balance**
+#### **🔧 Artilugio Detector de Balance (Indicador del Equilibrio / Balanza de Chronosia)**
 
 **📍 Cómo Obtenerlo:**
-- **Creación:** Din Goldgear lo inventa después de que los PJ derroten a su segundo lugarteniente
-- **Ubicación:** Cronópolis (Taller de Din Goldgear / Taller de los Ingenieros)
-- **Uso:** Los PJ pueden consultarlo si tienen permiso de Din Goldgear o el Capitán Marcus
-- **Requisito:** Debe haberse derrotado al menos 2 lugartenientes para que Din lo invente
+- **Creación:** Din Goldgear y los Ingenieros/Artífices de Cronópolis lo inventan y construyen después de que los PJ derroten a su segundo lugarteniente
+- **Ubicación en Cronópolis:**
+  - **Dispositivo principal:** Taller de Din Goldgear / Taller de los Ingenieros (lecturas precisas y mantenimiento)
+  - **Monitor central público:** Una réplica o pantalla conectada al artefacto está instalada en un lugar céntrico de la ciudad (p. ej. **Plaza del Equilibrio** o atrio de la **Fortaleza de Acero**), de modo que **la ciudad monitoriza el balance** desde un punto visible: ciudadanía y PJ pueden ver el estado (equilibrio / desbalance) al volver a Cronópolis
+- **Uso:** Los PJ pueden consultar el dispositivo principal con permiso de Din Goldgear o el Capitán Marcus; en la calle, basta con acercarse al monitor público o que un guardia/ingeniero les comente el estado de "la Balanza"
+- **Requisito:** Debe haberse derrotado al menos 2 lugartenientes para que se invente y se instale
 
-**⚠️ IMPORTANTE:** Este artilugio solo existe **después de que los PJ derroten a su segundo lugarteniente**. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
+**⚠️ IMPORTANTE:** Este artilugio solo existe **después de que los PJ derroten a su segundo lugarteniente**. Antes de ese momento, La Resistencia y los artífices no tienen conocimiento del sistema de balance y no hay monitor central en la ciudad.
 
 **Tipo:** Dispositivo (Tecnología + Magia)  
 **Rareza:** Muy Raro  
-**Peso:** 15 libras  
-**Creador:** Din Goldgear
+**Peso:** 15 libras (dispositivo principal); el monitor público puede ser una instalación fija más grande  
+**Creador:** Din Goldgear + Ingenieros/Artífices de Cronópolis
 
 **Historia:**
-Después de que los personajes derroten a su segundo lugarteniente, Din Goldgear se da cuenta de que hay una reacción directa entre las bajas de los lugartenientes y cómo afecta su influencia en el mundo de Chronosia. Utilizando su conocimiento como artífice y su experiencia con distorsiones temporales (aprendida en Barovia), Din inventa este artilugio crucial que permite detectar el equilibrio entre poderes temporales y dimensionales.
+Después de que los personajes derroten a su segundo lugarteniente, Din Goldgear descubre la relación directa entre las bajas de los lugartenientes y el equilibrio de poder mágico en Chronosia. Junto con los Ingenieros y La Resistencia, construye este artefacto no solo como herramienta interna, sino como **monitor central**: lo instalan de forma que Cronópolis pueda **vigilar el equilibrio o desequilibrio de poder mágico** desde la ciudad. Una réplica o pantalla conectada en un lugar céntrico (Plaza del Equilibrio o Fortaleza de Acero) permite a todo el que vuelva a Cronópolis —incluidos los PJ— ver de un vistazo si el balance está estable o en peligro.
 
 **Propiedades:**
 - **Medición del Equilibrio:** Mide el equilibrio actual entre poderes temporales y dimensionales, mostrando la diferencia numérica entre ambos
 - **Detección de Fluctuaciones:** Detecta fluctuaciones inmediatas cuando un lugarteniente cae, alertando sobre cambios en el balance
 - **Predicción de Fallos:** Predice fallos en dispositivos anti-distorsión basándose en el nivel de desbalance, mostrando porcentajes de eficiencia esperada
 - **Alertas de Estado:** Alerta cuando el equilibrio se vuelve crítico (diferencia de 3+), moderado (diferencia de 2), o extremo (diferencia de 4+)
-- **Visualización:** Muestra una representación visual del balance (escala, agujas, o luces que indican el estado actual)
-- **Uso:** Requiere una acción para consultar el estado actual del balance
+- **Visualización:** Muestra una representación visual del balance (escala, agujas, luces o símbolos que indican equilibrio / desbalance leve / crítico); el monitor público ofrece la misma información de forma legible para la ciudad
+- **Uso:** Requiere una acción para consultar el estado actual en el dispositivo principal; el monitor público es visible con solo acercarse
 
 **Mecánica de Juego:**
-- El DM puede usar este artilugio para proporcionar información precisa sobre el estado del balance a los PJ
-- El Capitán Marcus usa este artilugio para proporcionar sus advertencias tecnológicas
-- Los PJ pueden consultarlo cuando regresen a Cronópolis para conocer el estado actual del balance
+- El DM puede usar el artefacto para dar información clara del balance a los PJ cada vez que regresen a Cronópolis (ven el Indicador o les cuentan el estado de la Balanza)
+- El Capitán Marcus y los ingenieros usan el dispositivo principal para sus advertencias tecnológicas
+- **Monitor desde la ciudad central:** La información del balance se monitoriza desde Cronópolis mediante este artefacto, lo que suaviza la curva de información: los PJ no dependen solo de explicadores en momentos puntuales
 
 #### **Neutralizador de Campo**
 

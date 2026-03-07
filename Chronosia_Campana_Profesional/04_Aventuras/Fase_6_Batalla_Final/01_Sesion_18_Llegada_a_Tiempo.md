@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 16-17
+- **Nivel de los PJ:** 15 (nivel máximo de la campaña)
 - **Ubicación:** Torre de la Eternidad (cámara del ritual)
 - **Estilo:** Preparación + Planificación + Inicio de Batalla
 - **⚠️ MOMENTO CRÍTICO:** Los PJ han llegado a tiempo, pueden prevenir el ritual

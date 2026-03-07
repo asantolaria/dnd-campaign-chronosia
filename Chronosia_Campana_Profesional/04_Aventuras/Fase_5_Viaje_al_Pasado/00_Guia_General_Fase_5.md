@@ -28,13 +28,13 @@ El mundo ha cambiado. Aethernus es dios. Los dioses están muertos. Pero aún ha
 
 ### **Sesión 16: Construcción de la Máquina**
 - **[02_Sesion_16_Construccion_Maquina.md](./02_Sesion_16_Construccion_Maquina.md)**
-- **Nivel:** 15-16
+- **Nivel:** 15 (nivel máximo de la campaña)
 - **Ubicación:** Cronópolis (taller de los Gnomos)
 - **Evento:** Construcción de la máquina salta-mundos
 
 ### **Sesión 17: El Viaje al Pasado**
 - **[03_Sesion_17_El_Viaje_al_Pasado.md](./03_Sesion_17_El_Viaje_al_Pasado.md)**
-- **Nivel:** 16
+- **Nivel:** 15
 - **Ubicación:** Viaje temporal → Pasado (antes del ritual)
 - **Evento:** ⚠️⚠️⚠️ **VIAJE TEMPORAL** + **FUSIÓN CON YO DEL PASADO** + **REBATALLA CONTRA TEACH**
 
@@ -102,7 +102,7 @@ El mundo ha cambiado. Aethernus es dios. Los dioses están muertos. Pero aún ha
 - Proteger a los Gnomos durante la construcción
 - Preparar para el viaje temporal
 
-**Nivel de los PJ:** 15-16
+**Nivel de los PJ:** 15 (nivel máximo)
 
 ---
 
