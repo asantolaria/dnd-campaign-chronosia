@@ -24,7 +24,7 @@
 #### **🗺️ Desarrollo de Geografía y Regiones:**
 - [ ] **Distribución específica de islas/ubicaciones exactas** para cada lugarteniente
 - [ ] **Mapas detallados de cada región** (11 regiones)
-- [ ] **Encuentros aleatorios específicos por región** (tablas por región) - **PRIORIDAD ALTA**: Crear tabla de 1d10 encuentros aleatorios para cada una de las 11 regiones activas
+- [x] **Encuentros aleatorios por región (inicio)** ✅ — Creado `22_Encuentros_Aleatorios_por_Region.md` con tablas 1d6 para La Espiral del Reloj de Arena, Glacialis y Alrededores de Cronópolis (CR 3-6). Pendiente ampliar al resto de regiones.
 - [ ] **Tabla de eventos cósmicos de advertencia** (balance temporal/dimensional)
 
 ### **🔥 Tareas de Simplificación y Mejora**
@@ -35,8 +35,9 @@
 
 #### **🛠️ Herramientas de Gestión (PRIORIDAD ALTA - Ver Evaluación):**
 - [ ] **Dashboard de Tracking Digital**: Crear herramienta (Excel/Google Sheets/HTML) que calcule automáticamente balance temporal/dimensional y estado de lugartenientes
-- [ ] **DM Screen de Referencia Rápida**: Crear documento de una página con toda la información crítica (balance, estado de lugartenientes, urgencia narrativa, diálogos clave)
+- [x] **DM Screen de Referencia Rápida** ✅ — Creado `02_Guia_DM/DM_Screen_Una_Pagina.md` (balance, lugartenientes, frases clave, urgencia). Enlazado en README y Dirigir campaña.
 - [ ] **Mapa Interactivo de Chronosia**: Mapa visual con regiones coloreadas según estado, iconos de lugartenientes, indicadores de balance
+- [x] **Eventos que siempre ocurren** ✅ — Creado `02_Guia_DM/Eventos_Que_Siempre_Ocurren.md` (hitos fijos + frase para el DM). Enlazado en README, Dirigir campaña y Estructura.
 - [ ] **Checklist de Sesión**: Documento de una página con checklist pre-sesión, durante sesión, y post-sesión
 
 #### **🏰 Expansión de Regiones:**
@@ -60,7 +61,7 @@
 - [ ] **12 Ubicaciones Específicas de Cristales de Arena**: Diseñar las 12 ubicaciones exactas dispersas con encuentros específicos (CR 4-6), mapa de distribución detallado, descripciones únicas de cada ubicación, y variaciones de los Guardianes del Cristal según la ubicación - **PRIORIDAD ALTA**
 - [ ] **Puzzles Temporales Específicos**: Diseñar 4-6 puzzles detallados que otorgan +3 puntos (puzzles de relojes, acertijos temporales, rituales con aldeanos, sincronización de eventos) - La mecánica existe pero faltan los puzzles específicos - **PRIORIDAD ALTA**
 - [ ] **Actualizar Misiones_Sandbox.md**: Reflejar nueva mecánica del Reloj de Arena, estrategias de optimización, guía de 3 reinicios - Actualmente solo menciona a Serapis pero no la mecánica del reloj
-- [ ] **Encuentros Aleatorios de la Región**: Tabla de encuentros específicos para La Espiral (criaturas temporales, ecos, anomalías) - Falta tabla dedicada - **PRIORIDAD ALTA**
+- [x] **Encuentros Aleatorios de la Región** ✅ — Incluidos en `06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md` (La Espiral, Glacialis, Cronópolis). Ampliar al resto de regiones si se desea.
 - [ ] **Diálogos con NPCs Clave**: Escribir diálogos completos y expandidos (Anciana del Pueblo, Maestro Relojero, Niños Temporales, Conscientes del Bucle) - Existen diálogos básicos pero faltan conversaciones completas
 
 ---
@@ -102,6 +103,12 @@
 
 ### **Herramientas y Sistemas de Simulación:**
 - ✅ Sistema de tracking completo en `20_Tablas_Tracking_Campana.md`
+- ✅ DM Screen de una página (`02_Guia_DM/DM_Screen_Una_Pagina.md`)
+- ✅ Eventos que siempre ocurren (`02_Guia_DM/Eventos_Que_Siempre_Ocurren.md`)
+- ✅ Índice maestro de la campaña (`00_Indice_Campana.md`) — fases 0-6, sesiones, fuentes de verdad, herramientas DM
+- ✅ Hoja de balance para jugadores (`06_Recursos/Handouts/Hoja_Balance_Temporal_Dimensional.md`)
+- ✅ Guía "Cómo explicar el viaje en juego" en Fase 5 (`04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md`)
+- ✅ Encuentros aleatorios para 3 regiones (`06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md`)
 
 ### **Clímax y Revelaciones:**
 - ✅ Desarrollo completo del clímax (4 finales posibles)
@@ -129,6 +136,8 @@
 ---
 
 ## 📝 **ÚLTIMA ACTUALIZACIÓN**
+
+**Marzo 2025** - **MEJORAS DEL ESTUDIO Y VALORACIÓN**: Aplicadas recomendaciones del documento `00_Estudio_y_Valoracion_Campana.md`: DM Screen una página, Eventos que siempre ocurren, Índice maestro (`00_Indice_Campana.md`), Hoja balance para jugadores, sección "Cómo explicar el viaje en juego" en guía Fase 5, tablas de encuentros aleatorios para La Espiral, Glacialis y alrededores de Cronópolis (`22_Encuentros_Aleatorios_por_Region.md`). README de Tablas actualizado. Plan de desarrollo sincronizado con el estudio.
 
 **Diciembre 2025** - **REVISIÓN COMPLETA DE ESTADO Y ACTUALIZACIÓN DE CHECKLISTS**: Revisión exhaustiva de todos los documentos con checklists y actualización del estado real de las tareas. Se encontró que:
 - ✅ La mecánica del Reloj de Arena está completamente desarrollada en `10_Regiones_Temporales.md`

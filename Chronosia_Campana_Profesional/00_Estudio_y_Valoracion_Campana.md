@@ -163,21 +163,21 @@ Orden sugerido para abordar las recomendaciones aceptadas. Cada ítem indica: **
 
 ### Bloque 1: Consistencia y usabilidad (prioridad alta)
 
-| # | Recomendación | Estado | Archivos principales | Pasos |
-|---|----------------|--------|----------------------|--------|
-| **1** | Unificar nomenclatura de fases | ✅ Hecho | `00_Estructura_Campana.md` | FASE 1: RAILROAD INICIAL → FASE 0 en "Detalles por fase"; flujo de trabajo con rutas correctas (01_Sesion_1_Asesinato_Waterdeep, Misiones_Sandbox). |
-| **2** | Corregir enlaces rotos | ✅ Hecho | `01_Introduccion`, `03_Regiones`, `04_Aventuras`, `05_Apendices`, `02_Guia_DM` | 05_Dirigir_Campana→01_Dirigir_Campana; 08_Cronofagos_Detallado→04_Cronofagos_Detallado/00_Cronofagos_Detallado; 12/13_Mision→Fase_0/01_Sesion_1 y Fase_2/Misiones_Sandbox; 09_La_Ascension→05_La_Ascension. |
-| **3** | DM Screen de una página | ✅ Hecho | `02_Guia_DM/DM_Screen_Una_Pagina.md` | Creado: balance, lugartenientes, frases clave (Zephyr, Varrak, Marcus), urgencia. Enlazado en README y 01_Dirigir_Campana. |
-| **4** | Documento "Eventos que siempre ocurren" | ✅ Hecho | `02_Guia_DM/Eventos_Que_Siempre_Ocurren.md` | Creado: lista de hitos fijos (Fase 0, 1, 4, 5-6), frase tipo para el DM, enlaces a guía y Fase 1. |
+| #     | Recomendación                           | Estado  | Archivos principales                                                           | Pasos                                                                                                                                                                                                       |
+| ----- | --------------------------------------- | ------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1** | Unificar nomenclatura de fases          | ✅ Hecho | `00_Estructura_Campana.md`                                                     | FASE 1: RAILROAD INICIAL → FASE 0 en "Detalles por fase"; flujo de trabajo con rutas correctas (01_Sesion_1_Asesinato_Waterdeep, Misiones_Sandbox).                                                         |
+| **2** | Corregir enlaces rotos                  | ✅ Hecho | `01_Introduccion`, `03_Regiones`, `04_Aventuras`, `05_Apendices`, `02_Guia_DM` | 05_Dirigir_Campana→01_Dirigir_Campana; 08_Cronofagos_Detallado→04_Cronofagos_Detallado/00_Cronofagos_Detallado; 12/13_Mision→Fase_0/01_Sesion_1 y Fase_2/Misiones_Sandbox; 09_La_Ascension→05_La_Ascension. |
+| **3** | DM Screen de una página                 | ✅ Hecho | `02_Guia_DM/DM_Screen_Una_Pagina.md`                                           | Creado: balance, lugartenientes, frases clave (Zephyr, Varrak, Marcus), urgencia. Enlazado en README y 01_Dirigir_Campana.                                                                                  |
+| **4** | Documento "Eventos que siempre ocurren" | ✅ Hecho | `02_Guia_DM/Eventos_Que_Siempre_Ocurren.md`                                    | Creado: lista de hitos fijos (Fase 0, 1, 4, 5-6), frase tipo para el DM, enlaces a guía y Fase 1.                                                                                                           |
 
 ### Bloque 2: Herramientas para jugadores y DM (prioridad media)
 
 | # | Recomendación | Estado | Archivos principales | Pasos |
 |---|----------------|--------|----------------------|--------|
 | **6** | Hoja Balance para jugadores | ✅ Hecho | `06_Recursos/Handouts/Hoja_Balance_Temporal_Dimensional.md` | Creada: tabla temporales vs dimensionales, estado equilibrio/desbalance, referencia al Indicador en Cronópolis. README Handouts actualizado. |
-| **8** | Sección "Viaje al pasado" para el DM | 🔲 Pendiente | `04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md` o `02_Guia_DM/` | 1) 1–2 páginas: qué sabe cada "yo" (pasado vs fusionado), qué recuerdan tras la fusión, cómo evitar contradicciones, tono para explicar en juego. 2) Incluir en guía de Fase 5 o en documento dedicado en `02_Guia_DM`. |
-| **5** | Encuentros aleatorios por región | 🔲 Pendiente | **Crear:** tablas en `06_Recursos/Tablas/` o dentro de `03_Regiones/` | 1) Empezar por 2–3 regiones (Espiral del Reloj de Arena, Glacialis, alrededores de Cronópolis). 2) Tabla 1d6 (o 1d10) encuentros por región con CR apropiado. 3) Ir ampliando al resto de regiones. |
-| **10** | Índice maestro | 🔲 Pendiente | README.md y/o **Crear:** `00_Indice_Campana.md` | 1) Lista única: fases 0–6, sesiones por fase, documentos "fuente de verdad", herramientas (tracking, tablas de eventos, DM screen). 2) Integrar en README o crear `00_Indice_Campana.md` y enlazar desde README. |
+| **8** | Sección "Viaje al pasado" para el DM | ✅ Hecho | `04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md` | Añadida sección "Cómo explicar el viaje en juego": qué sabe cada yo (pasado/fusionado), qué recuerdan, cómo evitar contradicciones, frase tipo para la fusión, respuesta a "¿repetimos combate?". |
+| **5** | Encuentros aleatorios por región | ✅ Hecho | `06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md` | Creadas tablas 1d6 para Espiral del Reloj de Arena, Glacialis y Alrededores de Cronópolis. CR 3-6. README de Tablas actualizado. |
+| **10** | Índice maestro | ✅ Hecho | `00_Indice_Campana.md` + README | Creado índice: fases 0-6 con enlaces a guías y sesiones, fuentes de verdad, herramientas DM, estructura de carpetas. Enlazado en README. |
 
 ### Bloque 3: Opcionales
 
@@ -219,8 +219,8 @@ Orden sugerido para abordar las recomendaciones aceptadas. Cada ítem indica: **
 - **Fortalezas principales:** Hook (Waterdeep → Chronosia), mecánica de balance temporal/dimensional, estructura de fases (railroad → sandbox → clímax), documentación y fuentes de verdad, tono y mundo coherentes, momentos narrativos fuertes (Traición de Serapis, cuatro finales).
 - **Debilidades principales:** Complejidad inicial para el DM, inconsistencias de nomenclatura y enlaces rotos, contenido pendiente (Torre 8 niveles, encuentros por región, mapas), Fase 5 (viaje al pasado) sin guía breve de coherencia.
 - **Ya aclarado o aplicado:** (1) **Curva de información del balance** → Indicador del Equilibrio en Cronópolis (monitor desde la ciudad). (2) **Eventos fijos** → Justificación in-world (Thyra en zona inaccesible; solo Teach con Talismán puede entrar). (3) **Nivel máximo** → 15 en toda la campaña; hitos ajustados.
-- **Recomendaciones ya aplicadas:** #1 Unificar nomenclatura (Fase 0 en Estructura, rutas correctas), #2 Corregir enlaces (05→01, 08→04_Cronofagos/00, 12/13→Fase_0/Fase_2, 09→05), #3 DM Screen una página, #4 Eventos que siempre ocurren, #6 Hoja balance para jugadores. Ver [Plan de trabajo](#-plan-de-trabajo-para-las-recomendaciones).
-- **Recomendaciones pendientes (prioridad media):** Sección "Viaje al pasado" (#8), encuentros aleatorios por región (#5), índice maestro (#10).
+- **Recomendaciones ya aplicadas:** #1 Nomenclatura, #2 Enlaces rotos, #3 DM Screen, #4 Eventos que siempre ocurren, #5 Encuentros aleatorios (3 regiones), #6 Hoja balance jugadores, #8 Viaje al pasado (guía DM), #10 Índice maestro. Ver [Plan de trabajo](#-plan-de-trabajo-para-las-recomendaciones).
+- **Pendientes (opcionales):** #9 Final alternativo corto (valorar según necesidad). Ampliar encuentros al resto de regiones (mismo formato que en #5).
 - **Opcionales:** Final alternativo corto (#9, valorar según necesidad).
 
 Este documento sirve como **checklist de mejoras**, **referencia de diseño** y **plan de trabajo** para las recomendaciones pendientes.
@@ -228,4 +228,4 @@ Este documento sirve como **checklist de mejoras**, **referencia de diseño** y 
 ---
 
 *Documento generado a partir del análisis de la campaña Chronosia - El Reino del Tiempo Fracturado.*  
-*Última actualización: Marzo 2025 — Aplicadas recomendaciones #1, #2, #3, #4 y #6 (nomenclatura, enlaces, DM Screen, Eventos que siempre ocurren, Hoja balance jugadores). Pendientes: #8 Viaje al pasado, #5 Encuentros aleatorios, #10 Índice maestro.*
+*Última actualización: Marzo 2025 — Aplicadas todas las recomendaciones aceptadas: #1-#6, #8, #10 (nomenclatura, enlaces, DM Screen, Eventos que siempre ocurren, Hoja balance, Viaje al pasado, Encuentros 3 regiones, Índice maestro). Opcional pendiente: #9 y ampliar encuentros a más regiones.*

@@ -23,10 +23,10 @@
   - Resumen General de Sesión
 
 ### **Tablas de Encuentros:**
-- [ ] **Encuentros por región**: Tablas específicas para cada una de las 11 regiones (temporales y dimensionales)
+- [x] **[22_Encuentros_Aleatorios_por_Region.md](22_Encuentros_Aleatorios_por_Region.md)** - Encuentros aleatorios (1d6) para La Espiral del Reloj de Arena, Glacialis y Alrededores de Cronópolis ✅
+- [ ] **Resto de regiones**: Ampliar tablas para las demás regiones (mismo formato 1d6)
 - [ ] **Encuentros por nivel**: Tablas de encuentros escalados por nivel de los PJ (CR apropiado)
 - [ ] **Encuentros especiales**: Encuentros únicos para eventos específicos de la campaña
-- [ ] **Encuentros de La Espiral del Reloj de Arena**: Tabla específica para la región de Serapis (criaturas temporales, ecos, anomalías)
 
 ### **Tablas de Tesoros:**
 - [x] **[21_Objetos_Magicos_Reliquias.md](21_Objetos_Magicos_Reliquias.md)** - Catálogo completo de objetos mágicos, artefactos y reliquias ✅

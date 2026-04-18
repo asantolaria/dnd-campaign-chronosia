@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Audio generado (no versionar)
+output/
+*.mp3
+*.wav
+*.part.mp3

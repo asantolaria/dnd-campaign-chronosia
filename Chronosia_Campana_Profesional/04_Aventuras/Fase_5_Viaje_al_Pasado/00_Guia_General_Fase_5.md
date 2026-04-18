@@ -167,6 +167,43 @@ Después del viaje temporal:
 
 ---
 
+## 📖 Cómo explicar el viaje en juego (guía para el DM)
+
+Esta sección ayuda a dirigir la Fase 5 sin contradicciones y a que los jugadores no sientan que "repiten" el mismo combate sin sentido.
+
+### **Qué sabe cada "yo"**
+
+| Quién | Qué sabe | Qué no sabe |
+|-------|----------|-------------|
+| **Yo del pasado** (antes de la fusión) | Todo hasta el momento justo antes de la batalla contra Teach: que van hacia la Torre, que el ritual está muy avanzado, que Teach es una amenaza. | Que llegarán tarde, que el ritual se completará, que Aethernus se convertirá en dios, que el mundo cambiará, que luego viajarán en el tiempo. |
+| **Yo del futuro** (los PJ que llegan en la máquina) | Todo: ritual completado, mundo post-apocalíptico, construcción de la máquina, viaje temporal. | Nada relevante que el pasado no tenga ya (objetivos, aliados, etc.). |
+| **Yo fusionado** (después de la fusión) | **Todo:** memorias del pasado (hasta ese instante) + memorias del futuro (ritual, mundo roto, viaje). Es una sola mente con dos líneas de experiencia. | Nada; la fusión combina ambas líneas. |
+
+**En juego:** Decidir que la fusión **no** crea dos conciencias en un cuerpo. Hay un solo "yo" que de repente **recuerda** también el futuro que vivió. Así evitas debates de "¿quién controla el cuerpo?" y los PJ siguen siendo ellos mismos con más información.
+
+### **Qué recuerdan tras la fusión**
+
+- **Sí recuerdan:** El ritual completado, la muerte de los dioses, el mundo post-ritual, la construcción de la máquina, el viaje en el tiempo, las tácticas de Teach que ya vivieron (por eso el combate es "más fácil").
+- **Siguen siendo los mismos personajes:** Mismos rasgos, clase, nivel; no se duplican estadísticas. La ventaja es narrativa y de información (conocen el terreno, las habilidades de Teach, el timing).
+- **No recuerdan "otro yo" como persona distinta:** La fusión se puede narrar como "de repente recordáis también todo lo que pasó después". No hace falta explicar paradojas; es magia temporal de la máquina.
+
+### **Cómo evitar contradicciones**
+
+1. **Una sola línea temporal jugable:** Tras el viaje, solo existe "el pasado al que han llegado". El futuro del que vienen deja de ser el futuro que ocurrirá si ganan; no hace falta aclarar si "se borra" o "sigue en otro plano". Los PJ están **aquí y ahora** en el pasado, con sus recuerdos del futuro.
+2. **Teach en el pasado:** Es el mismo Teach (mismo Talismán, mismo poder) pero los PJ ya lo han enfrentado una vez y conocen sus trucos; por eso el combate es más manejable. No hace falta cambiar sus estadísticas si no quieres; la ventaja puede ser solo narrativa (ventaja en tiradas, CD reducidas, etc.).
+3. **NPCs del pasado:** Los NPCs (Gnomos, Anacronistas, etc.) en el pasado son los de ese momento. No "recuerdan" el futuro; para ellos los PJ acaban de llegar. Los PJ no deben contarlo todo para no enredar la escena; el DM puede decir: "Sabéis que explicar el viaje en el tiempo a todo el mundo sería largo y difícil de creer; os centráis en llegar a tiempo al ritual."
+
+### **Frase tipo para narrar la fusión**
+
+*"Vuestras mentes se unen. No sois dos personas en un cuerpo: sois la misma persona que de repente recuerda también todo lo que va a pasar — el ritual, la derrota, el mundo roto, la máquina, este viaje. Esos recuerdos os dan certeza y ventaja: sabéis cómo lucha Teach y qué debe pasar si falláis. Ahora podéis cambiar eso."*
+
+### **Si preguntan "¿no estamos repitiendo el mismo combate?"**
+
+- **Respuesta in-world:** "No es repetición: es una segunda oportunidad. La primera vez llegasteis tarde. Esta vez estáis aquí antes de que el ritual se complete. El combate es el mismo enemigo, pero vosotros sois más sabios y llegáis a tiempo."
+- **En mecánicas:** Puedes dar ventaja en iniciativa, en la primera ronda contra Teach, o en tiradas de Inteligencia/Sabiduría relacionadas con sus tácticas. Así se siente que "ya lo conocen" sin cambiar mucho el statblock.
+
+---
+
 *El mundo ha cambiado. Pero aún hay esperanza. Si pueden viajar al pasado... si pueden llegar a tiempo... tal vez puedan cambiar el destino.* ⏰🚂✨
 
 

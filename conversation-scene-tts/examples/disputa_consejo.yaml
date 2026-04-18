@@ -1,0 +1,40 @@
+# Ejemplo: discusión breve entre voces distintas (es-ES).
+# Voces: ejecuta  python render_conversation.py --list-voices --voice-filter es-
+
+title: "Consejo: un desacuerdo"
+
+characters:
+  alden:
+    name: Alden
+    voice: es-ES-AlvaroNeural
+    rate: "+5%"
+  # Ximena suele sonar menos "asistente" que Elvira; prosodia vía rate/pitch/volume.
+  mira:
+    name: Mira
+    voice: es-ES-XimenaNeural
+    rate: "+8%"
+    pitch: "+6Hz"
+    volume: "+6%"
+  narrador:
+    name: Narrador
+    voice: es-ES-ElviraNeural
+    rate: "-5%"
+    volume: "-5%"
+
+lines:
+  - speaker: narrador
+    text: "La sala queda en silencio un segundo. Luego estalla."
+  - speaker: alden
+    text: "No voy a pedir permiso para proteger a mi gente."
+  - speaker: mira
+    text: "Tu gente no te da derecho a arrastrarnos… a todos, al abismo."
+    rate: "+12%"
+    pitch: "+10Hz"
+    volume: "+8%"
+  - speaker: alden
+    text: "¿Y tú crees que el abismo se queda fuera si cerramos la puerta?"
+  - speaker: mira
+    text: "Creo que, al menos, no le abrimos la cerradura nosotros mismos."
+    rate: "+3%"
+    pitch: "+2Hz"
+    volume: "+2%"

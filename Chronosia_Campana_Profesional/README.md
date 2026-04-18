@@ -3,6 +3,12 @@
 
 ---
 
+## 📑 **ÍNDICE MAESTRO**
+
+- **[00_Indice_Campana.md](./00_Indice_Campana.md)** – Navegación rápida: fases 0-6, sesiones, fuentes de verdad y herramientas del DM.
+
+---
+
 ## 📚 **ESTRUCTURA DE LA CAMPAÑA**
 
 Esta es la versión profesional de la campaña Chronosia, organizada siguiendo los estándares de las campañas oficiales de D&D.
@@ -43,6 +49,14 @@ Esta es la versión profesional de la campaña Chronosia, organizada siguiendo l
 
 - **[02_Guia_DM/DM_Screen_Una_Pagina.md](./02_Guia_DM/DM_Screen_Una_Pagina.md)** – Referencia de una página para mesa (balance, lugartenientes, frases clave).
 - **[02_Guia_DM/Eventos_Que_Siempre_Ocurren.md](./02_Guia_DM/Eventos_Que_Siempre_Ocurren.md)** – Lista de hitos fijos de la trama y frase tipo para el DM.
+
+### **📕 Libro de campaña (un solo archivo)**
+
+El script **`build_libro_campana.py`** genera un único archivo con toda la campaña, tipo libro, para búsqueda global (Ctrl+F) o lectura en un solo documento.
+
+- **Uso:** `python build_libro_campana.py` → genera `Libro_Campana_Chronosia.md`
+- **Con índice en navegador:** `python build_libro_campana.py --html` → genera además `.html` con índice clicable
+- **PDF:** desde el `.md` puedes exportar con *pandoc*: `pandoc Libro_Campana_Chronosia.md -o libro.pdf --toc`
 
 ---
 
