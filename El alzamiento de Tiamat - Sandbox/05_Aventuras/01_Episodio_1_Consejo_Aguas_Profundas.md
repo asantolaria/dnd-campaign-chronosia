@@ -274,7 +274,7 @@ Un "mandato de operación de emergencia", un escrito sellado por Laeral y otros 
 - No todos confían en todos. El Consejo está plagado de desconfianzas políticas, históricas y personales.
 - Laeral Silverhand y Dagult Neverember están en desacuerdo diplomático desde que él fue expulsado como Señor Enmascarado.
 - Rey Melandrach desprecia la lentitud humana y tiene roce frecuente con Onthar Frume.
-- Rian Nightshade está presente en calidad de "cooperadora neutral". Varias facciones no confían en ella, aunque su red de espías ha resultado útil.
+- **Rian Nightshade** (Zhentarim / Red Negra): en el **1.er Concilio** puede figurar solo como **contacto** o mención; en esta sandbox la **presentación fuerte** como persona de confianza de **Neverember** ocurre en **[AN10 — Parte II (Segundo Concilio)](../05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** (ver [03_NPCs_Importantes.md](../04_Guia_DM/03_NPCs_Importantes.md), [AN11](./AN11_Mision_Sombras_Consejo.md)). Varias facciones no confían en ella; su red de espías ha resultado útil.
 
 ---
 

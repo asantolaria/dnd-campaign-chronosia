@@ -143,25 +143,24 @@ Una reliquia antigua que llama a los dragones cromáticos. Su activación marca 
 
 ### **Zhentarim (Medidor #16)**
 
-**Representante:** Rian Nightshade
+**Representante en mesa:** **Rian Nightshade** (emisaria de la **Red Negra**; **asesora especial** de **Lord Dagult Neverember** a partir del **3.er Concilio**). Su vínculo Zhentarim no se anuncia, pero **no lo niega** si se pregunta. Ficha completa: [03_NPCs_Importantes.md](./03_NPCs_Importantes.md); intriga asociada: [AN11 - Sombras en el Consejo](../05_Aventuras/AN11_Mision_Sombras_Consejo.md).
 
-**Descripción:** Organización mercenaria y de espionaje.
+**Descripción:** Organización mercenaria y de espionaje; la Red Negra prioriza **derrotar al Culto** si eso aumenta recursos estratégicos. Rian desaprueba capturar **Señores del Dragón vivos**; favorece **ejecución discreta**, interrogatorio del **cadáver** y destrucción del cuerpo para evitar resurrección.
 
 **Recursos:**
-- Red de espías
+- Red de espías, asesinos y mercenarios
 - Rutas secretas
 - Información sensible
 - Recursos del mercado negro
 - Contactos en ciudades hostiles
 
 **Condiciones de Alianza:**
-- Cooperan si es beneficioso
-- Pueden traicionar si es más rentable
-- No confían en nadie, nadie confía completamente en ellos
+- Cooperan si es beneficioso; lealtad negociable si **otras facciones** pagan (véase campaña original)
+- Compromiso pleno de la Red Negra típicamente hacia el **Concilio final**, cuando haya promesas
 
-**Motivación:** Beneficio personal y poder.
+**Motivación:** Beneficio y ventaja estratégica; moralidad irrelevante para Rian.
 
-**Relación con el Consejo:** Presente como "cooperadora neutral", pero varias facciones no confían en ella.
+**Relación con el Consejo:** Varias facciones (Arpistas, Orden) **no confían** en ella; su red ha sido útil. Contacto de campo previo posible: **Jamna Gleamsilver** (*HotDQ*, caravana), ver NPCs.
 
 ---
 

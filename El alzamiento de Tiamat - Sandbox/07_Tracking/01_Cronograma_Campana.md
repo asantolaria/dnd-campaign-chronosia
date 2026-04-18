@@ -3,7 +3,7 @@
 
 ---
 
-> **📖 ESTADO ACTUAL:** Día 83 - Misión Nodo 1 (A03 - Fuego en el Norte). Everlund defendida (dragón verde huido). En ruta a Altand tras ser informados de los ataques allí.
+> **📖 ESTADO ACTUAL:** Día 83 - Misión Nodo 1 (**04B** Parte I — *Fuego en el Norte* / Everlund). Everlund defendida (dragón verde huido). En ruta a Altand tras ser informados de los ataques allí.
 
 ---
 
@@ -99,14 +99,14 @@
   - Subida a nivel 9
 
 ### **Misiones en Curso:**
-- 🔄 **Misión A03: Fuego en el Norte** (Nodo 1 - Defensa del Norte) — Día 83
+- 🔄 **Misión 04B Parte I — Fuego en el Norte** (Nodo 1 - Defensa del Norte) — Día 83
   - ✅ Viaje hasta Yartar (tras Segundo Concilio)
   - ✅ Llegada a Yartar (caravana de suministros a la espera de la escolta)
   - ✅ Escolta hasta Everlund; llegada y preparativos (cañones, ballesta antidragón)
   - ✅ Everlund: madrugada voladura de puente; amanecer ataque del **dragón verde (Chuth)** — combate, **dragón huye**
   - ✅ Informados de los ataques en **Altand**; partida hacia Altand (The High Forest)
   - **Próximo:** Llegada a Altand (Alagarthas, situación con el dragón/Neronvain)
-  - **Ballesta antidragón — siguiente mejora prevista:** imbuida mágicamente → **recarga automática** y **daño de proyectiles 5d6** (actualmente lenta y poco daño)
+  - **Ballesta antidragón — mejora documentada** (post-Everlund): ver [03 — Neronvain](../05_Aventuras/03_Mision_Neronvain_Verde.md): **+10**, **4d10+4**, **CA 16 / 55 PV** (base asedio **CA 15 / 50 PV**), recarga **1d10** (8+ = recarga rápida)
 
 ### **Misión 02: El Mar de Hielo Movedizo** ✅ (completada en tramo Luskan–Waterdeep–Segundo Concilio)
 - ✅ Arauthator derrotado/expulsado, Maccath rescatada
@@ -125,11 +125,11 @@
 - Día 69: Llegada a Luskan — Torre de Huéspedes de lo Arcano
 - Día 70: Emboscada del Culto en Luskan + regreso a Waterdeep
 - Día 73: Segundo Concilio en Waterdeep
-- Día 80: Llegada a Yartar — inicio A03 - Fuego en el Norte (caravana a la espera de la escolta)
+- Día 80: Llegada a Yartar — inicio **04B** Parte I (*Fuego en el Norte*, caravana a la espera de la escolta)
 - Día 81: Escolta hasta Everlund; llegada y preparativos defensa
 - Día 82: Everlund — ataque del dragón verde (Chuth); combate, dragón huye; informados de Altand; partida hacia Altand
 - Día 83: En ruta a Altand
 
 ---
 
-*Última actualización: Día 83 - Everlund defendida (dragón verde huido). En ruta a Altand. Ballesta: próxima mejora imbuida (recarga automática, 5d6).*
+*Última actualización: Día 83 - Everlund defendida (dragón verde huido). En ruta a Altand. Ballesta mejorada: ver 03 (Mark II, refuerzos opcionales a Altand).*

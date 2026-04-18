@@ -65,29 +65,29 @@
   - 💎 [Opciones de Botín](./02_Mision_Mar_Hielo_Movedizo_Botin.md)
 - **03 - Neronvain el Verde** (Nivel 10-11) - 🟡 Disponible
   - [Ver misión desarrollada (adaptada a Altand/The High Forest)](./03_Mision_Neronvain_Verde.md) — autocontenida, sin necesidad de PDF/5e.tools
-  - **Enlace con AN03:** El dragón verde (Chuth) es el **mismo** que ataca Everlund; los PJ pueden llegar desde Everlund a Altand tras Fuego en el Norte.
-- **04B - El Culto Contraataca II (Ofensiva)** (Nivel 10-11) - 🟡 Disponible
-  - [Ver misión desarrollada](./04B_Mision_Culto_Contraataca_II_Ofensiva.md)
+  - **Enlace con 04B:** El dragón verde (Chuth) es el **mismo** que ataca Everlund en la **Parte I** de 04B; los PJ pueden llegar desde Everlund a Altand tras *Fuego en el Norte*.
+- **04B - El Culto Contraataca II: Fuego en el Norte** (Nivel 10-11) - 🟡 Disponible
+  - [Ver misión desarrollada](./04B_Culto_Contraataca_II_Fuego_Norte.md) — Incluye **Parte I (Everlund)** y **Parte II** (encuentros adicionales de la Fase II). Si jugasteis Everlund, **no repetáis** la variante genérica «otra ciudad bajo dragón» de la Parte II.
 
 #### **Misiones Adicionales - Nodo 1: Defensa del Norte** *(Elige UNA)*
-- **A03 - Fuego en el Norte** (Nivel 10-11) - 🟡 Disponible
-  - [Ver misión desarrollada](./AN03_Mision_Fuego_Norte.md)
+- **Arco Everlund / Fuego en el Norte** (Nivel 10-11) — contenido en **Parte I** de [04B](./04B_Culto_Contraataca_II_Fuego_Norte.md) (antes misión **A03** en archivos separados)
   - **Bloquea:** A14
   - **Impacto:** Consejo +1, Ulder +2, Moral +1
-  - **Unión con 03 - Neronvain:** El dragón verde que ataca Everlund es el mismo de la misión Neronvain; se puede jugar AN03 primero y enlazar con la misión oficial 03 (ver sección *Unión con Neronvain* en AN03).
+  - **Unión con 03 - Neronvain:** El dragón verde que ataca Everlund es el mismo de la misión Neronvain; se puede jugar Everlund primero y enlazar con la misión oficial 03 (ver *Unión con Neronvain* en 04B).
 - **A14 - Ruinas del Norte** (Nivel 10-11) - 🟡 Disponible
-  - [Ver misión desarrollada](./A14_Mision_Ruinas_Norte.md)
-  - **Bloquea:** A03
+  - [Ver misión desarrollada](./AN14_Mision_Ruinas_Norte.md)
+  - **Bloquea:** arco Everlund (Parte I de 04B)
   - **Impacto:** Consejo +1, Enclave +1, Moral +1
 
 #### **Misiones Adicionales - Nodo 2: Diplomacia** *(Elige UNA)*
-- **A10 - El Juicio de Melandrach** (Nivel 11-12) - 🟡 Disponible
-  - [Ver misión desarrollada](./A10_Mision_Juicio_Melandrach.md)
-  - **Bloquea:** A11
+- **AN10 — Juicio de Melandrach y Concilio de Aguas Profundas** (Nivel 11-12) - 🟡 Disponible
+  - [Ver misión desarrollada](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)
+  - **Cuándo:** Tras **Neronvain** (vivo); **Parte I** juicio + **Parte II** Segundo Concilio en **Waterdeep**; **Rian** (Neverember) y ganchos hacia **AN11**
+  - **Bloquea:** AN11
   - **Impacto:** Rey Melandrach +2, Consejo +1
-- **A11 - Sombras en el Consejo** (Nivel 11-12) - 🟡 Disponible
-  - [Ver misión desarrollada](./A11_Mision_Sombras_Consejo.md)
-  - **Bloquea:** A10
+- **AN11 - Sombras en el Consejo** (Nivel 11-12) - 🟡 Disponible
+  - [Ver misión desarrollada](./AN11_Mision_Sombras_Consejo.md)
+  - **Bloquea:** AN10
   - **Impacto:** Consejo +1, Zhentarim +1
 
 #### **Misiones Adicionales Oficiales (Siempre Disponibles)**
@@ -170,8 +170,8 @@ Las misiones **oficiales** siempre están disponibles. Las misiones **adicionale
 
 | Nodo | Concilio | Misiones | Regla |
 |------|----------|----------|-------|
-| **Nodo 1: Defensa del Norte** | 2º | A03, A14 | Elegir 1 bloquea la otra |
-| **Nodo 2: Diplomacia** | 2º | A10, A11 | Elegir 1 bloquea la otra |
+| **Nodo 1: Defensa del Norte** | 2º | Everlund (Parte I de 04B), A14 | Elegir 1 bloquea la otra |
+| **Nodo 2: Diplomacia** | 2º | AN10, AN11 | Elegir 1 bloquea la otra |
 | **Nodo 3: Alianza Dracónica** | 3º | A05, A12, A06 | Elegir 1 bloquea las otras 2 |
 | **Nodo 4: Inteligencia** | 3º | A04, A07 | Elegir 1 bloquea la otra |
 | **Nodo 5: Preparación Final** | 4º | A09, A08 | Elegir 1 bloquea la otra |
@@ -194,19 +194,18 @@ Si los jugadores no eligen ninguna misión de un nodo antes del siguiente Concil
 
 ### **Misiones Oficiales Desarrolladas (3 total)**
 - [04A_Mision_Culto_Contraataca_I_Emboscadas.md](./04A_Mision_Culto_Contraataca_I_Emboscadas.md) - **04A: El Culto Contraataca I (Emboscadas)** - Nivel 8-9
-- [04B_Mision_Culto_Contraataca_II_Ofensiva.md](./04B_Mision_Culto_Contraataca_II_Ofensiva.md) - **04B: El Culto Contraataca II (Ofensiva)** - Nivel 10-11
+- [04B_Culto_Contraataca_II_Fuego_Norte.md](./04B_Culto_Contraataca_II_Fuego_Norte.md) - **04B: El Culto Contraataca II: Fuego en el Norte** - Nivel 10-11
 - [04C_Mision_Culto_Contraataca_III_Desesperacion.md](./04C_Mision_Culto_Contraataca_III_Desesperacion.md) - **04C: El Culto Contraataca III (Desesperación)** - Nivel 12-13
 
-### **Misiones Adicionales Desarrolladas (12 total)**
+### **Misiones Adicionales Desarrolladas (11 total)**
 
 #### **Primer Concilio**
 - [A13_Mision_Enclave_Llamas.md](./A13_Mision_Enclave_Llamas.md) - **A13: El Enclave en Llamas**
 
 #### **Segundo Concilio**
 - [A14_Mision_Ruinas_Norte.md](./A14_Mision_Ruinas_Norte.md) - **A14: Ruinas del Norte**
-- [AN03_Mision_Fuego_Norte.md](./AN03_Mision_Fuego_Norte.md) - **A03: Fuego en el Norte**
-- [A10_Mision_Juicio_Melandrach.md](./A10_Mision_Juicio_Melandrach.md) - **A10: El Juicio de Melandrach**
-- [A11_Mision_Sombras_Consejo.md](./A11_Mision_Sombras_Consejo.md) - **A11: Sombras en el Consejo**
+- [AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md) - **AN10: Juicio + Segundo Concilio**
+- [AN11_Mision_Sombras_Consejo.md](./AN11_Mision_Sombras_Consejo.md) - **AN11: Sombras en el Consejo**
 
 #### **Tercer Concilio**
 - [A05_Mision_Sangre_Dragon.md](./A05_Mision_Sangre_Dragon.md) - **A05: Sangre de Dragón**
@@ -241,11 +240,10 @@ Si los jugadores no eligen ninguna misión de un nodo antes del siguiente Concil
 |---|--------|------|--------|--------------|-------|
 | 02 | El Mar de Hielo Movedizo | Oficial | 🟡 Disponible | Norte helado | 9-10 |
 | 03 | Neronvain el Verde | Oficial | 🟡 Disponible | Bosque Brumoso | 10-11 |
-| 04B | El Culto Contraataca II | Oficial | 🟡 Disponible | Entre 2º y 3º Consejo | 10-11 |
-| A03 | Fuego en el Norte | Adicional | 🟡 Disponible | Tras Neronvain | 10-11 |
-| A14 | Ruinas del Norte | Adicional | 🟡 Disponible | Después de Fuego | 10-11 |
-| A10 | El Juicio de Melandrach | Adicional | 🟡 Disponible | Después de Neronvain | 11-12 |
-| A11 | Sombras en el Consejo | Adicional | 🟡 Disponible | Entre 2º y 3º Consejo | 11-12 |
+| 04B | El Culto Contraataca II: Fuego en el Norte | Oficial | 🟡 Disponible | Entre 2º y 3º Consejo | 10-11 |
+| A14 | Ruinas del Norte | Adicional | 🟡 Disponible | Entre 2º y 3º Consejo (Nodo 1) | 10-11 |
+| AN10 | Juicio de Melandrach y Concilio de Aguas Profundas | Adicional | 🟡 Disponible | Tras Neronvain vivo; Waterdeep (juicio + 2.º Concilio) | 11-12 |
+| AN11 | Sombras en el Consejo | Adicional | 🟡 Disponible | Entre 2º y 3º Consejo | 11-12 |
 
 #### **TERCER CONCILIO** *(Nivel 11-13)*
 

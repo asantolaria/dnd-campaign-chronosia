@@ -6,8 +6,19 @@
 > **📖 NAVEGACIÓN:**
 > - [Estructura de Aventuras](./00_Estructura_Aventuras.md) - Volver al índice
 > - [Sistema del Consejo de Guerra](../04_Guia_DM/05_Sistema_Consejo_Guerra.md) - Eventos y medidores
-> - [AN03 - Fuego en el Norte](./AN03_Mision_Fuego_Norte.md) - Misión previa (Everlund, Chuth); los PJ llegan desde ahí a Altand
-> - [AN10 - El Juicio de Melandrach](./AN10_Mision_Juicio_Melandrach.md) - Misión siguiente si capturan a Neronvain
+> - [04B - Fuego en el Norte (Parte I Everlund)](./04B_Culto_Contraataca_II_Fuego_Norte.md) - Misión previa (Everlund, Chuth); los PJ llegan desde ahí a Altand
+> - [AN10 — Juicio de Melandrach y Concilio de Aguas Profundas](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md) - Tras capturar a Neronvain **vivo**: **Parte I** juicio en Waterdeep + **Parte II** Segundo Concilio (no en el bosque)
+> - [AN11 — Sombras en el Consejo](./AN11_Mision_Sombras_Consejo.md) - Tras AN10: robo de la **Máscara**, intriga Zhent/Jamna, tinglado y giro Cormyr
+
+---
+
+## 🔗 **Arco narrativo: 03 → AN10 → AN11**
+
+1. **03 (esta misión)** — Los PJ capturan a **Neronvain vivo** y se hacen con la **Máscara del Dragón Verde** como evidencia. En tránsito o al llegar a la alianza, el objeto pasa a **cadena de custodia** hacia **Waterdeep** (no es el foco del combate en el bosque).
+2. **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** — **Parte I:** juicio con ley élfica en Aguasprofundas; si la sentencia es **muerte**, **Neronvain** pide morir por su mano: **Sir Isteval** presta su **daga** y él se quita la vida en la sala. **Parte II:** **Segundo Concilio**, presentación fuerte de **Rian**, sellado de la **máscara** (y evidencia de la **daga**) en el Castillo. **Jamna**, robos y tinglado **no** se desarrollan en AN10 (para no duplicar **[AN11](./AN11_Mision_Sombras_Consejo.md)**).
+3. **[AN11](./AN11_Mision_Sombras_Consejo.md)** — **Al día siguiente** (o el intervalo que fijéis): desaparece la máscara del depósito; escándalo, cebo contra los Zhent, **Jamna** investigando mientras parece cómplice, **Tinglado del Cofre Negro**, revelación del bloque **Cormyr** y mazmorra final.
+
+Si el grupo **mata** a Neronvain en la guarida (saltándose la regla de mesa), adaptad AN10/AN11: el juicio de AN10 cambia o se omite, pero la **máscara** puede seguir siendo pieza de intriga en AN11 con otro encuadre.
 
 ---
 
@@ -21,7 +32,7 @@
 | **Localización** | **Campamento de avanzada** élfico en **The High Forest** (bosque al este de Everlund); zona de **hongos gigantes** ~30 km al este (guarida). En la campaña original: "Bosque Brumoso"; aquí el mismo bosque con **niebla** característica. |
 | **Conexión en esta campaña** | Los PJ vienen **desde Everlund** tras defender la ciudad: ya conocen a **Chuth** (dragón verde que huyó), a los refugiados de Altand y la nota de **Delaan Winterhound** (Alagarthas en peligro, amo del dragón podría ser un elfo). No es necesario briefing del Consejo para el gancho. |
 
-**Eventos del Consejo que puede activar:** Matar a Neronvain / Capturar a Neronvain / Matar a Chuth o expulsarlo de su guarida / (más adelante) Negociar con los elfos de Melandrach / Matar a Melandrach sin juicio.
+**Eventos del Consejo que puede activar:** Capturar a Neronvain (canon) / Matar a Neronvain (solo si se ignora la regla de campaña) / Matar a Chuth o expulsarlo de su guarida / (más adelante) Negociar con los elfos de Melandrach / Matar a Melandrach sin juicio.
 
 ---
 
@@ -34,9 +45,16 @@ Estos son los cambios acordados respecto a la misión oficial; **todo lo que sig
 | Ubicación genérica "Bosque Brumoso" | **The High Forest** — asentamiento élfico concreto: **Altand**. Misma niebla/ambiente brumoso. |
 | Gancho: Consejo envía a los PJ al bosque | Gancho: PJ **ya vienen de Everlund**; refugiados de Altand y nota de Delaan les han puesto al corriente; van directos a Altand a apoyar a Alagarthas y perseguir al dragón y su amo. |
 | Dragón verde (Chuth) como primer contacto en la misión | **Chuth** es el **mismo** que atacó Everlund: los PJ ya lo han combatido y ha **huido herido**. Puede estar recuperándose en la guarida; el DM puede aplicar **desventaja** o **−1d20** en la primera ronda o reducir PV máximos un 15–25% si quiere reflejar heridas recientes. |
-| Rey Melandrach / reino élfico genérico | **Alagarthas** es el príncipe/representante en la zona (relación con Dorn de Everlund). El **Rey Melandrach** es el soberano élfico de referencia; Neronvain es **hijo de Melandrach**. La resolución de Neronvain lleva a **AN10 - El Juicio de Melandrach** (juicio según leyes élficas). |
+| Rey Melandrach / reino élfico genérico | **Alagarthas** es el príncipe/representante en la zona (relación con Dorn de Everlund). El **Rey Melandrach** es el soberano élfico de referencia; Neronvain es **hijo de Melandrach**. Con **Neronvain vivo**, la resolución enlaza con **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** (juicio + **Segundo Concilio** en Waterdeep; ver **regla de campaña** arriba). |
 
 **Resumen:** Misión autocontenida en **Altand (The High Forest)**; PJ llegan desde Everlund con la información ya recibida; Chuth = dragón de Everlund (opcional: aún herido); Neronvain = elfo renegado, hijo de Melandrach, wyrmspeaker del dragón verde.
+
+### **Regla de campaña (AN10): Neronvain debe sobrevivir al enfrentamiento**
+
+En esta sandbox, **Neronvain no puede morir** en el combate de la guarida si queréis enchufar **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** tal cual. **Alagarthas** interviene si los PJ van a asestar el golpe letal: pide **clemencia procesal**, **juicio** y **responder ante Melandrach**. Quiere **llevarlo ante la justicia**, no verlo ejecutado en el fango.
+
+- Si **Neronvain** llega a **0 puntos de golpe** por daño letal, tratadlo como **inconsciente y estable** (o aplicad daño no letal de facto sin anunciarlo a los jugadores si preferís no friccionar mecánica).
+- Si los PJ insisten en **matarlo** con remate explícito, **Persuasión (DC 18)** de **Alagarthas** o **Intimidación mutua** en mesa; si aun así lo matan, **no** podréis usar el bloque AN10 sin reescritura (Melandrach −2, etc., según tablas).
 
 ---
 
@@ -47,7 +65,7 @@ Para quien tenga el libro *Rise of Tiamat* o use [5e.tools → Rise of Tiamat �
 | **Original (libro / 5e)** | **En esta campaña** |
 |---------------------------|----------------------|
 | Bosque Brumoso (Misty Forest), ubicación genérica | **The High Forest** — **campamento de avanzada** élfico en conflicto con el Culto; zona de **hongos gigantes** ~30 millas al este (guarida del dragón). Misma niebla/bruma. |
-| Consejo envía a los PJ a buscar al elfo que manda al dragón | PJ **ya vienen de Everlund** (AN03); refugiados de Altand y nota de Delaan les dan el contexto; pueden ir directos a Altand sin briefing del Consejo. |
+| Consejo envía a los PJ a buscar al elfo que manda al dragón | PJ **ya vienen de Everlund** (04B Parte I); refugiados de Altand y nota de Delaan les dan el contexto; pueden ir directos a Altand sin briefing del Consejo. |
 | Primera aparición de Chuth en la misión | **Chuth** es el **mismo** que atacó Everlund; huyó herido (3 impactos de ballesta); opcional: aún herido en la guarida. |
 | Entidad del bosque (dryad/guardiana) da direcciones/bendición | **Dríada** en el bosque (Escena 2): prueba de carácter; si la ayudan sin reservas, da **guirnaldas** (ventaja contra Presencia Aterradora del dragón, calidez en presencia de dragones en el bosque) e información: guarida en zona de **hongos gigantes**, estos bloquean el camino; el hogar de la bestia "no es de este mundo". |
 | Galin (en algunas versiones, traidor) | **Galin** aquí **no traiciona**: lleva a los PJ al **campamento de avanzada** donde están Alagarthas y sus soldados, señala a Alagarthas ("Ahí está tu hombre") y se va rápidamente. |
@@ -66,9 +84,9 @@ Los PJ **no necesitan** que el Consejo les asigne la misión para empezar. Ya ti
 
 Si en tu campaña los PJ **no** han pasado por Everlund, el gancho puede ser el clásico del Consejo:
 
-> "Ese dragón que enfrentasteis en Everlund se conoce como Chuth. Informes del Alto Bosque hablan de un **elfo renegado** que lo acompaña y ataca asentamientos élficos. El príncipe **Alagarthas** aguanta en **Altand** con lo que queda de su gente. Id allí: encontrad al elfo que manda al dragón —posiblemente **Neronvain**, hijo del Rey Melandrach— y resolved la amenaza. El destino del jinete debe quedar claro: captura o muerte."
+> "Ese dragón que enfrentasteis en Everlund se conoce como Chuth. Informes del Alto Bosque hablan de un **elfo renegado** que lo acompaña y ataca asentamientos élficos. El príncipe **Alagarthas** aguanta en **Altand** con lo que queda de su gente. Id allí: encontrad al elfo que manda al dragón —posiblemente **Neronvain**, hijo del Rey Melandrach— y resolved la amenaza. El destino del jinete debe quedar ante **la justicia de la Corona** (captura preferible; en esta campaña, **Alagarthas** no aceptará su ejecución arbitraria en el campo)."
 
-**Objetivo para los PJ:** Llegar al **campamento de avanzada** (con Galin), contactar con **Alagarthas**, localizar la guarida de **Chuth** en la zona de hongos gigantes y al **elfo que lo comanda** (Neronvain), y decidir su destino (captura preferible para el Consejo y para el Rey Melandrach; muerte si no hay alternativa).
+**Objetivo para los PJ:** Llegar al **campamento de avanzada** (con Galin), contactar con **Alagarthas**, localizar la guarida de **Chuth** en la zona de hongos gigantes y al **elfo que lo comanda** (Neronvain), y **neutralizarlo con vida** para el juicio (AN10). La muerte de Neronvain solo si el grupo **rompe** explícitamente la regla de campaña y acepta las consecuencias políticas.
 
 ---
 
@@ -80,7 +98,7 @@ Toda la información necesaria para dirigir sin consultar otras fuentes.
 - **Rol:** Wyrmspeaker del Dragón Verde; portador de la **Máscara del Dragón Verde**; **segundo hijo del Rey Melandrach** y **hermano de Alagarthas** (exiliado tras asesinar a miembros de una familia noble que se oponía a su padre).
 - **Personalidad:** Traidor a su pueblo; convencido o manipulado por el Culto; arrogante y frío; divide a los elfos; rencor hacia su familia y su hermano.
 - **Objetivos:** Servir al Culto del Dragón; controlar a Chuth y usar el bosque como base de operaciones.
-- **Importancia:** Su **captura** refuerza la alianza con Melandrach y permite el juicio élfico (AN10). Su **muerte** evita el juicio pero enfada a Melandrach (−2 Rey Melandrach en medidores).
+- **Importancia:** Su **captura** refuerza la alianza con Melandrach y desbloquea **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)**. En esta campaña se espera **supervivencia** (ver regla de mesa); su **muerte** evita ese arco y enfada a Melandrach (−2 Rey Melandrach en medidores).
 - **Apariencia:** Elfo con armadura oscura; en Everlund fue visto como "figura con armadura y cara tapada" montando a Chuth. Lleva la **Máscara del Dragón Verde**: cornuda, de ébano brillante, con aspecto de cráneo con cuernos; se adapta al usuario (ver descripción del objeto más abajo).
 
 ### **Chuth**
@@ -92,7 +110,7 @@ Toda la información necesaria para dirigir sin consultar otras fuentes.
 ### **Alagarthas**
 - **Rol:** Príncipe élfico, **hijo del Rey Melandrach** (miembro del Consejo de Waterdeep); **hermano de Neronvain** (el jinete enmascarado del dragón verde). Lidera el **campamento de avanzada** en conflicto constante con el Culto del Dragón.
 - **Situación:** La lucha lleva **un mes y medio**; sus números se reducen. El enemigo son sobre todo **kobolds** y **hombres lagarto**, con **cultistas humanos**; evitables. El verdadero problema son las **incursiones de una entidad enmascarada que monta un dragón verde** (Chuth). Esas incursiones llevan unas **semanas detenidas** y no saben por qué. No se han atrevido a adentrarse más en el bosque por falta de efectivos. El **Enclave Esmeralda** ha ayudado y espiado: un **parche de hongos gigantes** ha aparecido de repente en el corazón del bosque, **unos 30 km al este** del campamento; los animales evitan la zona.
-- **Objetivos:** Recibir ayuda; acabar con la amenaza del dragón y su jinete. **No puede acompañar** a los PJ: debe **coordinar a sus hombres y seguir defendiendo el pueblo**. Les **pide por favor** que **investiguen esa zona nueva** (el parche de hongos gigantes) que les ha sido informada por el Enclave.
+- **Objetivos:** Recibir ayuda; acabar con la amenaza del dragón y su jinete. **No puede acompañar** a los PJ al principio: debe **coordinar a sus hombres y seguir defendiendo el pueblo**. Les **pide por favor** que **investiguen esa zona nueva** (el parche de hongos gigantes) que les ha sido informada por el Enclave. **Regla de campaña:** si necesitáis que **impida la muerte** de Neronvain ante un remate de los PJ, puede **llegar a la guarida** con un **pelotón reducido** en el clímax (tras oír el rugido del dragón / señal de los exploradores) — solo para **interponerse** y exigir **juicio**, no para robar el combate entero.
 - **Actitud con los PJ:** Aliviado por la ayuda; explica la situación, ofrece **dos Pociones de Resistencia al Veneno** antes de que partan (las guardaba para el aliento del dragón verde) y sugiere que la guarida pueda estar en la zona de hongos si los PJ no lo deducen.
 
 ### **Galin**
@@ -100,7 +118,7 @@ Toda la información necesaria para dirigir sin consultar otras fuentes.
 - **Situación:** Al entrar en el campamento, Galin **señala al elfo** (Alagarthas) y dice **"Ahí está tu hombre"**, antes de **irse rápidamente**. No hay traición ni pacto; cumple su función y se marcha.
 
 ### **Rey Melandrach** (referencia)
-- No aparece en escena en esta misión. Su hijo **Neronvain** es el objetivo. Lo que hagan los PJ con Neronvain (capturar vs matar) afecta a **AN10 - El Juicio de Melandrach** y a los medidores del Consejo (Melandrach, etc.).
+- No aparece en escena en esta misión. Su hijo **Neronvain** es el objetivo. Lo que hagan los PJ con Neronvain (vivo para juicio vs muerte que rompe AN10) afecta a **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** y a los medidores del Consejo (Melandrach, etc.).
 
 ### **Delaan Winterhound**
 - **Rol:** Enclave Esmeralda; autor de la nota entregada en Everlund.
@@ -114,8 +132,8 @@ Toda la información necesaria para dirigir sin consultar otras fuentes.
 2. Obtener información sobre la guarida de **Chuth** y la identidad del elfo que lo monta (**Neronvain**).
 3. Localizar la **guarida** (en la zona de **hongos gigantes**, ~30 km al este del campamento; cueva cuyo acceso bloquean los hongos).
 4. Enfrentar a **Neronvain** y a **Chuth** (juntos o por separado).
-5. **Capturar** a Neronvain (preferible) o **matarlo** si es inevitable; **matar o expulsar** a Chuth de la zona.
-6. Dejar sentadas las bases para el **juicio de Neronvain** según leyes élficas (AN10) si lo capturan.
+5. **Reducir** a Neronvain **con vida** (inconsciente si cae a 0 PG; ver regla de campaña); **matar o expulsar** a Chuth de la zona.
+6. Dejar sentadas las bases para **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** (juicio + Segundo Concilio) con prisionero vivo.
 
 ---
 
@@ -259,45 +277,133 @@ Mientras los personajes viajan por el bosque, escuchan el **crujido de un gran �
 - **Percepción (DC 13):** Encontrar un **camino secundario** que evita la repisa o parte de los enemigos.
 - **Investigación (DC 14):** En la zona de Neronvain, documentos o un **símbolo de la Máscara del Dragón Verde**; referencia a "Melandrach" o "el Rey" en un diario → confirma que el elfo es Neronvain.
 
+---
+
+#### **Aposentos de Neronvain — Registro de la mazmorra**
+
+Si los PJ **registran** la cámara secundaria o los aposentos del wyrmspeaker (antes o después del combate), encuentran material que responde a preguntas que el **juicio de Melandrach** (AN10) y el Consejo harán después. No hace falta tirada para encontrar **cofre, escritorio rudimentario y petate**; las tiradas amplían detalles.
+
+| **Tirada (opcional)** | **Qué aporta** |
+|------------------------|----------------|
+| **Investigación (DC 12)** | Orden cronológico: cartas más recientes arriba; un **libro de códigos** (sustituir símbolos por iniciales élficas). |
+| **Investigación (DC 15)** | Copia del **mapa del campamento de avanzada** con anotaciones de guardias y cambio de turnos. |
+| **Arcano o Religión (DC 14)** | Reconocer sellos del **Culto del Dragón** y un sello personal asociado a **Severin** (jerarquía superior). |
+
+**Contenido jugable (respuestas a las preguntas clave):**
+
+1. **La extensión de la traición — ¿Cuántos elfos estaban involucrados?**  
+   Un **registro titulado** *Hojas que caen* (o cuaderno con lista codificada) enumera **diecisiete elfos** además de Neronvain, con **grado de implicación**:
+   - **Seis** como **brazo armado o leales directos** (patrullas, avituallamiento de la guarida, mensajería al Culto).
+   - **Cinco** como **informadores** en rutas de suministro, puestos de aviso o contactos con familias menores del Alto Bosque.
+   - **Cuatro** como **contactos ocasionales** (sobornos, silencio pactado, un nombre tachado: *“quemado”*).
+   - **Dos** marcados como **“dormidos en corte”** — no están en Altand; las pistas apuntan a **espías o simpatizantes** que podrían actuar si Neronvain ordenaba un golpe o una crisis en el reino de Melandrach.  
+   *Nota para el DM:* No hace falta dar los diecisiete nombres en sesión; basta con el **recuento** y 2–4 nombres o alias para que el juicio tenga carne. Los demás pueden descubrirse en AN10 con investigación en el reino.
+
+3. **Las conexiones — ¿Quién más del Culto estaba involucrado?**  
+   Cartas y notas al carbón mencionan:
+   - **Severin Silrajin** como autoridad a la que rendir cuentas de **operaciones en el Norte** (dragones, máscaras, coordinación con otros wyrmspeakers).
+   - Un contacto firmado solo como **“Garra del Norte”** (dragonclaw o capitán de dracónidos que recibe prisioneros e informes).
+   - Referencias a **envíos** hacia un **punto de reunión** en la Costa de la Espada (el DM puede enlazarlo con el castillo Naerytar, Waterdeep o la ruta que use vuestra campaña).
+   - Una línea rota que habla de **“el hermano de la tormenta”** — pista opcional hacia otro **portador de máscara** (p. ej. el dragón azul), sin necesidad de nombrarlo si aún no ha salido en juego.  
+   Chuth aparece en las notas como **“el jardín alado”** — confirmación de la relación dragón–amo.
+
+4. **Las consecuencias — ¿Qué información o recursos pasó al Culto?**  
+   Documentos explícitos (listas, borradores de informe a Severin):
+   - **Disposición de fuerzas** de Alagarthas: número aproximado de arqueros, rutas de patrulla, horarios de relevo y **puntos débiles** del perímetro del campamento.
+   - **Rutas de refugiados** desde Altand y asentamientos cercanos (para interceptar o sembrar miedo).
+   - **Ubicación de vedados**, túmulos y **líneas de suministro** que el Enclave Esmeralda o los druidas consideraban secretas.
+   - **Cantidades** de provisiones y **metales** (flechas, lingotes para reparar armamento) que el campamento esperaba recibir — útil para sabotear o desviar convoyes.
+
+   **Everlund — espionaje, defensas y vulnerabilidades (lectura del DM):**  
+   En los papeles aparece un **anexo** o **copia de informe** dirigido al Culto (rúbrica *“Ciudad del Puente / Norte”* o nombre en clave que reconozcan los PJ como **Everlund**). No es un plano completo de la ciudad, pero **basta** para que un comandante como Severin o el propio Neronvain **orquesten** el asalte de Chuth con ventaja. Deja claro en mesa que **el ataque a Everlund no fue mala suerte**: fue **compatible** con inteligencia interior o cercana.
+
+   - **Espionaje (cómo llegó la información):**  
+     - Fechas y **códigos de mensajería** (p. ej. “tercer luna”, “río alto”) que encajan con **envíos previos al ataque** hacia *Garra del Norte* o un contacto en la Costa.  
+     - Mención de **informadores** en **rutas comerciales** o en la **milicia local** (sin nombrar a todos los cómplices: basta “dos ojos en el puerto”, “un nombre en la guardia de la puerta X” si quieres semilla para Everlund / 04B o futuras intrigas).  
+     - Referencia a **acuerdos entre Everlund y refuerzos élficos** (p. ej. cuándo podía contarse con **Dorn** o con envíos desde el Alto Bosque): el Culto sabía **cuándo** la ciudad estaría más sola o más confiada.
+
+   - **Defensas que el informe describe** (lo que el enemigo ya conocía):  
+     - **Disposición de ballestas** y sectores de muralla donde se **había reforzado** el fuego (y por tanto dónde **no** conviene un primer golpe frontal).  
+     - **Tiempos de respuesta** aproximados: cuántos minutos tardan los **refuerzos** desde barrios clave hasta la plaza o el puente.  
+     - **Dotación** aproximada de guardias por turno y **punto de mando** provisional (donde podría golpearse la coordinación si se aturde o se dispersa a la tropa).
+
+   - **Vulnerabilidades explotables** (anotadas o subrayadas en el mismo dossier):  
+     - **Ángulos muertos** de vigilancia (tejados, callejones, curva del río) útiles para un **acercamiento bajo** o para que un dragón verde use **niebla/cobertura** sin recibir salva completa al primer paso.  
+     - **Puertas, postigos o accesos** considerados “seguros” por la ciudad pero **visibles desde el aire** o vulnerables al **aliento** si la formación en tierra se rompe.  
+     - La conclusión explícita del informe: conviene **hostigar antes** o **amagar** para forzar el gasto de proyectiles y **agotar** a los tiradores; un **segundo golpe** (o un golpe tras retirada) aprovecha la **ventana** en que las defensas creen haber ganado — encaja con la táctica de Chuth y con por qué el dragón **pudo ausentarse** después del primer encuentro: **reajuste del plan** con datos ya validados en combate.
+
+   *Mensaje jugable:* Si los PJ vivieron **04B (Everlund)**, pueden **reconocer** detalles (“esto es exactamente lo que hizo el dragón”, “alguien les contó dónde estábamos”). Refuerza que Neronvain (y el Culto) **compraron o extrajeron** datos operativos; el juicio (AN10) y el Consejo pueden exigir **purga de filtraciones** en Everlund.
+
+*Motivos personales (pregunta 2 en [AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)):* en los aposentos puede haber solo **esbozos** en el diario (rencor, exilio, desprecio a la debilidad que atribuye a Melandrach); la **declaración completa** ante el tribunal la desarrolla Neronvain en la **Parte I** si lo capturan vivos.
+
+---
+
 **Salida:** Los PJ se preparan para la **cámara principal** (techo 40 ft, estalactitas) donde están **Chuth** y/o **Neronvain**. El DM puede hacer que estén juntos o que Neronvain esté en una cámara adyacente y acuda al oír el combate (en el libro a veces ataca con *eldritch arrow* desde la distancia y luego se repliega).
 
 ---
 
 ### **ESCENA 4 — Enfrentamiento con Neronvain y Chuth**
 
-**Objetivo:** Resolver el combate con Neronvain y Chuth; priorizar **captura** de Neronvain y **muerte o expulsión** de Chuth.
+**Objetivo:** Resolver el combate con Neronvain y Chuth; **Neronvain debe acabar vivo** (regla de campaña); **muerte o expulsión** de Chuth.
 
 **Situación:** La **cámara principal** es amplia (suficiente para que Chuth vuele o se mueva). Hay restos de tesoros, objetos del Culto y posiblemente **prisioneros elfos** (1d3) en cadenas. **Chuth** está en la cámara (opcional: con PV reducidos por las heridas de Everlund). **Neronvain** puede estar montando a Chuth, en el suelo junto al dragón o en una plataforma elevada; lleva la **Máscara del Dragón Verde** y armas (espada larga, arco).
 
 **Desarrollo del combate:**
 - **Neronvain** intenta mantener distancia si puede; ordena a Chuth atacar. Si usas la **versión libro**, puede atacar con **flecha eldritch** desde la distancia, soltar una **nube venenosa** para cubrirse y usar **dimension door** para replegarse hacia otra cámara o montar a Chuth. Si Chuth cae o huye, Neronvain puede intentar **negociar** ("El Rey os recompensará si me lleváis vivo") o **huir** por un túnel de emergencia (el DM puede colocar una salida trasera).
 - **Chuth:** Si está herido por Everlund, el DM puede aplicar **−30 PV máximos** o **desventaja en la primera ronda**. Si Chuth llega a **menos de la mitad de sus PV**, puede intentar **huir** (vuelo hacia la salida) para vivir otro día; contar como "expulsar de su guarida" para el evento del Consejo.
-- **Captura de Neronvain:** Los PJ pueden declarar que atacan para **noquear** (reglas de daño no letal). Si Neronvain cae a **0 PV** con daño no letal, queda **inconsciente** y puede ser capturado. Si lo matan, se aplica el evento "Matar a Neronvain" (Melandrach −2, etc.).
+- **Reducir a Neronvain sin ejecutarlo:** Daño no letal o **0 PG = inconsciente estable** (regla de campaña). **Alagarthas** puede **llegar en el clímax** (pelotón reducido; ver su ficha) si los PJ intentan **remate** o ejecución: *“¡Basta! Es mi hermano. Prisionero de la Corona. **No** lo mataréis aquí.”*
 
 **Objetivos tácticos:**
 - Derrotar o expulsar a **Chuth** (evento "Matar a Chuth o expulsarlo de su guarida").
-- **Capturar** a Neronvain (evento "Capturar a Neronvain") o, si no hay remedio, matarlo (evento "Matar a Neronvain").
+- **Capturar** a Neronvain **vivo** (evento "Capturar a Neronvain"). El evento "Matar a Neronvain" solo si el grupo **rechaza** la regla de campaña.
 
-**Salida:** Chuth muerto o huido; Neronvain capturado o muerto. Si lo capturan, los PJ deben escoltarlo de vuelta (ver Escena 5). Si hay prisioneros elfos, liberarlos.
+**Salida:** Chuth muerto o huido; **Neronvain vivo** (atado o inconsciente). Los PJ deben escoltarlo de vuelta (ver Escena 5). Si hay prisioneros elfos, liberarlos.
 
 ---
 
 ### **ESCENA 5 — Resolución y vuelta a Altand**
 
-**Objetivo:** Cerrar la misión en Altand y dejar claro el siguiente paso (Consejo y/o juicio élfico).
+**Objetivo:** Cerrar la misión en Altand y dejar claro el siguiente paso (**[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** con Neronvain vivo).
 
-**Situación:** Los PJ salen de la guarida (con Neronvain prisionero si lo capturaron, o con su cuerpo/cabeza si lo mataron). Pueden recuperar la **Máscara del Dragón Verde** si Neronvain la llevaba y cae; el Consejo querrará custodiarla.
+**Situación:** Los PJ salen de la guarida con **Neronvain prisionero** (salvo que hayan roto la regla de campaña). Pueden recuperar la **Máscara del Dragón Verde** si Neronvain la llevaba y cae; el Consejo querrá custodiarla.
 
 **Vuelta al campamento (o a Altand):**
-- **Alagarthas** (y quienes hayan quedado en el campamento) reciben a los PJ. Si Neronvain está capturado, Alagarthas puede mostrar alivio y preocupación a la vez — y conflicto, por ser su hermano: "Es el hijo del Rey. Mi hermano. Debe ser juzgado según nuestras leyes." Les da un **mensaje sellado para el Rey Melandrach** (o para el Consejo) explicando lo ocurrido y pidiendo que se respete el juicio élfico. Esto enlaza con **AN10 - El Juicio de Melandrach**.
-- Si Neronvain está muerto, Alagarthas acepta la realidad con pesar; puede decir que Melandrach querrá saber la verdad y que el Consejo debería informarle con respeto.
+- **Alagarthas** (y quienes hayan quedado en el campamento) reciben a los PJ. Si Neronvain está capturado, Alagarthas puede mostrar alivio y preocupación a la vez — y conflicto, por ser su hermano: "Es el hijo del Rey. Mi hermano. Debe ser juzgado según nuestras leyes." Les da un **mensaje sellado para el Rey Melandrach** (o para el Consejo) explicando lo ocurrido y pidiendo que se respete el juicio élfico. Esto enlaza con **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** (juicio + Segundo Concilio). Si recuperaron **documentos de los aposentos** (listas, cartas), conviene **custodiarlos y entregarlos al proceso** en AN10: refuerzan cargos contra Neronvain y contra cómplices aún no detenidos.
+- **Ayuda de Everlund (opcional, antes o durante el regreso):** Los PJ pueden **pedir apoyo** a **Everlund** (mensaje mágico, enviado, o contacto previo con **Dorn** / autoridad de la **Liga** si ya ayudaron en [04B — Fuego en el Norte](./04B_Culto_Contraataca_II_Fuego_Norte.md)). La ciudad, agradecida y en deuda tras el asedio, puede despachar **2 o 3 artífices** con **ballestas antidragón mejoradas** (miras, mecanismos de tensado, virolas pesadas): no sustituyen al grupo, pero dan **fuego de asedio** creíble contra **Chuth** en la guarida o en un repliegue táctico. **Llegada:** el DM puede situarlos en el **campamento base** **1–2 días** antes del asalto final, o con los refuerzos si el tiempo es corto. **Reglas:** ver *Ballesta antidragón — análisis y mejora Everlund* (justo debajo).
+- Si Neronvain está muerto (solo si el grupo ignoró la regla de campaña), Alagarthas acepta la realidad con pesar; no hay AN10 tal cual.
 
 **Informe al Consejo (cuando los PJ vuelvan a Waterdeep):**
-- **Captura de Neronvain:** "Capturar a Neronvain" → refuerza alianza con Melandrach; se desbloquea o refuerza la opción de **AN10 - El Juicio de Melandrach**.
-- **Muerte de Neronvain:** "Matar a Neronvain" → Melandrach −2; no hay juicio, pero la amenaza queda resuelta.
+- **Captura de Neronvain:** "Capturar a Neronvain" → refuerza alianza con Melandrach; se desbloquea **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)**.
+- **Muerte de Neronvain:** "Matar a Neronvain" → Melandrach −2; sin AN10; solo si el grupo forzó este desenlace.
 - **Chuth muerto o expulsado:** "Matar a Chuth o expulsarlo de su guarida" → estabilidad regional y puntos en medidores según tabla.
 
 **Salida:** Los PJ pueden descansar en Altand, entregar prisioneros/objetos a Alagarthas, y partir hacia Waterdeep (o siguiente misión) con el informe listo para el Consejo.
+
+---
+
+### **Ballesta antidragón — análisis y mejora Everlund**
+
+**Referencia base (asedio de Everlund):** ver [04B — Fuego en el Norte](./04B_Culto_Contraataca_II_Fuego_Norte.md) (*Mecánica — Ballesta gigante antidragón*).
+
+| **Criterio** | **Versión base (asedio)** | **Notas** |
+|--------------|---------------------------|-----------|
+| **Bonificador al ataque** | +6 (o el del PJ que dispare) | A CA 18 (Chuth), ~35 % de acierto con +6; un marcial nivel 11 suele atacar entre **+9 y +12**, así que la ballesta **falla más** que el grupo si no se mejora. |
+| **Daño por disparo** | 3d10 perforante (media ~16,5) | Un PJ11 con **dos ataques** hace a menudo **más daño por ronda** que un solo disparo (p. ej. 2 × (1d8+5) ≈ 19 de media). El disparo **sí** compensa frente a **un** golpe débil, pero **no** se siente “arma de asedio” frente a un turno completo de héroe optimizado. |
+| **CA / PV** | **CA 15**, **50 PV** | Para cuando **Chuth** (u otro) ataque el arma: ver [04B](./04B_Culto_Contraataca_II_Fuego_Norte.md). A **0 PV**, inutilizada hasta reparar. |
+| **Recarga** | 1 ronda tras cada tiro (dos operadores) | Correcto para ritmo, pero en combate largo penaliza frente a arqueros que disparan cada turno. |
+| **Alcance** | 120/480 ft | Suficiente; la mejora puede ganar unos pies de estabilidad, no solo números. |
+
+**Versión mejorada (Everlund → envío a Altand):** Tras el asedio, los artífices ajustan **miras**, **carril** del virote y **poleas**; cada equipo sigue siendo **1 artífice + 1 PJ** (o dos artífices NPC).
+
+| **Aspecto** | **Ballesta mejorada (Mark II)** |
+|-------------|----------------------------------|
+| **Ataque** | **+10** al golpear (mira graduada, soporte); opcional: un PJ con **Sleight of Hand** o **Percepción** (DC 12) como acción de ayuda en la misma ronda da **ventaja** al primer disparo de esa ronda contra un objetivo volador **inmóvil** o **a mitad de movimiento**. |
+| **Daño** | **4d10 + 4** perforante (media **26**). Supera con holgura un **solo** ataque de arma típico a nivel 11 (p. ej. 1d8+5 ≈ 9,5; 2d6+5 ≈ 12) y compite en **un solo disparo** con la media de **dos** golpes modestos sin recurso (~18–22). |
+| **CA / PV** | **CA 16**, **55 PV** (refuerzos en basamento y carril; mismo criterio de objeto que la base). Un **dragón joven** puede **derribarla** en **2–4** impactos sólidos si ignora a los defensores. |
+| **Alcance** | **150/600 ft** (cuerdas y virolas reforzadas). |
+| **Recarga** | Tras cada disparo, **1 ronda** de recarga (reglas iguales que la base: acciones de operadores). **Al final de esa ronda de recarga**, el operador que **carga** tira **1d10**. Si el resultado es **≥ 8**, la ballesta está **lista para disparar** en el **siguiente turno** de ese equipo (**recarga rápida**). Si el resultado es **≤ 7**, hace falta **una ronda adicional** completa de recarga antes del siguiente disparo (**recarga lenta**). *(El DM puede llamar a la tirada “¿superáis el mecanismo?” para mantener el ritmo narrativo.)* |
+
+**Uso en combate:** Con **2–3** ballestas mejoradas, el DM puede tratar cada una como **acción** separada en la iniciativa del **artífice** (o de un PJ asignado), sin multiplicar absurdamente el daño si solo hay **un** dragón: varios disparos ayudan a **forzar** impactos y a narrar **supresión** sobre Chuth. Cada pieza tiene **CA y PV propios** si el dragón **prioriza destruir** armas de asedio.
 
 ---
 
@@ -426,8 +532,8 @@ Aplicar cuando los PJ **informen en el (próximo) Concilio**. Valores según [01
 
 ## 🔗 **CONEXIÓN CON OTRAS MISIONES**
 
-- **AN03 - Fuego en el Norte:** Origen inmediato de los PJ (Everlund, Chuth, refugiados de Altand, nota de Delaan). Chuth es el mismo dragón.
-- **AN10 - El Juicio de Melandrach:** Si Neronvain es **capturado**, su destino se decide en esta misión (juicio según leyes élficas; evento "Negociar con los elfos de Melandrach sobre Neronvain").
+- **04B Parte I — Fuego en el Norte / Everlund:** Origen inmediato de los PJ (Everlund, Chuth, refugiados de Altand, nota de Delaan). Chuth es el mismo dragón.
+- **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md):** Con Neronvain **vivo**, su destino se decide en el juicio (Parte I) y el arco político continúa en el **Segundo Concilio** (Parte II); evento "Negociar con los elfos de Melandrach sobre Neronvain".
 - **Consejo:** Tras esta misión, los PJ vuelven a Waterdeep (o al siguiente punto de reunión) e informan; se aplican los eventos correspondientes de la tabla de medidores.
 
 ---
@@ -435,10 +541,11 @@ Aplicar cuando los PJ **informen en el (próximo) Concilio**. Valores según [01
 ## 🧠 **NOTAS DEL DM**
 
 - **Tono:** Bosque brumoso, tensión, traición élfica. La captura de Neronvain es más valiosa que su muerte para la trama y para Melandrach.
+- **Everlund y el informe de los aposentos:** Haz explícito en la revelación (punto 4, anexo Everlund) que el asalto de Chuth **pudo planificarse** gracias a **espionaje + mapa de defensas/vulnerabilidades**; no contradice la heroísmo de la defensa en **04B (Everlund)**, pero explica **coherencia táctica** del Culto. Si los PJ no conectan solos, un **Insight (DC 12)** o un NPC (Dorn, veterano) puede decir: *“Esto no es adivinanza: nos leyeron la mano.”* Opcional: consecuencia política — **Everlund** endurece contrainteligencia o pide ayuda a los Arpistas.
 - **Chuth herido:** Si quieres reflejar Everlund, reduce PV máximos de Chuth en ~20–25% o dale desventaja en la primera ronda de combate.
 - **Escape de Neronvain:** Si tiene una ruta de huida, puede intentar escapar cuando Chuth caiga o cuando él mismo esté por debajo de la mitad de PV; los PJ pueden perseguir o dejarlo para una secuencia posterior.
 - **Máscara del Dragón Verde:** Objeto de trama; no es necesario darle estadísticas completas; el Consejo la retira al final.
-- **Resumen en una línea:** Galin lleva a los PJ al campamento de avanzada; Alagarthas (conflicto con el Culto, hongos gigantes ~30 km al este); dríada (prueba de carácter, guirnaldas); guarida en zona de hongos; capturar o matar a Neronvain; matar o expulsar a Chuth; informe al Consejo y enlace con AN10 (juicio de Melandrach).
+- **Resumen en una línea:** Galin lleva a los PJ al campamento de avanzada; Alagarthas (conflicto con el Culto, hongos gigantes ~30 km al este); dríada (prueba de carácter, guirnaldas); guarida en zona de hongos; **Neronvain vivo** para juicio; matar o expulsar a Chuth; **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** (juicio + Segundo Concilio).
 - **Mapa de la guarida (original):** En el libro y en 5e.tools la guarida tiene plano con entrada, charca, repisa y cámara principal. Mapas comerciales: p. ej. "Neronvain's Stronghold" de Jared Blando (Rise of Tiamat). Puedes usar ese plano renombrando ubicaciones a Altand/The High Forest.
 
 ---

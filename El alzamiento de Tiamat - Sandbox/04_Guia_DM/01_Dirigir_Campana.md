@@ -118,7 +118,7 @@ La campaña está diseñada para niveles **8-14**, comenzando después de "El Te
 
 - **Nivel 8:** Varram el Blanco, primeras misiones del Consejo
 - **Nivel 9:** El Mar de Hielo Movedizo, Ruinas del Norte
-- **Nivel 10:** Neronvain el Verde, El Juicio de Melandrach, Fuego en el Norte
+- **Nivel 10:** Neronvain el Verde, AN10 (juicio + Segundo Concilio), Fuego en el Norte
 - **Nivel 11:** Dragones Metálicos, Sangre de Dragón, Cenizas de Plata
 - **Nivel 12:** Torre de Xonthal, Ecos de la Torre
 - **Nivel 13:** Misión a Thay, Pactos Oscuros, Traiciones

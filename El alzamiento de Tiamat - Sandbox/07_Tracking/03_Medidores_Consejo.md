@@ -51,7 +51,7 @@
 
 | Evento | Condición | Modificadores (al aplicar) |
 |--------|-----------|----------------------------|
-| **Salvar una caravana del norte** | Si A03 - Fuego en el Norte tiene éxito (caravana llegada a Everlund) | Ord +1, Uld +1, Moral +1 |
+| **Salvar una caravana del norte** | Si **04B** Parte I (*Fuego en el Norte*) tiene éxito (caravana llegada a Everlund) | Ord +1, Uld +1, Moral +1 |
 
 ---
 

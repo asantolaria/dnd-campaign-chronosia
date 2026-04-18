@@ -64,7 +64,7 @@
 
 **Misiones Adicionales Añadidas:**
 - **Nivel 9:** Ruinas del Norte
-- **Nivel 10:** El Juicio de Melandrach, Fuego en el Norte
+- **Nivel 10:** Juicio de Melandrach y Concilio (AN10), Fuego en el Norte
 - **Nivel 11:** Sangre de Dragón, Cenizas de Plata, El Enclave en Llamas
 - **Nivel 12:** Ecos de la Torre
 - **Nivel 13:** Pactos Oscuros, Sombras en el Consejo, Traiciones en Waterdeep, El Precio de la Guerra

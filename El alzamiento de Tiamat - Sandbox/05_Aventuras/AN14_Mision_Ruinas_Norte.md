@@ -290,7 +290,7 @@ Esta misión es ideal para mostrar las consecuencias del poder del Culto y para 
 ## 🔗 **REFERENCIAS**
 
 - **Sistema del Consejo:** Ver [../04_Guia_DM/05_Sistema_Consejo_Guerra.md](../04_Guia_DM/05_Sistema_Consejo_Guerra.md)
-- **Misión relacionada:** Ver [AN03_Mision_Fuego_Norte.md](./AN03_Mision_Fuego_Norte.md) (Nivel 10)
+- **Misión relacionada:** Ver [04B_Culto_Contraataca_II_Fuego_Norte.md](./04B_Culto_Contraataca_II_Fuego_Norte.md) (Parte I Everlund / Nivel 10-11)
 - **Estructura de Aventuras:** Ver [00_Estructura_Aventuras.md](./00_Estructura_Aventuras.md)
 
 ---

@@ -362,7 +362,7 @@ Esta misión debe crear una sensación de:
 
 - **Sistema del Consejo:** Ver [../04_Guia_DM/05_Sistema_Consejo_Guerra.md](../04_Guia_DM/05_Sistema_Consejo_Guerra.md)
 - **Misión relacionada Fase I:** Ver [04A_Mision_Culto_Contraataca_I_Emboscadas.md](./04A_Mision_Culto_Contraataca_I_Emboscadas.md) (Nivel 8-9)
-- **Misión relacionada Fase II:** Ver [04B_Mision_Culto_Contraataca_II_Ofensiva.md](./04B_Mision_Culto_Contraataca_II_Ofensiva.md) (Nivel 10-11)
+- **Misión relacionada Fase II:** Ver [04B_Culto_Contraataca_II_Fuego_Norte.md](./04B_Culto_Contraataca_II_Fuego_Norte.md) (Nivel 10-11)
 - **Estructura de Aventuras:** Ver [00_Estructura_Aventuras.md](./00_Estructura_Aventuras.md)
 - **Tabla de Misiones:** Ver [../06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md](../06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md)
 - **Clímax:** Ver misión oficial "El Retorno de Tiamat - Pozo de los Dragones" (Nivel 14-16)

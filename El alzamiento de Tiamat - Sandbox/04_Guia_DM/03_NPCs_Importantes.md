@@ -118,27 +118,29 @@
 
 ### **Rian Nightshade**
 
-**Rol:** Representante de los Zhentarim, "cooperadora neutral"
+**Rol:** Emisaria de la **Red Negra** (Zhentarim), **asesora especial** de **Lord Dagult Neverember**. En esta sandbox queda **presentada formalmente** como su persona de confianza en **[AN10 — Parte II (Segundo Concilio)](../05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)**; puede seguir en mesas posteriores. Ocupa sitio en la mesa del Consejo de Guerra junto a Neverember; su vínculo Zhentarim **no se anuncia**, pero **ni ella ni Neverember lo niegan** si los personajes preguntan por qué está presente.
 
-**Personalidad:**
-- Pragmática y calculadora
-- Carismática pero desconfiada
-- Valora el talento y la utilidad
+**Raza / clase:** Tiefling, **bruja** (alineamiento típico: legal malvada en la campaña original).
 
-**Relación con los PJs:**
-- Puede ofrecer reclutamiento a personajes con habilidades útiles (como Caspian)
-- Cooperativa si es beneficioso
-- Puede traicionar si es más rentable
+**Ideales:** Lógica y codicia — *«Estoy segura de que podemos llegar a un acuerdo que favorecerá a todas las partes. Pero si no, tengo otros medios para solucionar el problema.»*
 
-**Recursos que Proporciona:**
-- Red de espías
-- Rutas secretas
-- Información sensible
-- Recursos del mercado negro
+**Rasgos de interacción:** Educada, mercantil, despiadada.
 
-**Motivación:** Beneficio personal y poder.
+**Recursos prometidos (Red Negra):** Asesinos y mercenarios; red de espías; información sensible; mercado negro.
 
-**Nota Especial:** Varias facciones no confían en ella, aunque su información ha sido útil.
+**Postura ante el Culto y la guerra:** La Red Negra respalda planes que **aumenten la probabilidad de derrotar al Culto**; cualquier alianza útil vale. **No** tiene interés particular en la moralidad: los actos oscuros **no** cambian su trato con el grupo. **Desaprueba** capturar **Señores del Dragón vivos** (poder peligroso, duda del éxito al convertirlos o interrogarlos): favorece **ejecución discreta**, **interrogatorio del cadáver** con rituales adecuados y **destrucción del cuerpo** para impedir resurrección.
+
+**Compromiso narrativo:** La Red Negra permanece **sin comprometerse del todo** hasta el **Concilio final**, cuando se hagan promesas. Si el grupo ha ganado el respeto Zhent, pueden prestar servicios a **coste nominal** — a costa de **alejar** a otras facciones. La lealtad Zhent puede **comprarse** incluso sin respeto mutuo, si se negocian condiciones pagadas por **otras** facciones.
+
+**Relación con los PJs:** Cooperadora cuando conviene; puede ofrecer reclutamiento a quien tenga talento útil. No traiciona sin cálculo: el beneficio manda.
+
+**Nota de mesa:** Varias facciones (Arpistas, Orden del Guantelete, etc.) **no confían** en ella; su información sigue siendo útil. En [AN11](../05_Aventuras/AN11_Mision_Sombras_Consejo.md) puede quedar **enmarcada** por una trama que al principio la pinta como villana.
+
+---
+
+### **Jamna Gleamsilver** *(campaña anterior — Hoard of the Dragon Queen)*
+
+**Rol:** Gnoma, agente Zhentarim que en el módulo original va **infiltrada en la caravana** hacia Greenest. El grupo puede haberla descubierto, aliado con ella o dejarla escapar según *HotDQ*. En [AN11](../05_Aventuras/AN11_Mision_Sombras_Consejo.md) **prioriza** recuperar la **daga de Sir Isteval** (prueba del suicidio de Neronvain en [AN10](../05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)); también el robo de la **Máscara del Dragón Verde** y el tinglado. En la variante **«sangre al salir del Castillo»**, puede **matar** al **criado / mayordomo** del nigromante (**Morrik**) en la calle y **huir** hacia la **casa** — **motivos** que al principio **no** explica (el sirviente podía **cerrar** pistas o **delatar** antes de tiempo). Al hallar la daga, los PJ pueden revelar **forja drow** y **magia** — clave para **Morrik**. **No** es la ladrona de los objetos del Castillo, pero debe **parecer** relacionada con todo para tensar la mesa. Aviso, pista o supervivencia milagrosa frente a un ataque que busca **callar** un testigo. No sustituye el papel político de **Rian** en el Consejo.
 
 ---
 

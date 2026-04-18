@@ -38,13 +38,13 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 
 1. **Misiones Oficiales:** Siempre disponibles, nunca se bloquean
 2. **Misiones Adicionales Oficiales (AO01-AO06):** Siempre disponibles, nunca se bloquean
-3. **Misiones Adicionales (AN03-AN14):** Pueden bloquearse mutuamente dentro de su nodo
+3. **Misiones Adicionales (AN04-AN14):** Pueden bloquearse mutuamente dentro de su nodo
 
 ### **Nodos de Decisión**
 
 | Nodo | Concilio | Misiones | Regla | Consecuencia si no eligen ninguna |
 |------|----------|----------|-------|-----------------------------------|
-| **Nodo 1: Defensa del Norte** | 2º | AN03, AN14 | Elegir 1 bloquea la otra | Ambas se bloquean, Moral -2 |
+| **Nodo 1: Defensa del Norte** | 2º | **04B (Parte I Everlund / Fuego en el Norte)**, AN14 | Elegir 1 bloquea la otra | Ambas se bloquean, Moral -2 |
 | **Nodo 2: Diplomacia** | 2º | AN10, AN11 | Elegir 1 bloquea la otra | Ambas se bloquean, Consejo -1 |
 | **Nodo 3: Alianza Dracónica** | 3º | AN05, AN12, AN06 | Elegir 1 bloquea las otras 2 | Oportunidad perdida, Dragones Metálicos -1 |
 | **Nodo 4: Inteligencia** | 3º | AN04, AN07 | Elegir 1 bloquea la otra | Ambas se bloquean, Culto +1 |
@@ -91,12 +91,11 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 
 | #        | Misión                                 | Enlace                                                                                               | Tipo      | Estado        | Localización                                            | Nivel | Eventos del Consejo                                                                                                                          | Bloquea a         | Descripción                                                                                                          |
 | -------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------- | --------- | ------------- | ------------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **04B**  | **El Culto Contraataca II (Ofensiva)** | [Ver misión](../../05_Aventuras/04B_Mision_Culto_Contraataca_II_Ofensiva.md)                         | Oficial   | 🟡 Disponible | Entre el 2º y 3º Consejo                                | 10-11 | No ayudar en el ataque de una ciudad aliada / Ciudad destruida por un dragón enemigo / Fracasar en rescatar a un aliado                      | -                 | El culto lanza ofensivas mayores con dragones y espías; los héroes deben decidir qué frentes atender.                |
+| **04B**  | **El Culto Contraataca II: Fuego en el Norte** | [Ver misión](../../05_Aventuras/04B_Culto_Contraataca_II_Fuego_Norte.md)                         | Oficial   | 🟡 Disponible | Entre el 2º y 3º Consejo                                | 10-11 | No ayudar en el ataque de una ciudad aliada / Ciudad destruida por un dragón enemigo / Fracasar en rescatar a un aliado / Ayudar en ciudad asediada / Salvar caravana (Parte I)                      | **AN14** (Nodo 1, si jugáis Parte I Everlund)                 | Fase II del Culto: guion **Everlund** (Chuth, caravana) + menú de encuentros 2–4. **Nodo 1:** la Parte I sustituye el antiguo **AN03**; si la jugáis, bloquea **AN14** como antes.                |
 | **02**   | **El Mar de Hielo Movedizo**           | 📖 PDF/5e.tools<br/>💎 [Opciones de Botín](../../05_Aventuras/02_Mision_Mar_Hielo_Movedizo_Botin.md) | Oficial   | 🟡 Disponible | Norte helado                                            | 9-10  | Matar a Arauthator o expulsarlo / Salvar a una caravana del norte / Ciudad destruida por un dragón enemigo                                   | -                 | Rescatar a Maccath la Carmesí, obtener información sobre dragones blancos y la Hermandad Arcana.                     |
 | **03**   | **Neronvain el Verde**                 | [Ver misión](../../05_Aventuras/03_Mision_Neronvain_Verde.md)                                        | Oficial   | 🟡 Disponible | Altand (The High Forest)                                 | 10-11 | Matar a Neronvain / Capturar a Neronvain / Matar a Chuth o expulsarlo / Negociar con los elfos de Melandrach / Matar a Melandrach sin juicio | -                 | Descubrir la traición del hijo del rey élfico y decidir su destino político (adaptada a Altand).                     |
-| **AN03** | **Fuego en el Norte**                  | [Ver misión](../../05_Aventuras/AN03_Mision_Fuego_Norte.md)                                          | Adicional | 🟡 Disponible | Tras Neronvain o entre 2º y 3º Consejo                  | 10-11 | Ayudar en el ataque de una ciudad aliada / No ayudar en el ataque / Salvar o no salvar caravana                                              | **AN14** (Nodo 1) | Defender el Norte, decidir entre proteger civiles o atacar líderes del culto.                                        |
-| **AN14** | **Ruinas del Norte**                   | [Ver misión](../../05_Aventuras/AN14_Mision_Ruinas_Norte.md)                                         | Adicional | 🟡 Disponible | Después de Fuego en el Norte / entre el 2º y 3º Consejo | 10-11 | Ciudad destruida por un dragón enemigo / Fracasar en una misión importante                                                                   | **AN03** (Nodo 1) | Explorar las ruinas de una ciudad arrasada por dragones, rescatar supervivientes y descubrir pistas sobre el ritual. |
-| **AN10** | **El Juicio de Melandrach**            | [Ver misión](../../05_Aventuras/AN10_Mision_Juicio_Melandrach.md)                                    | Adicional | 🟡 Disponible | Después de Neronvain / antes del 2º Consejo             | 11-12 | Negociar con los elfos de Melandrach sobre Neronvain / Matar a Melandrach sin juicio                                                         | **AN11** (Nodo 2) | Evitar una guerra civil élfica juzgando a Neronvain con o sin clemencia.                                             |
+| **AN14** | **Ruinas del Norte**                   | [Ver misión](../../05_Aventuras/AN14_Mision_Ruinas_Norte.md)                                         | Adicional | 🟡 Disponible | Entre el 2º y 3º Consejo (alternativa a Everlund en Nodo 1) | 10-11 | Ciudad destruida por un dragón enemigo / Fracasar en una misión importante                                                                   | **04B Parte I** (Nodo 1) | Explorar las ruinas de una ciudad arrasada por dragones, rescatar supervivientes y descubrir pistas sobre el ritual. |
+| **AN10** | **Juicio de Melandrach y Concilio de Aguas Profundas** | [Ver misión](../../05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md) | Adicional | 🟡 Disponible | Tras **03** (Neronvain vivo); **Waterdeep**: juicio + **Segundo Concilio** | 11-12 | Negociar con los elfos de Melandrach sobre Neronvain / Matar a Melandrach sin juicio | **AN11** (Nodo 2) | Parte I: juicio élfico bajo techo aliado. Parte II: 2.º Concilio; **Rian** (Neverember); ganchos e inicio de intriga Jamna → AN11. |
 | **AN11** | **Sombras en el Consejo**              | [Ver misión](../../05_Aventuras/AN11_Mision_Sombras_Consejo.md)                                      | Adicional | 🟡 Disponible | Entre el 2º y 3º Consejo                                | 11-12 | Aceptar la ayuda de un espía Zhentarim / Traición dentro del Consejo                                                                         | **AN10** (Nodo 2) | Un agente Zhentarim ofrece información a cambio de favores; los PJs deben decidir si aceptarla y sus consecuencias.  |
 
 ### **Misiones Nuevas No Disponibles (Se Desbloquean Más Tarde)**
@@ -172,16 +171,15 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 - AO05: Héroe Caído
 - AO06: Muerte en el Concilio
 
-### **Misiones Adicionales (12)**
+### **Misiones Adicionales (11)**
 
-- AN03: Fuego en el Norte
 - AN04: Traiciones en Waterdeep
 - AN05: Sangre de Dragón
 - AN06: Ecos de la Torre
 - AN07: El Precio de la Guerra
 - AN08: La Última Llama
 - AN09: Pactos Oscuros
-- AN10: El Juicio de Melandrach
+- AN10: Juicio de Melandrach y Concilio de Aguas Profundas
 - AN11: Sombras en el Consejo
 - AN12: Cenizas de Plata
 - AN13: El Enclave en Llamas
@@ -207,7 +205,7 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 3. **Sistema de Bloqueos (Nodos de Decisión):**
    - **Misiones Oficiales:** Siempre disponibles, nunca se bloquean
    - **Misiones Adicionales Oficiales (AO01-AO06):** Siempre disponibles, nunca se bloquean
-   - **Misiones Adicionales No Oficiales (AN03-AN14):** Pueden bloquearse mutuamente dentro de su nodo
+   - **Misiones Adicionales No Oficiales (AN04-AN14):** Pueden bloquearse mutuamente dentro de su nodo
    - Cuando los PJs eligen una misión de un nodo, marca las otras del mismo nodo como "No Disponible"
    - Si no eligen ninguna misión de un nodo antes del siguiente Concilio, aplica la consecuencia correspondiente (ver tabla de Nodos de Decisión)
 
@@ -236,11 +234,10 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 **Misiones Disponibles para Presentar (Nuevas del 2º Concilio + anteriores no completadas):**
 1. **El Mar de Hielo Movedizo** (Oficial - desbloqueada del 1º Concilio)
 2. **Neronvain el Verde** (Oficial - nueva del 2º Concilio)
-3. **El Culto Contraataca II** (Oficial - nueva del 2º Concilio)
-4. **Fuego en el Norte** (Adicional - nueva del 2º Concilio, Nodo 1: si eligen esta, AN14 se bloquea)
-5. **Ruinas del Norte** (Adicional - nueva del 2º Concilio, Nodo 1: si eligen esta, AN03 se bloquea)
-6. **El Juicio de Melandrach** (Adicional - nueva del 2º Concilio, Nodo 2: si eligen esta, AN11 se bloquea)
-7. **Sombras en el Consejo** (Adicional - nueva del 2º Concilio, Nodo 2: si eligen esta, AN10 se bloquea)
+3. **El Culto Contraataca II: Fuego en el Norte** (Oficial - nueva del 2º Concilio; incluye Everlund + encuentros de la Fase II; **Nodo 1:** si priorizan el arco **Everlund** de la Parte I, AN14 se bloquea)
+4. **Ruinas del Norte** (Adicional - nueva del 2º Concilio, Nodo 1: si eligen esta, el arco Everlund de 04B Parte I queda descartado o ya resuelto fuera de mesa)
+5. **Juicio de Melandrach y Concilio de Aguas Profundas** (Adicional - nueva del 2º Concilio, Nodo 2: si eligen esta, AN11 se bloquea; **juicio + Segundo Concilio** en **Waterdeep**)
+6. **Sombras en el Consejo** (Adicional - nueva del 2º Concilio, Nodo 2: si eligen esta, AN10 se bloquea)
 
 **Presentación Narrativa:**
 > "El Consejo se reúne de nuevo. Varios frentes se han abierto. Taern Hornblade informa de que Maccath la Carmesí aún no ha sido encontrada en el Mar de Hielo. Remallia menciona rumores de actividad del culto en el Bosque Brumoso. Y Ulder Ravengard pide ayuda urgente para defender el norte, pero también hay ruinas que explorar en las tierras arrasadas..."
@@ -248,8 +245,8 @@ Las misiones **oficiales** siempre están disponibles cuando corresponda. Las mi
 **Nota para el DM:**
 - Las misiones del 1º Concilio (01, 04A) siguen disponibles si no se completaron
 - Las misiones AO01, AO02, AO04, AN13 del 1º Concilio se desbloquean ahora
-- Si los PJs eligen "Fuego en el Norte", marca "Ruinas del Norte" como "No Disponible"
-- Si los PJs eligen "Ruinas del Norte", marca "Fuego en el Norte" como "No Disponible"
+- Si los PJs eligen el arco **Everlund** (Parte I de **04B**), marca **AN14** como "No Disponible"
+- Si los PJs eligen **Ruinas del Norte**, marca el arco Everlund (Parte I de **04B**) como "No Disponible" o narrad que la ciudad ya cayó
 - Si no eligen ninguna de las dos antes del Tercer Concilio, ambas se bloquean y aplica Moral -2
 
 ---

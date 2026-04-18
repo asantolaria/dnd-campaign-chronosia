@@ -1,25 +1,39 @@
-# 🔥 Fuego en el Norte
-## *Misión Adicional - Nivel 10*
+r15$!
+# ⚔️ El Culto Contraataca II: Fuego en el Norte
+## *Misión oficial (Fase II) + desarrollo Everlund — Nivel 10-11*
 
 ---
 
 > **📖 NAVEGACIÓN:**
 > - [Estructura de Aventuras](./00_Estructura_Aventuras.md) - Volver al índice
+> - [04A - El Culto Contraataca I](./04A_Mision_Culto_Contraataca_I_Emboscadas.md) - Fase previa
+> - [04C - El Culto Contraataca III](./04C_Mision_Culto_Contraataca_III_Desesperacion.md) - Fase siguiente
 > - [Sistema del Consejo de Guerra](../04_Guia_DM/05_Sistema_Consejo_Guerra.md) - Eventos y medidores
+> - [Tabla de Misiones](../06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md) - Estado de misiones
 
 ---
+
+## **Resumen**
+
+Este documento unifica **04B** (*Ofensiva*, Fase II del Culto) y el arco del sandbox **Everlund** (antes archivado como **AN03** — *Fuego en el Norte*). La **Parte I** es el guion de Everlund (caravana, puentes, **Chuth**, puente con Neronvain). La **Parte II** es el **menú de presión** del Culto: encuentros **2–4** y, si lo necesitáis, la **variante genérica** de ciudad bajo dragón (equivalente al antiguo encuentro 1 del libro). Si ya jugasteis **Everlund**, **omitid** la variante genérica y usad solo **2–4** para no repetir el mismo *beat*.
+
+---
+
+## 🏙️ **Parte I — Everlund (*Fuego en el Norte*)**
 
 ## 📋 **INFORMACIÓN GENERAL**
 
 | **Aspecto** | **Detalle** |
 |-------------|-------------|
-| **Tipo** | Combate / Defensa Regional |
-| **Nivel Recomendado** | 10 |
+| **Tipo** | Combate / Defensa regional (guion desarrollado Everlund) |
+| **Nivel recomendado** | 10 (ajustable 10–11 con Parte II) |
 | **Duración** | 1–2 sesiones |
 | **Localización** | **Everlund** (Valle del Viento Helado), bajo asedio. Viaje: **Triboar** → **Yartar** → Everlund. |
 | **Conexión temporal** | Tras "Neronvain el Verde" o entre 2º y 3º Consejo. Puede jugarse **antes** de Neronvain: Chuth (el dragón de Everlund) es el mismo que en la misión 03; el Consejo envía entonces a los PJ a **The High Forest** (ver *Unión con Neronvain*, en Pistas clave). |
 
-**Eventos del Consejo:** Ayudar / no ayudar en el ataque de una ciudad aliada; Salvar una caravana del norte; Vencer a un wyrmspeaker menor (si el comandante capturado se considera tal).
+**Eventos del Consejo (Parte I):** Ayudar / no ayudar en el ataque de una ciudad aliada; Salvar una caravana del norte; Vencer a un wyrmspeaker menor (si el comandante capturado se considera tal).
+
+**Códigos:** En tablas y bitácoras puede aparecer como **04B**, **A03** o *Fuego en el Norte* — es **una sola misión**.
 
 ---
 
@@ -121,7 +135,7 @@ Justo después de hacer explotar el puente, los PJ se encuentran **dentro de las
 
 **Despliegue del arma secreta:** Dorn da la orden de **desplegar la ballesta antidragones**. La operan **1 artífice + 1 PJ** (disparan juntos); los **otros dos PJ** mantienen a raya al dragón con hechizos, proyectiles o cañones (distraer, daño, cubrir a los operadores). **Chuth** causa estragos mientras tanto: **destruye efectivos fuera de las murallas y alguno de los cañones** antes de que la ballesta esté lista o entre los impactos.
 
-- **Ballesta:** Necesita **4 turnos** para quedar montada y poder disparar. **1 artífice + 1 PJ** la operan (2 personas). **3 impactos de ballesta** = **Chuth** huye herido (el **jinete de armadura y cara tapada** escapa con él; los defensores no logran identificarlo).
+- **Ballesta:** Necesita **3 turnos (rondas)** para quedar montada y poder disparar (al amanecer). **1 artífice + 1 PJ** la operan (2 personas). **3 impactos de ballesta** = **Chuth** huye herido (el **jinete de armadura y cara tapada** escapa con él; los defensores no logran identificarlo).
 - **Guiverno (wyvern):** Los PJ o las tropas deben neutralizarlo con hechizos, proyectiles o cañones mientras la ballesta se centra en Chuth (o el DM lo reparte como prefiera).
 
 **Mecánica — Ballesta gigante antidragón:**
@@ -132,7 +146,10 @@ Justo después de hacer explotar el puente, los PJ se encuentran **dentro de las
 | **Operadores** | 2 (1 artífice + 1 PJ). Uno apunta/dispara (ataque), el otro carga/estabiliza.                                        |
 | **Recarga**    | Tras cada disparo, 1 rondas de recarga (al menos un operador con acción en cada ronda).                              |
 | **Ataque**     | +6 (o bonificador del PJ); alcance 120/480 ft; daño 3d10 perforante (lanza gigante).                                 |
+| **CA / PV**    | **CA 15**, **50 PV** (objeto Grande, madera y hierro; *DMG* objetos resistentes). Si un dragón u otro enemigo **ataca la ballesta**, usa estos valores; a **0 PV** el arma queda **inutilizada** hasta reparación (no los operadores, salvo ataque en área). |
 | **Huida**      | **Chuth** (el dragón) **huye** tras **3 impactos** que superen su CA. (Opcional DM: 2 si grupo justo, 4 si alargar.) |
+
+**Análisis rápido:** Con **+6** y **3d10**, el disparo **no** supera en daño medio a **dos** ataques de un marcial nivel 11, y **acerta menos** que ellos contra CA 18; eso es **aceptable** en asedio (ocupa a dos tripulantes y fija al dragón), pero para la trama posterior se define una **versión mejorada** en [03 — Neronvain el Verde](./03_Mision_Neronvain_Verde.md) (*Ballesta antidragón — análisis y mejora Everlund*): **+10**, **4d10+4**, **CA 16 / 55 PV**, recarga con **1d10** (8+ = recarga rápida).
 
 Otros PJ desde tierra: hechizos, proyectiles, cañones (contra **Chuth** y contra el **guiverno**). La destrucción de Dwarfbridge + cañones haciendo bajas + 3 impactos de ballesta a Chuth = el Culto empieza a quebrar.
 
@@ -167,8 +184,8 @@ Interrogatorio/investigación: la ofensiva sobre Everlund forma parte de un plan
 **Chuth**, el dragón verde de Everlund, es **el mismo** que en la misión oficial **03 - Neronvain el Verde** ([5e.tools](https://5e.tools/adventure.html#rot,-1,neronvain,1)): actúa con **Neronvain** en **The High Forest** (el bosque a la derecha en la última parte del viaje Yartar → Everlund), atacando el asentamiento élfico **Altand**. La misión de Neronvain transcurre en un bosque brumoso; aquí se usa **The High Forest**, que mantiene la niebla.
 
 - **Altand y refugiados:** El **príncipe Alagarthas** (relación respetable con Dorn) defiende con sus agentes lo que queda de Altand. La presencia del dragón se hizo cada vez más evidente y peligrosa; envió a su pueblo a refugiarse en Everlund con salvoconducto. Los refugiados elfos (~100 de unos 300; murieron muchos adultos y niños) no han hablado del dragón hasta que lo ven en Everlund. **Galin**, el alcalde, sigue con Alagarthas en Altand.
-- **AN03 primero, luego Neronvain:** Al volver a Waterdeep el Consejo relaciona el dragón con informes de The High Forest (elfo príncipe + dragón) y asigna la misión 03. Ejemplo: *"Ese dragón coincide con lo que vivieron los refugiados de Altand: se le conoce como Chuth. Un elfo renegado y ese dragón verde atacan asentamientos élficos. Misión Neronvain el Verde."*
-- **Neronvain primero, luego AN03:** Los PJ pueden reconocer al dragón en Everlund; la defensa cobra más peso emocional.
+- **Everlund primero, luego Neronvain:** Al volver a Waterdeep el Consejo relaciona el dragón con informes de The High Forest (elfo príncipe + dragón) y asigna la misión 03. Ejemplo: *"Ese dragón coincide con lo que vivieron los refugiados de Altand: se le conoce como Chuth. Un elfo renegado y ese dragón verde atacan asentamientos élficos. Misión Neronvain el Verde."*
+- **Neronvain primero, luego Everlund:** Los PJ pueden reconocer al dragón en Everlund; la defensa cobra más peso emocional.
 
 **Pistas opcionales (comandante o cultistas):** "El verde", "el que manda al dragón", "The High Forest", "Altand", "un elfo que trabaja con el Culto".
 
@@ -214,12 +231,353 @@ Esta misión prepara: Culto Contraataca III, misiones futuras en el norte, apoyo
 
 ---
 
-## 🔗 **REFERENCIAS**
+## ⚔️ **Parte II — Ofensivas de la Fase II (menú adicional)**
 
-- [Sistema del Consejo de Guerra](../04_Guia_DM/05_Sistema_Consejo_Guerra.md)
-- [Estructura de Aventuras](./00_Estructura_Aventuras.md)
-- [AN14 Ruinas del Norte](./AN14_Mision_Ruinas_Norte.md) (alternativa mismo nodo)
+Además del guion de **Everlund** (Parte I), la Fase II del Culto puede activar **2–4 encuentros** entre el Segundo y Tercer Concilio. Aquí van el **concepto del libro**, la **variante genérica** de ciudad bajo dragón (solo si **no** usáis Everlund o queréis otra ciudad), y los encuentros **2–4** (complot, multi-frente, sabotaje).
+
+### **Cuándo usar qué**
+
+| **Situación en mesa** | **Qué usar** |
+|------------------------|--------------|
+| **Jugasteis la Parte I (Everlund)** | Tratad el asedio como **cubierto** para el trope «gran ciudad bajo dragón». **No** repitáis la variante genérica salvo que busquéis repetición a propósito. Activad **2–4** (y variantes) u otro encuentro inventado. |
+| **No vais a usar Everlund** | Podéis usar la **variante genérica** (dragón azul en otra ciudad) **o** adaptar nombres del guion de la Parte I. |
+| **Medidores** | Si la Parte I terminó en éxito narrativo, no dupliquéis el mismo bonus por el mismo tipo de victoria al activar la variante genérica. |
 
 ---
 
-*Resumen en una línea: Everlund bajo asedio; refugiados elfos de Altand (The High Forest, Alagarthas); escoltar caravana (cañones + ballesta) por Triboar/Yartar; aguantar un día (madrugada = volar Dwarfbridge; amanecer = elfos reconocen a Chuth, Dorn pregunta, ballesta 1 PJ+artífice, otros 2 PJ a raya, Chuth destruye efectivos/cañones, 3 impactos = Chuth huye); tras huida = asegurar sur; enemigo se mantiene, refuerzos por sur sorprenden y acaban con ellos; elfos cuentan Altand; horas después refuerzos por el sur, nota Delaan (Alagarthas en peligro, amo elfo); Chuth = mismo dragón que Neronvain (The High Forest).*
+## 🎯 **EVENTOS DEL CONSEJO QUE AFECTA (Parte II)**
+
+Esta parte puede activar o resolver, entre otros:
+
+- **No ayudar en el ataque de una ciudad aliada** (si ignoran o llegan tarde)
+- **Ciudad destruida por un dragón enemigo** (si fallan en defender)
+- **Fracasar en rescatar a un aliado** (si no protegen a miembros del Consejo)
+
+*(Los eventos de la Parte I siguen listados arriba en su sección.)*
+
+---
+
+## 📜 **CONCEPTO GENERAL (Fase II)**
+
+Después del Segundo Concilio, el Culto del Dragón lanza **ofensivas mayores** con:
+
+1. **Dragones adultos** o jóvenes como apoyo aéreo
+2. **Espías infiltrados** en ciudades aliadas
+3. **Ataques coordinados** en múltiples frentes simultáneos
+4. **Objetivos estratégicos** más importantes (ciudades, líderes, recursos)
+
+Estos ataques son **ofensivas militares** diseñadas para debilitar al Consejo, eliminar aliados, provocar caos y **forzar a los héroes a dividir fuerzas**.
+
+---
+
+## 🎭 **ESTRUCTURA (Parte II)**
+
+Escalada respecto a la Fase I: **mayor escala** (dragones reales), **objetivos más importantes**, **coordinación** en varios frentes, **consecuencias mayores** en medidores. El DM puede intercalar **2–4** encuentros de los siguientes entre sesiones.
+
+---
+
+## ⚔️ **ENCUENTROS ADICIONALES**
+
+### **1️⃣ Variante genérica — Ataque dracónico a una ciudad fortificada**
+
+**Estado en el sandbox:** **Redundante con la Parte I (Everlund)** si ya jugasteis ese asedio. En ese caso, **omitid** este bloque y usad solo **2–4**.
+
+**Gancho:**
+
+> Un mensajero herido llega al galope: "¡Dragón! Un dragón azul está atacando [Ciudad]. La guardia no puede detenerlo. Está destruyendo los barrios comerciales. ¡Necesitamos ayuda ahora!"
+
+**Localización:** Una ciudad fortificada aliada del Consejo (Neverwinter, Mirabar, o similar)
+
+**Situación:**
+
+- Un **Dragón Azul Adulto** (CR 16) o **Joven** (CR 9) está atacando la ciudad
+- Está acompañado por cultistas que aprovechan el caos
+- La guardia local está siendo superada
+- Civiles están atrapados en edificios en llamas
+
+**Composición del Encuentro:**
+
+- **1 Dragón Azul Joven** (CR 9) o **Adulto** (CR 16) - vuela sobre la ciudad
+- **8-12 Cultistas del Dragón** (CR 1/8 cada uno)
+- **4-6 Guardias Dragón** (CR 2 cada uno)
+- **2-3 Clérigos del Culto** (CR 3 cada uno)
+- **1 Wyrmspeaker Menor** (CR 5-7) coordinando el ataque
+
+**Desafíos Adicionales:**
+
+- **El dragón vuela:** Difícil de alcanzar sin vuelo o proyectiles mágicos
+- **Múltiples incendios:** Requieren acciones para apagar
+- **Civiles atrapados:** Rescate urgente necesario
+- **Cultistas saqueando:** Mientras el dragón distrae
+
+**Estrategias Posibles:**
+
+- **Enfrentar al dragón directamente:** Combate aéreo o desde el suelo
+- **Proteger a los civiles primero:** Rescatar antes de combatir
+- **Atacar a los cultistas:** Eliminar el apoyo terrestre primero
+- **Usar defensas de la ciudad:** Ballestas, magos locales, etc.
+
+**Objetivos:**
+
+- Repeler o expulsar al dragón
+- Salvar a los civiles
+- Eliminar o capturar al wyrmspeaker
+- Prevenir que la ciudad sea destruida
+
+**Consecuencias:**
+
+- **Éxito completo:** Consejo +2, Moral del Norte +1, Dragón expulsado
+- **Éxito parcial:** Consejo +1, pero la ciudad sufre daños significativos
+- **Fracaso:** Evento "Ciudad destruida por un dragón enemigo" → Consejo -2, Moral del Norte -2, Ritual +1
+
+---
+
+### **2️⃣ Infiltración y Asesinato de un Líder Aliado**
+
+**Gancho:**
+
+> Un espía de los Arpistas informa urgentemente: "Hemos descubierto un complot. El culto planea asesinar a [Líder del Consejo o aliado importante] esta noche. Tienen espías dentro de la guardia. Debemos actuar ahora."
+
+**Localización:** Una ciudad donde reside un líder aliado del Consejo
+
+**Situación:**
+
+- El culto ha infiltrado la guardia o el servicio del líder
+- Planean asesinarlo durante un evento público o en su residencia
+- Hay múltiples amenazas: asesinos, cultistas disfrazados, posiblemente un dragón
+
+**Composición del Encuentro:**
+
+- **2-4 Asesinos del Culto** (CR 3 cada uno)
+- **1 Asesino Maestro** (Rogue del Culto, CR 7)
+- **4-6 Cultistas disfrazados** (CR 1/8 cada uno) como guardias o sirvientes
+- **Opcional:** 1 **Dragón Verde Joven** (CR 8) si el grupo es muy fuerte
+
+**Desafíos:**
+
+- **Identificar a los infiltrados:** No todos los enemigos son obvios
+- **Proteger al líder:** Múltiples amenazas simultáneas
+- **Evitar el pánico:** Si es un evento público, mantener la calma es crucial
+- **Tiempo limitado:** El ataque está en curso o a punto de comenzar
+
+**Opciones de Resolución:**
+
+- **Preventivo:** Detener el complot antes de que comience
+- **Defensivo:** Proteger al líder durante el ataque
+- **Ofensivo:** Cazar a los asesinos antes de que ataquen
+
+**Objetivos:**
+
+- Prevenir el asesinato
+- Capturar o eliminar a los asesinos
+- Identificar a los infiltrados
+- Proteger al líder y su familia
+
+**Consecuencias:**
+
+- **Éxito completo:** Evento "Fracasar en rescatar a un aliado" PREVENIDO → Consejo +2, medidor del líder +2
+- **Éxito parcial:** El líder sobrevive pero resulta herido → Consejo +1
+- **Fracaso:** Evento "Fracasar en rescatar a un aliado" → Consejo -2, medidor del líder -2, Ritual +1
+
+---
+
+### **3️⃣ Ataque Coordinado a Múltiples Frentes**
+
+**Gancho:**
+
+> Múltiples mensajeros llegan simultáneamente: "¡Ataques en tres ciudades al mismo tiempo! El culto ha coordinado ofensivas en Neverwinter, Mirabar y Luskan. No podemos defenderlas todas. ¿A cuál vamos?"
+
+**Localización:** Tres ciudades simultáneamente (o dos, según el tamaño del grupo)
+
+**Situación:**
+
+- El culto lanza ataques coordinados en múltiples ciudades al mismo tiempo
+- Los héroes **NO pueden estar en todos lados**
+- Deben elegir qué ciudad defender
+- Las ciudades no defendidas sufrirán consecuencias
+
+**Composición de Cada Ataque:**
+
+- **Ciudad 1 (Neverwinter):** Dragón Azul Joven (CR 9) + 10 cultistas + 2 clérigos
+- **Ciudad 2 (Mirabar):** Wyrmspeaker (CR 7) + 8 cultistas + 1 dragón verde joven (CR 8)
+- **Ciudad 3 (Luskan):** Infiltración masiva + asesinato de líderes + 12 cultistas
+
+**Mecánica de Elección:**
+
+- Los PJs pueden elegir **1-2 ciudades** para defender (dependiendo de su número y recursos)
+- Las ciudades no defendidas sufrirán daños y pérdidas
+- Pueden dividirse el grupo si tienen suficientes miembros
+
+**Consecuencias por Ciudad:**
+
+- **Ciudad defendida exitosamente:** Consejo +1, Moral del Norte +1
+- **Ciudad no defendida:** Consejo -1, Moral del Norte -1
+- **Si defienden todas:** Consejo +3, Moral del Norte +2 (muy difícil)
+
+**Objetivos:**
+
+- Elegir estratégicamente qué defender
+- Maximizar el éxito en las ciudades elegidas
+- Minimizar las pérdidas en las ciudades no defendidas
+
+**Consecuencias Globales:**
+
+- **Éxito en todas:** Consejo +3, Moral del Norte +2
+- **Éxito parcial:** Consejo ±0 a +1 según resultados
+- **Fracaso en múltiples:** Evento "No ayudar en el ataque de una ciudad aliada" → Consejo -2, Moral del Norte -2
+
+---
+
+### **4️⃣ Sabotaje a Recursos Estratégicos**
+
+**Gancho:**
+
+> Un agente del Consejo informa: "El culto está atacando nuestras líneas de suministro. Han destruido almacenes de armas, interceptado mensajes y saboteado nuestras comunicaciones. Si no los detenemos, perderemos la capacidad de coordinar nuestras defensas."
+
+**Localización:** Múltiples ubicaciones (almacenes, puestos de mensajeros, casas seguras)
+
+**Situación:**
+
+- El culto está atacando la infraestructura del Consejo
+- Múltiples objetivos simultáneos
+- Algunos agentes del Consejo están siendo capturados o eliminados
+
+**Composición del Encuentro:**
+
+- **6-10 Cultistas del Dragón** (CR 1/8 cada uno)
+- **3-5 Asesinos del Culto** (CR 3 cada uno)
+- **2 Saboteadores Expertos** (Rogue del Culto, CR 4 cada uno)
+- **1 Líder de Sabotaje** (CR 6-7)
+- **Trampas:** Múltiples trampas en las instalaciones
+
+**Desafíos:**
+
+- **Múltiples ubicaciones:** Deben priorizar qué proteger
+- **Trampas:** Las instalaciones están minadas
+- **Agentes capturados:** Algunos pueden necesitar rescate
+- **Tiempo limitado:** Cada hora que pasa, más recursos se pierden
+
+**Objetivos:**
+
+- Detener el sabotaje
+- Rescatar a los agentes capturados
+- Recuperar información sobre futuros ataques
+- Prevenir que el culto descubra más ubicaciones secretas
+
+**Consecuencias:**
+
+- **Éxito:** Consejo +1, previene futuros sabotajes, recupera información
+- **Fracaso:** Consejo -1, el culto gana información sobre las defensas, futuros ataques serán más efectivos
+
+---
+
+## 🎯 **REGLAS PARA EL DM (Parte II)**
+
+### **Cuándo Activar Encuentros**
+
+1. **Después de completar otra misión:** Como consecuencia de sus acciones
+2. **Como noticias urgentes:** Múltiples mensajeros llegan simultáneamente
+3. **Como elección estratégica:** Presenta 2-3 opciones y deja que elijan
+4. **Como escalada:** Si ignoran un ataque, el siguiente es peor
+
+### **Escalada de Intensidad**
+
+- **Primer encuentro:** Moderado, establece la nueva escala
+- **Segundo encuentro:** Difícil, con dragones o wyrmspeakers
+- **Tercer encuentro:** Muy difícil, con múltiples frentes o dragones adultos
+- **Cuarto encuentro (opcional):** Clímax, con un dragón adulto o múltiples wyrmspeakers
+
+### **Crear Tensión Máxima**
+
+- **Múltiples frentes simultáneos:** Obliga a elegir
+- **Consecuencias reales:** Las ciudades no defendidas sufren
+- **Información limitada:** No siempre saben qué es más importante
+- **Tiempo crítico:** Algunos ataques tienen ventanas muy cortas
+
+---
+
+## 🧩 **INTEGRACIÓN CON LOS MEDIDORES (Parte II)**
+
+| **Medidor** | **Posible Cambio** |
+|------------|-------------------|
+| **Consejo de Aguasprofundas** | ±1 a ±3 según éxito o fracaso |
+| **Moral del Norte** | ±1 a ±2 según protección de ciudades |
+| **Culto del Dragón** | -1 a -2 si derrotan líderes / +1 a +2 si completan objetivos |
+| **Ritual de Tiamat** | +1 si fracasan en defender / -1 si previenen ataques importantes |
+
+### **Eventos Específicos:**
+
+- **Si no ayudan en un ataque:** Evento "No ayudar en el ataque de una ciudad aliada" → Consejo -2
+- **Si una ciudad es destruida:** Evento "Ciudad destruida por un dragón enemigo" → Consejo -2, Moral del Norte -2, Ritual +1
+- **Si rescatan a un aliado:** Evento "Fracasar en rescatar a un aliado" PREVENIDO → Consejo +2, medidor del líder +2
+- **Si fracasan en rescatar:** Evento "Fracasar en rescatar a un aliado" → Consejo -2, medidor del líder -2
+
+---
+
+## 🧠 **NOTAS DEL DM (Parte II)**
+
+### **Tono y Ambiente**
+
+Esta parte debe crear sensación de **desesperación**, **presión**, **escalada real** y **consecuencias significativas**.
+
+### **Elementos Narrativos**
+
+0. **Evitar repetición:** Si la **Parte I (Everlund)** ya ocupó la mesa con asedio, incendios y dragón, los momentos memorables de esta fase deberían venir de los encuentros **2–4**, no de otro clon de «murallas y aliento».
+
+1. **NPCs Recurrentes:** Líderes que pueden morir; guardias que confían; civiles que sufren.
+
+2. **Consecuencias a Largo Plazo:** Ciudades destruidas, líderes muertos, rutas rotas.
+
+3. **Conexión con Otras Misiones:** La Parte I enlaza con **03 - Neronvain el Verde** (Chuth). Estos encuentros preparan **Culto Contraataca III**; pistas hacia Torre de Xonthal o Dragones Metálicos.
+
+### **Ajustes de Dificultad**
+
+- **Grupo más débil:** Reduce CR o añade aliados NPC
+- **Grupo más fuerte:** Dragones adultos o múltiples wyrmspeakers
+- **Más combate:** Más encuentros directos
+- **Más estrategia:** Más elecciones con consecuencias
+
+### **Momentos Memorables**
+
+1. Primer ataque dracónico a escala (si usáis la variante genérica)
+2. La elección imposible entre ciudades
+3. El rescate del líder en el último momento
+4. Batalla aérea contra un dragón
+
+---
+
+## 💰 **RECOMPENSAS (Parte II)**
+
+### **Tesoro**
+
+- **De los cultistas:** 200-500 po por encuentro
+- **De los líderes:** 500-1500 po en gemas y objetos
+- **De los dragones:** Objetos mágicos menores o tesoros dracónicos
+
+### **Recompensas Políticas**
+
+- **Reputación:** El Consejo reconoce su valentía
+- **Información estratégica:** Puede prevenir el clímax
+- **Contactos:** Líderes que sobreviven se convierten en aliados
+
+### **Recompensas Narrativas**
+
+- **Pistas sobre el ritual**
+- **Conexiones** con otras misiones
+- **Desarrollo de personaje**
+
+---
+
+## 🔗 **REFERENCIAS**
+
+- **Sistema del Consejo:** [../04_Guia_DM/05_Sistema_Consejo_Guerra.md](../04_Guia_DM/05_Sistema_Consejo_Guerra.md)
+- **Estructura de Aventuras:** [00_Estructura_Aventuras.md](./00_Estructura_Aventuras.md)
+- **Fase I:** [04A_Mision_Culto_Contraataca_I_Emboscadas.md](./04A_Mision_Culto_Contraataca_I_Emboscadas.md)
+- **Fase III:** [04C_Mision_Culto_Contraataca_III_Desesperacion.md](./04C_Mision_Culto_Contraataca_III_Desesperacion.md)
+- **Tabla de misiones:** [../06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md](../06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md)
+- **Nodo 1 (alternativa):** [AN14 Ruinas del Norte](./AN14_Mision_Ruinas_Norte.md)
+- **Neronvain / Chuth:** [03_Mision_Neronvain_Verde.md](./03_Mision_Neronvain_Verde.md)
+
+---
+
+*Parte I — Everlund:* asedio, refugiados de Altand, caravana (cañones + ballesta), puentes, Chuth y nota de Delaan; mismo dragón que Neronvain. *Parte II:* menú de ofensivas Fase II; si Everlund ya se jugó, priorizar complot, multi-frente y sabotaje.*

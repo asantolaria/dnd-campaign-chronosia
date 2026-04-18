@@ -500,7 +500,7 @@ Esta misión se conecta con:
 ## 🔗 **REFERENCIAS**
 
 - **Misión relacionada:** [04A - El Culto Contraataca I](./04A_Mision_Culto_Contraataca_I_Emboscadas.md) - Muestra la expansión del Culto
-- **Misión relacionada:** [04B - El Culto Contraataca II](./04B_Mision_Culto_Contraataca_II_Ofensiva.md) - Escalada de la expansión
+- **Misión relacionada:** [04B - El Culto Contraataca II: Fuego en el Norte](./04B_Culto_Contraataca_II_Fuego_Norte.md) - Escalada de la expansión
 - **Sistema del Consejo:** [Sistema del Consejo de Guerra](../04_Guia_DM/05_Sistema_Consejo_Guerra.md) - Eventos y medidores
 - **Tabla de Misiones:** [Tabla de Misiones del Consejo](../06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md) - Estado de misiones
 - **Apéndice A:** Consultar la campaña original (PDF o 5e.tools) para estadísticas completas de cultistas y dragones

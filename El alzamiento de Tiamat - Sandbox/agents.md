@@ -37,7 +37,8 @@ El alzamiento de Tiamat - Sandbox/
 │   ├── 01_Episodio_1_Consejo_Aguas_Profundas.md
 │   ├── 04A-04C_Mision_Culto_Contraataca_*.md
 │   ├── AO01-AO06_Mision_*.md  # Misiones adicionales oficiales
-│   └── AN03-AN14_Mision_*.md  # Misiones adicionales no oficiales
+│   ├── 04B_Culto_Contraataca_II_Fuego_Norte.md  # 04B unificado (Everlund + Fase II)
+│   └── AN04-AN14_Mision_*.md  # Misiones adicionales no oficiales
 └── 06_Recursos/                        # Tablas y recursos
     └── Tablas/
         ├── 00_Indice_Tablas.md
@@ -55,7 +56,7 @@ El alzamiento de Tiamat - Sandbox/
 - **Episodios:** `01_Episodio_X_[Titulo].md`
 - **Misiones Oficiales:** `04X_Mision_[Nombre].md` (04A, 04B, 04C)
 - **Misiones Adicionales Oficiales:** `AOXX_Mision_[Nombre].md` (AO01-AO06)
-- **Misiones Adicionales No Oficiales:** `ANXX_Mision_[Nombre].md` (AN03-AN14)
+- **Misiones Adicionales No Oficiales:** `ANXX_Mision_[Nombre].md` (AN04-AN14)
 - **Documentos del DM:** `XX_[Nombre_Descriptivo].md`
 - **Tablas:** `XX_Tabla_[Nombre].md`
 
@@ -126,7 +127,7 @@ El alzamiento de Tiamat - Sandbox/
 #### **Tipos de Misiones:**
 - **Oficiales:** Misiones principales de la campaña original (consultar PDF o 5e.tools)
 - **Adicionales Oficiales (AO01-AO06):** Misiones secundarias de la original (consultar PDF o 5e.tools)
-- **Adicionales No Oficiales (AN03-AN14):** Misiones nuevas desarrolladas en esta versión
+- **Adicionales No Oficiales (AN04-AN14):** Misiones nuevas desarrolladas en esta versión
 
 #### **Al Trabajar con Misiones:**
 - **Misiones oficiales** siempre están disponibles cuando corresponda
@@ -155,7 +156,7 @@ El alzamiento de Tiamat - Sandbox/
 
 #### **Nodos de Decisión:**
 Las misiones adicionales están organizadas en nodos donde elegir una bloquea otras:
-- **Nodo 1:** Defensa del Norte (AN03, AN14)
+- **Nodo 1:** Defensa del Norte (Everlund / Parte I de 04B vs AN14)
 - **Nodo 2:** Diplomacia (AN10, AN11)
 - **Nodo 3:** Alianza Dracónica (AN05, AN12, AN06)
 - **Nodo 4:** Inteligencia (AN04, AN07)
@@ -164,7 +165,7 @@ Las misiones adicionales están organizadas en nodos donde elegir una bloquea ot
 #### **Al Trabajar con Ramificaciones:**
 - **Misiones oficiales** nunca se bloquean
 - **Misiones adicionales oficiales (AO01-AO06)** nunca se bloquean
-- **Misiones adicionales no oficiales (AN03-AN14)** pueden bloquearse dentro de su nodo
+- **Misiones adicionales no oficiales (AN04-AN14)** pueden bloquearse dentro de su nodo
 - **Actualizar tabla de misiones** cuando se bloqueen misiones
 
 ---
@@ -179,7 +180,7 @@ Las misiones adicionales están organizadas en nodos donde elegir una bloquea ot
 #### **Al Referenciar la Original:**
 - **Misiones oficiales** deben indicar que se consultan en PDF/5e.tools
 - **NO desarrollar** misiones oficiales que ya existen en la original
-- **SÍ desarrollar** misiones adicionales nuevas (AN03-AN14)
+- **SÍ desarrollar** misiones adicionales nuevas (AN04-AN14)
 - **Mantener coherencia** con la narrativa de la original
 
 ---
@@ -240,7 +241,7 @@ Las misiones adicionales están organizadas en nodos donde elegir una bloquea ot
 - ✅ **SÍ usar las tablas centralizadas** para tracking
 - ✅ **SÍ mantener coherencia** entre sistemas
 - ✅ **SÍ añadir enlaces** a misiones desarrolladas en las tablas
-- ✅ **SÍ usar códigos de misión** en nombres de archivos (04A, AO01, AN03, etc.)
+- ✅ **SÍ usar códigos de misión** en nombres de archivos (04A, AO01, AN04, etc.)
 
 ---
 
@@ -311,10 +312,10 @@ Las misiones adicionales están organizadas en nodos donde elegir una bloquea ot
 ### **Misiones Desarrolladas:**
 - **Episodio 1:** `05_Aventuras/01_Episodio_1_Consejo_Aguas_Profundas.md`
 - **Culto Contraataca I:** `05_Aventuras/04A_Mision_Culto_Contraataca_I_Emboscadas.md`
-- **Culto Contraataca II:** `05_Aventuras/04B_Mision_Culto_Contraataca_II_Ofensiva.md`
+- **Culto Contraataca II:** `05_Aventuras/04B_Culto_Contraataca_II_Fuego_Norte.md`
 - **Culto Contraataca III:** `05_Aventuras/04C_Mision_Culto_Contraataca_III_Desesperacion.md`
 - **Misiones Adicionales Oficiales:** `05_Aventuras/AO01_Mision_*.md` a `AO06_Mision_*.md`
-- **Misiones Adicionales No Oficiales:** `05_Aventuras/AN03_Mision_*.md` a `AN14_Mision_*.md`
+- **Misiones Adicionales No Oficiales:** `05_Aventuras/AN04_Mision_*.md` a `AN14_Mision_*.md`
 
 ---
 
@@ -340,7 +341,7 @@ Las misiones adicionales están organizadas en nodos donde elegir una bloquea ot
 ### **Códigos de Misiones:**
 - **Oficiales:** 01, 02, 03, 04A, 04B, 04C, 05, 06, 07, 08
 - **Adicionales Oficiales:** AO01, AO02, AO03, AO04, AO05, AO06
-- **Adicionales No Oficiales:** AN03, AN04, AN05, AN06, AN07, AN08, AN09, AN10, AN11, AN12, AN13, AN14
+- **Adicionales No Oficiales:** AN04, AN05, AN06, AN07, AN08, AN09, AN10, AN11, AN12, AN13, AN14 *(el arco «Fuego en el Norte / Everlund» vive dentro de **04B**)* 
 
 ---
 

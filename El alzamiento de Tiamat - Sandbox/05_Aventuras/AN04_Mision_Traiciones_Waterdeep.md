@@ -17,7 +17,13 @@
 | **Nivel Recomendado** | 11 |
 | **Duración** | 1–2 sesiones |
 | **Localización** | Waterdeep |
-| **Conexión Temporal** | Entre el 3º y 4º Consejo |
+| **Conexión Temporal** | Entre el 3º y 4º Consejo (el gancho puede **sembrarse** antes: ver abajo) |
+
+---
+
+## 🔗 **Semilla desde el juicio de Melandrach (AN10)**
+
+Si ya jugasteis [AN10 — Juicio y Segundo Concilio](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md), el documento incluye la sección **«Sospecha de infiltrados»** (Parte I) y semillas en la **Parte II**: pruebas de Neronvain, palabras de **Laeral** o **Remallia**, o una pulla del acusado que apuntan a **filtraciones desde Waterdeep**. Los jugadores pueden llegar al **3er Concilio** ya **predispuestos** a esta misión; el descubrimiento formal de la filtración y la investigación en la ciudad siguen siendo el corazón de A04.
 
 ---
 
@@ -31,7 +37,9 @@ Esta misión puede activar o resolver los siguientes eventos:
 
 ## 📜 **GANCHO INICIAL**
 
-Durante el Tercer Concilio o poco después, se descubre que información confidencial está siendo filtrada al Culto:
+**Variante anticipada:** Si en **AN10** ya quedó claro que **Aguasprofundas** podría albergar al confidente del Culto, el Tercer Concilio puede abrir con *“lo que temíamos desde el juicio se confirma”* en lugar de sorprender de cero.
+
+Durante el Tercer Concilio o poco después, se descubre (o se **confirma** del todo) que información confidencial está siendo filtrada al Culto:
 
 > "Alguien en Waterdeep está pasando información al Culto. Los planes del Consejo se conocen antes de ejecutarse. Los movimientos de nuestras tropas son anticipados. Si no encontramos al traidor pronto, todo puede colapsar."
 

@@ -665,7 +665,7 @@ Tras el informe, el Consejo de Guerra presenta las nuevas amenazas y oportunidad
 
 ### **Misiones Adicionales - Nodo 1: Defensa del Norte**
 
-3. **A03 - Fuego en el Norte** (Nivel 10-11)
+3. **04B - Fuego en el Norte** (Parte I Everlund; Nivel 10-11)
    - **Ubicación:** Tras Neronvain o entre 2º y 3º Consejo
    - **Situación:** El culto ataca asentamientos del norte en represalia por la derrota de Arauthator
    - **Detalles:** Debes decidir entre proteger civiles o atacar líderes del culto
@@ -674,19 +674,19 @@ Tras el informe, el Consejo de Guerra presenta las nuevas amenazas y oportunidad
 
 ### **Misiones Adicionales - Nodo 2: Diplomacia** *(Elegir UNA)*
 
-5. **A10 - El Juicio de Melandrach** (Nivel 11-12)
-   - **Ubicación:** Después de Neronvain / antes del 3º Consejo
-   - **Situación:** Evitar una guerra civil élfica juzgando a Neronvain
-   - **Detalles:** Decidir el destino del hijo traidor del rey élfico
+5. **AN10 — Juicio de Melandrach y Concilio de Aguas Profundas** (Nivel 11-12)
+   - **Ubicación:** Tras **03** (Neronvain vivo); **Waterdeep** — Parte I juicio + Parte II **Segundo Concilio**
+   - **Situación:** Juicio élfico + pleno de alianza; ganchos hacia AN11
+   - **Detalles:** **Rian** (Neverember); **Jamna** (inicio de intriga); ver [AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)
    - **Impacto:** Rey Melandrach +2, Consejo +1
-   - **Bloquea:** A11
+   - **Bloquea:** AN11
 
-6. **A11 - Sombras en el Consejo** (Nivel 11-12)
+6. **AN11 - Sombras en el Consejo** (Nivel 11-12)
    - **Ubicación:** Entre el 2º y 3º Consejo
    - **Situación:** Un agente Zhentarim ofrece información a cambio de favores
    - **Detalles:** Decidir si aceptar ayuda de fuentes cuestionables
    - **Impacto:** Consejo +1, Zhentarim +1
-   - **Bloquea:** A10
+   - **Bloquea:** AN10
 
 ### **El Ambiente del Consejo de Guerra**
 
