@@ -385,13 +385,13 @@ Si los PJ **registran** la cámara secundaria o los aposentos del wyrmspeaker (a
 
 **Referencia base (asedio de Everlund):** ver [04B — Fuego en el Norte](./04B_Culto_Contraataca_II_Fuego_Norte.md) (*Mecánica — Ballesta gigante antidragón*).
 
-| **Criterio** | **Versión base (asedio)** | **Notas** |
-|--------------|---------------------------|-----------|
-| **Bonificador al ataque** | +6 (o el del PJ que dispare) | A CA 18 (Chuth), ~35 % de acierto con +6; un marcial nivel 11 suele atacar entre **+9 y +12**, así que la ballesta **falla más** que el grupo si no se mejora. |
-| **Daño por disparo** | 3d10 perforante (media ~16,5) | Un PJ11 con **dos ataques** hace a menudo **más daño por ronda** que un solo disparo (p. ej. 2 × (1d8+5) ≈ 19 de media). El disparo **sí** compensa frente a **un** golpe débil, pero **no** se siente “arma de asedio” frente a un turno completo de héroe optimizado. |
-| **CA / PV** | **CA 15**, **50 PV** | Para cuando **Chuth** (u otro) ataque el arma: ver [04B](./04B_Culto_Contraataca_II_Fuego_Norte.md). A **0 PV**, inutilizada hasta reparar. |
-| **Recarga** | 1 ronda tras cada tiro (dos operadores) | Correcto para ritmo, pero en combate largo penaliza frente a arqueros que disparan cada turno. |
-| **Alcance** | 120/480 ft | Suficiente; la mejora puede ganar unos pies de estabilidad, no solo números. |
+| **Criterio**              | **Versión base (asedio)**               | **Notas**                                                                                                                                                                                                                                                               |
+| ------------------------- | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bonificador al ataque** | +6 (o el del PJ que dispare)            | A CA 18 (Chuth), ~35 % de acierto con +6; un marcial nivel 11 suele atacar entre **+9 y +12**, así que la ballesta **falla más** que el grupo si no se mejora.                                                                                                          |
+| **Daño por disparo**      | 3d10 perforante (media ~16,5)           | Un PJ11 con **dos ataques** hace a menudo **más daño por ronda** que un solo disparo (p. ej. 2 × (1d8+5) ≈ 19 de media). El disparo **sí** compensa frente a **un** golpe débil, pero **no** se siente “arma de asedio” frente a un turno completo de héroe optimizado. |
+| **CA / PV**               | **CA 15**, **50 PV**                    | Para cuando **Chuth** (u otro) ataque el arma: ver [04B](./04B_Culto_Contraataca_II_Fuego_Norte.md). A **0 PV**, inutilizada hasta reparar.                                                                                                                             |
+| **Recarga**               | 1 ronda tras cada tiro (dos operadores) | Correcto para ritmo, pero en combate largo penaliza frente a arqueros que disparan cada turno.                                                                                                                                                                          |
+| **Alcance**               | 120/480 ft                              | Suficiente; la mejora puede ganar unos pies de estabilidad, no solo números.                                                                                                                                                                                            |
 
 **Versión mejorada (Everlund → envío a Altand):** Tras el asedio, los artífices ajustan **miras**, **carril** del virote y **poleas**; cada equipo sigue siendo **1 artífice + 1 PJ** (o dos artífices NPC).
 
