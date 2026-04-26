@@ -1,0 +1,41 @@
+# Relato en tercera persona del AN10 — Parte II: Segundo Concilio (según 05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md).
+# Pleno posterior al veredicto: informe, Neverember y Rian, tensión del Muelle, cierre con inventario e informe de guerra hacia «Sombras en el Consejo».
+# Generar: python render_conversation.py examples/narracion_02_segundo_concilio_misiones.yaml -o output/narracion_02_concilio.mp3 --pause-ms 400
+
+title: "AN10 — Parte II: Segundo Concilio de Aguasprofundas"
+
+characters:
+  narradora:
+    name: Narradora
+    voice: es-ES-XimenaNeural
+    rate: "-1%"
+    pitch: "+0Hz"
+    volume: "+0%"
+
+lines:
+  - speaker: narradora
+    text: "Tras el veredicto, el pleno vuelve a la misma cámara del Consejo. El aire sigue denso, tinta, cuero, mapas enrollados, sellos y prisa de escribas. No es un banquete: es guerra e inteligencia. Los héroes, según el prestigio de mesa, ocupan sitial de honor o puesto junto a Lady Laeral, con el olor a hierro aún reciente del juicio."
+
+  - speaker: narradora
+    text: "Leosin, bajo, advierte a quien le escuche que el día trata de si la alianza aguanta el frente del bosque y de miradas hacia Neverwinter y el Muelle. Luego toma la palabra Laeral: el juicio y la Corona del bosque ya hablaron; ahora pide cifras, no discursos, sobre bajas y retrasos, y por qué el enemigo adelanta a los propios informes. Golpea mesa: el trato con el traidor cerró una herida, pero queda abrir la otra, la de las filtraciones, el porqué y el cuándo de las derrotas oportunas."
+
+  - speaker: narradora
+    text: "Una voz, Ulder, Taern o un mensajero de Cormyr, cita un golpe a puerto o convoy el mismo día en que se selló en pleno una ruta que no constaba en bando público, y lo llama puntería, no mala suerte. Otra, Delaan, Connerad o Remallia, enlaza con Everlund y el Alto Bosque, el peor momento del asedio, Chuth y la columna, alineada con debates que aún no bajaron al capitán, como si la sala se oyera antes que el puesto bajo. Ontharr, o a veces Connerad, espetan que o siempre se llega tarde o el golpe cae donde peor pega, y niegan a la suerte en tres costas."
+
+  - speaker: narradora
+    text: "Laeral corta el nombre fácil. Sin pruebas, cazar brujas en la mesa alimenta al Culto. Manda auditar mensajeros, duplicar actas, y no soltar nombres hasta papeles. Remallia recuerda que los Arpistas cruzaron fechas antes del juicio: Neronvain no abrió el hoyo, lo confirmó; hace falta a alguien con acceso a lo que esta cámara sabe. Sir Isteval pide, por Cormyr, demostrar filtración, no con miradas. Leosin, otra vez breve, fija el Culto: compra, roba o recibe; falta atar el canal."
+
+  - speaker: narradora
+    text: "Dagult Neverember interrumpe con la carta dura. Presenta a Rian Nightshade como asesora en la que confía, quien sostuvo suministro e información cuando otros hablaron. Exige, si hay duda, preguntar de frente, no a susurro de taberna. Rian responde con voz de mercado: asesora, no preside el Consejo; no vende actas de la mesa, y la Red vende lo que muchos tapan."
+
+  - speaker: narradora
+    text: "Una pulla, casi de Ontharr, mezcla el Muelle, el oro, los huecos en el cordón y a la tiefling, sin acusar de filtrar aún, pero poniendo en la sala un olor a problema. Rian lo niega, ofrece libros en Neverwinter bajo auditoría conjunta, y tacha de regalo al Culto acusar a la zhent a la ligera. Neverember exige prueba. Laeral manda a callar, y archivar nombres para cuando haya soportes. Cierra luego con acento de despacho: máscara del verde, resto de evidencia del acto, inventario sellado en el castillo; el siguiente tramo, según se despache a mesa y heraldo."
+
+  - speaker: narradora
+    text: "Lady Laeral se dirige aparte a quienes capturaron a Neronvain y a quienes testificaron. Les dice, en esencia, que la alianza no tacha sus hechos ni su palabra en el bosque ni bajo el ritual, que pagaron con sangre, pero pide ahora ojos allí donde el mapa no basta, para atrapar a quien pasa a la cámara o deja al enemigo leer, antes de que vuelva a arder un puerto. Remallia o Leosin asienten, en tono bajo, a pedir pistas con hechos en mano, no cuerpos en vano. Un heraldo, Taern a veces, o canciller, despliega el repaso: informe de guerra actualizado, misiones abiertas para quien el poder autorice."
+
+  - speaker: narradora
+    text: "El compendio, en voz de despacho, repasa frentes y convoyes, apoyo a Everlund o al Alto Bosque, y lo que el mapa tenga aún a medias, patrullas, u operaciones de culto al norte, según el legajo. Un capítulo, si el poder lo abre, fija indagaciones en la propia ciudad sobre filtraciones y hechos con olor a Culto, al estilo de las traiciones urbanas. El bloque con más peso, a veces con el dedo de la regenta en el pergamino, recae en Sombras en el Consejo, prioridad inmediata, robos en el castillo, pistas a muelle y a Cormyr, y a quien vende o suelta el secreto de alianza, a menudo con doble raya o sello rojo frente a tareas de rutina."
+
+  - speaker: narradora
+    text: "Laeral avisa, en la misma tarde, que el detalle operativo de Sombras bajará por cauce privado al alba, o al llamar cancillería, no a rumor de fonda. Eso enlaza, fuera de este tramo, con lo que el palacio aún reserva, custodias, y el día siguiente, cuando la intriga cierre el círculo sobre papeles y cuchillos, según toque a mesa."

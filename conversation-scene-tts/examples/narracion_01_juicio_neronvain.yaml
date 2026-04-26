@@ -1,0 +1,34 @@
+# AN10 — Parte I. Juicio de Neronvain en la misma cámara del Consejo (Aguasprofundas).
+# Cierre por defecto en esta campaña: daga de Sir Isteval y suicidio ritual (no cadalso).
+# Variante cárcel: regrabar el bloque de veredicto y cierre conmutando a prisión.
+# Voz: es-ES-AlvaroNeural. Alternativa: es-ES-ElviraNeural, rate -2%, pitch -1Hz.
+# Generar: python render_conversation.py examples/narracion_01_juicio_neronvain.yaml -o output/narracion_01_juicio.mp3 --pause-ms 420
+
+title: "AN10 — Parte I: el juicio de Neronvain en Aguasprofundas"
+
+characters:
+  narradora:
+    name: Narradora
+    voice: es-ES-AlvaroNeural
+    rate: "-2%"
+    pitch: "-1Hz"
+    volume: "+0%"
+
+lines:
+  - speaker: narradora
+    text: "De vuelta desde el Alto Bosque, el grupo entrega la Máscara del Dragón Verde, los papeles y, si las hubo, las cartas tomadas en los aposentos. Esa prueba, incorporada al acta, liga a Neronvain al Culto del Dragón, a la cadena de Severin, a la servidumbre bajo el wyrm Chuth, y a filtrar información o rutas hacia el enemigo cuando la alianza más costaba su sangre."
+
+  - speaker: narradora
+    text: "Tras un acuerdo con Lady Laeral, el rey Melandrach exige ley de los suyos, pero el juicio no se celebra en el aislado trono de su corte del Bosque: el tribunal se abre bajo el mismo techo de la coalición, en la cámara donde ya se juraron frentes, para que quienes capturaron al traidor y quienes le pagaron con muerte o pánico atestigüen el ritual, sin desplazar ejércitos al Bosque Brumoso."
+
+  - speaker: narradora
+    text: "La sala repite estandartes de alianza, asientos para delegados del Consejo de Guerra y sitio para facciones élficas. Neronvain, encadenado y custodiado, ocupa el centro: el aire es silencioso y tenso, de cuero, sello, hierro y paciencia dura. Melandrach preside, no hace de espectador, y pesa la voz baja de quien es rey, juez y padre a la vez. Los héroes, por haberlo puesto bajo cadenas, suelen recibir un sitial de honor entre miradas agradecidas y fijas."
+
+  - speaker: narradora
+    text: "Siguen fases de acusación en clave de tradición, luego intervenciones breves: Laeral, Frume, Remallia, Ulder, Connerad, Delaan: miden con palabras el daño a la guerra común, sin sustituir la ley de los élficos del Bosque, solo la rozan con testigos. Declara luego Neronvain, en el tono frío o quebradizo que toque, y ceden la palabra testigos, entre ellos quienes cazaron a Chuth bajo cielo de cúpula y quien sostuvo cadenas bajo rituales. Deliberan los códigos; los extranjeros, salvo rituales de mesa, no sueltan voto, pero toda la mesa siente hacia dónde empuja el peso."
+
+  - speaker: narradora
+    text: "Casi toda la mesa empuja a la pena de muerte: a la alianza le basta cierre, señal, pago con sangre. El rey, sin embargo, es el último en adherirse a quien pide cuchillo, y bajo ley de los suyos el veredicto razonable solo se bifurca: muerte o prisión, nunca exilio. Si la sala no presiona, no comuta ni negocia, y Melandrach no aplica clemencia real, la suerte por defecto es la cuchilla, no un cadalso público."
+
+  - speaker: narradora
+    text: "Neronvain, condenado a la muerte y admitido al ritual, pide que acabe con su propia mano, como corresponde al agravio en esta mesa. Sir Isteval le presta su daga, limpia, sin pompa. El cierre es breve, terrible y privado en el aire viciado: la hoja pasa a manos de ley como evidencia, y deja a la alianza con un vacío sordo hasta el pleno, cuando la cámara vuelva a llenarse de cifras, muelles, filtraciones, y pistas que no se cerraron con un solo acuerdo o acero."
