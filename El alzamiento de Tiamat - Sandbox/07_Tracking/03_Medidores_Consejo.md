@@ -52,16 +52,18 @@
 | Evento | Condición | Modificadores (al aplicar) |
 |--------|-----------|----------------------------|
 | **Salvar una caravana del norte** | Si **04B** Parte I (*Fuego en el Norte*) tiene éxito (caravana llegada a Everlund) | Ord +1, Uld +1, Moral +1 |
+| **Matar a Chuth o expulsarlo de su guarida** | Chuth resuelto en el **exterior** de la guarida o muerto / expulsado (Día 84) — *informe en el próximo Concilio* | Arp +1, Ord +1, Encl +1, Laer +1, Dag +1, Conn +2, Mel +2, Uld +1, Taer +1, Ist +1 (ver [tabla completa](../06_Recursos/Tablas/01_Tabla_Puntuacion_Consejo.md)) |
+| **Capturar a Neronvain** | Neronvain **llevado vivo** hacia el Consejo / justicia (Día 85, prisionero) — *al informar* | Arp +1, Ord +1, Laer +1, Dag +1, Conn +1, **Mel +1**, Uld +1, Taer +1, Ist +1; Encl −1 (ver [03](../05_Aventuras/03_Mision_Neronvain_Verde.md)) |
 
 ---
 
 ## 📋 **RESUMEN RÁPIDO**
 
-- **Día / situación:** Día 83. Segundo Concilio celebrado (Día 73). **Everlund defendida** (dragón verde Chuth huido, Día 82). En ruta a **Altand** (The High Forest) tras ser informados de los ataques allí.
+- **Día / situación:** Día 85. **Guarida Neronvain:** **Chuth** resuelto al **exterior** (Día 84, sesión previa); **Neronvain** **prisionero**; pendiente concluir **registro** de la cueva y, más adelante, **informe en 3.er Concilio**.
 - **Eventos del 2º Concilio ya aplicados:** Matar a Arauthator o expulsarlo; La Hermandad Arcana se une (Maccath como emisaria).
 - **Facciones que alcanzan el mínimo (tras 2º Concilio):** Enclave Esmeralda (6 ≥ 5) ✅, Dagult Neverember (5 ≥ 5) ✅, Sir Isteval (7 ≥ 6) ✅. El resto aún por debajo.
-- **A03 Everlund:** Caravana llegada a Everlund; defensa completada (dragón huyó). Evento "Salvar una caravana del norte" pendiente de aplicar en próximo concilio → Ord +1, Uld +1, Moral +1.
-- **Próxima actualización:** Tras resolución en Altand y/o próximo concilio (aplicar "Salvar una caravana del norte" por Everlund).
+- **Pendiente 3.er Concilio (o cuando informen en Waterdeep):** (1) **Salvar una caravana del norte** (Everlund) — Ord +1, Uld +1, Moral +1. (2) **Matar a Chuth o expulsarlo** — Día 84, combate **exterior**; aplicar al informar. (3) **Capturar a Neronvain** — Día 85, prisionero; aplicar al informar. Valores de la **tabla** aún no sumados al documento.
+- **Próxima actualización:** Tras cierre de registro en guarida y, cuando apliquéis los eventos, actualizar filas *Valor actual* de la tabla superior con los sumandos oficiales.
 
 ---
 

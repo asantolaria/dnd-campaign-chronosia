@@ -3,7 +3,7 @@
 
 ---
 
-> **📖 ESTADO ACTUAL:** Día 83 - Misión Nodo 1 (**04B** Parte I — *Fuego en el Norte* / Everlund). Everlund defendida (dragón verde huido). En ruta a Altand tras ser informados de los ataques allí.
+> **📖 ESTADO ACTUAL:** Día 85 - **03 / Altand (The High Forest).** Llegada a la guarida, **Chuth** resuelto en combate al **exterior** (sesión previa). En la **cueva**: **Neronvain** prisionero; el grupo **va a acabar de registrar** la caverna (aposentos, papeles).
 
 ---
 
@@ -74,7 +74,9 @@
 | **80** | Misión Nodo 1: Llegada a Yartar (caravana a la espera de la escolta)                                                      | Nivel 10                    |                   |
 | **81** | Escolta Yartar → Everlund. Llegada a Everlund (Bridge Gate). Preparativos defensa (cañones, ballesta antidragón)         | Nivel 10                    |                   |
 | **82** | Everlund: madrugada — voladura de puente; amanecer — ataque del dragón verde (Chuth). Combate; **dragón huye**. Información sobre ataques en Altand. Partida hacia Altand | Nivel 10                    |                   |
-| **83** | En ruta a Altand (The High Forest)                                                                                         | Nivel 10                    | **🔄 ACTUAL**     |
+| **83** | En ruta a Altand (The High Forest)                                                                                         | Nivel 10                    |                   |
+| **84** | **Altand / guarida (hongos).** Llegada; **combate con el dragón verde (Chuth) en el exterior** de la cueva; amenaza inmediata resuelta                        | Nivel 10                    |                   |
+| **85** | **Cueva (guarida de Neronvain).** Entrada; **Neronvain** vencido y **prisionero**. **En curso:** terminar el registro de la guarida (cámara secundaria, aposentos, papeles) | Nivel 10                    | **🔄 ACTUAL**     |
 
 ---
 
@@ -86,8 +88,8 @@
 - **Día 80 (Completado):** ✅ Llegada a Yartar — caravana de suministros
 - **Día 81 (Completado):** ✅ Escolta hasta Everlund; llegada y preparativos defensa
 - **Día 82 (Completado):** ✅ Everlund — ataque dragón verde (Chuth); combate, dragón huye; informados de ataques en Altand; partida hacia Altand
-- **Día 83 (Actual):** ✅ En ruta a Altand
-- **Día 84+:** Llegada a Altand; defensa/situación con Alagarthas y el dragón (Neronvain)
+- **Día 84 (Completado):** ✅ Altand / guarida: combate con **Chuth** en el **exterior** (sesión previa)
+- **Día 85 (Actual):** Cueva: **Neronvain** prisionero; en curso **registro** de la caverna. **Próximo:** cierre con **Alagarthas** / tránsito a Waterdeep; al informar, eventos *Capturar a Neronvain* y *Matar a Chuth o expulsarlo*; **[AN10](../05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)**
 
 ---
 
@@ -99,14 +101,13 @@
   - Subida a nivel 9
 
 ### **Misiones en Curso:**
-- 🔄 **Misión 04B Parte I — Fuego en el Norte** (Nodo 1 - Defensa del Norte) — Día 83
-  - ✅ Viaje hasta Yartar (tras Segundo Concilio)
-  - ✅ Llegada a Yartar (caravana de suministros a la espera de la escolta)
-  - ✅ Escolta hasta Everlund; llegada y preparativos (cañones, ballesta antidragón)
-  - ✅ Everlund: madrugada voladura de puente; amanecer ataque del **dragón verde (Chuth)** — combate, **dragón huye**
-  - ✅ Informados de los ataques en **Altand**; partida hacia Altand (The High Forest)
-  - **Próximo:** Llegada a Altand (Alagarthas, situación con el dragón/Neronvain)
-  - **Ballesta antidragón — mejora documentada** (post-Everlund): ver [03 — Neronvain](../05_Aventuras/03_Mision_Neronvain_Verde.md): **+10**, **4d10+4**, **CA 16 / 55 PV** (base asedio **CA 15 / 50 PV**), recarga **1d10** (8+ = recarga rápida)
+- 🔄 **Misión 04B (tramo) + Misión 03 — Neronvain el Verde** (Nodo 1 / The High Forest) — Día 85
+  - ✅ **04B** previo: Viaje Yartar → Everlund → defensa, Chuth huye; informe Altand; ruta
+  - ✅ Llegada a **Altand**; contacto con **Alagarthas**; localización de la guarida (zona hongos)
+  - ✅ **Exterior de la guarida** (Día 84, sesión previa): **Chuth** neutralizado (combate o expulsión / muerte según mesa)
+  - 🔄 **Interior cueva (Día 85, sesión actual):** **Neronvain** vencido, **con vida, prisionero**; **pendiente:** concluir **registro** de la guarida (ver [03 — Aposentos de Neronvain](../05_Aventuras/03_Mision_Neronvain_Verde.md))
+  - **Próximo:** Salida con prisionero y evidencias; **Máscara** y documentos; vuelta a Alagarthas / rumbo a Waterdeep; aplicar en **3.er Concilio** (eventos *Capturar a Neronvain* / *Matar a Chuth o expulsarlo*) y enlace **[AN10](../05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)**
+  - **Ballesta antidragón — mejora (Everlund):** [03 — Neronvain](../05_Aventuras/03_Mision_Neronvain_Verde.md): **+10**, **4d10+4**, **CA 16 / 55 PV**, recarga **1d10** (8+ = recarga rápida)
 
 ### **Misión 02: El Mar de Hielo Movedizo** ✅ (completada en tramo Luskan–Waterdeep–Segundo Concilio)
 - ✅ Arauthator derrotado/expulsado, Maccath rescatada
@@ -129,7 +130,9 @@
 - Día 81: Escolta hasta Everlund; llegada y preparativos defensa
 - Día 82: Everlund — ataque del dragón verde (Chuth); combate, dragón huye; informados de Altand; partida hacia Altand
 - Día 83: En ruta a Altand
+- Día 84: **Altand** — guarida (hongos): combate con **Chuth** al **exterior** de la cueva (sesión previa)
+- Día 85: **Cueva** — **Neronvain** prisionero; en curso **registro** de la guarida
 
 ---
 
-*Última actualización: Día 83 - Everlund defendida (dragón verde huido). En ruta a Altand. Ballesta mejorada: ver 03 (Mark II, refuerzos opcionales a Altand).*
+*Última actualización: Día 85 — Cueva (guarida Neronvain): Neronvain prisionero; registro de la guarida por concluir. Chuth resuelto en el exterior (Día 84). Ballesta Mark II: ver 03.*
