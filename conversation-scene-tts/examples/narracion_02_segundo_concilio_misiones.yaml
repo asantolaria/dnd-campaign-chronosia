@@ -1,6 +1,8 @@
-# Relato en tercera persona del AN10 — Parte II: Segundo Concilio (según 05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md).
-# Pleno posterior al veredicto: informe, Neverember y Rian, tensión del Muelle, cierre con inventario e informe de guerra hacia «Sombras en el Consejo».
-# Generar: python render_conversation.py examples/narracion_02_segundo_concilio_misiones.yaml -o output/narracion_02_concilio.mp3 --pause-ms 400
+# AN10 — Parte II: Segundo Concilio de Aguasprofundas (relato en tercera persona).
+# Pleno posterior al veredicto: informes, Neverember presenta a Rian, tensión del Muelle,
+# cierre con inventario sellado e informe de guerra que apunta a «Sombras en el Consejo».
+# Voz: es-ES-XimenaNeural (narradora con peso, no asistencial). Alternativa: ElviraNeural a -4%.
+# Generar: python render_conversation.py examples/narracion_02_segundo_concilio_misiones.yaml -o output/narracion_02_concilio.mp3 --pause-ms 420
 
 title: "AN10 — Parte II: Segundo Concilio de Aguasprofundas"
 
@@ -8,34 +10,203 @@ characters:
   narradora:
     name: Narradora
     voice: es-ES-XimenaNeural
-    rate: "-1%"
+    rate: "-3%"
     pitch: "+0Hz"
     volume: "+0%"
 
 lines:
+  # — Vuelta a la cámara —
   - speaker: narradora
-    text: "Tras el veredicto, el pleno vuelve a la misma cámara del Consejo. El aire sigue denso, tinta, cuero, mapas enrollados, sellos y prisa de escribas. No es un banquete: es guerra e inteligencia. Los héroes, según el prestigio de mesa, ocupan sitial de honor o puesto junto a Lady Laeral, con el olor a hierro aún reciente del juicio."
+    text: "Tras el veredicto, el pleno regresa a la misma cámara del Consejo. El aire sigue cargado: tinta, cuero, mapas enrollados sobre la mesa, cajas de sellos. Y la prisa baja de los escribas, que entran y salen sin alzar la vista."
+    rate: "-2%"
 
   - speaker: narradora
-    text: "Leosin, bajo, advierte a quien le escuche que el día trata de si la alianza aguanta el frente del bosque y de miradas hacia Neverwinter y el Muelle. Luego toma la palabra Laeral: el juicio y la Corona del bosque ya hablaron; ahora pide cifras, no discursos, sobre bajas y retrasos, y por qué el enemigo adelanta a los propios informes. Golpea mesa: el trato con el traidor cerró una herida, pero queda abrir la otra, la de las filtraciones, el porqué y el cuándo de las derrotas oportunas."
+    text: "No es un banquete. Es guerra. Y es inteligencia."
+    rate: "-5%"
+    pitch: "-1Hz"
 
   - speaker: narradora
-    text: "Una voz, Ulder, Taern o un mensajero de Cormyr, cita un golpe a puerto o convoy el mismo día en que se selló en pleno una ruta que no constaba en bando público, y lo llama puntería, no mala suerte. Otra, Delaan, Connerad o Remallia, enlaza con Everlund y el Alto Bosque, el peor momento del asedio, Chuth y la columna, alineada con debates que aún no bajaron al capitán, como si la sala se oyera antes que el puesto bajo. Ontharr, o a veces Connerad, espetan que o siempre se llega tarde o el golpe cae donde peor pega, y niegan a la suerte en tres costas."
+    text: "Los héroes ocupan sitial de honor, o se quedan de pie tras Lady Laeral, según el prestigio que hayan ganado en el bosque. El olor a hierro del juicio aún no se ha disipado."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  # — Apertura —
+  - speaker: narradora
+    text: "Leosin se acerca y, en voz baja, advierte a quien quiera escucharle: lo de hoy no es solo formalidad. Quieren ver si la alianza aguanta lo del bosque… y hay quien mirará a Neverwinter y al Muelle."
+    rate: "-3%"
+    pitch: "-1Hz"
 
   - speaker: narradora
-    text: "Laeral corta el nombre fácil. Sin pruebas, cazar brujas en la mesa alimenta al Culto. Manda auditar mensajeros, duplicar actas, y no soltar nombres hasta papeles. Remallia recuerda que los Arpistas cruzaron fechas antes del juicio: Neronvain no abrió el hoyo, lo confirmó; hace falta a alguien con acceso a lo que esta cámara sabe. Sir Isteval pide, por Cormyr, demostrar filtración, no con miradas. Leosin, otra vez breve, fija el Culto: compra, roba o recibe; falta atar el canal."
+    text: "Después toma la palabra Lady Laeral. La Corona del Bosque ya ha hablado. Ahora habla la guerra."
+    rate: "-2%"
 
   - speaker: narradora
-    text: "Dagult Neverember interrumpe con la carta dura. Presenta a Rian Nightshade como asesora en la que confía, quien sostuvo suministro e información cuando otros hablaron. Exige, si hay duda, preguntar de frente, no a susurro de taberna. Rian responde con voz de mercado: asesora, no preside el Consejo; no vende actas de la mesa, y la Red vende lo que muchos tapan."
+    text: "Pide cifras, no discursos: cuántos cayeron, dónde, y por qué el enemigo siempre llega antes que los propios cuervos. Golpea la mesa con el anillo. Una herida élfica está cerrada. Queda abrir la otra."
+    rate: "-2%"
+    volume: "+2%"
+
+  # — Coincidencias sospechosas —
+  - speaker: narradora
+    text: "Una voz, Ulder Ravengard, o Taern Hornblade, o un mensajero recién llegado de Cormyr… recuerda lo del puerto. El golpe al convoy cayó el mismo día en que el Consejo selló, en pleno, una ruta que no figuraba en ningún bando público. Eso, dice, no es mala suerte. Es puntería."
+    rate: "-2%"
 
   - speaker: narradora
-    text: "Una pulla, casi de Ontharr, mezcla el Muelle, el oro, los huecos en el cordón y a la tiefling, sin acusar de filtrar aún, pero poniendo en la sala un olor a problema. Rian lo niega, ofrece libros en Neverwinter bajo auditoría conjunta, y tacha de regalo al Culto acusar a la zhent a la ligera. Neverember exige prueba. Laeral manda a callar, y archivar nombres para cuando haya soportes. Cierra luego con acento de despacho: máscara del verde, resto de evidencia del acto, inventario sellado en el castillo; el siguiente tramo, según se despache a mesa y heraldo."
+    text: "Otro delegado, Delaan Winterhound, o Connerad, o Remallia, lo enlaza con Everlund y el Alto Bosque: el peor momento del asedio, el golpe de Chuth, la columna de refuerzos… Todo coincidió con debates que aún no habían bajado al capitán de campo. Como si alguien oyera la sala antes que el soldado de abajo."
+    rate: "-2%"
+    pitch: "-1Hz"
 
   - speaker: narradora
-    text: "Lady Laeral se dirige aparte a quienes capturaron a Neronvain y a quienes testificaron. Les dice, en esencia, que la alianza no tacha sus hechos ni su palabra en el bosque ni bajo el ritual, que pagaron con sangre, pero pide ahora ojos allí donde el mapa no basta, para atrapar a quien pasa a la cámara o deja al enemigo leer, antes de que vuelva a arder un puerto. Remallia o Leosin asienten, en tono bajo, a pedir pistas con hechos en mano, no cuerpos en vano. Un heraldo, Taern a veces, o canciller, despliega el repaso: informe de guerra actualizado, misiones abiertas para quien el poder autorice."
+    text: "Ontharr Frume estalla."
+    rate: "-2%"
 
   - speaker: narradora
-    text: "El compendio, en voz de despacho, repasa frentes y convoyes, apoyo a Everlund o al Alto Bosque, y lo que el mapa tenga aún a medias, patrullas, u operaciones de culto al norte, según el legajo. Un capítulo, si el poder lo abre, fija indagaciones en la propia ciudad sobre filtraciones y hechos con olor a Culto, al estilo de las traiciones urbanas. El bloque con más peso, a veces con el dedo de la regenta en el pergamino, recae en Sombras en el Consejo, prioridad inmediata, robos en el castillo, pistas a muelle y a Cormyr, y a quien vende o suelta el secreto de alianza, a menudo con doble raya o sello rojo frente a tareas de rutina."
+    text: "¡O siempre llegamos tarde, o nos golpean justo donde más duele!"
+    rate: "+6%"
+    pitch: "+5Hz"
+    volume: "+8%"
 
   - speaker: narradora
-    text: "Laeral avisa, en la misma tarde, que el detalle operativo de Sombras bajará por cauce privado al alba, o al llamar cancillería, no a rumor de fonda. Eso enlaza, fuera de este tramo, con lo que el palacio aún reserva, custodias, y el día siguiente, cuando la intriga cierre el círculo sobre papeles y cuchillos, según toque a mesa."
+    text: "¡La suerte no funciona en tres costas a la vez!"
+    rate: "+8%"
+    pitch: "+6Hz"
+    volume: "+10%"
+
+  # — Laeral corta caza de brujas —
+  - speaker: narradora
+    text: "Laeral corta el aire con la mano. Sin pruebas, soltar nombres es alimentar al Culto. Si abren la caza de brujas en su propia mesa, se devoran entre ellos. Manda auditar mensajeros, duplicar actas y guardar silencio hasta que haya papeles."
+    rate: "-2%"
+
+  - speaker: narradora
+    text: "Remallia recuerda, con voz contenida, que los Arpistas ya cruzaban fechas antes del juicio. Neronvain no abrió el agujero, solo lo confirmó. El traidor, dice, sigue dentro."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "Sir Isteval pide, por Cormyr, que se demuestre la filtración. No con miradas."
+    rate: "-3%"
+
+  - speaker: narradora
+    text: "Y Leosin, otra vez en voz baja, fija la idea: el Culto no adivina, compra, roba o recibe. Falta encontrar el canal."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  # — Neverember y Rian —
+  - speaker: narradora
+    text: "Entonces Lord Dagult Neverember interrumpe, y juega su carta más dura. Presenta a Rian Nightshade: su asesora, tiefling, bruja de la Red Negra. Y, según él, la única que ha mantenido suministros e información cuando otros solo tenían sermones."
+    rate: "-2%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "Si alguien tiene preguntas sobre su nombre o su sangre, que las haga ahora, a la cara, no al oído del rumorcillo de taberna."
+    rate: "+1%"
+    pitch: "+2Hz"
+    volume: "+4%"
+
+  - speaker: narradora
+    text: "Rian agradece el asiento. Asegura, con voz de mercado, que ella asesora, no preside. Y que no ha vendido actas de esa mesa."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  # — Pulla a Rian, defensa —
+  - speaker: narradora
+    text: "Una pulla cruza la sala, casi siempre sale de Ontharr: el olor a oro del Muelle, los huecos en el cordón aliado, la tiefling sentada a la mesa. No la acusa de filtrar, pero deja el olor del problema flotando en el aire."
+    rate: "-1%"
+    pitch: "+1Hz"
+
+  - speaker: narradora
+    text: "Rian lo niega, categóricamente. Ofrece libros abiertos en Neverwinter, bajo auditoría conjunta. Acusar a la Zhent sin prueba, dice, es regalarle al Culto una fractura."
+    rate: "-2%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "Neverember exige prueba. La voz cae sobre la mesa como una piedra. Y Laeral cierra el bucle."
+    rate: "-3%"
+    pitch: "-1Hz"
+    volume: "+2%"
+
+  - speaker: narradora
+    text: "Basta. Guardad los nombres para cuando tengáis papeles. Que quede registrado: la Máscara del Dragón Verde, y el resto de la evidencia del juicio, pasan a inventario sellado en el Castillo. El siguiente tramo, según despacho."
+    rate: "-2%"
+
+  # — Aparte a los héroes —
+  - speaker: narradora
+    text: "Y entonces, casi sin transición, Lady Laeral se vuelve hacia los héroes. La sala calla un instante."
+    rate: "-4%"
+    pitch: "-2Hz"
+
+  - speaker: narradora
+    text: "Esta mesa no duda de lo que hicieron en el bosque, ni de lo que testificaron en el juicio. Han pagado la guerra con sangre y con tiempo. Eso queda escrito."
+    rate: "-2%"
+
+  - speaker: narradora
+    text: "Pero ahora la alianza necesita ojos donde los mapas ya no alcanzan: alguien habla con el enemigo, o deja que el enemigo lea lo que esta sala escribe. Y necesita que sean ellos quienes desenmascaren al traidor… antes de que arda otro puerto."
+    rate: "-2%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "Remallia o Leosin asienten en voz baja. Lo que pide Laeral es claridad, no más cuerpos en vano. Si encuentran el hilo, que tiren, pero con prueba en la mano."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  # — Informe de guerra: balance del bloque Norte —
+  - speaker: narradora
+    text: "Un heraldo, o el canciller militar, despliega el legajo del despacho. La voz cambia: tono de oficina, no de teatro."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "Antes de abrir nuevas órdenes, el legajo recoge lo cumplido. Por la mano de los héroes, en estos meses: el Mar de Hielo cerrado y Maccath la Carmesí a salvo bajo techo arcano. Everlund, descongestionada. El wyrm Chuth, derribado en el Alto Bosque. Las ruinas del norte peinadas, con supervivientes traídos a casa. Y Neronvain, arrastrado vivo hasta esta sala, juzgado, ejecutado por su propia mano."
+    rate: "-2%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "El frente del norte, prácticamente, está cerrado."
+    rate: "-5%"
+    pitch: "-2Hz"
+    volume: "+2%"
+
+  - speaker: narradora
+    text: "El heraldo deja el pergamino con un golpe sordo. Eso es ayer. Hoy hay que mirar al sur, y al oeste."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  # — Frentes del Tercer Concilio —
+  - speaker: narradora
+    text: "Primer punto, en pluma de Lord Connerad y firma de Sir Isteval. Los dragones metálicos del norte han empezado a moverse: oro, plata, bronce. Disputas viejas entre escamas, deudas de sangre con humanos. Si la alianza quiere romper el ritual del Culto, los necesita en el cielo. Pero los dragones no obedecen, y para reunirlos hace falta una embajada que no se queme antes de hablar."
+    rate: "-2%"
+
+  - speaker: narradora
+    text: "Segundo punto, en sello arcano de la Hermandad. La Torre de Xonthal vuelve a humear. Rath Modar y los magos rebeldes están terminando algo dentro, y nadie de fuera entiende del todo qué. Lo que sea, está atado al ritual final. La torre es un laberinto, y entrar es una guerra aparte."
+    rate: "-2%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "Tercer punto, despacho conjunto de Ulder y Remallia. El Culto, herido, ataca con desesperación. Caravanas, aldeas aliadas, frentes pequeños y simultáneos: no para ganar terreno, para sangrar a la coalición antes del ritual. Cada misión de auxilio cuenta. Y cada ausencia, también."
+    rate: "-2%"
+
+  - speaker: narradora
+    text: "Y el cuarto punto, leído más despacio, lleva sello propio. Lo que apuntó Laeral hace un rato no era una sospecha más: hay un traidor con acceso a esta mesa. Las filtraciones del puerto, los plazos que el enemigo conocía antes que el capitán, los debates que viajaban antes que los cuervos… no se explican solo con Neronvain. La caza del infiltrado en Aguasprofundas pasa a misión abierta, con licencia de la Señora Abierta y los Arpistas detrás."
+    rate: "-2%"
+    pitch: "-1Hz"
+
+  # — Sombras: nota al margen, no prioridad —
+  - speaker: narradora
+    text: "Hay una nota al margen del legajo, en tinta más fina. Sombras en el Consejo: robos en el Castillo, pistas hacia el Muelle y hacia Cormyr… La Guardia de Aguasprofundas y los Arpistas siguen el rastro por su cuenta. La máscara del verde y la daga de Isteval, selladas en bóveda. Si los héroes encuentran un hilo en el camino, que tiren, pero la prioridad de la alianza está en lo de arriba."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  # — Cierre —
+  - speaker: narradora
+    text: "Laeral baja la voz, solo para los héroes. El detalle operativo de cada frente bajará por cauce privado, al alba, o cuando la cancillería los mande llamar. No se van a enterar por el rumor de fonda. Y antes del próximo Concilio, deberán haber elegido."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "El pleno se cierra."
+    rate: "-5%"
+    pitch: "-1Hz"
+
+  - speaker: narradora
+    text: "Pero lo que el pleno deja abierto… empieza al día siguiente."
+    rate: "-5%"
+    pitch: "-2Hz"

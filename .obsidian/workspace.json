@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md",
+                "file": "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas"
+              "title": "02_Tabla_Misiones_Consejo"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,6 +187,13 @@
   },
   "active": "2e06c2481bd55628",
   "lastOpenFiles": [
+    "conversation-scene-tts/examples/narracion_02_segundo_concilio_misiones.yaml.tmp.18061.1777191128326",
+    "conversation-scene-tts/examples/narracion_01_juicio_neronvain.yaml.tmp.18061.1777191084356",
+    "conversation-scene-tts/examples/narracion_02_segundo_concilio_misiones.yaml.tmp.18061.1777190605233",
+    "El alzamiento de Tiamat - Sandbox/07_Tracking/00_Indice_Tracking.md",
+    "El alzamiento de Tiamat - Sandbox/07_Tracking/01_Cronograma_Campana.md",
+    "El alzamiento de Tiamat - Sandbox/07_Tracking/02_Estado_Actual.md",
+    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md",
     "conversation-scene-tts/output/narracion_02_concilio.mp3",
     "conversation-scene-tts/output/narracion_01_juicio.mp3",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/00_Estructura_Aventuras.md",
@@ -195,20 +201,15 @@
     "conversation-scene-tts/examples/narracion_02_segundo_concilio_misiones.yaml",
     "conversation-scene-tts/examples/narracion_01_juicio_neronvain.yaml",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/02_Mision_Mar_Hielo_Movedizo_Botin.md",
-    "El alzamiento de Tiamat - Sandbox/07_Tracking/02_Estado_Actual.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/04B_Culto_Contraataca_II_Fuego_Norte.md",
-    "El alzamiento de Tiamat - Sandbox/07_Tracking/01_Cronograma_Campana.md",
     "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/02_Tabla_Misiones_Consejo.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/01_Episodio_1_Consejo_Aguas_Profundas.md",
-    "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN10_Mision_Juicio_Melandrach.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN11_Mision_Sombras_Consejo.md",
     "conversation-scene-tts/output/concilio_aguasprofundas_ii.mp3",
     "conversation-scene-tts/examples/concilio_aguasprofundas_ii.yaml",
     "conversation-scene-tts/__pycache__/render_conversation.cpython-314.pyc",
     "conversation-scene-tts/__pycache__",
-    "conversation-scene-tts/output/prueba_escena.mp3",
-    "conversation-scene-tts/output",
     "conversation-scene-tts/README.md",
     "El alzamiento de Tiamat - Sandbox/05_Aventuras/AN09_Mision_Pactos_Oscuros.md",
     "El alzamiento de Tiamat - Sandbox/06_Recursos/Tablas/00_Indice_Tablas.md",
@@ -222,7 +223,6 @@
     "Chronosia_Campana_Profesional/00_Indice_Campana.md",
     "Chronosia_Campana_Profesional/06_Recursos/Handouts/Hoja_Balance_Temporal_Dimensional.md",
     "Chronosia_Campana_Profesional/02_Guia_DM/DM_Screen_Una_Pagina.md",
-    "Chronosia_Campana_Profesional/02_Guia_DM/Eventos_Que_Siempre_Ocurren.md",
     "El alzamiento de Tiamat - Sandbox/06_Recursos/Mapas/Luskan.png",
     "Pasted image 20260117132110.png",
     "El alzamiento de Tiamat - Sandbox/06_Recursos/Mapas/Everlund - ciudad.jpeg",

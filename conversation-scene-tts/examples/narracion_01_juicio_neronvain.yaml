@@ -1,34 +1,169 @@
 # AN10 — Parte I. Juicio de Neronvain en la misma cámara del Consejo (Aguasprofundas).
 # Cierre por defecto en esta campaña: daga de Sir Isteval y suicidio ritual (no cadalso).
 # Variante cárcel: regrabar el bloque de veredicto y cierre conmutando a prisión.
-# Voz: es-ES-AlvaroNeural. Alternativa: es-ES-ElviraNeural, rate -2%, pitch -1Hz.
-# Generar: python render_conversation.py examples/narracion_01_juicio_neronvain.yaml -o output/narracion_01_juicio.mp3 --pause-ms 420
+# Voz: es-ES-XimenaNeural (narradora con peso, no asistencial). Alternativa: es-ES-ElviraNeural a -2%.
+# Generar: python render_conversation.py examples/narracion_01_juicio_neronvain.yaml -o output/narracion_01_juicio.mp3 --pause-ms 450
 
 title: "AN10 — Parte I: el juicio de Neronvain en Aguasprofundas"
 
 characters:
-  narradora:
+  narrador:
     name: Narradora
-    voice: es-ES-AlvaroNeural
-    rate: "-2%"
-    pitch: "-1Hz"
+    voice: es-ES-XimenaNeural
+    rate: "-4%"
+    pitch: "-2Hz"
     volume: "+0%"
 
 lines:
-  - speaker: narradora
-    text: "De vuelta desde el Alto Bosque, el grupo entrega la Máscara del Dragón Verde, los papeles y, si las hubo, las cartas tomadas en los aposentos. Esa prueba, incorporada al acta, liga a Neronvain al Culto del Dragón, a la cadena de Severin, a la servidumbre bajo el wyrm Chuth, y a filtrar información o rutas hacia el enemigo cuando la alianza más costaba su sangre."
+  # — Llegada con las pruebas —
+  - speaker: narrador
+    text: "El grupo regresa del Alto Bosque con las manos llenas de pruebas. Sobre la mesa caen la Máscara del Dragón Verde, los papeles incautados y las cartas que Neronvain guardaba en sus aposentos. Cada documento, cada sello, lo ata al Culto del Dragón: a la cadena de Severin, a la servidumbre del wyrm Chuth, y a las rutas que entregó al enemigo… justo cuando la alianza más sangraba."
+    rate: "-3%"
+    pitch: "-1Hz"
 
-  - speaker: narradora
-    text: "Tras un acuerdo con Lady Laeral, el rey Melandrach exige ley de los suyos, pero el juicio no se celebra en el aislado trono de su corte del Bosque: el tribunal se abre bajo el mismo techo de la coalición, en la cámara donde ya se juraron frentes, para que quienes capturaron al traidor y quienes le pagaron con muerte o pánico atestigüen el ritual, sin desplazar ejércitos al Bosque Brumoso."
+  # — Acuerdo y traslado del juicio —
+  - speaker: narrador
+    text: "El rey Melandrach exige que se aplique la ley élfica sobre su hijo. Pero esta vez no habrá juicio en el corazón del bosque. Tras el acuerdo con Lady Laeral, el tribunal se abrirá bajo techo aliado, en la misma cámara donde se juraron frentes contra el Culto. Allí podrán atestiguar quienes capturaron al traidor… y también quienes pagaron sus crímenes con sangre y miedo."
+    rate: "-3%"
+    pitch: "-1Hz"
 
-  - speaker: narradora
-    text: "La sala repite estandartes de alianza, asientos para delegados del Consejo de Guerra y sitio para facciones élficas. Neronvain, encadenado y custodiado, ocupa el centro: el aire es silencioso y tenso, de cuero, sello, hierro y paciencia dura. Melandrach preside, no hace de espectador, y pesa la voz baja de quien es rey, juez y padre a la vez. Los héroes, por haberlo puesto bajo cadenas, suelen recibir un sitial de honor entre miradas agradecidas y fijas."
+  # — Ambientación de la sala —
+  - speaker: narrador
+    text: "La sala está tal y como la recordaban. Estandartes de la alianza colgando de los muros, asientos para los delegados del Consejo, otros dispuestos para las facciones del Bosque."
+    rate: "-2%"
 
-  - speaker: narradora
-    text: "Siguen fases de acusación en clave de tradición, luego intervenciones breves: Laeral, Frume, Remallia, Ulder, Connerad, Delaan: miden con palabras el daño a la guerra común, sin sustituir la ley de los élficos del Bosque, solo la rozan con testigos. Declara luego Neronvain, en el tono frío o quebradizo que toque, y ceden la palabra testigos, entre ellos quienes cazaron a Chuth bajo cielo de cúpula y quien sostuvo cadenas bajo rituales. Deliberan los códigos; los extranjeros, salvo rituales de mesa, no sueltan voto, pero toda la mesa siente hacia dónde empuja el peso."
+  - speaker: narrador
+    text: "En el centro, encadenado y en silencio… Neronvain."
+    rate: "-9%"
+    pitch: "-3Hz"
 
-  - speaker: narradora
-    text: "Casi toda la mesa empuja a la pena de muerte: a la alianza le basta cierre, señal, pago con sangre. El rey, sin embargo, es el último en adherirse a quien pide cuchillo, y bajo ley de los suyos el veredicto razonable solo se bifurca: muerte o prisión, nunca exilio. Si la sala no presiona, no comuta ni negocia, y Melandrach no aplica clemencia real, la suerte por defecto es la cuchilla, no un cadalso público."
+  - speaker: narrador
+    text: "El aire huele a cuero, a hierro, a sello caliente. Y a paciencia dura."
+    rate: "-5%"
+    pitch: "-1Hz"
 
-  - speaker: narradora
-    text: "Neronvain, condenado a la muerte y admitido al ritual, pide que acabe con su propia mano, como corresponde al agravio en esta mesa. Sir Isteval le presta su daga, limpia, sin pompa. El cierre es breve, terrible y privado en el aire viciado: la hoja pasa a manos de ley como evidencia, y deja a la alianza con un vacío sordo hasta el pleno, cuando la cámara vuelva a llenarse de cifras, muelles, filtraciones, y pistas que no se cerraron con un solo acuerdo o acero."
+  - speaker: narrador
+    text: "Melandrach preside. Hoy no es solo rey: es juez, y es padre."
+    rate: "-6%"
+    pitch: "-2Hz"
+
+  - speaker: narrador
+    text: "A los héroes les han reservado un sitial de honor. Por haberlo capturado vivo. Por haber traído la prueba. Las miradas que reciben son agradecidas… y muy fijas."
+    rate: "-2%"
+
+  # — El acto del juicio —
+  - speaker: narrador
+    text: "El acto avanza fase a fase, como manda la tradición. Primero, la acusación élfica: traición a la corona, pacto con el Culto, muerte de los suyos, profanación del bosque."
+    rate: "-2%"
+
+  - speaker: narrador
+    text: "Después hablan los delegados del Consejo de Guerra."
+    rate: "-3%"
+
+  - speaker: narrador
+    text: "Lady Laeral Silverhand, Señora Abierta de Aguasprofundas y anfitriona del Consejo, hablando en nombre de la ley marcial de la coalición."
+    rate: "-2%"
+
+  - speaker: narrador
+    text: "Ontharr Frume, paladín de la Orden del Guantelete, sin un gramo de elegía y con la justicia colgada del cinto."
+    rate: "-1%"
+    pitch: "+1Hz"
+
+  - speaker: narrador
+    text: "Remallia Haventree, de los Arpistas, semielfa cuya casa el Culto rompió en dos cuando le mataron al esposo."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narrador
+    text: "Ulder Ravengard, Marshal de los Puños Llameantes y voz de Puerta de Baldur, pragmático hasta el hueso."
+    rate: "-2%"
+
+  - speaker: narrador
+    text: "Connerad Brawnanvil, rey de Mithral Hall, con el rencor enano de quien apunta deudas en piedra y no las olvida."
+    rate: "-3%"
+    pitch: "-2Hz"
+
+  - speaker: narrador
+    text: "Delaan Winterhound, druida del Enclave Esmeralda, hablando por el bosque profanado y por las rutas que el Culto vendió a Chuth."
+    rate: "-2%"
+
+  - speaker: narrador
+    text: "Lord Dagult Neverember, antiguo Lord Abierto y hoy regidor de Neverwinter. Frío, útil, reconstructor de ciudades sobre ceniza."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narrador
+    text: "Y Sir Isteval, paladín retirado y voz de Cormyr en esta mesa, pidiendo claridad para que la sentencia sea legible para toda la alianza."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narrador
+    text: "Cada uno mide en voz alta el daño que la traición le costó a la coalición. Sus palabras no sustituyen la ley élfica, solo la rozan, como testigos."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narrador
+    text: "Y entonces… declara Neronvain."
+    rate: "-9%"
+    pitch: "-3Hz"
+
+  - speaker: narrador
+    text: "Habla en el tono que el momento le pida: arrogante, frío, quebradizo. No pide perdón. Recuerda a su padre que lo desterró, y al pueblo que lo borró."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narrador
+    text: "Tras él, los testigos: quienes cazaron a Chuth bajo cielo de cúpula, quienes sostuvieron las cadenas durante el ritual, quienes vieron arder Everlund."
+    rate: "-2%"
+
+  # — Deliberación y veredicto —
+  - speaker: narrador
+    text: "Llega la deliberación. Los códigos élficos hablan en voz baja. Los extranjeros no votan… pero toda la sala siente hacia dónde empuja el peso."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narrador
+    text: "Y el peso empuja a la muerte."
+    rate: "-9%"
+    pitch: "-4Hz"
+    volume: "+2%"
+
+  - speaker: narrador
+    text: "A la alianza le basta el cierre, la señal, el pago en sangre. El rey Melandrach es el último en adherirse al filo. Bajo su ley solo hay dos caminos: muerte o prisión. El exilio nunca estuvo sobre la mesa."
+    rate: "-3%"
+    pitch: "-1Hz"
+
+  - speaker: narrador
+    text: "Si los héroes no presionan, si no negocian, si no buscan conmutar la pena…"
+    rate: "-3%"
+
+  - speaker: narrador
+    text: "…la sentencia será muerte. No en cadalso público. Por su propia mano."
+    rate: "-7%"
+    pitch: "-3Hz"
+
+  # — Cierre con la daga de Isteval —
+  - speaker: narrador
+    text: "Pronunciada la condena, Neronvain alza la voz una última vez. No pide clemencia: pide forma. Que ningún verdugo, ningún soldado aliado, le quite la vida. Que sea solo su mano la que cierre la cuenta."
+    rate: "-4%"
+    pitch: "-2Hz"
+
+  - speaker: narrador
+    text: "Sir Isteval da un paso al frente. Desenvaina su daga. Y se la ofrece, con la empuñadura por delante."
+    rate: "-4%"
+    pitch: "-1Hz"
+
+  - speaker: narrador
+    text: "Melandrach baja la mirada. Y asiente."
+    rate: "-9%"
+    pitch: "-4Hz"
+
+  - speaker: narrador
+    text: "El cierre es breve. Y terrible. Y privado, dentro del aire viciado de la sala. La daga, manchada, pasa a la Guardia de Aguasprofundas como evidencia."
+    rate: "-5%"
+    pitch: "-2Hz"
+
+  - speaker: narrador
+    text: "Y la alianza queda con un vacío sordo en el pecho. Hasta el pleno: cuando la cámara vuelva a llenarse de cifras, de muelles, de filtraciones… y de las pistas que el juicio no logró cerrar."
+    rate: "-3%"
+    pitch: "-1Hz"
