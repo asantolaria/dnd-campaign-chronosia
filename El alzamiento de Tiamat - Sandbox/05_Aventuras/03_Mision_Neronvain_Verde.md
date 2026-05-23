@@ -281,7 +281,7 @@ Mientras los personajes viajan por el bosque, escuchan el **crujido de un gran �
 
 #### **Aposentos de Neronvain — Registro de la mazmorra**
 
-Si los PJ **registran** la cámara secundaria o los aposentos del wyrmspeaker (antes o después del combate), encuentran material que responde a preguntas que el **juicio de Melandrach** (AN10) y el Consejo harán después. No hace falta tirada para encontrar **cofre, escritorio rudimentario y petate**; las tiradas amplían detalles.
+Si los PJ **registran** la cámara secundaria o los aposentos del wyrmspeaker (antes o después del combate), encuentran material que responde a preguntas que el **juicio de Melandrach** (AN10) y el Consejo harán después. No hace falta tirada para encontrar **cofre, escritorio rudimentario y petate**; las tiradas amplían detalles. **Dentro del cofre** está el **alijo** descrito en **💰 RECOMPENSAS → Alijo sugerido** (estatuilla del grifo de bronce, jabalina relámpago y pociones): botín que Neronvain guardaba para sí o para envíos del Culto, aparte del resto de monedas u objetos que quieras dispersar por la guarida.
 
 | **Tirada (opcional)** | **Qué aporta** |
 |------------------------|----------------|
@@ -524,9 +524,21 @@ Aplicar cuando los PJ **informen en el (próximo) Concilio**. Valores según [01
 
 ## 💰 **RECOMPENSAS**
 
-- **Tesoro en la guarida:** Según criterio del DM; típicamente 1d4 × 100 po en monedas y objetos del Culto, más **Máscara del Dragón Verde** (objeto de trama; el Consejo la custodia).
+- **Tesoro en la guarida:** Según criterio del DM; típicamente 1d4 × 100 po en monedas y objetos del Culto repartidos por la cueva (p. ej. cámara principal), más **Máscara del Dragón Verde** (objeto de trama; el Consejo la custodia). El **alijo sugerido** (estatuilla, jabalina, pociones) va **solo** en el **cofre de los aposentos de Neronvain**; ver *Alijo sugerido* más abajo y Escena 3.
 - **Recompensa de Alagarthas:** **Dos Pociones de Resistencia al Veneno** antes de partir hacia la guarida; opcionalmente objetos élficos menores o promesa de apoyo futuro al regreso.
 - **Reconocimiento del Consejo:** Al informar en Waterdeep, reconocimiento público y aplicación de los eventos de la tabla de puntuación.
+
+### **Alijo sugerido (aposentos de Neronvain)**
+
+Objetos pensados para **tres personajes**. **Ubicación:** únicamente en los **aposentos de Neronvain** (Escena 3 — *Aposentos de Neronvain — Registro de la mazmorra*), **dentro del cofre** junto al escritorio y el petate; no está en la cámara principal de Chuth salvo que el DM lo cambie a propósito.
+
+| **Objeto** | **Notas para el DM** |
+|--------------|----------------------|
+| **Estatuilla de poder maravillosa (grifo de bronce)** | **Ítem de grupo:** invoca un **grifo** con las reglas del *Manual del Jugador* / DMG (*figurine of wondrous power, bronze griffon*). No requiere sintonización. Decidid en mesa **quién la porta** y cómo se **activa** (un uso, luego recupera su forma tras X horas según reglas oficiales). Buen recurso para combates puntuales o desplazamiento aéreo sin inflar el daño cotidiano de nadie. |
+| **Jabalina relámpago** | *Javelin of lightning*: encaja como botín personal para **Lovak** (o quien la reclame); **+1** como jabalina y **1/día** el relámpago en línea (reglas DMG). No requiere sintonización. |
+| **Pociones (reparto para los tres PJ)** | **Tres pociones de vuelo** (una por personaje). **Tres pociones de resistencia** (cada una a un **tipo de daño a elegir** al repartir o al beber, según fijéis en mesa: ácido, contundente, frío, fuego, fuerza, eléctrico, necrótico, perforante, envenenado, psíquico, radiante, cortante o trueno). **Dos pociones de crecimiento** y **dos pociones de aliento de fuego** para repartir entre los tres (o sorteo amistoso). Consumibles; no sintonizan. |
+
+**Sabor narrativo (opcional):** el grifo de bronce puede venir como **ofrenda del Culto** a Tiamat o como **trofeo robado** a víctimas élficas; la jabalina, como **arma de dracónido** o envío de la **Garra del Norte** citado en los papeles de Neronvain. En el cofre de los aposentos, las pociones pueden ir en **frascos lacrados** o **caja pequeña** con símbolo del dragón verde, apartada del diario y las cartas.
 
 ---
 
