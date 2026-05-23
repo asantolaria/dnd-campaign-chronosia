@@ -3,98 +3,106 @@
 
 ---
 
-> **📖 ÚLTIMA ACTUALIZACIÓN:** Día 85 - Guarida de Neronvain (The High Forest): **Chuth** resuelto **afuera** (Día 84, sesión previa). **Neronvain** **prisionero**; el grupo **va a concluir el registro** de la cueva.
+> **📖 ÚLTIMA ACTUALIZACIÓN:** Tras **AN10** (juicio de Neronvain + **Segundo Concilio** en Aguasprofundas). El grupo ha elegido el frente **05 — Dragones Metálicos, Alzaos** y sube a **nivel 11**.
 
 ---
 
 ## 🎯 **ESTADO ACTUAL**
 
-### **Nivel del Grupo:** 10 (subida de nivel el Día 66)
-### **Día Actual:** 85
-### **Ubicación:** Cueva (guarida, zona de hongos ~30 km al este de Altand), **The High Forest**
-### **Situación:** Llegada a **Altand** y a la guarida; en el **exterior** dieron cierre a **Chuth** (sesión previa, Día 84). **En la cueva** (esta sesión) vencieron a **Neronvain**; lo llevan **con vida y preso**. Falta **terminar de registrar** la guarida (aposentos, papeles del Culto, anexo **Everlund** en [03](../05_Aventuras/03_Mision_Neronvain_Verde.md)). Luego: salida, **Máscara** y pruebas bajo custodia, y coordinación con **Alagarthas** / rumbo a Waterdeep hacia **AN10** (juicio).
+### **Nivel del Grupo:** 11 (subida tras cierre de **03** + **AN10**)
+### **Día actual:** **108** — tras juicio y **2.º Concilio**; **Misión 05 — Dragones Metálicos** asignada (salida a montañas del norte: Día 109+)
+### **Ubicación:** **Aguasprofundas** → salida hacia **Montañas del Norte** (misión 05)
+### **Situación:** Bloque del **norte cerrado** en el informe de guerra del Concilio. **Neronvain** juzgado y muerto por su propia mano (daga de **Sir Isteval**). Evidencia del juicio (**Máscara del Dragón Verde**, cadena de custodia de la daga) en inventario sellado del Castillo. El grupo no sigue **Sombras en el Consejo** (AN11) ni las misiones rezagadas de concilios anteriores: el despacho marca **dragones metálicos** como prioridad.
 
 ---
 
 ## 📍 **MISIÓN ACTUAL**
 
-**Misión A03 + 03 (Neronvain el Verde)** (Nodo 1 / *Fuego en el Norte* → The High Forest)
-- **Objetivo:** (04B cumplida en tramo) Resolver la amenaza de **Chuth** y **Neronvain** en la guarida; **capturar a Neronvain con vida** para el juicio ([AN10](../05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)).
-- **Estado:** En curso — **Guarida** (Día 85); **registro** de la cueva por concluir
-- **Progreso:**
-  - ✅ Viaje Yartar, Everlund, defensa, ruta; llegada a **Altand** y a la zona de hongos
-  - ✅ **Día 84 (sesión previa):** combate con **Chuth** en el **exterior** de la cueva — resuelto
-  - ✅ **Día 85 (sesión actual):** entrada a la **cueva**; **Neronvain** reducido, **prisionero**
-  - 🔄 **PRÓXIMO:** Completar **registro** (aposentos, documentos, enlace a espionaje **Everlund** en [03](../05_Aventuras/03_Mision_Neronvain_Verde.md)); salir con prisionero y **Máscara del Dragón Verde**; eventos de Consejo al informar; preparar **AN10**
-- **Ballesta (Mark II, referencia):** [03](../05_Aventuras/03_Mision_Neronvain_Verde.md)
+**Misión 05 — Dragones Metálicos, Alzaos** (Tercer Concilio / *Alianza dracónica*)
+- **Objetivo:** Reunir a los dragones metálicos del norte, resolver disputas entre escamas y ganarlos como aliados contra el ritual del Culto.
+- **Estado:** 🟢 **En curso** — nivel 11
+- **Progreso:** Elección tomada en el **Segundo Concilio** (Parte II de AN10); detalle operativo por cauce privado de Laeral (al alba / cancillería).
+- **Referencia:** PDF / 5e.tools — *Rise of Tiamat*, misión oficial 05.
 
 ---
 
 ## 📋 **MISIONES COMPLETADAS**
 
 ### **Misión 01: Varram el Blanco - Tumba de Diderius** ✅
-- **Días:** 30-39
-- **Resultado:** Varram fue derrotado (muerto)
+- **Resultado:** Varram derrotado (muerto)
 - **Recompensa:** Subida a nivel 9
-- **Eventos del Consejo:** Evento 11 "Matar a Varram" (activado)
+- **Eventos:** Matar a Varram
 
 ### **Misión 02: El Mar de Hielo Movedizo** ✅
-- **Días:** 48-73 (Luskan Día 69, emboscada + Waterdeep Día 70, Segundo Concilio Día 73)
-- **Resultado:** Arauthator derrotado/expulsado, Maccath rescatada; llegada a Luskan (Torre de Huéspedes de lo Arcano), emboscada del Culto, regreso a Waterdeep, Segundo Concilio efectuado
-- **Eventos del Consejo:** Evento 14 (Arauthator), Evento 13 (Hermandad Arcana con Maccath) — aplicados en Segundo Concilio
+- **Resultado:** Arauthator derrotado/expulsado; Maccath rescatada; Hermandad Arcana en la alianza
+- **Eventos:** Matar a Arauthator; La Hermandad Arcana se une
 
 ### **Misión A14: Ruinas del Norte** ✅
-- **Días:** Tras la Tumba de Diderius (alrededor del día 40)
-- **Resultado:** Exploración de ruinas, rescate de supervivientes, descubrimiento de pistas sobre el ritual
+- **Resultado:** Ruinas exploradas, supervivientes rescatados, pistas sobre el ritual
 - **Impacto:** Consejo +1, Enclave +1, Moral +1
-- **Nota:** Esta misión ya fue completada, por lo que no está disponible en el Nodo 1 de Defensa del Norte
+
+### **Misión 04B: El Culto Contraataca II — Fuego en el Norte** ✅
+- **Resultado:** Arco **Everlund** (caravana, defensa, Chuth en asedio); enlace a **Altand** y guarida
+- **Eventos pendientes aplicados en Concilio:** *Salvar una caravana del norte*
+
+### **Misión 03: Neronvain el Verde** ✅
+- **Resultado:** **Chuth** resuelto (exterior, Día 84); **Neronvain** capturado vivo; registro de guarida; **Máscara del Dragón Verde** y papeles como prueba
+- **Eventos aplicados en Concilio:** *Matar a Chuth o expulsarlo*; *Capturar a Neronvain*
+
+### **AN10: Juicio de Melandrach y Concilio de Aguasprofundas** ✅
+- **Parte I — Juicio:** Tribunal en la cámara del Consejo (ley élfica bajo techo aliado). Sentencia: **muerte** por propia mano con la **daga de Sir Isteval** (Melandrach asiente).
+- **Parte II — Segundo Concilio:** Filtraciones, **Rian Nightshade** (Neverember), evidencia sellada; cuatro frentes del Tercer Concilio; el grupo **elige dragones metálicos** (no **AN11** / Sombras en el Consejo).
 
 ---
 
-## 🎭 **PERSONAJES CLAVE ENCONTRADOS**
+## 🔒 **MISIONES BLOQUEADAS (NO DISPONIBLES)**
 
-- **Varram el Blanco:** Derrotado (muerto) en la Tumba de Diderius
-- **Maccath la Carmesí:** Rescatada. Acompaña al grupo hacia Luskan (aposentos en la Torre de Huéspedes de lo arcano) y Waterdeep
-- **Neronvain el Verde (wyrmspeaker):** **Prisionero** (tras combate en la guarida, Día 85)
-- **Chuth (dragón verde joven):** Situación **resuelta** en el combate **exterior** (Día 84, sesión previa)
+*Caducadas o bloqueadas por nodos de decisión / avance de campaña.*
 
----
+| Misión | Motivo |
+|--------|--------|
+| **04A** — Culto Contraataca I | Ventana entre 1.er y 2.º Concilio cerrada |
+| **AO01, AO02, AO04, AN13** | Opcionales del 1.er Concilio no tomadas |
+| **AN14** — Ruinas del Norte | **Nodo 1:** priorizado arco **04B** / Everlund |
+| **AN11** — Sombras en el Consejo | **Nodo 2:** priorizado **AN10** (juicio + Concilio); no se sigue el hilo Jamna/robo en bóveda |
 
-## 📊 **PRÓXIMOS PASOS ESPERADOS**
-
-1. **03 — Neronvain el Verde** (Días 84–85)
-   - ✅ Llegada a guarida (zona hongos); **Chuth** al **exterior** (Día 84) — resuelto
-   - ✅ **Neronvain** **prisionero**; **pendiente** terminar **registro** de la cueva (Día 85, fin de sesión o próxima apertura)
-   - **Próximo:** Evidencia y **Máscara**; vuelta a **Alagarthas**; rumbo a Waterdeep; **[AN10](../05_Aventuras/AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)**
-2. **Concilio (cuando informen en Waterdeep):** aplicar *Salvar caravana del norte* (Everlund) si aún no; *Matar a Chuth o expulsarlo*; *Capturar a Neronvain* — ver [03](../05_Aventuras/03_Mision_Neronvain_Verde.md) y [medidores](./03_Medidores_Consejo.md)
+*Siguen **disponibles** en el Tercer Concilio (no elegidas aún): **06** Torre de Xonthal, **04C**, **AN04** Traiciones, **AN07**, y adicionales del **Nodo 3** (AN05, AN12, AN06) si el grupo las aborda más adelante.*
 
 ---
 
-## 🗺️ **RUTA RECORRIDA**
+## 🎭 **PERSONAJES CLAVE**
 
-1. **Waterdeep** (Días 20-22) → Primer Concilio
-2. **Serpent Hills** (Días 23-29) → Viaje
-3. **Puente de Boareskyr / Tumba de Diderius** (Días 30-39) → Misión Varram
-4. **Regreso a Waterdeep** (Días 40-48) → Pueblo atacado (Día 43)
-5. **Waterdeep** (Día 48) → Asignación misión Mar de Hielo
-6. **Neverwinter → Luskan** (Días 51-54) → Información sobre Maccath
-7. **Mar de Hielo Movedizo** (Días 63-66) → Arauthator, rescate Maccath
-8. **Luskan** (Día 69) → Torre de Huéspedes de lo Arcano
-9. **Luskan → Waterdeep** (Día 70) → Emboscada del Culto + regreso
-10. **Waterdeep** (Día 73) → Segundo Concilio
-11. **Waterdeep → Yartar** (Días 74-80) → **Yartar** (Día 80) — **04B** Parte I (*Fuego en el Norte*, caravana a la espera)
-12. **Yartar → Everlund** (Día 81) — escolta, llegada, preparativos defensa
-13. **Everlund** (Día 82) — voladura puente; ataque dragón verde (Chuth); combate, dragón huye; informados de Altand; partida hacia Altand
-14. **Ruta a Altand** (Día 83) — The High Forest
-15. **Guarida Neronvain (hongos)** — **Día 84:** Chuth al **exterior** (resuelto). **Día 85:** **cueva**, **Neronvain** prisionero; en curso **registro** de la caverna
+- **Varram el Blanco:** Muerto (Tumba de Diderius)
+- **Maccath la Carmesí:** Rescatada; emisaria de la Hermandad Arcana
+- **Chuth:** Derrotado / expulsado (guarida, Alto Bosque)
+- **Neronvain el Verde:** Capturado vivo → juzgado en AN10 → **suicidio ritual** con daga de Isteval; cadáver y evidencia bajo custodia aliada
+- **Rian Nightshade:** Presentada por Neverember en el Segundo Concilio; no es el foco activo del grupo (no AN11)
+- **Rey Melandrach:** Presidió el juicio; sentencia cumplida
 
 ---
 
-## 💡 **NOTAS IMPORTANTES**
+## 📊 **PRÓXIMOS PASOS**
 
-- El grupo ha completado la Misión 02 (Mar de Hielo Movedizo): Arauthator derrotado/expulsado, Maccath rescatada; Luskan, emboscada del Culto; Waterdeep, Segundo Concilio efectuado
-- Han subido a nivel 9 tras derrotar a Varram (Misión 01)
-- **Misión 03 (en cierre):** Guarida **Chuth** fuera (Día 84); **Neronvain** prisionero en la cueva (Día 85). Pendiente: **acabar de registrar** la guarida; luego **AN10** al volver. Medidores: *Capturar a Neronvain* y *Chuth* al 3.er Concilio — ver [03_Medidores](./03_Medidores_Consejo.md).
+1. **05 — Dragones Metálicos:** embajada al norte; disputas entre dragones de oro, plata y bronce; posibles eventos *Reunir dragones* / *Concesiones* al informar.
+2. **Opcional más adelante:** **AN12** (Cenizas de Plata) tras dragones; **06** Xonthal; **AN04** filtraciones — según prioridad del despacho y tiempo de mesa.
+3. **No activo en esta rama:** **AN11** (robo máscara/daga, Jamna, Morrik) — bloqueado por elección de nodo.
+
+---
+
+## 🗺️ **RUTA RECORRIDA (RESUMEN)**
+
+1. Waterdeep → Primer Concilio → Varram (01) → Ruinas del Norte (A14)
+2. Mar de Hielo (02) → Luskan → Waterdeep (2.º Concilio, Día 73)
+3. Yartar → Everlund → **04B** → Altand / guarida **03** (Chuth, Neronvain prisionero)
+4. Waterdeep → **AN10** (juicio + Segundo Concilio) → elección **05** → **nivel 11**
+
+---
+
+## 💡 **NOTAS PARA EL DIARIO**
+
+- El **frente norte** queda narrativamente **cerrado** en el informe del Concilio.
+- **AN11** no ocurre en esta línea temporal: la máscara permanece en bóveda sellada; no hay escándalo del día siguiente ni arco Jamna/Morrik.
+- Subida a **nivel 11** al emprender **Dragones Metálicos**.
 
 ---
 

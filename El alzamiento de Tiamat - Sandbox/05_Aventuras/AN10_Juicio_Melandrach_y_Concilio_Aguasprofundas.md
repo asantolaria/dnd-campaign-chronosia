@@ -10,6 +10,8 @@
 > - [A04 - Traiciones en Waterdeep](./AN04_Mision_Traiciones_Waterdeep.md) - Investigación urbana posterior
 > - [AN11 - Sombras en el Consejo](./AN11_Mision_Sombras_Consejo.md) - Continuación (tinglado, Cormyr, mazmorra)
 > - [Sistema del Consejo de Guerra](../04_Guia_DM/05_Sistema_Consejo_Guerra.md) - Eventos y medidores
+>
+> **📻 Versión canónica (narración):** [narracion_01_juicio_neronvain.yaml](../../conversation-scene-tts/examples/narracion_01_juicio_neronvain.yaml) · [narracion_02_segundo_concilio_misiones.yaml](../../conversation-scene-tts/examples/narracion_02_segundo_concilio_misiones.yaml) — el diálogo interpretable del pleno vive en [concilio_aguasprofundas_ii.yaml](../../conversation-scene-tts/examples/concilio_aguasprofundas_ii.yaml). **Si este documento y la narración discrepan, manda la narración.**
 
 ---
 
@@ -17,10 +19,10 @@
 
 Este documento es el **segundo gran bloque político** de la sandbox tras [03 — Neronvain el Verde](./03_Mision_Neronvain_Verde.md):
 
-1. **03** — Los PJ capturan **Neronvain vivo** en el Alto Bosque; la **Máscara del Dragón Verde** queda como evidencia.
-2. **AN10 Parte I** — **Juicio** con ley élfica en **Waterdeep** (no en el bosque); veredicto (por defecto **muerte**; los PJ pueden empujar a **prisión**). **Si la sentencia es muerte (Opción A):** **Neronvain** pide que **solo su mano** acabe con su vida; **Sir Isteval** le presta su **daga**; **suicidio ritual** en la sala — la **daga** queda como evidencia y **semilla** de [AN11](./AN11_Mision_Sombras_Consejo.md).
-3. **AN10 Parte II** — **Segundo Concilio**: la alianza asume el resultado; **Rian** se presenta como persona de confianza de **Neverember**; la **máscara** se inventaría y **sella** en el Castillo como prueba.
-4. **[AN11](./AN11_Mision_Sombras_Consejo.md)** — **Al día siguiente**: robos en el Castillo (**máscara**, **daga de Isteval**), **Jamna** rastreando la hoja, acusaciones a los Zhent, **daga drow** como pista hacia el ritual, trampa del tinglado y giro **Cormyr** (no replicar aquí escenas de AN11).
+1. **03** — Los PJ capturan **Neronvain vivo** en el Alto Bosque; regresan con la **Máscara del Dragón Verde**, papeles incautados y cartas de sus aposentos como prueba.
+2. **AN10 Parte I** — **Juicio** con ley élfica en **Waterdeep** (no en el bosque); veredicto (por defecto **muerte**; los PJ pueden empujar a **prisión**). **Si la sentencia es muerte (Opción A):** **Neronvain** pide que **solo su mano** acabe con su vida; **Sir Isteval** le presta su **daga**; **suicidio ritual** en la sala — la **daga** queda como evidencia y **semilla** de [AN11](./AN11_Mision_Sombras_Consejo.md). **Rian no está en el juicio** (solo en el pleno).
+3. **AN10 Parte II** — **Segundo Concilio**: filtraciones, **Neverember presenta a Rian**, la **máscara** pasa a **inventario sellado**; el legajo **cierra el frente norte** y abre **cuatro frentes** hacia el Tercer Concilio (dragones metálicos, Xonthal, contraataques del Culto, infiltrado en la mesa). **«Sombras en el Consejo»** queda como **nota al margen**, no como prioridad roja del pleno.
+4. **[AN11](./AN11_Mision_Sombras_Consejo.md)** — **Al día siguiente**: robos en el Castillo (**máscara**, **daga de Isteval**), **Jamna**, tinglado y giro **Cormyr** — arranca **aparte** del despacho principal (no replicar aquí escenas de AN11).
 
 **Lo que este archivo no hace:** no desarrolla el hurto ni el tinglado — eso es **solo AN11**, para no duplicar ganchos.
 
@@ -30,7 +32,7 @@ Este documento es el **segundo gran bloque político** de la sandbox tras [03 �
 
 | **Aspecto** | **Detalle** |
 |------------|-------------|
-| **Tipo** | **Dos partes en un solo documento:** **Parte I — Juicio** (ley élfica, suelo de Waterdeep); **Parte II — Segundo Concilio de Aguasprofundas** (pleno de la alianza + ganchos de intriga). |
+| **Tipo** | **Dos partes:** **Parte I — Guion del juicio** (ley élfica, Waterdeep) → **Apéndice opcional** (preludio, investigación, medidores) · **Parte II — Segundo Concilio** (pleno + informe de guerra). |
 | **Nivel recomendado** | 11 |
 | **Duración** | 3–4 sesiones si jugáis juicio completo + concilio; 2 sesiones en versión resumida (la intriga de **Jamna** y el tinglado son **[AN11](./AN11_Mision_Sombras_Consejo.md)**) |
 | **Localización** | **Waterdeep** — **la misma cámara del Consejo de Guerra** (o salón anexo donde ya jugasteis el pleno); el juicio **no** es en emplazamiento élfico |
@@ -38,7 +40,7 @@ Este documento es el **segundo gran bloque político** de la sandbox tras [03 �
 
 **Precondición (esta campaña):** Sin Neronvain vivo no hay juicio ni este bloque narrativo tal cual; ver **regla de mesa** en la misión del dragón verde.
 
-**Nota (Rian):** En **Parte I**, **Rian** puede asistir con **Neverember** (observadora). La **presentación fuerte** como **persona de confianza** de **Dagult** ocurre en **Parte II**. **Jamna**, el robo de la máscara y el tinglado son **[AN11](./AN11_Mision_Sombras_Consejo.md)** — no los improviséis en AN10 salvo una **línea** de cierre (custodia de la máscara).
+**Nota (Rian):** En la **narración canónica**, **Rian no asiste al juicio** — solo al **Segundo Concilio**, donde **Neverember** la presenta en pleno. **Jamna**, el robo de la máscara y el tinglado son **[AN11](./AN11_Mision_Sombras_Consejo.md)** — no los improviséis en AN10 salvo custodia sellada al cierre del pleno.
 
 ---
 
@@ -49,6 +51,8 @@ Este documento es el **segundo gran bloque político** de la sandbox tras [03 �
 ---
 
 ## 📜 **Contexto y gancho (Parte I)**
+
+**Llegada con las pruebas (beat de apertura):** El grupo regresa del Alto Bosque con las manos llenas de evidencia. Sobre la mesa caen la **Máscara del Dragón Verde**, los papeles incautados y las cartas de los aposentos de Neronvain. Cada documento lo ata al Culto: a la cadena de **Severin**, a la servidumbre del wyrm **Chuth** y a las rutas que entregó al enemigo cuando la alianza más sangraba.
 
 Tras descubrir la traición de Neronvain y su conexión con el Culto del Dragón, los héroes deben decidir su destino. El rey Melandrach exige que su hijo sea juzgado **según las leyes élficas**, pero **no** en su corte del bosque: por presión de la guerra y acuerdo con **Lady Laeral**, el tribunal se reúne en **Waterdeep** — suelo humano, ley élfica — en el mismo arco en que la ciudad convoca el **Segundo Concilio** (Parte II). Así la alianza atestigua sin mover ejércitos al Bosque Brumoso.
 
@@ -77,61 +81,15 @@ Si los héroes no manejan esto correctamente, el reino élfico puede entrar en g
 
 ---
 
-## ⚔️ **ENCUENTROS SUGERIDOS**
+## ⚖️ **GUION — El juicio (Parte I)**
 
-### **1️⃣ Encuentro Inicial — Tensión antes del acto (Waterdeep)**
+> **Sesión corta:** saltad directo a [Orden del acto](#orden-del-acto-guion-sugerido). Preludios, investigación y tablas de consecuencias están en el [Apéndice Parte I](#-apéndice--parte-i-opcional).
 
-**En esta campaña** el preludio transcurre en **Aguasprofundas**, no en el Bosque Brumoso: facciones élficas presentes, delegados del Consejo, prensa y rumores.
-
-**Situación:**
-- **Calle y taberna:** elfos tradicionalistas y moderados se enfrentan a voces; la Guardia y Force Grey contienen el barrio cerca del Castillo
-- **Melandrach** bajo presión diplomática (Laeral como anfitriona, facciones que exigen sangre o espectáculo)
-- **Neronvain** custodiado en las mazmorras del Castillo (o bajo traslado blindado); seguidores o el Culto pueden intentar **sabotaje** o **liberación** antes del día del juicio
-
-**Opciones:**
-- **Mediar entre facciones:** Intentar calmar las tensiones antes del juicio
-- **Apoyar a una facción:** Elegir un bando (riesgoso pero puede ser necesario)
-- **Neutralidad:** Mantenerse neutrales y observar
-
-**Desafíos:**
-- **Persuasión (DC 18):** Calmar a las facciones enfrentadas
-- **Historia (DC 15):** Entender las tradiciones élficas
-- **Intimidación (DC 17):** Forzar el orden (puede generar resentimiento)
-
----
-
-### **2️⃣ Encuentro de Investigación — Descubrir la Verdad Completa**
-
-Antes del juicio, los héroes pueden investigar para entender completamente la traición de Neronvain.
-
-**Pistas a Descubrir:**
-1. **La extensión de la traición:** ¿Cuántos elfos estaban involucrados?
-2. **Los motivos:** ¿Por qué Neronvain traicionó a su pueblo?
-3. **Las conexiones:** ¿Quién más del Culto estaba involucrado?
-4. **Las consecuencias:** ¿Qué información o recursos pasó al Culto?
-
-**Dónde cerrar cada pista:**
-- **1, 3 y 4** pueden quedar **resueltas con evidencia física** si los PJ registraron los **aposentos de Neronvain** en la guarida (ver [03 - Neronvain el Verde](./03_Mision_Neronvain_Verde.md), Escena 3 — *Aposentos de Neronvain*).
-- **2 (motivos)** suele completarse en el **juicio**, cuando Neronvain **declara** ante el tribunal (sección siguiente).
-
-**Cómo investigar:**
-- **Interrogar a Neronvain:** Puede revelar información si se le trata con respeto
-- **Revisar documentos:** Encontrar evidencia de sus actividades
-- **Hablar con testigos:** Elfos que vieron sus acciones sospechosas
-- **Investigar sus aliados:** Descubrir quién más estaba involucrado
-
-**Desafíos:**
-- **Investigación (DC 17):** Encontrar evidencia física
-- **Persuasión (DC 16):** Convencer a testigos de hablar
-- **Intimidación (DC 18):** Forzar información (puede generar resentimiento)
-
----
-
-### **3️⃣ Encuentro Principal — El Juicio**
+### **El juicio**
 
 El juicio se lleva a cabo según las tradiciones élficas antiguas, pero en esta campaña tiene un matiz importante: **la alianza contra el Culto** exige que quienes capturaron al traidor y quienes sufrieron sus crímenes **no queden fuera** del ritual. Tras negociación (típicamente **Lady Laeral** y **Sir Isteval** con Melandrach), los **delegados del Consejo de Guerra** presentes reciben **derecho a la palabra** — no para sustituir la ley élfica, sino para **atestiguar** el daño a la coalición y **pedir** (no imponer) una sentencia coherente con la guerra que todos libran.
 
-**Quién viaja:** El DM no está obligado a traer a los diez delegados. Lo habitual es **4 a 7** personajes: variedad sin eternizar la escena. Sugerencia por peso dramático: **Lady Laeral** (anfitriona del **recinto** en Waterdeep), **Melandrach** (preside el ritual y el veredicto), **Ontharr Frume**, **Remallia Haventree**, **Connerad Brawnanvil**, **Delaan Winterhound**, **Ulder Ravengard**; añade **Dagult Neverember** (casi siempre, para traer a **Rian**; ver más abajo), **Taern Hornblade** o **Sir Isteval** si quieres más roce político.
+**Quién viaja:** El DM no está obligado a traer a los diez delegados. Lo habitual es **4 a 7** personajes: variedad sin eternizar la escena. Sugerencia por peso dramático (alineada con la narración): **Lady Laeral** (anfitriona), **Melandrach** (preside el ritual y el veredicto), **Ontharr Frume**, **Remallia Haventree**, **Connerad Brawnanvil**, **Delaan Winterhound**, **Ulder Ravengard**, **Dagult Neverember** y **Sir Isteval** (casi obligatorio si usáis el **suicidio con su daga**). **Rian no está en el juicio** — reservad su entrada para la **Parte II**. Añade **Taern Hornblade** solo si queréis más roce arcano.
 
 **Lugar y tono (Waterdeep, misma sala del Consejo):** En esta campaña el juicio usa **la misma cámara del Consejo de Guerra** (o el salón anexo donde ya celebrasteis el pleno): **mesa circular** o disposición equivalente, estandartes de la alianza, **sitiales** para delegados y para facciones élficas del norte; **Neronvain** encadenado en el centro o en un estrado bajo custodia mixta (Guardia de Waterdeep + guardia élfica); los **PJ** en sitial de honor por haberlo capturado. El ambiente es **silencioso, largo y cruel** en el sentido ritual: cada palabra pesa; fuera, la ciudad murmura.
 
@@ -145,7 +103,7 @@ El juicio se lleva a cabo según las tradiciones élficas antiguas, pero en esta
 | **2. Acusación élfica** | Sacerdote-juez o **alto noble tradicionalista** enumera cargos (traición, pacto con el Culto, muerte de súbditos, profanación del bosque). |
 | **3. La voz de la alianza** | Hablan **varios miembros del Consejo de Guerra** (intervenciones breves, una tras otra). |
 | **4. El acusado** | **Neronvain** declara (subsección *Declaración de Neronvain*). |
-| **5. Testigos** | **Alagarthas**, **PJ**, exploradores o víctimas de Altand / Everlund. |
+| **5. Testigos** | Quienes **cazaron a Chuth** bajo cielo de cúpula, quienes **sostuvieron las cadenas** durante el ritual, quienes **vieron arder Everlund** — **Alagarthas**, **PJ** y exploradores del campamento. |
 | **6. Deliberación** | Consejo de ancianos élficos (o familia reinante + jueces); los extranjeros **no votan**, salvo que el DM decida un ritual mixto excepcional. |
 | **7. Veredicto** | **Melandrach** pronuncia la sentencia con autoridad real (subsección *Veredicto — Rey Melandrach*). |
 
@@ -184,6 +142,8 @@ Un **noble tradicionalista** o **custodia del linaje** (NPC) resume cargos sin r
 ---
 
 #### **La voz de la alianza — intervenciones del Consejo de Guerra**
+
+> **📻 Narración canónica:** la [narracion_01](../../conversation-scene-tts/examples/narracion_01_juicio_neronvain.yaml) **resume** quién habla y el tono; no lee estas citas. Usad el bloque siguiente solo en **sesión larga** o si queréis teatro en mesa.
 
 Cada delegado puede ocupar **1–3 minutos en mesa** (un párrafo + cita). Orden sugerido: de la **moderación** a la **dureza**, para subir la tensión hasta la declaración de Neronvain.
 
@@ -224,17 +184,12 @@ Enclave Esmeralda; el **Alto Bosque** y los vedados profanados.
 
 > "La tierra **recuerda** el veneno del dragón y el trazado de las rutas que vendisteis. El Enclave no olvida **qué árboles** dejaron de ser sagrados por vuestra información. Pedimos sentencia **y reparación**: que el bosque sepa que **el precio** de la traición se pagó."
 
-**Dagult Neverember** *(casi obligatorio en esta campaña — trae a Rian)*  
+**Lord Dagult Neverember**  
 Frío, útil: Neverwinter quiere **estabilidad**, no escándalo.
 
 > "Yo reconstruyo ciudades sobre ceniza. Lo que necesito saber es si al terminar este juicio **podré contar** con vuestros arqueros sin rumores de que el trono ama más al hijo que al pacto."
 
-**Rian Nightshade** *(junto a Neverember — semilla para [AN11](./AN11_Mision_Sombras_Consejo.md))*  
-No interviene como jueza: **observa**, susurra al oído de **Neverember**, toma notas con calma de mercader. Tiefling, bruja, **Red Negra** al descubierto si alguien pregunta: en esta sala ya **no** es un rumor lejano.
-
-- **Siembra de sospechas:** **Remallia** o **Laeral** pueden lanzar una **mirada** a los PJ: *“¿Quién invitó a la sombra a la mesa del juicio?”* — no hay acusación formal; basta **malestar**. Un guardia de Waterdeep puede murmurar *“Zhent en el Castillo…”* y cortarse solo.
-- **Si la confrontáis:** **Rian** puede responder con **dulzura legal**: *“Neverwinter paga asesoría; yo asesoro. El acusado es **vuestro** príncipe, no el mío.”* El foco pleno de **Neverember** llegará en la **Parte II** (Segundo Concilio); aquí no debe eclipsar a Melandrach.
-- **Perspicacia (DC 12):** Los PJ notan que **no** mira a Neronvain con curiosidad de turista: mira **quién** firma qué y **cómo** reaccionan Laeral y los Arpistas — útil más tarde cuando AN11 enmarque a los Zhent.
+> **📌 Rian en el juicio:** En la **narración canónica** no está en esta sala. Reservad su **presentación en pleno** para la **Parte II**; la intriga Zhent no debe eclipsar a Melandrach aquí.
 
 **Taern Hornblade** *(opcional)*  
 Arcano: la **Máscara** como arma de guerra, no joya de familia.
@@ -247,29 +202,9 @@ Arcano: la **Máscara** como arma de guerra, no joya de familia.
 
 ---
 
-#### **Sospecha de infiltrados — puente a *Traiciones en Waterdeep* (A04)**
+#### **Filtraciones — semilla breve (opcional en juicio)**
 
-El juicio no debe cerrarse solo como drama élfico: aquí debe **aflorar** la duda de que el Culto tiene **ojos dentro de la alianza urbana**, para que los PJ **quieran** investigar [A04 - Traiciones en Waterdeep](./AN04_Mision_Traiciones_Waterdeep.md) más adelante (p. ej. en el **3.er Concilio** o cuando elijan el nodo de inteligencia). La **Parte II** de este documento y [AN11](./AN11_Mision_Sombras_Consejo.md) pueden **adelantar** esa paranoia.
-
-**Cuándo soltarlo (elige uno o combina):**
-
-1. **Al leer o mencionar pruebas de la guarida** ([03 - Neronvain el Verde](./03_Mision_Neronvain_Verde.md)): un documento habla de **informes** que “**coincidían** con lo debatido **en el salón sellado**” o de **mensajes** que llegaban “**desde la ciudad de las máscaras**” antes de que el enemigo actuara. No hace falta nombre: basta **incomodidad** en los delegados que vinieron de Waterdeep.
-
-2. **Lady Laeral** *(voz clave)*: tras una pausa incómoda, puede decir en voz baja (o al borde del ritual, con permiso de Melandrach):
-
-> “Parte de lo que este traidor entregó **no pudo** nacer solo en el Bosque. Los plazos, los refuerzos, el **orden del día** de ciertas sesiones… el Culto los conocía demasiado pronto. **Aguasprofundas** no está limpia. Cuando volváis, **habrá que abrir armarios**.”
-
-3. **Remallia Haventree**: los **Arpistas** ya sospechaban **patrones** en filtraciones; el juicio **confirma** que no era paranoia. Puede mirar a los PJ: *“Guardad esto para cuando el Consejo os escuche sin tapujos.”*
-
-4. **Taern Hornblade** *(si está)*: enfoque arcano — si los informes citan **sellos** o **copias** que solo existen en **archivos de la Hermandad** o del **palacio**, el problema **no** es solo campo.
-
-5. **Neronvain** *(opcional, en su declaración o bajo interrogatorio)*: una **pulla** vaga que enardezca la sala sin pruebas: *“Severin no lee solo cartas élficas: vuestra **mesa redonda** también habla… cuando alguien se la susurra al oído.”* Melandrach puede ordenar **silencio** si se desvía el juicio; el daño narrativo ya está hecho: **sospecha pública**.
-
-**En mesa:** **Perspicacia (DC 13)** o **Insight (DC 13)**: los PJ captan que **Laeral** y **Remallia** no dramatizan — **temen** un infiltrado con acceso al Consejo. **Investigación (DC 15)** si revisan los documentos en el acto: una línea cifrada enlaza **fechas** de filtraciones con **días de sesión** en Waterdeep.
-
-**Después del veredicto:** En privado o ante el grupo, **Laeral** (o **Isteval** como mediador) puede encargar explícitamente: *“En el próximo Concilio quiero vuestras manos libres para **cazar sombras** en mi ciudad.”* Así A04 sale **anticipada** como promesa; el gancho detallado sigue en el documento de la misión.
-
-**Nota:** En la estructura de la campaña, A04 es del **nodo de Inteligencia (3er Concilio)** y compite con A07; esta escena **no sustituye** el gancho del Tercer Concilio, pero **alimenta** el deseo de elegir A04 cuando toque la bifurcación.
+Si queréis plantar la duda antes del pleno, **una línea** basta al presentar pruebas de la guarida ([03](./03_Mision_Neronvain_Verde.md)): un informe **coincide** con lo debatido en el salón sellado. **El desarrollo completo** (puerto, Everlund, traidor en la mesa, misión [AN04](./AN04_Mision_Traiciones_Waterdeep.md)) ocurre en la **Parte II** — no repetáis aquí el debate de filtraciones.
 
 ---
 
@@ -325,9 +260,9 @@ Los **ancianos élficos** (o el cónclave que definas) se retiran o murmuran en 
 
 #### **Veredicto — Rey Melandrach**
 
-La **última palabra** es del trono: Melandrach pronuncia la sentencia en voz alta. **Por defecto** lee la **muerte**: ha cedido a la presión unánime del consejo de ancianos y de la alianza, o la ley élfica no le deja salvo sin apoyo político. **Solo** si los PJ han **protestado**, **negociado** o **dado cobertura** a Melandrach para usar **prisión** (Opciones B–D), usa uno de los textos de prisión.
+La **última palabra** es del trono: Melandrach pronuncia la sentencia en voz alta. **Por defecto** lee la **muerte**: ha cedido a la presión unánime del consejo de ancianos y de la alianza, o la ley élfica no le deja salvo sin apoyo político. **Solo** si los PJ han **protestado**, **negociado** o **dado cobertura** a Melandrach para usar **prisión**, usa el texto de la **Opción B**.
 
-**Si la sentencia es muerte — resultado por defecto si los PJ no evitan la ejecución (Opción A):**
+**Si la sentencia es muerte — resultado por defecto (Opción A):**
 
 Primero **Melandrach** pronuncia la **condena a muerte** (texto sugerido):
 
@@ -347,6 +282,15 @@ Primero **Melandrach** pronuncia la **condena a muerte** (texto sugerido):
 **Cierre diplomático (opcional):** Melandrach se vuelve a **Lady Laeral** o al portavoz que elijas:
 
 > "Habéis oído la ley **de los míos**. Pedid a vuestro Consejo que no confunda **justicia con espectáculo**: lo que aquí se hizo fue **necesario**. El bosque no aplaude: **aguanta**."
+
+---
+
+**Si la sentencia es prisión (Opción B)** — solo si los PJ consiguieron conmutar la pena:
+
+> "Por traición a la corona, por pacto con quien profana el cielo y por sangre de los míos derramada **con intención**, la ley del Bosque pide cuenta. **No** pediré vuestra sangre hoy: pediré **silencio**, **cadena** y **obediencia** bajo custodia real hasta que el último día de esta guerra haya pasado. **Neronvain** queda condenado a **prisión perpetua** bajo llave del trono — **sin exilio**, **sin veto**, **sin nombre** en la frontera."
+
+- **No** hay escena de la daga de Isteval; Neronvain pasa a mazmorras del Castillo o calabozo élfico bajo custodia conjunta.
+- **AN11** asume por defecto la **Opción A** (muerte + daga en bóveda). Si Neronvain **vive**, adaptad AN11 o posponed el ritual de revivificación.
 
 ---
 
@@ -377,47 +321,29 @@ Primero **Melandrach** pronuncia la **condena a muerte** (texto sugerido):
 
 ---
 
-## 🔍 **PISTAS CLAVE**
+## 📎 **APÉNDICE — Parte I (opcional)**
 
-### **1. Neronvain No Actuó Solo**
+*Saltad este bloque en sesión corta o si ya jugasteis la investigación en la [03](./03_Mision_Neronvain_Verde.md).*
 
-Si investigan, los héroes descubren que Neronvain tenía aliados:
-- Otros elfos nobles estaban involucrados
-- El Culto tenía agentes dentro del reino
-- Algunos elfos fueron corrompidos por promesas de poder
+### **Preludio — Tensión antes del acto (Waterdeep)**
 
-**Cómo descubrirlo:**
-- **Investigación (DC 18):** Encontrar evidencia de una conspiración mayor
-- **Interrogación (DC 17):** Neronvain puede revelar nombres si se le trata bien
-- **Percepción (DC 16):** Notar que algunos elfos actúan de forma sospechosa
+El preludio transcurre en **Aguasprofundas**: facciones élficas, delegados del Consejo, rumores. **Calle y taberna:** traditionalistas vs moderados; Force Grey cerca del Castillo. **Neronvain** en mazmorras; el Culto puede intentar **liberación** antes del juicio.
 
-### **2. El Culto Quiere que el Reino se Divida**
+- **Persuasión (DC 18):** Calmar facciones · **Historia (DC 15):** Tradiciones élficas · **Intimidación (DC 17):** Forzar orden (resentimiento)
 
-El Culto está manipulando las facciones para causar una guerra civil:
-- Agentes del Culto están infiltrados en las facciones
-- Están alimentando el odio y la división
-- Quieren debilitar a los elfos antes del ataque final
+### **Investigación y pistas (antes o durante el juicio)**
 
-**Cómo descubrirlo:**
-- **Investigación (DC 19):** Encontrar evidencia de manipulación
-- **Arcana (DC 18):** Detectar magia de encantamiento
-- **Persuasión (DC 17):** Convencer a un agente de revelar la verdad
-
-### **3. Melandrach Tiene Sus Propias Dudas**
-
-El rey Melandrach está dividido entre su deber como rey y su amor como padre:
-- Quiere justicia pero también quiere salvar a su hijo
-- Está bajo presión de todas las facciones
-- Puede tomar decisiones desesperadas si no se le ayuda
-
-**Cómo ayudarlo:**
-- **Persuasión (DC 16):** Ofrecerle apoyo y consejo
-- **Diplomacia (DC 17):** Ayudarle a encontrar un compromiso
-- **Empatía:** Mostrar comprensión por su situación difícil
+| **Pista** | **Cómo cerrarla** |
+|-----------|-------------------|
+| Extensión de la traición / conexiones Culto / recursos filtrados | Evidencia de [aposentos de Neronvain](./03_Mision_Neronvain_Verde.md) · **Investigación (DC 17–18)** |
+| Motivos de Neronvain | Declaración en juicio · **Interrogación (DC 17)** |
+| Conspiración mayor / elfos cómplices | Testigos élficos · **Percepción (DC 16)** |
+| Culto divide facciones | **Investigación (DC 19)** · **Arcana (DC 18)** encantamiento |
+| Melandrach dividido (deber vs padre) | **Persuasión (DC 16)** · **Diplomacia (DC 17)** apoyo al rey |
 
 ---
 
-## 🎭 **CONSECUENCIAS NARRATIVAS**
+## 🎭 **Consecuencias narrativas (Parte I)**
 
 | **Resultado** | **Efecto** |
 |---------------|-----------|
@@ -436,7 +362,7 @@ Esta misión tiene consecuencias a largo plazo:
 
 ---
 
-## 🧩 **INTEGRACIÓN CON LOS MEDIDORES**
+## 🧩 **Integración con medidores (Parte I)**
 
 | **Medidor** | **Posible Cambio** |
 |------------|-------------------|
@@ -452,62 +378,35 @@ Esta misión tiene consecuencias a largo plazo:
 
 ---
 
-## 🧠 **NOTAS DEL DM**
+## 🧠 **Notas rápidas del DM (Parte I)**
 
-### **Tono y Ambiente**
+- **Tono:** drama legal; ley élfica bajo techo aliado; **muerte por defecto** (daga Isteval) salvo esfuerzo explícito de los PJ hacia **prisión**.
+- **Neronvain muerto (A):** legado o revivido en [AN11](./AN11_Mision_Sombras_Consejo.md). **Vivo (B):** interrogatorio, fuga, motín — adaptad AN11.
+- **Versión corta del juicio:** Laeral + Frume + Remallia + declaración Neronvain + veredicto; narración en [narracion_01](../../conversation-scene-tts/examples/narracion_01_juicio_neronvain.yaml).
 
-Esta misión debe sentirse como un drama político y legal:
-- **Tenso:** Las decisiones tienen consecuencias reales
-- **Emocional:** Se trata de familia, lealtad y traición
-- **Diplomático:** Requiere habilidades sociales y negociación
+### **Momentos memorables (Parte I)**
 
-### **Elementos Narrativos**
-
-1. **NPCs Clave:**
-   - **Rey Melandrach:** Dividido entre deber y amor paternal
-   - **Neronvain:** Puede morir en el juicio o acabar en prisión (incl. trabajos bajo custodia); no hay **exilio** como sentencia
-   - **Líderes de facciones:** Cada uno con sus propias motivaciones
-   - **Testigos:** Elfos que vieron la traición
-
-2. **Consecuencias a largo plazo:**
-   - Las decisiones aquí afectan el apoyo élfico en el clímax
-   - Si Neronvain **vive en prisión**, puede volver a salir en escena (motín, interrogatorio, fuga); si **murió en el juicio** (Opción A), solo como legado o rumor —salvo **revivido** en [AN11](./AN11_Mision_Sombras_Consejo.md)
-   - El reino puede convertirse en aliado o enemigo
-
-3. **Conexión con Otras Misiones:**
-   - Esta misión está directamente relacionada con "Neronvain el Verde"
-   - Las decisiones afectan el apoyo del norte
-   - Puede desbloquear o bloquear misiones futuras
-
-### **Ajustes de Dificultad**
-
-- **Si el grupo es más débil:** Reduce los desafíos de habilidades o permite más ayuda de NPCs
-- **Si el grupo es más fuerte:** Añade más complejidad política o más facciones
-- **Para más combate:** Añade más intentos de rescate o ataques
-- **Para más rol:** Enfócate en las negociaciones y el momento en que los PJ **pueden** evitar la ejecución por defecto
-
-### **Momentos Memorables**
-
-1. **La tensión antes del acto:** Calles y Castillo en Aguasprofundas; facciones élficas y rumores urbanos
-2. **La apertura de Melandrach:** Rey y padre bajo techo aliado; ritual élfico en suelo de Waterdeep; extranjeros con voz pero sin mando
-3. **La galería del Consejo:** Casi todos empujan a la **muerte**; solo **Melandrach** (y los PJ si intervienen) pueden torcer el curso hacia **prisión** (si no, **daga de Isteval** y escena final)
-4. **Declaración de Neronvain** y réplica del rey
-5. **El veredicto de Melandrach:** Por defecto **muerte**; **prisión** solo si los PJ se movilizaron (variantes de grilletes según el tono)
-6. **Las consecuencias:** Cómo reacciona la alianza al cerrar el acto
+1. Llegada con **máscara y papeles** sobre la mesa
+2. Apertura de **Melandrach** — rey, padre, juez
+3. Galería del Consejo empujando a **muerte**; solo Melandrach (+ PJ) abren **prisión**
+4. Declaración de **Neronvain** y réplica del rey
+5. **Veredicto** — daga de Isteval (A) o cadena perpetua (B)
 
 ---
 
 ## 🏛️ **PARTE II — Segundo Concilio de Aguas Profundas**
 
-*Formato y tono: tomad como referencia el pleno del [Episodio 1](./01_Episodio_1_Consejo_Aguas_Profundas.md) (ambientación del Palacio, peso político, discursos). Aquí el contexto ya no es la caída del Castillo: es la **guerra abierta**, el **prisionero de sangre real élfica** y lo que su veredicto implica para el norte. En esta sesión la mesa no solo **ratifica** el juicio: **revisa frentes**, **lee informes** y **huele filtraciones** — el tono pasa de duelo élfico a **paranoia controlada** que prepara **[AN11](./AN11_Mision_Sombras_Consejo.md)**.*
+*Formato y tono: tomad como referencia el pleno del [Episodio 1](./01_Episodio_1_Consejo_Aguas_Profundas.md) (ambientación del Palacio, peso político, discursos). Aquí el contexto ya no es la caída del Castillo: es la **guerra abierta**, el **veredicto del juicio** y el giro hacia el **sur y el oeste**. En esta sesión la mesa **cierra el bloque norte** (lo logrado por los PJ), **revisa filtraciones** y **abre cuatro frentes** hacia el Tercer Concilio. **[AN11](./AN11_Mision_Sombras_Consejo.md)** arranca **al día siguiente**, pero en el pleno solo figura como **nota al margen** del legajo — no como prioridad roja del despacho.*
 
 ### **Cuándo ocurre**
 
-Suele situarse **después del veredicto** (o **el mismo día** en sesión distinta: mañana juicio, tarde pleno). Los PJ **vuelven a la mesa circular** con el mismo “olor a hierro” que dejó el tribunal. El pleno es **guerra + inteligencia**, no brindis: **logística, informes y sospecha difusa** hacia **[AN11](./AN11_Mision_Sombras_Consejo.md)**.
+Suele situarse **después del veredicto** (o **el mismo día**: mañana juicio, tarde pleno). Los PJ **vuelven a la mesa circular** con el mismo “olor a hierro” que dejó el tribunal. El pleno es **guerra + inteligencia**: **cierra el norte**, abre **cuatro frentes** hacia el Tercer Concilio; **[AN11](./AN11_Mision_Sombras_Consejo.md)** arranca **al día siguiente**, aparte del despacho principal.
 
 ---
 
 ### **Conversación del pleno — texto seguido para interpretar**
+
+> **📻 Diálogo en audio:** [concilio_aguasprofundas_ii.yaml](../../conversation-scene-tts/examples/concilio_aguasprofundas_ii.yaml) · **Relato completo** (incluye informe de guerra): [narracion_02_segundo_concilio_misiones.yaml](../../conversation-scene-tts/examples/narracion_02_segundo_concilio_misiones.yaml). El bloque siguiente **duplica** el YAML hasta la custodia de la máscara; el **informe de cuatro frentes** solo está más abajo en este documento.
 
 Lo que sigue es **un solo tramo** de sesión: leedlo **de corrido** y repartid **voces** entre los jugadores o el DM (estilo lectura teatral). **No** va troceado por escenas: el orden es el **flujo** natural (entrada → informes → Neverember/Rian → tensión → cierre). Los **diez asientos** están ocupados (ver [Asistentes del Consejo](../04_Guia_DM/06_Asistentes_Consejo.md)); **Melandrach** puede callar o decir una sola frase.
 
@@ -536,7 +435,7 @@ La **misma cámara** donde jurasteis frentes huele a **tinta**, **cuero** y **su
 > “Basta de nombres **sin** pruebas. Si abrimos la caza de brujas **aquí**, gana el Culto: nos comeremos entre nosotros. **Auditoría** de mensajeros. **Duplicado** de actas. **Silencio** hasta tener **papeles**.”
 
 **Remallia Haventree**  
-> “Los Arpistas ya cruzábamos **fechas** antes del juicio. Neronvain **no inventó** el agujero: lo **confirmó**. Alguien con **acceso** a lo que esta mesa sabe.”
+> “Los Arpistas ya cruzábamos **fechas** antes del juicio. Neronvain **no inventó** el agujero: lo **confirmó**. **El traidor sigue dentro.**”
 
 **Sir Isteval**  
 > “Cormyr no ha perdido un solo barco por culpa de **Suzail**. Si hay filtración, que se **demuestre** —no con miradas.”
@@ -575,18 +474,29 @@ La **misma cámara** donde jurasteis frentes huele a **tinta**, **cuero** y **su
 > “Con lo dicho, queda **actualizado** el **informe de guerra** del Consejo: **misiones** abiertas para quien la Corona autorice. Escuchad el **repaso**.”
 
 **Heraldo / canciller militar** *(o **Laeral** leyendo; tono administrativo, no teatral)*  
-> “**Informe de situación — despacho conjunto.** Se listan **prioridades** activas para grupos de intervención…”
+> “**Informe de situación — despacho conjunto.** Primero lo cumplido. Después lo que queda por elegir.”
 
-**Contenido del informe** *(el DM puede leer en lista; lo importante es el **énfasis** en la última)*  
+**Contenido del informe** *(alineado con [narracion_02_segundo_concilio_misiones.yaml](../../conversation-scene-tts/examples/narracion_02_segundo_concilio_misiones.yaml); el DM puede leer en lista)*  
 
-- **Frentes generales:** refuerzo de **convoyes**, auditoría de **mensajeros**, apoyo a **Everlund** y al **Alto Bosque** según mapas del día. *(Ajustad a misiones que ya tengáis en campaña: [04B](./04B_Culto_Contraataca_II_Fuego_Norte.md), patrullas, etc.)*  
-- **Waterdeep — seguridad interior:** investigaciones abiertas sobre **filtraciones** y **actos delictivos** ligados al Culto en la ciudad. *(Encaja con [AN04](./AN04_Mision_Traiciones_Waterdeep.md) si la usáis.)*  
-- **Prioridad reseñada** *(el heraldo **insiste** o **Laeral** subraya con el dedo en el pergamino)*: **«Sombras en el Consejo»** — seguimiento **inmediato** de los **robos** en el Castillo (evidencias del juicio), **pistas** hacia el **Muelle** y **Cormyr**, y **caza** de quien **vende** o **regala** secretos de la alianza. **Esa** misión es la que el Consejo **marca** con **sello rojo** o **doble raya** en el legajo: no es solo otra partida: es **la** respuesta a lo que acabáis de oír en esta sala.
+**Balance del norte — frente cerrado** *(el heraldo deja el pergamino con un golpe sordo)*  
+
+Por la mano de los héroes, en estos meses: el **Mar de Hielo** cerrado y **Maccath la Carmesí** a salvo bajo techo arcano ([02](./02_Mision_Mar_Hielo_Movedizo_Botin.md)); **Everlund** descongestionada; el wyrm **Chuth** derribado en el Alto Bosque; las **ruinas del norte** peinadas, con supervivientes traídos a casa; y **Neronvain** arrastrado vivo hasta esta sala, juzgado, ejecutado por su propia mano ([03](./03_Mision_Neronvain_Verde.md)). **El frente del norte, prácticamente, está cerrado.** Eso es ayer. Hoy hay que mirar al **sur** y al **oeste**.
+
+**Cuatro frentes abiertos** *(leídos en orden; cada uno es una elección posible antes del Tercer Concilio)*  
+
+1. **Dragones metálicos del norte** — oro, plata, bronce; disputas viejas entre escamas y deudas de sangre con humanos. Si la alianza quiere romper el ritual del Culto, los necesita en el cielo. Pero los dragones no obedecen: hace falta una **embajada** que no se queme antes de hablar. → [05 — Dragones Metálicos, Alzaos](./00_Estructura_Aventuras.md) · [AN05](./AN05_Mision_Sangre_Dragon.md) · [AN12](./AN12_Mision_Cenizas_Plata.md)  
+2. **Torre de Xonthal** — vuelve a humear. **Rath Modar** y los magos rebeldes terminan algo dentro; nadie de fuera entiende del todo qué. Lo que sea, está atado al ritual final. La torre es un laberinto y entrar es una guerra aparte. → misión oficial **06 — Torre de Xonthal** · [AN06](./AN06_Mision_Ecos_Torre.md)  
+3. **Contraataques del Culto** — herido, ataca con desesperación: caravanas, aldeas aliadas, frentes pequeños y simultáneos. No para ganar terreno: para **sangrar** a la coalición antes del ritual. Cada misión de auxilio cuenta; cada ausencia, también. → [04B](./04B_Culto_Contraataca_II_Fuego_Norte.md) y patrullas del nodo  
+4. **Infiltrado en la mesa** *(cuarto punto, leído más despacio; sello propio)* — lo que apuntó **Laeral** hace un rato no era una sospecha más: hay un **traidor con acceso a esta sala**. Las filtraciones del puerto, los plazos que el enemigo conocía antes que el capitán, los debates que viajaban antes que los cuervos… **no** se explican solo con Neronvain. La caza del infiltrado en Aguasprofundas pasa a **misión abierta**, con licencia de la Señora Abierta y los Arpistas detrás. → [AN04 — Traiciones en Waterdeep](./AN04_Mision_Traiciones_Waterdeep.md)
+
+**Nota al margen** *(tinta más fina; el heraldo no insiste)*  
+
+> **«Sombras en el Consejo»** — robos en el Castillo, pistas hacia el **Muelle** y hacia **Cormyr**… La Guardia de Aguasprofundas y los Arpistas siguen el rastro **por su cuenta**. La **máscara del verde** y la **daga de Isteval**, selladas en bóveda. Si los héroes encuentran un hilo en el camino, que tiren; pero la **prioridad de la alianza** está en lo de arriba.
 
 **Lady Laeral** *(cierre; bajo, a los PJ)*  
-> “El **detalle** operativo de **Sombras** os lo dará **canal privado** — **al día siguiente** al alba, o cuando **os llame** cancillería. **No** dejéis que os lo cuente solo el rumor de taberna.”
+> “El **detalle** operativo de cada frente bajará por **cauce privado** — al alba, o cuando la cancillería os mande llamar. **No** os enteréis por el rumor de fonda. Y **antes** del próximo Concilio… **deberéis haber elegido**.”
 
-*(Enlaza con el arranque de **[AN11 — Sombras en el Consejo](./AN11_Mision_Sombras_Consejo.md)**: robos, **Jamna**, tinglado, etc.)*
+*(El pleno **no** encarga Sombras como urgencia roja. **[AN11](./AN11_Mision_Sombras_Consejo.md)** arranca **al día siguiente** por el hurto en bóveda — ver narración: *«lo que el pleno deja abierto empieza al día siguiente»*.)*
 
 **[Fin del bloque interpretable]** — Recesos y apretones de mano pueden **seguir** después del informe.
 
@@ -606,19 +516,19 @@ La **misma cámara** donde jurasteis frentes huele a **tinta**, **cuero** y **su
 
 **Al oído tras el pleno** *(una o dos líneas):* **Leosin** (sombras); **Laeral** (ojos leales a la mesa); **Remallia** (traed pruebas); **Ulder/Delaan** (cabeza en cubo, metafóricamente).
 
-**Custodia → AN11:** Confirmad **máscara** (y **daga** si aplica) **selladas**; hurto y **[AN11](./AN11_Mision_Sombras_Consejo.md)** al día siguiente.
+**Custodia → AN11:** Confirmad **máscara** (y **daga** si aplica) **selladas** en bóveda; el hurto y **[AN11](./AN11_Mision_Sombras_Consejo.md)** son **al día siguiente**, fuera del despacho principal del pleno.
 
-> **📌 Opcional:** Jamna en el Muelle; *“mañana el Castillo arde en papeles”*.
+> **📌 Prioridades del pleno:** Cuatro frentes con sello propio (dragones, Xonthal, contraataques, infiltrado). **Sombras** = nota al margen, no sello rojo.
 
 ### **Momentos memorables (Parte II)**
 
-1. **Un solo bloque** interpretable: informes + **Suzail** + **Rian** + corte de **Laeral**.
+1. **Un solo bloque** interpretable: filtraciones + **Suzail** + **Rian** + corte de **Laeral** (diálogo en [concilio_aguasprofundas_ii.yaml](../../conversation-scene-tts/examples/concilio_aguasprofundas_ii.yaml)).
 2. *“Siempre tarde / donde duele”* y sala **escocida** antes de **Neverember**.
-3. **Pulla** a **Rian**; *“guardad nombres para cuando tengáis papeles”*.
-4. **Laeral** a los PJ: **no** dudan de ellos; **sí** piden ayuda para el **traidor**.
-5. **Informe de guerra** con **énfasis** en **[Sombras en el Consejo](./AN11_Mision_Sombras_Consejo.md)** (sello rojo / doble raya).
-6. **Semillas AN11:** custodia sellada; **Jamna** / tinglado al día siguiente.
-7. **Cormyr:** **Isteval** impecable; **Orwyn** tomando notas.
+3. **Neverember presenta a Rian**; pulla de **Frume**; *“guardad nombres para cuando tengáis papeles”*.
+4. **Laeral** a los PJ: **no** dudan de ellos; **sí** piden ojos para el **traidor en la mesa**.
+5. **Balance del norte cerrado** y golpe de pergamino: *eso es ayer; hoy miramos al sur y al oeste*.
+6. **Cuatro frentes** del Tercer Concilio; **infiltrado** como cuarto punto con sello propio.
+7. **Sombras** en tinta fina; **AN11** al día siguiente (robos, **Jamna**, tinglado).
 
 ---
 
@@ -626,7 +536,7 @@ La **misma cámara** donde jurasteis frentes huele a **tinta**, **cuero** y **su
 
 - **Negociar con los elfos de Melandrach sobre Neronvain** — se resuelve en **Parte I** (juicio justo o crisis diplomática).
 - **Matar a Melandrach sin juicio** — solo si el grupo rompe el acto de forma extrema.
-- **Filtraciones y sombras en la mesa** — Parte II **abre** el tono; la trama jugable (máscara, Jamna, tinglado, Cormyr) continúa en **AN11**.
+- **Filtraciones y cuatro frentes** — Parte II **cierra el norte** y abre el nodo del Tercer Concilio; la trama del hurto (máscara, Jamna, tinglado, Cormyr) es **AN11**, al día siguiente, **aparte** del despacho principal.
 
 ---
 
@@ -663,5 +573,5 @@ La **misma cámara** donde jurasteis frentes huele a **tinta**, **cuero** y **su
 
 ---
 
-*AN10: juicio moral y político (Parte I) y Segundo Concilio con intriga que abre AN11 (Parte II).*
+*AN10: juicio (Parte I) y Segundo Concilio que cierra el norte y abre cuatro frentes; AN11 al día siguiente.*
 

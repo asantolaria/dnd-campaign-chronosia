@@ -24,7 +24,7 @@
 | **Localización** | Waterdeep (calles, **Castillo**); **casa-taller** en las **afueras** (Morrik); almacén en el **Muelle** (tinglado); complejo penitenciario bajo el Castillo (**Bóvedas del Doble Sello**) |
 | **Conexión temporal** | **Al día siguiente** de **[AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md)** (o del pleno que elijáis): robos en el Castillo; **opción de campaña:** **asesinato callejero** al salir del Castillo que enreda a **Jamna** con la **daga** y la **casa** del nigromante antes del tinglado/morgue |
 
-**En una frase:** Tras AN10, **desaparecen** **máscara** y/o **daga** del depósito → **Jamna** aparece como **asesina** en plena calle (o la pilláis huyendo) → **casa trampeada** en las afueras, **baúl** con la **daga** (de la **máscara**, nada) y **correspondencia** que **vincula** a **Sir Isteval** y **Cormyr** con **Morrik** → **Morrik** **no** está: le quedan **pocas horas** para **levantar** el cadáver de **Neronvain**, **recuperar la máscara** y **huir** tras el ritual → tinglado como **cebo Zhent** → clímax en **Bóvedas** (mazmorra).
+**En una frase:** Tras AN10, **desaparecen** **máscara** y/o **daga** del depósito → **Jamna** aparece como **asesina** en plena calle (o la pilláis huyendo) → **casa trampeada** en las afueras, **piano** en el **ático** (runas, **armaduras vivientes**, compartimento con la **daga** y **toda** la **correspondencia** del plan) → **Morrik** **no** está: le quedan **pocas horas** para **levantar** el cadáver de **Neronvain**, **recuperar la máscara** y **huir** tras el ritual → tinglado como **cebo Zhent** → clímax en **Bóvedas** (mazmorra).
 
 ---
 
@@ -63,7 +63,7 @@ A primera vista, **los Zhentarim son los villanos**: **Rian Nightshade** quedó 
 | **Jamna Gleamsilver** | Agente Zhent de **campo** (gnoma, *HotDQ*). **Prioridad de investigación:** la **daga de Isteval** (prueba del suicidio en AN10); también el robo de la **Máscara** y el tinglado. **No** es la ladrona, pero el DM debe hacerla **creíble como sospechosa**. Al **recuperar** la daga, los PJ pueden **descubrir** que es **drow** + **mágica** — pieza que explica el ritual de **Morrik**. |
 | **Sir Isteval** | Representante **noble** de Cormyr; **paladín**. Prestó su **daga** a Neronvain en [AN10](./AN10_Juicio_Melandrach_y_Concilio_Aguasprofundas.md); el arma (a menudo **drow**, ver premisa) es **vínculo necromántico** con el cadáver. Ha **escrito** a Morrik en tono **correcto** (fe, archivo del Concilio); esas **cartas** salen en la casa — **no** demuestran pacto con el Culto, **sí** alimentan el **rumor**. En el clímax está **junto al nigromante** — no como cómplice voluntario: **dominado**, **atado a ritual** o **rehén** mientras dura el vínculo con **Neronvain** revivido (véase *Clímax*). |
 | **Orwyn Bramble** | *Nombre sugerido* — **segundo asiento** cormyriano: secretario de guerra, mago de la Corona o enviado de **War Wizards**. **Es el filtrador real** (o la cabeza visible de la célula): acceso a actas, sellos y mensajeros hacia el interior de Cormyr y reenvío al Culto. El DM puede fusionar este rol en un NPC que ya uséis. |
-| **Morrik “El Hilo Blanco” Vaunt** | *Nombre sugerido* — **nigromante** al servicio del Culto (o contratado por Orwyn). Mantiene una **casa-taller** en las **afueras** (trampas, archivo con **cartas de Sir Isteval**, baúl donde **guardó** la **daga** robada). Frecuenta el mismo **círculo social** que **Sir Isteval** (donaciones, salones) y el paladín le ha **escrito** en tono cortés (erudición, fe, asuntos del Concilio) **sin** saber el uso que Morrik daba al contacto. Tras el robo, opera con **ventana estrecha:** **pocas horas** para **resucitar** el cadáver de **Neronvain** (morgue + **daga**), **recuperar la máscara** donde la tenga el Culto y **marcharse** antes de que la Guardia cierre el cerco. Revive a Neronvain como sirviente atado (estilo **Zaknafein**). |
+| **Morrik “El Hilo Blanco” Vaunt** | *Nombre sugerido* — **nigromante** al servicio del Culto (o contratado por Orwyn). Mantiene una **casa-taller** en las **afueras** (trampas, **piano** en el **ático** con compartimento oculto donde guardó la **daga** robada y el **archivo** del plan). Frecuenta el mismo **círculo social** que **Sir Isteval** (donaciones, salones) y el paladín le ha **escrito** en tono cortés (erudición, fe, asuntos del Concilio) **sin** saber el uso que Morrik daba al contacto. Tras el robo, opera con **ventana estrecha:** **pocas horas** para **resucitar** el cadáver de **Neronvain** (morgue + **daga**), **recuperar la máscara** donde la tenga el Culto y **marcharse** antes de que la Guardia cierre el cerco. Revive a Neronvain como sirviente atado (estilo **Zaknafein**). |
 
 **Nota sobre Neronvain:** En esta campaña lo habitual es que **murió en AN10** (suicidio con daga de Isteval); la **Máscara** y la **daga** estaban en **cadena de evidencias** separada del cadáver. Si en vuestra mesa quedó **vivo en prisión**, el robo de la máscara/daga **no** exige fuga: ajustad el clímax (Morrik puede ir a por **sangre** o **recuerdos** a la celda).
 
@@ -132,27 +132,50 @@ Si **no** la detienen y **ella huye**: deja caer un **trozo de pergamino** quema
 
 **Propietario registrado:** **Morrik “El Hilo Blanco” Vaunt** — presentado en la ciudad como **erudito** en **antigüedades cormyrianas** y **donante menor** a capillas de **Torm** (círculos que **Sir Isteval** frecuenta en recepciones). **Archivo jugable:** guarda **cartas de Sir Isteval** dirigidas a él (véase §6): **cercanía documentada** que **no** demuestra por sí sola malicia del paladín, pero **sí** **vincula** **Cormyr** e **Isteval** al mismo **dossier** que las **órdenes** del Culto. La casa es **taller** de copias, **consulta** de genealogías falsas y **trastero** de componentes rituales. El **mayordomo** asesinado en la calle era quien **mantenía** la casa cuando Morrik viajaba; su **ausencia** (y la falta de quien abra si los PJ llaman) refuerza el vacío si llegáis **después** del crimen.
 
-**Plantas:** planta baja + **ático** bajo tejado. Exterior: **silenciosa**, persianas cerradas, olor a **incienso** rancio y **formol**.
+**Plantas:** planta baja (despacho, pasillo) + **ático** bajo tejado: **sala del piano** y, contigua, **habitación de exposición** con dos **armaduras** de exhibición (vacías hasta que la trampa despierta). Exterior: **silenciosa**, persianas cerradas, olor a **incienso** rancio y **formol**.
 
 ##### **Trampas (elegid las que encajen; CR global ~11)**
 
 | **Ubicación** | **Trampa** | **Detección / desactivación** | **Efecto si fallan** |
-|---------------|------------|----------------------------------|----------------------|
+| ------------- | ---------- | ----------------------------- | -------------------- |
 | **Umbral** | Alfombra con **falso suelo** (1 ft hundido) | Investigation DC 15 / herramientas de ladrón DC 16 | Caída 1d6; alarma mágica **silenciosa** que avisa a un **familiar** de Morrik (cuervo podrido) en la morgue — *no* a Morrik en persona si ya marchó. |
 | **Pasillo** | **Glifo de guardia** (*glyph of warding*, *thunder* o *sleep*) | Arcana DC 16; *dispel magic* DC 15 | 5d8 trueno en 20 ft **o** sueño en 10 ft (según elegisteis). |
 | **Escalera al ático** | **Cable** que suelta **rejas** de hierro (trampa cazabandidos) | Perception DC 14 al subir | 2d10 contundente + **apresado** (Fuerza DC 16 para escapar). |
 | **Despacho falso** | **Agujas** en el cajón del escritorio (el cebo son cartas **falsas** a “Suzail”) | Investigation DC 13 antes de abrir | 2d10 perforante + veneno opcional (CON DC 13, 2d6). |
-| **Puerta secreta** (ver abajo) | Runas **necrománticas** disimuladas | Arcana DC 15 en el estante | Al forzar sin desactivar: **3d6 necrótico** en 5 ft. |
+| **Piano del ático** (ver §5) | Runas **necrománticas** en **cinco teclas** | Investigation DC 14 **o** Arcana DC 15 al examinar el piano | Ver sección **5** — acorde, púas, parálisis, **armaduras vivientes**. |
 
-##### **5. Habitación oculta y el baúl**
+##### **5. Ático — el piano y las armaduras**
 
-- **Puerta secreta:** detrás de un **estante** de libros en el **despacho** (el de los **verdaderos** papeles). **Investigation (DC 16)** o rastrear **polvo** / **bisagra**; **Strength DC 18** para **forzar** el estante entero (ruido).
-- Tras la puerta: habitación **sin ventanas**, mesa con **círculo** borrado, **baúl de hierro** con **cerradura** arcana (**Arcana DC 17** o **knock** / paladín con *dispel*).
-- **Dentro del baúl:** la **daga de Sir Isteval** (la del juicio), envuelta en **paño** con sello **roto** de la cadena de custodia. ***Detect magic***: aura tenue; **History/Arcana (DC 14)**: **forja drow**. **De la máscara no hay rastro** en la casa — quien robó la máscara **no** es Morrik o **no** la trajo aquí.
+**Ambiente:** polvo fino, olor a **cera** vieja y **incienso** frío. Un **piano de cola** cubierto con **sábana** gris; partituras apiladas (melodías **mundanas** de fachada). En la **habitación contigua** (puerta entreabierta o arco sin puerta), dos **armaduras** de **exhibición** sobre **soportes** — yelmos cerrados, **vacías**… hasta que la trampa **las llena**.
+
+**Descubrir la trampa:** **Investigation (DC 14)** o **Arcana (DC 15)** al examinar el piano revela **runas necrománticas** grabadas en el **marfil** de **cinco teclas** (marcadlas en mesa: p. ej. **do♯, mi, sol♭, la, si** — no hace falta acierto musical real). Sin prueba, una tecla suelta suena **normal**; pulsar **todas a la vez** (o en el orden que anotéis en una partitura falsa del escritorio) **activa** el mecanismo.
+
+**Secuencia al activar las teclas:**
+
+1. Suena un **acorde** disonante; al instante arranca una **melodía oscura** (cuerdas que **vibran solas**; *Thaumaturgy* amplificado o **caja de música** maldita).
+2. Quien **mantiene** las teclas pulsadas **no puede apartar las manos** (magia de **atadura**; no cuenta como *paralyzed* completo del cuerpo, solo **manos pegadas** al teclado).
+3. Del **marco interior** del piano salen **púas** metálicas y **pinchan** los dedos del atrapado: **3d6 daño necrótico** (tirada de salvación de **Constitución DC 14** para **mitad**).
+4. Las manos quedan **paralizadas** mientras dure la melodía y el combate (condición **Paralyzed** **solo en manos/brazos** para efectos prácticos — véase abajo).
+5. En la **habitación de al lado**, las **dos armaduras** **cobran vida** (*animated armor*, MM — **2** unidades). Entran por el arco o derriban la puerta si hace falta.
+
+**Combate — manos paralizadas:** El PJ atrapado **apenas puede combatir**:
+
+- **Desventaja** en tiradas de ataque con armas (solo puede usar **una mano** libre si suelta el piano con ayuda, o luchar con **codos/hombros** mientras las manos siguen pegadas).
+- **No** puede usar componentes **somáticos** ni empuñar **escudo** / **arma a dos manos**.
+- Puede **moverse** con las piernas (mitad de velocidad si arrastra el piano o se queda junto al teclado).
+- **Liberar las manos:** *Dispel magic* DC 15, **Arcana DC 16** como acción (interrumpir la melodía en el mecanismo) **o** destruir el piano (CA 15, 30 pg; al romperlo, la melodía **cesa** y las manos se sueltan). Otro PJ puede intentar **Fuerza DC 18** para **arrancar** al compañero del teclado (1d6 necrótico al atrapado por las púas al tirar).
+
+**Tras el combate** (ambas armaduras a **0 pg** o huidas): la **melodía** se apaga sola. La **tapa del piano** queda **desbloqueada** (antes estaba **sellada** por el mecanismo). Al abrirla:
+
+- **Compartimento oculto** bajo la tapa: **carpetas** con **toda la información del plan** (cartas §6), **pergaminos** del Culto, **lista** *cuerpo — daga — máscara — salida*, y la **daga de Sir Isteval** envuelta en **paño** con sello **roto** de la cadena de custodia.
+- ***Detect magic*** en la daga: aura tenue; **History/Arcana (DC 14)**: **forja drow**.
+- **De la máscara no hay rastro** en la casa — quien robó la máscara **no** es Morrik o **no** la trajo aquí.
+
+> **📌 DM:** Si los PJ **no** tocan el piano, pueden **saltarse** el combate y **perder** la pista principal hasta que **Investigation DC 17** en el ático sugiera *«algo hueco bajo la tapa»* — entonces hay que **forzar** la tapa (Fuerza DC 18, ruido) **sin** las runas, sin la daga dentro (Morrik la llevó) o con **trampa residual** (1d6 necrótico). La ruta **canónica** es el piano.
 
 #### **6. Cartas y correspondencia (Cormyr, Isteval y Culto)**
 
-En el **despacho** (o en el baúl, en carpeta), **cartas** **ordenadas** por **fecha** — mezcla de **papel de calidad** de **Suzail**, **sello** cormyriano y **tinta** distinta en cada mano. Aquí es donde la **investigación de la casa** **amarra** a **Cormyr** y a **Sir Isteval** al nigromante **por escrito**, no solo por rumores:
+Dentro del **compartimento del piano** (§5), **cartas** **ordenadas** por **fecha** en carpetas — mezcla de **papel de calidad** de **Suzail**, **sello** cormyriano y **tinta** distinta en cada mano. Aquí es donde la **investigación de la casa** **amarra** a **Cormyr** y a **Sir Isteval** al nigromante **por escrito**, no solo por rumores:
 
 **A) Cartas *de* Sir Isteval *a* Morrik** (remitente claro: **escudo** o rúbrica habitual del paladín; 2–4 misivas en los últimos meses). Temas **creíbles** para un erudito de fachada: agradecimiento por **donativos** a capillas de **Torm**, **citas** en recepciones donde ambos se cruzan, consultas sobre **genealogías** o **piezas** “para el archivo del Concilio”. Una puede mencionar, con **pesar**, la **daga** prestada a **Neronvain** en el juicio (*«confío en que la ciudad guarde la cadena de custodia»*) — **sin** nombrar necromancia: basta para que un **enemigo político** grite *«complot»* si sacáis la carta **junto** a lo que sigue.
 
@@ -195,7 +218,7 @@ Si **Jamna** fue “atacada por Zhent” en el rumor callejero, la verdad sigue 
 ## ⚙️ **OBJETIVOS (jugables)**
 
 1. **Aclarar** los robos del Castillo (**Máscara** y **daga de Isteval**) sin linchar a **Jamna** por su afiliación Zhent — incluido el **asesinato callejero** si lo usáis: decidir si es **justificado**, **táctico** o **criminal** en vuestra mesa.
-2. **Investigar** la **casa** de **Morrik** (trampas, **cartas de Sir Isteval**, órdenes del Culto, baúl con la daga) y enlazar **Cormyr** + **Isteval** con el nigromante **por escrito**; seguir el **reloj** (pocas horas: **cuerpo** de Neronvain, **ritual**, **máscara**, **huida**); **investigar** el almacén Zhent (**trampa**) y demostrar pruebas **plantadas** (insignias falsas, tinta incorrecta, testigo comprado).
+2. **Investigar** la **casa** de **Morrik** (trampas, **piano** del ático, **cartas de Sir Isteval**, órdenes del Culto, **daga** en el compartimento) y enlazar **Cormyr** + **Isteval** con el nigromante **por escrito**; seguir el **reloj** (pocas horas: **cuerpo** de Neronvain, **ritual**, **máscara**, **huida**); **investigar** el almacén Zhent (**trampa**) y demostrar pruebas **plantadas** (insignias falsas, tinta incorrecta, testigo comprado).
 3. **Despejar** a **Rian** y a **Neverember** de la acusación pública sin humillar al Consejo.
 4. **Seguir el hilo** hasta **Cormyr en la mesa**: mensajeros, sellos duplicados, **páginas** que solo pasa el bloque de Isteval/Orwyn.
 5. **Descubrir** el complejo donde **prisión y morgue** comparten calabozo (ver siguiente sección).
@@ -295,7 +318,7 @@ Orwyn/Morrik **sueltan** a presos menores y **un** jefe de banda para **entreten
 
 1. **Tono:** Primera mitad **thriller** (robo, **asesinato** con **Jamna** en la calle, casa trampeada); intermedio **tinglado** como **cebo**; segunda mitad **horror** gótico (morgue, no-muerto, paladín en el altar).
 2. **Jamna:** El **homicidio** en público es **gravísimo** para la Guardia — equilibrad con que la víctima era el **mayordomo de Morrik**: **sin** ese corte, él podía **delatar** la casa, **avisar** al amo o **incriminar** mal a la Red Negra. Mantened **ambigüedad** moral si los PJ no tienen toda la información.
-3. **AN10:** **Rian** ya puede estar en el juicio con **Neverember** (canon de esta sandbox); **Orwyn** u otro enviado cormyriano tomando notas “para Suzail” refuerza el espejo de AN11.
+3. **AN10:** **Rian** se presenta en el **Segundo Concilio** con **Neverember** (canon de esta sandbox); **Orwyn** u otro enviado cormyriano tomando notas “para Suzail” refuerza el espejo de AN11.
 4. **AN04:** Esta misión puede **adelantar** pistas para *Traiciones en Waterdeep* o resolverse **antes** de que A04 sea elegida; no dupliquéis el mismo giro si ambas se juegan seguidas.
 5. **Escala:** Si el grupo es nivel 10, bajad CR del motín; si 12+, añadid **espectro** guardián en la morgue.
 6. **Tras la casa:** La **ventana de pocas horas** (cuerpo + máscara + huida) y las **cartas de Isteval** son el **motor** hacia tinglado/Bóvedas; sin ellas, «iba a la morgue» suena vago. **Isteval** puede ser **inocente** y **quemado en la prensa** a la vez — decidid cuánto **drama político** queréis en la mesa.
@@ -313,4 +336,4 @@ Orwyn/Morrik **sueltan** a presos menores y **un** jefe de banda para **entreten
 
 ---
 
-*Sombras en el Consejo: robos en el Castillo; **Jamna** mata al **mayordomo de Morrik** en la calle y huye hacia la **casa**; en el **baúl**, la **daga**; en el escritorio, **cartas de Isteval** y **Severin**; **Morrik** contra el reloj — **cuerpo**, **máscara**, **huida**; tinglado como cebo; al final, paladín atado y príncipe atado otra vez.*
+*Sombras en el Consejo: robos en el Castillo; **Jamna** mata al **mayordomo de Morrik** en la calle y huye hacia la **casa**; en el **ático**, **piano** con runas, **armaduras vivientes** y compartimento con la **daga** y **cartas** de **Isteval** y **Severin**; **Morrik** contra el reloj — **cuerpo**, **máscara**, **huida**; tinglado como cebo; al final, paladín atado y príncipe atado otra vez.*
