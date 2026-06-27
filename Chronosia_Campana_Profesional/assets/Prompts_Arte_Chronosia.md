@@ -172,9 +172,32 @@ Sujeto: Serapis el Retroceso, elfo inmortal de porte sereno y antiquísimo. Vist
 ```
 
 ### ⏰ Varrak el Oráculo *(Temporal · Orco — suele ser aliado)*
+
+> Varrak vive sus edades **a la vez**. Tienes su **forma verdadera** (fragmentada) y un **tríptico** de las 3 edades del mismo ser. Identidad fija para que se reconozca en las tres: orco de piel verde-grisácea, colmillos inferiores, una cicatriz vertical sobre la ceja izquierda, vestiduras de oráculo con motivos astrales, y ojos que brillan en dorado (visión de futuros).
+> **Truco Gemini:** genera primero el **adulto**, y luego pídele *"el mismo orco pero de niño / muy anciano, misma cara, cicatriz y vestimenta"* para mantener la coherencia.
+
+**Forma verdadera (fragmentada):**
 ```
 Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
-Sujeto: Varrak el Oráculo, orco anciano vidente. Su cuerpo se fragmenta en varias versiones superpuestas de sí mismo a la vez (niño, adulto y anciano simultáneos, semitransparentes); ojos que brillan al ver múltiples futuros. Aire profético y melancólico, no hostil. Energía temporal dorada. Medio cuerpo, proporción 3:4.
+Sujeto: Varrak el Oráculo, orco vidente de piel verde-grisácea, colmillos inferiores y cicatriz vertical sobre la ceja izquierda, con vestiduras de oráculo de motivos astrales. Su cuerpo se fragmenta en VARIAS versiones superpuestas de sí mismo a la vez —niño, adulto y anciano simultáneos y semitransparentes, desfasados como ecos—; ojos que brillan en dorado al ver múltiples futuros. Aire profético y melancólico, no hostil. Energía temporal dorada. Medio cuerpo, proporción 3:4.
+```
+
+**1/3 — Varrak niño:**
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Varrak el Oráculo de NIÑO, orco joven de piel verde-grisácea con pequeños colmillos y una cicatriz vertical sobre la ceja izquierda; vestiduras de oráculo de motivos astrales (a su talla). Mirada demasiado sabia para su edad, ojos que brillan tenues en dorado. Energía temporal dorada. Retrato/medio cuerpo, proporción 3:4. (Es el mismo individuo que el adulto y el anciano: misma cara, cicatriz y vestimenta.)
+```
+
+**2/3 — Varrak adulto:**
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Varrak el Oráculo ADULTO, orco fornido en su plenitud, piel verde-grisácea, colmillos inferiores marcados y cicatriz vertical sobre la ceja izquierda; vestiduras de oráculo de motivos astrales. Porte sereno y profético, ojos que brillan en dorado con visión de futuros. Energía temporal dorada. Medio cuerpo, proporción 3:4. (Mismo individuo que el niño y el anciano.)
+```
+
+**3/3 — Varrak anciano:**
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Varrak el Oráculo ANCIANO, orco muy viejo de piel verde-grisácea apergaminada, colmillos desgastados y la misma cicatriz vertical sobre la ceja izquierda; vestiduras de oráculo de motivos astrales. Rostro surcado por mil vidas, ojos que arden en dorado, cargado de futuros vistos. Energía temporal dorada. Medio cuerpo, proporción 3:4. (Mismo individuo que el niño y el adulto.)
 ```
 
 ### ⏰ Lord Vorthak, el Sediento Eterno *(Temporal · Vampiro Ancestral — ápice)*
