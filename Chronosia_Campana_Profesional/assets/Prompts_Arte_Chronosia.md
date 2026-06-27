@@ -260,7 +260,199 @@ Sujeto: Ymir el Eterno Invierno, gigante elemental de hielo cristalino de unos 6
 
 ---
 
-## 7 · Flujo en Gemini (paso a paso)
+## 7 · Villanos menores de región (los mini-jefes)
+
+> Uno por región; se combaten antes del lugarteniente. Mismo estilo de lámina de bestiario. Color: temporal = dorado, dimensional = violeta.
+
+### 1 · Cándano el Penitente Eterno *(CR 4 · La Espiral Inversa)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Cándano el Penitente Eterno, humano de mediana edad alterado por el tiempo, antiguo sacristán enloquecido por vivir el mismo día miles de veces. Armadura de cuero tachonado; empuña una "daga de penitencia" cuyas heridas envejecen y pudren la carne. Mirada fanática, energía temporal dorada. Cuerpo entero, proporción 3:4.
+```
+
+### 2 · Caelith, el Jardinero a Medias *(CR 5 · Jardín de los Tiempos Gemelos)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Caelith, el Jardinero a Medias, humano horticultor atrapado a medio petrificar: la mitad izquierda es piedra agrietada que nunca cuaja, la derecha aún carne sangrante. Se mueve pesado arrastrando el lado pétreo y blande una gran podadera ("Podadera de Eras"). Energía temporal dorada con destellos de estasis. Cuerpo entero, proporción 3:4.
+```
+
+### 3 · Velka la Guardiana de Umbrales *(CR 5 · Glacialis)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Velka la Guardiana de Umbrales, humana transmutada por el frío, hechicera carcelera de portales. Porta un escudo de hielo; su sangre cristaliza al ser herida y conjura lanzas de helada desde umbrales gélidos. Energía dimensional violeta-azulada. Cuerpo entero, proporción 3:4.
+```
+
+### 4 · Magistrado Cerografo, el Engranaje Desfasado *(CR 5 · Ruinas del Tiempo Perdido)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Magistrado Cerografo, constructo de relojería modelado a imagen de los modrones, con caparazón de latón; juez mecánico enloquecido que ataca con un brazo-péndulo. Geometría ordenada, engranajes visibles. Energía temporal dorada. Cuerpo entero, proporción 3:4.
+```
+
+### 5 · Tessaly Bifronte, la Que Eligió Mal *(CR 6 · El Abismo de los Posibles)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Tessaly Bifronte, humana vidente fracturada: dos versiones de sí misma fusionadas en un cuerpo en guerra consigo mismo (apariencia superpuesta/parpadeante). Empuña una "Daga de los Dos Filos" (una hoja que apuñala y otra que ya apuñaló). Energía temporal dorada. Medio cuerpo, proporción 3:4.
+```
+
+### 6 · Karkesh el Cartógrafo de Cenizas *(CR 6 · Llanuras de la Compresión)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Karkesh el Cartógrafo de Cenizas, tiefling cultista infernal pactado, agrimensor de la fractura. Armadura de tinta endurecida; traza mapas vivos en pergaminos de piel humana y ataca con punzones de tinta ardiente. Energía dimensional violeta con brasa infernal. Cuerpo entero, proporción 3:4.
+```
+
+### 7 · Zress'ynara, la Tejedora de Umbrales *(CR 7 · Ciudad de Veldrisza)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico oscuro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Zress'ynara, drider (torso de sacerdotisa drow caída, cuerpo de araña), maldecida por Lolth, con armadura natural quitinosa. Teje telarañas dimensionales negras y muerde con patas venenosas. Energía dimensional violeta. Cuerpo entero, proporción 3:4.
+```
+
+### 8 · Capitán Móreve "el Mascahoras" *(CR 7 · Archipiélago de Barbanegra)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico atmosférico marino, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Capitán Móreve "el Mascahoras", pirata no-muerto cronófago que devora tiempo; cuero tachonado de capitán, aspecto descarnado. Empuña un "sable cronófago" cuyas heridas envejecen a la víctima. Energía dimensional violeta con bruma. Cuerpo entero, proporción 3:4.
+```
+
+### 9 · Mayordomo Aurelius Crane *(CR 7 · Mansión de la Sed Eterna)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico gótico oscuro, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Mayordomo Aurelius Crane, vampiro noble no-muerto de cortesía perfecta, atado por un pacto de servidumbre. Librea de mayordomo reforzada, modales gélidos; ataca con garras drenantes que roban años (envejecen a la víctima). Energía temporal dorada con tinte sanguíneo. Cuerpo entero, proporción 3:4.
+```
+
+### 10 · Capataz Drazhûl, el Quemador de Fronteras *(CR 7 · Calderas Dimensionales)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico volcánico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Capataz Drazhûl, humano cultista del fuego transmutado, capataz de las calderas con la piel medio carbonizada y escamas de ceniza. Blande un "Látigo de Escoria" ardiente y conjura fuego. Energía dimensional violeta entre llamas. Cuerpo entero, proporción 3:4.
+```
+
+---
+
+## 8 · NPCs clave (mecenas y caras del hub)
+
+> Los que el grupo ve en casi todas las sesiones. Mismo estilo de lámina de personaje.
+
+### Din Goldgear *(artífice gnomo · mecenas)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook 2024): semirrealista, pincelada pictórica, iluminación cálida de taller, color rico, alto detalle, fondo pictórico neutro, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Din Goldgear, gnomo de los bosques joven, pequeña barba bien cuidada, gafas de aumento deslizándose por la nariz, delantal de cuero manchado de aceite con herramientas de artífice al cinto; mirada curiosa e inquieta. A su lado, un pequeño homúnculo de cristal temporal. Medio cuerpo, proporción 3:4.
+```
+
+### Capitán Marcus "el Inquebrantable" *(líder de la Resistencia · mecenas tecnológico)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook 2024): semirrealista, pincelada pictórica, iluminación dramática, color rico, alto detalle, fondo pictórico neutro, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Capitán Marcus, humano veterano de ~45 años, robusto, cabello castaño con canas prematuras, ojos grises penetrantes, cicatrices; su mano derecha es una prótesis mecánica compleja que él mismo diseñó. Estética anti-magia industrial (correajes, herramientas, un arma de fuego). Medio cuerpo, proporción 3:4.
+```
+
+### Cornelius "el Inmutable" *(relojero místico · mecenas)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook 2024): semirrealista, pincelada pictórica, iluminación cálida, color rico, alto detalle, fondo pictórico neutro con relojes, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Cornelius "el Inmutable", humano de mediana edad, cabello gris plateado despeinado, ojos azul profundo que parecen ver más allá del tiempo, delantal de cuero manchado de aceite con herramientas de relojería; sereno, inmune al caos temporal a su alrededor. Medio cuerpo, proporción 3:4.
+```
+
+### Galen *(líder de los Anacronistas · explicador del balance)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook 2024): semirrealista, pincelada pictórica, iluminación suave, color rico, alto detalle, fondo pictórico neutro, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Galen, humano anciano sabio, túnica azul de los Anacronistas, ojos que brillan con sabiduría temporal; porte de mentor sereno. Sutiles motivos de reloj/equilibrio en su vestimenta. Medio cuerpo, proporción 3:4.
+```
+
+### Síndica Maren Velasco *(autoridad civil de Cronópolis)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook 2024): semirrealista, pincelada pictórica, iluminación neutra, color rico, alto detalle, fondo pictórico neutro, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Síndica Maren Velasco, humana de mediana edad, administradora civil de un asentamiento sitiado: ropa sobria de funcionaria con cadena/insignia de cargo, gesto cansado pero digno e incorruptible. Lleva un fajo de documentos. Medio cuerpo, proporción 3:4.
+```
+
+### Bram "Dosjarras" Holderfast *(tabernero de La Última Hora)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook 2024): semirrealista, pincelada pictórica, iluminación cálida de taberna, color rico, alto detalle, fondo pictórico neutro, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Bram "Dosjarras" Holderfast, enano de las colinas, exsoldado bonachón con barba canosa; le falta una pierna y usa una prótesis mecánica de los Ingenieros. Mandil de tabernero, una jarra en cada mano. Medio cuerpo, proporción 3:4.
+```
+
+### Zephyr "el Saltamundos" *(comerciante interplanar)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook 2024): semirrealista, pincelada pictórica, iluminación con destellos estelares, color rico, alto detalle, fondo pictórico neutro, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Zephyr "el Saltamundos", genasi del aire de piel azul pálida y cabello que flota como nubes, ojos que brillan como mil estrellas, sonrisa contagiosa; ropajes de mercader exótico de muchos planos, baratijas mágicas colgando. Medio cuerpo, proporción 3:4.
+```
+
+### Jarlaxle *(líder de Bregan D'aerthe · aliado ambiguo)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook 2024): semirrealista, pincelada pictórica, iluminación dramática, color rico, alto detalle, fondo pictórico oscuro, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Jarlaxle, drow elegante y carismático, sombrero de ala ancha con una gran pluma, parche en un ojo, capa fina y multitud de joyas y objetos mágicos ocultos; sonrisa astuta. Medio cuerpo, proporción 3:4.
+```
+
+---
+
+## 9 · Reliquias inventadas (objetos homebrew)
+
+> Láminas de objeto único, fondo neutro (catálogo/códice), sin personajes. Las dos últimas no tienen descripción física en el lore: van como propuesta interpretativa.
+
+### Cronómetro de Realidades
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, leve resplandor mágico, fondo neutro (pergamino), sin personajes, sin texto ni marcas de agua.
+Objeto: el Cronómetro de Realidades, un reloj de bolsillo gnomo del tamaño de una mano, carcasa de oro envejecido con engranajes de mithril visibles tras un cristal de zafiro; los engranajes giran de forma anómala (hacia atrás, a saltos, en varias direcciones) y un pequeño cristal central pulsa con luz dorada. Proporción 1:1.
+```
+
+### Perla del Vacío Primordial
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Perla del Vacío Primordial, esfera del tamaño de un puño, superficie negra como obsidiana con iridiscencia púrpura cambiante; flota ingrávida y en su interior diminutas estrellas brillan y mueren en ciclos eternos. Proporción 1:1.
+```
+
+### Talismán de Interceptación Divina
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Talismán de Interceptación Divina, un medallón del tamaño de una mano: en el centro engarzada la Perla del Vacío Primordial (negra con iridiscencia púrpura), rodeada por los engranajes dorados del Cronómetro girando en múltiples direcciones; pulsa alternando luz dorada (temporal) y oscuridad púrpura (dimensional). Proporción 1:1.
+```
+
+### Contador del Ritual
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Contador del Ritual, reloj circular de gran tamaño (estilo astrolabio) con múltiples esferas superpuestas y engranajes en giro constante; fragmentos de cristal (aionita) incrustados en el borde que brillan, agujas doradas, y una esfera central que marca un avance creciente con un resplandor rojo de advertencia. Proporción 1:1.
+```
+
+### Espejo de Realidad Fragmentada
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Espejo de Realidad Fragmentada, espejo circular con marco de plata ornamentada; su superficie reflectante muestra múltiples realidades superpuestas, como si se mirara a través de varias dimensiones a la vez. Proporción 1:1.
+```
+
+### Arena del Tiempo Estabilizada
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Arena del Tiempo Estabilizada, un reloj de arena alto con estructura de bronce antiguo; la arena interior es dorada y brilla con luz temporal, y el cristal que la contiene refleja múltiples momentos a la vez. Proporción 1:1.
+```
+
+### Excavadora Dimensional
+```
+Ilustración de objeto/artilugio al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de una máquina mágica, render pictórico realista (metal, engranajes), iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Excavadora Dimensional, máquina de excavación del tamaño de un carro pequeño, de acero reforzado con engranajes de mithril, con múltiples taladros rotativos y dispositivos de compresión espacial; deja tras de sí un túnel dimensional estabilizado. Estética gnómica/steampunk. Proporción 4:3.
+```
+
+### Rotor Infinito
+```
+Ilustración de objeto/artilugio al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un artefacto mágico, render pictórico realista, iluminación de estudio, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Rotor Infinito, gran rotor circular con engranajes de mithril; núcleo interno que pulsa con energía temporal dorada, envuelto en una carcasa externa de hielo eterno tallado con runas dimensionales que nunca se derrite. Gira eternamente. Proporción 1:1.
+```
+
+### Anillos de Poder de los Lugartenientes
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de joyería mágica, render pictórico realista del metal, iluminación de estudio, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: los Anillos de Poder de los Lugartenientes, anillos de metal oscuro (hierro negro/adamantina) con forma de serpiente que se muerde la cola formando el símbolo del infinito (∞); escamas talladas con detalle y ojos que brillan con luz divina —dorada en los temporales, púrpura en los dimensionales—. Muestra dos o tres juntos (uno dorado, uno púrpura). Proporción 1:1.
+```
+
+### El Cronosellado *(propuesta — sin descripción en el lore)*
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un artefacto mágico siniestro, render pictórico realista, iluminación dramática, resplandor mágico inquietante, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Cronosellado, artefacto-prisión que captura y almacena el poder de una batalla divina. Propuesta: un dispositivo arcano-mecánico de metal negro y oro con dos cámaras enfrentadas (una dorada/solar = tiempo, otra púrpura/vacío = espacio) unidas por un sello central que contiene energía robada pulsante; cadenas rúnicas lo recorren. Es el corazón del ritual. Proporción 1:1. (Nota: aspecto interpretativo; el lore no lo describe.)
+```
+
+### Indicador del Equilibrio (Balanza de Chronosia) *(propuesta — sin descripción en el lore)*
+```
+Ilustración de objeto/artilugio al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo, render pictórico realista, iluminación de estudio, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Indicador del Equilibrio (Balanza de Chronosia), artilugio gnomo de magia + tecnología para medir el equilibrio temporal/dimensional. Propuesta: una balanza-astrolabio de bronce y latón con dos platillos luminosos —uno dorado (temporal), otro púrpura (dimensional)— sobre una esfera graduada con agujas y luces que marcan equilibrio o desbalance. Versión de monitor público fijo, más grande. Proporción 1:1. (Nota: aspecto interpretativo; el lore no lo describe.)
+```
+
+---
+
+## 10 · Flujo en Gemini (paso a paso)
 
 1. **Una pieza por conversación** (o reusa la misma para variaciones y correcciones).
 2. **Copia un bloque entero y pégalo.** Ya incluye estilo y proporción. Pide *"genera una sola imagen"*.
