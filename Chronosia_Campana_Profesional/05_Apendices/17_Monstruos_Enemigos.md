@@ -66,9 +66,9 @@
 - **Distorsión temporal**: CD 13, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Constitución. Si falla, su velocidad se reduce a la mitad hasta el final de su siguiente turno
 
 #### **Características Especiales**
-- **Rostros Infantiles**: Cuerpos de guerreros adultos con rostros de niños ocultos tras máscaras
+- **Rostros Infantiles**: Cuerpos de guerreros adultos con rostros de niños ocultos tras la máscara
 - **Fuerza Descomunal**: Contraste inquietante entre apariencia infantil y fuerza física
-- **Máscaras Obligatorias**: Ocultar su verdadera naturaleza
+- **Máscara de pico (peste negra)**: Máscara dorada de médico de la peste con lentes circulares oscuros — seña de identidad de los Cronófagos rasos. Uniforme militar totalitario (túnica roja, correajes de cuero, casco de acero)
 
 ---
 
@@ -99,6 +99,7 @@
 
 #### **Características Especiales**
 - **Objetos Mágicos**: Cristales de poder temporal/dimensional en sus bastones
+- **Máscara de pico (peste negra)**: Dorada con detalles plateados y lentes oscuros; casco de acero tipo pickelhaube (con pincho). Uniforme militar totalitario azul
 - **Deformaciones**: Partes del cuerpo distorsionadas por la magia
 - **Bastón de Mando**: Con cabeza de serpiente y cristales de poder
 

@@ -817,12 +817,12 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Canalización arcana** para energías temporales/espaciales
 
 **🎭 Máscara:**
-- **Sin máscara** 
-- **Lentes circulares oscuros** que reflejan la luz
-- **Expresión completamente oculta** para inhumanidad deliberada
+- **Sin máscara** — muestra el rostro distorsionado por el tiempo (mitades de distinta edad)
+- **Lentes circulares oscuros** subidos sobre la gorra
+- **Aire deliberadamente inhumano** pese a ir a cara descubierta
 
 **🛡️ Accesorios:**
-- **sobrero** similar al de los soldados soviéticos del mismo color del uniforme
+- **Gorra de plato** militar (estilo soviético), del mismo color del uniforme
 - **Tatuaje** símbolo de la serpiente con forma de infinito mordiendose la cola en la mano.
 - **Insignias de oficial** en los hombros
 

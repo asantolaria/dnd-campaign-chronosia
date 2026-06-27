@@ -117,7 +117,12 @@ Sujeto: Aethernus Valcarys, archimago anciano y poderoso, villano final. Retrato
 
 ## 5 · Criaturas y símbolo (estilo de los libros actuales de D&D)
 
-> **Rasgos canónicos de los Cronófagos** (ya incluidos en los prompts): distorsión TEMPORAL = un brazo/pierna mucho más viejo que el resto y su ropa envejecida, voces dobles joven/anciano; distorsión ESPACIAL = partes del cuerpo parcialmente transparentes y asimetrías imposibles (dos manos derechas). Estética militar uniformada, sombría, entre lo marcial y lo arcano.
+> **Rasgos canónicos de los Cronófagos** (incluidos en los prompts):
+> - **Máscara de médico de la peste con pico de cuervo, dorada, + lentes circulares oscuros** = seña de identidad de **tropa y sargentos** (rostro oculto, deshumanizados). **Oficiales y lugartenientes van SIN máscara** y revelan el rostro destrozado por el tiempo. *(Esta es la jerarquía visual: cuanto más arriba, más se ve el horror.)*
+> - **Estética militar totalitaria de principios del s. XX:** gabán/túnica con correajes de cuero cruzados, botones dorados, cascos de acero (pickelhaube con pincho en sargentos), insignias, banderas púrpura con emblema de reloj de arena.
+> - **Color por rango:** tropa = rojo · sargento = azul · oficial = púrpura.
+> - **Distorsión visible:** TEMPORAL = un miembro mucho más viejo que el resto (y su ropa envejecida); ESPACIAL = partes del cuerpo semitransparentes / asimetrías imposibles.
+> - **Emblema:** uróboros-infinito (serpiente en forma de ∞ mordiéndose la cola).
 >
 > **Para unificar el arte que ya tienes:** sube el PNG actual a Gemini y pega el bloque correspondiente; ya lleva la coletilla de "conserva la pose, cambia el acabado".
 
@@ -125,21 +130,21 @@ Sujeto: Aethernus Valcarys, archimago anciano y poderoso, villano final. Retrato
 ```
 Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, anatomía y materiales naturalistas, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado. (Si subo una imagen de referencia: conserva la pose y composición, cambia solo el acabado y la iluminación a este estilo.)
 
-Sujeto: soldado de infantería arcano-militar de cuerpo entero, facción de los Cronófagos. Cuerpo de guerrero adulto fornido pero con un ROSTRO INFANTIL OCULTO TRAS UNA MÁSCARA marcial (contraste inquietante). Uniforme oscuro reglamentario con coraza, espada corta y un bastón con un pequeño cristal de poder. Señal de distorsión temporal: un brazo notoriamente más envejecido que el resto. Atmósfera sombría. Proporción 3:4 (vertical).
+Sujeto: soldado de infantería arcano-militar de los Cronófagos, cuerpo entero, estética militar totalitaria de principios del s. XX. Túnica militar ROJA con correajes de cuero cruzados y botones dorados, armadura de placas en los brazos, casco de acero mate. Lleva una MÁSCARA DE MÉDICO DE LA PESTE con pico de cuervo, dorada, y lentes circulares oscuros que le ocultan por completo el rostro (oculta un rostro infantil — contraste inquietante). Empuña dos espadas cortas gemelas. Señal de distorsión temporal: un brazo notoriamente más envejecido que el resto. Atmósfera sombría. Proporción 3:4 (vertical).
 ```
 
 ### 5.2 · Sargento Cronófago (suboficial)
 ```
 Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, anatomía y materiales naturalistas, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado. (Si subo una imagen de referencia: conserva la pose y composición, cambia solo el acabado y la iluminación a este estilo.)
 
-Sujeto: suboficial arcano-militar imponente, cuerpo entero, facción de los Cronófagos. Armadura de placas con escudo, bastón de mando con cabeza de serpiente y cristales de poder temporal/espacial brillantes. Señal de distorsión espacial: parte del cuerpo semitransparente. Porte autoritario, mirada dura. Proporción 3:4 (vertical).
+Sujeto: suboficial (sargento) arcano-militar imponente, cuerpo entero, facción de los Cronófagos, estética militar totalitaria de principios del s. XX. Túnica militar AZUL con correajes de cuero cruzados y botones dorados; armadura de placas y casco de acero tipo pickelhaube (con pincho en el centro). Lleva una MÁSCARA DE MÉDICO DE LA PESTE con pico de cuervo, dorada con detalles plateados, y lentes circulares oscuros (rostro oculto). Bastón de mando rematado en cabeza de serpiente y un collar de uróboros-infinito; cristales de poder brillantes; insignias de sargento. Señal de distorsión espacial: parte del cuerpo semitransparente. Porte autoritario. Proporción 3:4 (vertical).
 ```
 
 ### 5.3 · Oficial Cronófago (comandante)
 ```
 Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, anatomía y materiales naturalistas, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado. (Si subo una imagen de referencia: conserva la pose y composición, cambia solo el acabado y la iluminación a este estilo.)
 
-Sujeto: oficial comandante arcano-militar, cuerpo entero, jefe de élite de los Cronófagos. SIN máscara: muestra un rostro distorsionado por el tiempo (mitades de distinta edad). Gran abrigo militar y sombrero de plato distintivo; tatuaje de una serpiente en forma de símbolo de infinito mordiéndose la cola (uróboros-infinito) en el cuello o la mano. Empuña un bastón de duelo que puede tornarse espada. Aura de poder espacio-temporal. Proporción 3:4 (vertical).
+Sujeto: oficial comandante arcano-militar, cuerpo entero, jefe de élite de los Cronófagos, estética militar totalitaria de principios del s. XX. Túnica militar PÚRPURA con correajes de cuero cruzados, armadura de placas que cubre torso/brazos/piernas, botones dorados; gorra de plato militar (estilo soviético) del color del uniforme. SIN máscara: muestra un rostro distorsionado por el tiempo (mitades de distinta edad), con lentes circulares oscuros subidos sobre la gorra. Tatuaje de uróboros-infinito (serpiente en ∞ mordiéndose la cola) en la mano. Empuña un bastón de duelo que puede tornarse espada. Aura de poder espacio-temporal. Proporción 3:4 (vertical).
 ```
 
 ### 5.4 · Cronófago lanzador de conjuros
