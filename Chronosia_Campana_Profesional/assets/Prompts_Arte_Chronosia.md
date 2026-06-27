@@ -161,7 +161,83 @@ Emblema heráldico limpio para una facción de fantasía, al estilo de los símb
 
 ---
 
-## 6 · Flujo en Gemini (paso a paso)
+## 6 · Retratos de los lugartenientes («los malos»)
+
+> Un prompt autocontenido por jefe. Convención de color para que el set sea coherente: **energía temporal = dorada**, **dimensional = violeta**. El jefe final (Aethernus) está en el §4. Composición: medio cuerpo salvo los colosales (Ignis, Ymir, Tempus), que van a cuerpo entero.
+
+### ⏰ Serapis el Retroceso *(Temporal · Elfo Eterno)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Serapis el Retroceso, elfo inmortal de porte sereno y antiquísimo. Viste túnicas de las que fluye arena HACIA ARRIBA (el tiempo invertido); sus ojos reflejan escenas del pasado. A su alrededor el tiempo retrocede: hojas que vuelven a la rama, una herida que se cierra sola. Energía temporal dorada. Medio cuerpo, proporción 3:4.
+```
+
+### ⏰ Varrak el Oráculo *(Temporal · Orco — suele ser aliado)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Varrak el Oráculo, orco anciano vidente. Su cuerpo se fragmenta en varias versiones superpuestas de sí mismo a la vez (niño, adulto y anciano simultáneos, semitransparentes); ojos que brillan al ver múltiples futuros. Aire profético y melancólico, no hostil. Energía temporal dorada. Medio cuerpo, proporción 3:4.
+```
+
+### ⏰ Lord Vorthak, el Sediento Eterno *(Temporal · Vampiro Ancestral — ápice)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico oscuro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Lord Vorthak, vampiro ancestral de aspecto noble pero demacrado, piel cérea, ojos rojos de hambre insaciable, vestiduras señoriales oscuras. A sus pies, secuaces prematuramente envejecidos y débiles. Ambiente gótico con niebla. Energía temporal dorada con tinte sanguíneo. Presencia de jefe poderoso. Medio cuerpo, proporción 3:4.
+```
+
+### ⏰ Medusa la Eterna *(Temporal · Medusa Ancestral)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Medusa la Eterna, medusa ancestral con cabellera de serpientes y mirada que petrifica en el tiempo. A su alrededor, víctimas a medio petrificar congeladas en el instante. Escamas, joyería antigua, porte regio y frío. Energía temporal dorada-verdosa. Medio cuerpo, proporción 3:4.
+```
+
+### ⏰ Tempus el Fragmentado *(Temporal · Constructo)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Tempus el Fragmentado, constructo antropomorfo hecho de fragmentos de tiempo: engranajes, esferas de reloj rotas y cristal flotando a su alrededor; partes de su cuerpo se repiten en bucle y se reensamblan. Energía temporal dorada. Cuerpo entero, proporción 3:4.
+```
+
+### 🌌 Edward Teach «Barbanegra» *(Dimensional · Humano pirata — ápice recurrente)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Edward Teach «Barbanegra», pirata humano de mediana edad con barba negra trenzada y abrigo de capitán. Poder de estasis robado: una mano envejece y rejuvenece, piel cristalina en zonas, micro-congelaciones del tiempo. Empuña un sable; a su alrededor, portales dimensionales y destellos de tiempo detenido. Carismático y peligroso. Energía mezcla dorada + violeta. Cuerpo entero, proporción 3:4.
+```
+
+### 🌌 Dimensionalis la Fracturada *(Dimensional · Tiefling)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Dimensionalis la Fracturada, tiefling de herencia infernal (cuernos, piel rojiza). Su cuerpo muestra múltiples versiones de sí misma en planos superpuestos, todas visibles a la vez, desfasadas como una fractura de la realidad. Laberinto espacial imposible a su alrededor. Energía dimensional violeta. Medio cuerpo, proporción 3:4.
+```
+
+### 🌌 Ignis el Devorador Espacial *(Dimensional · Dragón Rojo Ancestral — ápice)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica épica con luz volumétrica, color rico, alto detalle, fondo pictórico atmosférico, calidad de lámina de Monster Manual. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Ignis el Devorador Espacial, dragón rojo colosal y ancestral; escamas que brillan como lava fundida, ojos como pozos de fuego que reflejan otras dimensiones. Tras él se abren portales ardientes al Plano Elemental del Fuego. Pose imponente y amenazante. Cuerpo entero, lámina de criatura, proporción 4:3 horizontal.
+```
+
+### 🌌 Matrona Veldrisza, la Tejedora Dimensional *(Dimensional · Drow Matrona — ápice)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico oscuro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Matrona Veldrisza, drow anciana de porte regio. Vestiduras de seda negra con patrones de telaraña dimensional; cabello plateado que se extiende como hilos de telaraña. Iconografía de Lolth (arañas). Al fondo, un gran portal-telaraña hacia Menzoberranzan. Energía dimensional violeta. Medio cuerpo, autoridad imponente, proporción 3:4.
+```
+
+### 🌌 Las Gemelas del Espejo — Lyra y Nyx *(Dimensional · Humanas gemelas)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico neutro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Las Gemelas del Espejo, dos hermanas humanas idénticas vestidas igual pero EN ESPEJO (peinado, joyas y complementos en lados opuestos; una con un ojo azul y otro marrón, la otra a la inversa). Una parece el reflejo perfecto de la otra; entre ambas, una superficie de espejo/portal que insinúa una dimensión invertida. Energía dimensional violeta. Doble retrato a medio cuerpo de ambas, proporción 3:4.
+```
+
+### 🌌 Ymir el Eterno Invierno *(Dimensional · Elemental de Hielo — llave del nexo)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica épica con luz volumétrica, color rico, alto detalle, fondo pictórico atmosférico, calidad de lámina de Monster Manual. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Ymir el Eterno Invierno, gigante elemental de hielo cristalino de unos 6 metros; cuerpo formado por cristales de hielo con luz azulada interior, ojos como pozos de hielo. Su aliento congela el aire en esculturas; a su alrededor, portales de hielo al Plano Elemental del Agua. Cuerpo entero, lámina de criatura, proporción 3:4.
+```
+
+> **Opcional — Thyra la Suspendida (caída):** mujer de piel translúcida como cristal, movimientos congelados en el aire, atrapada fuera del tiempo; útil para flashbacks. Usa el mismo ancla + energía temporal dorada.
+
+> **Villanos menores de región** (Cándano, Caelith, Velka, Magistrado Cerografo, Tessaly Bifronte, Karkesh, Zress'ynara, Capitán Móreve, Aurelius Crane, Capataz Drazhûl): sus descripciones están en `05_Apendices/Bestiario_Regional/`. Para retratarlos, usa el mismo ancla de estilo + su descripción del bestiario. Pídemelos y te los dejo también como bloques listos.
+
+---
+
+## 7 · Flujo en Gemini (paso a paso)
 
 1. **Una pieza por conversación** (o reusa la misma para variaciones y correcciones).
 2. **Copia un bloque entero y pégalo.** Ya incluye estilo y proporción. Pide *"genera una sola imagen"*.
