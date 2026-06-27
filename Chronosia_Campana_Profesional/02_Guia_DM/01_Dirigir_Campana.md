@@ -11,7 +11,6 @@
 > - **[Eventos_Que_Siempre_Ocurren.md](./Eventos_Que_Siempre_Ocurren.md)** - ⚠️ Lista de hitos fijos y frase para el DM
 > - **[04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ Vista general de lugartenientes (ver archivos individuales para statblocks completos)
 > - **[07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md)** - ⭐ Timeline maestro completo
-> - **[00_Documento_Trabajo_Restructuracion.md](../00_Documento_Trabajo_Restructuracion.md)** - ⭐ Documento de trabajo de restructuración
 > - **[08_Por_Que_Derrotar_Lugartenientes.md](./08_Por_Que_Derrotar_Lugartenientes.md)** - ⭐ Motivos narrativos y mecánicos por los que los PJ deben enfrentarse a los lugartenientes
 > - **[05_Encuentro_Anacronistas_Relojeros.md](../04_Aventuras/Fase_2_Sandbox_Inicial/05_Encuentro_Anacronistas_Relojeros.md)** - ⭐ Contador del Ritual (Sesión 8-9)
 > - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Regiones y niveles
@@ -192,7 +191,6 @@ Los eventos fijos (Talismán creado, Thyra muere, ritual se completa la primera 
    - Los lugartenientes vivos post-ritual se determinan dinámicamente por decisiones de los PJ
    - Los que los PJ no derroten antes del ritual aumentan su poder después (CR +2-3)
    - No hay sistema de "Supremos" - todos los vivos reciben poder divino
-   - Ver [00_Documento_Trabajo_Restructuracion.md](../00_Documento_Trabajo_Restructuracion.md) para detalles
 
 3. **Preparación para Fase 4 (ANTES de Sesión 13):**
    - Los PJ deben estar preparados para la batalla contra Teach

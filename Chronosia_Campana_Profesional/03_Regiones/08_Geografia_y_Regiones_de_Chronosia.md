@@ -569,10 +569,6 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 - Región del Reloj de Arena completamente desarrollada con sistema jugable
 - **CRONOLOGÍA CORREGIDA**: Thyra viva al inicio, Teach bloqueado hasta Sesión 6
 
-### **⏳ Pendiente de Desarrollo:**
-
-**📌 Ver:** [00_Plan_Desarrollo_Campana.md](../00_Plan_Desarrollo_Campana.md) para lista completa de tareas pendientes
-
 ### **🎯 Objetivos de Diseño:**
 - **Variedad**: Cada región debe sentirse única con mecánicas distintivas
 - **Coherencia**: Las distorsiones deben ser consistentes con el tipo de lugarteniente

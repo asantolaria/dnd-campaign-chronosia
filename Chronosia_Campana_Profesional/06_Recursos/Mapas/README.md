@@ -31,7 +31,6 @@
 - Existe un mapa de región en `assets/region-map.png`
 - El prompt para generar mapas con ChatGPT está en `assets/Prompt_Mapa_ChatGPT.md`
 - Las descripciones geográficas detalladas están en `03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md`
-- Para actualizar el estado de los mapas, consultar `00_Plan_Desarrollo_Campana.md`
 
 ---
 

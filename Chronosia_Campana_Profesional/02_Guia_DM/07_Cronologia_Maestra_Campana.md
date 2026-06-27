@@ -168,7 +168,7 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 ### **Objetivo de esta Fase:**
 Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar al villano final.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 4](../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md)
+**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 4](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
 
 ### **Resumen de Sesiones:**
 
@@ -359,7 +359,6 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 | **Guías Generales de Fases** | Timeline detallado de cada fase | Preparar cada fase |
 | **06_Facciones_Organizaciones.md** | Info sobre Anacronistas, Oceánicos de las Profundidades, Cronófagos | Sesiones 2+ |
 | **06_El_Talisman_de_Interceptacion.md** (Fase_1_Robos_Traicion) | Robos y traiciones (Sesiones 4-6) | Preparar Sesiones 4-6 |
-| **00_Documento_Trabajo_Restructuracion.md** | Documento de trabajo de restructuración | Referencia |
 | **21_Objetos_Magicos_Reliquias.md** | Sistema de Anillos de Poder | Sesiones 14+ |
 | **20_Tablas_Tracking_Campana.md** | Tablas completas de tracking + Resolución final | Toda la campaña (actualizar después de cada sesión) |
 | **08_Geografia_y_Regiones_de_Chronosia.md** | Tabla maestra de regiones | Toda la campaña |

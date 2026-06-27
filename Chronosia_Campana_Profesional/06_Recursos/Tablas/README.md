@@ -52,7 +52,6 @@
 
 - La tabla de tracking del **Contador de Arena de Serapis** está incluida en `20_Tablas_Tracking_Campana.md` (sección 6)
 - La mecánica completa del Reloj de Arena está documentada en `03_Regiones/10_Regiones_Temporales.md`
-- Para actualizar el estado de las tablas, consultar `00_Plan_Desarrollo_Campana.md`
 
 ---
 

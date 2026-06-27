@@ -33,7 +33,6 @@ En la nueva narrativa:
 ## 🔗 **REFERENCIAS**
 
 Para información sobre la nueva narrativa, consulta:
-- **[00_Documento_Trabajo_Restructuracion.md](../00_Documento_Trabajo_Restructuracion.md)** - Documento de trabajo de restructuración
 - **[Fase 4: Ritual Completado](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)** - Nueva narrativa del ritual
 - **[Sistema de Anillos de Poder](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)** - Nuevo sistema de poder
 
