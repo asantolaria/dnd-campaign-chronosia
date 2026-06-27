@@ -7,13 +7,13 @@
 > Este es el ÚNICO documento donde se especifica cuándo ocurren los eventos clave. Todos los demás documentos referencian a este para timing.
 >
 > **📖 Para información detallada de cada fase, consulta las Guías Generales:**
-> - [Fase 0: Railroad Inicial](../../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)
-> - [Fase 1: Robos y Traición](../../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
-> - [Fase 2: Sandbox Inicial](../../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
-> - [Fase 3: Sandbox Avanzado](../../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
-> - [Fase 4: Ritual Completado](../../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
-- [Fase 5: Viaje al Pasado](../../04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md)
-- [Fase 6: Batalla Final](../../04_Aventuras/Fase_6_Batalla_Final/00_Guia_General_Fase_6.md)
+> - [Fase 0: Railroad Inicial](../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)
+> - [Fase 1: Robos y Traición](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
+> - [Fase 2: Sandbox Inicial](../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
+> - [Fase 3: Sandbox Avanzado](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
+> - [Fase 4: Ritual Completado](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
+- [Fase 5: Viaje al Pasado](../04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md)
+- [Fase 6: Batalla Final](../04_Aventuras/Fase_6_Batalla_Final/00_Guia_General_Fase_6.md)
 
 ---
 
@@ -68,7 +68,7 @@ SESIONES 13-15: Torre de la Eternidad y Batalla Final
 ### **Objetivo de esta Fase:**
 Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con la trama principal.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 0](../../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)
+**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 0](../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)
 
 ### **Resumen de Sesiones:**
 
@@ -90,7 +90,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 ### **Objetivo de esta Fase:**
 Edward Teach ejecuta su plan maestro progresivamente: roba los artefactos después de que los PJ derroten lugartenientes, crea el Talismán, asesina a Thyra, y desencadena la guerra espontánea entre lugartenientes.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 1](../../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
+**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 1](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
 
 ### **Cronología de Eventos (Basada en Derrotas de Lugartenientes):**
 
@@ -121,7 +121,7 @@ Edward Teach ejecuta su plan maestro progresivamente: roba los artefactos despu�
 ### **Objetivo de esta Fase:**
 Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/traiciones.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 2](../../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
+**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 2](../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
 
 ### **Resumen de Sesiones:**
 
@@ -145,7 +145,7 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 ### **Objetivo de esta Fase:**
 Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11), guerra entre lugartenientes se intensifica.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 3](../../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
+**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 3](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
 
 ### **Resumen de Sesiones:**
 
@@ -168,7 +168,7 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 ### **Objetivo de esta Fase:**
 Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar al villano final.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 4](../../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md)
+**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 4](../04_Aventuras/Fase_4_Climax/00_Guia_General_Fase_4.md)
 
 ### **Resumen de Sesiones:**
 
@@ -247,7 +247,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 ## 🗺️ **DESBLOQUEO DE REGIONES**
 
 > **📊 Para tabla completa de tracking de regiones:**
-> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#4-desbloqueo-de-regiones)** para:
+> Consulta **[20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#4-desbloqueo-de-regiones)** para:
 > - Tabla de Desbloqueo de Regiones (completa y actualizable)
 > - Estado de cada región (desbloqueada/explorada/bloqueada)
 > - Cronología de desbloqueos
@@ -264,7 +264,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 ## 📊 **PROGRESIÓN DE NIVELES**
 
 > **📊 Para tabla completa de tracking de niveles:**
-> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#5-progresión-de-niveles-de-los-pj)** para:
+> Consulta **[20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#5-progresión-de-niveles-de-los-pj)** para:
 > - Tabla de Progresión de Niveles (completa)
 > - Tracking Individual de cada PJ
 > - Métodos de subida de nivel
@@ -331,7 +331,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 - Entre las Sesiones 6-12, los PJ tienen libertad TOTAL
 - No fuerces un orden específico de lugartenientes
 - Los lugartenientes que los PJ no derroten antes del ritual quedan vivos post-ritual (sistema dinámico)
-- Actualiza las tablas de tracking en [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md) después de cada sesión
+- Actualiza las tablas de tracking en [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md) después de cada sesión
 
 **Timing del Ritual Completado (Fase 4):**
 - Sesión 13 puede moverse a Sesión 12-14 si los PJ avanzan más rápido/lento

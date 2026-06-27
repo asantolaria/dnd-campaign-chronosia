@@ -9,7 +9,7 @@
 - **Tipo:** Temporal (Poder de Amaunator)
 - **Rol:** Lugarteniente Temporal
 - **Región:** El Jardín de los Tiempos Gemelos
-- **Nivel Recomendado:** 8-9
+- **Nivel Recomendado:** 5-6
 - **Bando:** Variable (puede aliarse con Las Gemelas u otros según decisiones)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 2+ lugartenientes)
 
@@ -35,25 +35,27 @@ Cuando Medusa muere (ya sea por los PJ o por otro lugarteniente), **El Jardín d
 
 ---
 
-**Clase de Armadura:** 17 (armadura natural)  
-**Puntos de Golpe:** 127 (17d8 + 51)  
+**Clase de Armadura:** 16 (armadura natural)  
+**Puntos de Golpe:** 150 (20d8 + 60)  
 **Velocidad:** 30 pies
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 16 (+3) | 15 (+2) | 16 (+3) | 12 (+1) | 18 (+4) | 15 (+2) |
+| 16 (+3) | 14 (+2) | 16 (+3) | 12 (+1) | 16 (+3) | 14 (+2) |
 
 ---
 
-**Salvaciones:** DES +8, CON +9, SAB +10  
-**Habilidades:** Engaño +8, Persuasión +8, Sigilo +8  
+**Salvaciones:** DES +5, CON +6, SAB +6  
+**Habilidades:** Engaño +5, Persuasión +5, Sigilo +5  
 **Resistencias al Daño:** Temporal, necrótico  
 **Inmunidades a Condiciones:** Petrificado, efectos que alteran el tiempo  
-**Sentidos:** Visión en la oscuridad 60 pies, Percepción pasiva 14  
+**Sentidos:** Visión en la oscuridad 60 pies, Percepción pasiva 13  
 **Idiomas:** Común, Primordial  
-**CR:** 9 (5,000 XP)
+**CR:** 7 (2,900 XP)
+
+**Resistencia Legendaria (1/día).** Si Medusa falla una tirada de salvación, puede elegir tener éxito en su lugar.
 
 ---
 
@@ -72,7 +74,7 @@ En lugar de serpientes normales, Medusa tiene serpientes de tiempo en su cabello
 Medusa es inmune a efectos que alteran el tiempo, incluyendo *lentitud*, *aceleración*, y efectos de envejecimiento mágico.
 
 **Petrificación Temporal.**  
-Las víctimas petrificadas por Medusa quedan atrapadas en un momento eterno donde ni el tiempo ni la vida pueden avanzar. Pueden ser liberadas con *restauración mayor* o magia similar.
+Las víctimas petrificadas por Medusa quedan atrapadas en un momento congelado, pero **nunca de forma permanente**: la petrificación es siempre temporal y la criatura repite la salvación al final de cada uno de sus turnos para liberarse (ver acciones). Una criatura aún petrificada cuando Medusa muere se libera suavemente al disiparse sus distorsiones temporales. *Restauración mayor* o magia similar también la liberan al instante.
 
 ---
 
@@ -81,22 +83,22 @@ Las víctimas petrificadas por Medusa quedan atrapadas en un momento eterno dond
 **Multiataque.**  
 Medusa realiza tres ataques: dos con *Serpientes de Tiempo* y uno con *Mirada Temporal*.
 
-**Serpientes de Tiempo.** *Ataque con Arma Cuerpo a Cuerpo:* +9 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 6 (1d4 + 3) de daño perforante más 7 (2d6) de daño temporal.  
-El objetivo debe hacer salvación de Constitución CD 16 o su velocidad se reduce a la mitad hasta el final de su siguiente turno.
+**Serpientes de Tiempo.** *Ataque con Arma Cuerpo a Cuerpo:* +8 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 5 (1d4 + 3) de daño perforante más 7 (2d6) de daño temporal.  
+El objetivo debe hacer salvación de Constitución CD 15 o su velocidad se reduce a la mitad hasta el final de su siguiente turno.
 
-**Mirada Temporal.** *Ataque con Conjuro:* +10 al ataque, alcance 30 pies, un objetivo que pueda ver.  
+**Mirada Temporal.** *Ataque con Conjuro:* +8 al ataque, alcance 30 pies, un objetivo que pueda ver.  
 Medusa congela el tiempo de un enemigo con su mirada.  
-*Impacto:* El objetivo debe hacer salvación de Sabiduría CD 18 o queda paralizado por 1 turno.
+*Impacto:* 9 (2d8) de daño temporal, y el objetivo debe hacer salvación de Sabiduría CD 15 o queda **paralizado**. Al final de cada uno de sus turnos repite la salvación, terminando el efecto sobre sí mismo si tiene éxito.
 
 **Petrificación Temporal (3/día).**  
-Como acción, Medusa convierte a un enemigo a hasta 30 pies de distancia en estatua temporal, paralizándolo por 1d4 turnos. El objetivo debe hacer salvación de Constitución CD 18 o queda petrificado temporalmente.
+Como acción, Medusa fija su mirada en un enemigo a hasta 30 pies. El objetivo debe hacer salvación de Constitución CD 15 o queda **petrificado temporalmente**. La criatura petrificada repite la salvación al final de cada uno de sus turnos, liberándose si tiene éxito; en cualquier caso el efecto **nunca dura más de 1 minuto** y nunca es permanente. (Esta petrificación es siempre temporal: no hay petrificación instantánea ni estasis eterna.)
 
 **Campo de Estasis (2/día).**  
-Como acción, Medusa crea un área de 30 pies donde el tiempo se congela, paralizando a todos los enemigos. Todos los enemigos en el área deben hacer salvación de Sabiduría CD 18 o quedan paralizados por 1 turno.
+Como acción, Medusa crea un área de 30 pies donde el tiempo se congela. Todos los enemigos en el área deben hacer salvación de Sabiduría CD 15 o quedan **paralizados**; al final de cada uno de sus turnos repiten la salvación, terminando el efecto sobre sí mismos si tienen éxito.
 
 **Congelación Masiva (1/día).**  
-Como acción, Medusa congela el tiempo en un radio de 60 pies, paralizando a todos los enemigos por 2 turnos. Todos los enemigos en el área deben hacer salvación de Sabiduría CD 20 o quedan paralizados por 2 turnos.
+Como acción, Medusa congela el tiempo en un radio de 60 pies. Todos los enemigos en el área deben hacer salvación de Sabiduría CD 15 o quedan **paralizados**; al final de cada uno de sus turnos repiten la salvación, terminando el efecto sobre sí mismos si tienen éxito.
 
 **Estasis Definitiva (1/día).**  
 Como acción, Medusa se congela completamente, ganando inmunidad total y regenerando 2d10 HP por turno por 3 turnos. Mientras está en estasis definitiva, no puede actuar pero tampoco puede recibir daño.
@@ -105,18 +107,14 @@ Como acción, Medusa se congela completamente, ganando inmunidad total y regener
 
 ### **Acciones Legendarias**
 
-Medusa puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores.
+Medusa puede realizar **2 acciones legendarias por ronda**, eligiendo entre las opciones de abajo. Solo puede usar una acción legendaria a la vez y solo al final del turno de otra criatura. Recupera las acciones legendarias gastadas al inicio de su turno.
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                                               |
-| -------------------------- | ---------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Mirada Temporal**        | 5                | 1 Acción   | Su mirada congela el tiempo de un enemigo, paralizándolo por 1 turno                                                         |
-| **Estasis Personal**       | 5                | 1 Acción   | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno                                              |
-| **Petrificación Temporal** | 6                | 2 Acciones | Convierte a un enemigo en estatua temporal, paralizándolo por 1d4 turnos                                                      |
-| **Campo de Estasis**       | 7                | 2 Acciones | Crea un área de 30 pies donde el tiempo se congela, paralizando a todos los enemigos                                         |
-| **Congelación Masiva**     | 8                | 3 Acciones | Congela el tiempo en un radio de 60 pies, paralizando a todos los enemigos por 2 turnos                                       |
-| **Estasis Definitiva**     | 9                | 3 Acciones | Se congela completamente, ganando inmunidad total y regenerando 2d10 HP por turno por 3 turnos                               |
-| **Tiempo Congelado**        | 10               | 4 Acciones | Congela el tiempo en un radio de 90 pies, paralizando permanentemente a todos los enemigos hasta que muera                    |
-| **Eternidad Absoluta**     | 11               | 4 Acciones | Crea un campo donde el tiempo se detiene completamente, atrapando a todos los enemigos en un momento eterno                   |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                                               |
+| -------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Ataque de Serpiente**    | 1 Acción   | Medusa realiza un ataque con *Serpientes de Tiempo*.                                                                          |
+| **Mirada Temporal**        | 1 Acción   | Medusa usa *Mirada Temporal* contra un objetivo que pueda ver (CD 15; paralizado, repite salvación al final de cada turno).  |
+| **Estasis Personal**       | 1 Acción   | Medusa se congela en el tiempo, ganando inmunidad a todo daño hasta el inicio de su siguiente turno (no puede actuar).       |
+| **Petrificación Temporal** | 2 Acciones | Medusa usa su *Petrificación Temporal* contra un enemigo a hasta 30 pies (CD 15; petrificado temporal, máx. 1 minuto, repite salvación al final de cada turno). |
 
 ---
 

@@ -469,7 +469,7 @@ Cuando dos lugartenientes se enfrentan directamente (duelo, batalla abierta, con
 - **Refugiados:** Civiles huyendo de la guerra
 - **Oportunidades:** Los PJ pueden aprovechar el caos para infiltrarse o aliarse
 
-**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md#-zonas-de-guerra)** - Sección "Zonas de Guerra"
+**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta **[05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md#-zonas-de-guerra)** - Sección "Zonas de Guerra"
 
 ---
 

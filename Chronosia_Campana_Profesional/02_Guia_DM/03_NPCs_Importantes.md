@@ -300,25 +300,25 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 
 **Progresión de Relación con los PJ**:
 
-#### **Fase 1: Desconfianza Total (Niveles 3-5)**
+#### **Fase 1: Desconfianza Total (Niveles 3-4)**
 - **Actitud**: Hostil y sospechoso
 - **Interacciones**: Monitorea a los PJ desde la distancia
 - **Diálogo**: "No confío en nadie que use magia. La magia corrompe, y la corrupción mata."
 - **Acciones**: Puede sabotear los planes de los PJ si involucran magia
 
-#### **Fase 2: Respeto Cauteloso (Niveles 6-8)**
+#### **Fase 2: Respeto Cauteloso (Niveles 5-6)**
 - **Actitud**: Neutral pero vigilante
 - **Interacciones**: Ofrece información básica sobre cronófagos
 - **Diálogo**: "Has demostrado que no eres como los otros magos. Pero aún no confío en ti."
 - **Acciones**: Proporciona equipo básico anti-magia
 
-#### **Fase 3: Alianza Táctica (Niveles 9-11)**
+#### **Fase 3: Alianza Táctica (Niveles 7-8)**
 - **Actitud**: Aliado reacio pero útil
 - **Interacciones**: Comparte información sobre lugartenientes
 - **Diálogo**: "Tal vez me equivoqué contigo. Trabajemos juntos contra el verdadero enemigo."
 - **Acciones**: Proporciona tecnología avanzada y apoyo logístico
 
-#### **Fase 4: Amistad Verdadera (Niveles 12+)**
+#### **Fase 4: Amistad Verdadera (Niveles 9-10)**
 - **Actitud**: Amigo leal y protector
 - **Interacciones**: Comparte secretos personales y familiares
 - **Diálogo**: "Eres como el hijo que perdí. Lucharé a tu lado hasta el final."
@@ -594,7 +594,7 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Recompensa**: Amuleto de Resistencia al Frío + acceso a tecnología de hielo
 **Desarrollo**: Los PJ deben usar tecnología para crear un campo de calor que rompa la estasis
 
-### **⏰ MISIÓN 2: "La Espiral de la Desesperación" - La Espiral Inversa (Nivel 4-5)**
+### **⏰ MISIÓN 2: "La Espiral de la Desesperación" - La Espiral Inversa (Nivel 4)**
 **Lugarteniente**: Serapis el Retroceso
 **Poblado**: Villa del Tiempo Perdido (población: 150 habitantes)
 **Problema**: Los aldeanos están atrapados en bucles temporales, repitiendo el mismo día
@@ -603,7 +603,7 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Recompensa**: Brújula de Tiempo Fracturado + información sobre otros lugartenientes
 **Desarrollo**: Los PJ deben construir un dispositivo que estabilice el flujo temporal
 
-### **🌌 MISIÓN 3: "El Valle Suspendido" - Valle de la Aguja Suspendida (Nivel 5-6)**
+### **🌌 MISIÓN 3: "El Valle Suspendido" - Valle de la Aguja Suspendida (Nivel 5)**
 **Lugarteniente**: Thyra la Suspendida
 **Poblado**: Ciudad de Cristal Temporal (población: 300 habitantes)
 **Problema**: Los ciudadanos están petrificados en cristal temporal, conscientes pero inmóviles
@@ -612,7 +612,7 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Recompensa**: Lente de Tiempo Detenido + acceso a la base de los Relojeros
 **Desarrollo**: Los PJ deben usar tecnología para crear vibraciones que rompan el cristal temporal
 
-### **🔥 MISIÓN 4: "Las Calderas Ardientes" - Las Calderas Dimensionales (Nivel 6-7)**
+### **🔥 MISIÓN 4: "Las Calderas Ardientes" - Las Calderas Dimensionales (Nivel 6)**
 **Lugarteniente**: Ignis el Devorador Espacial
 **Poblado**: Ciudad de Fuego Eterno (población: 250 habitantes)
 **Problema**: Los ciudadanos están atrapados en portales de fuego dimensional
@@ -621,7 +621,7 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Recompensa**: Amuleto de Inmunidad al Fuego + granadas de neutralización
 **Desarrollo**: Los PJ deben construir dispositivos que sellen los portales dimensionales
 
-### **🌙 MISIÓN 5: "La Ciudad Subterránea" - Ciudad Subterránea de Veldrisza (Nivel 7-8)**
+### **🌙 MISIÓN 5: "La Ciudad Subterránea" - Ciudad Subterránea de Veldrisza (Nivel 6-7)**
 **Lugarteniente**: Matrona Veldrisza "La Tejedora Dimensional"
 **Poblado**: Colonia de Refugiados (población: 400 habitantes)
 **Problema**: Los refugiados están atrapados en redes espaciales que los conectan con Menzoberranzan
@@ -630,7 +630,7 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Recompensa**: Llave de Tejido Dimensional + acceso a tecnología secreta
 **Desarrollo**: Los PJ deben usar tecnología para cortar las redes espaciales
 
-### **🪞 MISIÓN 6: "El Jardín de los Espejos" - Jardín de los Tiempos Gemelos (Nivel 8-9)**
+### **🪞 MISIÓN 6: "El Jardín de los Espejos" - Jardín de los Tiempos Gemelos (Nivel 7-8)**
 **Lugarteniente**: Las Gemelas del Espejo - Lyra y Nyx
 **Poblado**: Villa de los Reflejos (población: 180 habitantes)
 **Problema**: Los aldeanos están atrapados en dimensiones espejo, confundidos sobre qué es real
@@ -639,7 +639,7 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Recompensa**: Corona de Identidad Única + detector de magia avanzado
 **Desarrollo**: Los PJ deben construir dispositivos que estabilicen la realidad
 
-### **🏴‍☠️ MISIÓN 7: "El Archipiélago del Vortex" - Islas del Suroeste (Nivel 9-10)**
+### **🏴‍☠️ MISIÓN 7: "El Archipiélago del Vortex" - Islas del Suroeste (Nivel 8-9)**
 **Lugarteniente**: Edward Teach "Barbanegra"
 **Poblado**: Puerto de las Islas Perdidas (población: 350 habitantes)
 **Problema**: Los marineros están atrapados en vórtices dimensionales en el mar
@@ -648,7 +648,7 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Recompensa**: Prótesis mecánica personalizada + acceso total al arsenal
 **Desarrollo**: Los PJ deben usar tecnología naval para estabilizar los vórtices
 
-### **👑 MISIÓN FINAL: "La Torre de la Eternidad" - Montañas del Norte (Nivel 11-12)**
+### **👑 MISIÓN FINAL: "La Torre de la Eternidad" - Montañas del Norte (Nivel 10)**
 **Lugarteniente**: Aethernus Valcarys (Manshoon Clone #47)
 **Ubicación**: Más allá del Valle de la Aguja Suspendida, en las profundidades de las montañas del norte (dimensión de bolsillo)
 **Objetivo**: Infiltrarse en la Torre de la Eternidad y enfrentar al origen de todo
@@ -679,89 +679,9 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 
 ---
 
-## ⚔️ **LUGARTENIENTES DEL CÓNCLAVE**
+## ⚔️ Lugartenientes del Cónclave
 
-### **🕰️ LUGARTENIENTES TEMPORALES (Poder de Amaunator)**
-
-#### **1. Serapis el Retroceso (Elfo Eterno)**
-- **Poder**: Puede devolver eventos breves al pasado, como batallas que se repiten o heridas que nunca ocurrieron
-- **Apariencia**: Viste capas con arena que fluye hacia arriba, ojos que reflejan escenas del pasado
-- **Efecto al Morir**: Una región entera comienza a retroceder en décadas, borrando ciudades recientes
-- **Región**: La Espiral Inversa
-
-#### **2. Thyra la Suspendida (Humana)**
-- **Poder**: Vive en un estado donde los segundos no transcurren. Habla con pausas extrañas, como si estuviera fuera del ritmo natural
-- **Apariencia**: Piel translúcida como cristal, movimientos que parecen congelados en el aire
-- **Efecto al Morir**: Libera esos segundos, causando que todo lo que estaba en pausa ocurra de golpe (avalancha de eventos descontrolados)
-- **Región**: Valle de la Aguja Suspendida
-
-#### **3. Varrak del Horizonte (Orco)**
-- **Poder**: Ha vivido millones de vidas a la vez: anciano y niño simultáneamente. Predice futuros porque los ha experimentado ya
-- **Apariencia**: Cuerpo fragmentado en múltiples versiones de sí mismo, cada una de diferente edad
-- **Efecto al Morir**: Los futuros posibles se desmoronan y el mundo empieza a fragmentarse en realidades alternativas superpuestas
-- **Región**: El Abismo de los Posibles
-
-#### **4. Las Gemelas Temporales - Lyra y Nyx (Humanas Gemelas)**
-- **Poder Combinado**: Lyra controla el **flujo temporal hacia adelante** (aceleración, envejecimiento, maduración) mientras que Nyx controla el **flujo temporal hacia atrás** (reversión, rejuvenecimiento, deshacer). Juntas pueden crear **bucles temporales perfectos** donde el tiempo fluye en ambas direcciones simultáneamente
-- **Poderes Individuales**:
-  - **Lyra "La Aceleradora"**: Acelera el tiempo, envejece enemigos, madura procesos naturales
-  - **Nyx "La Reversora"**: Revierte el tiempo, rejuvenece aliados, deshace eventos
-- **Apariencia**: Dos hermanas idénticas de mediana edad, pero Lyra tiene cabello plateado y ojos que brillan con luz dorada (tiempo hacia adelante), mientras que Nyx tiene cabello negro y ojos que brillan con luz plateada (tiempo hacia atrás)
-- **Efecto al Morir**: Si solo una muere, el tiempo se desequilibra completamente. Si ambas mueren simultáneamente, el tiempo se congela en un bucle eterno
-- **Región**: El Jardín de los Tiempos Gemelos
-
-#### **5. Lord Vorthak "El Sediento Eterno" (Vampiro Ancestral)**
-- **Poder**: Su sed de sangre es tan intensa que puede drenar la vida temporal de sus víctimas, acelerando su envejecimiento mientras él se rejuvenece. Puede crear "reservas temporales" de vida drenada
-- **Apariencia**: Un vampiro de aspecto noble pero demacrado, con ojos rojos que brillan con hambre insaciable. Está rodeado constantemente por sus secuaces, que muestran signos de debilidad y envejecimiento prematuro
-- **Efecto al Morir**: Todas las "reservas temporales" almacenadas en sus secuaces se liberan violentamente, causando que envejezcan décadas en segundos
-- **Región**: La Mansión de la Sed Eterna
-- **Secuaces**: 5 vampiros menores, 20 ghouls temporales, 50 esclavos de sangre, 10 guardianes de la mansión
-
-#### **6. Kaelith el Último Segundo (Humano anciano)**
-- **Poder**: Fue un simple relojero, elegido por accidente; desde entonces mide el fin. Controla los últimos instantes de todo ser: puede acelerar el momento de la muerte
-- **Apariencia**: Relojes incrustados en su piel, ojos que muestran contadores de tiempo para cada ser vivo
-- **Efecto al Morir**: Provoca que el tiempo de todos en la región se acelere: cosechas mueren, niños crecen en horas, ciudades se derrumban
-- **Región**: Las Llanuras de la Marchitez
-
-### **🌌 LUGARTENIENTES DIMENSIONALES (Poder de Voidar)**
-
-#### **7. Vexaris el Desplazado (Genasi del Aire)**
-- **Poder**: Puede desplazar objetos y criaturas a través del espacio instantáneamente, creando portales temporales que conectan lugares distantes
-- **Apariencia**: Su cuerpo se desvanece parcialmente, mostrando fragmentos de otros lugares. Sus extremidades aparecen y desaparecen constantemente
-- **Efecto al Morir**: El espacio se colapsa en ciertas regiones, creando agujeros negros que absorben todo lo que se acerca
-- **Región**: El Vacío Fracturado
-
-#### **8. Dimensionalis la Fracturada (Tiefling)**
-- **Poder**: Puede fracturar la realidad en múltiples dimensiones superpuestas, creando laberintos espaciales imposibles
-- **Apariencia**: Su cuerpo muestra múltiples versiones de sí misma en diferentes planos, todas visibles simultáneamente
-- **Efecto al Morir**: Las dimensiones se superponen completamente, creando un caos espacial donde es imposible distinguir la realidad
-- **Región**: Las Llanuras de la Compresión
-
-#### **9. Spatium el Compresor (Enano)**
-- **Poder**: Puede comprimir o expandir el espacio a voluntad, haciendo que distancias de kilómetros se conviertan en centímetros y viceversa
-- **Apariencia**: Su cuerpo se estira y comprime constantemente, mostrando proporciones imposibles
-- **Efecto al Morir**: El espacio se comprime violentamente, aplastando todo en una región y expandiendo otras hasta el infinito
-- **Región**: El Laberinto de Dimensiones
-
-#### **10. Ignis el Devorador Espacial (Dragón Rojo Ancestral)**
-- **Poder**: Puede crear portales dimensionales que conectan con el Plano Elemental del Fuego, absorbiendo la energía espacial de su entorno y convirtiéndola en poder destructivo
-- **Apariencia**: Un dragón rojo colosal con escamas que brillan como lava fundida. Sus ojos son pozos de fuego que muestran reflejos de múltiples dimensiones, y sus alas se extienden a través del espacio, conectando con el Plano Elemental del Fuego
-- **Efecto al Morir**: El espacio se colapsa violentamente en la región, creando múltiples portales al Plano Elemental del Fuego que comienzan a absorber el mundo entero
-- **Región**: Las Calderas Dimensionales
-
-#### **11. Matrona Veldrisza "La Tejedora Dimensional" (Drow Matrona)**
-- **Poder**: Combina el poder de Lolth con la manipulación espacial para crear portales que conectan con Menzoberranzan. Puede tejer redes espaciales que atrapan a sus enemigos en dimensiones de pesadilla
-- **Apariencia**: Una drow anciana de aspecto regio con vestiduras de seda negra que brillan con patrones de telarañas dimensionales. Sus ojos reflejan múltiples planos y su cabello plateado se extiende como hilos de telaraña
-- **Efecto al Morir**: Todas las conexiones espaciales con Menzoberranzan se rompen, aislando regiones enteras del resto del mundo
-- **Región**: La Ciudad Subterránea de Veldrisza
-- **Ejército**: 200 guerreros drow élite, 50 sacerdotisas de Lolth, 500 goblins subterráneos, 20 drideres dimensionales, 100 arañas gigantes, 30 elementales de sombra
-- **Conexión**: Mantiene una alianza secreta con Jarlaxle Baenre
-
-#### **12. Vortex el Invertido (Orco)**
-- **Poder**: Puede invertir las direcciones espaciales, haciendo que arriba sea abajo, izquierda sea derecha, etc.
-- **Apariencia**: Su cuerpo se mueve de manera imposible, caminando por el aire y cayendo hacia arriba
-- **Efecto al Morir**: Las direcciones espaciales se invierten permanentemente en una región, creando un caos de orientación
-- **Región**: Las Islas del Vortex
+> La lista canónica de lugartenientes, sus poderes, regiones, CR y statblocks está en **[../04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** (fuente de verdad). No la dupliques aquí.
 
 ---
 
@@ -841,15 +761,15 @@ Se alimenta de los destellos de poder generados por la batalla entre Amaunator y
 - **Estado**: Atrapados en bucles temporales, algunos conscientes, otros no
 
 ### **⏰ Los Carroñeros Temporales**
-- **Descripción**: Criaturas que huyen del paso del tiempo en Las Llanuras de la Marchitez, viviendo ciclos de vida completos en minutos
+- **Descripción**: Criaturas que huyen del paso del tiempo en La Espiral Inversa, viviendo ciclos de vida completos en minutos
 - **Función**: Pueden ser aliados temporales o enemigos que atacan a los PJ para robar su tiempo
-- **Ubicación**: Las Llanuras de la Marchitez (región de Kaelith)
+- **Ubicación**: La Espiral Inversa (región de Serapis)
 - **Estado**: Envejecen y mueren rápidamente, buscando formas de robar tiempo
 
 ### **👻 Los Ecos Materiales**
-- **Descripción**: En La Torre de los Ecos Perdidos, aparecen ecos materiales de personas queridas, enemigos caídos, y futuros hijos no nacidos
+- **Descripción**: En El Abismo de los Posibles, aparecen ecos materiales de personas queridas, enemigos caídos, y futuros hijos no nacidos
 - **Función**: Proporcionan momentos emocionales profundos y pueden revelar información crucial sobre el pasado o futuro de los PJ
-- **Ubicación**: La Torre de los Ecos Perdidos (región de Varrak)
+- **Ubicación**: El Abismo de los Posibles (región de Varrak)
 - **Estado**: Manifestaciones temporales de recuerdos y emociones
 
 ---

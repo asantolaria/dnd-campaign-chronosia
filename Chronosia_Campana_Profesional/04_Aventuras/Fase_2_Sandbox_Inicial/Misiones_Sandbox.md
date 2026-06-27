@@ -6,10 +6,10 @@
 > **📖 PROPÓSITO DE ESTE DOCUMENTO:**
 > - Este archivo describe las **misiones como aventuras jugables** con objetivos, recompensas y mecánicas específicas
 > - Para **información geográfica y narrativa** de las regiones, consulta:
->   - [../03_Regiones/10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
->   - [../03_Regiones/11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
+>   - [../03_Regiones/10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
+>   - [../03_Regiones/11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md)
 > - Para **información sobre lugartenientes y poderes**, consulta:
->   - [../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
+>   - [../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 
 ---
 
@@ -59,7 +59,7 @@ A partir de la llegada a Chronosia, los PJ pueden:
 
 ### **⚔️ La Ascensión del Cónclave**
 
-**📖 Ver documento completo:** [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)
+**📖 Ver documento completo:** [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)
 
 Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), Aethernus proclamó una competencia entre los 11 lugartenientes activos (5 temporales vs 6 dimensionales) por convertirse en su mano derecha. Esto crea dinámicas únicas:
 
@@ -128,7 +128,7 @@ Un valle devastado que muestra las cicatrices del combate entre Edward Teach y T
 - **Motivación**: Puede inspirar a los PJ a detener a Edward Teach
 - **🏰 Camino a la Torre**: El valle revela el sendero hacia la Torre de la Eternidad, el objetivo final de la campaña
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
+**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
 
 ---
 
@@ -148,7 +148,7 @@ Un valle devastado que muestra las cicatrices del combate entre Edward Teach y T
 Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconstruyen solas, los árboles decrecen hacia sus semillas, y los edificios se desarman constantemente. En el centro, una espiral de piedra que gira en dirección opuesta al tiempo.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 5-7
+- **Nivel Recomendado**: 5-6
 - **Encuentros Menores**: Guardianes del Pasado (CR 4-6), Constructos Invertidos (CR 5-7), Ecos Temporales (CR 3-5)
 - **Encuentro Principal**: Serapis el Retroceso (Boss con acciones legendarias escalables)
 - **Estrategias**: Aprovechar reversión, romper bucles, protección temporal, encontrar nodos de estabilización
@@ -159,7 +159,7 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 - **Recompensas**: **Arena del Tiempo Estabilizada** (obtenida al derrotar a Serapis)
 - **Estado de Acceso:** 🔓 **Desbloqueada** - Accesible desde el inicio
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
+**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
 
 ---
 
@@ -169,7 +169,7 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 
 **🎖️ LUGARTENIENTE ACTIVO** - 🟡 **Neutral hasta Sesión 11**
 
-**⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) para su sistema completo.
+**⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) para su sistema completo.
 
 #### **🎯 Objetivos**
 - **Principal**: Influenciar a **Varrak del Horizonte** para que se alíe con los PJ (o derrotarlo si se convierte en enemigo)
@@ -181,7 +181,7 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas realidades. Un puente puede llevar a tres lugares distintos según la hora. Reflejos temporales flotan como sombras visibles.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 7-9
+- **Nivel Recomendado**: 6-7
 - **Encuentros Menores**: Versiones alternativas de los PJ, Criaturas Imposibles, Ecos de Futuro
 - **Encuentro Principal**: Varrak del Horizonte (Si se convierte en enemigo)
 - **Estrategias**: Navegar entre realidades, usar objetos de realidades alternativas, influenciar a Varrak
@@ -197,7 +197,7 @@ Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas
 - **Recompensas**: Elección entre **Espejo de la Verdad** O **Fragmento de Realidad Alternativa**
 - **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 1+ lugarteniente
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md) y [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)
+**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md) y [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)
 
 ---
 
@@ -216,7 +216,7 @@ Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas
 Una mansión gótica colosal rodeada por niebla temporal. Tiene múltiples niveles, cada uno representando una época diferente. Los pasillos están llenos de espejos que muestran versiones de diferentes edades de los visitantes.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 9-11
+- **Nivel Recomendado**: 7-8
 - **Encuentros Menores**: Vampiros Menores (CR 7-9), Ghouls Temporales (CR 6-8), Esclavos de Sangre
 - **Encuentro Principal**: Lord Vorthak (Boss extremadamente difícil con transferencia de daño)
 - **Estrategias**: Interrumpir alimentación, liberar secuaces, usar objetos anti-drenaje
@@ -229,7 +229,7 @@ Una mansión gótica colosal rodeada por niebla temporal. Tiene múltiples nivel
 - **Recompensas**: Objetos relacionados con drenaje temporal y longevidad
 - **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 3+ lugartenientes
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
+**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
 
 ---
 
@@ -250,13 +250,13 @@ Una mansión gótica colosal rodeada por niebla temporal. Tiene múltiples nivel
 Un jardín extenso donde todo ha sido petrificado por la mirada de Medusa. Estatuas de personas, animales y plantas llenan el paisaje, todas convertidas en piedra temporal que conserva la consciencia de sus víctimas.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 8-10
+- **Nivel Recomendado**: 7-8
 - **Encuentros Menores**: Serpientes Temporales (CR 5-7), Estatuas Vivientes (CR 6-8), Guardianes de Piedra
 - **Encuentro Principal**: Medusa la Eterna (Boss menor con enfoque en control)
 - **Estrategias**: Evitar contacto visual, usar artefactos anti-petrificación, liberar estatuas para información
 - **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 2+ lugartenientes
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
+**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
 
 ---
 
@@ -275,13 +275,13 @@ Un jardín extenso donde todo ha sido petrificado por la mirada de Medusa. Estat
 Las ruinas de una antigua ciudad que existe en múltiples momentos temporales simultáneamente. Edificios que se construyen y destruyen en bucles eternos, calles que muestran diferentes épocas superpuestas.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 10-12
+- **Nivel Recomendado**: 8-9
 - **Encuentros Menores**: Ecos Temporales (CR 8-10), Guardianes Mecánicos (CR 9-11), Habitantes en Bucles
 - **Encuentro Principal**: Tempus el Fragmentado (Boss de control con múltiples secuencias)
 - **Estrategias**: Romper bucles, interrumpir secuencias programadas, usar objetos anti-repetición
 - **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 4+ lugartenientes
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../03_Regiones/10_Regiones_Temporales.md)
+**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
 
 ---
 
@@ -302,7 +302,7 @@ Las ruinas de una antigua ciudad que existe en múltiples momentos temporales si
 Un archipiélago de islas piratas dispersas en el Mar Occidental. Las islas están conectadas por portales dimensionales inestables. El mar está plagado de barcos fantasma que patrullan constantemente.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 6-8
+- **Nivel Recomendado**: 6-7
 - **Mecánica Especial**: Interceptación obligatoria por barco gigante, colisión y abordaje
 - **Encuentros Menores**: Tripulación Pirata (CR 5-7), Guardianes de Barcos (CR 6-8), Prisioneros Temporales
 - **Encuentro Principal**: Edward Teach (Boss híbrido con poderes dimensionales Y temporales)
@@ -311,7 +311,7 @@ Un archipiélago de islas piratas dispersas en el Mar Occidental. Las islas est�
 - **Recompensas**: Elección entre **Brújula de los Mares** O **Cofre del Tesoro Pirata**
 - **Estado de Acceso:** 🔓 **Desbloqueada** - Accesible desde el inicio (después de batalla naval)
 
-**Ver más detalles en:** [11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
+**Ver más detalles en:** [11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md)
 
 ---
 
@@ -330,7 +330,7 @@ Un archipiélago de islas piratas dispersas en el Mar Occidental. Las islas est�
 Vastas llanuras donde el espacio se ha comprimido hasta límites imposibles. Las distancias se reducen drásticamente, los objetos se comprimen, y las proporciones se distorsionan constantemente.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 8-10
+- **Nivel Recomendado**: 7-8
 - **Encuentros Menores**: Guardianes Dimensionales (CR 6-8), Viajeros Comprimidos (CR 7-9), Ecos Dimensionales
 - **Encuentro Principal**: Dimensionalis la Fracturada (Boss con separación dimensional)
 - **Estrategias**: Prepararse para ser separados en habitaciones, tener estrategias individuales
@@ -338,7 +338,7 @@ Vastas llanuras donde el espacio se ha comprimido hasta límites imposibles. Las
 - **Recompensas**: Elección entre **Brújula Dimensional** O **Fragmento de Realidad**
 - **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a Ignis el Devorador Espacial
 
-**Ver más detalles en:** [11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
+**Ver más detalles en:** [11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md)
 
 ---
 
@@ -358,7 +358,7 @@ Vastas llanuras donde el espacio se ha comprimido hasta límites imposibles. Las
 Una región volcánica devastada donde el espacio se ha fracturado, creando calderas que conectan con el Plano Elemental del Fuego. Los volcanes escupen lava dimensional que se extiende a través de múltiples planos.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 12-14 (Extremadamente difícil)
+- **Nivel Recomendado**: 9-10 (Extremadamente difícil)
 - **Encuentros Menores**: Elementales de Fuego (CR 10-12), Crías de Dragón (CR 9-11), Guardianes de Calderas
 - **Encuentro Principal**: Ignis el Devorador Espacial (Boss de dragón rojo ancestral)
 - **Estrategias**: Resistir calor extremo, interrumpir invocaciones, usar objetos anti-fuego
@@ -366,7 +366,7 @@ Una región volcánica devastada donde el espacio se ha fracturado, creando cald
 - **Recompensas**: Tesoros de dragón rojo ancestral
 - **Estado de Acceso:** 🔒 **Bloqueada** - Accesible desde el inicio pero extremadamente peligrosa
 
-**Ver más detalles en:** [11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
+**Ver más detalles en:** [11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md)
 
 ---
 
@@ -385,7 +385,7 @@ Una región volcánica devastada donde el espacio se ha fracturado, creando cald
 Una ciudad subterránea drow construida en cavernas que se extienden a través de múltiples dimensiones. La ciudad está tejida con hilos de telaraña mágica que conectan con Menzoberranzan.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 10-12
+- **Nivel Recomendado**: 8-9
 - **Encuentros Menores**: Guerreros Drow (CR 8-10), Sacerdotisas (CR 9-11), Drideres Dimensionales
 - **Encuentro Principal**: Matrona Veldrisza (Boss con invocaciones de ejércitos)
 - **Estrategias**: Evitar redes espaciales, interrumpir portales, usar magia anti-drow
@@ -393,7 +393,7 @@ Una ciudad subterránea drow construida en cavernas que se extienden a través d
 - **Recompensas**: Elección entre **Hilo de Lolth** O **Red de Captura**
 - **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a Edward Teach "Barbanegra"
 
-**Ver más detalles en:** [11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
+**Ver más detalles en:** [11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md)
 
 ---
 
@@ -414,7 +414,7 @@ Una ciudad subterránea drow construida en cavernas que se extienden a través d
 Un jardín lleno de espejos que actúan como portales dimensionales. La luz se refleja creando atmósfera de irrealidad. Los reflejos pueden cobrar vida y actuar independientemente.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 11-13
+- **Nivel Recomendado**: 8-9
 - **Encuentros Menores**: Reflejos Independientes (CR 9-11), Clones de Espejo (CR 10-12), Guardianes del Espejo
 - **Encuentro Principal**: Las Gemelas del Espejo (Boss dual con clonación)
 - **Estrategias**: Colaborar con reflejos en puzzles, prepararse para enfrentar clones de sí mismos
@@ -422,7 +422,7 @@ Un jardín lleno de espejos que actúan como portales dimensionales. La luz se r
 - **Recompensas**: Objetos relacionados con espejos y reflejos
 - **Estado de Acceso:** 🔒 **Bloqueada** - Accesible desde el inicio con precaución
 
-**Ver más detalles en:** [11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
+**Ver más detalles en:** [11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md)
 
 ---
 
@@ -442,13 +442,13 @@ Un jardín lleno de espejos que actúan como portales dimensionales. La luz se r
 Un reino de hielo eterno en el extremo norte donde Ymir domina con control espacial. Los glaciares se extienden infinitamente y las auroras boreales iluminan el cielo. El espacio se cristaliza en patrones de hielo.
 
 #### **⚔️ Encuentros y Combates**
-- **Nivel Recomendado**: 5-7
+- **Nivel Recomendado**: 5-6
 - **Encuentros Menores**: Elementales de Agua (CR 4-6), Guardianes de Hielo (CR 5-7), Navegantes del Frío
 - **Encuentro Principal**: Ymir el Eterno Invierno (Boss con manipulación espacial de hielo)
 - **Estrategias**: Resistir frío extremo, interrumpir invocaciones de elementales, usar objetos anti-hielo
 - **Estado de Acceso:** 🔓 **Desbloqueada** - Accesible desde el inicio
 
-**Ver más detalles en:** [11_Regiones_Dimensionales.md](../03_Regiones/11_Regiones_Dimensionales.md)
+**Ver más detalles en:** [11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md)
 
 ---
 
@@ -480,7 +480,7 @@ Estas misiones pueden ser ofrecidas por **Din Goldgear**, **Balthar Herrumbra**,
 #### **🔨 Misión: "Cristales Dimensionales para la Excavadora"**
 
 **Quest Giver:** Din Goldgear o Balthar Herrumbra  
-**Nivel Recomendado:** 7-9  
+**Nivel Recomendado:** 6-7  
 **Ubicación:** Variable (depende de dónde se encuentren los cristales)
 
 **Objetivo:**
@@ -533,7 +533,7 @@ Recolectar **5 Cristales Dimensionales Puros** necesarios para construir la Exca
 #### **⚙️ Misión: "Engranajes de Mithril para el Rotor"**
 
 **Quest Giver:** Din Goldgear o Lucienne Rietveldt  
-**Nivel Recomendado:** 5-7  
+**Nivel Recomendado:** 5-6  
 **Ubicación:** Varias regiones
 
 **Objetivo:**
@@ -575,7 +575,7 @@ Recolectar **10 Engranajes de Mithril Puro** necesarios para ensamblar el Rotor 
 #### **🔨 Misión: "Acero Reforzado para Construcciones"**
 
 **Quest Giver:** Balthar Herrumbra  
-**Nivel Recomendado:** 6-8  
+**Nivel Recomendado:** 6-7  
 **Ubicación:** Varias regiones
 
 **Objetivo:**
@@ -613,7 +613,7 @@ Recolectar **500 libras de Acero Reforzado** de calidad excepcional para múltip
 #### **⚙️ Misión: "Ayudar a Construir la Excavadora Dimensional"**
 
 **Quest Giver:** Din Goldgear  
-**Nivel Recomendado:** 7-9  
+**Nivel Recomendado:** 6-7  
 **Ubicación:** Cronópolis (Taller de Din Goldgear)
 
 **Objetivo:**
@@ -656,7 +656,7 @@ Ayudar a Din Goldgear y los Ingenieros a construir la Excavadora Dimensional.
 #### **⚙️ Misión: "Ensamblar el Rotor Infinito"**
 
 **Quest Giver:** Din Goldgear, Balthar Herrumbra, o Lucienne Rietveldt  
-**Nivel Recomendado:** 5-7 (después de derrotar a Serapis y Ymir)  
+**Nivel Recomendado:** 5-6 (después de derrotar a Serapis y Ymir)  
 **Ubicación:** Cronópolis (Taller de los Ingenieros)
 
 **Objetivo:**
@@ -706,7 +706,7 @@ Ensamblar el Rotor Infinito completo usando el Núcleo Temporal (de Serapis) y l
 #### **🔧 Misión: "Tecnología para La Resistencia"**
 
 **Quest Giver:** Balthar Herrumbra, Lucienne Rietveldt, o Kaoros el Sordo  
-**Nivel Recomendado:** 6-10  
+**Nivel Recomendado:** 5-8  
 **Ubicación:** Variable
 
 **Objetivos Opcionales:**
@@ -729,7 +729,7 @@ Ensamblar el Rotor Infinito completo usando el Núcleo Temporal (de Serapis) y l
 #### **🌌 Misión: "Limitar Suministros Interplanares"**
 
 **Quest Giver:** Lucienne Rietveldt (Maestra Ingeniera)  
-**Nivel Recomendado:** 5-9  
+**Nivel Recomendado:** 5-7  
 **Ubicación:** Glacialis (Región de Ymir)
 
 **⚠️ IMPORTANTE:** Esta misión solo está disponible **después de que Lucienne Rietveldt haya descubierto el sistema de reclutamiento de Ymir**. Lucienne ha estado observando los portales durante años y ha documentado cómo funcionan.
@@ -784,7 +784,7 @@ Esta misión puede completarse antes o después de derrotar a Ymir. Si se comple
 #### **🌊 Misión: "Ayuda para los Oceánicos de las Profundidades"**
 
 **Quest Giver:** Reina Nereia o Comandante Kael  
-**Nivel Recomendado:** 5-9  
+**Nivel Recomendado:** 5-7  
 **Ubicación:** Abysara o Archipiélago de Barbanegra
 
 **Objetivos Opcionales:**
@@ -805,7 +805,7 @@ Esta misión puede completarse antes o después de derrotar a Ymir. Si se comple
 #### **⏰ Misión: "Conocimiento para los Anacronistas"**
 
 **Quest Giver:** Maestro Relojero o Galen  
-**Nivel Recomendado:** 5-9  
+**Nivel Recomendado:** 5-7  
 **Ubicación:** Cronópolis o regiones temporales
 
 **Objetivos Opcionales:**

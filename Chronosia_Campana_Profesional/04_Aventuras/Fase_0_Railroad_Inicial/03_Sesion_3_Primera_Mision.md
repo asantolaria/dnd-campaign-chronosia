@@ -7,14 +7,14 @@
 > - [← Volver a Fase 0](./00_Guia_General_Fase_0.md)
 > - [Sesión 2: Llegada a Chronosia](./02_Sesion_2_Llegada_Chronosia.md)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 3
-> - [Misiones Sandbox](../../Fase_2_Sandbox_Inicial/Misiones_Sandbox.md) - Para información detallada de regiones
+> - [Misiones Sandbox](../Fase_2_Sandbox_Inicial/Misiones_Sandbox.md) - Para información detallada de regiones
 
 ---
 
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 4-5
+- **Nivel de los PJ:** 4
 - **Ubicación:** Región desbloqueada (elección del DM/PJ)
 - **Estilo:** Semi-railroad (elección de región, pero estructura fija dentro)
 
@@ -41,21 +41,21 @@ Los PJ pueden elegir entre 3 regiones desbloqueadas:
 
 ### **1. Glacialis (Ymir el Eterno Invierno)**
 - **Tipo:** Dimensional Menor
-- **Nivel:** 5-7
+- **Nivel:** 5-6
 - **Lugarteniente:** Ymir (Elemental de Hielo Ancestral)
 - **Características:** Frío extremo, manipulación espacial a través del hielo
 - **Dificultad:** Media (buena opción para primera misión)
 
 ### **2. La Espiral del Reloj de Arena (Serapis el Retroceso)**
 - **Tipo:** Temporal Principal
-- **Nivel:** 5-7
+- **Nivel:** 5-6
 - **Lugarteniente:** Serapis (Elfo Eterno)
 - **Características:** Sistema del Contador de Arena, reversión temporal
 - **Dificultad:** Media-Alta (mecánica única del Reloj de Arena)
 
 ### **3. Valle de la Aguja Suspendida (Thyra la Suspendida)**
 - **Tipo:** Temporal Caído
-- **Nivel:** 6-8
+- **Nivel:** 6-7
 - **Lugarteniente:** Thyra (Humana) - **AÚN VIVA** (será asesinada en Sesión 5-6)
 - **Características:** Estasis temporal, manipulación temporal avanzada
 - **Dificultad:** Alta (Thyra es más poderosa, pero puede ser aliada potencial)
@@ -215,7 +215,7 @@ Si los PJ preguntan o investigan, pueden escuchar:
 - **[Regiones Temporales](../../03_Regiones/10_Regiones_Temporales.md)** - Información sobre Serapis y Thyra
 - **[Regiones Dimensionales](../../03_Regiones/11_Regiones_Dimensionales.md)** - Información sobre Ymir
 - **[Cronófagos Detallado/00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - Vista general (ver archivos individuales para acciones legendarias completas)
-- **[Misiones Sandbox](../../Fase_2_Sandbox_Inicial/README.md)** - Para información detallada de cada región
+- **[Misiones Sandbox](../Fase_2_Sandbox_Inicial/Misiones_Sandbox.md)** - Para información detallada de cada región
 
 ---
 

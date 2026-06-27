@@ -22,19 +22,19 @@ El mundo ha cambiado. Aethernus es dios. Los dioses están muertos. Pero aún ha
 
 ### **Sesión 15: El Mundo Post-Ritual**
 - **[01_Sesion_15_El_Mundo_Post_Ritual.md](./01_Sesion_15_El_Mundo_Post_Ritual.md)**
-- **Nivel:** 15
+- **Nivel:** 9-10
 - **Ubicación:** Chronosia (mundo post-apocalíptico)
 - **Evento:** Exploración del nuevo mundo, obtención de anillos
 
 ### **Sesión 16: Construcción de la Máquina**
 - **[02_Sesion_16_Construccion_Maquina.md](./02_Sesion_16_Construccion_Maquina.md)**
-- **Nivel:** 15 (nivel máximo de la campaña)
+- **Nivel:** 10 (nivel máximo de la campaña)
 - **Ubicación:** Cronópolis (taller de los Gnomos)
 - **Evento:** Construcción de la máquina salta-mundos
 
 ### **Sesión 17: El Viaje al Pasado**
 - **[03_Sesion_17_El_Viaje_al_Pasado.md](./03_Sesion_17_El_Viaje_al_Pasado.md)**
-- **Nivel:** 15
+- **Nivel:** 10 (nivel máximo de la campaña)
 - **Ubicación:** Viaje temporal → Pasado (antes del ritual)
 - **Evento:** ⚠️⚠️⚠️ **VIAJE TEMPORAL** + **FUSIÓN CON YO DEL PASADO** + **REBATALLA CONTRA TEACH**
 
@@ -85,7 +85,7 @@ El mundo ha cambiado. Aethernus es dios. Los dioses están muertos. Pero aún ha
 - Mínimo 2 anillos necesarios (además del Talismán)
 - Sobrevivir en un mundo extremadamente peligroso
 
-**Nivel de los PJ:** 15
+**Nivel de los PJ:** 9-10
 
 ---
 
@@ -102,7 +102,7 @@ El mundo ha cambiado. Aethernus es dios. Los dioses están muertos. Pero aún ha
 - Proteger a los Gnomos durante la construcción
 - Preparar para el viaje temporal
 
-**Nivel de los PJ:** 15 (nivel máximo)
+**Nivel de los PJ:** 10 (nivel máximo)
 
 ---
 

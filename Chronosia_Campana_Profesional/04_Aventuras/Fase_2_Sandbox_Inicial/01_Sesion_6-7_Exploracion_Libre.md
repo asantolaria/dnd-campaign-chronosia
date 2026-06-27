@@ -5,7 +5,7 @@
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 2](./00_Guia_General_Fase_2.md)
-> - [Sesión 6: Caos Desencadenado](../Fase_1_Robos_Traicion/05_Sesion_6_Caos_Desencadenado.md)
+> - [Sesión 6: Caos Desencadenado](../Fase_1_Robos_Traicion/05_Inmediatamente_Despues_Caos_Desencadenado.md)
 > - [Sesión 8: Primera Sospecha](./02_Sesion_8_Primera_Sospecha.md)
 > - [Misiones Sandbox](./Misiones_Sandbox.md) - Descripciones detalladas de regiones
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 6-7
@@ -15,7 +15,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 6-7 → 7-8
+- **Nivel de los PJ:** 5 → 6
 - **Ubicación:** Regiones desbloqueadas (elección de los PJ)
 - **Estilo:** Sandbox puro - libertad total de elección
 - **Eventos Fijos:** Ninguno (sandbox puro)
@@ -39,14 +39,14 @@
 ## 🗺️ **REGIONES DISPONIBLES (6 Total)**
 
 ### **Regiones Temporales:**
-1. **La Espiral del Reloj de Arena** (Serapis) - Nivel 5-7
-2. **El Abismo de los Posibles** (Varrak) - Nivel 7-9
-3. **La Mansión de la Sed Eterna** (Vorthak) - Nivel 9-11
+1. **La Espiral del Reloj de Arena** (Serapis) - Nivel 5-6
+2. **El Abismo de los Posibles** (Varrak) - Nivel 6-7
+3. **La Mansión de la Sed Eterna** (Vorthak) - Nivel 7-8
 
 ### **Regiones Dimensionales:**
-1. **Glacialis** (Ymir) - Nivel 5-7
-2. **Archipiélago de Barbanegra** (Edward Teach) - Nivel 11-13 ⚠️ **MUY PELIGROSO**
-3. **Volcanis** (Ignis) - Nivel 13-15 ⚠️ **EXTREMADAMENTE PELIGROSO**
+1. **Glacialis** (Ymir) - Nivel 5-6
+2. **Archipiélago de Barbanegra** (Edward Teach) - Nivel 8-9 ⚠️ **MUY PELIGROSO**
+3. **Volcanis** (Ignis) - Nivel 9-10 ⚠️ **EXTREMADAMENTE PELIGROSO**
 
 ---
 
@@ -66,7 +66,7 @@ Los PJ regresan a Cronópolis después de la Sesión 6. Deben planificar su pró
 **Elección de los PJ:**
 - Pueden elegir cualquier región de las 6 disponibles
 - El DM debe estar preparado para cualquiera
-- **Recomendación:** Empezar con regiones de nivel 5-7 (Serapis, Ymir)
+- **Recomendación:** Empezar con regiones de nivel 5-6 (Serapis, Ymir)
 
 ---
 

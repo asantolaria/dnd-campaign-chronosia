@@ -9,7 +9,7 @@
 - **Tipo:** Temporal (Poder de Amaunator)
 - **Rol:** Principal/Neutral
 - **Región:** El Abismo de los Posibles
-- **Nivel Recomendado:** 7-9
+- **Nivel Recomendado:** 7-8
 - **Bando:** Neutral (hasta Sesión 11, luego puede cambiar)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 1+ lugarteniente)
 
@@ -36,40 +36,45 @@ Cuando Varrak muere (ya sea por los PJ o por otro lugarteniente), **El Abismo de
 ### **VARRAK DEL HORIZONTE**
 *Humanoide Mediano (Orco), Neutral*
 
+> **Nota del DM:** Varrak es ante todo un **aliado/neutral** (ver "Potencial como Aliado" y "Sacrificio por Equilibrio"). Lo más probable es que detenga el combate a las pocas rondas y se alíe con los PJ, llegando incluso a sacrificarse por el balance. Este statblock existe **solo por si se le combate de verdad**; en la mayoría de las partidas no se usará hasta el final, si es que se usa.
+
 ---
 
-**Clase de Armadura:** 18 (armadura de placas mágica)  
-**Puntos de Golpe:** 195 (26d8 + 78)  
+**Clase de Armadura:** 17 (armadura de placas mágica)  
+**Puntos de Golpe:** 190 (20d8 + 100)  
 **Velocidad:** 30 pies
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 18 (+4) | 14 (+2) | 16 (+3) | 20 (+5) | 22 (+6) | 16 (+3) |
+| 16 (+3) | 14 (+2) | 20 (+5) | 18 (+4) | 18 (+4) | 14 (+2) |
 
 ---
 
-**Salvaciones:** INT +11, SAB +12, CAR +9  
-**Habilidades:** Arcano +11, Historia +11, Percepción +18, Persuasión +9, Religión +11  
+**Salvaciones:** INT +8, SAB +8, CAR +6  
+**Habilidades:** Arcano +8, Historia +8, Percepción +12, Persuasión +6, Religión +8  
 **Resistencias al Daño:** Temporal, psíquico  
 **Inmunidades a Condiciones:** Asustado, efectos de predicción/divinación enemigos  
-**Sentidos:** Visión en la oscuridad 120 pies, Percepción pasiva 28  
+**Sentidos:** Visión en la oscuridad 120 pies, Percepción pasiva 22  
 **Idiomas:** Común, Orco, Abisal, Primordial, todos los idiomas (a través de vidas pasadas)  
-**CR:** 12 (8,400 XP)
+**CR:** 9 (5,000 XP)
 
 ---
 
 ### **Rasgos Especiales**
 
 **Vidas Paralelas.**  
-Varrak ha vivido millones de vidas simultáneamente. Al inicio del combate, crea 1d4 copias temporales de sí mismo (clones) que actúan independientemente. Cada clon tiene los mismos HP y estadísticas que Varrak, pero comparten el mismo pool de acciones legendarias.
+Varrak ha vivido millones de vidas simultáneamente. Al inicio del combate puede manifestar como máximo 1 copia temporal de sí mismo (clon) que actúa en su propia iniciativa. El clon tiene CA 15, 30 PV y usa los ataques de Varrak con su mismo bono, pero no tiene acciones legendarias ni resistencia legendaria. Si el clon es destruido, Varrak puede manifestar otro al inicio de su siguiente turno (no más de 1 clon activo a la vez).
 
 **Predicción del Futuro - Estilo Mono Borracho.**  
 Varrak puede ver el futuro un turno antes, prediciendo todos los movimientos de sus enemigos. Sin embargo, su estilo de combate es único: **siempre ataca último en la iniciativa**, permitiendo que todos actúen primero. Esto le da la ventaja de reaccionar a todo con acciones legendarias. Tiene ventaja en todas las tiradas de salvación y los enemigos tienen desventaja en ataques contra él, ya que él ya sabe exactamente qué van a hacer antes de que lo hagan. Sus movimientos parecen descoordinados y caóticos (como un mono borracho), pero cada movimiento está perfectamente calculado para contrarrestar los ataques enemigos.
 
+**Resistencia Legendaria (1/día).**  
+Si Varrak falla una tirada de salvación, puede elegir tener éxito en su lugar.
+
 **Experiencia Ancestral.**  
-Varrak puede acceder a conocimientos de vidas pasadas. Una vez por combate, puede ganar +5 a todas las tiradas por 1 turno completo.
+Varrak puede acceder a conocimientos de vidas pasadas. Una vez por combate, puede ganar +3 a todas las tiradas por 1 turno completo.
 
 **Punto Ciego: Edward Teach.**  
 Varrak NO puede predecir las acciones de Edward Teach debido al poder robado de Thyra. No tiene ventaja contra Teach y no puede usar predicción contra él.
@@ -84,16 +89,16 @@ Varrak existe en múltiples momentos temporales simultáneamente. Cuando recibe 
 **Multiataque.**  
 Varrak realiza tres ataques: dos con *Bastón del Oráculo* y uno con *Vida Pasada*.
 
-**Bastón del Oráculo.** *Ataque con Arma Cuerpo a Cuerpo:* +10 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 12 (1d8 + 4) de daño contundente más 10 (3d6) de daño temporal.  
-La criatura objetivo debe hacer salvación de Sabiduría CD 18 o ve visiones de futuros posibles que la confunden (desventaja en ataques por 1 turno).
+**Bastón del Oráculo.** *Ataque con Arma Cuerpo a Cuerpo:* +9 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 7 (1d8 + 3) de daño contundente más 7 (2d6) de daño temporal.  
+La criatura objetivo debe hacer salvación de Sabiduría CD 16 o ve visiones de futuros posibles que la confunden (desventaja en ataques por 1 turno).
 
-**Vida Pasada.** *Ataque con Conjuro:* +11 al ataque, alcance 60 pies, un objetivo.  
+**Vida Pasada.** *Ataque con Conjuro:* +9 al ataque, alcance 60 pies, un objetivo.  
 Varrak invoca una versión de sí mismo de una vida anterior para atacar.  
-*Impacto:* 14 (4d6) de daño temporal. Varrak puede elegir que este ataque tenga ventaja.
+*Impacto:* 10 (3d6) de daño temporal. Varrak puede elegir que este ataque tenga ventaja.
 
-**Profecía de Combate (3/día).**  
-Como acción, Varrak ve todos los movimientos de los enemigos en los próximos 2 turnos. Durante esos 2 turnos, tiene ventaja en todas las tiradas y los enemigos tienen desventaja en ataques contra él.
+**Profecía de Combate (1/día).**  
+Como acción, Varrak ve todos los movimientos de los enemigos en el próximo turno. Hasta el inicio de su siguiente turno, tiene ventaja en todas sus tiradas y los enemigos tienen desventaja en los ataques contra él.
 
 **Convergencia de Vidas (1/día).**  
 **Último Recurso:** Varrak sacrifica todos sus clones existentes. Suma los HP actuales de todos los clones y se cura esa cantidad. **Efecto Permanente:** No puede crear más clones durante el resto del combate.
@@ -102,36 +107,32 @@ Como acción, Varrak ve todos los movimientos de los enemigos en los próximos 2
 
 ### **Acciones Legendarias**
 
-Varrak puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores.
+Varrak puede realizar **2 acciones legendarias** por ronda, eligiendo entre las opciones de abajo. Solo puede usar una opción de acción legendaria a la vez, y únicamente al final del turno de otra criatura. Varrak recupera todas sus acciones legendarias gastadas al inicio de su turno.
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                                               |
-| -------------------------- | ---------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Vida Pasada**            | 5                | 1 Acción   | Invoca una versión de sí mismo de una vida anterior para atacar o defender                                                    |
-| **Predicción Simple**      | 5                | 1 Acción   | Ve el próximo movimiento de un enemigo y puede contrarrestarlo automáticamente                                                |
-| **Fragmentación Temporal** | 6                | 2 Acciones | Se divide en 2 versiones de diferentes edades, cada una con sus propias acciones                                              |
-| **Experiencia Ancestral**  | 7                | 2 Acciones | Accede a conocimientos de vidas pasadas, ganando +5 a todas las tiradas por 1 turno                                           |
-| **Vidas Paralelas**        | 8                | 3 Acciones | Crea 1d4 copias temporales de sí mismo que actúan independientemente                                                          |
-| **Profecía de Combate**    | 9                | 3 Acciones | Ve todos los movimientos de los enemigos en los próximos 2 turnos                                                             |
-| **Convergencia de Vidas**  | 10               | 4 Acciones | **Último Recurso**: Varrak sacrifica todos sus clones existentes. Suma los HP actuales de todos los clones y se cura esa cantidad. **Efecto Permanente**: No puede crear más clones durante el resto del combate |
-| **Realidad Fragmentada**   | 11               | 4 Acciones | Crea un campo donde existen múltiples versiones de la realidad, confundiendo a todos los enemigos                             |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                                               |
+| -------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| **Vida Pasada**            | 1 Acción   | Varrak realiza un ataque de *Vida Pasada* contra un objetivo a su alcance.                                                    |
+| **Predicción Simple**      | 1 Acción   | Varrak ve el próximo movimiento de un enemigo: hasta el inicio de su siguiente turno, ese enemigo tiene desventaja en su próximo ataque contra Varrak. |
+| **Profecía de Combate**    | 2 Acciones | Hasta el inicio de su siguiente turno, Varrak tiene ventaja en sus tiradas de salvación y los enemigos tienen desventaja en los ataques contra él. |
+| **Realidad Fragmentada**   | 2 Acciones | Varrak crea un campo de realidades superpuestas en 15 pies a su alrededor; cada enemigo en el área debe superar una salvación de Sabiduría CD 16 o quedar confundido hasta el final de su siguiente turno (desventaja en su próximo ataque). |
 
 ---
 
 ## 🎯 **TÁCTICAS DE COMBATE**
 
 ### **Fase 1: Preparación (Round 1)**
-1. Activa *Vidas Paralelas* para crear clones
-2. Usa *Profecía de Combate* para ver los próximos 2 turnos
-3. Posiciona clones estratégicamente
+1. Activa *Vidas Paralelas* para manifestar su clon (máx. 1)
+2. Usa *Profecía de Combate* para anticipar el próximo turno
+3. Posiciona el clon estratégicamente
 
 ### **Fase 2: Control (Rounds 2-5)**
-- Los clones actúan independientemente, multiplicando las acciones
-- Usa *Predicción Simple* para contrarrestar ataques enemigos
-- Mantiene distancia mientras los clones atacan
+- El clon actúa en su propia iniciativa, añadiendo presión
+- Usa la acción legendaria *Predicción Simple* para imponer desventaja a los atacantes
+- Mantiene distancia con *Vida Pasada* mientras el clon presiona en cuerpo a cuerpo
 
-### **Fase 3: Desesperación (HP < 50)**
-- Activa *Convergencia de Vidas* si está gravemente herido
-- Usa *Experiencia Ancestral* para ganar +5 a todas las tiradas
+### **Fase 3: Desesperación (HP < 95)**
+- Activa *Convergencia de Vidas* si está gravemente herido para recuperar PV del clon
+- Usa *Experiencia Ancestral* para ganar +3 a todas las tiradas
 - Prioriza supervivencia
 
 ### **Estrategias Especiales:**

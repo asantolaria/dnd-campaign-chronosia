@@ -9,7 +9,7 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Principal/Líder
 - **Región:** Las Calderas Dimensionales
-- **Nivel Recomendado:** 13-15
+- **Nivel Recomendado:** 9-10
 - **Bando:** Dimensional (Líder del Bando Dimensional)
 - **Estado de Acceso:** 🔒 Bloqueada (accesible desde inicio pero extremadamente peligrosa)
 
@@ -41,25 +41,25 @@ Cuando Ignis muere (ya sea por los PJ o por otro lugarteniente), **Las Calderas 
 
 ---
 
-**Clase de Armadura:** 22 (armadura natural)  
-**Puntos de Golpe:** 546 (42d20 + 336)  
+**Clase de Armadura:** 18 (armadura natural)  
+**Puntos de Golpe:** 270 (20d20 + 60)  
 **Velocidad:** 40 pies, escalada 40 pies, vuelo 80 pies
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
+| 24 (+7) | 10 (+0) | 17 (+3) | 16 (+3) | 15 (+2) | 19 (+4) |
 
 ---
 
-**Salvaciones:** DES +7, CON +16, SAB +9, CAR +13  
-**Habilidades:** Percepción +16, Sigilo +7  
+**Salvaciones:** DES +5, CON +8, SAB +7, CAR +9  
+**Habilidades:** Percepción +12, Sigilo +5  
 **Resistencias al Daño:** Fuego  
 **Inmunidades a Condiciones:** Asustado, dormido  
-**Sentidos:** Vista ciega 60 pies, Percepción pasiva 26  
+**Sentidos:** Vista ciega 60 pies, Percepción pasiva 22  
 **Idiomas:** Común, Draconico, Infernal, Primordial  
-**CR:** 24 (62,000 XP)
+**CR:** 13 (10.000 XP)
 
 ---
 
@@ -78,7 +78,7 @@ Ignis absorbe la energía espacial de su entorno y la convierte en poder destruc
 Si Ignis falla una tirada de salvación, puede elegir tener éxito en su lugar.
 
 **Aliento de Fuego Dimensional (Recarga 5-6).**  
-Ignis puede usar su aliento de fuego como acción. El aliento es un cono de 90 pies. Las criaturas en el área deben hacer salvación de Destreza CD 24 o reciben 91 (26d6) de daño de fuego, o la mitad si tienen éxito.
+Ignis puede usar su aliento de fuego como acción. El aliento es un cono de 60 pies. Las criaturas en el área deben hacer salvación de Destreza CD 18 o reciben 63 (18d6) de daño de fuego, o la mitad si tienen éxito.
 
 ---
 
@@ -87,17 +87,17 @@ Ignis puede usar su aliento de fuego como acción. El aliento es un cono de 90 p
 **Multiataque.**  
 Ignis puede usar su Presencia Aterradora. Luego realiza tres ataques: uno con mordisco y dos con garras.
 
-**Mordisco.** *Ataque con Arma Cuerpo a Cuerpo:* +17 al ataque, alcance 15 pies, un objetivo.  
-*Impacto:* 21 (2d10 + 10) de daño perforante más 14 (4d6) de daño de fuego.
+**Mordisco.** *Ataque con Arma Cuerpo a Cuerpo:* +11 al ataque, alcance 15 pies, un objetivo.  
+*Impacto:* 18 (2d10 + 7) de daño perforante más 7 (2d6) de daño de fuego.
 
-**Garras.** *Ataque con Arma Cuerpo a Cuerpo:* +17 al ataque, alcance 10 pies, un objetivo.  
-*Impacto:* 17 (2d6 + 10) de daño cortante.
+**Garras.** *Ataque con Arma Cuerpo a Cuerpo:* +11 al ataque, alcance 10 pies, un objetivo.  
+*Impacto:* 14 (2d6 + 7) de daño cortante.
 
-**Cola.** *Ataque con Arma Cuerpo a Cuerpo:* +17 al ataque, alcance 20 pies, un objetivo.  
-*Impacto:* 19 (2d8 + 10) de daño contundente.
+**Cola.** *Ataque con Arma Cuerpo a Cuerpo:* +11 al ataque, alcance 20 pies, un objetivo.  
+*Impacto:* 16 (2d8 + 7) de daño contundente.
 
 **Presencia Aterradora.**  
-Cada criatura elegida por Ignis dentro de 120 pies y que sea consciente de él debe tener éxito en una tirada de salvación de Sabiduría CD 21 o quedar asustada durante 1 minuto. Una criatura puede repetir la salvación al final de cada uno de sus turnos, terminando el efecto en sí misma con un éxito.
+Cada criatura elegida por Ignis dentro de 120 pies y que sea consciente de él debe tener éxito en una tirada de salvación de Sabiduría CD 17 o quedar asustada durante 1 minuto. Una criatura puede repetir la salvación al final de cada uno de sus turnos, terminando el efecto en sí misma con un éxito.
 
 **Portal de Ataque (Recarga 5-6).**  
 Como acción, Ignis crea un portal detrás de un enemigo y ataca a través de él, ganando ventaja en el ataque. El portal permanece abierto por 1 turno.
@@ -109,24 +109,22 @@ Como acción, Ignis crea un portal que lanza 1d2 crías de dragón rojo (CR 4 ca
 Como acción, Ignis crea un portal que trae 1d4 elementales de fuego (CR 5 cada uno) que luchan por Ignis hasta ser derrotados.
 
 **Portal de Refuerzos (1/día).**  
-Como acción, Ignis crea un portal que trae 1d3 dragones rojos adultos (CR 17 cada uno) que luchan por Ignis hasta ser derrotados.
+Como acción, Ignis crea un portal que trae 1d3 dragones rojos jóvenes (CR 10 cada uno) que luchan por Ignis hasta ser derrotados.
 
 ---
 
 ### **Acciones Legendarias**
 
-Ignis puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores.
+Ignis puede realizar 3 acciones legendarias por ronda, gastándolas al final del turno de otra criatura. Solo puede usar una acción legendaria por turno. Recupera las acciones legendarias gastadas al inicio de su turno.
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Portal de Ataque**       | 5                | 1 Acción   | Crea un portal detrás de un enemigo y ataca a través de él, ganando ventaja en el ataque                      |
-| **Portal de Crias**        | 5                | 1 Acción   | Crea un portal que lanza 1d2 crías de dragón rojo que atacan a los enemigos                                   |
-| **Portal Múltiple**        | 6                | 2 Acciones | Crea 2 portales que permiten atacar a través de ambos simultáneamente                                         |
-| **Portal de Elementales**  | 7                | 2 Acciones | Crea un portal que trae 1d4 elementales de fuego que luchan por Ignis                                         |
-| **Portal de Crias Masivo** | 8                | 3 Acciones | Crea un portal que lanza 1d4+1 crías de dragón rojo que atacan a todos los enemigos                           |
-| **Portal de Refuerzos**    | 9                | 3 Acciones | Crea un portal que trae 1d3 dragones rojos adultos que luchan por Ignis                                       |
-| **Portal Infernal**        | 10               | 4 Acciones | Crea múltiples portales que atacan desde todas las direcciones, causando daño masivo                          |
-| **Portal de Devastación**  | 11               | 4 Acciones | Crea un portal masivo que lanza un ejército de dragones rojos y elementales de fuego                          |
+| **Acción Legendaria**     | **Costo**  | **Descripción**                                                                                               |
+| ------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Detectar**              | 1 Acción   | Ignis hace una prueba de Sabiduría (Percepción)                                                               |
+| **Ataque de Cola**        | 1 Acción   | Ignis realiza un ataque con la cola                                                                           |
+| **Portal de Ataque**      | 1 Acción   | Crea un portal detrás de un enemigo y ataca a través de él (un ataque de garras) con ventaja                  |
+| **Portal de Crias**       | 2 Acciones | Crea un portal que lanza 1d2 crías de dragón rojo que atacan a los enemigos                                   |
+| **Ala (cuesta 2 acciones)** | 2 Acciones | Ignis bate las alas. Las criaturas a 15 pies hacen salvación CD 18 de Des o reciben 14 (2d6+7) de daño contundente y son derribadas. Después Ignis vuela hasta la mitad de su velocidad |
+| **Portal de Elementales** | 3 Acciones | Crea un portal que trae 1d4 elementales de fuego que luchan por Ignis                                         |
 
 ---
 
@@ -138,19 +136,19 @@ Ignis puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel d
 3. Usa *Aliento de Fuego Dimensional* contra grupos
 
 ### **Fase 2: Dominación (Rounds 3-6)**
-- Crea *Portal Múltiple* para atacar desde múltiples direcciones
-- Usa *Portal de Elementales* para traer refuerzos
-- Mantiene distancia mientras los portales atacan
+- Usa *Portal de Elementales* (acción legendaria) para traer refuerzos
+- Alterna multiataque y aliento de fuego al recargar
+- Mantiene el aire con las acciones legendarias de *Ala* y vuelo
 
 ### **Fase 3: Devastación (Rounds 7+)**
-- Activa *Portal de Refuerzos* para traer dragones adultos
-- Usa *Portal Infernal* para atacar desde todas las direcciones
-- Prioriza eliminar amenazas mayores con *Portal de Devastación*
+- Activa *Portal de Refuerzos* para traer dragones rojos jóvenes
+- Usa *Portal de Ataque* (legendaria) para flanquear con ventaja
+- Concentra mordisco + aliento sobre la amenaza prioritaria
 
 ### **Estrategias Especiales:**
-- **Contra Múltiples Enemigos:** Usa *Aliento de Fuego Dimensional* + *Portal de Crias Masivo*
-- **Contra Tanques:** Usa *Portal Múltiple* para atacar desde todos los ángulos
-- **Contra Hechiceros:** Usa *Portal de Ataque* para atacar desde detrás
+- **Contra Múltiples Enemigos:** Usa *Aliento de Fuego Dimensional* + *Portal de Crias*
+- **Contra Tanques:** Usa *Ala* para derribar y reposicionarse
+- **Contra Hechiceros:** Usa *Portal de Ataque* para atacar desde detrás con ventaja
 
 ---
 

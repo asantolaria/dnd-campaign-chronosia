@@ -9,11 +9,11 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Lugarteniente Dimensional - **Reclutador Interplanar**
 - **Región:** Glacialis
-- **Nivel Recomendado:** 5-7
+- **Nivel Recomendado:** 6-7
 - **Bando:** Variable (puede aliarse o actuar independientemente según decisiones)
 - **Estado de Acceso:** 🔓 Desbloqueada (accesible desde el inicio)
 
-**⚠️ FUNCIÓN CRÍTICA:** Ymir es el lugarteniente encargado de **reclutar criaturas, recursos y suministros de otros planos** para los Cronófagos. Su red de portales interplanares es esencial para mantener las operaciones de los Cronófagos en Chronosia y otros planos del multiverso.
+**⚠️ FUNCIÓN CRÍTICA:** Ymir es el **Reclutador Interplanar**, el lugarteniente encargado de **reclutar criaturas, recursos y suministros de otros planos** para los Cronófagos. Su red de portales interplanares es esencial para mantener las operaciones de los Cronófagos en Chronosia y otros planos del multiverso. **Su derrota permite a los PJ capturar la red de portales** y reaprovecharla para sus propios fines.
 
 ---
 
@@ -57,24 +57,24 @@ Cuando Ymir muere (ya sea por los PJ o por otro lugarteniente), **Glacialis se r
 
 ---
 
-**Clase de Armadura:** 17 (armadura natural)  
-**Puntos de Golpe:** 142 (19d10 + 38)  
+**Clase de Armadura:** 16 (armadura natural)  
+**Puntos de Golpe:** 170 (20d10 + 60)  
 **Velocidad:** 40 pies
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 22 (+6) | 10 (+0) | 14 (+2) | 12 (+1) | 16 (+3) | 14 (+2) |
+| 20 (+5) | 10 (+0) | 16 (+3) | 12 (+1) | 14 (+2) | 14 (+2) |
 
 ---
 
-**Salvaciones:** CON +8, SAB +9  
-**Habilidades:** Percepción +9  
+**Salvaciones:** CON +6, SAB +5  
+**Habilidades:** Percepción +5  
 **Resistencias al Daño:** Frío, espacial  
 **Inmunidades a Condiciones:** Agotamiento, paralizado, petrificado, aturdido, inconsciente  
 **Vulnerabilidades al Daño:** Fuego  
-**Sentidos:** Percepción pasiva 19  
+**Sentidos:** Percepción pasiva 15  
 **Idiomas:** Primordial, Común  
 **CR:** 8 (3,900 XP)
 
@@ -100,6 +100,9 @@ Ymir es completamente inmune al daño por frío y efectos relacionados con el hi
 **Forma de Hielo.**  
 Ymir puede moverse a través de espacios de 1 pulgada sin apretarse, siempre que haya hielo o agua presente.
 
+**Resistencia Legendaria (1/día).**  
+Si Ymir falla una tirada de salvación, puede elegir tener éxito en su lugar.
+
 ---
 
 ### **Acciones**
@@ -107,15 +110,15 @@ Ymir puede moverse a través de espacios de 1 pulgada sin apretarse, siempre que
 **Multiataque.**  
 Ymir realiza dos ataques: uno con *Puño de Hielo* y uno con *Aliento de Hielo*.
 
-**Puño de Hielo.** *Ataque con Arma Cuerpo a Cuerpo:* +12 al ataque, alcance 10 pies, un objetivo.  
-*Impacto:* 15 (2d8 + 6) de daño contundente más 7 (2d6) de daño por frío.  
-El objetivo debe hacer salvación de Constitución CD 16 o su velocidad se reduce a la mitad hasta el final de su siguiente turno.
+**Puño de Hielo.** *Ataque con Arma Cuerpo a Cuerpo:* +8 al ataque, alcance 10 pies, un objetivo.  
+*Impacto:* 14 (2d8 + 5) de daño contundente más 7 (2d6) de daño por frío.  
+El objetivo debe hacer salvación de Constitución CD 15 o su velocidad se reduce a la mitad hasta el final de su siguiente turno.
 
 **Aliento de Hielo (Recarga 5-6).**  
-Ymir exhala un cono de hielo de 30 pies. Todas las criaturas en el área deben hacer salvación de Constitución CD 16 o reciben 28 (8d6) de daño por frío y su velocidad se reduce a la mitad hasta el final de su siguiente turno.
+Ymir exhala un cono de hielo de 30 pies. Todas las criaturas en el área deben hacer salvación de Constitución CD 15 o reciben 21 (6d6) de daño por frío (la mitad si la superan) y su velocidad se reduce a la mitad hasta el final de su siguiente turno.
 
 **Cristalización (3/día).**  
-Como acción, Ymir convierte el aire en cristales de hielo que crean obstáculos y trampas en el campo de batalla. El área de 30x30 pies se convierte en terreno difícil y las criaturas que se mueven a través de ella deben hacer salvación de Destreza CD 16 o reciben 7 (2d6) de daño cortante.
+Como acción, Ymir convierte el aire en cristales de hielo que crean obstáculos y trampas en el campo de batalla. El área de 30x30 pies se convierte en terreno difícil y las criaturas que se mueven a través de ella deben hacer salvación de Destreza CD 15 o reciben 7 (2d6) de daño cortante.
 
 **Compresión Espacial (2/día).**  
 Como acción, Ymir comprime el espacio en 60 pies, reduciendo las distancias y permitiendo ataques de área más efectivos. Todas las criaturas en el área se mueven 10 pies más cerca unas de otras.
@@ -127,55 +130,49 @@ Como acción, Ymir expande el espacio en 90 pies, aumentando las distancias y di
 Como acción, Ymir crea un portal de hielo que conecta con un plano aleatorio de su red (Plano Elemental del Agua, Plano Elemental del Aire, Plano Astral, o Plano Material). El portal permite ataques a distancia, viaje instantáneo, o transporte de suministros.
 
 **Portal de Elementales (2/día).**  
-Como acción, Ymir crea un portal que trae 1d4 criaturas de otro plano (elementales de agua, elementales de aire, o criaturas astrales, CR 5 cada uno) que luchan por Ymir hasta ser derrotados.
+Como acción, Ymir crea un portal que trae **1d3 elementales menores** de otro plano (elementales de agua o aire menores, CR 1-2 cada uno) que luchan por Ymir hasta ser derrotados. Como máximo puede tener 3 elementales invocados a la vez por este medio.
 
-**Portal de Reclutamiento (1/día).**  
-Como acción, Ymir abre un portal de reclutamiento que trae 1d6+2 criaturas de otros planos (CR 3-5 cada una) que se unen a las fuerzas de los Cronófagos. Estas criaturas pueden ser elementales, demonios menores, o criaturas astrales según el plano conectado.
+**Portal de Reclutamiento (1/día, fuera de combate).**  
+Como acción narrativa (no destinada al combate directo contra los PJ), Ymir abre un portal de reclutamiento que trae refuerzos de otros planos que se unen a las fuerzas de los Cronófagos. En combate, usa *Portal de Elementales*; este portal representa su función logística entre escenas.
 
 **Congelación Masiva (1/día).**  
-Como acción, Ymir congela toda el área en 120 pies, creando un campo de hielo que reduce la velocidad y causa daño por frío. Todas las criaturas en el área deben hacer salvación de Constitución CD 16 o reciben 14 (4d6) de daño por frío y su velocidad se reduce a 0 hasta el final de su siguiente turno.
+Como acción, Ymir congela toda el área en 120 pies, creando un campo de hielo que reduce la velocidad y causa daño por frío. Todas las criaturas en el área deben hacer salvación de Constitución CD 15 o reciben 14 (4d6) de daño por frío (la mitad si la superan) y su velocidad se reduce a 0 hasta el final de su siguiente turno.
 
-**Portal Cósmico (1/día).**  
-Como acción, Ymir crea un portal masivo a un plano de su red que inunda la región con criaturas y recursos de ese plano (1d6+2 criaturas, CR 5 cada una, más suministros interplanares).
+**Portal Cósmico (1/día, narrativo).**  
+Acción de escala estratégica fuera del combate: Ymir crea un portal masivo a un plano de su red que inunda la región con criaturas y suministros interplanares. Representa el peso logístico de su red de portales, no un golpe de combate contra los PJ.
 
 ---
 
 ### **Acciones Legendarias**
 
-Ymir puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores.
+Ymir puede realizar **2 acciones legendarias** por ronda, eligiendo entre las opciones de abajo. Solo puede usar una opción a la vez, y únicamente al final del turno de otra criatura. Recupera las acciones legendarias gastadas al inicio de su turno.
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Aliento de Hielo**       | 5                | 1 Acción   | Exhala un cono de hielo de 30 pies que congela a los enemigos, reduciendo su velocidad a la mitad             |
-| **Portal de Hielo**        | 5                | 1 Acción   | Crea un portal de hielo que conecta con múltiples planos (Agua, Aire, Astral, Material), permitiendo ataques a distancia o transporte |
-| **Cristalización**         | 6                | 2 Acciones | Convierte el aire en cristales de hielo que crean obstáculos y trampas en el campo de batalla                 |
-| **Compresión Espacial**    | 7                | 2 Acciones | Comprime el espacio en 60 pies, reduciendo las distancias y permitiendo ataques de área más efectivos         |
-| **Portal de Elementales**  | 8                | 3 Acciones | Crea un portal que trae 1d4 criaturas de otros planos (elementales, demonios menores, criaturas astrales) que luchan por Ymir |
-| **Portal de Reclutamiento**| 9                | 3 Acciones | Abre un portal de reclutamiento que trae 1d6+2 criaturas de otros planos que se unen a las fuerzas de los Cronófagos |
-| **Expansión Dimensional**  | 9                | 3 Acciones | Expande el espacio en 90 pies, aumentando las distancias y dificultando el movimiento enemigo                 |
-| **Congelación Masiva**     | 10               | 4 Acciones | Congela toda el área en 120 pies, creando un campo de hielo que reduce la velocidad y causa daño por frío     |
-| **Portal Cósmico**         | 11               | 4 Acciones | Crea un portal masivo a un plano de su red que inunda la región con criaturas y suministros interplanares |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Puño de Hielo**          | 1 Acción   | Ymir realiza un ataque de *Puño de Hielo* contra un objetivo a su alcance.                                    |
+| **Portal de Hielo**        | 1 Acción   | Ymir se teletransporta hasta 30 pies a un espacio donde haya hielo o agua, o abre un portal menor para que un aliado a su alcance lo haga. |
+| **Cristalización**         | 2 Acciones | Convierte el aire en cristales de hielo que crean obstáculos; un área de 15 pies se vuelve terreno difícil y la primera criatura que la cruce hace salvación de Destreza CD 15 o recibe 7 (2d6) de daño cortante. |
+| **Manipulación del Espacio** | 2 Acciones | Comprime o expande el espacio en 30 pies a su alrededor: arrastra a cada criatura del área 10 pies hacia Ymir o la aleja 10 pies de él (a su elección). |
 
 ### **❄️ Mecánicas de Control Espacial a través del Hielo:**
 
 #### **🧊 Manipulación del Espacio:**
-- **Compresión Espacial** (Nivel 7): Reduce las distancias en 60 pies, permitiendo ataques de área más efectivos
-- **Expansión Dimensional** (Nivel 9): Aumenta las distancias en 90 pies, dificultando el movimiento enemigo
+- **Compresión Espacial** (2/día): Reduce las distancias en 60 pies, permitiendo ataques de área más efectivos
+- **Expansión Dimensional** (2/día): Aumenta las distancias en 90 pies, dificultando el movimiento enemigo
+- **Manipulación del Espacio** (acción legendaria): Arrastra o aleja a las criaturas 10 pies en 30 pies a su alrededor
 - **Efecto**: Cambia la geometría del espacio para ventaja táctica
-- **Duración**: Los efectos duran hasta el final del combate
 
 #### **🌌 Red de Portales Interplanares:**
-- **Portal de Hielo** (Nivel 5): Portal simple a múltiples planos (Agua, Aire, Astral, Material)
-- **Portal de Elementales** (Nivel 8): Trae 1d4 criaturas de otros planos
-- **Portal de Reclutamiento** (Nivel 9): Trae 1d6+2 criaturas que se unen a los Cronófagos
-- **Portal Cósmico** (Nivel 11): Portal masivo que inunda la región con criaturas y suministros
-- **Conexión**: Los portales conectan con múltiples planos, permitiendo reclutamiento y transporte de suministros
-- **Función Estratégica**: La red de portales es esencial para mantener las operaciones de los Cronófagos
+- **Portal de Hielo** (acción legendaria / 3 por día): Portal/teleportación corta entre puntos con hielo o agua
+- **Portal de Elementales** (2/día): Trae **1d3 elementales menores** (CR 1-2), máx. 3 a la vez
+- **Portal de Reclutamiento** (narrativo): Trae refuerzos entre escenas, no en combate directo
+- **Portal Cósmico** (narrativo): Portal masivo que inunda la región con criaturas y suministros (escala estratégica)
+- **Función Estratégica**: La red de portales es esencial para mantener las operaciones de los Cronófagos; **su derrota permite a los PJ capturar y reaprovechar la red de portales**
 
 #### **❄️ Efectos de Congelación:**
-- **Aliento de Hielo** (Nivel 5): Cono de 30 pies que reduce velocidad a la mitad
-- **Cristalización** (Nivel 6): Convierte el aire en cristales de hielo
-- **Congelación Masiva** (Nivel 10): Campo de hielo de 120 pies
+- **Aliento de Hielo** (Recarga 5-6): Cono de 30 pies, 21 (6d6) de daño por frío y reduce velocidad a la mitad
+- **Cristalización** (3/día): Convierte el aire en cristales de hielo
+- **Congelación Masiva** (1/día): Campo de hielo de 120 pies
 - **Efectos**: Reducción de velocidad, daño por frío, obstáculos
 
 #### **🎯 Estrategia de Combate:**

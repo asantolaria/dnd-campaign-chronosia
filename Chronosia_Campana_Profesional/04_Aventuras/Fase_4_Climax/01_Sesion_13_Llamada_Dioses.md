@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 13-14
+- **Nivel de los PJ:** 8
 - **Ubicación:** Torre de la Eternidad (exterior)
 - **Estilo:** Preparación Final + Llamada Divina
 - **⚠️ RITUAL AL 98%:** Solo queda 2% antes de que sea invencible

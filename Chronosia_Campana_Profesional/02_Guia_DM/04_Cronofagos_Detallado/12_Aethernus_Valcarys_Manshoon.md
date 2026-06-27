@@ -9,7 +9,7 @@
 - **Tipo:** Temporal + Dimensional (Poder de Amaunator y Voidar)
 - **Rol:** Líder Supremo
 - **Región:** Torre de la Eternidad
-- **Nivel Recomendado:** 13-15 (Clímax)
+- **Nivel Recomendado:** 10 (Clímax / Jefe Final)
 - **Bando:** Líder Supremo (por encima de todos los bandos)
 - **Estado de Acceso:** 🔒 Bloqueada (accesible solo en Sesión 13-15)
 
@@ -103,131 +103,157 @@ La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgán
 
 ---
 
-**Clase de Armadura:** 22 (armadura de placas mágica + escudo + protección divina)  
-**Puntos de Golpe:** 400 (50d8 + 200)  
+**Clase de Armadura:** 19 (armadura de placas mágica + escudo + protección divina)  
+**Puntos de Golpe:** 300 en total, repartidos en 3 fases (110 / 100 / 90 — ver más abajo)  
 **Velocidad:** 30 pies, vuelo 60 pies (mágico)
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 24 (+7) | 18 (+4) | 18 (+4) | 28 (+9) | 22 (+6) | 26 (+8) |
+| 18 (+4) | 16 (+3) | 16 (+3) | 22 (+6) | 18 (+4) | 20 (+5) |
 
 ---
 
-**Salvaciones:** DES +13, CON +13, INT +18, SAB +15, CAR +17  
-**Habilidades:** Arcano +18, Engaño +17, Historia +18, Intimidación +17, Percepción +15, Persuasión +17  
-**Resistencias al Daño:** Temporal, espacial, todas las formas de daño mágico  
-**Inmunidades a Condiciones:** Encantado, agotamiento, envenenado, asustado, paralizado, petrificado, aturdido  
-**Sentidos:** Percepción pasiva 25, visión verdadera 120 pies  
+**Salvaciones:** DES +8, CON +8, INT +11, SAB +9, CAR +10  
+**Habilidades:** Arcano +11, Engaño +10, Historia +11, Intimidación +10, Percepción +9, Persuasión +10  
+**Resistencias al Daño:** Temporal, espacial; daño no mágico (contundente, cortante, perforante)  
+**Inmunidades a Condiciones:** Encantado, agotamiento, envenenado, asustado  
+**Sentidos:** Percepción pasiva 19, visión verdadera 120 pies  
 **Idiomas:** Todos los idiomas  
-**CR:** 26 (90,000 XP)
+**CR:** 13-14 (11.500 XP)  
+
+> **🎮 COMBATE POR FASES (TIPO VIDEOJUEGO).** Aethernus no es un único saco de 300 HP, sino tres "barras de vida" consecutivas. Al agotar la barra de una fase, en lugar de morir transiciona a la siguiente (efecto gratuito, no provoca ataques de oportunidad): recupera la iniciativa de su barra de HP, cambia su repertorio de poderes y pronuncia un nuevo monólogo. Solo muere al agotar la barra de la **Fase 3**. La Resistencia Legendaria y los usos diarios **no se recargan** entre fases: se arrastran a lo largo de todo el combate.
+
+> **⚠️ Poderes de lugartenientes.** Aethernus solo dispone de los poderes de los lugartenientes que **sigan vivos** al iniciarse este combate. Por cada lugarteniente ya derrotado por el grupo, **tacha** el poder correspondiente de la Fase 2 (ver lista). Cuantos más lugartenientes hayan caído, más debilitado llega el jefe: esto recompensa mecánicamente el trabajo previo del grupo.
 
 ---
 
-### **Rasgos Especiales**
+### **Rasgos Especiales (todas las fases)**
 
-**Extracción Divina.**  
-Aethernus puede extraer poder directamente de la batalla entre Amaunator y Voidar. Tiene acceso a todos los poderes de sus lugartenientes simultáneamente.
-
-**Distribución de Poder.**  
-Aethernus puede repartir fragmentos de poder divino a sus lugartenientes. Puede retirar este poder en cualquier momento.
-
-**Combinación de Poderes.**  
-Aethernus puede usar todos los poderes de sus lugartenientes simultáneamente, combinando efectos temporales y dimensionales.
-
-**Sin Límite Máximo.**  
-Aethernus no tiene un poder máximo concreto, solo limitado por su capacidad de extracción. Su poder aumenta constantemente mientras el ritual de ascensión progresa.
-
-**Manipulación del Conflicto.**  
-Aethernus mantiene a los dioses en conflicto eterno para seguir extrayendo poder. Tiene ventaja en todas las tiradas relacionadas con manipulación divina.
-
-**Cronómetro Divino.**  
-Aethernus tiene un cronómetro divino que marca el tiempo absoluto. Puede manipular el tiempo en un radio de 1 milla a voluntad.
-
-**Resistencia Legendaria (5/día).**  
-Si Aethernus falla una tirada de salvación, puede elegir tener éxito en su lugar.
-
-**Regeneración.**  
-Aethernus recupera 30 HP al inicio de cada turno si tiene al menos 1 HP y el ritual de ascensión está activo.
+**Resistencia Legendaria (3/día, ápice).**  
+Si Aethernus falla una tirada de salvación, puede elegir tener éxito en su lugar. Estos usos **no se recargan** al cambiar de fase.
 
 **Inmunidad a Predicción.**  
 Aethernus es inmune a efectos que predigan sus acciones, incluyendo *presagio* y habilidades similares.
 
+**Cronómetro Divino.**  
+Aethernus marca el tiempo absoluto. Mientras esté en pie, las criaturas no pueden beneficiarse de tiradas de iniciativa repetidas ni de turnos extra de origen mágico.
+
 ---
 
-### **Acciones**
+## ⚙️ **ESTRUCTURA DEL COMBATE POR FASES**
 
-**Multiataque.**  
-Aethernus realiza cinco ataques: tres con *Espada de Poder Divino*, uno con *Bastón de Mando* y uno con *Extracción de Poder*.
+---
 
-**Espada de Poder Divino.** *Ataque con Arma Cuerpo a Cuerpo:* +20 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 18 (2d10 + 7) de daño cortante más 21 (6d6) de daño temporal/espacial (el jugador elige).  
-El objetivo debe hacer salvación de Constitución CD 25 o envejece 1d6 años (temporal) o es teletransportado 30 pies (espacial).
+### **🟢 FASE 1 — "El Estratega Recluido" (110 HP)**
 
-**Bastón de Mando.** *Ataque con Arma Cuerpo a Cuerpo:* +20 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 15 (2d6 + 7) de daño contundente más 21 (6d6) de daño mágico.  
-El objetivo debe hacer salvación de Sabiduría CD 25 o queda encantado por 1 turno.
+*Aethernus pelea con maestría arcana y a distancia, midiendo al grupo. Aún no ha volcado el poder divino del ritual.*
 
-**Extracción de Poder (Recarga 5-6).**  
-Como acción, Aethernus extrae poder directamente de un enemigo. El enemigo debe hacer salvación de Constitución CD 25 o pierde 1d4 niveles (temporalmente) y Aethernus recupera 50 HP.
+**Rasgo de fase — Distribución de Poder.**  
+Al inicio de cada uno de sus turnos, Aethernus recupera 10 HP (regeneración por el flujo del ritual). Este rasgo desaparece al pasar a Fase 2.
+
+**Acciones**
+
+**Multiataque (Fase 1).**  
+Aethernus realiza dos ataques con *Espada de Poder Divino*.
+
+**Espada de Poder Divino.** *Ataque con Arma Cuerpo a Cuerpo:* +11 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 16 (2d10 + 5) de daño cortante más 10 (3d6) de daño temporal/espacial (el DM elige).  
+El objetivo debe hacer salvación de Constitución CD 18 o envejece 1d6 años (temporal) o es teletransportado 30 pies (espacial).
+
+**Bastón de Mando.** *Ataque con Arma Cuerpo a Cuerpo:* +11 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 12 (2d6 + 5) de daño contundente más 10 (3d6) de daño mágico.  
+El objetivo debe hacer salvación de Sabiduría CD 18 o queda encantado hasta el final de su próximo turno.
 
 **Manipulación Temporal (3/día).**  
-Como acción, Aethernus manipula el tiempo en un radio de 60 pies. Todas las criaturas en el área deben hacer salvación de Sabiduría CD 25 o quedan afectadas por *lentitud* (enemigos) o *celeridad* (aliados).
+Como acción, Aethernus manipula el tiempo en un radio de 60 pies. Todas las criaturas en el área deben hacer salvación de Sabiduría CD 18 o quedan afectadas por *lentitud* (enemigos) o *celeridad* (aliados).
 
-**Manipulación Espacial (3/día).**  
-Como acción, Aethernus manipula el espacio en un radio de 60 pies. Todas las criaturas en el área deben hacer salvación de Destreza CD 25 o son teletransportadas 30 pies en una dirección aleatoria.
-
-**Combinación de Poderes (2/día).**  
-Como acción, Aethernus combina poderes temporales y dimensionales. Crea un campo de 90 pies donde el tiempo y el espacio se distorsionan simultáneamente. Todas las criaturas en el área deben hacer salvación de Constitución CD 25 o reciben 35 (10d6) de daño temporal/espacial y quedan aturdidas por 1 turno.
-
-**Ritual de Ascensión (Activo).**  
-El ritual de ascensión divina está activo. Aethernus gana poder constantemente mientras el ritual progresa. Cada turno, el ritual avanza 1% (máximo 100%). Cuando alcanza 100%, Aethernus se convierte en un dios verdadero.
-
-**Llamada a Lugartenientes (1/día).**  
-Como acción, Aethernus llama a todos sus lugartenientes vivos a su lado. Hasta 3 lugartenientes aparecen en el siguiente turno y luchan por Aethernus.
+**Acciones Legendarias (Fase 1)** — 3 por ronda, al final del turno de otra criatura; una por turno; se recargan al inicio del turno de Aethernus:
+- **Ataque de Espada** (1 acción): un ataque con *Espada de Poder Divino*.
+- **Paso Dimensional** (1 acción): se teletransporta hasta 60 pies a un espacio que pueda ver.
+- **Distorsión Temporal** (2 acciones): un enemigo a 60 pies hace salvación CD 18 de Sab o pierde su reacción y tiene desventaja en su próxima tirada de ataque.
 
 ---
 
-### **Acciones Legendarias**
+### **🟡 FASE 2 — "El Cónclave Encarnado" (100 HP)**
 
-Aethernus puede realizar 5 acciones legendarias por turno (máximo). Tiene acceso a TODAS las acciones legendarias de sus lugartenientes.
+*Al caer la primera barra, Aethernus invoca los fragmentos de poder de sus lugartenientes. Pierde la regeneración pero gana acceso a los poderes robados de los lugartenientes que sigan vivos.*
 
-**Acciones Legendarias Únicas:**
-- **Extracción Divina** (1 Acción)
-- **Distribución de Poder** (1 Acción)
-- **Combinación de Poderes** (2 Acciones)
-- **Manipulación Temporal** (2 Acciones)
-- **Manipulación Espacial** (2 Acciones)
-- **Llamada a Lugartenientes** (3 Acciones)
-- **Ascensión Divina** (5 Acciones) - Solo si el ritual alcanza 100%
+**Transición:** efecto gratuito. Aethernus pronuncia su monólogo y, una sola vez, puede usar **Llamada a Lugartenientes**.
 
-**Acciones Legendarias de Lugartenientes:**
-Aethernus puede usar cualquier acción legendaria de cualquier lugarteniente vivo o muerto, combinándolas como desee.
+**Llamada a Lugartenientes (1/combate).**  
+Como acción, Aethernus llama a los lugartenientes que sigan vivos. Hasta 2 de ellos (a elección del DM, usando sus statblocks ya reescalados) aparecen al inicio del siguiente turno y luchan por él.
+
+**Acciones**
+
+**Multiataque (Fase 2).**  
+Aethernus realiza tres ataques: dos con *Espada de Poder Divino* y uno con *Bastón de Mando*.
+
+**Extracción de Poder (Recarga 5-6).**  
+Como acción, Aethernus drena a un enemigo a 30 pies. El enemigo hace salvación de Constitución CD 18 o sufre desventaja en sus tiradas de ataque hasta el final de su próximo turno, y Aethernus recupera 25 HP.
+
+**Poderes de Lugartenientes (solo de los que sigan VIVOS — tacha los caídos):**
+- **Poder Temporal (si Vorthak vive):** una vez por ronda, como parte del multiataque, un ataque que envejece 1d4 años al objetivo (CD 18 Con).
+- **Poder Dimensional (si Ignis vive):** *Portal de Fuego* (recarga 5-6): cono de 60 pies, CD 18 Des, 42 (12d6) de daño de fuego, mitad si tiene éxito.
+- *(Añade aquí, con el mismo formato y CD 18 / daño ~10-12d6, el poder de cualquier otro lugarteniente vivo. Por cada lugarteniente derrotado antes del combate, elimina su poder de esta lista.)*
+
+**Acciones Legendarias (Fase 2)** — 3 por ronda, mismas reglas:
+- **Ataque de Espada** (1 acción): un ataque con *Espada de Poder Divino*.
+- **Paso Dimensional** (1 acción): se teletransporta hasta 60 pies.
+- **Manipulación Espacial** (2 acciones): un radio de 30 pies; CD 18 Des o las criaturas son teletransportadas 20 pies en dirección aleatoria.
+
+---
+
+### **🔴 FASE 3 — "La Ascensión Truncada" (90 HP)**
+
+*Con el ritual desestabilizándose, Aethernus vuelca todo el poder que le queda en un último arrebato. Ha perdido a sus lugartenientes y combina tiempo y espacio en estallidos desesperados.*
+
+**Transición:** efecto gratuito. Cualquier lugarteniente invocado que siga en pie es absorbido (desaparece) para alimentar esta fase; Aethernus recupera 20 HP de golpe (incluidos en los 90 de la barra) y pronuncia su último monólogo.
+
+**Rasgo de fase — Inestabilidad del Ritual.**  
+Al inicio de cada turno de Aethernus, un destello de energía sin control golpea a la criatura no aliada más cercana a él: salvación CD 18 de Destreza o 7 (2d6) de daño temporal/espacial.
+
+**Acciones**
+
+**Multiataque (Fase 3).**  
+Aethernus realiza dos ataques con *Espada de Poder Divino* y, si está disponible, usa *Combinación de Poderes*.
+
+**Espada de Poder Divino (potenciada).** Igual que antes, pero el daño temporal/espacial sube a 14 (4d6).
+
+**Combinación de Poderes (Recarga 5-6).**  
+Como acción, Aethernus crea un campo de 60 pies donde tiempo y espacio se distorsionan. Todas las criaturas en el área hacen salvación de Constitución CD 18 o reciben 35 (10d6) de daño temporal/espacial (mitad si tienen éxito) y quedan aturdidas hasta el final de su próximo turno con un fallo.
+
+**Acciones Legendarias (Fase 3)** — 3 por ronda, mismas reglas:
+- **Ataque de Espada** (1 acción): un ataque con *Espada de Poder Divino* potenciada.
+- **Paso Dimensional** (1 acción): se teletransporta hasta 60 pies.
+- **Estallido Divino** (2 acciones): un enemigo a 60 pies; CD 18 Con o 17 (5d6) de daño temporal/espacial (mitad si tiene éxito).
 
 ---
 
 ## 🎯 **TÁCTICAS DE COMBATE**
 
-### **Fase 1: Preparación (Rounds 1-2)**
-1. Activa *Llamada a Lugartenientes* para traer aliados
-2. Usa *Manipulación Temporal* para ralentizar enemigos
-3. Se posiciona estratégicamente rodeado de aliados
+> Las tres fases siguientes se corresponden con las tres barras de HP de la sección "Estructura del Combate por Fases".
 
-### **Fase 2: Dominación (Rounds 3-8)**
-- Combina poderes temporales y dimensionales
-- Usa *Extracción de Poder* para debilitar enemigos
-- Mantiene distancia mientras los lugartenientes atacan
+### **Fase 1 — El Estratega Recluido (110 HP)**
+1. Abre con *Manipulación Temporal* para ralentizar al grupo
+2. Mantiene distancia y usa *Paso Dimensional* (legendaria) para no quedar arrinconado
+3. Castiga al melee con *Espada de Poder Divino* y la regeneración de 10 HP/turno
 
-### **Fase 3: Ascensión (Rounds 9+)**
-- El ritual de ascensión alcanza 85-100%
-- Activa *Ascensión Divina* si el ritual está completo
-- Prioriza completar el ritual sobre eliminar enemigos
+### **Fase 2 — El Cónclave Encarnado (100 HP)**
+- En la transición usa *Llamada a Lugartenientes* (1/combate) si quedan vivos
+- Combina sus ataques con los *Poderes de Lugartenientes* que aún conserve
+- Usa *Extracción de Poder* para debilitar al PJ más peligroso y recuperar HP
+
+### **Fase 3 — La Ascensión Truncada (90 HP)**
+- Absorbe a cualquier aliado restante y va a por todas
+- *Inestabilidad del Ritual* castiga al que se le acerque cada turno
+- Usa *Combinación de Poderes* y *Estallido Divino* (legendaria) para maximizar daño antes de caer
 
 ### **Estrategias Especiales:**
-- **Contra Múltiples Enemigos:** Usa *Combinación de Poderes* + *Llamada a Lugartenientes*
-- **Contra Tanques:** Usa *Extracción de Poder* para debilitarlos
-- **Contra Hechiceros:** Usa *Manipulación Espacial* para teletransportarlos
+- **Contra Múltiples Enemigos:** Reserva *Combinación de Poderes* para la Fase 3
+- **Contra Tanques:** Usa *Extracción de Poder* (Fase 2) para imponer desventaja
+- **Contra Hechiceros:** Usa *Manipulación Espacial* (legendaria, Fase 2) para reposicionarlos
 
 ---
 

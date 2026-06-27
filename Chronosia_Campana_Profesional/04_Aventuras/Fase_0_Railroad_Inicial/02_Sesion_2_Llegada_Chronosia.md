@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 3-4
+- **Nivel de los PJ:** 3
 - **Ubicación:** Cronópolis (Costa Oeste de Chronosia, cerca del mar) - **BASE PERMANENTE DE LOS PJ**
 - **Estilo:** Railroad (lineal, establecimiento del mundo)
 

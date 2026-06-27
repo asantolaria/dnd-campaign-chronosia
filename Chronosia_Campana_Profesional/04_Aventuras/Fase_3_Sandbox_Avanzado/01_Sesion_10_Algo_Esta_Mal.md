@@ -15,7 +15,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 10-11
+- **Nivel de los PJ:** 7-8
 - **Ubicación:** Variable
 - **Estilo:** Sandbox + Revelación
 - **⚠️ REVELACIÓN GRADUAL #2:** El ritual de ascensión divina
@@ -43,7 +43,7 @@
 **Los PJ continúan explorando libremente.**
 
 **Regiones Nuevas Desbloqueadas (Total: 10):**
-- **Tela de Sombras** (Veldrisza) - Nivel 10-12
+- **Tela de Sombras** (Veldrisza) - Nivel 8-9
 
 ---
 

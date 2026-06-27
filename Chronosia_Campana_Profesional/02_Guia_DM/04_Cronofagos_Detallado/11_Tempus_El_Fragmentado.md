@@ -9,7 +9,7 @@
 - **Tipo:** Temporal (Poder de Amaunator)
 - **Rol:** Lugarteniente Temporal
 - **Región:** Las Ruinas del Tiempo Perdido
-- **Nivel Recomendado:** 10-12
+- **Nivel Recomendado:** 6-7
 - **Bando:** Variable (puede aliarse o actuar independientemente según decisiones)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere Arena del Tiempo o derrotar 3+ lugartenientes temporales)
 
@@ -35,25 +35,27 @@ Cuando Tempus muere (ya sea por los PJ o por otro lugarteniente), **Las Ruinas d
 
 ---
 
-**Clase de Armadura:** 18 (armadura natural + protección temporal)  
-**Puntos de Golpe:** 195 (26d8 + 78)  
+**Clase de Armadura:** 17 (armadura natural + protección temporal)  
+**Puntos de Golpe:** 170 (20d8 + 80)  
 **Velocidad:** 30 pies
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 18 (+4) | 14 (+2) | 16 (+3) | 20 (+5) | 18 (+4) | 10 (+0) |
+| 16 (+3) | 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) | 10 (+0) |
 
 ---
 
-**Salvaciones:** DES +9, INT +12, SAB +11  
-**Habilidades:** Arcano +12, Historia +12, Percepción +11  
+**Salvaciones:** DES +5, INT +6, SAB +6  
+**Habilidades:** Arcano +6, Historia +6, Percepción +6  
 **Resistencias al Daño:** Temporal, contundente, cortante y perforante de ataques no mágicos  
 **Inmunidades a Condiciones:** Encantado, agotamiento, envenenado, asustado, paralizado, petrificado, aturdido, inconsciente  
-**Sentidos:** Percepción pasiva 21  
+**Sentidos:** Percepción pasiva 16  
 **Idiomas:** Común, Primordial, todos los idiomas (a través de fragmentos temporales)  
-**CR:** 12 (8,400 XP)
+**CR:** 8 (3,900 XP)
+
+**Resistencia Legendaria (1/día).** Si Tempus falla una tirada de salvación, puede elegir tener éxito en su lugar.
 
 ---
 
@@ -72,84 +74,70 @@ Tempus está creado por fragmentos de tiempo perdido. Puede fragmentarse en múl
 Tempus es inmune a efectos que alteran el tiempo, incluyendo *lentitud*, *aceleración*, y efectos de envejecimiento mágico.
 
 **Repetición de Acciones.**  
-Tempus puede repetir acciones anteriores en bucles temporales, forzando a los enemigos a repetir sus acciones también.
+Tempus puede atrapar a un enemigo en un breve bucle temporal, haciéndole perder un instante de su próximo turno (representado mecánicamente por *Bucle Forzado*). Estos bucles son siempre acotados: nunca encadenan turnos perdidos ni se repiten sin recarga.
 
 **Secuencias Automáticas.**  
-Tempus puede programar múltiples secuencias temporales que se ejecutan simultáneamente, permitiendo múltiples acciones por turno.
+Tempus puede "programar" un ataque para que se dispare por sí solo al inicio de su siguiente turno (representado por *Programación Temporal*), liberándolo para actuar de nuevo.
 
 ---
 
 ### **Acciones**
 
 **Multiataque.**  
-Tempus realiza tres ataques: dos con *Garras Temporales* y uno con *Fragmento Temporal*.
+Tempus realiza dos ataques: uno con *Garras Temporales* y uno con *Fragmento Temporal*.
 
-**Garras Temporales.** *Ataque con Arma Cuerpo a Cuerpo:* +11 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 10 (1d10 + 4) de daño cortante más 10 (3d6) de daño temporal.  
-El objetivo debe hacer salvación de Constitución CD 18 o queda aturdido por 1 turno.
+**Garras Temporales.** *Ataque con Arma Cuerpo a Cuerpo:* +8 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 9 (1d10 + 3) de daño cortante más 10 (3d6) de daño temporal.  
+El objetivo debe hacer salvación de Constitución CD 15 o queda aturdido hasta el final de su siguiente turno.
 
-**Fragmento Temporal.** *Ataque con Conjuro:* +12 al ataque, alcance 60 pies, un objetivo.  
+**Fragmento Temporal.** *Ataque con Conjuro:* +9 al ataque, alcance 60 pies, un objetivo.  
 Tempus lanza un fragmento de tiempo perdido que ataca al enemigo.  
-*Impacto:* 14 (4d6) de daño temporal. El objetivo debe hacer salvación de Sabiduría CD 18 o repite su última acción.
+*Impacto:* 14 (4d6) de daño temporal.
 
-**Bucle Simple (Recarga 5-6).**  
-Como acción, Tempus crea un bucle temporal de 1 turno donde puede repetir su acción anterior. El enemigo que fue objetivo de esa acción debe volver a realizar la tirada.
+**Bucle Forzado (Recarga 5-6).**  
+Como acción, Tempus atrapa a **un objetivo** que pueda ver a hasta 60 pies en un único bucle temporal. El objetivo debe hacer salvación de Sabiduría CD 15 o **pierde su siguiente turno** (1 turno), atrapado repitiendo el instante. El efecto afecta a un solo objetivo y dura como mucho 1 turno; nunca encadena turnos perdidos ni se repite sin recarga. (Esta es la única mecánica de "perder turno" de Tempus: sustituye a cualquier bucle ilimitado.)
 
 **Programación Temporal (3/día).**  
-Como acción, Tempus "programa" una secuencia de 2 acciones que se ejecutarán automáticamente en los próximos 2 turnos, liberándolo para otras acciones.
+Como acción adicional, Tempus "programa" un *Fragmento Temporal* que se dispara automáticamente al inicio de su siguiente turno, liberándolo para realizar otra acción ese turno.
 
-**Bucle de Combate (2/día).**  
-Como acción, Tempus crea un bucle de 2 turnos donde todo el combate se repite exactamente igual, pero Tempus puede cambiar sus acciones en cada iteración.
-
-**Secuencia Automática (1/día).**  
-Como acción, Tempus programa una secuencia compleja de 3 acciones que se ejecuta automáticamente, liberándolo para otras acciones.
-
-**Bucle Eterno (1/día).**  
-Como acción, Tempus crea un bucle temporal que se repite por 1d4 turnos, pero puede modificar sus acciones en cada iteración.
-
-**Fragmentación Temporal (1/día).**  
-Como acción, Tempus se fragmenta en múltiples versiones temporales de sí mismo (1d4 clones), cada una ejecutando diferentes secuencias programadas. Los clones tienen los mismos HP y estadísticas que Tempus.
+**Eco Temporal (1/día).**  
+Como acción, Tempus proyecta un eco temporal de sí mismo (1 clon con 1 HP que comparte su AC y bonos de ataque, no puede usar acciones legendarias ni rasgos 1/día) que persiste hasta el final del combate o hasta recibir daño. El eco actúa en la iniciativa de Tempus y solo puede realizar el ataque de *Fragmento Temporal*.
 
 ---
 
 ### **Acciones Legendarias**
 
-Tempus puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores.
+Tempus puede realizar **2 acciones legendarias por ronda**, eligiendo entre las opciones de abajo. Solo puede usar una acción legendaria a la vez y solo al final del turno de otra criatura. Recupera las acciones legendarias gastadas al inicio de su turno.
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                                      |
-| -------------------------- | ---------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Bucle Simple**           | 5                | 1 Acción   | Crea un bucle temporal de 1 turno donde puede repetir su acción anterior, pero el enemigo debe volver a realizar la tirada de la acción que está llevando a cabo |
-| **Programación Temporal**  | 5                | 1 Acción   | "Programa" una secuencia de 2 acciones que se ejecutarán automáticamente en los próximos 2 turnos                    |
-| **Bucle de Combate**       | 6                | 2 Acciones | Crea un bucle de 2 turnos donde todo el combate se repite exactamente igual, pero Tempus puede cambiar sus acciones  |
-| **Secuencia Automática**   | 7                | 2 Acciones | Programa una secuencia compleja de 3 acciones que se ejecuta automáticamente, liberando a Tempus para otras acciones |
-| **Bucle Eterno**           | 8                | 3 Acciones | Crea un bucle temporal que se repite por 1d4 turnos, pero Tempus puede modificar sus acciones en cada iteración      |
-| **Programación Masiva**    | 9                | 3 Acciones | Programa múltiples secuencias temporales que se ejecutan simultáneamente, permitiendo múltiples acciones por turno   |
-| **Bucle de Realidad**      | 10               | 4 Acciones | Crea un bucle temporal que afecta a toda la realidad en 60 pies, repitiendo eventos por 1d6 turnos                   |
-| **Fragmentación Temporal** | 11               | 4 Acciones | Se fragmenta en múltiples versiones temporales de sí mismo, cada una ejecutando diferentes secuencias programadas    |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                                      |
+| -------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------- |
+| **Fragmento Temporal**     | 1 Acción   | Tempus realiza un ataque con *Fragmento Temporal*.                                                                  |
+| **Reposicionar Engranajes**| 1 Acción   | Tempus se desplaza hasta la mitad de su velocidad sin provocar ataques de oportunidad, parpadeando entre instantes. |
+| **Garras Temporales**      | 2 Acciones | Tempus realiza un ataque con *Garras Temporales* (CD 15; aturdido hasta el final del siguiente turno del objetivo). |
 
 ---
 
 ## 🎯 **TÁCTICAS DE COMBATE**
 
-### **Fase 1: Programación (Rounds 1-2)**
-1. Programa secuencias automáticas para acciones futuras
-2. Crea bucles temporales para repetir acciones exitosas
-3. Se posiciona estratégicamente
+### **Fase 1: Apertura (Rounds 1-2)**
+1. Usa *Programación Temporal* para encadenar dos ataques de *Fragmento Temporal* en un mismo turno
+2. Lanza *Bucle Forzado* contra el atacante más peligroso para hacerle perder un turno
+3. Se posiciona estratégicamente, usando *Reposicionar Engranajes* fuera de turno
 
-### **Fase 2: Repetición (Rounds 3-6)**
-- Usa bucles para repetir acciones que causaron daño
-- Programa múltiples secuencias para acciones simultáneas
-- Mantiene distancia mientras las secuencias automáticas atacan
+### **Fase 2: Presión (Rounds 3-6)**
+- Alterna *Garras Temporales* (aturdir) y *Fragmento Temporal* a distancia
+- Reserva *Bucle Forzado* (recarga 5-6) para neutralizar al sanador o al pegador más fuerte
+- Gasta acciones legendarias en *Fragmento Temporal* para mantener daño constante
 
-### **Fase 3: Fragmentación (Rounds 7+)**
-- Se fragmenta en múltiples versiones temporales
-- Cada versión ejecuta diferentes secuencias programadas
+### **Fase 3: Desesperación (HP < 60)**
+- Usa *Eco Temporal* para duplicar su presión a distancia
+- Guarda su *Resistencia Legendaria* para anular el control que más le duela
 - Prioriza eliminar amenazas mayores
 
 ### **Estrategias Especiales:**
-- **Contra Múltiples Enemigos:** Usa *Bucle de Combate* para repetir ataques de área
-- **Contra Tanques:** Usa *Fragmento Temporal* para forzar repetición de acciones fallidas
-- **Contra Hechiceros:** Usa *Programación Temporal* para interrumpir concentración
+- **Contra Múltiples Enemigos:** *Programación Temporal* para concentrar dos fragmentos en el objetivo prioritario
+- **Contra Tanques:** *Garras Temporales* para aturdir y romper su iniciativa
+- **Contra Hechiceros:** *Bucle Forzado* para hacerles perder el turno y cortar la concentración
 
 ---
 

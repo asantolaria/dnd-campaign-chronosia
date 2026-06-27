@@ -11,15 +11,15 @@
 
 | **Aspecto** | **Requisito** |
 |------------|--------------|
-| **Nivel Inicial** | 3-5 (recomendado: 3) |
+| **Nivel Inicial** | 3-4 (recomendado: 3) |
 | **Origen** | Waterdeep o residentes temporales (min. 1 año) |
 | **Conexión** | Todos deben conocer o saber de Thaddeus Ironwright |
 | **Trasfondos** | Se recomiendan trasfondos personalizados de Waterdeep |
 
 ### **Progresión de Niveles:**
-- **Sesiones 1-3**: Niveles 3-5
-- **Sesiones 4-12**: Niveles 6-12  
-- **Sesiones 13-15**: Niveles 13-15
+- **Sesiones 1-3**: Niveles 3-4
+- **Sesiones 4-12**: Niveles 4-8  
+- **Sesiones 13-20**: Niveles 8-10
 
 ---
 

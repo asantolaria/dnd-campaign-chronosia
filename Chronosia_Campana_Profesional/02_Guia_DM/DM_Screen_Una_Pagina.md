@@ -9,7 +9,7 @@
 |------------------|------------------|----------------|------------|
 | _____ | _____ | _____ | 🟢 Equilibrio (0-1) / ⚠️ Desbalance (2+) |
 
-**Post-Thyra (Sesión 6+):** 4 temporales activos vs 5 dimensionales. Si diferencia ≥4 → Varrak puede sacrificarse.
+**Post-Thyra (Sesión 6+):** 5 temporales activos vs 6 dimensionales. Si diferencia ≥4 → Varrak puede sacrificarse.
 
 ---
 
@@ -25,7 +25,7 @@
 
 ### 💬 **FRASES CLAVE (explicadores del balance)**
 
-**Zephyr:** *"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
+**Galen:** *"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
 
 **Varrak:** *"Hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza."*
 

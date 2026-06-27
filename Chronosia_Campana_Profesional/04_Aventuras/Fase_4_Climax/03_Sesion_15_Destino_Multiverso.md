@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 4-6 horas
-- **Nivel de los PJ:** 15
+- **Nivel de los PJ:** 9-10
 - **Ubicación:** Torre de la Eternidad (Nivel 5)
 - **Estilo:** Combate Final + Epílogo
 - **⚠️ COMBATE FINAL:** Según el final determinado en Sesión 14

@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 12-13
+- **Nivel de los PJ:** 8
 - **Ubicación:** Variable
 - **Estilo:** Sandbox + Preparación Final
 - **⚠️ RITUAL AL 92%:** Urgencia máxima

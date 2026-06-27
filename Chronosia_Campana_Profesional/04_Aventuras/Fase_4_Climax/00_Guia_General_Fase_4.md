@@ -20,19 +20,19 @@ El destino del multiverso se decide. Los PJ asaltan la Torre de la Eternidad, en
 
 ### **Sesión 13: Llamada de los Dioses**
 - **[01_Sesion_13_Llamada_Dioses.md](./01_Sesion_13_Llamada_Dioses.md)**
-- **Nivel:** 13-14
+- **Nivel:** 8
 - **Ubicación:** Torre de la Eternidad (exterior)
 - **Evento:** Ritual al 98% - Los dioses llaman a los PJ
 
 ### **Sesión 14: Asalto a la Torre**
 - **[02_Sesion_14_Asalto_Torre.md](./02_Sesion_14_Asalto_Torre.md)**
-- **Nivel:** 14-15
+- **Nivel:** 9
 - **Ubicación:** Torre de la Eternidad (5 niveles)
 - **Evento:** Asalto completo + Determinación del final
 
 ### **Sesión 15: Destino del Multiverso**
 - **[03_Sesion_15_Destino_Multiverso.md](./03_Sesion_15_Destino_Multiverso.md)**
-- **Nivel:** 15
+- **Nivel:** 9-10 (nivel máximo de la campaña)
 - **Ubicación:** Torre de la Eternidad (Nivel 5)
 - **Evento:** Combate final + Epílogo
 
@@ -114,14 +114,14 @@ Los PJ reciben recursos de aliados:
 - Oceánicos de las Profundidades: 10 guerreros CR 8
 - Otras facciones: Bendiciones, armas, información
 
-**Nivel de los PJ:** 13
+**Nivel de los PJ:** 8
 
 ---
 
 ### **📖 SESIÓN 14: "El Asalto a la Torre"**
 
 **Ubicación:** La Torre de la Eternidad  
-**Nivel de los PJ:** 14
+**Nivel de los PJ:** 9
 
 **Progresión del Ritual:** 98-99%
 
@@ -145,7 +145,7 @@ Los PJ reciben recursos de aliados:
 ### **📖 SESIÓN 15: "El Destino del Multiverso"**
 
 **Ubicación:** Cámara de Ascensión (Nivel 5 de la Torre)  
-**Nivel de los PJ:** 15
+**Nivel de los PJ:** 9-10
 
 **Progresión del Ritual:** 98-100% (depende de timing)
 

@@ -15,7 +15,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 8-9
+- **Nivel de los PJ:** 6
 - **Ubicación:** Variable (depende de dónde estén los PJ)
 - **Estilo:** Sandbox + Revelación
 - **⚠️ REVELACIÓN GRADUAL #1:** ¿Dónde está Manshoon?
@@ -47,8 +47,8 @@
 - Eventos aleatorios pueden ocurrir
 
 **Regiones Nuevas Desbloqueadas (Total: 8):**
-- **Las Llanuras de la Compresión** (Dimensionalis) - Nivel 8-10
-- **El Jardín de los Tiempos Gemelos** (Las Gemelas) - Nivel 8-10
+- **Las Llanuras de la Compresión** (Dimensionalis) - Nivel 7-8
+- **El Jardín de los Tiempos Gemelos** (Las Gemelas) - Nivel 7-8
 
 ---
 

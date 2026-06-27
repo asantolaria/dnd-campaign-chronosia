@@ -15,7 +15,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 4-5 horas
-- **Nivel de los PJ:** 14-15
+- **Nivel de los PJ:** 9
 - **Ubicación:** Torre de la Eternidad (4 niveles + antesalas)
 - **Estilo:** Asalto Completo + Revelación Masiva + Combate Final
 - **⚠️ MEDIDOR DEL RITUAL:** Visible en todas las antesalas y durante el combate

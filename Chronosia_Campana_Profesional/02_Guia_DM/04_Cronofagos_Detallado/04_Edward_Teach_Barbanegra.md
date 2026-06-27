@@ -9,7 +9,7 @@
 - **Tipo:** Dimensional (Poder de Voidar) + Temporal Robado (de Thyra)
 - **Rol:** Principal/Independiente/Híbrido
 - **Región:** Archipiélago de Barbanegra
-- **Nivel Recomendado:** 11-13
+- **Nivel Recomendado:** 8-9
 - **Bando:** Independiente
 - **Estado de Acceso:** 🔓 Desbloqueada (accesible desde Sesión 6+)
 - **⚠️ Nota Especial:** Es un punto ciego para Varrak del Horizonte
@@ -68,7 +68,7 @@ Edward Teach NO es solo un oportunista que roba poder. Es el **único lugartenie
 
 ---
 
-**Clase de Armadura:** 19 (armadura de cuero mágica + destreza + escudo)  
+**Clase de Armadura:** 18 (armadura de cuero mágica + destreza + escudo)  
 **Puntos de Golpe:** 225 (30d8 + 90)  
 **Velocidad:** 30 pies, natación 30 pies
 
@@ -76,17 +76,17 @@ Edward Teach NO es solo un oportunista que roba poder. Es el **único lugartenie
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 20 (+5) | 20 (+5) | 16 (+3) | 18 (+4) | 16 (+3) | 20 (+5) |
+| 16 (+3) | 18 (+4) | 16 (+3) | 14 (+2) | 14 (+2) | 18 (+4) |
 
 ---
 
-**Salvaciones:** DES +12, CON +10, CAR +12  
-**Habilidades:** Atletismo +12, Engaño +12, Intimidación +12, Percepción +10, Persuasión +12, Sigilo +12  
+**Salvaciones:** DES +9, CON +8, CAR +9  
+**Habilidades:** Atletismo +8, Engaño +9, Intimidación +9, Percepción +7, Persuasión +9, Sigilo +9  
 **Resistencias al Daño:** Temporal, espacial, necrótico  
 **Inmunidades a Condiciones:** Paralizado (por efectos temporales), efectos de predicción/divinación  
-**Sentidos:** Percepción pasiva 20  
+**Sentidos:** Percepción pasiva 17  
 **Idiomas:** Común, Primordial, Infernal  
-**CR:** 17 (18,000 XP)
+**CR:** 11 (7,200 XP)
 
 ---
 
@@ -105,7 +105,10 @@ El cuerpo de Teach muestra distorsión temporal: una mano envejece y rejuvenece 
 Teach puede crear portales dimensionales con facilidad. Tiene ventaja en tiradas relacionadas con portales y teletransporte.
 
 **Comandante Pirata.**  
-Teach está rodeado por 2d4 piratas élite (CR 5 cada uno) que luchan por él. Puede ordenarles que actúen como reacción.
+Teach está rodeado por 1d4+1 piratas élite (CR 2 cada uno) que luchan por él. Puede ordenarles que actúen como reacción.
+
+**Resistencia Legendaria (1/día).**  
+Si Teach falla una tirada de salvación, puede elegir tener éxito en su lugar.
 
 **Inmunidad a Predicción.**  
 Teach es inmune a efectos que predigan sus acciones, incluyendo *presagio* y habilidades similares de Varrak.
@@ -117,42 +120,38 @@ Teach es inmune a efectos que predigan sus acciones, incluyendo *presagio* y hab
 **Multiataque.**  
 Teach realiza cuatro ataques: dos con *Sable Pirata*, uno con *Pistola de Estasis* y uno con *Portal de Ataque*.
 
-**Sable Pirata.** *Ataque con Arma Cuerpo a Cuerpo:* +12 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 11 (1d8 + 5) de daño cortante más 7 (2d6) de daño espacial.
+**Sable Pirata.** *Ataque con Arma Cuerpo a Cuerpo:* +9 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 8 (1d8 + 3) de daño cortante más 7 (2d6) de daño espacial.
 
-**Pistola de Estasis.** *Ataque con Arma a Distancia:* +12 al ataque, alcance 80/320 pies, un objetivo.  
-*Impacto:* 12 (2d8 + 5) de daño perforante más 7 (2d6) de daño temporal.  
-El objetivo debe hacer salvación de Constitución CD 18 o queda paralizado por 1 turno.
+**Pistola de Estasis.** *Ataque con Arma a Distancia:* +9 al ataque, alcance 80/320 pies, un objetivo.  
+*Impacto:* 12 (2d8 + 3) de daño perforante más 7 (2d6) de daño temporal.  
+El objetivo debe hacer salvación de Constitución CD 17 o queda paralizado por 1 turno.
 
 **Portal de Intercambio (Recarga 5-6).**  
-Como acción, Teach intercambia posiciones con un enemigo a hasta 30 pies de distancia. El enemigo debe hacer salvación de Destreza CD 18 o es teletransportado a la posición de Teach.
+Como acción, Teach intercambia posiciones con un enemigo a hasta 30 pies de distancia. El enemigo debe hacer salvación de Destreza CD 17 o es teletransportado a la posición de Teach.
 
 **Ataque de Cañón (3/día).**  
-Como acción, Teach dispara un cañón que causa daño de área en un radio de 20 pies. Todas las criaturas en el área deben hacer salvación de Destreza CD 18 o reciben 28 (8d6) de daño contundente y quedan aturdidas por 1 turno.
+Como acción, Teach dispara un cañón que causa daño de área en un radio de 20 pies. Todas las criaturas en el área deben hacer salvación de Destreza CD 17 o reciben 21 (6d6) de daño contundente y quedan aturdidas por 1 turno.
 
 **Desplazamiento Masivo (2/día).**  
-Como acción, Teach teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies. Cada enemigo debe hacer salvación de Destreza CD 18 o es teletransportado.
+Como acción, Teach teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies. Cada enemigo debe hacer salvación de Destreza CD 17 o es teletransportado.
 
 **Portal de Invocación (1/día).**  
 Como acción, Teach abre un portal a otro mundo y trae 1d4 criaturas aleatorias que luchan por él hasta ser derrotadas o hasta que Teach muera.
 
 ### **🌍 Lista de Criaturas Invocables (Portal de Invocación):**
 
-**Tirar 1d20 para determinar la criatura invocada:**
+**Tirar 1d20 para determinar la criatura invocada (todas CR ≤ 6):**
 
-| **d20** | **Criatura** | **Nivel Aprox.** | **Descripción** |
+| **d20** | **Criatura** | **CR Aprox.** | **Descripción** |
 |---------|--------------|------------------|-----------------|
-| **1-2** | **Elemental de Aire** | 5 | Espíritu elemental que ataca con ráfagas de viento |
-| **3-4** | **Demonio Menor** | 6 | Demonio de bajo rango con garras y fuego |
-| **5-6** | **Constructo de Cristal** | 7 | Golem de cristal que refleja hechizos |
-| **7-8** | **Dragón Wyrmling** | 8 | Dragón joven de color aleatorio |
-| **9-10** | **Gigante de Piedra** | 9 | Gigante elemental de roca |
-| **11-12** | **Fénix Menor** | 10 | Ave de fuego que se regenera |
-| **13-14** | **Elemental de Fuego** | 11 | Espíritu de fuego que quema todo |
-| **15-16** | **Demonio Mayor** | 12 | Demonio poderoso con múltiples ataques |
-| **17-18** | **Dragón Adulto** | 13 | Dragón maduro de gran poder |
-| **19** | **Elemental Primordial** | 14 | Elemental de poder cósmico |
-| **20** | **Criatura Única** | 15 | Ser único y poderoso de otro mundo |
+| **1-3** | **Elemental de Aire Menor** | 2 | Espíritu elemental que ataca con ráfagas de viento |
+| **4-6** | **Demonio Menor (dretch/quasit)** | 1 | Demonio de bajo rango con garras y fuego |
+| **7-9** | **Constructo de Cristal** | 3 | Golem menor de cristal que refleja hechizos |
+| **10-12** | **Dragón Wyrmling** | 3-4 | Dragón cría de color aleatorio |
+| **13-15** | **Demonio Vrock Menor** | 5 | Demonio alado con esporas tóxicas |
+| **16-18** | **Elemental de Fuego** | 5 | Espíritu de fuego que quema todo |
+| **19-20** | **Demonio Mayor Menor (hezrou)** | 6 | Demonio robusto con múltiples ataques |
 
 **Nota**: Las criaturas invocadas permanecen en el campo de batalla hasta ser derrotadas o hasta que Edward Teach muera.
 
@@ -160,44 +159,37 @@ Como acción, Teach abre un portal a otro mundo y trae 1d4 criaturas aleatorias 
 
 ### **Acciones Legendarias**
 
-Teach puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores. Tiene acceso a acciones legendarias DIMENSIONALES y TEMPORALES (robadas de Thyra).
+Teach puede realizar **3 acciones legendarias por ronda**, eligiendo entre las opciones de abajo. Solo puede usar una acción legendaria a la vez y solo al final del turno de otra criatura. Recupera las acciones legendarias gastadas al inicio de su turno. Tiene acceso a acciones DIMENSIONALES y TEMPORALES (robadas de Thyra).
 
 #### **🌌 Acciones Legendarias Dimensionales:**
 
-| **Acción Legendaria**          | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| ------------------------------ | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Ataque de Cañón**      | 5                | 1 Acción   | Dispara un cañón que causa daño de área en un radio de 20 pies                                        |
-| **Portal de Intercambio**      | 5                | 1 Acción   | Intercambia posiciones con un enemigo a hasta 30 pies de distancia                                            |
-| **Desplazamiento Masivo**      | 6                | 2 Acciones | Teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies        |
-| **Portal de Retorno**          | 7                | 2 Acciones | Crea un portal que conecta dos ubicaciones, permitiendo viaje instantáneo entre ellas por 3 turnos            |
-| **Desplazamiento Forzado**     | 8                | 3 Acciones | Fuerza a un enemigo a teletransportarse a una ubicación específica, posiblemente peligrosa                    |
-| **Portal de Absorción**        | 9                | 3 Acciones | Crea un portal que absorbe ataques enemigos y los redirige a otros enemigos                                   |
-| **Desplazamiento Dimensional** | 10               | 4 Acciones | Teletransporta a todos los enemigos en 60 pies a un plano dimensional aleatorio por 1d4 turnos                |
-| **Portal de Realidad**         | 11               | 4 Acciones | Crea un portal masivo que conecta con múltiples realidades, confundiendo y desorientando a todos los enemigos |
-| **Portal de Invocación**       | 8                | 3 Acciones | Abre un portal a otro mundo y trae 1d4 criaturas aleatorias de una lista predefinida que luchan por Edward Teach |
+| **Acción Legendaria**          | **Costo**  | **Descripción**                                                                                               |
+| ------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Ataque de Cañón**            | 1 Acción   | Dispara un cañón que causa daño de área en un radio de 20 pies (DES CD 17, 21 (6d6) contundente)              |
+| **Portal de Intercambio**      | 1 Acción   | Intercambia posiciones con un enemigo a hasta 30 pies de distancia                                            |
+| **Desplazamiento Masivo**      | 2 Acciones | Teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies        |
+| **Desplazamiento Forzado**     | 3 Acciones | Fuerza a un enemigo a teletransportarse a una ubicación específica, posiblemente peligrosa                    |
+| **Portal de Realidad**         | 3 Acciones | Crea un portal masivo que conecta con múltiples realidades, confundiendo y desorientando a un enemigo (SAB CD 17 o confundido 1 turno) |
 
 #### **⏰ Acciones Legendarias Temporales (Robadas de Thyra):**
 
 **Nota DM:** Estas acciones se añaden al repertorio de Edward Teach después de asesinar a Thyra en Sesión 5-6.
 
-| **Acción Legendaria** | **Nivel Mínimo** | **Costo** | **Descripción** |
-| -------------------- | ---------------- | --------- | --------------- |
-| **Estasis Pirata** | 6 | 2 Acciones | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
-| **Suspensión de Ataque** | 6 | 1 Acción | Congela un ataque enemigo en el aire, evitando que cause daño hasta su siguiente turno |
-| **Congelación Temporal** | 7 | 2 Acciones | Convierte a un enemigo en cristal temporal, paralizándolo por 1d4 turnos (CD 16 Sabiduría) |
-| **Campo de Estasis** | 8 | 3 Acciones | Crea un área de 30 pies donde todos los enemigos quedan suspendidos, perdiendo su turno (CD 18 Sabiduría) |
-| **Momento Robado** | 9 | 3 Acciones | Roba el turno de un enemigo - ese enemigo pierde su próxima acción y Teach gana una acción adicional |
-| **Congelación Masiva** | 10 | 4 Acciones | Congela el tiempo en 60 pies, todos los enemigos pierden 2 turnos consecutivos (CD 20 Sabiduría) |
-| **Estasis de Batalla** | 11 | 4 Acciones | Congela a todos en 90 pies por 1 turno completo mientras Teach actúa libremente (CD 22 Sabiduría) |
+| **Acción Legendaria** | **Costo** | **Descripción** |
+| -------------------- | --------- | --------------- |
+| **Suspensión de Ataque** | 1 Acción | Congela un ataque enemigo en el aire, evitando que cause daño hasta su siguiente turno |
+| **Estasis Pirata** | 2 Acciones | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
+| **Congelación Temporal** | 2 Acciones | Convierte a un enemigo en cristal temporal, paralizándolo por 1d4 turnos (CD 17 Sabiduría) |
+| **Campo de Estasis** | 3 Acciones | Crea un área de 30 pies donde todos los enemigos quedan suspendidos, perdiendo su turno (CD 17 Sabiduría) |
 
 #### **💀 Combinaciones Devastadoras:**
 
 Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 
-- **Portal Congelado** (Nivel 8+): Portal de Intercambio + Suspensión de Ataque = Teletransporta y congela al enemigo
-- **Estasis y Reposición** (Nivel 9+): Estasis Pirata + Portal de Intercambio = Se hace inmune e intercambia posición con enemigo
-- **Desplazamiento Temporal** (Nivel 10+): Desplazamiento Masivo + Campo de Estasis = Teletransporta y congela a todos
-- **Cañón Suspendido** (Nivel 7+): Ataque de Cañón + Campo de Estasis = Daño masivo a enemigos congelados (doble daño)
+- **Portal Congelado:** Portal de Intercambio + Suspensión de Ataque = Teletransporta y congela al enemigo
+- **Estasis y Reposición:** Estasis Pirata + Portal de Intercambio = Se hace inmune e intercambia posición con enemigo
+- **Desplazamiento Temporal:** Desplazamiento Masivo + Campo de Estasis = Teletransporta y congela a todos
+- **Cañón Suspendido:** Ataque de Cañón + Campo de Estasis = Daño masivo a enemigos congelados (doble daño)
 
 ### **🏴‍☠️ SISTEMA DE ROBO DE PODERES DE EDWARD TEACH**
 
@@ -310,7 +302,7 @@ Edward Teach ha descubierto cómo usar **cristales especiales** para combinar po
 - **Oportunidad para los PJ:** Los PJ podrían ayudar a los Oceánicos y obtener acceso a los cristales, o podrían usar esto como ventaja contra Teach
 
 **Referencias:**
-- Ver [Cristales de Chronosia](../../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-cristales-de-chronosia) para detalles completos sobre los cristales
+- Ver [Cristales de Chronosia](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-cristales-de-chronosia) para detalles completos sobre los cristales
 - **Estrategia**: Los PJ pueden usar conocimiento del lugarteniente original contra él
 
 ---
@@ -318,7 +310,7 @@ Edward Teach ha descubierto cómo usar **cristales especiales** para combinar po
 ## 🎯 **TÁCTICAS DE COMBATE**
 
 ### **Fase 1: Apertura (Rounds 1-2)**
-1. Llama a sus piratas élite (2d4)
+1. Llama a sus piratas élite (1d4+1)
 2. Usa *Portal de Invocación* para traer criaturas aliadas
 3. Activa *Estasis Pirata* para ganar inmunidad temporal
 
