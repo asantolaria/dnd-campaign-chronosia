@@ -213,7 +213,7 @@ Al derrotar a Serapis:
 
 **🎖️ LUGARTENIENTE ACTIVO**
 
-**⚠️ PERSONAJE ESPECIAL:** Varrak es el **Oráculo Neutral** que puede convertirse en aliado, siervo o mártir según las acciones de los PJ. Ver [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) para su sistema completo.
+**⚠️ PERSONAJE ESPECIAL:** Varrak es el **Oráculo Neutral** que puede convertirse en aliado, siervo o mártir según las acciones de los PJ. Ver 05_La_Ascension_del_Conclave.md para su sistema completo.
 
 **⚔️ SOLDADOS ÚNICOS:** Varrak entrena y otorga poderes de **Predicción Temporal** a sus soldados, llamados "Los Videntes". Estos soldados pueden ver el futuro próximo, esquivar ataques proféticamente, y atacar anticipadamente. Ver [13_Soldados_y_Ejercitos_Regionales.md](../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 

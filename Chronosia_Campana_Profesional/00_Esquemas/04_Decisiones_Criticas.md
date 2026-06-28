@@ -6,7 +6,7 @@
 > **📖 NAVEGACIÓN:**
 > - [← Volver al Diagrama Principal](../00_Esquema_Campana_Mermaid.md)
 > - [📊 Opciones en Sandbox](./01_Sandbox.md)
-> - [⚔️ Sistema Dinámico de Lugartenientes](./02_Ascension_Conclave.md) ⚠️ OBSOLETO
+> - ⚔️ Sistema Dinámico de Lugartenientes ⚠️ OBSOLETO
 > - [🏰 Torre de la Eternidad](./03_Torre_Eternidad.md)
 
 ---

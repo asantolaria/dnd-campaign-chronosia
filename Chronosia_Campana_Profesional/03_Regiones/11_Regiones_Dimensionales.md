@@ -31,7 +31,7 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 - Las Gemelas del Espejo - Lyra y Nyx (Neutrales hasta Sesión 11)
 - Ymir el Eterno Invierno (Dimensional)
 
-**📖 Ver documento completo de la competencia:** [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)
+**📖 Ver documento completo de la competencia:** 05_La_Ascension_del_Conclave.md
 
 ---
 

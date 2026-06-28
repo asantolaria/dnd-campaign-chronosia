@@ -59,7 +59,16 @@ Marca también, SIN número: una TORRE solitaria y oculta tras las montañas del
 
 Dibuja además, en línea fina punteada, las RUTAS desde Cronópolis a las regiones cercanas, y una ruta distinta sobre el mar (líneas de oleaje) que cruce el Mar Oriental hasta el Archipiélago de Barbanegra (8), para sugerir que solo se llega por mar; si la rotulas, escribe exactamente «Ruta marítima».
 
-Añade rosa de los vientos y una cartela con el título «CHRONOSIA». **Rotula en español con etiquetas CORTAS y exactas (solo los nombres de la lista); NO escribas frases ni descripciones dentro de la imagen, porque el texto largo se corrompe.** Si el texto no sale fiable, genera el mapa SOLO con los números 1-10 y deja un recuadro de leyenda vacío en una esquina para rotular a mano. Formato vertical, proporción 2:3. Evita marcas de agua y estética de cómic.
+Añade rosa de los vientos y una cartela con el título «CHRONOSIA».
+
+**REGLAS DE ROTULADO (estrictas):**
+- **TODO el texto en ESPAÑOL.** Nada de inglés: usa «Mar Occidental» y «Mar Oriental» (NO «West/East Sea»), «Glaciares eternos» (NO «Eternal glacias»).
+- **Una sola etiqueta por lugar** (no repitas ningún nombre).
+- **Sin texto entre paréntesis** y **sin frases ni descripciones** dentro de la imagen: solo los nombres exactos de la lista (el texto largo se corrompe).
+- Cuida la **ortografía** de los nombres propios: «Veldrisza» (no «Veldrixza»), «Subterránea» (no «Subterránnea»).
+- El Valle de la Aguja se rotula solo «Valle de la Aguja» (sin coletilla).
+
+Si no puedes garantizar el texto correcto, genera el mapa **SOLO con los números 1-10** (sin nombres) y deja un recuadro de leyenda vacío en una esquina para rotular a mano. Formato vertical, proporción 2:3. Evita marcas de agua y estética de cómic.
 ```
 
 ---

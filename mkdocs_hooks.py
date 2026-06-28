@@ -24,11 +24,30 @@ _EMOJI = re.compile(
 )
 
 
-def _strip_decorative_emojis(text: str) -> str:
-    def repl(m):
-        core = m.group(1).rstrip("️")
-        return m.group(0) if core in _KEEP else ""
-    return _EMOJI.sub(repl, text)
+def _clean_emojis(text: str) -> str:
+    """Quita emojis. En los TÍTULOS los elimina todos (incluidos ⚠/✅), porque
+    recargan la presentación; en el cuerpo conserva los semánticos (estado/aviso)."""
+    out = []
+    for line in text.split("\n"):
+        is_heading = bool(re.match(r"\s*#{1,6}\s", line))
+
+        def repl(m, keep=not is_heading):
+            core = m.group(1).rstrip("️")
+            return m.group(0) if (keep and core in _KEEP) else ""
+
+        out.append(_EMOJI.sub(repl, line))
+    return "\n".join(out)
+
+
+# Las criaturas del bestiario son viñetas "- ***Nombre*** — statblock largo",
+# que en la web se ven apiladas sin separación. Cada una se promueve a su propio
+# subtítulo (h4) para darle aire y un ancla. El patrón "- ***" solo se usa en el
+# bestiario, así que es seguro. (La fuente .md no se toca.)
+_BEAST = re.compile(r"(?m)^- \*\*\*(.+?)\*\*\*[ \t]*[—–-]?[ \t]*(.*)$")
+
+
+def _beasts_to_headings(text: str) -> str:
+    return _BEAST.sub(lambda m: f"#### {m.group(1)}\n\n{m.group(2)}", text)
 
 
 def on_page_markdown(markdown, **kwargs):
@@ -36,5 +55,6 @@ def on_page_markdown(markdown, **kwargs):
     md = md.replace("assets/objetos_magicos/", "assets/web/objetos_magicos/")
     # los mapas pasan de .png (original) a .jpg (web)
     md = re.sub(r"assets/mapas/([^)\s\"']+)\.png", r"assets/web/mapas/\1.jpg", md)
-    md = _strip_decorative_emojis(md)
+    md = _beasts_to_headings(md)
+    md = _clean_emojis(md)
     return md

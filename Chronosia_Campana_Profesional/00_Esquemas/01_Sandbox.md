@@ -5,7 +5,7 @@
 
 > **📖 NAVEGACIÓN:**
 > - [← Volver al Diagrama Principal](../00_Esquema_Campana_Mermaid.md)
-> - [⚔️ La Ascensión del Cónclave](./02_Ascension_Conclave.md)
+> - ⚔️ La Ascensión del Cónclave
 > - [🏰 Torre de la Eternidad](./03_Torre_Eternidad.md)
 > - [🎭 Decisiones Críticas](./04_Decisiones_Criticas.md)
 

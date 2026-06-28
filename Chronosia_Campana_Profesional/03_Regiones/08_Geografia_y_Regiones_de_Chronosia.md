@@ -197,7 +197,7 @@ El avance de la ascensión de Aethernus se hace visible en Cronópolis mediante 
 
 ## ⚔️ **LA GUERRA ENTRE LUGARTENIENTES**
 
-**📖 Ver documento:** [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) · Estructura y ritmo: [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
+**📖 Ver documento:** 05_La_Ascension_del_Conclave.md · Estructura y ritmo: [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 
 ### **🎯 Concepto Central**
 
@@ -434,7 +434,7 @@ Cuando dos lugartenientes se enfrentan directamente (duelo, batalla abierta, con
 - **Refugiados:** Civiles huyendo de la guerra
 - **Oportunidades:** Los PJ pueden aprovechar el caos para infiltrarse o aliarse
 
-**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta **[05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md#-zonas-de-guerra)** - Sección "Zonas de Guerra"
+**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta **05_La_Ascension_del_Conclave.md** - Sección "Zonas de Guerra"
 
 ---
 
@@ -543,7 +543,7 @@ Los PJ eligen su propio orden respetando las puertas in-world (Mapa de Puertas).
 ---
 
 **📖 Documentos Relacionados:**
-- [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Sistema completo de competencia entre lugartenientes
+- 05_La_Ascension_del_Conclave.md - Sistema completo de competencia entre lugartenientes
 - [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) - Vista general (ver archivos individuales para acciones legendarias y poderes completos)
 - [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Descripción detallada de regiones temporales
 - [11_Regiones_Dimensionales.md](./11_Regiones_Dimensionales.md) - Descripción detallada de regiones dimensionales

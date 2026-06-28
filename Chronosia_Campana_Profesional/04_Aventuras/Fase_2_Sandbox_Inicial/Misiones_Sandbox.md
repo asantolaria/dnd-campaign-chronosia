@@ -59,7 +59,7 @@ A partir de la llegada a Chronosia, los PJ pueden:
 
 ### **⚔️ La Guerra entre Lugartenientes**
 
-**📖 Ver documento:** [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)
+**📖 Ver documento:** 05_La_Ascension_del_Conclave.md
 
 Tras el asesinato de Thyra por Edward Teach, estalla la rivalidad abierta entre los lugartenientes activos. No compiten por un poder ×3 ni se vuelven inmortales: la escalada real la encarna **Edward Teach**, que con su Talismán **absorbe a los lugartenientes que los PJ no alcanzan primero** y crece. Esto crea dinámicas únicas:
 
@@ -157,7 +157,7 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 
 **🎖️ LUGARTENIENTE ACTIVO** - 🟡 **Neutral hasta Sesión 11**
 
-**⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) para su sistema completo.
+**⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver 05_La_Ascension_del_Conclave.md para su sistema completo.
 
 #### **🎯 Objetivos**
 - **Principal**: Influenciar a **Varrak del Horizonte** para que se alíe con los PJ (o derrotarlo si se convierte en enemigo)
@@ -185,7 +185,7 @@ Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas
 - **Recompensas**: Elección entre **Espejo de la Verdad** O **Fragmento de Realidad Alternativa**
 - **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 1+ lugarteniente
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md) y [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)
+**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md) y 05_La_Ascension_del_Conclave.md
 
 ---
 

@@ -45,9 +45,13 @@ hooks:
 exclude_docs: |
   exports/
   agents.md
+  70_Ideas_Creativas_DM.md
   assets/mapas/
   assets/bestiario/
   assets/objetos_magicos/
+  assets/Prompt_Mapa_ChatGPT.md
+  00_Esquemas/02_Ascension_Conclave.md
+  02_Guia_DM/05_La_Ascension_del_Conclave.md
 
 markdown_extensions:
   - admonition
@@ -57,6 +61,7 @@ markdown_extensions:
   - footnotes
   - toc:
       permalink: true
+      toc_depth: 3
   - pymdownx.details
   - pymdownx.highlight
   - pymdownx.superfences:
