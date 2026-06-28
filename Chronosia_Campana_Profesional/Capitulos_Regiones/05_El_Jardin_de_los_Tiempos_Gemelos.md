@@ -2,7 +2,7 @@
 
 ![Mapa de El Jardín de los Tiempos Gemelos](../assets/mapas/02_jardin-tiempos-gemelos.png)
 
-> **Región dimensional/temporal (compartida)** · **Lugartenientes:** Medusa la Eterna (estasis) y Las Gemelas del Espejo (dimensión espejo) · **Nivel:** 5-8 · **Puerta:** se abre tras derrotar a 1 lugarteniente · **Aliables:** las Gemelas pueden cambiar de bando.
+> **Región dimensional/temporal (compartida)** · **Lugartenientes:** Medusa la Eterna (estasis) y Las Gemelas del Espejo (dimensión espejo) · **Nivel:** 5-8 · **Puerta:** **abierta desde el inicio** (región de entrada, más dura) · **Aliables:** las Gemelas pueden cambiar de bando.
 
 El Jardín de los Tiempos Gemelos es un parque amurallado partido en dos mitades que se reflejan como las dos hojas de un libro abierto. A poniente, el **ala helada**: setos blancos de escarcha, un estanque congelado y estatuas que solo se mueven cuando nadie las mira. A levante, el **ala viva**: la misma geometría exacta pero invertida —la izquierda donde debería ir la derecha—, un estanque negro que llora y un templo en la colina. Entre ambas, una fuente vierte un agua que devuelve voces que nadie ha dicho aún. Aquí el tiempo no avanza ni retrocede: se *detiene*. Una flor a medio abrir lleva ochocientos años a medio abrir. Y cada superficie pulida —cada espejo, cada charco, cada hoja de cristal— esconde un mundo idéntico y al revés, donde tu reflejo ha aprendido a odiarte.
 
@@ -86,7 +86,7 @@ Al caer, su mitad de piedra se agrieta y exhala: *"Por fin… el reloj me suelta
 
 **Pista/secreto:** en el cinturón de Caelith, una tijera de podar con una inscripción chroniana medio borrada: *"No cortes el sitio de una cosa. Si la separas de su lugar, ya no vuelve."* —doctrina chroniana sobre el espacio, eco de Voidar.
 
-**Lleva a:** el laberidero desemboca en el Estanque Helado.
+**Lleva a:** el laberinto desemboca en el Estanque Helado.
 
 ### 4 · El Estanque Helado
 
@@ -113,7 +113,7 @@ Una torre baja y achaparrada en el centro del ala oeste, sin ventanas, solo tron
 - **Si la dejan hablar**, Medusa confiesa la pieza de la región sin pretenderlo:
   > "¿Creéis que detengo el tiempo? Pobres. Detengo el **lugar**. Os arranco de vuestro sitio en el mundo y os clavo aquí, donde nadie cambia de coordenada nunca más. Eso no me lo enseñó nadie: lo *bebo*. Hay algo más grande que yo, encadenado, que era el dueño de todas las distancias del mundo —el que ponía el espacio entre una estrella y otra—. Ahora gotea, y yo recojo las gotas. El de la arena bebe del sol. Yo bebo del **vacío**. Y los dos servimos al mismo carcelero, en su torre que no está en ningún sitio… porque a la torre le robó el sitio precisamente *Él*."
   *(Confirma el segundo dios y, de paso, que la Torre de Aethernus está "fuera del espacio" — siembra para Glacialis.)*
-- **Victoria:** la estasis cesa, el ala helada se deshiela en 1d4 horas, las estatuas-personas despiertan confundidas y suaves. Derrotar a Medusa **abre la puerta** del jardín (cuenta como "1 lugarteniente") y deja a las Gemelas, al otro lado, sabiéndose observadas. *(Recuerda el sabor de la Espiral: matar a un lugarteniente-conducto puede acelerar el Reloj del Ritual; Medusa "solo recoge".)*
+- **Victoria:** la estasis cesa, el ala helada se deshiela en 1d4 horas, las estatuas-personas despiertan confundidas y suaves. Derrotar a Medusa **cuenta como "1 lugarteniente"** (igual que matar a las Gemelas: este jardín tiene *dos* lugartenientes, y abatir a cualquiera suma al recuento que abre otras puertas) y deja a las Gemelas, al otro lado, sabiéndose observadas. *(Recuerda el sabor de la Espiral: matar a un lugarteniente-conducto puede acelerar el Reloj del Ritual; Medusa "solo recoge".)*
 
 ---
 
@@ -234,7 +234,7 @@ El estanque negro del ala este, de aguas tan quietas y oscuras que son un espejo
 ---
 
 ## Cómo encaja en la campaña
-- **Puerta:** región **bloqueada**; se abre tras derrotar a **1 lugarteniente** (Medusa basta para abrirla; las Gemelas pueden quedar como pacto en vez de combate). Nivel 5-8. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
+- **Puerta:** **abierta desde el inicio** — región de entrada, pero **más dura** (nivel 5-8). Tiene **dos lugartenientes**: matar a Medusa **o** a las Gemelas cuenta como "1 lugarteniente" para el recuento que abre otras puertas (las Gemelas pueden quedar como pacto en vez de combate, en cuyo caso no suman). Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
 - **Pieza de trama que se llevan:** existe un **segundo dios cautivo, Voidar (Espacio)**, reflejo y contrapeso de Amaunator (Tiempo). El plan de Aethernus drena a **dos** dioses, no a uno, y vive de enfrentarlos —de ahí que todo en Chronosia esté *partido en dos*—. Aquí se siembran también la **llave chroniana partida** ("reunir lo que él separó") y que la **Torre está fuera del espacio**.
 - **Aliadas:** las Gemelas son neutrales y pueden cambiar de bando; ganárselas (Templo/Estanque) las suma como aliadas en el clímax de la Torre. Matarlas cierra esa puerta.
 - **Lo que se pierden si la saltan:** sin esta región, captarán tarde —o nunca— que hay *dos* dioses y dos fuerzas (Tiempo/Espacio); les costará entender por qué unos lugartenientes doblan el espacio y otros el tiempo, y perderán a dos posibles aliadas para el final.

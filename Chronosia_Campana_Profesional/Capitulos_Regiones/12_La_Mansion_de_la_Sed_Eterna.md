@@ -2,7 +2,7 @@
 
 ![Mapa de La Mansión de la Sed Eterna](../assets/mapas/09_mansion-de-la-sed-eterna.png)
 
-> **Región temporal** · **Lugarteniente:** Lord Vorthak "el Sediento Eterno" · **Nivel:** 8-10 · **Puerta:** alto nivel (requiere haber derrotado a 3+ lugartenientes) · **Recompensa:** el **espejo de la verdad final** — comprender qué es drenar una vida sin freno — y un umbral velado al Shadowfell.
+> **Región temporal** · **Lugarteniente:** Lord Vorthak "el Sediento Eterno" · **Nivel:** 8-10 · **Puerta:** región de alto nivel (8-10) · **Recompensa:** el **espejo de la verdad final** — comprender qué es drenar una vida sin freno — y un umbral velado al Shadowfell.
 
 La Mansión de la Sed Eterna se alza tras una niebla que no obedece al viento. Es una casa señorial de torres puntiagudas y vidrieras altas, hermosa de lejos y enferma de cerca: sus relojes adelantan, sus espejos envejecen el rostro que reflejan, y las rosas de sus jardines se marchitan en el tallo sin haber florecido. Aquí no se roba la sangre primero: se roban los **años**. Los huéspedes que cruzan la verja encanecen en una sola noche, y al amanecer son ancianos que apenas recuerdan haber sido jóvenes. Pero la Mansión es más que la guarida de un vampiro. Es **una puerta**. La bruma que la abraza no nació en Chronosia: se **filtra del Shadowfell**, y al otro lado de esa gasa gris aguarda un valle del que pocos vuelven, gobernado por un señor mucho más antiguo y mucho más paciente que Vorthak. Todo lo que el grupo haga aquí puede ser el umbral de una segunda y más oscura historia.
 
@@ -42,7 +42,7 @@ Un jardín formal en ruinas: parterres geométricos de tierra gris, rosales que 
 
 > *Leído al entrar:* "Una rosa se abre ante vuestros ojos, roja y perfecta — y en tres latidos se vuelve parda, se seca y cae hecha polvo, mientras un nuevo capullo empuja para repetir el ciclo. El aire huele a flores y a tumba a la vez. Sentado en un banco de piedra, un hombre os mira: tiene el rostro de un anciano de ochenta años y la ropa elegante de un joven de veinte, y llora sin lágrimas porque ya no le quedan."*
 
-**Lord Cassius Verlaine** (huésped drenado, dador de misión y reloj de tensión). Llegó hace tres días, joven y rico. Hoy es un anciano que se desmcorona. Es la **boca de la urgencia** de esta región:
+**Lord Cassius Verlaine** (huésped drenado, dador de misión y reloj de tensión). Llegó hace tres días, joven y rico. Hoy es un anciano que se desmorona. Es la **boca de la urgencia** de esta región:
 > "Tres días… solo tres días llevo aquí. Mírame. Vine a una cena. El mayordomo me sirvió vino y elogios, y entre plato y plato sentí que… que algo se me iba. Cada bocado del amo me cuesta una década. Quedan dos huéspedes vivos en esa casa, jóvenes aún. Cuando sirvan el último plato — el postre, lo llaman — la cena habrá terminado, y nosotros con ella. Por piedad: parad a Aurelius antes del postre."
 
 - **Qué hay:** entre los rosales, **Ghouls Cronófagos** que devoran años en lugar de carne acechan a quien se demora. Cassius señala el camino: la Fuente al centro, el Observatorio en lo alto, las Criptas al este — y advierte que el mayordomo "aparece siempre a tiempo, salga uno de donde salga".
@@ -152,7 +152,7 @@ El interior de la casa señorial: un comedor de mesa interminable puesta para un
 - **Madame Sevrin** (medio-elfa, vidente errante, neutral ambigua). Lee el futuro en relojes detenidos; dice el tema del espejo en clave de acertijo e insinúa que el grupo "ya está invitado" a Barovia.
 
 ## Cómo encaja en la campaña
-- **Puerta:** región de alto nivel (8-10), bloqueada hasta haber derrotado a 3+ lugartenientes. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
+- **Puerta:** región de **alto nivel (8-10)**. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
 - **Pieza de trama que se llevan:** el **espejo** — Vorthak drena vidas como Aethernus drena dioses. Es el anticipo *emocional* de las apuestas del clímax: vencerlo es comprender, en la carne, qué pasa si una sed crece sin freno.
 - **Vorthak es CRÍTICO:** su muerte (de verdad, sin red de secuaces) **frena el Reloj**.
 - **Presagio de Barovia:** la niebla es una puerta al **Shadowfell**. Sellarla cierra el capítulo; cruzarla abre la semilla de una campaña futura. Es la frontera donde Chronosia roza otro plano de horror.

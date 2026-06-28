@@ -2,7 +2,7 @@
 
 ![Mapa de Las Calderas Dimensionales](../assets/mapas/10_calderas-dimensionales.png)
 
-> **Región dimensional** · **Lugarteniente:** Ignis el Devorador Espacial · **Nivel:** 8-10 · **Puerta:** accesible desde el inicio, pero extremadamente peligrosa · **Recompensa:** la **escala** del poder robado y su filtración a otros planos; derrotar a Ignis abre el ala dimensional profunda (Dimensionalis, Veldrisza).
+> **Región dimensional** · **Lugarteniente:** Ignis el Devorador Espacial · **Nivel:** 8-10 · **Puerta:** región de **alto nivel (8-10)**, extremadamente peligrosa · **Recompensa:** la **escala** del poder robado y su filtración a otros planos; derrotar a Ignis abre el ala dimensional profunda (Dimensionalis, Veldrisza).
 
 Las Calderas Dimensionales son un anfiteatro de cráteres volcánicos donde la roca nunca se enfría — porque debajo no hay magma corriente. Hay **el Plano Elemental del Fuego respirando a través de bocas dimensionales**: tres grandes calderas que no son volcanes, sino *portales* en forma de óvalos de llama coronando las montañas, vomitando ríos de lava que son un poco fuego de este mundo y mucho fuego de otro. El aire ondula, las distancias mienten —lo que parece a un día de marcha está a la vuelta de la roca, o al revés—, y por las grietas mayores se filtra un olor a azufre que no es de aquí: es el **sustrato infernal compartido con Avernus**, el primero de los Nueve Infiernos. Entre los cráteres blanquean osamentas colosales de criaturas que cruzaron y no volvieron. En lo alto, enroscado sobre la caldera mayor como un rey sobre su forja, un dragón rojo del tamaño de una montaña no guarda un tesoro: guarda **la puerta**. Y cada cría, cada llama, cada demonio que cruza, es un pedazo más de fuego ajeno colonizando Chronosia.
 
@@ -114,6 +114,7 @@ La cima de la región: tres montañas coronadas por óvalos de llama —las boca
 - ***Aliento de Fuego Dimensional (rec. 5-6):*** cono 60 pies, CD 18 DES, 18d6 fuego (mitad con éxito).
 - ***Multiataque:*** *Presencia Aterradora* + *Mordisco* (+11, alcance 15 pies, 2d10+7 perf. + 2d6 fuego) + dos *Garras* (+11, alcance 10 pies, 2d6+7 cortante). *Cola* (+11, alcance 20 pies, 2d8+7 contundente). *Presencia Aterradora:* a 120 pies, CD 17 SAB o asustado 1 min.
 - ***Invocaciones (anuladas al cerrar bocas):*** *Portal de Crías (3/día):* 1d2 crías CR 4. *Portal de Elementales (2/día):* 1d4 elementales de fuego CR 5. *Portal de Refuerzos (1/día):* 1d3 dragones rojos jóvenes CR 10.
+  > **⚠️ Nota al DM — modera el Portal de Refuerzos.** Para un grupo de nivel 8-10, **1d3 dragones rojos jóvenes (CR 10 cada uno)** sobre Ignis (CR 13) es un TPK casi seguro: es un encuentro brutal, no un desafío. Rebájalo: invoca **1 solo dragón rojo joven** (o ninguno) **acompañado de esbirros menores** (crías CR 4, salamandras), o trátalo como amenaza ambiental telegrafiada que los PJ pueden anular cerrando la Grieta Primigenia *antes* del combate. La intención de diseño es que cerrar las bocas **elimine** esta invocación, no que se llegue a usar a plena potencia.
 - ***Acciones legendarias (3/ronda):*** *Detectar* (1), *Ataque de Cola* (1), *Portal de Ataque* (1, garra con ventaja por la espalda), *Portal de Crías* (2), *Ala* (2, a 15 pies CD 18 DES o 2d6+7 contundente y derribado, luego vuela media velocidad), *Portal de Elementales* (3).
 - ***DEBILIDAD — bocas planares cerradas:*** cada caldera cerrada anula una invocación (1→Crías, 2→Elementales, 3+Grieta→Refuerzos y pierde Absorción Espacial). *(Solución telegrafiada en zonas 2-4.)*
 
@@ -137,7 +138,7 @@ La cima de la región: tres montañas coronadas por óvalos de llama —las boca
 - **Capitana Oria del Alba** (Anacronista, guardia del Puesto del Amanecer). Da el contexto inicial y el primer aviso de la fuga multiplanar.
 
 ## Cómo encaja en la campaña
-- **Puerta:** accesible desde el inicio pero **extremadamente peligrosa** (nivel 8-10). El calor planar y los refuerzos de Ignis castigan a quien llega pronto o sin preparar. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
+- **Puerta:** región de **alto nivel (8-10)**, **extremadamente peligrosa**. El calor planar y los refuerzos de Ignis castigan a quien llega pronto o sin preparar. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
 - **Pieza de trama que se llevan:** la **escala** del poder robado y su **filtración a otros planos**. El desastre no es local: el ritual de la Torre amenaza la pared entre *todos* los planos.
 - **Ignis es CRÍTICO y líder dimensional:** su muerte **frena el Reloj** y **abre el ala dimensional profunda** (Dimensionalis, Veldrisza). Es el cerrojo del fondo del mapa.
 - **Lo que se pierden si la saltan:** no medirán la magnitud multiplanar de lo que está en juego, y dejarán media Chronosia (el ala dimensional) sellada e inaccesible.

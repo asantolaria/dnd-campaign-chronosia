@@ -13,3 +13,6 @@ Chronosia_Campana_Profesional/assets/portada.png
 
 # Python cache (mkdocs hooks)
 __pycache__/
+
+# MkDocs build output
+site/

@@ -2,7 +2,7 @@
 
 ![Mapa de El Abismo de los Posibles](../assets/mapas/05_abismo-de-los-posibles.png)
 
-> **Región temporal (de probabilidad)** · **Lugarteniente:** Varrak del Horizonte, el Oráculo *(aliable)* · **Nivel:** 7-8 · **Puerta:** se abre tras derrotar a **1 lugarteniente** cualquiera · **Recompensa:** el **Cristal Profético** (para Din Goldgear) y un **aliado que ve el futuro**.
+> **Región temporal (de probabilidad)** · **Lugarteniente:** Varrak del Horizonte, el Oráculo *(aliable)* · **Nivel:** 5-8 · **Puerta:** **abierta desde el inicio** (región de entrada, más dura) · **Recompensa:** el **Cristal Profético** (para Din Goldgear) y un **aliado que ve el futuro**.
 
 El Abismo de los Posibles no es tierra firme: es un archipiélago de islas flotantes suspendidas sobre una sima sin fondo, unidas por puentes de cuerda que crujen como dientes apretados. Cada isla es un fragmento de mundo que **eligió ser de un modo y aún recuerda los demás**. Aquí la probabilidad gotea como agua por una grieta: caminas, y sin querer pisas la versión de ti que tomó otra decisión; miras al cielo, y ves tres amaneceres distintos discutiendo cuál es el real. Las realidades alternativas se superponen como cristales mal cortados. Lo que pudo ser acecha junto a lo que es, y nadie sale del Abismo siendo exactamente quien entró.
 
@@ -178,7 +178,7 @@ El obelisco cronológico que gira en el centro del archipiélago, cubierto de ru
 ---
 
 ## Cómo encaja en la campaña
-- **Puerta:** se abre tras derrotar a **1 lugarteniente** cualquiera (nivel 7-8). No requiere objeto: es la región que premia haber empezado a actuar.
+- **Puerta:** **abierta desde el inicio** (nivel 5-8). Es una de las regiones de entrada, pero **más dura**: no requiere objeto ni kill previo, así que un grupo recién llegado puede pisarla pronto y encontrarse por encima de su nivel si no mide.
 - **Pieza de trama que se llevan:** el **futuro** — el ritual es de **ascensión divina**, los finales son mayoritariamente derrotas salvo una línea, y **Teach es un punto ciego** (la variable que puede romperlo todo). Es el mapa estratégico de la última mitad de la campaña.
 - **El aliado:** Varrak es el **beat 1 de su arco de 4** (ver [Motor de Campaña → El arco de Varrak](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md#-el-arco-de-varrak-sacrificio-motivado)). Entrega el **Cristal Profético** para Din Goldgear y puede revelar la **entrada secreta a Veldrisza** (Cap. 10). Si los PJ lo cuidan, en Fase 3 —con el **Reloj ≥6/8**— se sacrifica voluntariamente y **retrocede el Reloj 1 segmento**.
 - **Lo que se pierden si la saltan:** llegan al clímax sin entender el ritual ni a Teach, y sin el aliado que puede comprarles tiempo. El sandbox premia explorar; el Reloj castiga quererlo todo.
