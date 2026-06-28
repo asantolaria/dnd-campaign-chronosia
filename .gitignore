@@ -10,3 +10,6 @@ Chronosia_Campana_Profesional/assets/objetos_magicos/
 # README.md) SÍ se versionan; los documentos generados (prefijo "Chronosia_") no.
 Chronosia_Campana_Profesional/exports/Chronosia_*
 Chronosia_Campana_Profesional/assets/portada.png
+
+# Python cache (mkdocs hooks)
+__pycache__/

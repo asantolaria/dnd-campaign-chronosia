@@ -182,10 +182,10 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 - ❗❗❗ Sesión 15: Uno de los cuatro finales se desencadena
 
 **Los Cuatro Finales Posibles:**
-- **Final A:** Manshoon Ascendente (CR 23)
-- **Final B:** Blackbeard el Usurpador (CR 25) - Solo si Teach llega primero a la Torre (Talismán siempre existe)
+- **Final A:** Manshoon Ascendente (CR 13-14)
+- **Final B:** Blackbeard el Usurpador (CR 13-14) - Solo si Teach llega primero a la Torre (Talismán siempre existe)
 - **Final C:** La Carrera Divina (3 bandos)
-- **Final D:** Demasiado Tarde (CR 25+) - Si ritual se completa antes de que los PJ lleguen
+- **Final D:** Demasiado Tarde (imparable: fin de partida) - Si ritual se completa antes de que los PJ lleguen
 
 ---
 

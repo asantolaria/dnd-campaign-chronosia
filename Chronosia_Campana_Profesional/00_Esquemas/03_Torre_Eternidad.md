@@ -35,7 +35,7 @@ flowchart TD
     N4 --> TIMING{¿Ritual al 100%?}
     
     TIMING -->|No| COMBATE[Combate Final<br/>Manshoon + Teach + otros vivos<br/>Deben liberar dioses en 3 pasos]
-    TIMING -->|Sí| FINAL_D[FINAL D: Demasiado Tarde<br/>Manshoon invencible<br/>CR 25+]
+    TIMING -->|Sí| FINAL_D[FINAL D: Demasiado Tarde<br/>Manshoon imparable<br/>fin de partida]
     
     COMBATE --> PASO1[Paso 1: Interrumpir Ritual<br/>Atacar Cronosellado<br/>Ritual se detiene temporalmente]
     
@@ -122,7 +122,7 @@ flowchart TD
 ### **⚔️ El Combate Final:**
 
 **Participantes:**
-- **Manshoon (Aethernus Valcarys):** Ejecutando el ritual, CR 23-25 según progreso
+- **Manshoon (Aethernus Valcarys):** Ejecutando el ritual, CR 13-14 según la fase del combate
 - **Edward Teach:** Siempre presente (tiene el Talismán), puede ayudar o interferir
 - **Otros Lugartenientes Vivos:** 
   - Si están aliados con los PJ → Actúan como NPCs aliados
@@ -131,7 +131,7 @@ flowchart TD
 
 **Medidor del Ritual:**
 - Visible en todo momento durante el combate
-- Si llega a **100%**, Manshoon se convierte en dios (invencible, CR 25+)
+- Si llega a **100%**, Manshoon se convierte en dios (imparable: fin de partida)
 - Avanza cada 2-3 turnos durante el combate (narrativo, no mecánico estricto)
 
 ### **🎯 Mecánica de Liberación de los Dioses (Tres Pasos):**
@@ -174,7 +174,7 @@ flowchart TD
 - **Victoria:** Los PJ ganan el combate final
 
 **Si Falla la Liberación:**
-- **Ritual se Completa:** Manshoon se convierte en dios (CR 25+)
+- **Ritual se Completa:** Manshoon completa la ascensión (fin de partida)
 - **Derrota:** Los PJ no pueden ganar, el multiverso cae bajo el dominio de Manshoon
 - **Mal Final:** Solo pueden huir o sacrificarse heroicamente
 
@@ -184,7 +184,7 @@ flowchart TD
 - Manshoon YA ascendió completamente
 
 **Combate:**
-- **CR 25+** (Manshoon completamente divino)
+- **Imparable** (Manshoon completamente divino: derrota narrativa)
 - **Casi invencible:** Los PJ solo pueden huir o sacrificarse heroicamente
 - **Mal final:** El villano conquista el multiverso
 
