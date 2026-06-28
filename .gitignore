@@ -3,6 +3,7 @@ conversation-scene-tts/output/
 
 # Arte generado de Chronosia (imágenes grandes ~400 MB). Los PROMPTS para
 # regenerarlas (assets/Prompts_Arte_Chronosia.md) y el mapa SVG SÍ se versionan.
-# Si prefieres versionar las imágenes, usa Git LFS y borra estas dos líneas.
+# Si prefieres versionar las imágenes, usa Git LFS y borra estas líneas.
 Chronosia_Campana_Profesional/assets/mapas/
 Chronosia_Campana_Profesional/assets/bestiario/
+Chronosia_Campana_Profesional/assets/objetos_magicos/
