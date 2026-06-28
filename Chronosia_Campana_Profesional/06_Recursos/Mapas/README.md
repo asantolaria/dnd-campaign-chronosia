@@ -8,14 +8,22 @@
 ## 📋 **MAPAS PENDIENTES**
 
 ### **Mapas Principales:**
-- [ ] Mapa general de Chronosia
-- [ ] Mapa de Waterdeep (zona del Festival)
-- [ ] Mapa del Corazón de Chronosia
+- [ ] Mapa general de Chronosia (regenerar: el PNG actual trae nombres antiguos)
+- [ ] Mapa de Cronópolis (hub)
+- [ ] Mapa de la Torre de la Eternidad (clímax)
 
-### **Mapas de Regiones:**
-- [ ] Regiones Temporales (6 mapas)
-- [ ] Regiones Dimensionales (6 mapas)
-- [ ] Mapas de ciudades principales
+### **Mapas de Regiones (10 regiones canónicas):**
+- [ ] La Espiral Inversa (Serapis)
+- [ ] Glacialis (Ymir)
+- [ ] El Jardín de los Tiempos Gemelos (Medusa + Las Gemelas)
+- [ ] El Abismo de los Posibles (Varrak)
+- [ ] Las Ruinas del Tiempo Perdido (Tempus)
+- [ ] La Mansión de la Sed Eterna (Vorthak)
+- [ ] El Archipiélago de Barbanegra (Teach)
+- [ ] Las Calderas Dimensionales (Ignis)
+- [ ] Las Llanuras de la Compresión (Dimensionalis)
+- [ ] La Ciudad Subterránea de Veldrisza (Veldrisza)
+- [ ] Valle de la Aguja (Thyra, caída) — umbral de la Torre
 
 ### **Mapas de Aventuras:**
 - [ ] Torre del Reloj Astronómico

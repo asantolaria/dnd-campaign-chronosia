@@ -118,23 +118,23 @@ Manshoon le ofreció un trato: poder sobre el tiempo a cambio de servicio. Kaelt
 3. Reconocen a Kaelthas como un "Cronófago Infiltrado"
 4. Ofrecen llevar a los PJ a **Cronópolis** para explicarles la amenaza
 
-**Diálogo Clave (Líder Anacronista Zephyr):**
+**Diálogo Clave (Líder Anacronista Galen):**
 ```
-ZEPHYR:
+GALEN:
 "Habéis derrotado a Kaelthas el Relojero Roto. Antes era uno de nosotros... 
 un maestro relojero de Waterdeep. Pero se corrompió. Fue seducido por Aethernus 
 Valcarys y se convirtió en esto."
 
 [Señala el cadáver desintegrándose]
 
-ZEPHYR:
+GALEN:
 "Hay un lugar... un semiplano fracturado llamado Chronosia. Allí, un tirano 
 mantiene a dos dioses capturados y roba su poder. Kaelthas era uno de sus 
 sirvientes, encargado de eliminar a cualquiera que pudiera descubrir la verdad."
 
 [Mira a los PJ seriamente]
 
-ZEPHYR:
+GALEN:
 "Maestro Thaddeus estaba cerca de descubrir Chronosia. Por eso lo mataron. 
 Y ahora vosotros... vosotros también sabéis demasiado. Tenéis dos opciones: 
 venir con nosotros a Cronópolis y uniros a la resistencia, o esperar a que 
@@ -142,7 +142,7 @@ envíen más Cronófagos a eliminaros."
 
 [Extiende su mano]
 
-ZEPHYR:
+GALEN:
 "¿Qué elegís?"
 ```
 

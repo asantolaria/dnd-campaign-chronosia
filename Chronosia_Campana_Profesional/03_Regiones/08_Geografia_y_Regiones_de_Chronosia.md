@@ -80,13 +80,13 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 - **Distorsión Principal**: **NINGUNA** - Cronópolis está protegida por el Cronómetro de Realidades
 - **Protección Especial**: El **Cronómetro de Realidades** (creado con el único Cristal de Estabilización que obtuvieron los Anacronistas) mantiene un campo de estabilidad alrededor de Cronópolis. Los poderes de los Cronófagos **NO tienen efecto** dentro de esta región protegida, convirtiendo a Cronópolis en una pequeña "Galia" - un bastión de estabilidad en medio del caos de Chronosia.
 - **Conexión Histórica con el Mar**: Los Anacronistas eligieron establecerse cerca del mar como un recordatorio de su origen común con los Oceánicos. Aunque eligieron la superficie en lugar de las profundidades, la proximidad al océano mantiene viva la memoria de que ambos pueblos fueron una vez los Chronianos. Algunos Anacronistas más ancianos aún recuerdan las historias de sus "hermanos de las profundidades" en Abysara.
-- **El BBEG**: Aethernus Valcarys (Manshoon Clone #47) - **Ubicado en la Torre de la Eternidad** (más allá del Valle de Thyra, en las montañas del norte), **FUERA** de la protección del Cronómetro
+- **El BBEG**: Aethernus Valcarys (Manshoon Clone #47) - **Ubicado en la Torre de la Eternidad** (más allá del Valle de la Aguja, en las montañas del norte), **FUERA** de la protección del Cronómetro
 - **Población**: Ciudadanos refugiados que rara vez salen de los muros protectores
 - **Seguridad**: Único bastión completamente seguro en todo Chronosia gracias al Cronómetro de Realidades
 - **Facciones**: La Resistencia (Fortaleza de Acero), Anacronistas, Ingenieros/Gnomos
 - **Acceso**: 🔓 **Desbloqueada** desde el inicio
 - **⚠️ VULNERABILIDAD CRÍTICA**: Si el Cronómetro de Realidades fuera destruido o robado (como ocurrió cuando Teach lo robó), Cronópolis perdería su protección y quedaría expuesta a las distorsiones como el resto de Chronosia
-- **🏰 Torre de la Eternidad**: Ubicada en una dimensión de bolsillo, accesible a través de un portal en las montañas del norte, más allá del Valle de la Aguja Suspendida. **NO está protegida** por el Cronómetro.
+- **🏰 Torre de la Eternidad**: Ubicada en una dimensión de bolsillo, accesible a través de un portal en las montañas del norte, más allá del Valle de la Aguja. **NO está protegida** por el Cronómetro.
 
 #### **⚔️ Defensa y Seguridad de Cronópolis**
 
@@ -126,7 +126,7 @@ El avance de la ascensión de Aethernus se hace visible en Cronópolis mediante 
 
 **⏳ NOTA:** El Contador ya existe desde Fase 1-2 (lo construyen los Anacronistas + La Resistencia). Es la **fuente de presión central** de la campaña: un solo motor de tiempo, no un libro de cuentas de balance.
 
-### **🌋 VOLCANIS - Las Tierras Ardientes del Sur**
+### **🌋 LAS CALDERAS DIMENSIONALES - Las Tierras Ardientes del Sur**
 - **Clima**: Calor extremo con erupciones volcánicas constantes
 - **Características**: Volcanes activos, ríos de lava, cenizas eternas
 - **Distorsión Principal**: Portales dimensionales de fuego y manipulación espacial
@@ -153,18 +153,18 @@ El avance de la ascensión de Aethernus se hace visible en Cronópolis mediante 
 
 | **#** | **Lugarteniente**                     | **Raza**              | **Tipo**    | **Región**                         | **Nivel** | **Disp.** | **Desbloqueo**                                                                                                                               |
 | ----- | ------------------------------------- | --------------------- | ----------- | ---------------------------------- | --------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | Valle de la Aguja Suspendida       | —       | ⚰️     | **Inaccesible para los PJ** (barrera de estasis; solo Teach con el Talismán). La mata Teach como evento fijo de su cronología → el valle pasa a ser el umbral de la Torre |
-| 1     | **Serapis el Retroceso**              | Elfo Eterno           | Temporal    | La Espiral del Reloj de Arena      | 5-7       | 🔓        | Accesible desde el inicio                                                                                                                    |
+| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | Valle de la Aguja                  | ≤10     | ⚰️     | **Inaccesible para los PJ** (barrera de estasis; solo Teach con el Talismán). La mata Teach como evento fijo de su cronología → el valle pasa a ser el umbral de la Torre |
+| 1     | **Serapis el Retroceso**              | Elfo Eterno           | Temporal    | La Espiral Inversa                 | 5-7       | 🔓        | Accesible desde el inicio                                                                                                                    |
 | 2     | **Ymir el Eterno Invierno**           | Elemental de Hielo    | Dimensional | Glacialis                          | 5-7       | 🔓        | Accesible desde el inicio                                                                                                                    |
-| 3     | **Varrak el Oráculo**                 | Orco                  | Temporal    | El Oráculo de los Posibles         | 7-9       | 🔒        | Derrotar 1+ lugarteniente                                                                                                                    |
-| 4     | **Medusa la Eterna**                  | Medusa Ancestral      | Temporal    | El Jardín de los Tiempos Gemelos   | 8-9       | 🔒        | Derrotar 2+ lugartenientes                                                                                                                   |
-| 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 9-10      | 🔒        | Derrotar 2+ lugartenientes + Espejo de Realidad (Gemelas o quest)                                                                            |
-| 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-10      | 🔒        | **Derrotar a Ignis** (abre el ala dimensional profunda) O Espejo de Realidad Fragmentada (de Gemelas)                                        |
-| 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | El Valle de los Castillos Malditos | 8-10      | 🔒        | Derrotar 3+ lugartenientes                                                                                                                   |
-| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Independiente | Archipiélago de Barbanegra         | 7-9     | 🔒→🔓     | Bloqueado (mar en calma muerta) → Se abre al construir el **Motor de Viento Perpetuo** = Rotor Infinito (derrotar **Serapis + Ymir**)        |
-| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 8-10     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales                                                                           |
-| 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 9-10     | 🔒        | **Derrotar a Teach** (abre Veldrisza) O Artefacto Gnomo O Varrak                                                                            |
-| 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Volcanis                           | 8-10     | 🔒        | Acceso por el Motor de Viento / red de portales. **Derrotarlo abre el ala dimensional profunda** (Dimensionalis, Veldrisza)                |
+| 3     | **Varrak el Oráculo**                 | Orco                  | Temporal    | El Abismo de los Posibles          | 7-8       | 🔒        | Tras derrotar 1 lugarteniente (los portales se estabilizan al caer un canal)                                                                 |
+| 4     | **Medusa la Eterna**                  | Medusa Ancestral      | Temporal    | El Jardín de los Tiempos Gemelos   | 5-8       | 🔒        | Tras derrotar 1 lugarteniente                                                                                                                |
+| 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 8-10      | 🔒        | Tras derrotar 1 lugarteniente (región compartida con Medusa)                                                                                 |
+| 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-10      | 🔒        | **Derrotar a Ignis** (abre el ala dimensional profunda)                                                                                      |
+| 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | La Mansión de la Sed Eterna        | 8-10      | 🔒        | Alto nivel (ver Mapa de Puertas)                                                                                                             |
+| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Independiente | El Archipiélago de Barbanegra      | 7-9     | 🔒→🔓     | Bloqueado (mar en calma muerta) → Se abre al construir el **Motor de Viento Perpetuo** = Rotor Infinito (derrotar **Serapis + Ymir**). NO depende de Thyra |
+| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 8-10     | 🔒        | Requiere la **Arena del Tiempo** (de Serapis)                                                                                                |
+| 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 9-10     | 🔒        | **Derrotar a Teach** (abre Veldrisza) O entrada secreta de Varrak                                                                           |
+| 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Las Calderas Dimensionales         | 8-10     | 🔒        | Acceso por el Motor de Viento / red de portales. **Derrotarlo abre el ala dimensional profunda** (Dimensionalis, Veldrisza)                |
 
 **📖 Ver documentos de regiones específicas:**
 - [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Detalles de cada región temporal
@@ -180,7 +180,7 @@ El avance de la ascensión de Aethernus se hace visible en Cronópolis mediante 
 - **Lugartenientes Temporales**: 6 (Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra - viva al inicio)
 - **Lugartenientes Dimensionales**: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
 - **Lugartenientes Caídos**: 0
-- **Regiones de entrada**: La Espiral del Reloj de Arena (Serapis), Glacialis (Ymir), + Cronópolis (hub)
+- **Regiones de entrada**: La Espiral Inversa (Serapis), Glacialis (Ymir), + Cronópolis (hub)
 - **Resto**: 🔒 tras puertas in-world (ver Mapa de Puertas)
 
 **⚠️ ESTADO POST-ASESINATO DE THYRA (hito de Barbanegra):**
@@ -197,7 +197,7 @@ El avance de la ascensión de Aethernus se hace visible en Cronópolis mediante 
 
 ## ⚔️ **LA GUERRA ENTRE LUGARTENIENTES**
 
-**📖 Ver documento:** 05_La_Ascension_del_Conclave.md · Estructura y ritmo: [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
+**📖 Estructura, ritmo y finales:** [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md) (fuente única)
 
 ### **🎯 Concepto Central**
 
@@ -217,16 +217,16 @@ Tras el asesinato de Thyra por Edward Teach, estalla la rivalidad abierta entre 
 
 ### **🔓 Regiones Desbloqueadas Inicialmente (4 + 1 Centro):**
 
-#### **1. La Espiral del Reloj de Arena (Serapis el Retroceso)**
+#### **1. La Espiral Inversa (Serapis el Retroceso)**
 - **Tipo**: Temporal Principal
 - **Nivel**: 5-7
 - **Acceso**: Disponible desde el inicio
 - **Mecánica Especial**: Sistema del Contador de Arena (0-20 puntos), TPK controlado obligatorio, 3 reinicios máximo
 - **Bando**: Temporal - "Los Sedientos de Tiempo"
 
-#### **2. Valle de la Aguja Suspendida (Thyra la Suspendida)**
+#### **2. Valle de la Aguja (Thyra la Suspendida)**
 - **Tipo**: Temporal Principal
-- **Nivel**: 6-8
+- **Nivel**: ≤10
 - **Acceso**: ⚰️ **INACCESIBLE para los PJ** - El Valle de la Aguja queda **vedado para el grupo**: solo Teach, con el Talismán, puede penetrar la barrera de estasis. Tras su asesinato (evento fijo de Barbanegra), la estasis cae y el valle se vuelve **el camino a la Torre** (que solo se abre con el Reloj a 8)
 - **⚠️ CAMBIO DE ESTADO**: La estasis desaparece tras el asesinato por Edward Teach (hito de su cronología), dejando el valle devastado como umbral hacia la Torre
 - **🏰 FUNCIÓN ESPECIAL**: Punto de partida hacia la Torre de la Eternidad, ubicada más allá del valle en las montañas del norte
@@ -254,60 +254,57 @@ Tras el asesinato de Thyra por Edward Teach, estalla la rivalidad abierta entre 
 
 ### **🔒 Regiones Bloqueadas Inicialmente (7):**
 
-#### **El Oráculo de los Posibles (Varrak el Oráculo)**
+#### **El Abismo de los Posibles (Varrak el Oráculo)**
 - **Efecto de Bloqueo**: "Las visiones del futuro confunden a los viajeros, mostrando múltiples caminos que no existen"
-- **Desbloqueo**: Derrotar a **1+ lugarteniente**
-- **Nivel**: 7-9
+- **Desbloqueo**: Tras derrotar **1 lugarteniente** (los portales se estabilizan al caer un canal)
+- **Nivel**: 7-8
 - **Tipo**: Temporal Principal / Neutral
 - **Región**: Zona salvaje de estilo oriental (Tailandia/China) con montañas cubiertas de bambú, templos antiguos, cascadas, y pandas gigantes como guardianes naturales. La región está fragmentada temporalmente, con múltiples realidades coexistiendo.
 - **Recompensa**: Elección entre **Espejo de la Verdad** O **Fragmento de Realidad Alternativa** (el no elegido se destruye)
-- **⚠️ PERSONAJE ESPECIAL**: Puede convertirse en aliado, siervo o mártir según acciones de los PJ (Momento de Elección en Sesión 11)
+- **⚠️ PERSONAJE ESPECIAL**: Puede convertirse en aliado, siervo o mártir según acciones de los PJ (Momento de Elección en Fase 3)
 - **📖 Ver descripción completa**: [10_Regiones_Temporales.md](10_Regiones_Temporales.md#-el-abismo-de-los-posibles-varrak-del-horizonte)
 
 #### **El Jardín de los Tiempos Gemelos (Las Gemelas del Espejo + Medusa)**
 - **Efecto de Bloqueo**: "Los espejos y estatuas atrapan a los intrusos en bucles de reflejos y estasis"
-- **Desbloqueo**: Derrotar a **2+ lugartenientes**
-- **Nivel**: 8-10
+- **Desbloqueo**: Tras derrotar **1 lugarteniente** (los portales se estabilizan)
+- **Nivel**: 5-10 (Medusa 5-8, Las Gemelas 8-10)
 - **Tipo**: Dimensional + Temporal (región compartida)
 - **Lugartenientes**: Las Gemelas del Espejo (Lyra y Nyx) + Medusa la Eterna
 - **Recompensa Las Gemelas**: Objetos relacionados con espejos y clones
 - **Recompensa Medusa**: Objetos relacionados con estasis y petrificación
 
-#### **El Valle de los Castillos Malditos (Lord Vorthak)**
+#### **La Mansión de la Sed Eterna (Lord Vorthak)**
 - **Efecto de Bloqueo**: "Una niebla temporal drena la vida de cualquiera que entre, envejeciéndolo décadas en minutos"
-- **Desbloqueo**: Derrotar a **3+ lugartenientes**
-- **Nivel**: 9-11
+- **Desbloqueo**: Alto nivel (ver Mapa de Puertas)
+- **Nivel**: 8-10
 - **Tipo**: Temporal Principal / Líder del Bando Temporal
 - **Mecánica Especial**: Región expandida con 4-6 castillos menores (Ghouls, Vampiros Menores, Banshees, Wights, Death Knights), la Mansión de Vorthak como castillo final
 - **Recompensa**: Objetos relacionados con drenaje temporal y longevidad
 
 #### **Las Ruinas del Tiempo Perdido (Tempus el Fragmentado)**
 - **Efecto de Bloqueo**: "Bucles temporales perfectos hacen que te repitas eternamente, sin poder avanzar"
-- **Desbloqueo MÚLTIPLE**:
-  - **Opción A**: Obtener **Arena del Tiempo Estabilizada** (derrotar a Serapis)
-  - **Opción B**: Derrotar **3+ lugartenientes temporales** (Serapis, Varrak, Vorthak)
-- **Nivel**: 10-12
+- **Desbloqueo**: Requiere la **Arena del Tiempo** (de Serapis) para entrar en los bucles sin quedar atrapado
+- **Nivel**: 8-10
 - **Tipo**: Temporal
 - **Recompensa**: Objetos relacionados con bucles temporales y programación
 
 #### **La Ciudad Subterránea de Veldrisza (Matrona Veldrisza)**
 - **Efecto de Bloqueo**: "Redes de telaraña mágica atrapan a cualquiera que intente acercarse, enviándolo a dimensiones de pesadilla"
-- **Desbloqueo MÚLTIPLE**:
+- **Desbloqueo**:
   - **Opción A**: Derrotar a Edward Teach "Barbanegra"
-  - **Opción B**: Obtener **Artefacto Gnomo** de Cronópolis (¿Excavadora Dimensional?)
-  - **Opción C**: Aliarse con Varrak el Oráculo (visión que muestra entrada secreta)
-- **Nivel**: 10-12
+  - **Opción B**: Entrada secreta revelada por Varrak el Oráculo (si aliado)
+- **Nivel**: 9-10
 - **Tipo**: Dimensional Principal / Bando Dimensional
 - **Recompensa**: Elección entre **Hilo de Lolth** O **Red de Captura** (el no elegido se destruye)
 
 #### **Las Llanuras de la Compresión (Dimensionalis la Fracturada)**
 - **Efecto de Bloqueo**: "El espacio se fractura constantemente, creando laberintos dimensionales imposibles de navegar"
-- **Desbloqueo**: Derrotar a **Ignis el Devorador Espacial**
-- **Nivel**: 8-10
+- **Desbloqueo**: Derrotar a **Ignis el Devorador Espacial** (abre el ala dimensional profunda)
+- **Nivel**: 9-10
 - **Tipo**: Dimensional Principal / Independiente
 - **Recompensa**: Elección entre **Brújula Dimensional** O **Fragmento de Realidad** (el no elegido se destruye)
 
-#### **Volcanis – Las Calderas Dimensionales (Ignis el Devorador Espacial)**
+#### **Las Calderas Dimensionales (Ignis el Devorador Espacial)**
 - **Efecto de Bloqueo**: "El calor extremo y los portales dimensionales de fuego hacen casi imposible el acceso"
 - **Desbloqueo**: Acceso por el **Motor de Viento / red de portales**. **Derrotar a Ignis abre el ala dimensional profunda** (Dimensionalis, Veldrisza)
 - **Nivel**: 8-10
@@ -363,7 +360,6 @@ Tras el asesinato de Thyra por Edward Teach, estalla la rivalidad abierta entre 
 - **Obtención**: Derrotar a Serapis el Retroceso
 - **Desbloquea**: Ruinas del Tiempo Perdido (bucles temporales)
 - **Función**: Permite entrar en bucles sin quedar atrapado
-- **Alternativa**: Derrotar 3+ lugartenientes temporales
 
 ### **🔨 Excavadora Dimensional**
 - **Obtención**: Quest con Ingenieros/Gnomos de Cronópolis
@@ -383,13 +379,13 @@ Tras el asesinato de Thyra por Edward Teach, estalla la rivalidad abierta entre 
 ### **⏰ Efectos Temporales por Región:**
 - **Glacialis**: Tiempo congelado, bucles temporales de invierno eterno
 - **Cronópolis**: Tiempo controlado y estabilizado artificialmente
-- **Volcanis**: Tiempo acelerado por el calor extremo
+- **Las Calderas Dimensionales**: Tiempo acelerado por el calor extremo
 - **Regiones Distribuidas**: Tiempo variable según lugarteniente
 
 ### **🌌 Efectos Espaciales por Región:**
 - **Glacialis**: Espacio comprimido por el hielo, portales de hielo
 - **Cronópolis**: Espacio estabilizado y controlado
-- **Volcanis**: Espacio expandido por el calor, portales de fuego
+- **Las Calderas Dimensionales**: Espacio expandido por el calor, portales de fuego
 - **Regiones Distribuidas**: Espacio variable según lugarteniente
 
 ### **🗺️ Navegación entre Regiones:**
@@ -404,13 +400,13 @@ Tras el asesinato de Thyra por Edward Teach, estalla la rivalidad abierta entre 
 
 ### **⏰ Viaje Temporal:**
 - **Glacialis → Cronópolis**: El tiempo se acelera gradualmente
-- **Cronópolis → Volcanis**: El tiempo se acelera bruscamente
+- **Cronópolis → Las Calderas Dimensionales**: El tiempo se acelera bruscamente
 - **Cronópolis → Regiones Distribuidas**: El tiempo se vuelve caótico e impredecible
 
 ### **🌌 Viaje Espacial:**
 - **Glacialis**: Distancias comprimidas, viaje más rápido
 - **Cronópolis**: Distancias normales y estables
-- **Volcanis**: Distancias expandidas, viaje más lento
+- **Las Calderas Dimensionales**: Distancias expandidas, viaje más lento
 - **Regiones Distribuidas**: Distancias variables e impredecibles
 
 ### **⚠️ Peligros del Viaje:**
@@ -434,7 +430,7 @@ Cuando dos lugartenientes se enfrentan directamente (duelo, batalla abierta, con
 - **Refugiados:** Civiles huyendo de la guerra
 - **Oportunidades:** Los PJ pueden aprovechar el caos para infiltrarse o aliarse
 
-**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta **05_La_Ascension_del_Conclave.md** - Sección "Zonas de Guerra"
+**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta [22_Encuentros_Aleatorios_por_Region.md](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md) y el [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 
 ---
 
@@ -472,7 +468,7 @@ Los PJ eligen su propio orden respetando las puertas in-world (Mapa de Puertas).
 ## 🎭 **CONSEJOS PARA EL DM**
 
 ### **🗺️ Uso de la Geografía:**
-- **Variedad**: Cada región ofrece experiencias únicas (Reloj de Arena en Serapis, Mar en Calma en Barbanegra, Castillos Vampíricos en Vorthak)
+- **Variedad**: Cada región ofrece experiencias únicas (Reloj de Arena en La Espiral Inversa, Mar en Calma en el Archipiélago, Castillos Vampíricos en la Mansión de la Sed Eterna)
 - **Progresión**: Los PJ pueden explorar regiones en cualquier orden respetando las puertas in-world
 - **Adaptación**: Ajusta las dificultades según el nivel de los PJ
 - **Narrativa**: Usa la geografía para hacer sentir el avance del Reloj del Ritual y el crecimiento de Teach
@@ -480,18 +476,18 @@ Los PJ eligen su propio orden respetando las puertas in-world (Mapa de Puertas).
 ### **⚔️ Combates por Región:**
 - **Glacialis**: Combates lentos y tácticos (frío extremo)
 - **Cronópolis**: Combates controlados y estratégicos (sin distorsiones)
-- **Volcanis**: Combates rápidos y caóticos (calor extremo, portales de fuego)
-- **La Espiral del Reloj de Arena**: Combate con contador de tiempo (cada turno -1 punto)
-- **Archipiélago de Barbanegra**: Combate naval + combate con poderes híbridos (temporal + dimensional)
-- **Valle de los Castillos Malditos**: Múltiples combates contra muertos vivientes antes del jefe final
+- **Las Calderas Dimensionales**: Combates rápidos y caóticos (calor extremo, portales de fuego)
+- **La Espiral Inversa**: Combate con contador de tiempo (cada turno -1 punto)
+- **El Archipiélago de Barbanegra**: Combate naval + combate con poderes híbridos (temporal + dimensional)
+- **La Mansión de la Sed Eterna**: Múltiples combates contra muertos vivientes antes del jefe final
 
 ### **🎭 Rol por Región:**
 - **Glacialis**: Exploración y supervivencia en frío extremo
 - **Cronópolis**: Intriga política, comercio, obtención de artefactos de ingenieros
-- **Volcanis**: Aventura de alto riesgo y acción
-- **La Espiral del Reloj de Arena**: Gestión de recursos (tiempo como recurso), optimización de rutas
-- **El Oráculo de los Posibles**: Roleplay intenso con Varrak, decisiones morales que afectan su alineación
-- **Valle de los Castillos Malditos**: Horror gótico, exploración de castillos embrujados
+- **Las Calderas Dimensionales**: Aventura de alto riesgo y acción
+- **La Espiral Inversa**: Gestión de recursos (tiempo como recurso), optimización de rutas
+- **El Abismo de los Posibles**: Roleplay intenso con Varrak, decisiones morales que afectan su alineación
+- **La Mansión de la Sed Eterna**: Horror gótico, exploración de castillos embrujados
 
 ### **⏳ El Reloj del Ritual:**
 - **Trackea el Reloj** (8 segmentos, empieza en 2/8): avanza al explorar regiones a fondo y con los hitos de Teach
@@ -529,7 +525,7 @@ Los PJ eligen su propio orden respetando las puertas in-world (Mapa de Puertas).
 - **Tabla maestra consolidada con niveles rescalados a techo 10**
 - **Sistema de artefactos expandido con desbloqueos múltiples**
 - **Rotor Infinito**: Historia completa, componentes fragmentados, quest givers, portal a Faerún
-- Región del Reloj de Arena completamente desarrollada con sistema jugable
+- Región de La Espiral Inversa (Reloj de Arena) completamente desarrollada con sistema jugable
 
 ### **🎯 Objetivos de Diseño:**
 - **Variedad**: Cada región debe sentirse única con mecánicas distintivas
@@ -543,7 +539,7 @@ Los PJ eligen su propio orden respetando las puertas in-world (Mapa de Puertas).
 ---
 
 **📖 Documentos Relacionados:**
-- 05_La_Ascension_del_Conclave.md - Sistema completo de competencia entre lugartenientes
+- [10_Motor_de_Campana_Reloj_y_Puertas.md](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md) - Reloj del Ritual, Mapa de Puertas y finales (fuente única de estructura)
 - [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) - Vista general (ver archivos individuales para acciones legendarias y poderes completos)
 - [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Descripción detallada de regiones temporales
 - [11_Regiones_Dimensionales.md](./11_Regiones_Dimensionales.md) - Descripción detallada de regiones dimensionales

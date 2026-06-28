@@ -44,23 +44,22 @@
 Edward Teach es un estratega paciente que ha estado **investigando en secreto** desde que sospechó del plan de Manshoon. Durante su investigación, descubrió que existen dos artefactos que, si se combinan, podrían interceptar el flujo de poder divino.
 
 **⚠️ CRONOLOGÍA IMPORTANTE:**
-Edward Teach **NO tiene el Talismán al inicio de la campaña**. Lo creará **DESPUÉS DE QUE LOS PJ DERROTEN AL TERCER LUGARTENIENTE**, después de robar ambos componentes. Los PJ estarán directamente involucrados en estos eventos.
+Edward Teach **NO tiene el Talismán al inicio de la campaña**. Lo forja a lo largo de la Fase 1-2, robando ambos componentes conforme avanza la trama (y el **Reloj del Ritual**), no por conteo de combates de los PJ. Los hitos siguen un **orden narrativo fijo**, pero se disparan por **progresión del Reloj/tiempo**, no por "tras el Nº lugarteniente derrotado". Los PJ ven crecer la amenaza de lejos (el Archipiélago está cerrado hasta el Motor de Viento) y pueden involucrarse en las investigaciones.
 
 **Los Dos Artefactos:**
 - **El Cronómetro de Realidades** (Temporal) - Pertenece a los Anacronistas en Cronópolis
 - **La Perla del Vacío Primordial** (Dimensional) - Pertenece a los Oceánicos de las Profundidades en Abysara
 
 **🔗 Conexión Anacronistas-Abysara:**
-Los **Anacronistas** tienen **raíces en Abysara**. El **Cronómetro** es **tecnología original de Abysara** que llegó a la superficie a través de contactos secretos. Teach descubrió esta conexión en textos antiguos después de robar la Perla, lo que le permitió planear el robo del Cronómetro.
+Los **Anacronistas** y los **Oceánicos** eran **un mismo pueblo hace 800 años: los Chronianos** (ver el keystone, "El pueblo perdido"). El **Cronómetro** y la **Perla** son las dos mitades de su tecnología partida. Teach descubrió esta conexión en textos antiguos después de robar la Perla, lo que le permitió planear el robo del Cronómetro.
 
-**El Plan de Teach:**
-1. **Sesiones 1-3:** Investigar discretamente los artefactos
-2. **Después del 1er Lugarteniente:** Robar la Perla del Vacío Primordial (masacre en Abysara - 47 guerreros Oceánicos mueren)
-3. **Después del 2do Lugarteniente:** Robar el Cronómetro de Realidades (Teach encuentra relación Anacronistas-Abysara en textos antiguos)
-4. **Después del 3er Lugarteniente:** Combinar los artefactos en el Talismán Y **ASESINAR A THYRA** (robar su poder de estasis temporal usando el Talismán para penetrar su barrera de estasis)
-5. **Inmediatamente después:** Desencadenar La Ascensión del Cónclave (guerra entre lugartenientes)
+**El Plan de Teach (orden de la trama, anclado al Reloj):**
+1. **Apertura (Reloj bajo, ~2-3/8):** Investiga discretamente los artefactos.
+2. **Primer hito — Robo de la Perla:** masacre en Abysara (47 guerreros Oceánicos mueren). Ocurre conforme arranca el sandbox, en cuanto el Reloj empieza a moverse.
+3. **Segundo hito — Robo del Cronómetro:** Teach (o un secuaz/traidor) lo roba; descubre la relación Anacronista-Abysara en textos antiguos.
+4. **Tercer hito — Forja del Talismán + Asesinato de Thyra:** con ambos componentes, Teach forja el Talismán y lo usa para **penetrar la barrera de estasis de Thyra** y robar su poder. El asesinato de Thyra da un **SALTO del Reloj** (ver keystone). A partir de aquí, Teach **absorbe a los lugartenientes que los PJ no alcanzan primero** y crece (esto reemplaza al retirado "sistema de Supremos/Cónclave").
 
-Cuando se combinan, crean el **Talismán de Interceptación Divina**, capaz de desviar el flujo de poder divino del ritual de Manshoon hacia su portador.
+Cuando se combinan, crean el **Talismán de Interceptación Divina**, capaz de desviar el flujo de poder divino del ritual de Aethernus hacia su portador.
 
 ---
 
@@ -76,7 +75,7 @@ El Cronómetro de Realidades es un artefacto gnomo antiguo creado por los fundad
 
 **Estado al Inicio de la Campaña:** **SEGURO** - Los Anacronistas lo protegen celosamente. Los PJ pueden verlo durante su visita a Cronópolis.
 
-**Fecha del Robo:** **Después del 2do Lugarteniente Derrotado** - Teach encuentra la relación entre Anacronistas y Abysara en textos antiguos, lo que le permite planear el robo del Cronómetro.
+**Cuándo lo Roban:** **Segundo hito de Barbanegra** (ver Cronología del Robo), conforme avanza el Reloj — *después* del robo de la Perla y *antes* de la forja del Talismán. Teach encuentra la relación entre Anacronistas y Abysara en textos antiguos, lo que le permite planear el robo del Cronómetro.
 
 ---
 
@@ -114,7 +113,7 @@ El Cronómetro de Realidades es un artefacto gnomo antiguo creado por los fundad
 
 **⚠️ EVENTOS DURANTE LA CAMPAÑA (Progresivos):**
 
-**Sesión 2-3: Los PJ Conocen a los Anacronistas**
+**Apertura: Los PJ Conocen a los Anacronistas**
 
 Los PJ llegan a Cronópolis y son recibidos por los Anacronistas. Los líderes, impresionados por las acciones de los PJ contra los Cronófagos, les muestran su cuartel general, incluyendo la **Cámara del Tiempo**.
 
@@ -132,7 +131,7 @@ Los PJ ven el Cronómetro flotando en un pedestal de cristal, protegido por un *
 
 ---
 
-**Sesión 4: El Robo del Cronómetro**
+**El Robo del Cronómetro (Segundo hito de Barbanegra)**
 
 **⚠️ TRES OPCIONES PARA EL DM (Elige la que mejor se adapte a tu mesa):**
 
@@ -216,7 +215,7 @@ Los Oceánicos de las Profundidades, una raza acuática inteligente, adoraban la
 
 **Estado al Inicio de la Campaña:** **SEGURO** - Los Oceánicos de las Profundidades la guardan como su reliquia más sagrada. Desconocen que Edward Teach planea robarla.
 
-**Fecha del Robo:** **Después del 1er Lugarteniente Derrotado** - Teach roba la Perla causando una masacre en Abysara (47 guerreros Oceánicos mueren). Este evento será recordado como una de las mayores traiciones de la historia de los Oceánicos.
+**Cuándo la Roban:** **Primer hito de Barbanegra** (ver Cronología del Robo), en cuanto arranca el sandbox y el Reloj empieza a moverse. Teach roba la Perla causando una masacre en Abysara (47 guerreros Oceánicos mueren). Este evento será recordado como una de las mayores traiciones de la historia de los Oceánicos.
 
 ---
 
@@ -253,16 +252,16 @@ Los Oceánicos de las Profundidades, una raza acuática inteligente, adoraban la
 
 #### **🔐 Cómo Edward Teach Planea Obtenerla:**
 
-**⚠️ EVENTOS DURANTE LA CAMPAÑA (Después del 1er Lugarteniente):**
+**⚠️ EVENTOS DURANTE LA CAMPAÑA (Primer hito de Barbanegra):**
 
 **Contexto:**
 Edward Teach tiene una relación comercial con los Oceánicos de las Profundidades desde hace **20 años**. Les ha vendido mercancías de superficie (armas, herramientas, alimentos exóticos) a cambio de tesoros submarinos. Los Oceánicos lo consideran un **aliado confiable** (error fatal).
 
-**⚠️ TIMING:** Esto ocurre **DESPUÉS DE QUE LOS PJ DERROTEN AL PRIMER LUGARTENIENTE**. Teach aprovecha el caos y la distracción para ejecutar su plan. Este es el primer paso de su estrategia: obtener la Perla antes de buscar el Cronómetro.
+**⚠️ TIMING:** Es el **primer hito de Barbanegra**, disparado por la trama/Reloj en cuanto arranca el sandbox, no por un conteo de combates. Teach aprovecha el caos del mundo fracturado para ejecutar su plan: obtener la Perla antes de buscar el Cronómetro.
 
 ---
 
-**Después del 1er Lugarteniente: La Traición de Barbanegra - Masacre en Abysara**
+**La Traición de Barbanegra - Masacre en Abysara**
 
 **La Petición:**
 
@@ -502,57 +501,56 @@ Los Oceánicos creyeron que las profundidades oceánicas ofrecían la mejor prot
 
 **⚠️ INICIO DE LA CAMPAÑA - Los PJ llegan a Chronosia**
 
-**Sesión 1-3:**
+**Apertura (Reloj bajo):**
 - Los PJ investigan el asesinato en Waterdeep
 - Llegan a Chronosia
 - Conocen a los Anacronistas en Cronópolis
 - Ven el Cronómetro de Realidades
-- **Thyra la Suspendida está VIVA** (los PJ pueden encontrarse con ella)
+- **Thyra la Suspendida está VIVA** (inaccesible para los PJ; solo Teach con el Talismán podrá llegar a ella)
 
-**Después del 1er Lugarteniente: EL ROBO DE LA PERLA**
+**Primer hito: EL ROBO DE LA PERLA**
 - Teach visita Abysara (usando portales dimensionales)
 - Roba la Perla del Vacío Primordial
 - **MASACRE DE 47 GUERREROS OCEÁNICOS**
 - Los Oceánicos de las Profundidades declaran vendetta eterna
 - Los PJ pueden descubrir la traición
 
-**Después del 2do Lugarteniente: EL ROBO DEL CRONÓMETRO**
+**Segundo hito: EL ROBO DEL CRONÓMETRO**
 - Edward Teach (o su secuaz/traidor) roba el Cronómetro
 - Teach descubre relación Anacronistas-Abysara en textos antiguos
 - Los Anacronistas descubren el robo al amanecer
 - **Los PJ pueden ser SOSPECHOSOS o INVESTIGADORES**
 - Rastro lleva al Archipiélago de Barbanegra
 
-**Después del 3er Lugarteniente: LA COMBINACIÓN DEL TALISMÁN**
+**Tercer hito: LA FORJA DEL TALISMÁN**
 - Teach regresa a su isla secreta
 - Ejecuta el ritual de combinación (1 hora)
 - Crea el **Talismán de Interceptación Divina**
-- Los PJ pueden intentar interrumpir (si actuaron rápido)
+- Los PJ pueden intentar interrumpir (si descubrieron el plan y actuaron rápido)
 
-**Después del 3er Lugarteniente: EL ASESINATO DE THYRA**
-- **⚠️ EVENTO CATALIZADOR DE LA CAMPAÑA**
+**Tercer hito (continuación): EL ASESINATO DE THYRA**
+- **⚠️ EVENTO CATALIZADOR DE LA CAMPAÑA · da un SALTO del Reloj**
 - Edward Teach, ahora con el Talismán completo, se siente invencible
 - Usa el Talismán para **penetrar la barrera de estasis** de Thyra (único que puede hacerlo)
-- Confronta a **Thyra la Suspendida** en su región
+- Confronta a **Thyra la Suspendida** en su valle
 - **ASESINA A THYRA** y absorbe sus poderes de estasis temporal
-- Los otros lugartenientes se enteran del asesinato
-- **COMIENZA LA ASCENSIÓN DEL CÓNCLAVE** (guerra entre lugartenientes)
+- Estalla la guerra abierta entre los lugartenientes
 
-**Inmediatamente Después: LA REACCIÓN ESPONTÁNEA**
-- Los lugartenientes se enteran del asesinato de Thyra (rumores, espías, perturbaciones mágicas)
-- **Manshoon NO sabe nada** - está completamente recluido en la Torre de la Eternidad
-- Cada lugarteniente reacciona según su personalidad (ver `05_La_Ascension_del_Conclave.md` en `../../02_Guia_DM/05_La_Ascension_del_Conclave.md`)
-- Comienzan a formar alianzas y traiciones de forma ORGÁNICA (no por orden de Manshoon)
+**A partir de aquí: TEACH ESCALA**
+- Los lugartenientes se enteran del asesinato de Thyra (rumores, espías, perturbaciones mágicas detectadas por los Anacronistas)
+- **Aethernus NO sabe nada** - está completamente recluido en la Torre de la Eternidad, en fase final del ritual
+- Los lugartenientes forman alianzas y traiciones de forma ORGÁNICA
+- **Cada lugarteniente que los PJ no alcanzan primero, Teach lo absorbe con el Talismán y crece** (esto reemplaza al retirado "sistema de Supremos/Cónclave")
 
-**Sesión 6-12: FASE SANDBOX**
-- Guerra abierta entre lugartenientes (ellos CREEN que están "demostrando su valía" para Aethernus)
-- Los PJ enfrentan a los lugartenientes uno por uno
-- Edward Teach es ahora el lugarteniente MÁS PODEROSO (tiene Talismán + poderes de Thyra)
+**Fase Sandbox (Reloj subiendo):**
+- Guerra abierta entre lugartenientes
+- Los PJ enfrentan a los lugartenientes que eligen, respetando el Mapa de Puertas
+- Edward Teach es el lugarteniente MÁS PODEROSO (Talismán + poderes de Thyra) y sigue creciendo
 - Los Anacronistas y Oceánicos de las Profundidades son aliados potenciales de los PJ
 
-**Sesión 13+: CLÍMAX**
-- Teach planea usar el Talismán para robar el poder divino de Manshoon
-- Los PJ deben detener tanto a Manshoon como a Teach
+**Clímax (Reloj a 8 → Llamada de los Dioses):**
+- Teach planea usar el Talismán para robar el poder divino de Aethernus
+- Los PJ deben detener tanto a Aethernus como a Teach
 
 ---
 
@@ -562,29 +560,29 @@ Los Oceánicos creyeron que las profundidades oceánicas ofrecían la mejor prot
 
 **Tabla de Eventos Clave:**
 
-| **Momento** | **Evento** | **Descripción** |
+| **Momento (anclado al Reloj/trama)** | **Evento** | **Descripción** |
 |-----------|-----------|----------------|
-| **Sesión 2-3** | Los PJ conocen a los Anacronistas | Ven el Cronómetro de Realidades en la Cámara del Tiempo |
-| **Después del 1er Lugarteniente** | **ROBO DE LA PERLA** | Teach traiciona a los Oceánicos, masacre de 47 guerreros |
-| **Después del 2do Lugarteniente** | **ROBO DEL CRONÓMETRO** | Teach/secuaz roba el artefacto (descubre relación Anacronistas-Abysara), los PJ pueden ser sospechosos |
-| **Después del 3er Lugarteniente** | **COMBINACIÓN DEL TALISMÁN** | Teach crea el Talismán (los PJ pueden interrumpir) |
-| **Después del 3er Lugarteniente** | **⚡ ASESINATO DE THYRA** | Teach mata a Thyra usando el Talismán para penetrar su barrera (EVENTO CATALIZADOR) |
-| **Inmediatamente Después** | **REACCIÓN ESPONTÁNEA** | Los lugartenientes reaccionan al asesinato (guerra entre lugartenientes) |
-| **Fase Sandbox** | Fase Sandbox | Los PJ enfrentan a los lugartenientes, Teach es el más poderoso |
-| **Sesión 13+** | Clímax | Teach intenta robar el poder divino de Manshoon |
+| **Apertura** | Los PJ conocen a los Anacronistas | Ven el Cronómetro de Realidades en la Cámara del Tiempo |
+| **1er hito de Barbanegra** | **ROBO DE LA PERLA** | Teach traiciona a los Oceánicos, masacre de 47 guerreros |
+| **2º hito de Barbanegra** | **ROBO DEL CRONÓMETRO** | Teach/secuaz roba el artefacto (descubre relación Anacronistas-Abysara), los PJ pueden ser sospechosos |
+| **3er hito de Barbanegra** | **FORJA DEL TALISMÁN** | Teach crea el Talismán (los PJ pueden interrumpir) |
+| **3er hito (continuación)** | **⚡ ASESINATO DE THYRA** | Teach mata a Thyra usando el Talismán para penetrar su barrera (EVENTO CATALIZADOR · SALTO del Reloj) |
+| **A partir de aquí** | **GUERRA + TEACH ESCALA** | Estalla la guerra entre lugartenientes; Teach absorbe a los que los PJ no alcanzan primero |
+| **Fase Sandbox** | Fase Sandbox | Los PJ enfrentan a los lugartenientes que eligen; Teach es el más poderoso |
+| **Reloj a 8** | Clímax | Llamada de los Dioses; Teach intenta robar el poder divino de Aethernus |
 
 ---
 
 ### **⚡ EL ASESINATO DE THYRA - EVENTO CATALIZADOR**
 
-**⚠️ DESPUÉS DEL 3er LUGARTENIENTE: El Momento que lo Cambia Todo**
+**⚠️ TERCER HITO DE BARBANEGRA: El Momento que lo Cambia Todo (SALTO del Reloj)**
 
 #### **Contexto:**
 
 Edward Teach ahora posee:
-- La Perla del Vacío Primordial (robada después del 1er lugarteniente)
-- El Cronómetro de Realidades (robado después del 2do lugarteniente)
-- El Talismán de Interceptación Divina (creado después del 3er lugarteniente)
+- La Perla del Vacío Primordial (robada en el 1er hito)
+- El Cronómetro de Realidades (robado en el 2º hito)
+- El Talismán de Interceptación Divina (forjado en el 3er hito)
 
 Se siente **invencible** y decide probar su poder contra otro lugarteniente.
 
@@ -598,7 +596,7 @@ Se siente **invencible** y decide probar su poder contra otro lugarteniente.
 - **Poder:** Estasis temporal - puede congelar tiempo localmente
 - **Personalidad:** Fría, calculadora, despiadada
 - **Relación con Teach:** Neutral (no aliados ni enemigos)
-- **CR:** 16 (lugarteniente poderoso pero no el más fuerte)
+- **CR:** ≤10 (rescalado; lugarteniente poderoso pero dentro del techo de nivel 10 de la campaña)
 
 ---
 
@@ -644,7 +642,7 @@ Teach la mata con un golpe final. Su cuerpo se desintegra en cristales de tiempo
 
 #### **La Absorción:**
 
-Cuando Thyra muere, su poder de **estasis temporal** se libera. Normalmente, este poder regresaría a Manshoon. PERO el **Talismán de Interceptación Divina** lo intercepta.
+Cuando Thyra muere, su poder de **estasis temporal** se libera. Normalmente, este poder regresaría a Aethernus. PERO el **Talismán de Interceptación Divina** lo intercepta.
 
 El poder fluye hacia Edward Teach. Su cuerpo brilla con luz dorada y púrpura. Absorbe completamente los poderes de estasis temporal de Thyra.
 
@@ -660,18 +658,17 @@ El poder fluye hacia Edward Teach. Su cuerpo brilla con luz dorada y púrpura. A
 - Algunos buscan aliarse con Teach, otros planean destruirlo
 - Varrak (el Oráculo) ve múltiples futuros oscuros
 
-**2. La Reacción de Manshoon:**
-- Manshoon (en su torre, ejecutando el ritual) **NO SE ENTERA** del asesinato
+**2. La Reacción de Aethernus:**
+- Aethernus (en su torre, ejecutando el ritual) **NO SE ENTERA** del asesinato
 - Está completamente recluido, en fase final del ritual de ascensión divina
 - **NO proclama nada** - ni siquiera sabe que sus lugartenientes están luchando entre sí
 - Su sistema de distribución de poder está en "automático" - fluye al más fuerte sin su intervención
 
 **3. Los PJ Descubren:**
 Los PJ pueden enterarse del asesinato mediante:
-- **Visión psíquica** (si tienen hechiceros/clarividentes)
-- **Rumores en Cronópolis** (Anacronistas detectan perturbación temporal masiva)
-- **Mensaje de otro lugarteniente** (si tienen aliados)
-- **Encuentro directo** (si estaban cerca de la región de Thyra)
+- **El "hipo" del Contador del Ritual** que ellos no provocaron + una región (el Valle de Thyra) que sigue rota → pruebas de que Teach está cazando lugartenientes (ver keystone)
+- **Rumores en Cronópolis** (los Anacronistas detectan la perturbación: el tiempo se detuvo 10 s en toda Chronosia)
+- **Visión psíquica** o aviso de Varrak / de otro aliado
 
 ---
 
@@ -700,9 +697,9 @@ Los PJ pueden enterarse del asesinato mediante:
 
 ### **🔍 PISTAS PRINCIPALES PARA LOS PJ**
 
-**Las pistas ahora están organizadas por la nueva cronología:**
+**Las pistas siguen el orden de los hitos de Barbanegra (anclados al Reloj):**
 
-#### **Pista 1: "El Cronómetro de los Anacronistas" (Sesión 2-3)**
+#### **Pista 1: "El Cronómetro de los Anacronistas" (Apertura)**
 
 **Ubicación:** Cronópolis - Primera visita
 
@@ -716,7 +713,7 @@ Los PJ aprenden sobre el Cronómetro. Si revelan su ubicación a cualquiera, fac
 
 ---
 
-#### **Pista 2: "El Robo del Cronómetro" (Después del 2do Lugarteniente)**
+#### **Pista 2: "El Robo del Cronómetro" (2º hito de Barbanegra)**
 
 **Ubicación:** Cronópolis - Al amanecer
 
@@ -739,7 +736,7 @@ Los PJ son confrontados. Deben:
 
 ---
 
-#### **Pista 3: "La Traición en las Profundidades" (Después del 1er Lugarteniente)**
+#### **Pista 3: "La Traición en las Profundidades" (1er hito de Barbanegra)**
 
 **Ubicación:** Archipiélago de Barbanegra - Después del robo de la Perla
 
@@ -751,9 +748,9 @@ Ver sección "Cómo Edward Teach Planea Obtenerla" arriba. Los PJ descubren la m
 
 ---
 
-#### **Pista 4: "El Asesinato de Thyra" (Después del 3er Lugarteniente)**
+#### **Pista 4: "El Asesinato de Thyra" (3er hito de Barbanegra)**
 
-**Ubicación:** Región de Thyra o Cronópolis (perturbación detectada)
+**Ubicación:** Valle de Thyra o Cronópolis (perturbación detectada)
 
 **Cómo Descubrirla:** Perturbación temporal masiva detectada por los Anacronistas
 
@@ -765,15 +762,15 @@ Los PJ pueden viajar a la región de Thyra e investigar.
 
 ---
 
-#### **Pista 5: "La Ascensión del Cónclave Comienza" (Inmediatamente Después)**
+#### **Pista 5: "Estalla la Guerra entre Lugartenientes" (tras el 3er hito)**
 
 **Ubicación:** En cualquier lugar de Chronosia
 
-**Cómo Descubrirla:** Mensaje telepático de Manshoon a TODOS en Chronosia
+**Cómo Descubrirla:** Rumores, espías y perturbaciones mágicas — **NO** un mensaje de Aethernus (sigue recluido y sin enterarse)
 
 **Escena:**
 
-Ver documento `05_La_Ascension_del_Conclave.md` (en `../../02_Guia_DM/05_La_Ascension_del_Conclave.md`) para las escenas completas de "La Reacción Espontánea" (8 escenas individuales de lugartenientes reaccionando al asesinato de Thyra).
+Tras el asesinato de Thyra, los lugartenientes supervivientes forman alianzas y traiciones de forma orgánica (no por orden de Aethernus). Cada uno reacciona según su personalidad. A partir de aquí, **Teach absorbe con el Talismán a cada lugarteniente que los PJ no alcanzan primero, y crece**: su poder en la Torre será proporcional a cuántos llegó él antes. Detalle del motor (hitos, hipo del Contador, escalada de Teach): ver el keystone **[10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)**.
 
 ---
 
@@ -828,7 +825,7 @@ Los PJ pueden intentar prevenir la creación del Talismán, pero **Teach lo comp
 
 **Dificultad:** DIFÍCIL (requiere timing perfecto)
 
-**Cuándo Ocurre:** Edward Teach combina los artefactos **DESPUÉS DE QUE LOS PJ DERROTEN AL TERCER LUGARTENIENTE**, justo antes de ir a la Torre de la Eternidad (Sesión 13+).
+**Cuándo Ocurre:** Edward Teach combina los artefactos en el **3er hito de Barbanegra** (ya con la Perla y el Cronómetro), antes de cazar a Thyra. La interrupción solo es posible si los PJ ya tienen acceso al Archipiélago (Motor de Viento construido).
 
 **Ubicación del Ritual:** Isla secreta en el Archipiélago de Barbanegra (los Oceánicos de las Profundidades pueden guiar a los PJ)
 
@@ -941,10 +938,9 @@ El Talismán es casi indestructible, pero hay TRES FORMAS:
 
 | **Momento del Descubrimiento** | **Opciones Disponibles** |
 |-------------------------------|-------------------------|
-| **Sesión 8-9** | Pueden prevenir que Teach complete el ritual de combinación |
-| **Sesión 10-11** | Pueden robar uno de los componentes |
-| **Sesión 12** | Pueden interrumpir el ritual de combinación |
-| **Sesión 13+** | Demasiado tarde - Teach ya tiene el Talismán |
+| **Antes del 3er hito** (Perla/Cronómetro aún sueltos) | Pueden intentar robar/destruir uno de los componentes |
+| **Durante el 3er hito** (forja, con acceso al Archipiélago) | Pueden interrumpir el ritual de combinación |
+| **Tras el 3er hito** | Demasiado tarde - Teach ya tiene el Talismán y lo usa para escalar |
 
 ### **⚠️ EVENTO FIJO: El Talismán SIEMPRE se Crea**
 
@@ -978,7 +974,7 @@ El Talismán es casi indestructible, pero hay TRES FORMAS:
 
 ## 🎭 **ESCENA ÉPICA: "LA COMBINACIÓN"**
 
-**Si los PJ llegan durante el ritual (Sesión 13):**
+**Si los PJ llegan durante el ritual de forja (3er hito, con acceso al Archipiélago):**
 
 **Setup:**
 

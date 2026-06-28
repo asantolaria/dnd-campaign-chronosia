@@ -26,8 +26,7 @@ Serapis puede devolver eventos breves al pasado, como batallas que se repiten o 
 ### **👁️ Apariencia**
 Serapis viste capas con arena que fluye hacia arriba, desafiando la gravedad. Sus ojos reflejan escenas del pasado, mostrando ecos de eventos que ya ocurrieron. Su presencia misma parece desafiar el flujo natural del tiempo, con movimientos que a veces parecen retroceder.
 
-### **💀 Efecto al Morir**
-Cuando Serapis muere (ya sea por los PJ o por otro lugarteniente), **La Espiral Inversa se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente: el tiempo vuelve a fluir normalmente, las reversiones temporales cesan, y la región recupera su estado natural sin las anomalías temporales que Serapis había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 

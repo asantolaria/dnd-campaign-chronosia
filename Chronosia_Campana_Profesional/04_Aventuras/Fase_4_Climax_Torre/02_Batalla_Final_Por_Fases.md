@@ -25,9 +25,8 @@
 
 ### **Objetivos Principales:**
 - ✅ Interrumpir el ritual antes de que se complete
-- ✅ Liberar a los dioses (Amaunator y Voidar)
-- ✅ Restaurar el equilibrio cósmico
 - ✅ Derrotar a Aethernus antes de que se convierta en dios
+- ✅ **Liberar a los dioses (Amaunator y Voidar) — solo posible con la llave chroniana** (haber reunido Anacronistas + Oceánicos). Sin ella, los PJ pueden vencer a Aethernus pero los dioses no se salvan (final más sombrío)
 
 ### **Objetivos Secundarios:**
 - ⭐ Sobrevivir a las múltiples fases
@@ -73,55 +72,21 @@
 
 ### **FASE 2: LIBERACIÓN DE LOS DIOSES (1-2 horas)**
 
-**Objetivo:** Liberar a Amaunator y Voidar de sus cadenas
+**Objetivo:** Liberar a Amaunator y Voidar — **únicamente** con la **llave chroniana**.
 
-**Mecánicas de Liberación:**
+> **⚠️ ÚNICA VÍA:** Los dioses solo pueden liberarse si los PJ **reunieron a los dos pueblos chronianos** durante el sandbox: los **Anacronistas** (lado temporal) + los **Oceánicos de Abysara** (lado dimensional). Juntos recomponen el método perdido de los Chronianos para estabilizar y contener el conflicto Amaunator–Voidar. **No hay rutas alternativas:** ni persuadir a los dioses (CD 25), ni combinar artefactos sueltos (Llave de la Realidad, Cristal de Varrak, Talismán). Ver el keystone, "El pueblo perdido". Esto determina el final (D = no se reunieron).
 
-**Paso 1: Romper las Cadenas Divinas**
+**Mecánica de Liberación (con la llave chroniana):**
+- Representantes de ambas facciones (o los PJ portando los dos saberes reunidos) ejecutan juntos el método chroniano sobre las cadenas: el lado temporal contiene a Amaunator y el dimensional a Voidar a la vez.
+- Requiere: haber **aliado a ambas facciones** antes del clímax + una acción combinada en la cámara del ritual.
+- **Efecto:** las cadenas divinas se sueltan, los dioses cesan su lucha y pueden **ayudar plenamente** a los PJ contra Aethernus.
 
-**Opción A - Poder Opuesto:**
-- Usar poder **temporal** para romper cadenas **espaciales** (de Voidar)
-- Usar poder **espacial** para romper cadenas **temporales** (de Amaunator)
-- Requiere: Acción completa + hechizo de nivel 5+ o poder equivalente
-- CD: 18 (tirada de ataque o hechizo)
-
-**Opción B - Talismán de Teach:**
-- Edward Teach puede usar el Talismán para interceptar las cadenas
-- Requiere: Acción completa + voluntad de Teach (puede ayudar o traicionar)
-- Si los PJ tienen el Talismán, pueden usarlo ellos mismos
-- CD: 16 (más fácil con el Talismán)
-
-**Efecto de Romper Cadenas:**
-- Los dioses se liberan parcialmente
-- Pueden ayudar limitadamente
-- Aethernus se debilita más
-
-**Paso 2: Restaurar el Equilibrio**
-
-**Opción A - Convencimiento:**
-- Convencer a los dioses de que cesen la lucha
-- Requiere: Acción completa + tirada de Persuasión CD 25 (muy difícil)
-- Alternativa: Varrak (si está vivo) puede usar su poder profético
-
-**Opción B - Artefactos:**
-- Usar artefactos que restauren el equilibrio
-- Requiere: Acción completa + artefacto específico
-- Ejemplos: Llave de la Realidad, Cristal de Varrak, otros
-
-**Opción C - Combinación:**
-- **Llave de la Realidad** + **Talismán de Teach** + **Cristal de Varrak**
-- Usar los tres juntos = liberación automática
-- Requiere: Acción completa + tener los tres artefactos
-
-**Efecto de Restaurar Equilibrio:**
-- Los dioses se liberan completamente
-- Cesan su lucha eterna
-- Pueden ayudar completamente a los PJ
+**Si NO reunieron a ambas facciones:**
+- Las cadenas **no pueden romperse** en condiciones. Los PJ pueden seguir adelante e intentar derrotar a Aethernus, pero los dioses **no se salvan** (camino hacia un final más sombrío; ver Epílogo).
 
 **Transición a Fase 3:**
-- Los dioses están liberados
-- Ayudan a los PJ activamente
-- Aethernus lucha desesperadamente
+- Con la llave: los dioses están liberados y ayudan a los PJ activamente; Aethernus lucha desesperadamente.
+- Sin ella: los PJ afrontan la Fase 3 sin ayuda divina.
 
 ---
 
@@ -132,12 +97,12 @@
 **Estado:**
 - Ritual al 85-90% (retrocedió más)
 - Aethernus lucha desesperadamente
-- Los dioses ayudan a los PJ
+- Los dioses ayudan a los PJ **si fueron liberados con la llave chroniana** (si no, los PJ luchan sin ayuda divina)
 - Aethernus intenta completar el ritual rápidamente
 
 **Mecánicas:**
 
-**Ataques de los Dioses:**
+**Ataques de los Dioses (solo si fueron liberados):**
 - Amaunator: Ataques temporales (envejecimiento, bucles temporales)
 - Voidar: Ataques espaciales (compresión, fragmentación)
 - Ayudan significativamente a los PJ
@@ -185,15 +150,14 @@
 
 **Victoria:**
 - Si los PJ derrotan a Aethernus, el ritual se detiene completamente
-- Los dioses restauran el equilibrio cósmico
+- Si liberaron a los dioses con la llave chroniana, estos cierran las heridas de Chronosia; si no, el plano queda dañado pero estable
 - Chronosia comienza a estabilizarse
 - **Victoria:** Los PJ ganan el combate final
 
-**Derrota:**
-- Si el ritual llega al 100%, Aethernus se convierte en dios
-- Es casi invencible (CR 25+)
-- Los dioses mueren
-- **Derrota:** Los PJ no pueden ganar, mal final
+**Derrota (Final D — "Demasiado Tarde"):**
+- Si el ritual se consuma, Aethernus se convierte en dios
+- **No tiene CR ni statblock:** es una **derrota narrativa**, no un combate ganable. Ya divino, está fuera del alcance mecánico de los PJ
+- Los dioses mueren; los PJ solo pueden huir o sacrificarse heroicamente
 
 **Transición a Fase 5:**
 - Los PJ han ganado (o perdido)
@@ -203,29 +167,35 @@
 
 ### **FASE 5: EPÍLOGO (30 minutos - 1 hora)**
 
-**Si los PJ Ganan:**
+**Si los PJ Ganan CON la llave chroniana (mejor desenlace):**
 
 **Descripción:**
 ```
 Aethernus cae al suelo, derrotado. El ritual se detiene completamente. 
-Los dioses, ahora libres, restauran el equilibrio cósmico. Chronosia 
-comienza a estabilizarse.
+Los dioses, liberados gracias al saber chroniano reunido, contienen por 
+fin su propio conflicto. Chronosia comienza a estabilizarse.
 
-AMAUNATOR (liberado, poderoso):
-"Habéis salvado el multiverso. El equilibrio está restaurado. Chronosia 
-se estabilizará gradualmente. Y vosotros... sois héroes legendarios."
+AMAUNATOR (liberado):
+"Habéis salvado el multiverso. Y habéis hecho algo que creíamos perdido: 
+reunir a los Chronianos. Por eso podemos volver a contenernos. Chronosia 
+se estabilizará. Y vosotros... sois héroes legendarios."
 
-VOIDAR (liberado, poderoso):
-"El tiempo y el espacio están en equilibrio. El multiverso está a salvo. 
-Gracias, mortales. Gracias por vuestra valentía."
+VOIDAR (liberado):
+"El tiempo y el espacio vuelven a estar contenidos. Gracias, mortales. 
+Gracias por vuestra valentía."
 ```
 
 **Consecuencias:**
-- Los dioses son liberados
+- Los dioses son liberados y vuelven a contener su lucha
 - Chronosia se estabiliza gradualmente
 - Los portales dimensionales se cierran
 - Los lugartenientes vivos pierden su poder divino
 - Los PJ son héroes legendarios
+
+**Si los PJ Ganan SIN la llave chroniana (desenlace agridulce):**
+- Aethernus cae, pero **sin el método chroniano los dioses no se salvan**: mueren o quedan moribundos al romperse el ritual
+- Chronosia sobrevive, pero dañada y sin sus dioses; el desenlace es más sombrío
+- Los PJ son héroes, pero cargan con lo que no llegaron a hacer (no reunir a los dos pueblos)
 
 **Epílogo Detallado:**
 - Regreso a Waterdeep
@@ -262,9 +232,9 @@ mientras podáis. Porque el mundo que conocíais... ya no existe."
 - **Urgencia:** El ritual avanza, crea tensión
 
 ### **La Liberación de los Dioses:**
-- **Mecánicas Claras:** Explica cómo liberar a los dioses
-- **Ayuda Divina:** Una vez liberados, los dioses ayudan significativamente
-- **Emocional:** Es un momento importante
+- **Una sola vía:** solo es posible con la **llave chroniana** (Anacronistas + Oceánicos reunidos). Es la recompensa de la diplomacia de facciones del sandbox; no la improvises con tiradas ni artefactos en la Torre
+- **Ayuda Divina:** una vez liberados, los dioses ayudan significativamente; si no se reunieron las facciones, los PJ luchan sin ellos
+- **Emocional:** es el pago del trasfondo del "pueblo perdido"
 
 ### **El Combate Final:**
 - **Múltiples Fases:** No es un solo combate, son múltiples fases

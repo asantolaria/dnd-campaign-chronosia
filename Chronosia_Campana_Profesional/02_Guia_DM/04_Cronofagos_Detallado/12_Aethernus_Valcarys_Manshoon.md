@@ -2,7 +2,7 @@
 
 ![Aethernus Valcarys](../../assets/bestiario/lugartenientes/12_aethernus-valcarys.jpg)
 
-## *Líder Supremo del Cónclave - El Verdadero Plan*
+## *BBEG — El Verdadero Plan*
 
 ---
 
@@ -10,11 +10,11 @@
 
 - **Raza:** Humano (Clone de Manshoon #47)
 - **Tipo:** Temporal + Dimensional (Poder de Amaunator y Voidar)
-- **Rol:** Líder Supremo
+- **Rol:** BBEG (jefe final)
 - **Región:** Torre de la Eternidad
 - **Nivel Recomendado:** 10 (Clímax / Jefe Final)
-- **Bando:** Líder Supremo (por encima de todos los bandos)
-- **Estado de Acceso:** 🔒 Bloqueada (accesible solo en Sesión 13-15)
+- **Bando:** BBEG (por encima de todos los bandos; los demás son sus lugartenientes)
+- **Estado de Acceso:** 🔒 Bloqueada hasta el **Reloj a 8 → Llamada de los Dioses** (se abre la Torre, Fase 4)
 
 ---
 
@@ -40,7 +40,7 @@ Manshoon ha descubierto la **fórmula para extraer el poder de Amaunator y Voida
 - Está investigando activamente cómo interceptar el poder divino para sí mismo
 - Es el único lugarteniente que representa una amenaza real al plan de Manshoon
 
-**La Ascensión del Cónclave - La Verdad:**
+**La guerra entre lugartenientes - La Verdad:**
 La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgánicamente después de que Edward Teach asesinara a Thyra, y Manshoon (distraído por su ritual) simplemente lo aprovechó para mantenerlos ocupados mientras él completa su ascensión.
 
 ### **👁️ Apariencia Física:**

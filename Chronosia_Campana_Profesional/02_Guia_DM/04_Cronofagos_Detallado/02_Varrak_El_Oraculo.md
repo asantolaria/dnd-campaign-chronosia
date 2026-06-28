@@ -14,7 +14,7 @@
 - **Rol:** Principal/Neutral
 - **Región:** El Abismo de los Posibles
 - **Nivel Recomendado:** 7-8
-- **Bando:** Neutral (hasta Sesión 11, luego puede cambiar)
+- **Bando:** Neutral (decide en Fase 3, según cómo lo trataron los PJ)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 1+ lugarteniente)
 
 ---
@@ -30,8 +30,7 @@ Varrak es un orco muy anciano, con la sabiduría de mil vidas grabada en cada ar
 ### **🌏 La Región: Zona Salvaje Oriental**
 Varrak habita en una región salvaje de estilo oriental, que evoca los paisajes de Tailandia y China. Montañas cubiertas de bambú, templos antiguos medio derruidos, cascadas que caen entre rocas musgosas, y senderos serpenteantes que se pierden en la niebla matutina. Los animales de la región son normales, salvo los osos: aquí habitan osos gigantes pero pandas, criaturas majestuosas de pelaje blanco y negro que se mueven con gracia entre los bosques de bambú. Estos pandas gigantes son guardianes naturales de la región, y Varrak ha aprendido a coexistir con ellos en armonía.
 
-### **💀 Efecto al Morir**
-Cuando Varrak muere (ya sea por los PJ o por otro lugarteniente), **El Abismo de los Posibles se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente: las fragmentaciones de realidad se estabilizan, las visiones de futuros múltiples cesan, y la región recupera su estado natural sin las anomalías temporales que Varrak había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 
@@ -40,7 +39,7 @@ Cuando Varrak muere (ya sea por los PJ o por otro lugarteniente), **El Abismo de
 ### **VARRAK DEL HORIZONTE**
 *Humanoide Mediano (Orco), Neutral*
 
-> **Nota del DM:** Varrak es ante todo un **aliado/neutral** (ver "Potencial como Aliado" y "Sacrificio por Equilibrio"). Lo más probable es que detenga el combate a las pocas rondas y se alíe con los PJ, llegando incluso a sacrificarse por el balance. Este statblock existe **solo por si se le combate de verdad**; en la mayoría de las partidas no se usará hasta el final, si es que se usa.
+> **Nota del DM:** Varrak es ante todo un **aliado/neutral** (ver "Potencial como Aliado" y "Sacrificio por el Reloj"). Lo más probable es que detenga el combate a las pocas rondas y se alíe con los PJ, llegando incluso a sacrificarse por el Reloj. Este statblock existe **solo por si se le combate de verdad**; en la mayoría de las partidas no se usará hasta el final, si es que se usa.
 
 ---
 
@@ -196,7 +195,7 @@ VARRAK:
 Y una oportunidad. El futuro depende de que este mensaje llegue a tiempo."
 ```
 
-**Revelación en Sesión 11:** Varrak puede mostrar a los PJ una entrada secreta a la Ciudad Subterránea de Veldrisza si se convierte en aliado.
+**Revelación (sandbox, una vez aliado):** Varrak puede mostrar a los PJ una entrada secreta a la Ciudad Subterránea de Veldrisza si se convierte en aliado.
 
 ### **👥 El Subordinado: El Monje Manco**
 
@@ -253,8 +252,8 @@ La valentía que habéis mostrado... es la clase de valentía que puede cambiar 
 [Varrak se arrodilla, preparándose para el ritual]
 
 "He visto millones de futuros, y en todos donde el Reloj llega a este punto... 
-Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde equilibro 
-los poderes con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
+Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde estabilizo 
+el flujo del Reloj con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
 real de detener a Aethernus."
 
 [Varrak saca su daga ceremonial]
@@ -286,8 +285,8 @@ Si Varrak es aliado de los PJ, este será un momento emocionalmente devastador p
 ```
 VARRAK:
 "He visto millones de futuros, y en todos donde el Reloj llega a este punto... 
-Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde equilibro 
-los poderes con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
+Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde estabilizo 
+el flujo del Reloj con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
 real de detener a Aethernus."
 
 [Si los PJ intentan detenerlo]
@@ -310,7 +309,7 @@ todos moriremos. Al menos así... al menos así vosotros tenéis una oportunidad
 - **Timing:** Cuando el Reloj del Ritual entra en zona crítica (≥6/8), normalmente en Fase 3
 - **Prevención:** Si los PJ frenan el Reloj a tiempo (matando críticos, sabotaje), el sacrificio puede no ser necesario
 - **Relación:** El peso emocional depende de los beats 1-3 de su arco; sin vínculo previo, no aterriza
-- **Impacto narrativo:** Este es un momento clave que muestra el costo real de la guerra y la importancia del balance
+- **Impacto narrativo:** Este es un momento clave que muestra el costo real de la guerra y lo que está en juego con el Reloj
 
 ---
 
@@ -330,9 +329,9 @@ Varrak es **neutral** y puede aliarse con los PJ si:
 
 ### **🎁 Recompensa Única:**
 - **Cristal Profético:** Entrega un cristal raro para Din Goldgear (advertencia y oportunidad)
-- **Revelación en Sesión 11:** Puede mostrar entrada secreta a la Ciudad Subterránea de Veldrisza si es aliado
+- **Revelación (sandbox, una vez aliado):** Puede mostrar entrada secreta a la Ciudad Subterránea de Veldrisza si es aliado
 
-### **⚔️ Decisión Crítica (Sesión 11):**
+### **⚔️ Decisión Crítica (Fase 3, Reloj en zona crítica):**
 Varrak debe elegir bando. Los PJ determinan el resultado:
 - **Aliado Reticente:** Si le dan esperanza → Se une a los PJ
 - **Servidor Fiel:** Si lo traicionan/desilusionan → Se une a Vorthak

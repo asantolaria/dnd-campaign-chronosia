@@ -32,8 +32,7 @@ Cerca de la región de Ignis (Las Calderas Dimensionales) es donde **más crista
 ### **👁️ Apariencia**
 Un dragón rojo colosal con escamas que brillan como lava fundida. Sus ojos son pozos de fuego que muestran reflejos de múltiples dimensiones. Su presencia misma distorsiona el espacio a su alrededor, y los portales de fuego aparecen y desaparecen constantemente cerca de él.
 
-### **💀 Efecto al Morir**
-Cuando Ignis muere (ya sea por los PJ o por otro lugarteniente), **Las Calderas Dimensionales se restaura a la normalidad**. Todas las distorsiones dimensionales causadas por su poder desaparecen gradualmente: los portales al Plano Elemental del Fuego se cierran, las distorsiones espaciales se estabilizan, y la región recupera su estado natural sin las anomalías dimensionales que Ignis había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 

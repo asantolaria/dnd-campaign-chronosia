@@ -82,8 +82,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 
 | **Sesión** | **Fecha** | **Lugarteniente** | **¿Crítico?** | **Causa** | **Efecto en el Reloj** | **Notas** |
 |------------|-----------|-------------------|---------------|-----------|------------------------|-----------|
-| 0 | | Kaelthas | No | Derrotado por PJ (Fase 0) | — | |
-| 1 (Fase 1) | | Thyra | No | Asesinada por Teach | ⬆️ Salto | Poder robado por Teach |
+| Fase 1 | | Thyra | No | Asesinada por Teach (hito fijo) | ⬆️ Salto | Poder robado por Teach |
 | | | Varrak (sacrificio) | No | Voluntario, reloj ≥6/8 | ⬇️ −1 | 🔮 Revive a Marcus |
 | | | | | | | |
 | | | | | | | |
@@ -94,26 +93,25 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 
 ### **🗺️ Tabla de Desbloqueo de Regiones**
 
-| **Región** | **Lugarteniente** | **Tipo** | **Nivel** | **Sesión Desbloqueada** | **Fecha** | **Estado** | **Explorada** |
+| **Región** | **Lugarteniente** | **Tipo** | **Nivel** | **Puerta (qué la abre)** | **Fecha** | **Estado** | **Explorada** |
 |-----------|------------------|----------|-----------|-------------------------|-----------|------------|---------------|
-| **Waterdeep** | Kaelthas (Caído) | Material Plane | 3 | Sesión 1 | | ✅ Desbloqueada | ✅ |
-| **Cronópolis** | — | Centro Seguro | — | Sesión 2 | | ✅ Desbloqueada | ✅ |
-| **Glacialis** | Ymir | Dimensional | 5-7 | Sesión 3 | | ✅ Desbloqueada | |
-| **La Espiral del Reloj de Arena** | Serapis | Temporal | 5-7 | Sesión 3 | | ✅ Desbloqueada | |
-| **Valle de la Aguja Suspendida** | Thyra (Caído) | Temporal Caído | 6-8 | Sesión 3 | | ⚰️ Bloqueada (Thyra muerta) | |
-| **Archipiélago de Barbanegra** | Edward Teach | Dimensional | 7-9 | Después del asesinato de Thyra + Motor de Viento Perpetuo | | 🔒 Bloqueada (mar en calma) → 🔓 Desbloqueada (Motor construido) | |
-| **El Abismo de los Posibles** | Varrak | Temporal | 7-9 | Sesión 6 | | ✅ Desbloqueada | |
-| **Volcanis** | Ignis | Dimensional | 8-10 | Sesión 6 | | ✅ Desbloqueada | |
-| **La Mansión de la Sed Eterna** | Vorthak | Temporal | 8-10 | Sesión 6 | | ✅ Desbloqueada | |
-| **Las Llanuras de la Compresión** | Dimensionalis | Dimensional | 8-10 | Sesión 8 | | ✅ Desbloqueada | |
-| **El Jardín de los Tiempos Gemelos** | Las Gemelas | Dimensional | 8-10 | Sesión 8 | | ✅ Desbloqueada | |
-| **El Desierto Espejado** | Tempus | Temporal | 7-9 | Sesión 9 | | ✅ Desbloqueada | |
-| **Tela de Sombras** | Veldrisza | Dimensional | 9-10 | Sesión 10 | | ✅ Desbloqueada | |
-| **El Jardín Pétreo** | Medusa | Temporal | 5-8 | Sesión 11 | | ✅ Desbloqueada | |
+| **Cronópolis** (hub) | — | Centro Seguro | — | Siempre abierta | | ✅ Desbloqueada | |
+| **La Espiral Inversa** | Serapis | Temporal | 5-7 | Entrada abierta · da el Núcleo del Rotor | | 🔓 Desbloqueada | |
+| **Glacialis** | Ymir | Dimensional | 5-7 | Entrada abierta · da la Carcasa del Rotor | | 🔓 Desbloqueada | |
+| **El Abismo de los Posibles** | Varrak | Temporal | 7-8 | Tras derrotar 1 lugarteniente | | 🔒 | |
+| **El Jardín de los Tiempos Gemelos** | Medusa + Las Gemelas | T/D | 5-10 | Tras derrotar 1 lugarteniente | | 🔒 | |
+| **El Archipiélago de Barbanegra** | Edward Teach | Independiente | 7-9 | Motor de Viento (Rotor = Serapis+Ymir); NO depende de Thyra | | 🔒 → 🔓 (Motor construido) | |
+| **Las Ruinas del Tiempo Perdido** | Tempus | Temporal | 8-10 | Requiere la Arena del Tiempo (de Serapis) | | 🔒 | |
+| **La Mansión de la Sed Eterna** | Vorthak | Temporal | 8-10 | Alto nivel (ver Mapa de Puertas) | | 🔒 | |
+| **Las Calderas Dimensionales** | Ignis | Dimensional | 8-10 | Motor de Viento / red de portales | | 🔒 | |
+| **Las Llanuras de la Compresión** | Dimensionalis | Dimensional | 9-10 | Derrotar a Ignis | | 🔒 | |
+| **La Ciudad Subterránea de Veldrisza** | Veldrisza | Dimensional | 9-10 | Derrotar a Teach / entrada secreta de Varrak | | 🔒 | |
+| **Valle de la Aguja** | Thyra (caída) | Temporal | ≤10 | Inaccesible para los PJ (solo Teach); umbral de la Torre tras su muerte | | ⚰️ | |
 | **Torre de la Eternidad** | Aethernus (Manshoon) | Clímax | 10 | Reloj a 8/8 (Llamada de los Dioses) | | 🔒 Hasta Reloj 8/8 | |
 
 ### **📝 Notas de Tracking:**
-- **Total de Regiones:** 14 (12 con lugartenientes + 1 Material Plane + 1 centro seguro)
+- **Total de Regiones:** 11 con lugarteniente + Cronópolis (hub) + Torre de la Eternidad (clímax)
+- **Puerta:** razón in-world que abre la región (ver [Mapa de Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md#-mapa-de-puertas-gating-de-regiones)). El gating NO es "tras derrotar N lugartenientes" salvo donde la puerta lo indique
 - **Regiones Desbloqueadas:** Marca con ✅ cuando se desbloquea
 - **Regiones Exploradas:** Marca con ✅ cuando los PJ la visitan
 - **Regiones Bloqueadas:** Marca con ⚰️ si el lugarteniente muere y la región se bloquea
@@ -156,18 +154,17 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 
 | **Lugarteniente** | **Tipo**              | **Estado** | **Sesión de Cambio** | **Ubicación**             | **Notas**                     |
 | ----------------- | --------------------- | ---------- | -------------------- | ------------------------- | ----------------------------- |
-| **Kaelthas**      | Dimensional           | ⚰️ Muerto  | Sesión 1             | Waterdeep                 | Asesinado por PJ              |
-| **Thyra**         | Temporal Caído        | ⚰️ Muerto  | Sesión 5-6           | Valle de la Aguja         | Asesinado por Teach           |
-| **Serapis**       | Temporal    | ✅ Activo   | —                    | Espiral del Reloj         | Subordinado de Vorthak        |
-| **Varrak**        | Temporal    | ✅ Activo   | —                    | Abismo de los Posibles    | Neutral hasta Sesión 11, 🔮 puede sacrificarse si es aliado y el reloj ≥6/8 |
-| **Vorthak**       | Temporal    | ✅ Activo   | —                    | Mansión de la Sed         | Líder Bando Temporal          |
-| **Edward Teach**  | Dimensional | ✅ Activo   | —                    | Archipiélago              | Independiente, tiene Talismán |
-| **Dimensionalis** | Dimensional | ✅ Activo   | —                    | Llanuras de Compresión    | Independiente                 |
-| **Ignis**         | Dimensional | ✅ Activo   | —                    | Volcanis                  | Líder Bando Dimensional       |
-| **Veldrisza**     | Dimensional | ✅ Activo   | —                    | Tela de Sombras           | Aliada de Ignis               |
-| **Las Gemelas**   | Dimensional | ✅ Activo   | —                    | Jardín de Tiempos Gemelos | Neutral hasta Sesión 11       |
-| **Medusa**        | Temporal              | ✅ Activo   | —                    | Jardín Pétreo             |                               |
-| **Tempus**        | Temporal              | ✅ Activo   | —                    | Desierto Espejado         |                               |
+| **Thyra**         | Temporal (caída)      | ⚰️ Muerta  | Fase 1               | Valle de la Aguja         | Asesinada por Teach (hito fijo) |
+| **Serapis**       | Temporal    | ✅ Activo   | —                    | La Espiral Inversa        | Bando Temporal                |
+| **Varrak**        | Temporal    | ✅ Activo   | —                    | El Abismo de los Posibles | Neutral; elige en Fase 3, 🔮 puede sacrificarse si es aliado y el reloj ≥6/8 |
+| **Vorthak**       | Temporal    | ✅ Activo   | —                    | La Mansión de la Sed Eterna | Líder Bando Temporal (crítico) |
+| **Edward Teach**  | Independiente | ✅ Activo   | —                    | El Archipiélago de Barbanegra | Crítico, tiene Talismán |
+| **Dimensionalis** | Dimensional | ✅ Activo   | —                    | Las Llanuras de la Compresión | Independiente             |
+| **Ignis**         | Dimensional | ✅ Activo   | —                    | Las Calderas Dimensionales | Líder Bando Dimensional (crítico) |
+| **Veldrisza**     | Dimensional | ✅ Activo   | —                    | La Ciudad Subterránea de Veldrisza | Aliada de Ignis      |
+| **Las Gemelas**   | Dimensional | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos | Neutral; eligen en Fase 3 |
+| **Medusa**        | Temporal              | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos |                        |
+| **Tempus**        | Temporal              | ✅ Activo   | —                    | Las Ruinas del Tiempo Perdido |                          |
 | **Ymir**          | Dimensional           | ✅ Activo   | —                    | Glacialis                 |                               |
 | **Aethernus Valcarys (Manshoon)** | BBEG | ✅ Recluido → ⚔️ Clímax | —                    | Torre de la Eternidad     | Ejecutando el ritual; el clímax es el asalto a la Torre cuando el Reloj llega a 8/8 |
 
@@ -182,10 +179,9 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 
 | **Sesión** | **Fecha** | **Lugarteniente** | **Cambio** | **Causa** | **Notas** |
 |------------|-----------|-------------------|------------|-----------|-----------|
-| 1 | | Kaelthas | ⚰️ Muerto | Derrotado por PJ | |
-| 5-6 | | Thyra | ⚰️ Muerto | Asesinado por Teach | Poder robado |
-| 11 | | Varrak | Cambio de bando | Decisión de PJ | |
-| 11 | | Las Gemelas | Cambio de bando | Según bando ganador | |
+| Fase 1 | | Thyra | ⚰️ Muerta | Asesinada por Teach (hito fijo) | Poder robado |
+| Fase 3 | | Varrak | Cambio de bando | Decisión de PJ | |
+| Fase 3 | | Las Gemelas | Cambio de bando | Según bando ganador | |
 | X | | Varrak | ⚰️ Muerto (Sacrificio) | Aliado + reloj ≥6/8 | 🔮 **Sacrificio voluntario: revive a Marcus y retrocede el Reloj −1** |
 
 ---

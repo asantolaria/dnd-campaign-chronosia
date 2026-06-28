@@ -26,8 +26,7 @@ Veldrisza combina el poder de Lolth con la manipulación espacial para crear por
 ### **👁️ Apariencia**
 Una drow anciana de aspecto regio con vestiduras de seda negra que brillan con patrones de telarañas dimensionales. Su cabello plateado se extiende como hilos de telaraña que conectan con Menzoberranzan, y sus ojos reflejan múltiples dimensiones superpuestas.
 
-### **💀 Efecto al Morir**
-Cuando Veldrisza muere (ya sea por los PJ o por otro lugarteniente), **La Ciudad Subterránea de Veldrisza se restaura a la normalidad**. Todas las distorsiones dimensionales causadas por su poder desaparecen gradualmente: las conexiones con Menzoberranzan se estabilizan, las redes espaciales se disipan, y la región recupera su estado natural sin las anomalías dimensionales que Veldrisza había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 

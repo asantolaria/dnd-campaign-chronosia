@@ -28,10 +28,10 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 - Dimensionalis la Fracturada (Independiente)
 - Ignis el Devorador Espacial (Líder del Bando Dimensional)
 - Matrona Veldrisza "La Tejedora Dimensional" (Bando Dimensional)
-- Las Gemelas del Espejo - Lyra y Nyx (Neutrales hasta Sesión 11)
+- Las Gemelas del Espejo - Lyra y Nyx (Neutrales; eligen bando en Fase 3)
 - Ymir el Eterno Invierno (Dimensional)
 
-**📖 Ver documento completo de la competencia:** 05_La_Ascension_del_Conclave.md
+**📖 Estructura, ritmo y finales:** [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md) (fuente única)
 
 ---
 
@@ -80,7 +80,6 @@ Un archipiélago de islas piratas dispersas en el Mar Occidental, donde Edward T
 - **Batalla Naval Obligatoria**: Una vez en el Archipiélago, los PJ deben enfrentar el barco gigante antes de acceder a la fortaleza de Teach
 - **Portales Dimensionales**: Permiten movimiento rápido entre islas
 - **Poder Robado**: Edward tiene habilidades de estasis temporal + portales dimensionales
-- **Estado de Acceso:** 🔒 **BLOQUEADA** hasta que La Resistencia construya el Motor de Viento Perpetuo
 
 ### **Efectos Específicos de Edward Teach**
 
@@ -113,7 +112,7 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 
 **Ubicación**: Región sur-oriental, llanuras extensas con distorsiones espaciales
 
-**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO**
 
 **⚔️ INDEPENDIENTE** - Juega sus propias cartas en la competencia
 
@@ -145,7 +144,6 @@ Vastas llanuras donde el espacio se ha comprimido hasta límites imposibles. Las
 - **Distorsión de Distancia**: La distancia entre dos puntos se reduce drásticamente
 - **Inversión de Proporciones**: Un PJ se vuelve gigante o diminuto temporalmente
 - **Separación Dimensional**: Los PJ pueden ser separados en habitaciones dimensionales
-- **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a Ignis el Devorador Espacial
 
 ### **Efectos Específicos de Dimensionalis la Fracturada**
 - **Fractura Menor**: Crea una pequeña fractura dimensional que confunde
@@ -170,9 +168,9 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 
 ## 🔥 **Las Calderas Dimensionales (Ignis el Devorador Espacial)**
 
-**Ubicación**: Región volcánica del sur, cerca de Volcanis
+**Ubicación**: Región volcánica del sur
 
-**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO**
 
 **⚔️ LÍDER DEL BANDO DIMENSIONAL** - Comanda "Los Conquistadores de Planos"
 
@@ -210,7 +208,6 @@ Una región volcánica devastada donde el espacio se ha fracturado en múltiples
 - **Distorsión Espacial**: El calor intenso distorsiona el espacio
 - **Invocación de Crías**: Ignis puede convocar dragones rojos, elementales, y demonios
 - **Cristales de Poder**: La región tiene la mayor concentración de cristales de poder en Chronosia (importante para La Resistencia pero extremadamente peligrosa)
-- **Estado de Acceso:** 🔒 **Bloqueada** - Accesible desde el inicio pero extremadamente peligrosa
 
 ### **Efectos Específicos de Ignis el Devorador Espacial**
 - **Portal de Ataque**: Crea un portal detrás de un enemigo y ataca a través de él
@@ -231,7 +228,7 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 
 **Ubicación**: Región subterránea, asentamiento drow bajo tierra
 
-**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTE ACTIVO**
 
 **⚔️ BANDO DIMENSIONAL** - Aliada de Ignis en "Los Conquistadores de Planos"
 
@@ -265,7 +262,6 @@ Una ciudad subterránea drow construida en una red de cavernas naturales que se 
 - **Magia Drow**: Combinada con poderes espaciales para efectos únicos
 - **Invocación de Ejércitos**: Puede traer tropas drow desde Menzoberranzan
 - **🕷️ Control de los Bregan Daerthe**: Veldrisza tiene **comprados a los Bregan Daerthe por encima de Serapis**. Aunque los Bregan Daerthe pueden trabajar para Serapis temporalmente, su verdadera lealtad es con Veldrisza. Esta relación secreta le permite manipular eventos desde las sombras.
-- **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a Edward Teach "Barbanegra"
 
 ### **Efectos Específicos de Matrona Veldrisza**
 - **Red de Telaraña**: Crea una red de telarañas dimensionales que atrapa enemigos
@@ -286,9 +282,9 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 
 **Ubicación**: Región central, compartida con Medusa la Eterna (Temporal)
 
-**🎖️ LUGARTENIENTES ACTIVAS** - Participan en "La Ascensión del Cónclave"
+**🎖️ LUGARTENIENTES ACTIVAS**
 
-**⚔️ NEUTRALES** - No se alinean con ningún bando hasta Sesión 11
+**⚔️ NEUTRALES** - No se alinean con ningún bando; eligen en Fase 3
 
 **⚠️ REGIÓN COMPARTIDA:** Esta región puede tener tanto a Las Gemelas del Espejo (Dimensionales) como a Medusa la Eterna (Temporal). El DM decide si coexisten o solo una controla la región.
 
@@ -322,7 +318,6 @@ Un jardín extenso lleno de espejos de diferentes tamaños y formas que actúan 
 - **Clonación de Enemigos**: Pueden crear clones de los PJ que luchan contra ellos
 - **Daño Compartido**: El daño recibido por los clones se comparte con el original (50%)
 - **Refugio Dimensional**: Pueden refugiarse en la dimensión espejo, volviéndose inmunes
-- **Estado de Acceso:** 🔒 **Bloqueada** - Accesible desde el inicio con precaución
 
 ### **Efectos Específicos de Las Gemelas del Espejo**
 - **Intercambio de Posición**: Lyra y Nyx intercambian posiciones instantáneamente
@@ -348,7 +343,7 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 
 **Ubicación**: Región del extremo norte, glaciares eternos
 
-**🎭 LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave"
+**🎭 LUGARTENIENTE ACTIVO**
 
 **⚠️ FUNCIÓN CRÍTICA:** Ymir es el **Reclutador Interplanar** de los Cronófagos. Mantiene una red de portales que conecta Chronosia con múltiples planos (Plano Elemental del Agua, Plano Elemental del Aire, Plano Astral, Plano Material, y otros), permitiendo el reclutamiento de criaturas y el transporte de suministros interplanares. Glacialis funciona como el **centro de distribución interplanar** de los Cronófagos.
 
@@ -364,9 +359,6 @@ Glacialis alberga múltiples portales de hielo que se abren constantemente, cone
 - **Plano Astral**: Conexiones para viaje rápido entre planos
 - **Plano Material (Faerûn)**: Portales menores para infiltración
 - **Otros Planos**: Conexiones variables según necesidades de los Cronófagos
-
-**🌌 Red de Portales Interplanares:**
-Glacialis alberga múltiples portales de hielo que se abren constantemente, conectando con diferentes planos del multiverso. Estos portales son visibles como círculos de hielo cristalino que brillan con luz azulada, y a través de ellos fluyen criaturas, recursos y suministros desde otros planos. La región está constantemente activa con el tráfico interplanar, convirtiéndola en un punto estratégico crucial para los Cronófagos.
 
 ### **Condiciones Especiales**
 - El frío intenso congela el espacio y crea portales de hielo
@@ -398,7 +390,6 @@ Glacialis alberga múltiples portales de hielo que se abren constantemente, cone
 - **Reclutamiento Activo**: Criaturas y suministros llegan constantemente desde otros planos. La red de portales es esencial para mantener las operaciones de los Cronófagos.
 - **Congelación Espacial**: El espacio se congela permanentemente
 - **Función Estratégica**: La muerte de Ymir interrumpe significativamente el flujo de suministros y reclutamiento de los Cronófagos, debilitando sus operaciones en múltiples planos.
-- **Estado de Acceso:** 🔓 **Desbloqueada** - Accesible desde el inicio
 
 ### **Efectos Específicos de Ymir el Eterno Invierno**
 - **Aliento de Hielo**: Exhala un cono de hielo de 30 pies que reduce velocidad
@@ -460,7 +451,7 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 El coste de explorar cada región dimensional no es un "desbalance", sino el **tiempo**: cada arco a fondo avanza el Reloj del Ritual (la ascensión de Aethernus). Ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 - **Frena el Reloj:** derrotar a un lugarteniente **crítico** (aquí, **Ignis**, líder dimensional, o **Teach**).
-- **Puertas que abre el ala dimensional:** derrotar a **Ignis** abre el ala profunda (Dimensionalis, Veldrisza); derrotar a **Teach** abre la Tela de Sombras de Veldrisza.
+- **Puertas que abre el ala dimensional:** derrotar a **Ignis** abre el ala profunda (Dimensionalis, Veldrisza); derrotar a **Teach** abre la Ciudad Subterránea de Veldrisza.
 
 **NOTA ESPECIAL - Edward Teach:** Combina sus poderes piratas con los de estasis robados a Thyra (amenaza híbrida). Cada lugarteniente que los PJ no alcanzan, Teach lo absorbe y crece → su poder en la Torre depende de a cuántos llegó él antes que ellos.
 

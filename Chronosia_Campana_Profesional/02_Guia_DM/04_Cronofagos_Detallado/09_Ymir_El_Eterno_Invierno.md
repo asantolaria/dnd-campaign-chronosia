@@ -48,8 +48,7 @@ Un gigante de hielo cristalino de 20 pies de altura, con un cuerpo formado por c
 ### **🎭 Personalidad**
 Frío y calculador, habla con una voz que resuena como el crujido del hielo. Considera el frío como la forma más pura de orden espacial, donde todo se cristaliza en patrones perfectos y predecibles.
 
-### **💀 Efecto al Morir**
-Cuando Ymir muere (ya sea por los PJ o por otro lugarteniente), **Glacialis se restaura a la normalidad**. Todas las distorsiones dimensionales causadas por su poder desaparecen gradualmente: las estructuras de hielo dimensional se disipan, los portales de hielo se cierran, y la región recupera su estado natural sin las anomalías dimensionales que Ymir había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 
@@ -190,7 +189,7 @@ Ymir puede realizar **2 acciones legendarias** por ronda, eligiendo entre las op
 - **Manipulación Espacial**: Cambia la geometría del espacio de combate
 - **Control de Campo**: Usa hielo para controlar el movimiento
 
-#### **⚡ Mecánicas de Balance:**
+#### **⚡ Mecánicas de Control de Campo:**
 - **Ventaja Táctica**: Manipulación del espacio para ventaja posicional
 - **Control de Campo**: Cristales de hielo como obstáculos
 - **Refuerzos**: Elementales de agua como aliados

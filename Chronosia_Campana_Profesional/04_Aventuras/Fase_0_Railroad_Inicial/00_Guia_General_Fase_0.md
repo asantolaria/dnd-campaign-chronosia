@@ -83,7 +83,6 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 
 ### **Sesión 3:**
 - **Primera experiencia de distorsiones** temporales/dimensionales
-- **Presenta el concepto de balance** (aunque aún no es crítico)
 - **Establece el tono** de exploración libre que vendrá en Fase 2
 
 ---
@@ -145,7 +144,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 **Información Clave Revelada:**
 - Chronosia es un semiplano fracturado creado por Aethernus (Manshoon)
 - Amaunator (dios del sol/tiempo) y Voidar (dios del vacío/espacio) están capturados
-- 12 lugartenientes controlan diferentes regiones (Kaelthas era el #12, ya muerto)
+- Los 12 lugartenientes de Aethernus controlan diferentes regiones (Kaelthas era el #12, ya muerto)
 - Los Anacronistas ("La Resistencia") protegen Cronópolis con el Cronómetro de Realidades
 - **Cronópolis será el hogar de los PJ** - volverán aquí después de cada misión
 

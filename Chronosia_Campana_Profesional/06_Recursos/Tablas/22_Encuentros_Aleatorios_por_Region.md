@@ -7,7 +7,7 @@
 
 ---
 
-## 🔄 **1. La Espiral del Reloj de Arena (Serapis)**
+## 🔄 **1. La Espiral Inversa (Serapis)**
 
 **Nivel recomendado:** 5-7  
 **Lanzar:** 1d6 cuando los PJ se desplazan por la región o pasan tiempo fuera de la aldea.
@@ -59,7 +59,7 @@
 
 - **Frecuencia:** Una tirada por "viaje significativo" (medio día o trayecto entre dos puntos de interés) evita saturar; en zonas muy peligrosas puedes lanzar 2 veces.
 - **Combinar con la trama:** Sustituye un resultado por un encuentro preparado (p. ej. mensajero de un lugarteniente, pista hacia un cristal) cuando convenga.
-- **Más regiones:** Se pueden añadir tablas para El Oráculo de los Posibles, Archipiélago de Barbanegra, etc., siguiendo el mismo formato (1d6, CR acorde al nivel de la región).
+- **Más regiones:** Se pueden añadir tablas para El Abismo de los Posibles, El Archipiélago de Barbanegra, etc., siguiendo el mismo formato (1d6, CR acorde al nivel de la región).
 
 ---
 

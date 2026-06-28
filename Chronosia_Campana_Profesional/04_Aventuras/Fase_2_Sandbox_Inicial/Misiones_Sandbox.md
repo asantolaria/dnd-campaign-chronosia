@@ -59,7 +59,7 @@ A partir de la llegada a Chronosia, los PJ pueden:
 
 ### **⚔️ La Guerra entre Lugartenientes**
 
-**📖 Ver documento:** 05_La_Ascension_del_Conclave.md
+**📖 Motor y ritmo:** [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 
 Tras el asesinato de Thyra por Edward Teach, estalla la rivalidad abierta entre los lugartenientes activos. No compiten por un poder ×3 ni se vuelven inmortales: la escalada real la encarna **Edward Teach**, que con su Talismán **absorbe a los lugartenientes que los PJ no alcanzan primero** y crece. Esto crea dinámicas únicas:
 
@@ -155,9 +155,9 @@ Una región montañosa donde el tiempo fluye hacia atrás. Las ruinas se reconst
 
 ### **Varrak del Horizonte - Fragmentación Temporal / Oráculo Neutral**
 
-**🎖️ LUGARTENIENTE ACTIVO** - 🟡 **Neutral hasta Sesión 11**
+**🎖️ LUGARTENIENTE ACTIVO** - 🟡 **Neutral hasta su momento de elección (Fase 3)**
 
-**⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver 05_La_Ascension_del_Conclave.md para su sistema completo.
+**⚠️ PERSONAJE ESPECIAL:** Varrak puede convertirse en **aliado, siervo o mártir** según las acciones de los PJ. Ver el keystone ([10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md), "El arco de Varrak") para su sistema completo.
 
 #### **🎯 Objetivos**
 - **Principal**: Influenciar a **Varrak del Horizonte** para que se alíe con los PJ (o derrotarlo si se convierte en enemigo)
@@ -175,7 +175,7 @@ Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas
 - **Estrategias**: Navegar entre realidades, usar objetos de realidades alternativas, influenciar a Varrak
 
 #### **🎭 Elementos Narrativos**
-- **Momento de Elección (Sesión 11)**: Varrak debe decidir su bando
+- **Momento de Elección (Fase 3, con el Reloj en zona crítica)**: Varrak debe decidir su bando
 - **Sistema de Puntos de Decisión**: Las acciones de los PJ determinan su alineación
 - **Tres Caminos**:
   - **Aliado**: Se une a los PJ contra Aethernus
@@ -183,9 +183,9 @@ Una cordillera flotante dividida en fragmentos de tierra que vibran en distintas
   - **Mártir**: Se sacrifica para ayudar a los PJ
 - **⚠️ Impacto de Edward Teach**: Varrak NO puede predecir las acciones del pirata
 - **Recompensas**: Elección entre **Espejo de la Verdad** O **Fragmento de Realidad Alternativa**
-- **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 1+ lugarteniente
+- **Estado de Acceso:** 🔒 **Bloqueada** → 🔓 al **caer un primer canal de poder** (un portal se estabiliza al derrotar a cualquier lugarteniente, p. ej. Serapis o Ymir). Razón in-world, no conteo de kills
 
-**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md) y 05_La_Ascension_del_Conclave.md
+**Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md) y el keystone ([10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md))
 
 ---
 
@@ -215,7 +215,7 @@ Una mansión gótica colosal rodeada por niebla temporal. Tiene múltiples nivel
 - **Reservas de Sangre**: Debe decidirse si destruir o liberar las "botellas de sangre" vivientes
 - **Competencia**: Como líder temporal, puede tener aliados que interfieren
 - **Recompensas**: Objetos relacionados con drenaje temporal y longevidad
-- **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 3+ lugartenientes
+- **Estado de Acceso:** 🔒 **Bloqueada** - Cubil profundo del ala temporal; se alcanza por la **red de portales del Motor de Viento Perpetuo** (Rotor: Serapis + Ymir). Ver Mapa de Puertas del keystone
 
 **Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
 
@@ -242,7 +242,7 @@ Un jardín extenso donde todo ha sido petrificado por la mirada de Medusa. Estat
 - **Encuentros Menores**: Serpientes Temporales (CR 5-7), Estatuas Vivientes (CR 6-8), Guardianes de Piedra
 - **Encuentro Principal**: Medusa la Eterna (Boss menor con enfoque en control)
 - **Estrategias**: Evitar contacto visual, usar artefactos anti-petrificación, liberar estatuas para información
-- **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 2+ lugartenientes
+- **Estado de Acceso:** 🔒 **Bloqueada** → 🔓 al **caer un primer canal** (un portal se estabiliza al derrotar a cualquier lugarteniente). El Jardín comparte puerta con Las Gemelas. Ver Mapa de Puertas del keystone
 
 **Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
 
@@ -267,7 +267,7 @@ Las ruinas de una antigua ciudad que existe en múltiples momentos temporales si
 - **Encuentros Menores**: Ecos Temporales (CR 8-10), Guardianes Mecánicos (CR 9-11), Habitantes en Bucles
 - **Encuentro Principal**: Tempus el Fragmentado (Boss de control con múltiples secuencias)
 - **Estrategias**: Romper bucles, interrumpir secuencias programadas, usar objetos anti-repetición
-- **Estado de Acceso:** 🔒 **Bloqueada** - Requiere derrotar a 4+ lugartenientes
+- **Estado de Acceso:** 🔒 **Bloqueada** - Requiere la **Arena del Tiempo** (recompensa de Serapis): sin ella los bucles temporales son infranqueables. Ver Mapa de Puertas del keystone
 
 **Ver más detalles en:** [10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)
 
@@ -389,7 +389,7 @@ Una ciudad subterránea drow construida en cavernas que se extienden a través d
 
 ### **Las Gemelas del Espejo - Lyra y Nyx - Dimensión Espejo**
 
-**🎖️ LUGARTENIENTES ACTIVAS** - 🟡 **Neutrales hasta Sesión 11**
+**🎖️ LUGARTENIENTES ACTIVAS** - 🟡 **Neutrales hasta su momento de elección (Fase 3)**
 
 **⚠️ NOTA:** Esta región puede ser compartida con **Medusa la Eterna** (Temporal). El DM decide si ambos lugartenientes coexisten o solo uno controla la región.
 
@@ -857,10 +857,10 @@ Esta misión puede completarse antes o después de derrotar a Ymir. Si se comple
 - **Pistas**: Información de lugartenientes derrotados, documentos en el Corazón de Chronosia
 - **Recompensas**: Conocimiento crucial, ventajas en la batalla final
 
-### **Liberar a los Dioses**
-- **Objetivo**: Descubrir cómo liberar a Amaunator y Voidar de su conflicto eterno
-- **Pistas**: Artefactos divinos, información de facciones, rituales antiguos, testimonios de lugartenientes
-- **Recompensas**: Aliados divinos, poder para la batalla final
+### **Liberar a los Dioses (la llave chroniana)**
+- **Objetivo**: Descubrir que la **única** vía para liberar a Amaunator y Voidar es **reunir a los dos pueblos chronianos** — Anacronistas (Cronópolis) + Oceánicos (Abysara) —, que juntos recomponen el método perdido para estabilizar el conflicto Amaunator–Voidar
+- **Pistas**: Textos de la Archivista Mira en Abysara, historia de los Chronianos, Cristal de Estabilización
+- **Recompensas**: Si los PJ alían a ambas facciones, en la Torre podrán **liberar** a los dioses (buen desenlace); si no, podrán derrotar a Aethernus pero los dioses no se salvan. No hay ruta alternativa (ni persuasión, ni artefactos sueltos). Ver el keystone, "El pueblo perdido"
 
 ### **Frenar la Ascensión (el Reloj del Ritual)**
 - **Objetivo**: Contener el avance del ritual de Aethernus antes de que se abra la Torre
@@ -881,7 +881,7 @@ Esta misión puede completarse antes o después de derrotar a Ymir. Si se comple
 - **Revelación**: La verdad sobre Manshoon y su plan de extraer poder divino
 - **Preparación**: Para el asalto a la Torre y la batalla final por fases
 
-### **Momento de Elección de Varrak (Sesión 11)**
+### **Momento de Elección de Varrak (Fase 3, Reloj en zona crítica)**
 - **Evento**: Varrak del Horizonte debe decidir su bando
 - **Influencias**: Todas las decisiones de los PJ hasta ese momento
 - **Resultados**:

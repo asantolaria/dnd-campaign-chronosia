@@ -7,7 +7,7 @@
 
 ### **⚔️ Enemigos Principales**
 - [Cronófagos](#-cronófagos)
-- [Lugartenientes del Cónclave](#-lugartenientes-del-cónclave)
+- [Lugartenientes](#-lugartenientes)
 - [Aethernus Valcarys](#-aethernus-valcarys)
 
 ### **🌌 Criaturas Temporales**
@@ -154,11 +154,11 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 
 ---
 
-## 👑 **LUGARTENIENTES DEL CÓNCLAVE**
+## 👑 **LUGARTENIENTES**
 
 **📖 Ver información completa de poderes y acciones legendarias:** [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 
-**⚠️ DESARROLLO PENDIENTE:** Este archivo requiere una actualización mayor para incluir los statblocks completos de los 10 lugartenientes (5 temporales + 5 dimensionales). Por ahora, se mantiene como referencia histórica de Thyra (caída).
+**📖 Statblocks completos de cada lugarteniente:** cada uno tiene su ficha en [04_Cronofagos_Detallado/](../02_Guia_DM/04_Cronofagos_Detallado/) (fichas `01`–`12`). Para los **villanos menores y bestias firma de cada región**, ver el [Bestiario Regional](Bestiario_Regional/00_Indice_Bestiario_Regional.md) — no se duplican aquí. Esta entrada se mantiene como referencia histórica de Thyra (caída).
 
 ---
 

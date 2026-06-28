@@ -363,7 +363,7 @@ El **Reloj Astronómico de Waterdeep** se alza majestuoso en la **Plaza del Tiem
 - **Derrotar a Kaelthas** y sus 4 Cronófagos
 - **Rescatar a Tiber** de la jaula temporal (acción para liberarlo, CD 14 Arcano)
 - **Evitar que Kaelthas escape** a Chronosia
-- **Descubrir información** sobre Aethernus y el Cónclave
+- **Descubrir información** sobre Aethernus y sus 12 lugartenientes
 
 ### **5.4 La Derrota de Kaelthas**
 **Descripción**: Cuando Kaelthas es derrotado (después de usar *Reversión Temporal*), su cuerpo comienza a desintegrarse.
@@ -383,7 +383,7 @@ KAELTHAS (susurrando, lágrimas cayendo de su ojo humano):
 
 KAELTHAS:
 "Los... La Resistencia... pueden llevaros... a Chronosia... Pero tened cuidado... 
-El Cónclave... tiene doce... y yo era el más débil..."
+Aethernus tiene doce lugartenientes... y yo era el más débil..."
 
 [Explosión temporal - su reloj de bolsillo estalla, creando una distorsión]
 ```
@@ -396,7 +396,7 @@ El Cónclave... tiene doce... y yo era el más débil..."
 **Información Revelada:**
 - **Kaelthas** era el lugarteniente #12 (el más débil)
 - **Aethernus Valcarys** es el líder de los Cronófagos
-- **El Cónclave** tiene 12 lugartenientes totales
+- **Aethernus tiene 12 lugartenientes** en total
 - **Chronosia** es el semiplano donde ocurre todo
 - **Los La Resistencia** (Anacronistas) son la clave para viajar allí
 - **Los dioses** están capturados por Aethernus
@@ -414,25 +414,25 @@ El Cónclave... tiene doce... y yo era el más débil..."
 1. La distorsión temporal se intensifica, los relojes en la sala empiezan a girar salvajemente
 2. Un portal de energía azul se abre en el aire
 3. Aparecen **5 figuras encapuchadas** con símbolos de engranajes en sus túnicas
-4. El líder se baja la capucha - es **Aetherius**, un gnomo anciano con ojos que brillan con sabiduría temporal
+4. El líder se baja la capucha - es **Galen**, un gnomo anciano con ojos que brillan con sabiduría temporal
 
 **Si Tiber Fue Rescatado:**
 ```
 TIBER (gritando de alegría):
-"¡Aetherius! ¡Maestro! ¡Estoy aquí! ¡Estos aventureros me salvaron!"
+"¡Galen! ¡Maestro! ¡Estoy aquí! ¡Estos aventureros me salvaron!"
 
-AETHERIUS (aliviado):
+GALEN (aliviado):
 "Tiber, pequeño tonto. Te dije que no investigaras solo."
 ```
 
 **Si Tiber NO Fue Rescatado:**
 ```
-AETHERIUS (viendo la jaula temporal):
+GALEN (viendo la jaula temporal):
 "¡Tiber!" 
 
 [Rápidamente libera al gnomo con un gesto]
 
-AETHERIUS (a los PJ, con tono más frío):
+GALEN (a los PJ, con tono más frío):
 "Gracias por derrotar a Kaelthas... aunque habéis sido algo lentos en rescatar a mi aprendiz."
 ```
 
@@ -466,7 +466,7 @@ lo usa para conquistar otros planos."
 
 [Mira a los PJ seriamente]
 
-ZEPHYR:
+GALEN:
 "Kaelthas era uno de sus sirvientes, encargado de eliminar a cualquiera que 
 pudiera descubrir la verdad. Maestro Thaddeus estaba cerca de descubrir 
 Chronosia. Por eso lo mataron."
@@ -542,9 +542,9 @@ temporales."
 
 [El reloj gigante destrozado comienza a girar, sus engranajes brillan]
 
-ZEPHYR:
+GALEN:
 "Pero recordad: Aethernus tiene ojos en todas partes. Debéis ser cuidadosos. 
-Los Cronófagos son solo el beginning. El Cónclave tiene doce lugartenientes, 
+Los Cronófagos son solo el principio. Aethernus tiene doce lugartenientes, 
 y Kaelthas era el más débil."
 
 [Un portal de luz azul se abre en el reloj, mostrando una ciudad de agujas y 
@@ -561,7 +561,7 @@ GALEN:
 
 **Para el DM:**
 - La Sesión 2 comienza con la llegada a Cronópolis
-- Consulta `25_Cronologia_Maestra_Campana.md` para la Sesión 2 completa
+- Consulta `../../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para la Sesión 2 completa
 - Cronópolis se convierte en la **base permanente** de los PJ
 
 ---
@@ -576,7 +576,7 @@ GALEN:
 - ✅ **Viajar** a Chronosia a través del portal temporal
 
 ### **Objetivos Secundarios**
-- ⭐ **Rescatar** a Tiber (Anacronista capturado) - afecta la actitud de Zephyr
+- ⭐ **Rescatar** a Tiber (Anacronista capturado) - afecta la actitud de Galen
 - ⭐ **Recolectar** el Reloj de Bolsillo Destrozado (objeto mágico)
 - ⭐ **Leer** el Diario de Kaelthas (trasfondo trágico)
 - ⭐ **Obtener** la recompensa de Waterdeep (2,000 po + Medalla)
@@ -585,9 +585,9 @@ GALEN:
 ### **Objetivos Ocultos (Para el DM)**
 - ✅ **Introducir** la mecánica de *Reversión Temporal* (Kaelthas la usa)
 - ✅ **Establecer** a Kaelthas como el lugarteniente #12 (el más débil)
-- ✅ **Revelar** la existencia del Cónclave y Aethernus
+- ✅ **Revelar** la existencia de Aethernus y sus 12 lugartenientes
 - ✅ **Crear** un vínculo emocional con Tiber (futuro contacto en Cronópolis)
-- ✅ **Foreshadowing** del Cronómetro de Realidades (mencionado por Zephyr)
+- ✅ **Foreshadowing** del Cronómetro de Realidades (mencionado por Galen)
 
 ---
 
@@ -673,7 +673,7 @@ Esta sesión termina con el viaje a Chronosia. La Sesión 2 comienza inmediatame
 - Ver el Cronómetro de Realidades
 - Establecer Cronópolis como base permanente
 
-**Consulta `../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para la Sesión 2 completa.**
+**Consulta `../../02_Guia_DM/07_Cronologia_Maestra_Campana.md` para la Sesión 2 completa.**
 
 ---
 

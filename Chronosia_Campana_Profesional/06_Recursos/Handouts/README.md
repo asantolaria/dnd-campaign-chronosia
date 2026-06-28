@@ -7,15 +7,15 @@
 
 ## 📋 **HANDOUTS PENDIENTES**
 
-### **Documentos de Waterdeep:**
-- [ ] Carta de Thaddeus Ironwright
-- [ ] Informes de la Guardia de Waterdeep
-- [ ] Documentos de la Torre del Reloj
+### **Documentos de Cronópolis (hub):**
+- [ ] Carta de enganche de los Anacronistas / La Resistencia
+- [ ] Informes de la guardia de Cronópolis
+- [ ] Hoja del Contador del Ritual para la mesa
 
 ### **Documentos de Chronosia:**
-- [ ] Mapas de regiones
+- [ ] Mapas de las 10 regiones canónicas
 - [ ] Diarios de exploradores
-- [ ] Informes de facciones
+- [ ] Informes de facciones (Anacronistas, Oceánicos, Ingenieros)
 
 ### **Imágenes y Referencias Visuales:**
 - [x] **Cronófago Raso** - Imagen de referencia para la apariencia de los soldados cronófagos ✅

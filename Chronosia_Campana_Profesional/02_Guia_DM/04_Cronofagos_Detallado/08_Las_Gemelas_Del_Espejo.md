@@ -13,7 +13,7 @@
 - **Rol:** Principales/Neutrales
 - **Región:** El Jardín de los Tiempos Gemelos
 - **Nivel Recomendado:** 6-7
-- **Bando:** Neutral (hasta Sesión 11, luego pueden cambiar)
+- **Bando:** Neutral (deciden en Fase 3, según el estado del tablero)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 2+ lugartenientes + Espejo de Realidad)
 
 ---
@@ -29,8 +29,7 @@ Dos hermanas idénticas de mediana edad vestidas exactamente igual, pero con det
 ### **🎭 Personalidad Misteriosa**
 No se sabe realmente si eran dos personas originalmente o si una surgió de la dimensión espejo. Ambas afirman ser la original y la otra el reflejo, creando una dinámica psicológica compleja donde la identidad y la realidad se confunden.
 
-### **💀 Efecto al Morir**
-Cuando las Gemelas mueren (ya sea por los PJ o por otro lugarteniente), **El Jardín de los Tiempos Gemelos se restaura a la normalidad**. Todas las distorsiones dimensionales causadas por su poder desaparecen gradualmente: la dimensión espejo se estabiliza, los reflejos invertidos se disipan, y la región recupera su estado natural sin las anomalías dimensionales que las Gemelas habían creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 
@@ -196,7 +195,7 @@ Las Gemelas son neutrales y pueden aliarse con los PJ si:
 - Los PJ les ofrecen una visión del futuro mejor que la de Aethernus
 - Los PJ les ayudan a entender su propia naturaleza fragmentada
 
-**Revelación en Sesión 11:** Las Gemelas pueden cambiar de bando según el resultado de la campaña.
+**Revelación (Fase 3):** Las Gemelas pueden cambiar de bando según el resultado de la campaña.
 
 ---
 
@@ -208,7 +207,7 @@ Las Gemelas son **neutrales** y pueden aliarse con los PJ si:
 - Los PJ les ofrecen una visión del futuro mejor que la de Aethernus
 - Los PJ les ayudan a entender su propia naturaleza fragmentada
 
-### **⚔️ Decisión Crítica (Sesión 11):**
+### **⚔️ Decisión Crítica (Fase 3, Reloj en zona crítica):**
 Las Gemelas eligen bando según el estado de la campaña:
 - **Si Bando Dimensional está ganando:** Se unen a Ignis
 - **Si Bando Temporal está ganando:** Se unen a Vorthak

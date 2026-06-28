@@ -76,7 +76,7 @@
 
 **Cómo Recuperarlo:**
 1. **Derrotar a Edward Teach:** Al derrotar a Teach, el Cronómetro puede ser recuperado
-2. **Interrumpir el Ritual de Combinación:** Si los PJ interrumpen el ritual en la Sesión 5 o 13, pueden recuperar ambos artefactos
+2. **Interrumpir el Ritual de Combinación:** Si los PJ interrumpen el ritual de combinación del Talismán, pueden recuperar ambos artefactos
 3. **Robo/Infiltración:** Los PJ pueden intentar robar el Cronómetro de la isla secreta de Teach (muy difícil, requiere planificación)
 4. **Negociación:** Teach podría estar dispuesto a negociar en circunstancias extremas (casi imposible)
 
@@ -154,7 +154,7 @@ Cuando se combina con la Perla del Vacío Primordial, crea el Talismán de Inter
 
 **Cómo Recuperarla:**
 1. **Derrotar a Edward Teach:** Al derrotar a Teach, la Perla puede ser recuperada
-2. **Interrumpir el Ritual de Combinación:** Si los PJ interrumpen el ritual en la Sesión 5 o 13, pueden recuperar ambos artefactos
+2. **Interrumpir el Ritual de Combinación:** Si los PJ interrumpen el ritual de combinación del Talismán, pueden recuperar ambos artefactos
 3. **Robo/Infiltración:** Los PJ pueden intentar robar la Perla de la isla secreta de Teach (muy difícil)
 4. **Negociación:** Teach podría estar dispuesto a negociar en circunstancias extremas (casi imposible)
 
@@ -211,73 +211,77 @@ Cuando se combina con el Cronómetro de Realidades, crea el Talismán de Interce
 **Tipo:** Artefacto (No requiere sintonización)  
 **Rareza:** Artefacto Único (Híbrido)  
 **Peso:** 50 libras  
-**Creadores:** Anacronistas + La Resistencia (Sesión 8-9)  
+**Creadores:** Anacronistas + La Resistencia (Fase 1-2)  
 **Ubicación:** Cronópolis (Taller de los Ingenieros o Santuario de los Anacronistas)  
-**Estado Actual:** ✅ Creado y activo
+**Estado Actual:** ✅ Creado y activo desde Fase 1-2
+
+> **Reloj del Ritual:** este artefacto **ES** el Reloj del Ritual — un marcador de **8 segmentos** (0→8) que mide la ascensión de Aethernus. NO mide un % ni un "balance". Empieza ya avanzado en **2/8** y a **8/8** se produce la Llamada de los Dioses y se abre la Torre. Fuente única: [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 #### **📍 Ubicación y Obtención:**
 
 **Ubicación:**
-- **Lugar:** Cronópolis - Puede estar en el Taller de los Ingenieros (La Resistencia) o en el Santuario de los Anacronistas
+- **Lugar:** Cronópolis - Puede estar en el Taller de los Ingenieros (La Resistencia) o en el Santuario de los Anacronistas, con un **monitor público** en un lugar céntrico (Plaza del Reloj o Fortaleza de Acero)
 - **Acceso:** Público - Los PJ pueden consultarlo en cualquier momento
 - **Protección:** No requiere protección especial (no puede ser manipulado)
 
 **Cómo se Obtiene:**
-- **Creado en Sesión 8-9:** Los Anacronistas y La Resistencia lo crean juntos durante un encuentro especial
+- **Creado en Fase 1-2:** Los Anacronistas y La Resistencia lo construyen juntos al inicio de la campaña
 - **Los PJ pueden participar:** Pueden ayudar en la creación del artefacto (opcional)
 - **No requiere obtención:** Es un artefacto fijo que permanece en Cronópolis para consulta
 
 **Función:**
-- **Monitoreo del Ritual:** Muestra el progreso del ritual de Manshoon (85-100%)
+- **Monitoreo del Reloj del Ritual:** Muestra cuántos segmentos lleva el ritual de Aethernus (X/8)
 - **Punto de Referencia:** Los PJ pueden consultarlo cuando regresen a Cronópolis
-- **Urgencia Visual:** Crea tensión narrativa al mostrar el avance del ritual
+- **Urgencia Visual:** Crea tensión narrativa al mostrar el avance del ritual segmento a segmento
 
 #### **📜 Historia:**
-Artefacto híbrido creado por la alianza inesperada entre Anacronistas y La Resistencia durante la Sesión 8-9. Combina la percepción mística del tiempo de los Anacronistas con la tecnología de precisión de La Resistencia para monitorear el progreso del ritual de ascensión divina de Manshoon.
+Artefacto híbrido creado por la alianza entre Anacronistas y La Resistencia en la Fase 1-2 de la campaña. Combina la percepción mística del tiempo de los Anacronistas con la tecnología de precisión de La Resistencia para monitorear el avance del ritual de ascensión divina de Aethernus a través de sus 8 segmentos.
 
 #### **🎨 Descripción Física:**
-Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (como un astrolabio). Engranajes visibles giran constantemente. Fragmentos de aionita incrustados alrededor del borde brillan suavemente. Agujas doradas se mueven hacia números grabados en el borde. Un número central muestra el porcentaje actual del ritual.
+Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (como un astrolabio). Engranajes visibles giran constantemente. Fragmentos de aionita incrustados alrededor del borde brillan suavemente. En el borde, **8 marcas/segmentos** se encienden uno a uno conforme avanza el ritual; los primeros dos ya están encendidos al inicio (2/8).
 
 **Efectos Visuales:**
-- Las agujas se mueven muy lentamente (1-2% por sesión)
-- Cuando el ritual avanza, las agujas aceleran momentáneamente
+- Los segmentos se encienden de uno en uno conforme el ritual avanza
+- Cuando cae un lugarteniente, el Contador acusa un **"hipo"** (parpadeo / retroceso de medio segmento)
 - Los fragmentos de aionita pulsan en sintonía con el pulso del tiempo
-- Si el ritual llega al 95%+, el artefacto emite una luz roja de advertencia
+- En zona crítica (≥6/8), el artefacto emite una luz roja de advertencia
 
 #### **⚡ Propiedades Mágicas:**
 
-**Monitoreo del Ritual (Pasivo):**
-- Monitorea el progreso del ritual de Manshoon (85-100%)
-- Actualiza automáticamente cuando el ritual avanza
-- No puede ser manipulado (está vinculado al flujo temporal verdadero)
+**Monitoreo del Reloj (Pasivo):**
+- Muestra el segmento actual del Reloj del Ritual (X/8) y su tendencia
+- Actualiza automáticamente cuando el ritual avanza, se estanca o retrocede
+- No puede ser manipulado (está vinculado al flujo de poder divino verdadero)
 - Visible para todos (no requiere magia para verlo)
 
 **Indicador de Urgencia (Pasivo):**
-- **85-94%:** Agujas se mueven lentamente, luz normal
-- **95-97%:** Luz roja de advertencia, agujas aceleran ligeramente
-- **98-99%:** Luz roja intensa, agujas se mueven visiblemente, artefacto vibra
-- **100%:** Artefacto se detiene - muestra "100%" permanentemente
+- **2-5/8:** Segmentos se encienden poco a poco, luz normal
+- **6-7/8 (zona crítica):** Luz roja de advertencia, el ritual aprieta
+- **8/8:** **Llamada de los Dioses** — se abre la Torre de la Eternidad (Fase 4)
+
+**El "hipo" del Contador (Pasivo):**
+- Toda muerte de lugarteniente corta un canal de poder divino y el Contador lo acusa con un parpadeo / retroceso de medio segmento
+- Si la caída **no** la provocaron los PJ, los Anacronistas la señalan como anomalía a investigar (firma de que Teach caza lugartenientes)
 
 **Ancla Temporal (Pasivo):**
 - Crea una zona de estabilidad temporal de 30 pies de radio
 - Las distorsiones temporales menores se neutralizan en esta área
 - Los efectos temporales de nivel 5 o inferior se cancelan automáticamente
 
-#### **📊 Progresión del Ritual (Referencia para el DM):**
+#### **📊 Progresión del Reloj (Referencia para el DM):**
 
-| **Sesión** | **Progresión** | **Estado** | **Efecto Visual** |
-|------------|----------------|------------|-------------------|
-| 8-9 | 90-91% | Avanzando | Agujas se mueven lentamente |
-| 10 | 92% | ⚠️ Urgencia | Agujas aceleran ligeramente |
-| 11 | 93-94% | ⚠️ Urgencia | Fragmentos de aionita pulsan más rápido |
-| 12 | 95-97% | ⚠️⚠️ Crítico | Luz roja de advertencia |
-| 13 | 98% | ⚠️⚠️⚠️ Crítico | Luz roja intensa, agujas se mueven visiblemente |
-| 14 | 98-99% | ⚠️⚠️⚠️ Crítico | Artefacto vibra, luz roja parpadea |
-| 15 | 100% | **FINAL** | Artefacto se detiene - "100%" |
+| **Segmento** | **Estado** | **Efecto Visual** |
+|------------|------------|-------------------|
+| 2/8 | Estado inicial | Dos segmentos encendidos |
+| 3-5/8 | Avanzando | Segmentos se encienden poco a poco |
+| 6-7/8 | ⚠️ Zona crítica | Luz roja de advertencia; pueden lanzarse Tormentas del Ritual |
+| 8/8 | **Llamada de los Dioses** | Se abre la Torre de la Eternidad (Fase 4) |
+
+> El avance lo rige el [Motor de Campaña](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md): +1 por arco de región, salto con el asesinato de Thyra, se estanca al caer un crítico, −1 con el sacrificio de Varrak.
 
 #### **🎯 Función Narrativa:**
 - Transmite urgencia visual a los jugadores
-- Fuerza decisiones sobre qué lugarteniente enfrentar primero
+- Fuerza decisiones sobre qué lugarteniente enfrentar primero (coste de oportunidad)
 - Crea presión narrativa constante
 - Se convierte en un punto de referencia permanente
 
@@ -306,7 +310,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 3. **Robo (Difícil):** Los PJ podrían intentar robarlo, pero las Gemelas son muy poderosas y tienen múltiples dimensiones espejo
 
 **Requisitos:**
-- **Nivel Recomendado:** 9-11
+- **Nivel Recomendado:** 8-10
 - **Región:** El Jardín de los Tiempos Gemelos (región compartida con Medusa)
 - **Nota:** Las Gemelas son neutrales, no necesariamente hostiles - pueden ser aliadas potenciales
 
@@ -366,14 +370,14 @@ Un espejo circular de 3 pies de diámetro con marco de plata ornamentada. La sup
 #### **📍 Ubicación y Obtención:**
 
 **Ubicación:**
-- **Lugar:** La Espiral del Reloj de Arena (región de Serapis)
+- **Lugar:** La Espiral Inversa (región de Serapis)
 - **Poseedor:** Serapis el Retroceso
 - **Estado:** Serapis lo usa para controlar los bucles temporales de su región
 
 **Cómo Obtenerlo:**
 1. **Derrotar a Serapis el Retroceso:** Al derrotarlo, la Arena puede ser obtenida como botín
 2. **Nivel Recomendado:** 5-7 (primera región recomendada)
-3. **Región:** La Espiral del Reloj de Arena
+3. **Región:** La Espiral Inversa
 
 **Requisitos:**
 - **Derrotar a Serapis:** Los PJ deben enfrentar y derrotar a Serapis el Retroceso
@@ -505,7 +509,7 @@ Una máquina de excavación del tamaño de un carro pequeño, con múltiples tal
 #### **📍 Ubicación y Obtención:**
 
 **Ubicación de los Componentes:**
-- **Núcleo Temporal:** En posesión de Serapis el Retroceso (La Espiral del Reloj de Arena)
+- **Núcleo Temporal:** En posesión de Serapis el Retroceso (La Espiral Inversa)
 - **Carcasa Helada:** En posesión de Ymir el Eterno Invierno (Glacialis)
 - **Estado:** Fragmentado - cada componente está con un lugarteniente diferente
 
@@ -857,13 +861,13 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 > **📍 Ubicación y Obtención General:**
 > - **Ubicación:** Cada objeto está en posesión de su lugarteniente correspondiente en su región
 > - **Cómo Obtenerlos:** Derrotar al lugarteniente correspondiente
-> - **Nivel Recomendado:** Varía según el lugarteniente (5-13)
+> - **Nivel Recomendado:** Varía según el lugarteniente (5-10; CR de los críticos rescalado: Teach 11-12, Ignis ~13, Aethernus 13-14)
 > - **Nota:** Algunos objetos pueden ser destruidos durante el combate
 
 #### **⏰ Objetos de Serapis el Retroceso**
 
 **📍 Ubicación:**
-- **Lugar:** La Espiral del Reloj de Arena (región de Serapis)
+- **Lugar:** La Espiral Inversa (región de Serapis)
 - **Poseedor:** Serapis el Retroceso
 - **Cómo Obtenerlos:** Derrotar a Serapis (Nivel 5-7)
 
@@ -881,7 +885,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 **📍 Ubicación:**
 - **Lugar:** Archipiélago de Barbanegra (isla secreta de Teach)
 - **Poseedor:** Edward Teach "Barbanegra"
-- **Cómo Obtenerlos:** Derrotar a Edward Teach (Nivel 11-13) ⚠️ **MUY PELIGROSO**
+- **Cómo Obtenerlos:** Derrotar a Edward Teach (CR 11-12; región nivel 7-9) ⚠️ **MUY PELIGROSO**
 - **Nota Especial:** Teach tiene el Talismán de Interceptación Divina, que es extremadamente poderoso
 
 **Espada de Barbanegra:**
@@ -899,7 +903,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 **📍 Ubicación:**
 - **Lugar:** Las Llanuras de la Compresión (región de Dimensionalis)
 - **Poseedor:** Dimensionalis la Fracturada
-- **Cómo Obtenerlos:** Derrotar a Dimensionalis (Nivel 9-11)
+- **Cómo Obtenerlos:** Derrotar a Dimensionalis (Nivel 9-10)
 
 **Daga Fracturada:**
 - **Tipo:** Daga +2
@@ -909,9 +913,9 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 #### **🔥 Objetos de Ignis el Devorador Espacial**
 
 **📍 Ubicación:**
-- **Lugar:** El Abismo de los Posibles (región de Varrak) - Ignis está aliado con Varrak
+- **Lugar:** Las Calderas Dimensionales (región de Ignis, líder del bando dimensional)
 - **Poseedor:** Ignis el Devorador Espacial
-- **Cómo Obtenerlos:** Derrotar a Ignis (Nivel 9-11)
+- **Cómo Obtenerlos:** Derrotar a Ignis (CR ~13; región nivel 8-10)
 
 **Garras de Fuego Dimensional:**
 - **Tipo:** Arma Natural +3
@@ -923,7 +927,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 **📍 Ubicación:**
 - **Lugar:** La Ciudad Subterránea de Veldrisza (región de Veldrisza)
 - **Poseedor:** Matrona Veldrisza
-- **Cómo Obtenerlos:** Derrotar a Veldrisza (Nivel 9-11)
+- **Cómo Obtenerlos:** Derrotar a Veldrisza (Nivel 9-10)
 - **Nota:** Requiere la Excavadora Dimensional o ayuda de Varrak del Horizonte (aliado) para acceder
 
 **Bastón de Telarañas Dimensionales:**
@@ -935,7 +939,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 **📍 Ubicación:**
 - **Lugar:** El Jardín de los Tiempos Gemelos (región de Las Gemelas)
 - **Poseedor:** Las Gemelas del Espejo (Lyra y Nyx)
-- **Cómo Obtenerlos:** Derrotar a Las Gemelas (Nivel 9-11)
+- **Cómo Obtenerlos:** Derrotar a Las Gemelas (Nivel 8-10)
 - **Nota:** Las Gemelas son neutrales - pueden ser aliadas potenciales, no necesariamente hostiles
 
 **Espejos Gemelos:**
@@ -1442,7 +1446,7 @@ Durante la batalla eterna entre Amaunator y Voidar, los estallidos de poder divi
 - **Ubicación Principal:** **Abysara** - Los Oceánicos de las Profundidades conocen mejor cómo encontrarlos y recolectarlos en las profundidades del lecho marino cerca de la ciudad
 - **Otras Ubicaciones:** También pueden formarse espontáneamente en regiones con alta actividad temporal o dimensional (regiones controladas por lugartenientes), pero son extremadamente raros y difíciles de encontrar sin conocimiento especializado
 - **Frecuencia:** Extremadamente raros. Los Oceánicos de Abysara tienen el conocimiento más completo sobre su existencia y cómo encontrarlos
-- **Nivel Recomendado:** 7-15 (según el tamaño del cristal)
+- **Nivel Recomendado:** 7-10 (según el tamaño del cristal)
 - **⚠️ SECRETO:** El conocimiento sobre estos cristales es **guardado celosamente** por los Oceánicos de las Profundidades. Aunque pueden formarse en otras regiones, solo los Oceánicos saben cómo identificarlos y recolectarlos de forma segura. En otras regiones, encontrar estos cristales requiere exploración peligrosa y conocimiento arcano avanzado.
 
 **Tipo:** Consumible/Componente  
@@ -1488,7 +1492,7 @@ Un cristal brillante que pulsa con energía mágica. Su color varía según el t
 - **Origen:** Tecnología única de los Oceánicos de las Profundidades de Abysara
 - **Ubicación:** **SOLO conocido y disponible en Abysara** (ciudad submarina de los Oceánicos)
 - **Frecuencia:** Extremadamente raros, solo los Oceánicos saben cómo crearlos
-- **Nivel Recomendado:** 7-15
+- **Nivel Recomendado:** 7-10
 - **⚠️ SECRETO:** Este cristal es un conocimiento guardado celosamente por los Oceánicos. Solo se puede obtener a través de alianza o comercio con ellos.
 
 **Tipo:** Objeto Mágico (Requiere Sintonización)  

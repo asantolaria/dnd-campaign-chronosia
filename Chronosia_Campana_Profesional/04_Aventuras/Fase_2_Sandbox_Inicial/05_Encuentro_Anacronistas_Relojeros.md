@@ -14,10 +14,10 @@
 
 ## 📋 **RESUMEN EJECUTIVO**
 
-**Cuándo Ocurre:** Sesión 8-9 (cuando la urgencia del ritual es media-alta)  
+**Cuándo Ocurre:** Fase 2, con el **Reloj del Ritual en zona media** (ya empezaron a sospechar de la reclusión de Aethernus)  
 **Dónde:** Cronópolis (Taller de los Ingenieros o Santuario de los Anacronistas)  
 **Quién Participa:** Galen (Anacronistas) + Balthar Herrumbra/Lucienne Rietveldt (La Resistencia)  
-**Resultado:** Creación del **Contador del Ritual** - Artefacto que monitorea el avance del ritual de Manshoon
+**Resultado:** Creación del **Contador del Ritual** - el artefacto que **muestra el Reloj del Ritual de 8 segmentos** (motor único de la campaña; ver [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md))
 
 **🎯 Propósito Narrativo:**
 - Transmitir urgencia a los jugadores
@@ -31,7 +31,7 @@
 
 ### **📅 Timing y Contexto**
 
-**Sesión 8-9:** Los PJ han estado explorando, enfrentando lugartenientes, y han comenzado a sospechar sobre la reclusión de Manshoon. El ritual está avanzando silenciosamente (90-91%).
+**Reloj en zona media:** Los PJ han estado explorando, enfrentando lugartenientes, y han comenzado a sospechar sobre la reclusión de Aethernus. El ritual avanza silenciosamente (Reloj a media tabla, ~4-5/8).
 
 **Trigger Natural:**
 - Los PJ regresan a Cronópolis después de una misión
@@ -49,20 +49,20 @@ Los Anacronistas (con su percepción mística del tiempo verdadero) han sentido 
 
 **Si los PJ están en Cronópolis:**
 
-Los PJ notan una procesión inusual: **Aetherius y varios Anacronistas** caminan por las calles de Cronópolis, dirigiéndose directamente hacia el **Taller de los Ingenieros** (donde trabajan La Resistencia).
+Los PJ notan una procesión inusual: **Galen y varios Anacronistas** caminan por las calles de Cronópolis, dirigiéndose directamente hacia el **Taller de los Ingenieros** (donde trabajan La Resistencia).
 
 **Descripción:**
 ```
 Las calles de Cronópolis se llenan de murmullos. Una procesión de figuras 
 vestidas con túnicas verdes y marrones avanza solemnemente. Son los 
-Anacronistas, liderados por Zephyr, y su destino es claro: el Taller de los 
+Anacronistas, liderados por Galen, y su destino es claro: el Taller de los 
 Ingenieros.
 
 Los ciudadanos se apartan, confundidos. Los Anacronistas y los Relojeros 
 Negros nunca se han visto cara a cara. Sus filosofías son opuestas: misticismo 
 vs tecnología, aceptación vs odio a la magia.
 
-Pero hoy, algo es diferente. Zephyr camina con determinación, y en sus ojos 
+Pero hoy, algo es diferente. Galen camina con determinación, y en sus ojos 
 hay una urgencia que no habéis visto antes.
 ```
 
@@ -93,7 +93,7 @@ BALTHAR (con voz ronca):
 "¿Qué quieren los místicos en mi taller? No tenemos tiempo para rituales 
 y supersticiones."
 
-ZEPHYR (sereno pero urgente):
+GALEN (sereno pero urgente):
 "Maestro Herrumbra, vuestros detectores han registrado anomalías cósmicas, 
 ¿verdad? Nosotros hemos sentido lo mismo, pero de forma diferente. El tiempo 
 mismo nos advierte: algo terrible está a punto de completarse."
@@ -103,10 +103,10 @@ BALTHAR (pausa, luego asiente lentamente):
 Algo está extrayendo poder divino a una escala masiva. Pero... ¿qué proponéis?"
 ```
 
-**Zephyr explica la percepción de los Anacronistas:**
+**Galen explica la percepción de los Anacronistas:**
 
 ```
-ZEPHYR:
+GALEN:
 "El tiempo tiene un pulso, Maestro. Y ese pulso se está acelerando hacia 
 algo terrible. Podemos sentirlo, pero no podemos medirlo. Vosotros podéis 
 medir, pero no podéis sentir la verdadera naturaleza de lo que ocurre."
@@ -165,7 +165,7 @@ improbable. Los Anacronistas realizan rituales suaves, susurrando palabras en
 lenguas antiguas mientras sostienen fragmentos de aionita. Los La Resistencia 
 trabajan con precisión mecánica, ajustando engranajes y calibrando sensores.
 
-Zephyr y Balthar trabajan juntos, combinando misticismo y tecnología de una 
+Galen y Balthar trabajan juntos, combinando misticismo y tecnología de una 
 forma que nunca antes se había intentado. El aire vibra con energía, pero no 
 es magia pura ni tecnología pura: es algo nuevo, algo híbrido.
 
@@ -186,26 +186,26 @@ aparece un símbolo que cambia constantemente:
 
 **⚡⚡⚡** (Tres rayos - Urgencia Alta)
 
-ZEPHYR (con voz temblorosa):
-"El ritual avanza... las agujas se mueven hacia el final. Cuando el símbolo 
-se vuelva completamente rojo... Manshoon se convertirá en un dios."
+GALEN (con voz temblorosa):
+"El Contador tiene ocho segmentos. Ya hay varios encendidos. Cuando se 
+encienda el octavo... Aethernus se convertirá en un dios y se abrirá la Torre."
 
 BALTHAR (golpeando su prótesis mecánica contra una mesa):
-"¡Maldita sea! No tenemos tiempo. Cada día que pasa, el ritual avanza. 
-Si no detenemos a los lugartenientes y llegamos a la Torre de la Eternidad 
-antes de que el símbolo se vuelva rojo... será demasiado tarde."
+"¡Maldita sea! Cada arco de región que exploráis consume tiempo, y el ritual 
+gana un segmento. Si no contenéis a los más peligrosos y llegamos a la Torre 
+antes del octavo segmento... será demasiado tarde."
 
 LUCIENNE (calculando rápidamente):
-"Basándome en la velocidad actual... tenemos aproximadamente 3-4 sesiones 
-antes de que el ritual se complete. Pero la velocidad puede acelerarse si los 
-lugartenientes continúan alimentando el ritual con sus acciones."
+"No da para todo. Tendréis que elegir qué regiones resolver. Y cuidado: 
+ciertos hitos —el asesinato de Thyra, sobre todo— hacen saltar el Contador 
+de golpe."
 ```
 
 **Los PJ ahora entienden:**
-- El ritual está **avanzando** (indicado por símbolos visuales de urgencia)
-- Avanza **constantemente** con el tiempo
-- Tienen **tiempo limitado** antes de que se complete
-- Deben **priorizar** qué lugartenientes enfrentar
+- El ritual avanza por **segmentos** (no por un reloj de pared)
+- Explorar una región a fondo cuesta **tiempo** → un segmento más
+- No da tiempo a todo: deben **elegir** qué regiones resolver
+- Frenar a los lugartenientes **críticos** (Vorthak, Ignis, Teach) estanca el Contador
 
 ---
 
@@ -218,21 +218,20 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - **Múltiples esferas** superpuestas (como un astrolabio)
 - **Engranajes visibles** que giran constantemente
 - **Fragmentos de aionita** incrustados alrededor del borde (brillan suavemente)
-- **Agujas doradas** que se mueven hacia números grabados en el borde
-- **Número central** que muestra el porcentaje actual del ritual
+- **Ocho segmentos** grabados en el borde que se van **encendiendo** uno a uno (el Reloj del Ritual: empieza en 2/8)
 
 **Efectos Visuales:**
-- Las agujas se mueven **muy lentamente** hacia el final
-- Cuando el ritual avanza, las agujas **aceleran momentáneamente**
+- Los segmentos se encienden **de uno en uno** conforme avanza el ritual
+- Toda muerte de lugarteniente provoca un **"hipo"** (parpadeo / retroceso de medio segmento) antes de estabilizarse — gancho de investigación (ver keystone)
 - Los fragmentos de aionita **pulsan** en sintonía con el pulso del tiempo
-- Cuando la urgencia es **crítica**, el artefacto emite una **luz roja** de advertencia
-- Los símbolos centrales cambian según la urgencia: ⚡ (Baja) → ⚡⚡ (Media) → ⚡⚡⚡ (Alta) → 🔴 (Crítica)
+- Cuando quedan pocos segmentos, el artefacto emite una **luz roja** de advertencia
+- A **8/8** → **Llamada de los Dioses** → se abre la Torre
 
 ### **🎯 Mecánicas del Artefacto**
 
 **Funcionalidad:**
-- **Monitorea la urgencia del ritual** de Manshoon mediante indicadores visuales
-- **Actualiza automáticamente** cuando el ritual avanza (cambia símbolos/colores)
+- **Muestra el Reloj del Ritual de 8 segmentos** (motor único de la campaña)
+- **Se enciende un segmento** cada vez que el ritual avanza
 - **No puede ser manipulado** (está vinculado al flujo temporal verdadero)
 - **Visible para todos** (no requiere magia para verlo)
 
@@ -242,21 +241,20 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - Se convierte en un **punto de referencia** constante
 
 **Efectos en los PJ:**
-- **Transmite urgencia visual:** Ver el número aumentar crea tensión
+- **Transmite urgencia visual:** ver encenderse otro segmento crea tensión
 - **Fuerza decisiones:** "¿Enfrentamos a este lugarteniente o a ese? ¿Tenemos tiempo para ambos?"
-- **Crea presión narrativa:** Cada sesión que pasa, el número aumenta
+- **Crea presión narrativa:** cada arco de región consumido enciende un segmento más
 
-### **📈 Indicadores de Urgencia del Ritual (Referencia)**
+### **📈 Lectura del Contador (Reloj del Ritual)**
 
-| **Sesión** | **Urgencia** | **Estado** | **Efecto Visual** |
-|------------|--------------|------------|------------------|
-| 8-9 | Baja | Avanzando | Agujas se mueven lentamente, símbolo: ⚡ |
-| 10 | Media | ⚠️ Urgencia | Agujas aceleran ligeramente, símbolo: ⚡⚡ |
-| 11 | Alta | ⚠️ Urgencia | Fragmentos de aionita pulsan más rápido, símbolo: ⚡⚡⚡ |
-| 12 | Crítica | ⚠️⚠️ Crítico | Luz roja de advertencia, símbolo: 🔴 |
-| 13 | Crítica Extrema | ⚠️⚠️⚠️ Crítico | Luz roja intensa, agujas se mueven visiblemente, símbolo: 🔴🔴 |
-| 14 | Crítica Extrema | ⚠️⚠️⚠️ Crítico | Artefacto vibra, luz roja parpadea, símbolo: 🔴🔴🔴 |
-| 15 | Completado | **FINAL** | Artefacto se detiene - Símbolo final: 💀 |
+> **📖 Fuente única (qué avanza/frena el Reloj, hipo del Contador):** [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md). Esta tabla es solo la lectura visual; no repitas aquí porcentajes ni sesiones.
+
+| **Segmentos** | **Lectura** | **Efecto Visual** |
+|------------|--------------|------------------|
+| 2-3/8 | Empieza así; hay margen | Segmentos encendidos pocos, luz tenue |
+| 4-5/8 | Zona media — toca elegir | Aionita pulsa más rápido |
+| 6-7/8 | Zona crítica — casi completo | Luz roja de advertencia |
+| 8/8 | **Llamada de los Dioses** | Se abre la Torre (Fase 4) |
 
 ---
 
@@ -269,8 +267,8 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - Pueden explorar libremente sin presión temporal
 
 **Después del Contador:**
-- **Ven los símbolos cambiar** cada sesión (indicando mayor urgencia)
-- **Saben que el tiempo es limitado** antes de que el ritual se complete
+- **Ven encenderse segmentos** conforme exploran (indicando mayor urgencia)
+- **Saben que el tiempo es limitado** antes de que se encienda el octavo segmento
 - **Sienten la presión** de tomar decisiones rápidas
 
 ### **2. Fuerza Decisiones**
@@ -287,19 +285,19 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 **El Contador se convierte en:**
 - Un **recordatorio constante** de la amenaza
 - Un **elemento visual** que los PJ pueden consultar
-- Una **fuente de ansiedad** cuando el número aumenta
+- Una **fuente de ansiedad** cuando se enciende otro segmento
 
 **El DM puede usar el Contador para:**
-- Aumentar tensión: "El Contador ahora muestra tres rayos (⚡⚡⚡) - la urgencia es alta"
-- Crear urgencia: "Las agujas se mueven más rápido de lo normal, los fragmentos de aionita pulsan con más frecuencia"
-- Transmitir urgencia crítica: "El Contador ahora emite una luz roja de advertencia - el ritual está muy cerca de completarse"
-- Generar presión: "Solo queda 6% antes del final"
+- Aumentar tensión: "El Contador acaba de encender un quinto segmento"
+- Crear urgencia: "Los fragmentos de aionita pulsan con más frecuencia"
+- Transmitir urgencia crítica: "Quedan dos segmentos y la luz roja parpadea — el ritual está casi completo"
+- Mostrar un hipo: "El Contador parpadeó y retrocedió medio segmento... y vosotros no hicisteis nada" (alguien mató a un lugarteniente)
 
 ### **4. Unión de Facciones**
 
 **Este encuentro muestra:**
 - Que **facciones opuestas pueden trabajar juntas** cuando es necesario
-- Que la **amenaza de Manshoon es tan grande** que supera diferencias filosóficas
+- Que la **amenaza de Aethernus es tan grande** que supera diferencias filosóficas
 - Que los PJ pueden **facilitar alianzas** entre grupos normalmente hostiles
 
 ---
@@ -308,14 +306,12 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 
 ### **Cuándo Introducir el Encuentro:**
 
-**Opción A: Sesión 8 (Recomendado)**
-- Los PJ acaban de descubrir la primera sospecha sobre Manshoon
-- El ritual muestra urgencia media (símbolo: ⚡⚡)
+**Opción A (Recomendado): Reloj entrando en zona media (~4/8)**
+- Los PJ acaban de descubrir la primera sospecha sobre Aethernus
 - Es el momento perfecto para crear urgencia
 
-**Opción B: Sesión 9**
+**Opción B: Reloj algo más alto (~5/8)**
 - Los PJ han explorado más
-- El ritual muestra urgencia alta (símbolo: ⚡⚡⚡)
 - Puede ser una revelación más impactante
 
 ### **Cómo Presentar el Encuentro:**
@@ -327,10 +323,10 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 
 ### **Uso del Contador:**
 
-- **Menciona el número regularmente:** "Cuando regresáis a Cronópolis, el Contador muestra 92%"
-- **Actualiza visualmente:** Describe cómo las agujas se mueven
-- **Usa el Contador para crear presión:** "El Contador ahora muestra 95% - la luz roja parpadea"
-- **No abuses:** No menciones el Contador en cada escena, solo cuando sea relevante
+- **Menciona los segmentos al regresar:** "Cuando volvéis a Cronópolis, el Contador tiene seis segmentos encendidos"
+- **Actualiza visualmente:** describe el segmento que acaba de prenderse
+- **Usa el Contador para crear presión:** "Quedan dos segmentos y la luz roja parpadea"
+- **No abuses:** no menciones el Contador en cada escena, solo cuando sea relevante
 
 ### **Integración con la Campaña:**
 
@@ -343,11 +339,12 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 
 ## 🔗 **REFERENCIAS**
 
-- **[Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)** - Información sobre Aetherius y los Anacronistas
+- **[Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)** - Información sobre Galen y los Anacronistas
 - **[La Resistencia](../../02_Guia_DM/02_Facciones/02_La_Resistencia.md)** - Información sobre Balthar y La Resistencia
+- **[Motor de Campaña: Reloj y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** - Fuente única del Reloj del Ritual
 - **[Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timing del ritual
-- **[Tablas de Tracking](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** - Estado de lugartenientes y balance
-- **[Guía de la Fase 2](./00_Guia_General_Fase_2.md)** - Contexto de la sesión
+- **[Tablas de Tracking](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** - Estado de lugartenientes
+- **[Guía de la Fase 2](./00_Guia_General_Fase_2.md)** - Contexto de la fase
 
 ---
 
@@ -375,7 +372,7 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 **El Contador puede:**
 - **Acelerar** si los lugartenientes realizan acciones específicas
 - **Mostrar advertencias** cuando eventos críticos ocurren
-- **Emitir señales** cuando el ritual está cerca del 100%
+- **Emitir señales** cuando el ritual está cerca del 8º segmento
 - **Ser consultado** por otros NPCs para tomar decisiones
 
 ---

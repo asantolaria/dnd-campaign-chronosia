@@ -26,8 +26,7 @@ Medusa puede congelar el tiempo en estasis perfecta, petrificando no solo cuerpo
 ### **👁️ Apariencia**
 Una medusa gigante con serpientes de tiempo en lugar de cabello, ojos que brillan con la luz de estrellas congeladas, y una mirada que congela el tiempo mismo. Sus movimientos parecen congelados en el aire, y su presencia detiene el flujo temporal a su alrededor.
 
-### **💀 Efecto al Morir**
-Cuando Medusa muere (ya sea por los PJ o por otro lugarteniente), **El Jardín de los Tiempos Gemelos se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente: la estasis temporal cesa, los efectos de petrificación temporal se disipan, y la región recupera su estado natural sin las anomalías temporales que Medusa había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 

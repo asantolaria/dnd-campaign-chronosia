@@ -26,8 +26,7 @@ Tempus fue creado por fragmentos de tiempo perdido. Puede crear bucles temporale
 ### **👁️ Apariencia**
 Un constructo de metal y cristal que pulsa con energía temporal, con engranajes de tiempo visibles en su interior y ojos que muestran múltiples momentos simultáneamente. Su cuerpo parece estar compuesto de fragmentos de diferentes épocas, todos unidos en una forma mecánica.
 
-### **💀 Efecto al Morir**
-Cuando Tempus muere (ya sea por los PJ o por otro lugarteniente), **Las Ruinas del Tiempo Perdido se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente: los bucles temporales se disipan, las secuencias programadas cesan, y la región recupera su estado natural sin las anomalías temporales que Tempus había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 

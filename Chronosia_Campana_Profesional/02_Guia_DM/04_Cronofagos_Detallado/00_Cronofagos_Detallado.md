@@ -1,908 +1,171 @@
-# ⚔️ Los Cronófagos - Devoradores del Tiempo y el Espacio
+# ⚔️ Los Cronófagos — Devoradores del Tiempo y el Espacio
 ## *La Fuerza Militar de Aethernus Valcarys*
 
----
-
-## 📋 **ÍNDICE DE NAVEGACIÓN**
-
-> **⚔️ STATBLOCKS COMPLETOS:** Este documento contiene información narrativa completa. Para statblocks completos en formato D&D 5e, consulta los archivos individuales en este mismo directorio (ver sección "Índice de Statblocks" más abajo).
-
----
-
-## 📚 **ÍNDICE DE STATBLOCKS COMPLETOS**
-
-> **📖 GUÍA DE REFERENCIA RÁPIDA:** Cada lugarteniente tiene su propio archivo con statblock completo en formato D&D 5e, incluyendo AC, HP, atributos, salvaciones, habilidades, acciones, acciones legendarias, tácticas de combate y efectos al morir.
-
-### **⏰ LUGARTENIENTES TEMPORALES** (Poder de Amaunator)
-
-1. **[01_Serapis_El_Retroceso.md](./01_Serapis_El_Retroceso.md)** - Elfo Eterno
-   - Nivel Recomendado: 4-5 | CR: 5
-   - Región: La Espiral Inversa | Estado: 🔓 Desbloqueada
-
-2. **[02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md)** - Orco (El Oráculo)
-   - Nivel Recomendado: 7-8 | CR: 9
-   - Región: El Abismo de los Posibles | Estado: 🔒 Bloqueada
-   - Nota: Neutral, puede aliarse con los PJ
-
-3. **[03_Lord_Vorthak_El_Sediento_Eterno.md](./03_Lord_Vorthak_El_Sediento_Eterno.md)** - Vampiro Ancestral
-   - Nivel Recomendado: 9 | CR: 12 (ápice)
-   - Región: La Mansión de la Sed Eterna | Estado: 🔒 Bloqueada
-   - Nota: Líder del Bando Temporal
-
-4. **[10_Medusa_La_Eterna.md](./10_Medusa_La_Eterna.md)** - Medusa Ancestral
-   - Nivel Recomendado: 5-6 | CR: 7
-   - Región: El Jardín de los Tiempos Gemelos | Estado: 🔒 Bloqueada
-
-5. **[11_Tempus_El_Fragmentado.md](./11_Tempus_El_Fragmentado.md)** - Constructo Temporal
-   - Nivel Recomendado: 6-7 | CR: 8
-   - Región: Las Ruinas del Tiempo Perdido | Estado: 🔒 Bloqueada
+> **Este archivo es el ÍNDICE MAESTRO de los lugartenientes.** Cada ficha individual (`01`–`12`) contiene el statblock completo, las acciones legendarias actualizadas, las tácticas y el efecto al morir. Aquí solo encontrarás el resumen y los enlaces; **no se reproducen statblocks** (vivían aquí desactualizados).
+>
+> - Motor de campaña (Reloj y Puertas): [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md)
+> - Bestiario regional (villanos menores y bestias firma por región): [../../05_Apendices/Bestiario_Regional/00_Indice_Bestiario_Regional.md](../../05_Apendices/Bestiario_Regional/00_Indice_Bestiario_Regional.md)
+> - Tropas cronófagas genéricas y facciones: [../../05_Apendices/17_Monstruos_Enemigos.md](../../05_Apendices/17_Monstruos_Enemigos.md)
 
 ---
 
-### **🌌 LUGARTENIENTES DIMENSIONALES** (Poder de Voidar)
+## 📚 ÍNDICE DE FICHAS
 
-6. **[04_Edward_Teach_Barbanegra.md](./04_Edward_Teach_Barbanegra.md)** - Humano Pirata
-   - Nivel Recomendado: 8-9 (villano recurrente) | CR: 11
-   - Región: Archipiélago de Barbanegra | Estado: 🔓 Desbloqueada (Sesión 6+)
-   - Nota: Independiente, punto ciego para Varrak, **INFORMACIÓN ULTRA-SECRETA**
+### ⏰ Lugartenientes Temporales (Poder de Amaunator)
 
-7. **[05_Dimensionalis_La_Fracturada.md](./05_Dimensionalis_La_Fracturada.md)** - Tiefling
-   - Nivel Recomendado: 7-8 | CR: 9
-   - Región: Las Llanuras de la Compresión | Estado: 🔒 Bloqueada
-   - Nota: Independiente
+| Ficha | Lugarteniente | Raza | CR | Nivel PJ | Región | Acceso |
+|---|---|---|---|---|---|---|
+| [01](./01_Serapis_El_Retroceso.md) | **Serapis el Retroceso** | Elfo Eterno | 5 | 4-5 | La Espiral Inversa | 🔓 |
+| [02](./02_Varrak_El_Oraculo.md) | **Varrak el Oráculo** | Orco | 9 | 7-8 | El Abismo de los Posibles | 🔒 · neutral/aliable |
+| [03](./03_Lord_Vorthak_El_Sediento_Eterno.md) | **Lord Vorthak** | Vampiro Ancestral | 12 | 9 | La Mansión de la Sed Eterna | 🔒 · **líder temporal** |
+| [10](./10_Medusa_La_Eterna.md) | **Medusa la Eterna** | Medusa Ancestral | 7 | 5-6 | El Jardín de los Tiempos Gemelos | 🔒 |
+| [11](./11_Tempus_El_Fragmentado.md) | **Tempus el Fragmentado** | Constructo Temporal | 8 | 6-7 | Las Ruinas del Tiempo Perdido | 🔒 |
 
-8. **[06_Ignis_El_Devorador_Espacial.md](./06_Ignis_El_Devorador_Espacial.md)** - Dragón Rojo Ancestral
-   - Nivel Recomendado: 9-10 | CR: 13 (ápice)
-   - Región: Las Calderas Dimensionales | Estado: 🔒 Bloqueada
-   - Nota: Líder del Bando Dimensional
+### 🌌 Lugartenientes Dimensionales (Poder de Voidar)
 
-9. **[07_Matrona_Veldrisza_La_Tejedora_Dimensional.md](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md)** - Drow Matrona
-   - Nivel Recomendado: 8-9 | CR: 11
-   - Región: La Ciudad Subterránea de Veldrisza | Estado: 🔒 Bloqueada
-   - Nota: Bando Dimensional
+| Ficha | Lugarteniente | Raza | CR | Nivel PJ | Región | Acceso |
+|---|---|---|---|---|---|---|
+| [04](./04_Edward_Teach_Barbanegra.md) | **Edward Teach "Barbanegra"** | Humano Pirata | 11 | 8-9 | Archipiélago de Barbanegra | 🔒 Motor de Viento · **villano final alternativo · ULTRA-SECRETO** |
+| [05](./05_Dimensionalis_La_Fracturada.md) | **Dimensionalis la Fracturada** | Tiefling | 9 | 7-8 | Las Llanuras de la Compresión | 🔒 |
+| [06](./06_Ignis_El_Devorador_Espacial.md) | **Ignis el Devorador** | Dragón Rojo Ancestral | 13 | 9-10 | Las Calderas Dimensionales | 🔒 · **líder dimensional** |
+| [07](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md) | **Matrona Veldrisza** | Drow Matrona | 11 | 8-9 | La Ciudad Subterránea de Veldrisza | 🔒 |
+| [08](./08_Las_Gemelas_Del_Espejo.md) | **Las Gemelas del Espejo** (Lyra y Nyx) | Humanas Gemelas | 8 (juntas) | 6-7 | El Jardín de los Tiempos Gemelos | 🔒 · neutrales/aliables |
+| [09](./09_Ymir_El_Eterno_Invierno.md) | **Ymir el Eterno Invierno** | Elemental de Hielo Ancestral | 8 | 6-7 | Glacialis | 🔓 · **reclutador interplanar** |
 
-10. **[08_Las_Gemelas_Del_Espejo.md](./08_Las_Gemelas_Del_Espejo.md)** - Humanas Gemelas
-    - Nivel Recomendado: 6-7 | CR: 8 (ambas juntas)
-    - Región: El Jardín de los Tiempos Gemelos | Estado: 🔒 Bloqueada
-    - Nota: Neutrales, pueden aliarse con los PJ
+### 👑 BBEG
 
-11. **[09_Ymir_El_Eterno_Invierno.md](./09_Ymir_El_Eterno_Invierno.md)** - Elemental de Hielo Ancestral
-    - Nivel Recomendado: 6-7 | CR: 8
-    - Región: Glacialis | Estado: 🔓 Desbloqueada
-    - **⚠️ FUNCIÓN CRÍTICA:** Reclutador Interplanar - Mantiene la red de portales que trae suministros y criaturas de otros planos
+| Ficha | Personaje | Raza | CR | Nivel PJ | Región | Acceso |
+|---|---|---|---|---|---|---|
+| [12](./12_Aethernus_Valcarys_Manshoon.md) | **Aethernus Valcarys** (Manshoon Clon #47) | Humano | 13-14 (por fases) | 10 (Clímax) | Torre de la Eternidad | 🔒 Reloj a 8 → Llamada de los Dioses · **ULTRA-SECRETO** |
 
----
+### ⚰️ Caída
 
-### **👑 LÍDER SUPREMO**
+- **Thyra la Suspendida** (Humana, Temporal) — asesinada por Edward Teach (hito 4 de la Cronología de Barbanegra). Su poder de estasis temporal pasó a Teach; el Valle de la Aguja se restauró. No tiene ficha de combate: es un evento fijo. Ver [Edward Teach](./04_Edward_Teach_Barbanegra.md) y el [motor de campaña](../10_Motor_de_Campana_Reloj_y_Puertas.md).
 
-12. **[12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md)** - Humano (Clone de Manshoon #47)
-    - Nivel Recomendado: 10 (Clímax) | CR: 13-14 (por fases)
-    - Región: Torre de la Eternidad | Estado: 🔒 Bloqueada (Clímax, nivel 10)
-    - Nota: **INFORMACIÓN ULTRA-SECRETA** sobre su verdadero plan
+### ⚔️ Tropas y ejércitos
+
+- [13_Soldados_y_Ejercitos_Regionales.md](./13_Soldados_y_Ejercitos_Regionales.md) — soldados únicos por región (dos tipos: lugartenientes con conexiones planares que invocan criaturas; y lugartenientes que entrenan y otorgan poderes únicos).
+- Statblocks de tropa genérica (tropa, sargentos, oficiales, lanzadores): [../../05_Apendices/17_Monstruos_Enemigos.md](../../05_Apendices/17_Monstruos_Enemigos.md).
 
 ---
 
-### **⚔️ SOLDADOS Y EJÉRCITOS REGIONALES**
+## 🎯 CÓMO USAR ESTE DOSIER
 
-13. **[13_Soldados_y_Ejercitos_Regionales.md](./13_Soldados_y_Ejercitos_Regionales.md)** - Sistema de Soldados Únicos por Región
-    - **Tipo 1**: Lugartenientes con Conexiones Planares (Veldrisza, Ignis) - Invocan criaturas de otros planos
-    - **Tipo 2**: Lugartenientes que Crean Soldados (resto) - Entrenan y otorgan poderes únicos
-    - **Contenido**: Habilidades únicas por región, poderes otorgados, diferencias entre soldados
-    - **Nota**: Cada región tiene soldados distintos porque cada lugarteniente otorga poderes diferentes
+- **Statblocks de combate** (AC, PV, atributos, acciones, **acciones legendarias**, tácticas, efecto al morir): en cada ficha individual. **Es la fuente actualizada; no la dupliques.**
+- **Acciones legendarias:** cada lugarteniente tiene un número FIJO por ronda definido en su ficha (estándar 5e: ápice 3/ronda, medios 2/ronda, menores 0-2). No hay escalado dinámico por nivel de PJ.
+- **Efecto al morir:** cuando un lugarteniente muere (por los PJ o por otro lugarteniente), su región se restaura: las distorsiones desaparecen gradualmente (1d4 horas). Detalle por región en cada ficha. **Excepción forense:** si fue **Teach** quien lo interceptó con el Talismán, el poder NO se dispersa y la región NO se restaura (ver "el hipo del Contador" en el [motor de campaña](../10_Motor_de_Campana_Reloj_y_Puertas.md)).
+- **Reloj del Ritual:** los PJ no pueden enfrentarlos a todos; la cuenta atrás avanza mientras exploran y deben elegir. A los que no alcancen, los **absorbe Teach** (él crece, no ellos). Ver el [motor de campaña](../10_Motor_de_Campana_Reloj_y_Puertas.md).
+- **Información ULTRA-SECRETA:** Edward Teach y Aethernus la guardan; los PJ deben descubrirla gradualmente (ver sus fichas).
 
----
-
-### **📊 RESUMEN ESTADÍSTICO**
-
-- **Lugartenientes Activos (Post-Thyra):** 11
-  - Temporales: 5 (Serapis, Varrak, Vorthak, Medusa, Tempus)
-  - Dimensionales: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
-- **Lugartenientes Caídos:** 1 (Thyra la Suspendida)
-- **Líder:** 1 (Aethernus Valcarys)
-- **Total:** 12 lugartenientes + 1 líder supremo
+**📖 Sistema de anillos de poder de los lugartenientes:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)
+**📖 Regiones y distribución geográfica:** [08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
 ---
 
-### **🎯 GUÍA DE USO**
+## 👑 AETHERNUS VALCARYS Y SUS LUGARTENIENTES
 
-**Para el DM:**
-1. **Información Narrativa:** Consulta este documento para descripciones, poderes, apariencia y acciones legendarias
-2. **Statblocks de Combate:** Consulta los archivos individuales para statblocks completos en formato D&D 5e
-3. **Tácticas:** Cada archivo incluye tácticas de combate específicas para ese lugarteniente
+**Aethernus Valcarys** (Manshoon Clon #47) es el **BBEG**, recluido en la Torre de la Eternidad ejecutando el ritual de ascensión divina. Sus **lugartenientes** —doce seres deformados por la exposición al poder de los dioses en conflicto: seis con fragmentos temporales de Amaunator y seis con fragmentos espaciales de Voidar— mantienen la expansión de los Cronófagos mientras él se aísla.
 
-**Estructura de Cada Archivo Individual:**
-- Información general (raza, tipo, región, nivel recomendado)
-- Statblock completo (AC, PV, atributos, salvaciones, habilidades)
-- Rasgos especiales
-- Acciones estándar
-- Acciones legendarias (tabla completa)
-- Tácticas de combate
-- Efecto al morir (restauración de la región a la normalidad)
+> **⚠️ Estado actual:** tras el asesinato de Thyra por Edward Teach, quedan **11 lugartenientes activos**. La competencia entre ellos (cada uno descubre que puede robar el poder de otro, como hizo Teach) es sabor de sandbox; la **escalada real la encarna Teach**, que absorbe a los que los PJ no alcanzan. No existe ya un sistema de "Ascensión del Cónclave" ni de "Lugartenientes Supremos": esa función la cubre Teach y el Reloj.
 
-**⚠️ NOTAS IMPORTANTES:**
-- **Acciones Legendarias:** Cada lugarteniente tiene un número FIJO de acciones legendarias por ronda definido en su propio statblock (estándar 5e: los ápice 3/ronda, los medios 2/ronda, los menores 0-2). Los detalles completos están en cada archivo individual
-- **Reloj del Ritual:** Los PJ no pueden enfrentarlos a todos; la cuenta atrás del ritual avanza mientras exploran. Ver [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md)
-- **Efectos al Morir:** ⚠️ **IMPORTANTE:** Cuando un lugarteniente muere (ya sea por los PJ o por otro lugarteniente), su región se restaura completamente a la normalidad. Todas las distorsiones temporales o dimensionales causadas por su poder desaparecen gradualmente en 1d4 horas, eliminando las disfunciones y volviendo la región a un estado normal sin anomalías. Este efecto aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-- **Información Ultra-Secreta:** Edward Teach y Aethernus tienen información crítica marcada como "ULTRA-SECRETA"
+**Bandos** (variables según alianzas):
+- ⏰ **Temporal** — liderado por Lord Vorthak.
+- 🌌 **Dimensional** — liderado por Ignis.
+- 🏴‍☠️ **Independientes** — Edward Teach, Dimensionalis y otros.
+- 🟡 **Neutrales / aliables** — Varrak, Las Gemelas y otros (deciden en Fase 3).
+
+**⚠️ Sacrificio de Varrak:** con el Reloj en zona crítica (≥6/8) y si Varrak es aliado, se ofrece: su harakiri ritual **retrocede el Reloj 1 segmento** y alimenta el funeral de Marcus. Ya no se dispara por "desbalance", sino por la relación construida y la cuenta atrás. Ver [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md).
 
 ---
 
-### **🏛️ Estructura y Jerarquía**
-- [Estructura Jerárquica](#-estructura-jerárquica-simplificada)
-- [Especializaciones](#-especializaciones-de-cronófagos)
-- [Signos de Distorsión](#-signos-de-distorsión)
-- [Sistema de Recompensas](#-sistema-de-recompensas-de-los-lugartenientes)
+## 🎭 ESPECIALIZACIONES DE CRONÓFAGOS
 
-### **👑 Liderazgo**
-- [Aethernus Valcarys](#-aethernus-valcarys-manshoon-clone-47)
-  - **Statblock:** [12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md)
+**⚠️ Importante:** los soldados de cada región son **únicos** porque cada lugarteniente otorga poderes diferentes. Ver [13_Soldados_y_Ejercitos_Regionales.md](./13_Soldados_y_Ejercitos_Regionales.md).
 
-### **⚔️ Los Lugartenientes del Cónclave**
-- [Lugartenientes Temporales](#-lugartenientes-temporales-poder-de-amaunator)
-  - **Statblocks:** [01_Serapis](./01_Serapis_El_Retroceso.md), [02_Varrak](./02_Varrak_El_Oraculo.md), [03_Vorthak](./03_Lord_Vorthak_El_Sediento_Eterno.md), [10_Medusa](./10_Medusa_La_Eterna.md), [11_Tempus](./11_Tempus_El_Fragmentado.md)
-- [Lugartenientes Dimensionales](#-lugartenientes-dimensionales-poder-de-voidar)
-  - **Statblocks:** [04_Edward_Teach](./04_Edward_Teach_Barbanegra.md), [05_Dimensionalis](./05_Dimensionalis_La_Fracturada.md), [06_Ignis](./06_Ignis_El_Devorador_Espacial.md), [07_Veldrisza](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md), [08_Las_Gemelas](./08_Las_Gemelas_Del_Espejo.md), [09_Ymir](./09_Ymir_El_Eterno_Invierno.md)
-- [Sistema de Acciones Legendarias](#-sistema-de-acciones-legendarias)
+- **Lugartenientes con conexiones planares** (Veldrisza, Ignis): invocan criaturas de otros planos (drow, dragones, elementales).
+- **Lugartenientes que crean soldados** (resto): entrenan y otorgan poderes únicos a sus seguidores.
 
-### **🎭 Apariencia y Equipamiento**
-- [Apariencia por Rango](#-apariencia-visual-por-rango-jerárquico)
-- [Tácticas Militares](#-tácticas-militares-distorsionadas)
-- [Equipamiento Militar](#-equipamiento-militar-distorsionado)
-- [Bases de Operaciones](#-bases-de-operaciones)
+### ⏰ Cronófagos Temporales
+*Especialistas en manipulación del tiempo.* Poderes: alteración temporal, rejuvenecimiento/envejecimiento, portales temporales. Efectos: espadas que se oxidan 50 años, heridas que sangran como si hubieran pasado semanas. Apariencia: ojos que cambian de color según la hora, manos que tiemblan como ancianos. Distorsiones: envejecimiento aleatorio, recuerdos mezclados de distintas épocas.
+
+### 🌌 Cronófagos Dimensionales
+*Especialistas en manipulación del espacio.* Poderes: manipulación espacial, compresión/expansión, portales dimensionales. Efectos: distancias que se comprimen, direcciones que se invierten. Apariencia: partes del cuerpo transparentes, voces desde múltiples direcciones. Distorsiones: transparencia parcial, movimientos imposibles, cuerpos que se estiran/comprimen.
+
+### ⚔️ Cronófagos Combinados
+*Especialistas en ambas distorsiones.* Manipulación espacio-temporal combinada, con efectos superpuestos de tiempo y espacio.
 
 ---
 
-## ⚔️ **LOS CRONÓFAGOS - DEVORADORES DEL TIEMPO Y EL ESPACIO**
-
-### **📊 ESTRUCTURA JERÁRQUICA SIMPLIFICADA**
-
-#### **👑 LIDERAZGO**
-- **Aethernus Valcarys** (Manshoon Clone #47) - Líder del Cónclave
-
-#### **👑 LUGARTENIENTES DEL CÓNCLAVE (12 total, 11 activos)**
-- **6 Lugartenientes Temporales** (5 activos + 1 caído) - Maestros de distorsiones temporales
-- **6 Lugartenientes Dimensionales** (6 activos) - Maestros de distorsiones espaciales
-- **1 Caído**: Thyra la Suspendida (asesinada por Edward Teach)
-
-#### **🎖️ OFICIALES CRONÓFAGOS**
-- **Oficiales Temporales** - Comandantes del Tiempo
-- **Oficiales Dimensionales** - Comandantes del Espacio
-
-#### **🛡️ SARGENTOS CRONÓFAGOS**
-- **Sargentos Temporales** - Suboficiales del Tiempo
-- **Sargentos Dimensionales** - Suboficiales del Espacio
-
-#### **⚡ TROPA**
-- **Cronófagos Luchadores** - Tropa de Combate
-
----
-
-### **🎭 ESPECIALIZACIONES DE CRONÓFAGOS**
-
-**⚠️ IMPORTANTE:** Los soldados de cada región son **ÚNICOS** porque cada lugarteniente otorga poderes diferentes. Ver [13_Soldados_y_Ejercitos_Regionales.md](./13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
-
-**🔮 Dos Tipos de Lugartenientes:**
-- **Lugartenientes con Conexiones Planares** (Veldrisza, Ignis): Invocan criaturas de otros planos (drow, dragones, elementales)
-- **Lugartenientes que Crean Soldados** (resto): Entrenan y otorgan poderes únicos a sus seguidores
-
-#### **⏰ CRONÓFAGOS TEMPORALES**
-*Especialistas en manipulación del tiempo*
-
-- **Poderes**: Alteración temporal, rejuvenecimiento/envejecimiento, portales temporales
-- **Efectos**: Espadas que se oxidan 50 años, heridas que sangran como si hubieran pasado semanas
-- **Apariencia**: Ojos que cambian de color según la hora, manos que tiemblan como ancianos
-- **Distorsiones**: Envejecimiento aleatorio, recuerdos mezclados de diferentes épocas
-- **Soldados Únicos**: Cada lugarteniente temporal otorga habilidades específicas (ej: Serapis otorga reversión temporal, Varrak otorga predicción, Vorthak otorga drenaje de vida)
-
-#### **🌌 CRONÓFAGOS DIMENSIONALES**
-*Especialistas en manipulación del espacio*
-
-- **Poderes**: Manipulación espacial, compresión/expansión, portales dimensionales
-- **Efectos**: Distancias que se comprimen, direcciones que se invierten
-- **Apariencia**: Partes del cuerpo transparentes, voces desde múltiples direcciones
-- **Distorsiones**: Transparencia parcial, movimientos imposibles, cuerpos que se estiran/comprimen
-- **Soldados Únicos**: Cada lugarteniente dimensional otorga habilidades específicas (ej: Edward Teach otorga estasis + portales, Dimensionalis otorga fracturación dimensional)
-
-#### **⚔️ CRONÓFAGOS COMBINADOS**
-*Especialistas en ambas distorsiones*
-
-- **Poderes**: Manipulación espacio-temporal combinada
-- **Efectos**: Distorsiones temporales y espaciales simultáneas
-- **Apariencia**: Combinación de ambos tipos de distorsión
-- **Distorsiones**: Efectos superpuestos de tiempo y espacio
-- **Soldados Únicos**: Algunos lugartenientes pueden otorgar poderes combinados (ej: Edward Teach combina estasis temporal con portales dimensionales)
-
----
-
-### **🔮 SIGNOS DE DISTORSIÓN**
+## 🔮 SIGNOS DE DISTORSIÓN
 
 Los Cronófagos muestran signos visibles de su exposición a las distorsiones temporales y/o espaciales:
 
-#### **⏰ Distorsiones Temporales:**
-- **Envejecimiento Aleatorio**: Un brazo o una pierna es mucho más viejo que el resto del cuerpo y los elementos que están en contacto como la ropa y complementos también se ven mucho más viejos.
-- **Voces Cambiantes**: Voces que se oyen a la vez saliendo de la misma voca que parecen de una persona joven y vieja a la vez.
-
-#### **🌌 Distorsiones Espaciales:**
-- **Transparencia Parcial**: Partes del cuerpo completamente transparentes
-- **Cuerpos asimétricos**: Dos manos derechas, dos pies izquierdos, etc.
-
-#### **⚔️ Distorsiones Combinadas:**
-- **Efectos Superpuestos**: Un tercer ojo
-- **Poderes Únicos**: Invisibilidad total a pesar de que llevan uniforme
-- **Visión de Oráculo**: Sus ojos ven el futuro próximo o los elementos movidos a otros planos temporalmente.
+- **Temporales:** *Envejecimiento aleatorio* (un brazo o pierna mucho más viejo que el resto del cuerpo, junto con la ropa y complementos en contacto); *voces cambiantes* (una misma boca emite a la vez una voz joven y otra vieja).
+- **Espaciales:** *transparencia parcial* (partes del cuerpo completamente transparentes); *cuerpos asimétricos* (dos manos derechas, dos pies izquierdos, etc.).
+- **Combinadas:** *efectos superpuestos* (un tercer ojo); *poderes únicos* (invisibilidad total pese a llevar uniforme); *visión de oráculo* (ojos que ven el futuro próximo o los elementos movidos a otros planos temporalmente).
 
 ---
 
-### **🎁 SISTEMA DE RECOMPENSAS DE LOS LUGARTENIENTES**
+## 🎁 RECOMPENSAS DE LOS LUGARTENIENTES
 
-Los lugartenientes del Cónclave premian a sus súbditos con fragmentos del poder divino:
+Los lugartenientes premian a sus súbditos con fragmentos del poder divino:
 
-#### **⏰ Recompensas Temporales (de Amaunator):**
-- **Poder Temporal Divino**: Fragmentos del poder de Amaunator que otorgan habilidades temporales
-- **Longevidad Extendida**: Años de vida adicionales o rejuvenecimiento
-- **Resistencia Temporal**: Inmunidad parcial a los efectos de distorsión temporal
-- **Conocimiento Temporal**: Secretos sobre la manipulación del tiempo
+- **Temporales (de Amaunator):** poder temporal divino, longevidad extendida/rejuvenecimiento, resistencia parcial a la distorsión temporal, secretos sobre la manipulación del tiempo.
+- **Espaciales (de Voidar):** poder espacial divino, trascendencia dimensional, resistencia parcial a la distorsión espacial, secretos sobre la manipulación del espacio.
+- **Generales:** ascenso de rango (hasta lugarteniente), poder combinado de ambos dioses, extensión de vida y poderes únicos según especialización.
 
-#### **🌌 Recompensas Espaciales (de Voidar):**
-- **Poder Espacial Divino**: Fragmentos del poder de Voidar que otorgan habilidades espaciales
-- **Trascendencia Dimensional**: Capacidad de moverse entre dimensiones
-- **Resistencia Espacial**: Inmunidad parcial a los efectos de distorsión espacial
-- **Conocimiento Dimensional**: Secretos sobre la manipulación del espacio
-
-#### **⚔️ Recompensas Generales:**
-- **Ascenso de Rango**: Oportunidad de convertirse en lugarteniente
-- **Poder Combinado**: Algunos súbditos reciben fragmentos de ambos dioses
-- **Inmortalidad Parcial**: Extensión de vida a través del poder divino
-- **Poderes Únicos**: Capacidades específicas según su especialización
-
-Estas recompensas mantienen a los Cronófagos leales y motivados para servir a sus amos.
+Estas recompensas mantienen a los Cronófagos leales y motivados.
 
 ---
 
-## 👑 **AETHERNUS VALCARYS (Manshoon Clone #47)**
-*El maestro de todos los cronófagos - La verdadera identidad revelada*
+## 🎭 APARIENCIA VISUAL POR RANGO JERÁRQUICO
 
-- **Raza**: Humano (Clone de Manshoon #47)
-- **Tipo**: Temporal + Dimensional (Poder de Amaunator y Voidar)
-- **Rol**: Líder del Cónclave
-- **Región**: Torre de la Eternidad
-- **⚔️ Ficha Completa:** [12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md) (Incluye **INFORMACIÓN ULTRA-SECRETA** sobre su verdadero plan, apariencia completa, poderes únicos y descripción narrativa detallada)
+### ⚔️ Tropa Cronófaga (soldados rasos)
+- **Uniforme:** túnica militar roja con correajes de cuero cruzados, armadura de placas en los brazos, placas desgastadas, bolsillos tácticos, botones dorados que brillan tenuemente.
+- **Armamento:** dos espadas cortas gemelas de guardia recta, hojas que "cambian de era" en combate, fuerza física descomunal.
+- **Máscara:** de pico dorada estilo peste negra, con lentes circulares oscuros; oculta rostros infantiles que contrastan con cuerpos adultos.
+- **Accesorios:** bandera púrpura oscura con emblema de reloj de arena, casco de acero mate. Sin corona, sin bastón.
+- **Distintivo:** rostros de niños tras la máscara sobre cuerpos de guerreros adultos — contraste inquietante.
 
----
+### 🛡️ Sargentos Cronófagos (suboficiales)
+- **Uniforme:** túnica azul, armadura de placas en brazos y placa en el corazón, mismos correajes y botones dorados.
+- **Armamento:** bombas de abrojos, hojas dobles unidas por la empuñadura, collar de canalización arcana (serpiente infinita mordiéndose la cola), bastón de mando con cabeza de serpiente.
+- **Máscara:** de pico dorada con detalles plateados; casco de acero tipo *pickelhaube* (con pincho).
+- **Accesorios:** bandera púrpura, insignias de sargento. **Objetos mágicos:** bombas de poder temporal/dimensional; relojes de arena con arena ascendente (su flujo indica la intensidad de magia dimensional/temporal en la zona).
 
-## ⏰🌌 **LOS LUGARTENIENTES DEL CÓNCLAVE**
+### 🎖️ Oficiales Cronófagos (comandantes)
+- **Uniforme:** túnica púrpura, armadura de placas que cubre torso, brazos y piernas.
+- **Armamento:** bastón de duelo (cambia de espada larga a bastón mágico al instante), hojas que cambian de era, canalización arcana.
+- **Máscara:** sin máscara — rostro distorsionado por el tiempo (mitades de distinta edad), lentes oscuros sobre la gorra.
+- **Accesorios:** gorra de plato militar (estilo soviético), tatuaje de la serpiente infinita en la mano, insignias de oficial.
 
-Un consejo originalmente de doce seres de distintas razas, cada uno deformado por su exposición al poder de los dioses en conflicto. Seis recibieron fragmentos del poder temporal de Amaunator, mientras que otros seis absorbieron fragmentos del poder espacial de Voidar.
-
-**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **11 lugartenientes activos** en la campaña. A los lugartenientes que los PJ no alcancen a tiempo los **absorbe Edward Teach** con el Talismán: él crece, no ellos. Ver [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md).
-
-**📖 Ver sistema de anillos de poder:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)
-
-### **⚔️ Sistema de Acciones Legendarias (Aplicable a Todos los Lugartenientes):**
-
-Cada lugarteniente tiene un número **FIJO** de acciones legendarias por ronda, definido en su propio statblock siguiendo el estándar de D&D 5e. No existe escalado dinámico según el nivel de los PJ: el número es el mismo en cada combate y depende únicamente del rango del lugarteniente.
-
-- **Lugartenientes ápice** (Vorthak, Ignis, Aethernus): **3 acciones legendarias por ronda**
-- **Lugartenientes medios** (Varrak, Dimensionalis, Veldrisza, Medusa, Tempus, Ymir, Gemelas, Serapis, Teach): **2 acciones legendarias por ronda**
-- **Lugartenientes menores / esbirros**: **0-2 acciones legendarias por ronda**
-
-**🎯 Consideraciones de Balance:**
-- Las acciones legendarias se gastan **al final del turno de otra criatura** y se recargan al inicio del turno del lugarteniente (estándar 5e)
-- El número es fijo: consulta el statblock individual para el valor exacto de cada lugarteniente
-- Algunas acciones cuestan más de una acción legendaria, limitando cuántas puede encadenar por ronda
-
-**📖 Ver información completa de regiones y distribución geográfica:** [08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
-
-### **📊 RESUMEN RÁPIDO DE LUGARTENIENTES**
-
-| **#**  | **Nombre**                                      | **Raza**                      | **Tipo**    | **Poder Principal**                          | **Región**                         | **Estado de Acceso** |
-| ------ | ----------------------------------------------- | ----------------------------- | ----------- | -------------------------------------------- | ---------------------------------- | -------------------- |
-| **1**  | **Serapis el Retroceso**                        | Elfo Eterno                   | Temporal    | Reversión Temporal                           | La Espiral Inversa                 | 🔓 **Desbloqueada**  |
-| **2**  | **Thyra la Suspendida**                         | Humana                        | Temporal    | Tiempo Detenido                              | Valle de la Aguja Suspendida       | 🔒 **Bloqueada**     |
-| **3**  | **Varrak del Horizonte**                        | Orco                          | Temporal    | Fragmentación Temporal                       | El Abismo de los Posibles          | 🔒 **Bloqueada**     |
-| **4**  | **Lord Vorthak "El Sediento Eterno"**           | Vampiro Ancestral             | Temporal    | Drenaje de Vida Temporal                     | La Mansión de la Sed Eterna        | 🔒 **Bloqueada**     |
-| **5**  | **Medusa la Eterna**                            | Medusa Ancestral              | Temporal    | Estasis Temporal                             | El Jardín de los Tiempos Gemelos   | 🔒 **Bloqueada**     |
-| **6**  | **Tempus el Fragmentado**                       | Constructo Temporal           | Temporal    | Bucles Temporales                            | Las Ruinas del Tiempo Perdido      | 🔒 **Bloqueada**     |
-| **7**  | **Edward Teach "Barbanegra"**                   | Humano Pirata                 | Dimensional | Poder Robado (Variable)                      | Archipiélago de Barbanegra         | 🔓 **Desbloqueada**  |
-| **8**  | **Dimensionalis la Fracturada**                 | Tiefling                      | Dimensional | Compresión Espacial                          | Las Llanuras de la Compresión      | 🔒 **Bloqueada**     |
-| **9**  | **Ignis el Devorador Espacial**                 | Dragón Rojo Ancestral         | Dimensional | Portales de Fuego Dimensional                | Las Calderas Dimensionales         | 🔒 **Bloqueada**     |
-| **10** | **Matrona Veldrisza "La Tejedora Dimensional"** | Drow Matrona                  | Dimensional | Redes Espaciales y Portales a Menzoberranzan | La Ciudad Subterránea de Veldrisza | 🔒 **Bloqueada**     |
-| **11** | **Las Gemelas del Espejo - Lyra y Nyx**         | Humanas Gemelas Dimensionales | Dimensional | Dimensión Espejo y Reflejos Invertidos       | El Jardín de los Tiempos Gemelos   | 🔒 **Bloqueada**     |
-| **12** | **Ymir el Eterno Invierno**                     | Elemental de Hielo Ancestral  | Dimensional | Control Espacial a través del Hielo          | Glacialis                          | 🔓 **Desbloqueada**  |
-
-**📖 Ver información completa de bloqueos y sistemas de acceso:** [08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
-
-### **📈 RESUMEN ESTADÍSTICO**
-
-**⚠️ ESTADO POST-ASESINATO DE THYRA:**
-- **Total Activo**: 11 (1 Líder + 11 Lugartenientes)
-- **Lugartenientes Temporales Activos**: 5 (Serapis, Vorthak, Varrak, Medusa, Tempus)
-- **Lugartenientes Dimensionales Activos**: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
-- **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
-- **Razas Representadas**: 9 diferentes
-- **Regiones Activas**: 10 (1 caída, 9 explorables)
-- **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis, Cronópolis)
-- **Regiones Bloqueadas**: 7
-- **Valle de la Aguja Suspendida**: ⚰️ Bloqueada permanentemente tras la muerte de Thyra
-
-**👑 LA GUERRA CIVIL ENTRE LUGARTENIENTES:**
-
-El asesinato de Thyra desencadenó una guerra civil entre lugartenientes: cada uno descubre que puede robar el poder de otro, igual que hizo Teach. Es sabor de sandbox, pero la **escalada real la encarna Edward Teach**, que absorbe a los lugartenientes que los PJ no alcanzan. Ver el motor de campaña: [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md).
-
-**Bandos Activos:**
-- ⏰ **Bando Temporal** (variable según alianzas) - Liderado por Lord Vorthak
-- 🌌 **Bando Dimensional** (variable según alianzas) - Liderado por Ignis
-- 🏴‍☠️ **Independientes** (variable según alianzas) - Edward Teach, Dimensionalis, otros
-- 🟡 **Neutrales** (variable según decisiones) - Varrak (decide más adelante en el sandbox), Las Gemelas, otros
-
-**⚠️ MECÁNICA CRÍTICA — EL RELOJ DEL RITUAL:** 
-
-Los PJ no pueden combatir a los 12: el **Reloj del Ritual** avanza mientras exploran y deben elegir. Matar a un crítico (Vorthak, Ignis, Teach) corta un canal de poder divino y **frena** el ritual; los que dejen sin tocar los **absorbe Teach**. Detalles en [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md).
-
-**⚠️ ACCIÓN ESPECIAL - SACRIFICIO DE VARRAK:**
-
-Con el **Reloj del Ritual en zona crítica (≥6/8)** y si Varrak es aliado de los PJ, el oráculo se ofrece voluntariamente: su harakiri ritual libera su esencia temporal, **retrocede el Reloj 1 segmento** y alimenta el momento del funeral de Marcus. Ya no se dispara por "desbalance", sino por la relación construida y la cuenta atrás. Ver [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) y el motor de campaña.
+### 👑 Lugartenientes (maestros)
+- **Uniforme:** túnica ocre, armadura personalizada que refleja su poder específico, elementos distintivos de su distorsión.
+- **Armamento:** arma propia personalizada, poderes únicos, canalización arcana especializada.
+- **Máscara:** sin máscara — rostro distorsionado, ojos que muestran múltiples momentos o dimensiones.
+- **Accesorios:** sin corona, sin bastón, sin collar (su poder es innato); insignias únicas que representan su región.
 
 ---
 
-## ⏰ **LUGARTENIENTES TEMPORALES** (Poder de Amaunator)
+## 🎭 TÁCTICAS MILITARES DISTORSIONADAS
 
-### **⚰️ Thyra la Suspendida (Humana) - CAÍDA**
+- **Temporales:** *línea de tiempo* (orden cronológico), *ataque en cascada* (cada soldado actúa en un momento distinto), *defensa regresiva* (heridas que se curan hacia atrás), *retirada temporal* (desaparecen y reaparecen en el pasado).
+- **Dimensionales:** *flanqueo imposible* (atacan desde direcciones que no existen), *formación comprimida*, *ataque multiplano* (desde varias dimensiones a la vez), *defensa fracturada* (se dividen en múltiples versiones).
 
-**ESTADO:** Asesinada por Edward Teach en Sesión 5-6
+### ⚔️ Equipamiento distorsionado
+- **Armas temporales:** espadas de arena (envejecen al cortar), ballestas del pasado, escudos eternos, lanzas del futuro.
+- **Armaduras dimensionales:** armaduras comprimidas (se expanden al recibir daño), cascos transparentes, botas invertidas, guantes fracturados.
 
-- **Poder Original**: Vivía en un estado donde los segundos no transcurrían. Podía congelar el tiempo en estasis perfecta
-- **Apariencia**: Tenía piel translúcida como cristal, movimientos que parecían congelados en el aire
-- **Cómo Murió**: Edward Teach la emboscó en el Valle de la Aguja Suspendida y robó su poder
-- **Efecto de su Muerte**: 
-  - **El Valle de la Aguja Suspendida se restauró a la normalidad** - Todas las distorsiones temporales desaparecieron gradualmente en 1d4 horas
-  - El tiempo volvió a fluir normalmente en la región
-  - Edward Teach absorbió sus poderes de estasis
-  - Las visiones de Varrak se fragmentaron (ya no puede ver futuros de Teach)
-  - La guerra entre lugartenientes comenzó espontáneamente
-- **Región**: Valle de la Aguja Suspendida (ahora restaurada a la normalidad)
-
-**Su poder ahora pertenece a:** Edward Teach "Barbanegra" (Ver acciones legendarias actualizadas)
+### 🏰 Bases de operaciones
+- **La Fortaleza Temporal** (centro de Chronosia): existe en múltiples épocas; muros que se reconstruyen hacia atrás en el tiempo.
+- **El Cuartel Dimensional** (región espacial comprimida): se expande y contrae; muros que existen en múltiples dimensiones.
 
 ---
 
-### **1. Serapis el Retroceso (Elfo Eterno)**
-- **Poder**: Puede devolver eventos breves al pasado, como batallas que se repiten o heridas que nunca ocurrieron
-- **Región**: La Espiral Inversa
-- **⚔️ Ficha Completa:** [01_Serapis_El_Retroceso.md](./01_Serapis_El_Retroceso.md)
+## 🎯 FILOSOFÍA Y OBJETIVOS
 
-### **2. Thyra la Suspendida (Humana) - CAÍDA**
-- **Estado:** Asesinada por Edward Teach en Sesión 5-6
-- **Poder Original**: Vivía en un estado donde los segundos no transcurrían. Podía congelar el tiempo en estasis perfecta
-- **Región**: ✅ Valle de la Aguja Suspendida (restaurado a la normalidad tras su muerte)
-- **Efecto de su Muerte**: El Valle se restauró completamente a la normalidad, eliminando todas las distorsiones temporales
-- **Su poder ahora pertenece a:** Edward Teach "Barbanegra" (Ver [04_Edward_Teach_Barbanegra.md](./04_Edward_Teach_Barbanegra.md))
-
-### **3. Varrak del Horizonte (Orco)**
-- **Poder**: Ha vivido millones de vidas a la vez: anciano y niño simultáneamente. Predice futuros porque los ha experimentado ya
-- **Región**: El Abismo de los Posibles
-- **⚠️ Acción Especial:** Con el Reloj del Ritual en zona crítica (≥6/8) y si es aliado de los PJ, Varrak se sacrifica voluntariamente: su muerte estabiliza el flujo y **retrocede el Reloj 1 segmento**
-- **⚔️ Ficha Completa:** [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) (incluye detalles del sacrificio)
-
-### **4. Lord Vorthak "El Sediento Eterno" (Vampiro Ancestral)**
-- **Poder**: Su sed de sangre es tan intensa que puede drenar la vida temporal de sus víctimas, acelerando su envejecimiento mientras él se rejuvenece
-- **Región**: La Mansión de la Sed Eterna
-- **⚔️ Ficha Completa:** [03_Lord_Vorthak_El_Sediento_Eterno.md](./03_Lord_Vorthak_El_Sediento_Eterno.md)
-
-### **5. Medusa la Eterna (Medusa Ancestral)**
-- **Poder**: Puede congelar el tiempo en estasis perfecta, petrificando no solo cuerpos sino también el flujo temporal
-- **Región**: El Jardín de los Tiempos Gemelos
-- **⚔️ Ficha Completa:** [10_Medusa_La_Eterna.md](./10_Medusa_La_Eterna.md)
-
-### **6. Tempus el Fragmentado (Constructo Temporal)**
-- **Poder**: Creado por fragmentos de tiempo perdido, puede crear bucles temporales perfectos donde los eventos se repiten eternamente
-- **Región**: Las Ruinas del Tiempo Perdido
-- **⚔️ Ficha Completa:** [11_Tempus_El_Fragmentado.md](./11_Tempus_El_Fragmentado.md)
+Los Cronófagos veneran las distorsiones temporales y espaciales como manifestaciones divinas del poder de Aethernus. Creen que al servir a estas distorsiones se acercan a la divinidad y obtienen poder sobre la realidad misma.
 
 ---
 
-## 🌌 **LUGARTENIENTES DIMENSIONALES** (Poder de Voidar)
-
-### **7. Edward Teach "Barbanegra" (Humano Pirata)**
-- **Poder**: Ha robado el poder de **Thyra la Suspendida** (asesinada en Sesión 5-6), combinando sus habilidades piratas con **poderes de estasis temporal** y portales dimensionales
-- **Apariencia**: Un pirata humano de mediana edad con barba negra. Su cuerpo muestra distorsión temporal: una mano envejece y rejuvenece constantemente, su piel tiene aspecto cristalino en partes, y ocasionalmente se "congela" por micro-segundos
-- **Efecto al Morir**: El Archipiélago de Barbanegra se restaura a la normalidad (ver ficha completa para detalles)
-- **Región**: Archipiélago de Barbanegra (Islas del Oeste)
-- **⚠️ Nota Especial**: **Es un punto ciego para Varrak del Horizonte** - El Oráculo no puede predecir sus acciones debido al poder robado
-- **⚔️ Statblock Completo:** [04_Edward_Teach_Barbanegra.md](./04_Edward_Teach_Barbanegra.md)
-
-#### **🔮 LA VERDADERA MOTIVACIÓN DE EDWARD TEACH (INFORMACIÓN ULTRA-SECRETA)**
-
-**⚠️ Solo para el DM - Los PJ deben descubrir esto gradualmente**
-
-Edward Teach NO es solo un oportunista que roba poder. Es el **único lugarteniente que SOSPECHA el verdadero plan de Manshoon**:
-
-**Lo que Teach ha Descubierto:**
-- Manshoon está **recluido** ejecutando un ritual de ascensión divina
-- El poder de los lugartenientes viene de los **dioses capturados** (Amaunator y Voidar)
-- Cuando un lugarteniente muere, su poder **se libera** y puede ser capturado
-- Manshoon está **distraído** y no se ha dado cuenta del robo de Thyra
-
-**Su Plan:**
-- Robar poder de otros lugartenientes sin que Manshoon se entere
-- **Investigar cómo interceptar el poder divino** antes de que Manshoon complete su ascensión
-- Convertirse él mismo en dios, traicionando a Manshoon en el momento perfecto
-- **Fingir lealtad** mientras acumula poder en secreto
-
-**Consecuencias para la Campaña:**
-- Teach es el **único lugarteniente realmente peligroso** para el plan de Manshoon
-- Puede convertirse en **aliado temporal de los PJ** si descubren la verdad
-- Puede convertirse en el **villano final alternativo** si roba suficiente poder
-- Sus acciones están **acelerando el caos y la cuenta atrás del ritual** sin que Manshoon lo sepa
-
-**Información que Teach Posee:**
-- Ubicación aproximada de la Torre de la Eternidad (sede de Manshoon)
-- Conocimiento de que Amaunator y Voidar están capturados
-- Sospecha de que los dioses pueden ser liberados
-- Conciencia de que Manshoon es vulnerable durante el ritual
-
-| **Acción Legendaria**          | **Costo**  | **Descripción**                                                                                               |
-| ------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Ataque de Cañón**      | 1 Acción   | Dispara un cañón que causa daño de área en un radio de 20 pies                                        |
-| **Portal de Intercambio**      | 1 Acción   | Intercambia posiciones con un enemigo a hasta 30 pies de distancia                                            |
-| **Desplazamiento Masivo**      | 2 Acciones | Teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies        |
-| **Portal de Retorno**          | 2 Acciones | Crea un portal que conecta dos ubicaciones, permitiendo viaje instantáneo entre ellas por 3 turnos            |
-| **Desplazamiento Forzado**     | 3 Acciones | Fuerza a un enemigo a teletransportarse a una ubicación específica, posiblemente peligrosa                    |
-| **Portal de Absorción**        | 3 Acciones | Crea un portal que absorbe ataques enemigos y los redirige a otros enemigos                                   |
-| **Desplazamiento Dimensional** | 4 Acciones | Teletransporta a todos los enemigos en 60 pies a un plano dimensional aleatorio por 1d4 turnos                |
-| **Portal de Realidad**         | 4 Acciones | Crea un portal masivo que conecta con múltiples realidades, confundiendo y desorientando a todos los enemigos |
-| **Portal de Invocación**       | 3 Acciones | Abre un portal a otro mundo y trae 1d4 criaturas aleatorias de una lista predefinida que luchan por Edward Teach |
-
-### **🌍 Lista de Criaturas Invocables (Portal de Invocación):**
-
-**Tirar 1d20 para determinar la criatura invocada:**
-
-| **d20** | **Criatura** | **Nivel Aprox.** | **Descripción** |
-|---------|--------------|------------------|-----------------|
-| **1-2** | **Elemental de Aire** | 5 | Espíritu elemental que ataca con ráfagas de viento |
-| **3-4** | **Demonio Menor** | 6 | Demonio de bajo rango con garras y fuego |
-| **5-6** | **Constructo de Cristal** | 7 | Golem de cristal que refleja hechizos |
-| **7-8** | **Dragón Wyrmling** | 8 | Dragón joven de color aleatorio |
-| **9-10** | **Gigante de Piedra** | 9 | Gigante elemental de roca |
-| **11-12** | **Fénix Menor** | 10 | Ave de fuego que se regenera |
-| **13-14** | **Elemental de Fuego** | 11 | Espíritu de fuego que quema todo |
-| **15-16** | **Demonio Mayor** | 12 | Demonio poderoso con múltiples ataques |
-| **17-18** | **Dragón Adulto** | 13 | Dragón maduro de gran poder |
-| **19** | **Elemental Primordial** | 14 | Elemental de poder cósmico |
-| **20** | **Criatura Única** | 15 | Ser único y poderoso de otro mundo |
-
-**Nota**: Las criaturas invocadas permanecen en el campo de batalla hasta ser derrotadas o hasta que Edward Teach muera.
-
----
-
-### **⏰ PODERES ROBADOS DE THYRA (Disponibles post-Sesión 6)**
-
-**Nota DM:** Estas acciones se añaden al repertorio de Edward Teach después de asesinar a Thyra en Sesión 5-6.
-
-|| **Acción Legendaria** | **Costo** | **Descripción** |
-|| -------------------- | --------- | --------------- |
-|| **Estasis Pirata** | 2 Acciones | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
-|| **Suspensión de Ataque** | 1 Acción | Congela un ataque enemigo en el aire, evitando que cause daño hasta su siguiente turno |
-|| **Congelación Temporal** | 2 Acciones | Convierte a un enemigo en cristal temporal, paralizándolo por 1d4 turnos (CD 16 Sabiduría) |
-|| **Campo de Estasis** | 3 Acciones | Crea un área de 30 pies donde todos los enemigos quedan suspendidos, perdiendo su turno (CD 18 Sabiduría) |
-|| **Momento Robado** | 3 Acciones | Roba el turno de un enemigo - ese enemigo pierde su próxima acción y Teach gana una acción adicional |
-|| **Congelación Masiva** | 4 Acciones | Congela el tiempo en 60 pies, todos los enemigos pierden 2 turnos consecutivos (CD 20 Sabiduría) |
-|| **Estasis de Batalla** | 4 Acciones | Congela a todos en 90 pies por 1 turno completo mientras Teach actúa libremente (CD 22 Sabiduría) |
-
-**💀 COMBINACIONES DEVASTADORAS:**
-
-Teach puede combinar sus poderes piratas originales con los robados de Thyra:
-
-- **Portal Congelado**: Portal de Intercambio + Suspensión de Ataque = Teletransporta y congela al enemigo
-- **Estasis y Reposición**: Estasis Pirata + Portal de Intercambio = Se hace inmune e intercambia posición con enemigo
-- **Desplazamiento Temporal**: Desplazamiento Masivo + Campo de Estasis = Teletransporta y congela a todos
-- **Cañón Suspendido**: Ataque de Cañón + Campo de Estasis = Daño masivo a enemigos congelados (doble daño)
-
-**⚠️ Impacto en Varrak:** Después de robar este poder, Varrak del Horizonte NO puede predecir las acciones de Teach. Esto convierte a Edward en extremadamente impredecible y peligroso.
-
----
-
-### **🏴‍☠️ SISTEMA DE ROBO DE PODERES DE EDWARD TEACH**
-
-#### **🎯 Lugartenientes que PUEDE haber robado:**
-- **Ymir el Eterno Invierno** → Poderes de congelación espacial
-- **Thyra la Suspendida** → Poderes de estasis temporal
-- **Tempus el Fragmentado** → Poderes de bucles temporales
-- **Varrak del Horizonte** → Poderes de realidades paralelas
-- **Dimensionalis la Fracturada** → Poderes de fractura dimensional
-- **Aethernus Valcarys (Manshoon)** → Poderes de control absoluto
-
-#### **🚫 Lugartenientes que NO puede haber robado:**
-- **Serapis el Retroceso** → Poderes de tiempo invertido
-- **Lord Vorthak "El Sediento Eterno"** → Poderes de drenaje temporal
-- **Medusa la Eterna** → Poderes de petrificación temporal
-- **Ignis el Devorador Espacial** → Poderes de portales de fuego
-- **Matrona Veldrisza** → Poderes de redes espaciales
-- **Las Gemelas del Espejo** → Poderes de dimensión espejo
-
-#### **🎭 Mecánica Narrativa:**
-- **Flexibilidad del DM**: El DM puede elegir a quién le robó el poder según la narrativa
-- **Adaptabilidad**: Los poderes de Edward Teach se adaptan al lugarteniente robado
-- **Misterio**: Los PJ pueden descubrir gradualmente a quién le robó el poder
-- **Consecuencias**: El lugarteniente original puede estar muerto o debilitado
-
-#### **⚔️ Efectos en Combate:**
-- **Poderes Combinados**: Edward Teach tiene sus poderes piratas + los poderes robados
-- **Adaptabilidad**: Sus ataques cambian según el poder robado
-- **Debilidad**: Puede ser vulnerable a ataques relacionados con el poder original
-- **Estrategia**: Los PJ pueden usar conocimiento del lugarteniente original contra él
-
-### **8. Dimensionalis la Fracturada (Tiefling)**
-- **Poder**: Puede fracturar la realidad en múltiples dimensiones superpuestas, creando laberintos espaciales imposibles
-- **Apariencia**: Su cuerpo muestra múltiples versiones de sí misma en diferentes planos, todas visibles simultáneamente
-- **Efecto al Morir**: Las Llanuras de la Compresión se restaura a la normalidad (ver ficha completa para detalles)
-- **Región**: Las Llanuras de la Compresión
-- **⚔️ Statblock Completo:** [05_Dimensionalis_La_Fracturada.md](./05_Dimensionalis_La_Fracturada.md)
-
-| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Fractura Menor**         | 1 Acción   | Crea una pequeña fractura dimensional que confunde a un enemigo, dándole desventaja en sus tiradas            |
-| **Superposición**          | 1 Acción   | Se superpone con una versión de otra dimensión, ganando +2 AC y +2 a todas las tiradas por 1 turno            |
-| **Laberinto Dimensional**  | 2 Acciones | Crea un laberinto espacial de 30x30 pies donde las direcciones cambian constantemente                         |
-| **Fractura Masiva**        | 2 Acciones | Fractura la realidad en un radio de 60 pies, creando múltiples dimensiones superpuestas que confunden a todos |
-| **Dimensión Espejo**       | 3 Acciones | Crea una dimensión espejo donde los enemigos se ven reflejados, causando confusión y desorientación           |
-| **Superposición Total**    | 3 Acciones | Se superpone con múltiples versiones dimensionales, ganando múltiples acciones por turno                      |
-| **Caos Dimensional**       | 4 Acciones | Fractura completamente la realidad en 90 pies, creando un caos espacial donde las leyes físicas no funcionan  |
-| **Fragmentación Absoluta** | 4 Acciones | Se fragmenta en múltiples versiones dimensionales simultáneas, cada una actuando independientemente           |
-| **Separación Dimensional** | 3 Acciones | Separa a los jugadores en habitaciones cerradas con criaturas (en parejas o individualmente, a criterio del DM) |
-
-### **🏠 Mecánicas de Separación Dimensional:**
-
-#### **📊 Separación en Parejas (grupos de menor nivel)**
-- **Habitaciones**: 2-3 habitaciones cerradas (dependiendo del número de jugadores)
-- **Distribución**: 2 jugadores por habitación
-- **Criaturas por Habitación**: 1-2 criaturas ajustadas al nivel del grupo
-- **Escape**: Los jugadores deben derrotar a las criaturas para escapar
-- **Reunión**: Una vez que todas las habitaciones estén limpias, los jugadores se reúnen
-
-#### **📊 Separación Individual (grupos cercanos al tope de nivel 10)**
-- **Habitaciones**: 1 habitación por jugador
-- **Distribución**: 1 jugador por habitación
-- **Criaturas por Habitación**: 1-2 criaturas más poderosas ajustadas al nivel del grupo
-- **Escape**: Cada jugador debe derrotar a sus criaturas individualmente
-- **Reunión**: Todos los jugadores deben escapar para reunirse
-
-#### **🎲 Tabla de Criaturas por Nivel:**
-
-| **Nivel Jugadores** | **Tipo de Separación** | **Criaturas por Habitación** | **Nivel de Criaturas** | **Ejemplos** |
-|---------------------|------------------------|-------------------------------|-------------------------|--------------|
-| **4-6** | Parejas | 1-2 | 4-6 | Goblin Berserker, Orco Guerrero |
-| **7-8** | Parejas | 2 | 7-8 | Troll, Elemental de Tierra |
-| **9-10** | Individual | 1-2 | 9-10 | Demonio Mayor, Dragón Wyrmling |
-
-#### **⚔️ Mecánicas de Habitaciones:**
-- **Puertas Cerradas**: Solo se abren al derrotar a todas las criaturas
-- **Sin Comunicación**: Los jugadores no pueden comunicarse entre habitaciones
-- **Tiempo Limitado**: Si un jugador muere, Dimensionalis gana poder
-- **Escape Colectivo**: Todos deben escapar para continuar el combate
-
-### **9. Ignis el Devorador Espacial (Dragón Rojo Ancestral)**
-- **Poder**: Puede crear portales dimensionales que conectan con el Plano Elemental del Fuego, absorbiendo la energía espacial de su entorno y convirtiéndola en poder destructivo
-- **Apariencia**: Un dragón rojo colosal con escamas que brillan como lava fundida. Sus ojos son pozos de fuego que muestran reflejos de múltiples dimensiones
-- **Efecto al Morir**: Las Calderas Dimensionales se restaura a la normalidad (ver ficha completa para detalles)
-- **Región**: Las Calderas Dimensionales
-- **⚔️ Statblock Completo:** [06_Ignis_El_Devorador_Espacial.md](./06_Ignis_El_Devorador_Espacial.md)
-
-| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Portal de Ataque**       | 1 Acción   | Crea un portal detrás de un enemigo y ataca a través de él, ganando ventaja en el ataque                      |
-| **Portal de Crias**        | 1 Acción   | Crea un portal que lanza 1d2 crías de dragón rojo que atacan a los enemigos                                   |
-| **Portal Múltiple**        | 2 Acciones | Crea 2 portales que permiten atacar a través de ambos simultáneamente                                         |
-| **Portal de Elementales**  | 2 Acciones | Crea un portal que trae 1d4 elementales de fuego que luchan por Ignis                                         |
-| **Portal de Crias Masivo** | 3 Acciones | Crea un portal que lanza 1d4+1 crías de dragón rojo que atacan a todos los enemigos                           |
-| **Portal de Refuerzos**    | 3 Acciones | Crea un portal que trae 1d3 dragones rojos adultos que luchan por Ignis                                       |
-| **Portal Infernal**        | 4 Acciones | Crea múltiples portales que atacan desde todas las direcciones, causando daño masivo                          |
-| **Portal de Devastación**  | 4 Acciones | Crea un portal masivo que lanza un ejército de dragones rojos y elementales de fuego                          |
-
-### **10. Matrona Veldrisza "La Tejedora Dimensional" (Drow Matrona)**
-- **Poder**: Combina el poder de Lolth con la manipulación espacial para crear portales que conectan con Menzoberranzan. Puede tejer redes espaciales que atrapan a sus enemigos en dimensiones de pesadilla
-- **Apariencia**: Una drow anciana de aspecto regio con vestiduras de seda negra que brillan con patrones de telarañas dimensionales. Su cabello plateado se extiende como hilos de telaraña que conectan con Menzoberranzan
-- **Efecto al Morir**: La Ciudad Subterránea de Veldrisza se restaura a la normalidad (ver ficha completa para detalles)
-- **Región**: La Ciudad Subterránea de Veldrisza
-- **⚔️ Statblock Completo:** [07_Matrona_Veldrisza_La_Tejedora_Dimensional.md](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md)
-
-| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Red de Telaraña**        | 1 Acción   | Crea una red de telarañas dimensionales que atrapa a un enemigo, paralizándolo por 1 turno                    |
-| **Portal a Menzoberranzan** | 1 Acción   | Abre un portal a Menzoberranzan que trae 1d3 drow guerreros que luchan por Veldrisza                          |
-| **Dimensión de Pesadilla** | 2 Acciones | Atrapa a un enemigo en una dimensión de pesadilla donde debe superar una prueba de coraje para escapar          |
-| **Red Masiva**             | 2 Acciones | Crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies                            |
-| **Portal de Ejército**     | 3 Acciones | Abre un portal masivo que trae un ejército de drow (2d4 guerreros + 1 sacerdotisa)                           |
-| **Dimensión Colectiva**    | 3 Acciones | Atrapa a todos los enemigos en 90 pies en una dimensión de pesadilla colectiva                                |
-| **Red Cósmica**            | 4 Acciones | Crea una red de telarañas que cubre 120 pies, atrapando todo y conectando con Menzoberranzan                  |
-| **Portal de Lolth**        | 4 Acciones | Abre un portal directo a Lolth, trayendo su poder divino y múltiples demonios drow                           |
-
-### **11. Las Gemelas del Espejo - Lyra y Nyx (Humanas Gemelas Dimensionales)**
-- **Poder Dimensional**: Tienen acceso a una dimensión espejo que existe al otro lado de cualquier superficie reflectante. Al atravesar un espejo, viven en un mundo idéntico pero simétricamente invertido como si se miraran en un espejo. Pueden intercambiar posiciones instantáneamente entre ambas dimensiones, atacar desde el mundo espejo y usar la dimensión como refugio o trampa
-- **Apariencia**: Dos hermanas idénticas de mediana edad vestidas exactamente igual, pero con detalles simétricamente opuestos: el cabello peinado hacia el lado opuesto, los complementos (anillos, pulseras, broches) en el lado opuesto, y cada una tiene un ojo azul y un ojo marrón en posiciones opuestas. Son como si una fuera el reflejo perfecto de la otra
-- **Personalidad Misteriosa**: No se sabe realmente si eran dos personas originalmente o si una surgió de la dimensión espejo. Ambas afirman ser la original y la otra el reflejo, creando una dinámica psicológica compleja donde la identidad y la realidad se confunden
-- **Efecto al Morir**: El Jardín de los Tiempos Gemelos se restaura a la normalidad (ver ficha completa para detalles)
-- **Región**: El Jardín de los Tiempos Gemelos
-- **⚔️ Statblock Completo:** [08_Las_Gemelas_Del_Espejo.md](./08_Las_Gemelas_Del_Espejo.md)
-
-| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Intercambio de Posición** | 1 Acción   | Lyra y Nyx intercambian posiciones instantáneamente a través de la dimensión espejo                           |
-| **Rayo Cegador**           | 1 Acción   | Lanza un rayo de luz a los ojos de un enemigo, cegándolo por 1 turno                                         |
-| **Clon de Enemigo**        | 2 Acciones | Crea un clon de un enemigo que lucha por las gemelas durante 3 turnos                                         |
-| **Refugio Espejo**         | 2 Acciones | Ambas gemelas se refugian en la dimensión espejo, volviéndose inmunes a ataques por 1 turno                   |
-| **Ataque Dual**            | 2 Acciones | Ambas gemelas atacan simultáneamente desde dimensiones opuestas, causando daño doble                          |
-| **Clon Masivo**            | 3 Acciones | Crea clones de 1d3 enemigos que luchan por las gemelas durante 4 turnos                                       |
-| **Daño Compartido**        | 3 Acciones | **Activa**: Todo el daño recibido por los clones se comparte con el original (50% del daño)                   |
-| **Reflejos Múltiples**     | 3 Acciones | Crea múltiples reflejos de las gemelas que confunden a los enemigos sobre cuál es la real                    |
-| **Dimensión Invertida**    | 4 Acciones | Invierte completamente la realidad en 60 pies, confundiendo a todos los enemigos sobre qué es real            |
-| **Colapso Dimensional**    | 4 Acciones | Colapsa la dimensión espejo, atrapando a todos los enemigos en un laberinto de reflejos infinitos              |
-
-### **🪞 Mecánicas de Clones y Daño Compartido:**
-
-#### **📋 Creación de Clones:**
-- **Clon de Enemigo** (2 Acciones): Crea 1 clon de un enemigo específico
-- **Clon Masivo** (3 Acciones): Crea clones de 1d3 enemigos diferentes
-- **Duración**: Los clones duran 3-4 turnos dependiendo del nivel
-- **Control**: Los clones luchan automáticamente por las gemelas
-- **Estadísticas**: Los clones tienen las mismas estadísticas que el original
-
-#### **💥 Daño Compartido (3 Acciones):**
-- **Activación**: Una vez activado, permanece activo durante el resto del combate
-- **Mecánica**: Todo el daño recibido por los clones se comparte con el original
-- **Porcentaje**: El original recibe el 50% del daño total infligido a sus clones
-- **Cálculo**: Si un clon recibe 20 puntos de daño, el original recibe 10
-- **Múltiples Clones**: Si hay varios clones del mismo enemigo, el daño se suma
-
-#### **👁️ Rayo Cegador:**
-- **Efecto**: Ciega al enemigo por 1 turno completo
-- **Resistencia**: Los enemigos pueden hacer una tirada de salvación de Constitución
-- **Alcance**: 60 pies de distancia
-- **Frecuencia**: Puede usarse cada turno si tienen acciones legendarias
-
-#### **🎭 Estrategia de Combate:**
-1. **Fase Inicial**: Crear clones de enemigos poderosos
-2. **Fase de Control**: Usar rayos cegadores para neutralizar amenazas
-3. **Fase de Daño**: Activar daño compartido para maximizar el daño
-4. **Fase Final**: Usar clones masivos para abrumar a los enemigos
-
-### **12. Ymir el Eterno Invierno (Elemental de Hielo Ancestral)**
-- **Poder Dimensional**: Controla el espacio a través del hielo y el frío. Puede congelar dimensiones enteras, crear portales de hielo que conectan con el Plano Elemental del Agua, y manipular el espacio comprimiendo o expandiendo las distancias a través de cristales de hielo dimensionales
-- **Apariencia**: Un gigante de hielo cristalino de 20 pies de altura, con un cuerpo formado por cristales de hielo que brillan con luz azulada. Sus ojos son pozos de hielo que reflejan paisajes congelados de múltiples dimensiones. Su respiración congela el aire creando esculturas de hielo que existen en múltiples planos simultáneamente
-- **Personalidad**: Frío y calculador, habla con una voz que resuena como el crujido del hielo. Considera el frío como la forma más pura de orden espacial, donde todo se cristaliza en patrones perfectos y predecibles
-- **Efecto al Morir**: Glacialis se restaura a la normalidad (ver ficha completa para detalles)
-- **Región**: Glacialis
-- **⚔️ Statblock Completo:** [09_Ymir_El_Eterno_Invierno.md](./09_Ymir_El_Eterno_Invierno.md)
-
-| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Aliento de Hielo**       | 1 Acción   | Exhala un cono de hielo de 30 pies que congela a los enemigos, reduciendo su velocidad a la mitad             |
-| **Portal de Hielo**        | 1 Acción   | Crea un portal de hielo que conecta con el Plano Elemental del Agua, permitiendo ataques a distancia          |
-| **Cristalización**         | 2 Acciones | Convierte el aire en cristales de hielo que crean obstáculos y trampas en el campo de batalla                 |
-| **Compresión Espacial**    | 2 Acciones | Comprime el espacio en 60 pies, reduciendo las distancias y permitiendo ataques de área más efectivos         |
-| **Portal de Elementales**  | 3 Acciones | Crea un portal que trae 1d4 elementales de agua que luchan por Ymir                                         |
-| **Expansión Dimensional**  | 3 Acciones | Expande el espacio en 90 pies, aumentando las distancias y dificultando el movimiento enemigo                 |
-| **Congelación Masiva**     | 4 Acciones | Congela toda el área en 120 pies, creando un campo de hielo que reduce la velocidad y causa daño por frío     |
-| **Portal Cósmico**         | 4 Acciones | Crea un portal masivo al Plano Elemental del Agua que inunda la región con agua elemental y criaturas acuáticas |
-
-### **❄️ Mecánicas de Control Espacial a través del Hielo:**
-
-#### **🧊 Manipulación del Espacio:**
-- **Compresión Espacial** (2 Acciones): Reduce las distancias en 60 pies, permitiendo ataques de área más efectivos
-- **Expansión Dimensional** (3 Acciones): Aumenta las distancias en 90 pies, dificultando el movimiento enemigo
-- **Efecto**: Cambia la geometría del espacio para ventaja táctica
-- **Duración**: Los efectos duran hasta el final del combate
-
-#### **🌊 Portales de Hielo:**
-- **Portal de Hielo** (1 Acción): Portal simple al Plano Elemental del Agua
-- **Portal de Elementales** (3 Acciones): Trae 1d4 elementales de agua
-- **Portal Cósmico** (4 Acciones): Portal masivo que inunda la región
-- **Conexión**: Los portales conectan con el Plano Elemental del Agua
-
-#### **❄️ Efectos de Congelación:**
-- **Aliento de Hielo** (1 Acción): Cono de 30 pies que reduce velocidad a la mitad
-- **Cristalización** (2 Acciones): Convierte el aire en cristales de hielo
-- **Congelación Masiva** (4 Acciones): Campo de hielo de 120 pies
-- **Efectos**: Reducción de velocidad, daño por frío, obstáculos
-
-#### **🎯 Estrategia de Combate:**
-1. **Fase de Control**: Usar aliento de hielo para reducir velocidad enemiga
-2. **Fase de Obstáculos**: Crear cristales de hielo para controlar el campo
-3. **Fase de Manipulación**: Comprimir/expandir espacio para ventaja táctica
-4. **Fase de Inundación**: Usar portales para traer refuerzos acuáticos
-
-#### **🌌 Mecánicas Dimensionales:**
-- **Cristales Dimensionales**: Los cristales de hielo existen en múltiples planos
-- **Portales Transdimensionales**: Conectan con el Plano Elemental del Agua
-- **Manipulación Espacial**: Cambia la geometría del espacio de combate
-- **Control de Campo**: Usa hielo para controlar el movimiento
-
-#### **⚡ Mecánicas de Balance:**
-- **Ventaja Táctica**: Manipulación del espacio para ventaja posicional
-- **Control de Campo**: Cristales de hielo como obstáculos
-- **Refuerzos**: Elementales de agua como aliados
-- **Escalabilidad**: Efectos más poderosos en niveles altos
-
-#### **🔮 Efectos Visuales:**
-- **Cristales Brillantes**: Cristales de hielo que brillan con luz azulada
-- **Portales Helados**: Círculos de hielo que se abren al Plano Elemental
-- **Manipulación Espacial**: El espacio se comprime y expande visiblemente
-- **Inundación Cósmica**: Agua elemental emergiendo de portales masivos
-
----
-
-## 🎭 **APARIENCIA VISUAL POR RANGO JERÁRQUICO**
-
-### **⚔️ TROPA CRONÓFAGA (Soldados Rasos)**
-
-**🔴 Uniforme y Armadura:**
-- **Túnica militar color rojo** con correajes de cuero cruzados
-- **Armadura de placas metálicas** en los brazos
-- **Cuerpos fuertes y musculosos** de guerreros experimentados
-- **Placas desgastadas** que insinúan múltiples campañas bélicas
-- **Bolsillos tácticos** para herramientas y componentes
-- **Botones dorados** que brillan tenuemente en la oscuridad
-
-**⚔️ Armamento:**
-- **Dos espadas cortas gemelas** con empuñaduras de guardia recta
-- **Hojas afiladas** que cambian de era según el combate
-- **Canalización arcana** para energías temporales/espaciales
-- **Fuerza física** descomunal para su apariencia
-
-**🎭 Máscara:**
-- **Máscara de pico dorada** estilo peste negra
-- **Lentes circulares oscuros** que reflejan la luz
-- **Oculta rostros infantiles** que contrastan con sus cuerpos adultos
-- **Expresión completamente oculta** para inhumanidad deliberada
-
-**🛡️ Accesorios:**
-- **Bandera púrpura oscura** con emblema de reloj de arena
-- **Casco de acero mate** sobrio y funcional
-- **Sin corona**
-- **Sin bastón**
-
-**👶 Característica Distintiva:**
-- **Rostros de niños** ocultos tras las máscaras
-- **Cuerpos de guerreros adultos** fuertes y musculosos
-- **Contraste inquietante** entre apariencia infantil y fuerza física
-- **Máscaras obligatorias** para ocultar su verdadera naturaleza
-
----
-
-### **🛡️ SARGENTOS CRONÓFAGOS (Suboficiales)**
-
-**🔵 Uniforme y Armadura:**
-- **Túnica militar color azul** con correajes de cuero cruzados
-- **Armadura de placas metálicas** en los brazos y placa en la zona del corazón
-- **Placas desgastadas** que insinúan múltiples campañas bélicas
-- **Bolsillos tácticos** para herramientas y componentes
-- **Botones dorados** que brillan tenuemente en la oscuridad
-
-**⚔️ Armamento:**
-- **Bombas de abrojos** en algun bolsillo
-- **Hojas afiladas dobles** dos hojas unidas por la empuñadura
-- **Collar de canalización arcana** con forma de serpiente en forma de infinito mordiendose la cola.
-- **Bastón de mando** con cabeza de serpiente
-
-**🎭 Máscara:**
-- **Máscara de pico dorada** con detalles plateados
-- **Lentes circulares oscuros** que reflejan la luz
-- **Expresión completamente oculta** para inhumanidad deliberada
-
-**🛡️ Accesorios:**
-- **Bandera púrpura oscura** con emblema de reloj de arena
-- **Casco de acero mate** con un pincho en el centro de la cabeza estilo pickelhaube
-- **Insignias de sargento** en los hombros
-
-**🔮 Objetos Mágicos:**
-- **Bombas de poder** temporal/dimensional en sus bolsillos
-- **Relojes de arena** con arena ascendente. Si la arena fluye muy rápido indica que hay mucha influencia mágica en la zona. Si cae hacia abajo significa que no hay magia dimensional o temporal.
-
----
-
-### **🎖️ OFICIALES CRONÓFAGOS (Comandantes)**
-
-**🟣 Uniforme y Armadura:**
-- **Túnica militar color púrpura** con correajes de cuero cruzados
-- **Armadura de placas metálicas** que cubre torso, brazos y piernas
-- **Placas desgastadas** que insinúan múltiples campañas bélicas
-- **Bolsillos tácticos** para herramientas y componentes
-- **Botones dorados** que brillan tenuemente en la oscuridad
-
-**⚔️ Armamento:**
-- **Bastón de duelo** pueden cambiar de espada larga a bastón mágico al instante
-- **Hojas afiladas** que cambian de era según el combate
-- **Canalización arcana** para energías temporales/espaciales
-
-**🎭 Máscara:**
-- **Sin máscara** — muestra el rostro distorsionado por el tiempo (mitades de distinta edad)
-- **Lentes circulares oscuros** subidos sobre la gorra
-- **Aire deliberadamente inhumano** pese a ir a cara descubierta
-
-**🛡️ Accesorios:**
-- **Gorra de plato** militar (estilo soviético), del mismo color del uniforme
-- **Tatuaje** símbolo de la serpiente con forma de infinito mordiendose la cola en la mano.
-- **Insignias de oficial** en los hombros
-
----
-
-### **👑 LUGARTENIENTES DEL CÓNCLAVE (Maestros)**
-
-**🟤 Uniforme y Armadura:**
-- **Túnica militar color ocre** con correajes de cuero cruzados
-- **Armadura personalizada** que refleja su poder específico
-- **Elementos distintivos** de su distorsión temporal o espacial
-
-**⚔️ Armamento:**
-- **Arma propia y personalizada** según su especialización
-- **Poderes únicos** relacionados con su distorsión
-- **Canalización arcana** especializada
-
-**🎭 Máscara:**
-- **Sin máscara** - muestran su rostro distorsionado
-- **Expresión distorsionada** que refleja su poder
-- **Ojos que muestran** múltiples momentos o dimensiones
-
-**🛡️ Accesorios:**
-- **Sin corona** - su poder es evidente sin necesidad de símbolos
-- **Sin bastón** - su poder es innato
-- **Sin collar** - su distorsión es natural
-- **Insignias únicas** que representan su región
-
----
-
-## 🎭 **TÁCTICAS MILITARES DISTORSIONADAS**
-
-### **🕐 Formaciones Temporales**
-- **Línea de Tiempo**: Soldados dispuestos en orden cronológico
-- **Ataque en Cascada**: Cada soldado actúa en un momento temporal diferente
-- **Defensa Regresiva**: Las heridas se curan hacia atrás en el tiempo
-- **Retirada Temporal**: Desaparecen y reaparecen en el pasado
-
-### **🌌 Tácticas Dimensionales**
-- **Flanqueo Imposible**: Atacan desde direcciones que no existen
-- **Formación Comprimida**: Se comprimen en espacios imposibles
-- **Ataque Multiplano**: Atacan desde múltiples dimensiones simultáneamente
-- **Defensa Fracturada**: Se dividen en múltiples versiones
-
----
-
-## ⚔️ **EQUIPAMIENTO MILITAR DISTORSIONADO**
-
-### **⚔️ Armas Temporales**
-- **Espadas de Arena**: Envejecen a los enemigos al cortarlos
-- **Ballestas del Pasado**: Flechas que viajan hacia atrás en el tiempo
-- **Escudos Eternos**: Protecciones que existen en múltiples momentos
-- **Lanzas del Futuro**: Armas que atacan con acciones futuras
-
-### **🛡️ Armaduras Dimensionales**
-- **Armaduras Comprimidas**: Se expanden al recibir daño
-- **Cascos Transparentes**: Permiten ver otras dimensiones
-- **Botas Invertidas**: Permiten caminar en direcciones imposibles
-- **Guantes Fracturados**: Existen en múltiples planos
-
----
-
-## 🏰 **BASES DE OPERACIONES**
-
-### **🏰 La Fortaleza Temporal**
-- **Ubicación**: Centro de Chronosia
-- **Características**: Existe en múltiples épocas simultáneamente
-- **Defensas**: Muros que se reconstruyen hacia atrás en el tiempo
-- **Comandancia**: Oficiales que coordinan desde diferentes momentos
-
-### **🌌 El Cuartel Dimensional**
-- **Ubicación**: Región espacial comprimida
-- **Características**: Se expande y contrae según la necesidad
-- **Defensas**: Muros que existen en múltiples dimensiones
-- **Comandancia**: Oficiales que coordinan desde diferentes planos
-
----
-
-## 🎯 **FILOSOFÍA Y OBJETIVOS**
-
-Los Cronófagos veneran las distorsiones temporales y espaciales como manifestaciones divinas del poder de Aethernus. Creen que al servir a estas distorsiones, se acercan a la divinidad y obtienen poder sobre la realidad misma.
-
----
-
-*Los Cronófagos representan la fuerza militar más poderosa de Chronosia, una organización jerárquica compleja que combina disciplina militar con poderes sobrenaturales para mantener el control sobre el tiempo y el espacio fracturados.*
+*Los Cronófagos son la fuerza militar más poderosa de Chronosia: una organización jerárquica que combina disciplina militar con poderes sobrenaturales para controlar el tiempo y el espacio fracturados.*

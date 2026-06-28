@@ -14,7 +14,7 @@
 - **Región:** Archipiélago de Barbanegra
 - **Nivel Recomendado:** 8-9
 - **Bando:** Independiente
-- **Estado de Acceso:** 🔓 Desbloqueada (accesible desde Sesión 6+)
+- **Estado de Acceso:** 🔒 El Archipiélago se abre con el **Motor de Viento Perpetuo** (derrotar Serapis + Ymir); el mar está en calma muerta hasta entonces
 - **⚠️ Nota Especial:** Es un punto ciego para Varrak del Horizonte
 
 ---
@@ -22,13 +22,12 @@
 ## 🎭 **DESCRIPCIÓN NARRATIVA**
 
 ### **⚡ Poder**
-Edward Teach ha robado el poder de **Thyra la Suspendida** (asesinada en Sesión 5-6), combinando sus habilidades piratas con **poderes de estasis temporal** y portales dimensionales. Es un híbrido único que combina poderes dimensionales y temporales robados.
+Edward Teach ha robado el poder de **Thyra la Suspendida** (asesinada en el hito 4 de la Cronología de Barbanegra), combinando sus habilidades piratas con **poderes de estasis temporal** y portales dimensionales. Es un híbrido único que combina poderes dimensionales y temporales robados.
 
 ### **👁️ Apariencia**
 Un pirata humano de mediana edad con barba negra. Su cuerpo muestra distorsión temporal: una mano envejece y rejuvenece constantemente, su piel tiene aspecto cristalino en partes, y ocasionalmente se "congela" por micro-segundos. La combinación de poderes robados le da una apariencia inquietante y única.
 
-### **💀 Efecto al Morir**
-Cuando Edward Teach muere (ya sea por los PJ o por otro lugarteniente), **El Archipiélago de Barbanegra se restaura a la normalidad**. Todas las distorsiones temporales y dimensionales causadas por su poder desaparecen gradualmente: los portales dimensionales se estabilizan, los efectos de estasis temporal cesan, y la región recupera su estado natural sin las anomalías que Teach había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ### **🔮 LA VERDADERA MOTIVACIÓN DE EDWARD TEACH (INFORMACIÓN ULTRA-SECRETA)**
 
@@ -176,7 +175,7 @@ Teach puede realizar **3 acciones legendarias por ronda**, eligiendo entre las o
 
 #### **⏰ Acciones Legendarias Temporales (Robadas de Thyra):**
 
-**Nota DM:** Estas acciones se añaden al repertorio de Edward Teach después de asesinar a Thyra en Sesión 5-6.
+**Nota DM:** Estas acciones se añaden al repertorio de Edward Teach después de asesinar a Thyra (hito 4 de la Cronología de Barbanegra).
 
 | **Acción Legendaria** | **Costo** | **Descripción** |
 | -------------------- | --------- | --------------- |

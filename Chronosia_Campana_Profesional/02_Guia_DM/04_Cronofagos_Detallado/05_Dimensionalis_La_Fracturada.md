@@ -26,8 +26,7 @@ Dimensionalis puede fracturar la realidad en múltiples dimensiones superpuestas
 ### **👁️ Apariencia**
 El cuerpo de Dimensionalis muestra múltiples versiones de sí misma en diferentes planos, todas visibles simultáneamente. Sus movimientos parecen desfasar entre dimensiones, y partes de su cuerpo aparecen y desaparecen como si existieran en planos diferentes.
 
-### **💀 Efecto al Morir**
-Cuando Dimensionalis muere (ya sea por los PJ o por otro lugarteniente), **Las Llanuras de la Compresión se restaura a la normalidad**. Todas las distorsiones dimensionales causadas por su poder desaparecen gradualmente: las fracturas dimensionales se estabilizan, los laberintos espaciales se disipan, y la región recupera su estado natural sin las anomalías dimensionales que Dimensionalis había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 

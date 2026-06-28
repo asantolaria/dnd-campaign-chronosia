@@ -26,8 +26,7 @@ La sed de sangre de Vorthak es tan intensa que puede drenar la vida temporal de 
 ### **👁️ Apariencia**
 Vorthak es un vampiro de aspecto noble pero demacrado, con ojos rojos que brillan con hambre insaciable. Está rodeado constantemente por sus secuaces, que muestran signos de debilidad y envejecimiento prematuro, evidenciando que han sido drenados de su vida temporal.
 
-### **💀 Efecto al Morir**
-Cuando Vorthak muere (ya sea por los PJ o por otro lugarteniente), **La Mansión de la Sed Eterna se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente: las reservas temporales se disipan, el drenaje de vida temporal cesa, y la región recupera su estado natural sin las anomalías temporales que Vorthak había creado.
+> 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
 
