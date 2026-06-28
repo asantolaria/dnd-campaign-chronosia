@@ -20,21 +20,55 @@
 
 ## 2 · Mapa general de Chronosia
 
+> **Numeración canónica:** coincide con los 10 mapas regionales (§3) y los archivos `assets/mapas/01..10`. Úsala siempre. (El PNG antiguo del mapa general traía nombres obsoletos — «Colinas Remolino», «Ciudad de Hielo»…; este prompt lo corrige.)
+
 ```
 Mapa de fantasía dibujado a mano, estilo cartografía clásica de manual de rol: papel/pergamino envejecido, tinta sepia, relieve sombreado a plumilla (montañas, bosques, costas), paleta apagada y cohesionada, cartela decorativa y borde ornamentado, rosa de los vientos. Aspecto de mapa real de campaña de D&D, legible y elegante. Vista cenital.
 
-Tema: el semiplano de Chronosia. Continente único y alargado en vertical, rodeado por dos mares (Mar Occidental al oeste, Mar Oriental al este). Gradiente: NORTE con altas montañas y glaciares eternos; CENTRO templado con una ciudad amurallada destacada en el corazón del continente (capital, puerto fluvial, grandes relojes); SUR árido y volcánico con un volcán activo. Dispersa por el mapa, marca 10 emplazamientos con un círculo numerado del 1 al 10:
-1 colinas templadas cerca de la capital, con un remolino/espiral sutil grabado en el terreno.
-2 un jardín amurallado con estatuas y un estanque-espejo, al este del centro.
-3 ciudad de hielo entre los glaciares del norte.
-4 ruinas antiguas con engranajes colosales, en clima templado.
-5 un abismo/cañón con peñascos flotantes, al oeste-centro.
-6 un archipiélago de islitas muy juntas, en el Mar Oriental.
-7 una boca de caverna que baja al subsuelo, al sur-centro.
-8 un archipiélago pirata con un barco, en el Mar Occidental.
-9 una mansión gótica solitaria envuelta en niebla, al suroeste.
-10 calderas volcánicas con bocas de fuego, al sur junto al volcán.
-Marca también, sin numerar: la capital central con un icono de ciudad-estrella; una torre solitaria y oculta más allá de las montañas del norte; y un pequeño valle helado al norte. Añade rosa de los vientos y una cartela con el título «CHRONOSIA». Rotula cada emplazamiento con su número (y su nombre en español si quieres; revisa la ortografía). Formato vertical, proporción 2:3. Evita marcas de agua y estética de cómic.
+Tema: el semiplano fracturado de Chronosia (un limbo entre planos, no un reino al uso). Continente único y alargado en vertical, rodeado por dos mares (Mar Occidental al oeste, Mar Oriental al este). Gradiente: NORTE con altas montañas y glaciares eternos; CENTRO templado con una gran ciudad amurallada destacada en el corazón del continente; SUR árido y volcánico con un volcán activo.
+
+En el CENTRO, sin número y como icono de ciudad-estrella destacado: CRONÓPOLIS (la capital y única zona segura, con grandes relojes y puerto fluvial).
+
+Marca 10 emplazamientos con un círculo numerado del 1 al 10 y rotúlalos con su nombre:
+1 La Espiral Inversa — colinas templadas con un remolino/espiral grabado en el terreno, cerca de la capital.
+2 El Jardín de los Tiempos Gemelos — jardín amurallado simétrico con estatuas y estanque-espejo, al este del centro.
+3 Glacialis — ciudad de hielo entre los glaciares del norte.
+4 Las Ruinas del Tiempo Perdido — ruinas con engranajes colosales semienterrados, en clima templado al oeste.
+5 El Abismo de los Posibles — gran cañón con peñascos e islas flotantes, al oeste-centro.
+6 Las Llanuras de la Compresión — llanura que se pliega, con grietas de resplandor infernal, al sureste-centro.
+7 La Ciudad Subterránea de Veldrisza — una boca de caverna que baja al subsuelo (drow/Underdark), al sur-centro.
+8 El Archipiélago de Barbanegra — islas piratas en un mar antinaturalmente en calma con vórtices, en el Mar Oriental.
+9 La Mansión de la Sed Eterna — mansión gótica solitaria envuelta en niebla, al suroeste.
+10 Las Calderas Dimensionales — calderas volcánicas con bocas de fuego, al sur junto al volcán.
+
+Marca también, SIN número: una TORRE solitaria y oculta tras las montañas del norte (la Torre de la Eternidad); y un pequeño VALLE HELADO cercano, sellado por una barrera de escarcha (el Valle de la Aguja).
+
+Dibuja además, en línea fina punteada, las RUTAS desde Cronópolis a las regiones cercanas, y una RUTA MARÍTIMA distinta (líneas de oleaje) que cruce el Mar Oriental hasta el Archipiélago de Barbanegra (8), para sugerir que solo se llega por mar.
+
+Añade rosa de los vientos y una cartela con el título «CHRONOSIA». Si el texto no sale fiable, genera el mapa SOLO con los números 1-10 (sin nombres) y deja un recuadro de leyenda vacío en una esquina para rotular a mano. Formato vertical, proporción 2:3. Evita marcas de agua y estética de cómic.
+```
+
+---
+
+## 2.1 · Cronópolis — mapa de ciudad (el hub) *(NUEVO)*
+
+```
+Mapa de ciudad dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, cartela con el título «CRONÓPOLIS» y una leyenda numerada de edificios. Vista cenital ligeramente isométrica, legible y elegante, proporción 4:3.
+Tema: Cronópolis, la última ciudad libre y zona segura de Chronosia (un bastión estable en un semiplano roto, al estilo de una aldea gala asediada). Ciudad amurallada costera con puerto fluvial, faros y grandes relojes astronómicos por todas partes; arquitectura de relojería gnoma (engranajes, cúpulas de latón). Marca con números los puntos clave: 1 la Puerta y muralla; 2 la Plaza del Reloj con el CONTADOR DEL RITUAL (un gran marcador vertical de 8 segmentos luminosos que mide la cuenta atrás); 3 la Cámara del Tiempo de los Anacronistas (donde se guarda el Cronómetro de Realidades); 4 el cuartel de La Resistencia / fortaleza de acero; 5 el taller de los Ingenieros gnomos; 6 la taberna y el mercado de refugiados; 7 el templo; 8 el palacio de la Síndica / concejo; 9 el muelle con barcos. Ambiente de cobijo cálido frente al caos exterior. Etiquetas en español (revisa la ortografía). Evita marcas de agua y estética de cómic.
+```
+
+---
+
+## 2.2 · La Torre de la Eternidad — clímax *(NUEVO)*
+
+```
+Ilustración de mazmorra en CORTE VERTICAL (sección transversal) dibujada a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, cartela con el título «LA TORRE DE LA ETERNIDAD» y una leyenda lateral por niveles. Composición vertical alta y dramática, proporción 2:3.
+Tema: la torre imposible donde Aethernus ejecuta su ascensión, alzándose entre las montañas heladas del norte hacia un cielo fracturado con grietas que muestran el cosmos. Muestra la torre abierta como una casa de muñecas, con 4 NIVELES apilados conectados por una gran escalera de caracol, y una "antesala" entre cada nivel:
+- Nivel 1 (base): la Sala de Ecos — cámara de acertijos con espejos y ecos de luz.
+- Nivel 2: el Corazón del Tiempo — una mansión lujosa de habitaciones (la antigua casa de Manshoon), engranajes gigantes girando.
+- Nivel 3: la Eliminatoria — un puente/prueba estrecho sobre el vacío.
+- Nivel 4 (cima): la Cámara de Ascensión — un ritual circular con dos dioses encadenados a pilares (uno dorado/solar = tiempo, otro púrpura/vacío = espacio) y un marcador del ritual brillando.
+Paleta sepia con acentos dorados (tiempo) y púrpuras (espacio/vacío). Tono épico y de horror cósmico. Etiquetas en español por nivel (revisa la ortografía). Evita marcas de agua y estética de cómic.
 ```
 
 ---

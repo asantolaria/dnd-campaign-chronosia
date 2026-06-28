@@ -2,6 +2,28 @@
 ![Mapa general de Chronosia](../assets/mapas/00_mapa-general-chronosia.png)
 ## *El Reino del Tiempo Fracturado - Guía Completa*
 
+> ⚠️ **Nota sobre el mapa general:** el PNG actual trae nombres antiguos («Colinas Remolino», «Ciudad de Hielo»…) que **no** coinciden con las regiones vigentes. Hasta regenerarlo (prompt en [Prompts_Arte_Chronosia.md §2](../assets/Prompts_Arte_Chronosia.md)), usa esta leyenda. La numeración 1-10 es la canónica (coincide con los mapas regionales y `assets/mapas/01..10`).
+
+### 🧭 Leyenda del mapa general
+
+★ = villano **crítico** (la historia pasa por él). Puertas y gating: ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
+
+| Nº | Región | Lugarteniente (tipo) | Nivel | Puerta (qué la abre) |
+|----|--------|----------------------|-------|----------------------|
+| **1** | La Espiral Inversa | Serapis (temporal) | 5-7 | Entrada abierta · da el **Núcleo** del Rotor |
+| **3** | Glacialis | Ymir (dimensional) | 5-7 | Entrada abierta · da la **Carcasa** del Rotor |
+| **2** | El Jardín de los Tiempos Gemelos | Medusa + Las Gemelas (T/D) | 5-8 | Tras derrotar 1 lugarteniente |
+| **5** | El Abismo de los Posibles | Varrak (temporal, aliable) | 7-8 | Tras derrotar 1 lugarteniente |
+| **8** | El Archipiélago de Barbanegra | **Edward Teach** (híbrido) ★ | 7-9 | **Motor de Viento** (Rotor = Serapis+Ymir): el mar está en calma muerta |
+| **4** | Las Ruinas del Tiempo Perdido | Tempus (temporal) | 8-10 | Requiere la **Arena del Tiempo** (de Serapis) |
+| **9** | La Mansión de la Sed Eterna | **Vorthak** (temporal, líder) ★ | 8-10 | Alto nivel |
+| **10** | Las Calderas Dimensionales | **Ignis** (dimensional, líder) ★ | 8-10 | Abre el ala dimensional profunda |
+| **6** | Las Llanuras de la Compresión | Dimensionalis (dimensional) | 9-10 | Requiere **derrotar a Ignis** |
+| **7** | La Ciudad Subterránea de Veldrisza | Veldrisza (dimensional) | 9-10 | Derrotar a Teach / entrada secreta de Varrak |
+| — | **Cronópolis** (hub) | — (Síndica Maren) | — | Siempre abierta (zona segura) |
+| — | Valle de la Aguja | Thyra (caída) | — | **Inaccesible** para los PJ (solo Teach con el Talismán) |
+| — | **Torre de la Eternidad** | **Aethernus** (BBEG) | clímax | Se abre con el **Reloj a 8/8** (Llamada de los Dioses) |
+
 ---
 
 ## 📋 **ÍNDICE DE NAVEGACIÓN**
