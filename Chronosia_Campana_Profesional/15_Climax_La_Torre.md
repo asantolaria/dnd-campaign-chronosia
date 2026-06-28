@@ -238,4 +238,66 @@ No hay epílogo luminoso, pero sí hay **cierre**. Cuenta qué fue del multivers
 
 ---
 
+## Qué fue de… *(epílogo por facción y PNJ)*
+
+> **Cómo usar esta sección.** Aquí no hay un destino, hay varios: lee la entrada bajo la rama que tu mesa jugó. Las claves: **A luminoso** = Aethernus cae *con* la llave chroniana (los dos pueblos reunidos, dioses libres); **A agridulce** = Aethernus cae *sin* la llave (dioses moribundos); **B** = Barbanegra usurpó el poder; **D** = Demasiado Tarde, Manshoon ascendió. Anota también si cada PNJ llegó vivo a este punto, y si fue aliado o traidor —eso modula cada línea. Léelas en voz alta como cierre, o repártelas como cartas finales a cada jugador. *No las suavices: en Chronosia nada se salva gratis.*
+
+### Galen y los Anacronistas
+
+- **A luminoso.** Galen, último custodio del saber del Tiempo, ve cerrarse la grieta que partió a su pueblo hace ocho siglos. Funde su mitad de la llave con la oceánica y, anciano ya, asiste a lo que creía imposible: los Anacronistas y los Oceánicos vuelven a ser **un solo pueblo chroniano**. Muere en paz pocos años después, habiendo cumplido su única misión.
+- **A agridulce.** Galen sobrevive, pero la llave nunca se completó: guarda su mitad como una reliquia que ya no abre nada. Pasa sus últimos años enseñando a recordar a los dioses que no supo salvar. Los Anacronistas perduran como guardianes de un Cronómetro que ahora solo mide silencio.
+- **B / D.** Galen y los suyos se repliegan a Cronópolis y la sellan como bastión clandestino contra el dios nuevo —pirata caprichoso o archimago frío. Resistencia, no victoria: archiveros de un mundo que se apaga, jurando que alguien, algún día, leerá lo que escriban.
+
+### Cronópolis *(la ciudad)*
+
+- **A luminoso.** Con los portales cerrados y las regiones restauradas en 1d6 días, Cronópolis deja de ser el último refugio para convertirse en la **primera capital** de un semiplano sanado: el corazón desde el que Anacronistas y Oceánicos rehacen su pueblo. El Cronómetro de Realidades vuelve a marcar un tiempo que ya no tartamudea.
+- **A agridulce.** La ciudad sobrevive y se estabiliza, pero queda como faro de un plano huérfano: generaciones de reconstrucción por delante, y un Cronómetro que mide la ausencia de los dioses tanto como las horas.
+- **B / D.** Cronópolis cae bajo la sombra del nuevo dios o se hunde en sus propios pliegues. Si los PJ huyeron, queda como la última ciudad que recuerdan entera; si se sacrificaron, como el lugar por el que dieron la vida. En ambos casos, un nombre que pronto nadie podrá pronunciar.
+
+### Los Oceánicos de Abysara — Reina Nereia y Comandante Kael
+
+- **A luminoso.** La **Reina Nereia** sube por última vez de las profundidades no a la guerra, sino a la reunión: su mitad espacial de la llave salva a Voidar, el dios que su pueblo adoró en silencio durante ochocientos años. Renuncia a su corona de soberana aislada para reinar, junto a Galen, sobre un pueblo otra vez entero. El **Comandante Kael**, único superviviente de la masacre de los cuarenta y siete, no perdona ni olvida —pero si Teach cayó por mano de los PJ o de los suyos, por fin duerme. Si Teach murió de otro modo, Kael carga su vendetta sin destinatario el resto de su vida.
+- **A agridulce.** Nereia y Kael acuden y combaten con honor, pero sin reconciliación los dioses se apagan: la Reina ve morir a Voidar con la Perla del Vacío en las manos, demasiado tarde. Los Oceánicos vuelven a sus abismos, más solos que nunca, guardando el luto de un dios que ya no oye sus cantos.
+- **B / D.** Si los Oceánicos eran aliados, mueren cubriendo la retirada o se hunden a defender Abysara hasta el final; Kael cae como vivió, persiguiendo a un enemigo imposible. Si nunca se reconciliaron, ni siquiera están allí: Abysara se sella sobre sí misma y se la traga el Vacío de su propio dios usurpado.
+
+### Din Goldgear *(ingeniero gnomo, alma de Cronópolis)*
+
+- **A luminoso.** Din se revela como el arquitecto silencioso de todo: con el Cristal Profético que Varrak le confió, calibró el Cronómetro y la llave hasta el último engranaje. Vive para ver reunidos a los dos pueblos y dedica sus últimos inviernos a construir maravillas que ya nadie necesita para sobrevivir, solo para asombrarse. El mejor gnomo que Chronosia conoció.
+- **A agridulce.** Din sobrevive, pero su obra mayor —la máquina que debía sostener la llave— quedó incompleta porque faltaba una de las dos mitades. La calibra y recalibra el resto de su vida, sabiendo que la pieza que faltaba no era de metal, sino dos pueblos que no se quisieron a tiempo.
+- **B / D.** Si vive, Din es quien sella las puertas de Cronópolis y esconde los planos del Cronómetro donde el dios nuevo no los encuentre. Si murió antes, sus máquinas siguen latiendo solas en una ciudad vacía, marcando un tiempo que ya no pertenece a nadie.
+
+### Varrak *(el Oráculo, lugarteniente redimido)*
+
+- **Si se sacrificó** (Reloj ≥6/8, tratado como aliado): Varrak ya conocía este desenlace —lo vio en el único futuro donde los héroes ganaban, ese en el que él no estaba. Su harakiri ritual retrasó el Reloj un segmento y entregó su esencia al Artilugio de Din. **En A luminoso**, su sacrificio fue la grieta en lo inevitable que hizo posible todo lo demás: que se nombre su nombre. **En A agridulce**, murió por un mundo que se salvó a medias, y aun así eligió morir. **En B / D**, vio venir incluso esto, y se sacrificó igual —porque entre todos los futuros perdidos prefirió gastarse en el menos amargo.
+- **Si sobrevivió** (los PJ no ganaron su confianza, o el Reloj no llegó a 6/8): Varrak sigue siendo lugarteniente hasta el final. En **A**, pierde el poder robado al caer Aethernus y vuelve a ser un vidente desnudo, condenado a recordar los futuros que no escogió. En **B / D**, sirve —o huye— bajo el dios nuevo, susurrando profecías que ya nadie quiere oír.
+
+### Las Gemelas del Espejo *(Lyra y Nyx, lugartenientes ambiguas)*
+
+- **Si fueron aliadas** (negociadas en el Jardín): cruzaron la Eliminatoria con los héroes y pelearon a su lado. **En A**, liberadas del poder de Voidar al caer Aethernus, eligen por fin una sola vida —dejan de ser reflejo y original para ser dos hermanas, libres en un plano sanado (luminoso) o errantes en uno huérfano (agridulce). **En B / D**, mueren defendiendo a los PJ o desaparecen entre los espejos, de vuelta a la dimensión de la que salieron, antes de que el dios nuevo las reclame.
+- **Si no fueron aliadas:** cayeron en el sandbox o se quedaron en la Eliminatoria, y no estuvieron en la cima. Su ausencia se cuenta sola: dos lugartenientes que pudieron salvarse y nadie tendió la mano.
+
+### Edward Teach "Barbanegra"
+
+- **Final B (usurpó).** Teach gana la única partida que jugaba: con el Talismán intercepta el poder de los dioses y asciende. Un dios pirata, vanidoso y caprichoso, reina sobre el multiverso. El multiverso no se salvó; cambió de tirano. *Que los PJ recuerden que lo dejaron vivo.*
+- **Final A / C (cayó a tiempo).** Teach muere negado en el último segundo —volcado por los PJ justo cuando alzaba el Talismán, o atravesado por la justicia de Kael y los Oceánicos. La Reina Nereia tiene por fin su vendetta; los cuarenta y siete guerreros pueden descansar. El Talismán de Interceptación se apaga con él.
+- **Final D.** Teach perdió la carrera con todos los demás: Manshoon ascendió primero y el pirata fue de los primeros consumidos, riéndose aún cuando el dios diminuto lo miró como a una hormiga. Su ambición fue solo combustible para otro.
+
+### Los lugartenientes supervivientes *(los que el grupo no derrotó)*
+
+- **A luminoso / agridulce.** Al romperse el Cronosellado, los lugartenientes vivos pierden de golpe el poder que era luz y vacío robados: vuelven a ser lo que eran antes de Aethernus. Algunos —**las Gemelas**, **Varrak** si vivía— hallan redención; otros —**Vorthak el Sediento**, **Ignis**, **Veldrisza la Tejedora**— quedan despojados y a merced de un mundo que recuerda lo que hicieron. La guerra civil que Veldrisza tejió (la traición a Serapis vía Bregan D'aerthe, su resurrección como Zin-Carla) muere con su causa: sin poder divino que repartirse, los conspiradores no son más que asesinos sin trono. Lo que el grupo no cerró, lo cierra la caída del ritual.
+- **B / D.** Los supervivientes se postran ante el dios nuevo o son devorados por él. Quienes drenaban poder de Aethernus ahora lo drenan —o lo sufren— del usurpador. Veldrisza intriga igual bajo amo nuevo; Vorthak e Ignis sirven o arden. Ninguno gana: solo cambian de cadena.
+
+### Bregan D'aerthe / Jarlaxle
+
+- **Cualquier final.** Los drow son los únicos que siempre ganan algo, porque nunca apostaron por nadie. Cumplido el contrato con Veldrisza (la muerte y profanación de Serapis), **Jarlaxle** lee el viento antes que nadie. **En A**, recoge su oro y desaparece por un portal hacia el Underdark antes de que se cierren, dejando Chronosia como una anécdota lucrativa. **En B**, le ofrece sus servicios al dios pirata —un trato entre oportunistas— o se larga si huele que no le conviene. **En D**, ya no está: fue el primero en marcharse, porque Bregan D'aerthe nunca muere por una causa, solo cobra por ella. Que reaparezcan algún día, en otra mesa, en otro mundo, es la clase de promesa que Jarlaxle sí cumple.
+
+### Los dioses — Amaunator (Tiempo) y Voidar (Espacio)
+
+- **A luminoso (con la llave).** **Liberados y re-equilibrados.** Las cadenas se abren con el método chroniano y, por primera vez en ochocientos años, el sol y el vacío dejan de drenarse. Vuelven a contener su propia guerra eterna; cierran las heridas del semiplano. No se van: *siguen ahí*, latiendo bajo Chronosia, sostenidos no por cadenas sino por un pueblo reunido. Amaunator amanece; Voidar guarda las estrellas.
+- **A agridulce (sin la llave).** **Liberados pero moribundos.** Las cadenas se rompen mal, porque el saber que sabía soltarlas con cuidado nunca se recompuso. Amaunator y Voidar se apagan despacio, agradecidos y muriéndose a la vez —un mediodía que cae a plomo en noche. Chronosia sobrevive huérfana de sus dioses, y tardará generaciones en sanar, si sana.
+- **Final B (Teach usurpa).** **Consumidos para coronar a otro.** El poder que era suyo no vuelve a ellos: se enrosca en el pirata. Los dioses se vacían como dos odres pinchados, y mueren para que nazca Barbanegra-dios.
+- **Final D (Demasiado Tarde).** **Consumidos para coronar a Manshoon.** El medidor toca el cien y el sol y el vacío se vacían de golpe. Lo que queda en el círculo ya no es un hombre, y los dioses que sostenían el multiverso son ahora solo el combustible de su nacimiento.
+
+---
+
 > *La Torre se deshace en el cielo fracturado, ladrillo a ladrillo, hasta que no queda más que el doblez de espacio del que salió. Lo que los héroes hicieron dentro de ella nunca se contará dos veces igual —porque cada partida llegó con sus propias piezas de la verdad, sus propios muertos y su propia llave. Esa fue siempre la promesa de Chronosia.*

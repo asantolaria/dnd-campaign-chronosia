@@ -22,7 +22,7 @@ La otra clave está en el agua. La **media llave chroniana** —la mitad del sab
 
 ## Recorrido por la región
 
-**Flujo:** **El Puerto Seco** (1) → cruzar el mar muerto hasta **El Faro de Alma Oscura** (2): primera advertencia, primer Oceánico → **Naufragio de la 'Eterna Perdición'** (3): el bergantín de Móreve y la prueba de la vendetta → **Ruinas de Abysara** (4): el templo-arrecife profanado, la media llave y el pacto con los Oceánicos → **Fuerte Negro del Capitán Barbanegra** (5): guarida, cristales y confrontación con Teach. Las **Islas Calavera / de los Lamentos** y los **Restos de Naufragios** son material de relleno y rescate; los **Vórtices** y **Remolinos** son rutas (peligrosas) entre zonas y hacia el resto del hub.
+**Flujo:** **El Puerto Seco** (1) → cruzar el mar muerto hasta **El Faro de Alma Oscura** (2): primera advertencia, primer Oceánico → **Naufragio de la 'Eterna Perdición'** (3): el bergantín de Móreve y la prueba de la vendetta → **Ruinas de Xal'azar** (4): el templo-arrecife profanado, la media llave y el pacto con los Oceánicos → **Fuerte Negro del Capitán Barbanegra** (5): guarida, cristales y confrontación con Teach. Las **Islas Calavera / de los Lamentos** y los **Restos de Naufragios** son material de relleno y rescate; los **Vórtices** y **Remolinos** son rutas (peligrosas) entre zonas y hacia el resto del hub, y en las aguas del nordeste acecha **Krra'thn**, la serpiente del mar en calma muerta.
 
 ### 1 · El Puerto Seco *(zona segura)*
 
@@ -45,7 +45,7 @@ Un faro solitario sobre un islote de roca negra, en mitad del mar más calmo y d
 > *Leído al aproximarse:* "El faro no proyecta su luz hacia fuera, hacia los barcos, sino hacia arriba y hacia dentro, hacia un remolino de cielo negro que gira despacio sobre su linterna. Al pie de la torre, sentada sobre las rocas con las piernas en el agua quieta, hay una figura de piel nacarada y ojos sin párpados que os mira llegar sin sorpresa. «Otro barco con viento robado», dice, y su voz suena como agua honda. «Hace mucho que no veíamos uno. ¿Venís a servir al pirata… o a enterrarlo?»"*
 
 **Tholassa de la Corriente Honda** (oceánica, **voz y emisaria de la Reina Nereia** ante la superficie, aliada potencial — ver statblock). Solemne, antigua, con una vendetta que arde fría. Habla en nombre de su reina, que no abandona el luto de **Abysara**. Es la **boca de la verdad** de esta región. Si los PJ se muestran enemigos de Teach, se abre:
-> "Teach fue uno de los nuestros. Navegó nuestras corrientes, durmió en nuestros arrecifes-templo. Y nos robó. Bajó a **Abysara**, profanó el altar y se llevó la **Perla del Vacío** — una de las dos mitades de un poder antiguo que nunca debió tocar manos de superficie. Cuarenta y siete de nuestros guerreros lo cercaron en el Gran Salón; los tragó a todos por un portal al Vacío. Solo el **Comandante Kael** sobrevivió, y aún no se lo perdona. La **Reina Nereia** juró perseguirlo en cada plano. Con la Perla, Teach mató a Thyra para probar que podía robar lo que un dios cautivo gotea. ¿Entendéis lo que eso significa, gente de tierra? Que sabe que hay dioses encadenados. Que sabe que el poder se puede *interceptar*. Y que pretende quedárselo todo antes que su propio amo."
+> "Teach fue uno de los nuestros. Navegó nuestras corrientes, durmió en nuestros arrecifes-templo. Y nos robó. Bajó a nuestro templo de **Xal'azar**, profanó el altar y se llevó la **Perla del Vacío** — una de las dos mitades de un poder antiguo que nunca debió tocar manos de superficie. Cuarenta y siete guerreros de **Abysara** lo cercaron en el Gran Salón; los tragó a todos por un portal al Vacío. Solo el **Comandante Kael** sobrevivió, y aún no se lo perdona. La **Reina Nereia** juró perseguirlo en cada plano. Con la Perla, Teach mató a Thyra para probar que podía robar lo que un dios cautivo gotea. ¿Entendéis lo que eso significa, gente de tierra? Que sabe que hay dioses encadenados. Que sabe que el poder se puede *interceptar*. Y que pretende quedárselo todo antes que su propio amo."
 
 **Información que intercambia:** a cambio de que los PJ **prueben su lealtad recuperando una reliquia robada del fondo del bergantín de Móreve** (zona 3), Tholassa ofrece tres cosas que ningún otro NPC puede dar:
 1. **La debilidad de Teach:** "Su poder no es suyo: es prestado, cosido de dos dueños. Romped el cristal que estabiliza esa costura —lo guarda en su fuerte— y los dos poderes lucharán *dentro* de él."
@@ -70,9 +70,9 @@ Un galeón gigantesco encallado y partido sobre un banco de arrecifes, escorado 
 - **Diálogo / tentación:** Móreve ofrece a cualquier PJ herido o moribundo "más años" a cambio de enrolarse en su tripulación eterna — y cumple su palabra de un modo monstruoso (el PJ deja de envejecer… porque deja de avanzar en el tiempo, atrapado para siempre a bordo). Es un gancho de horror, no un trato real.
 - **Pista del secreto:** entre el botín, grabado a cuchillo en un mamparo por un marinero que enloqueció, los PJ hallan: *"El Capitán Negro no busca oro. Busca la otra mitad. Dice que con las dos podrá robarle el poder al mismísimo Dios encadenado antes de que el Amo termine de beberlo. Que se hará Dios él. Que ese día el mar volverá a moverse — sobre nuestras tumbas."* (Confirmación velada del **Talismán** y del plan de usurpación.)
 - **Al ser derrotado:** los años robados se liberan de golpe; la tripulación de Móreve envejece a polvo en segundos y el casco se asienta. La reliquia canta. Los PJ pueden llevarla a Tholassa y **ganarse a los Oceánicos**.
-- **Lleva a:** con la reliquia recuperada (o yendo por libre), el rastro de la Perla robada conduce al templo sumergido de Abysara, al sureste.
+- **Lleva a:** con la reliquia recuperada (o yendo por libre), el rastro conduce a las **Ruinas de Xal'azar**, el templo-arrecife profanado del sureste.
 
-### 4 · Ruinas de Abysara *(templo profano de los Oceánicos)*
+### 4 · Ruinas de Xal'azar *(templo profano de los Oceánicos)*
 
 Una isla de piedra negra coronada por una pirámide escalonada cubierta de glifos chronianos, medio hundida, medio en pie, rodeada de arrecifes que en otro tiempo fueron jardines-templo de los Oceánicos. Aquí Teach cometió su traición original. Sobre la cúspide late un **ojo de vórtice** pequeño y morado, la cicatriz que dejó al arrancar la Perla.
 
@@ -140,7 +140,7 @@ La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un 
 
 ## NPCs locales
 
-- **Tholassa de la Corriente Honda** (oceánica, aliada clave). Líder de los Oceánicos; vendetta antigua contra Teach por profanar Abysara. Da la debilidad de Teach, guía submarina y la **promesa de la media llave chroniana** — todo a cambio de *actos*, no de palabras.
+- **Tholassa de la Corriente Honda** (oceánica, aliada clave). Voz y emisaria de la **Reina Nereia**; vendetta antigua contra Teach por profanar el templo de **Xal'azar** y masacrar a los guerreros de **Abysara**. Da la debilidad de Teach, guía submarina y la **promesa de la media llave chroniana** — todo a cambio de *actos*, no de palabras.
 - **Garrett "Sin Brújula"** (humano, náufrago / dador de misiones). Medio loco por años a la deriva, lúcido a ratos. Sabe qué islas aparecen y *cuándo*. Jura que vio entrar a su propia hija por un vórtice, idéntica a como la dejó hace veinte años.
 - **Madame Coral** (tritón mercader, neutral ambigua). Comercia entre mundos a través de los vórtices: pólvora ajena, perlas que muestran el futuro, antídotos contra el robo de tiempo. Intermediará con Oceánicos *o* con Barbanegra según quién pague mejor.
 - **Capitana Brixa Mardela** (humana, jefa del Puerto Seco). Da el contexto inicial y el primer hilo de la traición de Teach.

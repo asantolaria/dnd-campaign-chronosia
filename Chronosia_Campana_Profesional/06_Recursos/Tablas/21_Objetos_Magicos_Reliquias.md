@@ -48,6 +48,58 @@
 
 ---
 
+## Ritmo de objetos por nivel
+
+> **Propósito:** este catálogo es deliberadamente extenso y está ordenado por categoría, no por nivel. Esta sección no reescribe nada: solo **mapea los objetos ya descritos** a la curva de la campaña (nivel 3 a 10) para que el DM reparta poder en el momento correcto y no rompa la escasez temprana. Si un objeto no aparece aquí, trátalo como pieza de su categoría superior (artefacto/reliquia) y reserva para fin de partida.
+
+**Principio general:** la recompensa sigue al peligro, no al dinero. Los objetos clave de trama llegan al **derrotar lugartenientes** o al **completar quests de facción**, no por compra. La compra es una válvula de escape modesta, con tope por banda (ver al final).
+
+### Nivel 3-5 — Asentar las bases (escasez)
+Recompensas pequeñas y mayormente fungibles. El grupo debe **notar** que la magia es valiosa.
+- **Consumibles y munición:** Granada de Estabilidad, Trampa Mecánica Anti-Magia, y Cristal de Poder (Pequeño) como hallazgo muy raro (no comprable).
+- **+1 ocasional / objetos utilitarios sin sintonización pesada:** entrega como mucho un objeto Raro de utilidad puntual.
+- **Dinero modesto:** botín en po suficiente para equipo mundano y servicios; nada que permita comprar piezas de facción todavía.
+- **Aún NO:** artefactos, anillos de lugarteniente, reliquias divinas ni piezas del Rotor.
+
+### Nivel 5-7 — Primeras piezas de trama mid
+Aparecen las recompensas de trama de gama media, ligadas a derrotar lugartenientes y a las primeras alianzas.
+- **Botín de lugartenientes (componentes de artefacto):** **Núcleo Temporal** (de Serapis, parte del Rotor Infinito) y **Carcasa Dimensional** (de Ymir, su coraza helada) — se obtienen aquí pero el Rotor completo se ensambla más tarde.
+- **Arena del Tiempo Estabilizada:** botín de derrotar a Serapis; aquí cumple sobre todo función de **llave/desbloqueo** (acceso a Las Ruinas del Tiempo Perdido).
+- **Primeros objetos de facción (gama Raro):** Reloj de Estabilización Temporal, Gafas de Percepción Temporal, Brújula del Tiempo Verdadero (Anacronistas); Amuleto de Respiración Acuática, Escama de Oceánico (Oceánicos). Preferentemente como **recompensa de alianza/quest**, no por compra plena (ver tope).
+- **Tecnología de la Resistencia (gama Raro):** Escudo Tecnológico, Detector de Magia, Neutralizador de Campo.
+
+### Nivel 7-9 — Ensamblaje y objetos de lugarteniente
+La curva sube: piezas mayores ensambladas y equipo personal de lugartenientes.
+- **Rotor Infinito (completo) y el Motor de Viento Perpetuo** que los Ingenieros construyen con él: requiere **ambas partes** (Núcleo + Carcasa) más materiales; es un hito de esta banda, no antes.
+- **Excavadora Dimensional:** quest de los Ingenieros (materiales + 5 Cristales de Poder Dimensionales); herramienta de progreso de trama de esta banda.
+- **Objetos personales de lugartenientes (reliquias menores):** botín de Serapis, Edward Teach, Dimensionalis, Ignis, Veldrisza y Las Gemelas (espadas/dagas/capas +2/+3 y similares), además del **Espejo de Realidad Fragmentada** (derrotar a Las Gemelas).
+- **Anillos de Poder de los Lugartenientes:** empiezan a entrar en juego aquí (Estasis, Reversión, Aceleración, Compresión, Fragmentación). Recuerda su mecánica: **desaparecen 1-2 min tras la muerte del portador** salvo intervención del Talismán; no escalan solos, son botín situacional.
+- **Tecnología de gama alta (Muy Raro):** Rifle Anti-Magia, Estabilizador Temporal, Compresor Dimensional.
+
+### Nivel 9-10 / Fin de partida — Artefactos y reliquias divinas
+La cima del catálogo, reservada al clímax y a lo ligado a Aethernus.
+- **Artefactos principales:** Cronómetro de Realidades y Perla del Vacío Primordial (recuperables solo al derrotar/desbaratar a Edward Teach); Contador del Ritual como pieza de tablero de la fase final.
+- **Equipo de Aethernus Valcarys:** sus Anillos Mágicos, Bastón de Mando, Corona, Armadura, Espada y Escudo (todos Artefacto Único) — botín del clímax, no antes.
+- **Reliquias divinas:** Fragmento de Amaunator y Fragmento de Voidar (Torre de la Eternidad); Cristal de Poder (Grande) y Cristal Estabilizador (Grande), ambos Legendarios; Cristal de la Batalla Eterna y Escudo de la División.
+- **Regla de oro:** estos objetos pueden inclinar un combate por sí solos; entrégalos cerca del desenlace y trátalos como objetivos de misión, no como loot acumulable.
+
+### Tope de compras de facción por nivel
+Para que la compra no rompa la escasez temprana, las opciones de "Compra (Alternativa)" de las facciones (Anacronistas, Oceánicos) **están bloqueadas por banda**, incluso si el grupo tiene el oro:
+
+| Banda | Compra de facción permitida |
+|-------|------------------------------|
+| **Nivel 3-5** | Ninguna pieza de facción a la venta. Solo consumibles mundanos y servicios. |
+| **Nivel 5-7** | Se desbloquean las piezas **Raro** (2.000-3.000 po): Gafas de Percepción Temporal, Brújula del Tiempo Verdadero, Amuleto de Respiración Acuática, Escama de Oceánico. Máximo **una compra por personaje** en toda la banda. |
+| **Nivel 7-9** | Se desbloquean las piezas **Muy Raro** (≈5.000 po): Reloj de Estabilización Temporal, Tridente del Vacío. Siguen requiriendo **buena relación/alianza** con la facción. |
+| **Nivel 9-10** | Sin tope de compra de facción, pero a esta altura las recompensas relevantes son botín de clímax, no mercancía. |
+
+> **Notas de aplicación:**
+> - El tope afecta a la **compra**, no a la entrega como recompensa de alianza o quest: una pieza Raro puede otorgarse antes si la trama lo justifica.
+> - Los artefactos, anillos de lugarteniente, piezas del Rotor y reliquias divinas **nunca** están a la venta en ninguna banda.
+> - El oro temprano debe gastarse en equipo mundano, servicios y consumibles; no como atajo a las piezas de trama.
+
+---
+
 ## 🎯 **ARTEFACTOS PRINCIPALES**
 
 ### **⏰ Cronómetro de Realidades**
@@ -503,19 +555,19 @@ Una máquina de excavación del tamaño de un carro pequeño, con múltiples tal
 **Rareza:** Artefacto Único  
 **Peso:** 500 libras (completo)  
 **Creador:** Din Goldgear + Ingenieros de Cronópolis  
-**Componentes:** Núcleo Temporal (Serapis) + Carcasa Helada (Ymir)  
+**Componentes:** Núcleo Temporal (Serapis) + Carcasa Dimensional (Ymir)  
 **Estado Actual:** 🔄 Fragmentado (requiere ambas partes)
 
 #### **📍 Ubicación y Obtención:**
 
 **Ubicación de los Componentes:**
 - **Núcleo Temporal:** En posesión de Serapis el Retroceso (La Espiral Inversa)
-- **Carcasa Helada:** En posesión de Ymir el Eterno Invierno (Glacialis)
+- **Carcasa Dimensional:** En posesión de Ymir el Eterno Invierno (Glacialis)
 - **Estado:** Fragmentado - cada componente está con un lugarteniente diferente
 
 **Cómo Obtenerlo:**
 1. **Derrotar a Serapis:** Obtener el Núcleo Temporal (parte 1)
-2. **Derrotar a Ymir:** Obtener la Carcasa Helada (parte 2)
+2. **Derrotar a Ymir:** Obtener la Carcasa Dimensional (parte 2)
 3. **Entregar a los Ingenieros:** Los Ingenieros de Cronópolis ensamblan el Rotor completo
 4. **Quest Giver:** Ingenieros de Cronópolis (Din Goldgear, Balthar Herrumbra, o Lucienne Rietveldt)
 
@@ -553,7 +605,7 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 - **Función:** Genera energía temporal infinita
 - **Obtención:** Derrotar a Serapis el Retroceso
 
-**Carcasa Helada (de Ymir):**
+**Carcasa Dimensional (de Ymir):**
 - **Peso:** 450 libras
 - **Apariencia:** Hielo eterno tallado con runas dimensionales
 - **Función:** Estabiliza portales dimensionales y comprime espacio

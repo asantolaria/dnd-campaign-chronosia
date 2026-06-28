@@ -22,6 +22,53 @@ Chronosia es un **sandbox con cuenta atrás**. Los jugadores eligen libremente q
 
 ---
 
+## El tono: las Marcas del Tiempo Roto
+
+Chronosia no es un mundo de fantasía con un reloj encima: es un **semiplano agonizante** donde dos dioses presos se desangran, y eso se nota en cada detalle. Igual que *Curse of Strahd* te pide repetir sus "marcas del horror" hasta que Barovia se siente opresiva, aquí tu trabajo es **martillear, sesión tras sesión, la sensación de tiempo y espacio averiados** hasta que los jugadores la den por sentada. Esto no es decoración: es lo que separa "matamos monstruos en un sitio raro" de "estamos dentro de algo que se está rompiendo". Las páginas sensoriales de la [Guía Rápida](01_Introduccion/02_Guia_Rapida.md) son tu despensa; aquí tienes la cocina.
+
+### Tres o cuatro tics recurrentes (repítelos hasta que pesen)
+Elige un puñado de gestos y **vuelve a ellos cada sesión**. La repetición es lo que crea el tono; un detalle usado una vez es anécdota, usado diez veces es atmósfera.
+
+- **El tic-tac desincronizado.** En cualquier interior hay al menos un reloj, y nunca marca lo mismo que otro. De fondo, siempre, un *tic… tac.. tic-tac-tic… tac* que no cuadra. Cuando quieras tensar, haz que **se pare un segundo** y nadie sepa por qué.
+- **La sombra que se adelanta.** Las sombras se mueven **antes** que su dueño, o siguen ahí un instante después de que él se vaya. Descríbelo de pasada, sin subrayarlo: que el jugador lo cace.
+- **El déjà-vu en boca de NPC.** Un tendero te saluda como si ya hubierais hablado hoy —y no. Un guardia repite, palabra por palabra, una frase de hace dos escenas. El mundo **recuerda mal**, o recuerda de más.
+- **La hora imposible.** Un reloj marca las 13, las 25, una hora sin número. El sol está alto y es de noche. Pregúntale al grupo "¿cuánto creéis que lleváis aquí?" y deja que la respuesta no cuadre con lo que dirás luego.
+
+### Regla de oro: describe el tiempo roto ANTES que la geografía
+Al entrar en una región nueva, la tentación es decir qué se ve (montañas, ruinas, mar). Resiste. **Primero el daño temporal o espacial; después el terreno.** No "veis un bosque helado", sino "el aliento se os congela en el aire y se queda flotando como cristal; tardáis en notar que estáis en un bosque". El sitio se presenta por **lo que le han hecho los dioses**, no por su postal. Cada capítulo de región te da el daño firma; ábrela siempre por ahí.
+
+### Tabla 1d10 — Detalles de paradoja ambiental
+Sin mecánica: tira (o elige) y **suéltalo** entre escenas, sin explicarlo. Sirve para crear desasosiego en cualquier región.
+
+| d10 | Detalle |
+|---|---|
+| 1 | Una gota de agua cae, se detiene a media caída, y vuelve a subir hasta el techo. |
+| 2 | Vuestras pisadas en el polvo **ya estaban ahí** antes de que pisarais. |
+| 3 | Una vela arde con la llama hacia abajo; la cera gotea hacia arriba. |
+| 4 | Oís vuestra propia conversación —la de hace un minuto— como un eco a la espalda. |
+| 5 | Un pájaro cruza el cielo, se descompone en pleno vuelo y vuelve a ser polluelo. |
+| 6 | Hay dos lunas y proyectan **una sola** sombra. |
+| 7 | Un NPC envejece o rejuvenece veinte años mientras os habla, y no lo nota. |
+| 8 | Una puerta da a la misma sala de la que acabáis de salir, pero polvorienta de siglos. |
+| 9 | Vuestro reflejo hace un gesto que vosotros no habéis hecho… todavía. |
+| 10 | Un objeto roto se recompone solo, y el sonido del cristal va **de fuera hacia dentro**. |
+
+### Ritmo: cuándo frenar, cuándo acelerar
+El dread se construye en el **silencio antes del golpe**, no en el golpe.
+
+- **Frena** al entrar en una región nueva, ante una revelación de la verdad, y en los minutos previos a un crítico: baja la voz, alarga las descripciones, deja preguntas sin responder, mete un tic recurrente o una tirada de paradoja. Que el grupo **note** que algo va mal antes de saber qué.
+- **Acelera** una vez estallado el combate o cuando los jugadores ya tienen la pista y solo dudan: frases cortas, consecuencias inmediatas, el Reloj a la vista. Si has construido bien el dread, no necesitas estirar la lucha; la tensión ya está dentro.
+- **Recuerda el latido temático:** la **memoria es resistencia**. Premia a quien recuerda (un NPC que cuenta guijarros para no olvidarse de sí mismo) y castiga al mundo que olvida. Cuando un jugador retiene un detalle que el mundo ya borró, dale peso: acaba de hacer algo heroico.
+
+### Cómo verbalizar la inevitabilidad (sin que suene a "el DM dice no")
+Algunos hechos son fijos (Thyra muere, el Talismán se forja, el Reloj corre). El tema de la campaña es **inevitabilidad vs. elección**, y eso se transmite *enmarcando lo fijo como lógica del mundo, no como muro tuyo*. Es la misma idea que la nota **"Sensación in-world, no 'el DM dice no'"** de la sección *Eventos que siempre ocurren*, más abajo: no digas "no podéis evitarlo"; haz que el mundo lo explique.
+
+- En vez de "no llegáis a tiempo", di: "El valle de Thyra solo se abre con el Talismán, y Teach lo tiene. Vuestra magia rebota en el aire; no hay puerta que forzar."
+- En vez de "esto va a pasar igual", deja que un NPC lo diga con fatalismo in-world: *"El tiempo aquí no se deshace. Se elige cómo cargarlo."*
+- Recuérdales siempre **dónde SÍ hay elección**: no pueden impedir el hecho, pero deciden *cómo* llegan a él, *qué* salvan por el camino y *quién* sigue en pie al final. La inevitabilidad da peso; la elección da agencia. Las dos juntas son el corazón de Chronosia.
+
+---
+
 ## El Reloj del Ritual (el único motor)
 
 Toda la presión de la campaña la marca **un solo mecanismo**: el **Reloj del Ritual**, la cuenta atrás de la ascensión de Aethernus. *(No hay sistema de balance, ni Lugartenientes Supremos: una sola cosa que vigilar.)*
