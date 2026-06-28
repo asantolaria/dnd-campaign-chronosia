@@ -1,6 +1,3 @@
-# Salidas generadas por conversation-scene-tts (MP3, fragmentos, etc.)
-conversation-scene-tts/output/
-
 # Arte generado de Chronosia (imágenes grandes ~400 MB). Los PROMPTS para
 # regenerarlas (assets/Prompts_Arte_Chronosia.md) y el mapa SVG SÍ se versionan.
 # Si prefieres versionar las imágenes, usa Git LFS y borra estas líneas.
