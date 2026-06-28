@@ -2,7 +2,7 @@
 
 ![Mapa de Las Ruinas del Tiempo Perdido](../assets/mapas/04_ruinas-del-tiempo-perdido.png)
 
-> **Región temporal** · **Lugarteniente:** Tempus el Fragmentado · **Nivel:** 8-10 · **Puerta:** requiere la **Arena del Tiempo** (de Serapis).
+> **Región temporal** · **Lugarteniente:** Tempus el Fragmentado · **Nivel:** 8-10 · **Puerta:** requiere la **Arena del Tiempo**, la esencia que deja cualquier lugarteniente temporal al caer (Serapis es el más accesible).
 
 Las Ruinas del Tiempo Perdido son los restos de una ciudad-reloj que existió "entre tics", fuera del flujo normal del tiempo. Engranajes del tamaño de torres giran en el aire sin enganchar con nada; escaleras suben hacia ayeres que ya no están; arcos de piedra cuelgan sin muro que los sostenga. Un orden mecánico moribundo —eco lejano de Mechanus, el plano de la ley pura— intenta seguir funcionando aunque el reloj central, **Tempus**, esté roto. Aquí el tiempo no se repite ni retrocede como en la Espiral: simplemente se **desordena**. Un instante de hace mil años cae junto a uno de mañana. Y los guardianes de relojería siguen ejecutando, con paciencia infinita, instrucciones de un pueblo que lleva ochocientos años muerto. Esta es la región más antigua de Chronosia, y la que recuerda lo que todas las demás han olvidado.
 
@@ -20,7 +20,7 @@ Es la pieza que cierra el arco de comprensión. La Espiral mostró *que* los lug
 
 ## Recorrido por la región
 
-**Flujo:** **Refugio del Viajero** (zona segura, suroeste) → **1 · El Archivo del Tiempo Astillado**: leen el mundo que fue → **El Gran Engramaje Roto**: el corazón mecánico y sus guardianes → **2 · La Forja del Éter Eterno**: forjan/recuperan el cómo del equilibrio (Cristales) → **3 · El Observatorio de las Estrellas Estáticas**: ven escrita la Guerra de los Dioses → **El Río de los Segundos Perdidos** y **Los Cañones del Eco Temporal**: el descenso al corazón roto, guarida de **Tempus**. El engranaje del Magistrado Cerografo es la llave de la cámara sellada de Tempus.
+**Flujo:** **Refugio del Viajero** (zona segura, suroeste) → **1 · El Archivo del Tiempo Astillado**: leen el mundo que fue → **2 · El Gran Engramaje Roto**: el corazón mecánico y sus guardianes → **3 · La Forja del Éter Eterno**: forjan/recuperan el cómo del equilibrio (Cristales) → **4 · El Observatorio de las Estrellas Estáticas**: ven escrita la Guerra de los Dioses → **El Río de los Segundos Perdidos** y **Los Cañones del Eco Temporal**: el descenso al corazón roto, guarida de **Tempus**. El engranaje del Magistrado Cerografo es la llave de la cámara sellada de Tempus.
 
 ### Refugio del Viajero *(zona segura)*
 
@@ -29,7 +29,7 @@ Es la pieza que cierra el arco de comprensión. La Espiral mostró *que* los lug
 La gnoma es **Veturia la Cronista** (NPC; ver más abajo), archivista de las ruinas. Da el contexto:
 > "Esto que veis no es una ruina sin más. Es **el principio.** Antes de Chronosia hubo un mundo —un mundo entero, con sol y estaciones y gente—. Esta ciudad-reloj era su corazón: aquí los antiguos medían y cuidaban el tiempo y el espacio para que no se desbocaran. Luego vino la guerra de los dioses, y todo… *(tic)* …se rompió. Yo lo he catalogado todo. Cada instante perdido. Si me ayudáis a recuperar mi corazón —mi engranaje, me lo robó un Coloso—, os abriré el Archivo, y leeréis lo que el resto de Chronosia ha olvidado."
 
-**Recompensa de tiempo:** descansar en el Refugio del Viajero no avanza el Reloj del Ritual. Adentrarse en las ruinas, sí. *(Nota de gating: solo se llega aquí con la **Arena del Tiempo**, recompensa de Serapis — esta región es de nivel alto, 8-10.)*
+**Recompensa de tiempo:** descansar en el Refugio del Viajero no avanza el Reloj del Ritual. Adentrarse en las ruinas, sí. *(Nota de gating: solo se llega aquí con la **Arena del Tiempo**, la esencia que deja cualquier lugarteniente temporal al caer —Serapis es el más accesible— esta región es de nivel alto, 8-10.)*
 
 ### 1 · El Archivo del Tiempo Astillado
 
@@ -162,7 +162,7 @@ Al este, una garganta de roca tallada por los engranajes donde cada sonido **vue
 ---
 
 ## Cómo encaja en la campaña
-- **Puerta:** región **bloqueada**; requiere la **Arena del Tiempo** (recompensa de Serapis, Espiral Inversa) para cruzar. Nivel **8-10** — de las regiones más tardías y duras. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
+- **Puerta:** región **bloqueada**; requiere la **Arena del Tiempo** —la esencia que deja **cualquier lugarteniente temporal** al caer (Serapis, en la Espiral Inversa, es el más accesible)— para cruzar. Nivel **8-10** — de las regiones más tardías y duras. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
 - **Pieza de trama que se llevan:** la **historia antigua completa** — el mundo Chroniano anterior a la fractura, los Cristales de Estabilización, la **Guerra de los Dioses** (Amaunator vs. Voidar) que rompió el mundo, y la **partición de los Chronianos en dos pueblos** (Oceánicos / Anacronistas) con la llave del saber repartida. Es el *porqué* de raíz de toda la campaña, y la tesis del buen final: **reunir lo que se partió**.
 - **Botín:** posible **Cristal de Estabilización menor** (forjado en la Forja del Éter Eterno), prueba tangible de cómo se sostenía el equilibrio y pista de qué son el Cronómetro de Realidades y el Cristal de Abysara.
 - **Lo que se pierden si la saltan:** lucharán a ciegas sobre el origen; sabrán *cómo* recomponer la llave pero no *por qué* funciona ni por qué Anacronistas y Oceánicos deben reunirse — y la reconciliación de los pueblos, corazón emocional del final, perderá todo su peso.

@@ -2,7 +2,7 @@
 
 ![Mapa de La Ciudad Subterránea de Veldrisza](../assets/mapas/07_ciudad-subterranea-de-veldrisza.png)
 
-> **Región dimensional (subterránea)** · **Lugarteniente:** Matrona Veldrisza, la Tejedora Dimensional · **Nivel:** 9-10 · **Puerta:** derrotar a **Teach**, poseer el **artefacto gnomo**, o **entrada secreta revelada por Varrak** (si es aliado) · **Recompensa:** la **trama oculta** de la guerra civil — y el camino al Underdark.
+> **Región dimensional (subterránea)** · **Lugarteniente:** Matrona Veldrisza, la Tejedora Dimensional · **Nivel:** 9-10 · **Puerta:** **derrotar a Ignis abre el ala dimensional profunda** (Dimensionalis y Veldrisza) · **Recompensa:** la **trama oculta** de la guerra civil — y el camino al Underdark.
 
 Veldrisza no es solo una caverna: es una **herida en la roca por la que se filtra otro mundo**. Una ciudad entera cuelga de las paredes de una sima descomunal, suspendida sobre telarañas que no son de seda sino de *distancia tejida* — cada hebra cruza el umbral hacia **Menzoberranzan**, y al tocarla un caminante puede aparecer mil kilómetros más abajo, en el Underdark verdadero. Aquí Lolth observa con ocho ojos pacientes. Y aquí los refugiados que un día huyeron a la superficie descubren que la superficie ahora *cuelga sobre el abismo*: es la puerta al Underdark, y cruzarla es renunciar al cielo.
 
@@ -21,7 +21,7 @@ Tres secretos concretos viven aquí:
 
 > **Si los PJ NO visitan esta región**, no verán las costuras de la guerra civil: la traición a Serapis los tomará por sorpresa, no entenderán quién mueve a los Bregan D'aerthe, y perderán el atajo hacia el corazón del hub planar (el Underdark). El conocimiento es ventaja táctica: saber *quién traiciona a quién* permite a los PJ **dividir al enemigo** en vez de enfrentarlo unido.
 >
-> **Rejugabilidad:** la región tiene **tres puertas** y la que usen colorea la experiencia. Si entran por la **entrada secreta de Varrak** (siendo él aliado), llegan informados y con ventaja, y Veldrisza no los espera. Si entran por la fuerza (tras Teach o con el artefacto gnomo), la Matrona está prevenida. **No reveles todo de golpe**: la trama oculta se desovilla hebra a hebra, y el secreto de "algo más antiguo" debe quedar como inquietud, no como respuesta cerrada.
+> **Rejugabilidad:** abierta la región (al caer Ignis), **cómo entren** colorea la experiencia. Si lo hacen por la **entrada secreta de Varrak** (siendo él aliado), llegan informados y con ventaja, y Veldrisza no los espera. Si entran por la fuerza, atravesando el Underdark a la vista, la Matrona está prevenida. **No reveles todo de golpe**: la trama oculta se desovilla hebra a hebra, y el secreto de "algo más antiguo" debe quedar como inquietud, no como respuesta cerrada.
 
 ---
 
@@ -158,7 +158,7 @@ Un castillo drow colgado de las telarañas en lo más alto de la sima, conectado
 ---
 
 ## Cómo encaja en la campaña
-- **Puerta (tres caminos):** **derrotar a Teach**, poseer el **artefacto gnomo**, o la **entrada secreta que revela Varrak** si es aliado (beat 2 de su arco — ver Cap. 8). La ruta de Varrak es la "buena": entran informados y por sorpresa.
+- **Puerta:** región del **ala dimensional profunda**; se abre al **derrotar a Ignis** (Cap. 13), que desbloquea Dimensionalis y Veldrisza. Como sabor de sandbox, si Varrak es aliado puede revelar una **entrada secreta** (beat 2 de su arco — ver Cap. 8) que permite entrar informados y por sorpresa, esquivando defensas; pero el acceso a la región lo abre la caída de Ignis.
 - **Pieza de trama que se llevan:** la **trama oculta de la guerra civil** — los **Bregan D'aerthe comprados por Veldrisza** sobre Serapis, el **Zin-Carla** que la Matrona planea, los **tratos mentirosos de Teach**, y la inquietud de que **algo más antiguo teje bajo la Matrona**. Es el mapa de las traiciones que permite dividir al enemigo.
 - **Conexión con otros capítulos:** desemboca directamente en **"La Traición de Serapis"** (Cap. 14), donde los Bregan D'aerthe ejecutan a Serapis y Veldrisza intenta el Zin-Carla (ver [ficha de Veldrisza](../02_Guia_DM/04_Cronofagos_Detallado/07_Matrona_Veldrisza_La_Tejedora_Dimensional.md)). Recoge hebras del Cap. 9 (Dimensionalis ya nombró a los Bregan D'aerthe) y del Cap. 11 (los tratos de Teach).
 - **Camino al Underdark:** vencida Veldrisza, se abre la ruta a **Menzoberranzan y el corazón del hub planar** a través del Underdark verdadero — conexión con los Bregan D'aerthe y los territorios de pesadilla rumbo al clímax.

@@ -2,7 +2,7 @@
 
 ![Mapa de Glacialis](../assets/mapas/03_glacialis.png)
 
-> **Región dimensional** · **Lugarteniente:** Ymir el Eterno Invierno · **Nivel:** 4-7 · **Puerta:** abierta desde el inicio (región de entrada) · **Recompensa:** la **Carcasa** del Rotor Infinito.
+> **Región dimensional** · **Lugarteniente:** Ymir el Eterno Invierno · **Nivel:** 4-7 · **Puerta:** abierta desde el inicio (región de entrada) · **Recompensa:** la **Carcasa Dimensional** (pieza dimensional del Rotor Infinito).
 
 Glacialis es un páramo donde el horizonte nunca termina: una llanura blanca cosida de **portales de hielo** que cuelgan en el aire como esquirlas de un espejo roto, y por cada esquirla respira otro mundo. A través de unos sopla el viento muerto del Plano del Aire; por otros rezuma el agua negra y helada del Plano Elemental del Agua; por uno, allá al fondo, se ve un cielo que **no es ningún cielo de Chronosia**, lleno de estrellas que se mueven mal. Ymir no conquista con ejércitos: **recluta**. Arrastra a través de su red planar todo lo que muere de frío y lo devuelve hecho heraldo. El silencio de Glacialis no es paz: es la pausa de una puerta antes de que algo la cruce desde el otro lado.
 
@@ -20,7 +20,7 @@ Encaja con lo sembrado en el Jardín ("la Torre está fuera del espacio" — Voi
 
 ## Recorrido por la región
 
-**Flujo:** **Entrada del Aventurero** (zona segura, sur) → **La Ciudad de Hielo** (1): refugio, NPCs, el primer portal "normal" → **Grietas de Otro Plano** (2): el desgarro que prueba que Chronosia toca *otros* planos → **Red de Umbirales Helados** (3): la maraña de portales y su guardiana Velka → **El Portal de las Estrellas** (4): el nodo central, guarida de Ymir, y el portal que no da a ningún plano. Sellar portales menores por el camino debilita la red de Ymir y sus refuerzos en el combate final.
+**Flujo:** **Entrada del Aventurero** (zona segura, sur) → **La Ciudad de Hielo** (1): refugio, NPCs, el primer portal "normal" → **Grietas de Otro Plano** (2): el desgarro que prueba que Chronosia toca *otros* planos → **Red de Umbrales Helados** (3): la maraña de portales y su guardiana Velka → **El Portal de las Estrellas** (4): el nodo central, guarida de Ymir, y el portal que no da a ningún plano. Sellar portales menores por el camino debilita la red de Ymir y sus refuerzos en el combate final.
 
 ### Entrada del Aventurero *(zona segura)*
 
@@ -49,7 +49,7 @@ Un asentamiento construido sobre y dentro de una formación de cristales de hiel
 
 **Pista/secreto:** Sorrel, si los PJ ganaron su confianza en la entrada, los lleva ante un mapa de hielo grabado en el cristal mayor: las puertas de Glacialis no son independientes — **son ramas de un mismo árbol**, y todas las ramas convergen en un tronco: el **Portal de las Estrellas** (zona 4). Y de ese tronco sale una rama más, una sola, que el mapa marca con un hueco: la que **no da a ningún plano**.
 
-**Lleva a:** dos caminos salen de la ciudad. Al oeste, las Grietas de Otro Plano (el desgarro natural). Al norte/este, la Red de Umbirales Helados (las puertas artificiales de Ymir).
+**Lleva a:** dos caminos salen de la ciudad. Al oeste, las Grietas de Otro Plano (el desgarro natural). Al norte/este, la Red de Umbrales Helados (las puertas artificiales de Ymir).
 
 ### 2 · Las Grietas de Otro Plano
 
@@ -67,7 +67,7 @@ Al oeste de la ciudad, el suelo del páramo está literalmente **rajado**: fisur
 
 **Lleva a:** las grietas naturales no se pueden cruzar a salvo; para *viajar* entre planos hacen falta las puertas de Ymir. El rastro sube a la Red.
 
-### 3 · La Red de Umbirales Helados
+### 3 · La Red de Umbrales Helados
 
 Al norte, una maraña de portales de hielo —arcos de escarcha de distintos tamaños— flotando en hileras sobre el páramo, unidos por senderos de hielo pisable. Es la infraestructura logística de los Cronófagos: por aquí entran criaturas y suministros de otros planos.
 
@@ -97,7 +97,8 @@ El nodo central: un **maelström de hielo y vacío** —un embudo gigante girand
 - **Si lo dejan hablar**, Ymir entrega la pieza de la región sin pretenderlo:
   > "¿Creéis que mis puertas dan a *tierras*? No, hielo derretido. Dan a **planos**. A océanos que no son vuestros, a cielos que no son vuestros. ¿Y sabéis por qué puedo abrirlas todas desde aquí? Porque Chronosia no está *dentro* de ningún plano: cuelga en el **hueco entre todos**, como una araña en el centro de su tela, tocando cada hilo. Yo soy el portero de la tela. Y esa de ahí —" *(señala el portal negro)* "— es la única puerta que no quiero abrir. No da a ningún plano. Da al **agujero donde Él se esconde**, fuera de todo, con sus dos cautivos. El amo me prohibió tocarla. Ni siquiera Él recuerda ya que existe."
   *(Confirma: Chronosia = nexo/prisión entre planos; y el portal negro = la Torre, fuera de los planos. Encaja con "la Torre no está en ningún sitio" del Jardín.)*
-- **Victoria:** los portales de hielo se estabilizan, las distorsiones se disipan en 1d4 horas, los congelados se descongelan suaves. Los PJ **capturan la red de portales** (vía rápida al hub planar del clímax) y obtienen la **Carcasa del Rotor Infinito**. El portal negro queda inerte pero **localizado**: ahora saben dónde está la puerta a la Torre. *(Sabor: Ymir era logística pura; matarlo asfixia el abastecimiento de los Cronófagos, pero acelera el Reloj como cualquier conducto caído.)*
+- **Victoria:** los portales de hielo se estabilizan, las distorsiones se disipan en 1d4 horas, los congelados se descongelan suaves. Los PJ **capturan la red de portales** (vía rápida al hub planar del clímax) y extraen de la esencia de Ymir la **Carcasa Dimensional** —la coraza de un conducto del Espacio, hielo planar prensado en forma de armazón—. El portal negro queda inerte pero **localizado**: ahora saben dónde está la puerta a la Torre. *(Sabor: Ymir era logística pura; matarlo asfixia el abastecimiento de los Cronófagos, pero acelera el Reloj como cualquier conducto caído.)*
+  > **Fuente más accesible, no exclusiva.** Ymir es la vía más fácil de conseguir una Carcasa Dimensional (región de entrada, puerta abierta desde el inicio), pero **cualquier lugarteniente dimensional** —Dimensionalis, Veldrisza o Ignis— suelta una Carcasa equivalente al caer. El Rotor Infinito no exige *a Ymir*: exige *un* conducto dimensional.
 
 ---
 
@@ -144,7 +145,7 @@ El nodo central: un **maelström de hielo y vacío** —un embudo gigante girand
 
 ## Cómo encaja en la campaña
 - **Puerta:** **abierta desde el inicio** — junto a la Espiral Inversa, una de las dos regiones de entrada (nivel 4-7). Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
-- **Recompensa:** la **Carcasa** del Rotor Infinito. Con el **Núcleo** de Serapis (Espiral Inversa) arma el **Rotor Infinito → Motor de Viento**, que abre el **Archipiélago de Barbanegra**. Además, derrotar a Ymir **captura su red de portales**: la vía rápida al hub planar del clímax.
+- **Recompensa:** la **Carcasa Dimensional** del Rotor Infinito. Con el **Núcleo Temporal** de Serapis (Espiral Inversa) arma el **Rotor Infinito → Motor de Viento**, que abre el **Archipiélago de Barbanegra**. El Rotor pide **una pieza por tipo de conducto**: Ymir es solo la fuente **más accesible** de la Carcasa —cualquier lugarteniente dimensional (Dimensionalis, Veldrisza, Ignis) suelta una equivalente—, igual que Serapis lo es del Núcleo. Además, derrotar a Ymir **captura su red de portales**: la vía rápida al hub planar del clímax.
 - **Pieza de trama que se llevan:** **Chronosia es un nexo/prisión *entre* los planos**, no un reino. Los portales de Ymir prueban que toca el multiverso entero; el portal negro prueba que la **Torre de Aethernus está *fuera* de los planos**, en una bolsa sellada accesible solo desde aquí.
-- **Lo que se pierden si la saltan:** no entenderán *qué es* Chronosia ni *dónde* está la Torre; llegarán al final sin la ruta planar ni la Carcasa (sin Motor de Viento, el Archipiélago queda cerrado).
+- **Lo que se pierden si la saltan:** no entenderán *qué es* Chronosia ni *dónde* está la Torre; llegarán al final sin la ruta planar y deberán arrancarle la Carcasa Dimensional a un conducto dimensional menos accesible (sin Motor de Viento, el Archipiélago queda cerrado).
 - **El arco** recoge la siembra del **Jardín** ("la Torre está fuera del espacio" — Voidar) y la convierte en mapa; alimenta el clímax de la **Torre de la Eternidad** (el portal negro) y la logística de los Cronófagos en general.

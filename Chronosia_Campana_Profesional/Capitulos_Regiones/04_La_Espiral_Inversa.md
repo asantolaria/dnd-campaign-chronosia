@@ -2,7 +2,7 @@
 
 ![Mapa de La Espiral Inversa](../assets/mapas/01_espiral-inversa.png)
 
-> **Región temporal** · **Lugarteniente:** Serapis el Retroceso · **Nivel:** 4-7 · **Puerta:** abierta desde el inicio · **Recompensa:** el **Núcleo** del Rotor Infinito.
+> **Región temporal** · **Lugarteniente:** Serapis el Retroceso · **Nivel:** 4-7 · **Puerta:** abierta desde el inicio · **Recompensa:** el **Núcleo Temporal** (pieza temporal del Rotor Infinito).
 
 La Espiral Inversa es un valle con forma de caracola donde el ayer nunca termina de morir. El mismo amanecer regresa cada vez que cae la noche; las cosechas rebrotan verdes, las velas se alargan al consumirse, los muertos se levantan confundidos. En su corazón gira un **Reloj de Arena gigante** tallado en la roca: cuando su arena sube, el tiempo avanza; cuando baja, todo se reinicia. Doscientos aldeanos trabajan cada día para "hacer subir la arena" y posponer el reinicio.
 
@@ -85,7 +85,8 @@ El centro de la espiral: un doble vórtice de arena dorada girando hacia atrás,
   > "¿Romper el bucle? Adelante. Pero sabed lo que liberáis: yo no hago girar nada. Solo **bebo lo que gotea**. Mientras yo recoja la arena, el valle vive el mismo día… pero **el día no avanza hacia la Torre**. Matadme, y la cuenta atrás de *Él* correrá un poco más rápido. Yo era vuestro freno, idiotas."
 
   *(Verdad incómoda y opcional: derrotar a este lugarteniente puede sentirse como una victoria, pero acelera el ritual. Es sabor; mecánicamente, matar a Serapis no es matar a un crítico, así que no frena el Reloj — encaja con que él "solo recoge".)*
-- **Victoria:** el Reloj de Arena se detiene, la espiral se deshace, el valle se restaura en 1d4 horas, los 200 aldeanos despiertan libres. Los PJ obtienen el **Núcleo del Rotor Infinito**.
+- **Victoria:** el Reloj de Arena se detiene, la espiral se deshace, el valle se restaura en 1d4 horas, los 200 aldeanos despiertan libres. Los PJ extraen de la esencia temporal de Serapis el **Núcleo Temporal** —el corazón de un conducto del Tiempo (la luz robada a Amaunator cristalizada)—. De esa misma esencia se condensa la **Arena del Tiempo**, la llave que piden las **Ruinas del Tiempo** (Cap. 7): el Núcleo Temporal de Serapis *es* esa Arena, dos nombres para lo que mana de su corazón temporal.
+  > **Fuente más accesible, no exclusiva.** Serapis es la vía más fácil de conseguir un Núcleo Temporal (región de entrada, puerta abierta desde el inicio), pero **cualquier lugarteniente temporal** —Tempus, Medusa o las Gemelas— suelta un Núcleo equivalente al caer. El Rotor Infinito no exige *a Serapis*: exige *un* conducto temporal.
 - **El coste:** romper el bucle "mata de verdad" a los **Aldeanos Vueltos Niños**. Recuérdalo: la liberación tiene precio.
 
 ---
@@ -116,7 +117,7 @@ El centro de la espiral: un doble vórtice de arena dorada girando hacia atrás,
 ---
 
 ## Cómo encaja en la campaña
-- **Puerta:** región de entrada (nivel 4-7). El **Núcleo** de Serapis + la **Carcasa** de Ymir (Glacialis) montan el **Rotor Infinito** → **Motor de Viento** → abre el Archipiélago de Barbanegra. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
+- **Puerta:** región de entrada (nivel 4-7). El **Núcleo Temporal** de Serapis + la **Carcasa Dimensional** de Ymir (Glacialis) montan el **Rotor Infinito** → **Motor de Viento** → abre el Archipiélago de Barbanegra. El Rotor se ensambla con dos piezas **por tipo de conducto**: cualquier lugarteniente temporal suelta un Núcleo equivalente y cualquier dimensional una Carcasa equivalente; Serapis e Ymir son solo los **más accesibles**, no obligatorios. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
 - **Pieza de trama que se llevan:** los lugartenientes **canalizan** el poder de un **dios cautivo** (Amaunator). Es la primera ventana al verdadero plan de Aethernus.
 - **Lo que se pierden si la saltan:** captarán tarde que los lugartenientes son conductos, y la conexión "sol encadenado → Torre". El sandbox premia explorar; el Reloj castiga querer verlo todo.
 - **El arco de Serapis** continúa en **La Traición de Serapis** (Cap. 14).

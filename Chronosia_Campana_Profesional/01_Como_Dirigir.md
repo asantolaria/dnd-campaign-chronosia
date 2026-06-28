@@ -51,18 +51,38 @@ Cada muerte de lugarteniente corta un canal y el Contador **parpadea/retrocede**
 
 ## El Mapa de Puertas (cómo se abren las regiones)
 
-Cada región tiene una **razón in-world** para estar cerrada hasta conseguir cierto medio.
+Cada región tiene una **razón in-world** para estar cerrada hasta conseguir cierto medio. Pero **ninguna puerta depende de un lugarteniente concreto**: lo que abre el camino son *tipos* de poder, y hay varias formas de conseguir cada uno. Eso mantiene la elección libre.
 
 | Nivel | Región (capítulo) | Puerta |
 |---|---|---|
-| 4-7 | **La Espiral Inversa** (Cap. 4) · **Glacialis** (Cap. 6) | Abiertas desde el inicio. Dan el **Núcleo** y la **Carcasa** del Rotor |
-| 5-8 | **El Jardín de los Tiempos Gemelos** (Cap. 5) · **El Abismo de los Posibles** (Cap. 8) | Tras derrotar 1 lugarteniente |
-| 7-9 | **El Archipiélago de Barbanegra** (Cap. 11) | **Motor de Viento** (= Rotor: Serapis + Ymir): el mar está en calma muerta |
-| 8-10 | **Las Ruinas del Tiempo Perdido** (Cap. 7) · **La Mansión de la Sed Eterna** (Cap. 12) · **Las Calderas Dimensionales** (Cap. 13) | Alto nivel; Ruinas requieren la Arena del Tiempo (de Serapis) |
+| 4-7 | **La Espiral Inversa** (Cap. 4) · **Glacialis** (Cap. 6) | **Abiertas desde el inicio** |
+| 5-8 | **El Jardín de los Tiempos Gemelos** (Cap. 5) · **El Abismo de los Posibles** (Cap. 8) | **Abiertas desde el inicio** (más duras: entra cuando os veáis con nivel) |
+| 7-9 | **El Archipiélago de Barbanegra** (Cap. 11) | **Motor de Viento** (ver abajo): hasta entonces el mar está en calma muerta |
+| 8-10 | **Las Ruinas del Tiempo Perdido** (Cap. 7) · **La Mansión de la Sed Eterna** (Cap. 12) · **Las Calderas Dimensionales** (Cap. 13) | Alto nivel; las Ruinas piden una **Arena del Tiempo** (la deja cualquier lugarteniente temporal) |
 | 9-10 | **Las Llanuras de la Compresión** (Cap. 9) · **La Ciudad de Veldrisza** (Cap. 10) | Derrotar a **Ignis** abre el ala dimensional profunda |
 | Clímax | **La Torre de la Eternidad** (Cap. 15) | El Reloj llega a 8 |
 
+Así, **cuatro regiones están abiertas desde el inicio** (Espiral, Glacialis, Jardín, Abismo): el sandbox arranca de verdad libre.
+
+### El Motor de Viento (la puerta del Archipiélago)
+El mar que rodea el Archipiélago está en **calma muerta**: ningún barco avanza. Para cruzarlo, los Anacronistas montan el **Motor de Viento**, que necesita el **Rotor Infinito**. Y el Rotor se ensambla con **dos piezas que sueltan los lugartenientes al caer** —una de cada tipo de conducto divino—:
+
+- **Núcleo Temporal** — el corazón de un **conducto de Amaunator (Tiempo)**. Lo deja **cualquier lugarteniente temporal**: **Serapis** (Espiral), **las Gemelas** o **Medusa** (Jardín), **Tempus**…
+- **Carcasa Dimensional** — la coraza de un **conducto de Voidar (Espacio)**. La deja **cualquier lugarteniente dimensional**: **Ymir** (Glacialis), **Dimensionalis**, **Veldrisza**, **Ignis**…
+
+Combina **uno de cada tipo** y tienes el Rotor. **Serapis e Ymir son los más accesibles** (regiones de entrada), pero **no obligatorios**: el grupo elige a quién cazar. La puerta premia derrotar lugartenientes, sin forzar dos en concreto.
+
+> **Lugartenientes por aspecto** (de qué dios son conducto): **Temporales (Amaunator)** — Serapis, Tempus, Medusa, las Gemelas. **Dimensionales (Voidar)** — Ymir, Dimensionalis, Veldrisza, Ignis. *(Vorthak drena vida: no da pieza de Rotor.)*
+
 El **Valle de la Aguja** (Thyra) es **inaccesible** para los PJ: solo Teach, con el Talismán, puede entrar.
+
+### Saber si estás listo: reconocimiento e inteligencia
+Con cuatro regiones abiertas a la vez, los PJ eligen objetivos casi **a ciegas**. Dales herramientas para **medir la amenaza antes de comprometerse** y para **encontrar lo que les falta**, en lugar de cargar de frente:
+
+- **Antes de asaltar**, premia espiar: preguntar a Anacronistas y a La Resistencia, interrogar prisioneros, *scrying*, explorar los aledaños. Una **tirada de reconocimiento** les dice **si el objetivo está a su nivel** (🟢 manejable → ⛔ suicida) y a veces **un punto débil**.
+- **Al explorar a fondo o rebuscar**, una **tirada de hallazgos** puede darles **una pieza que les falta** (un Núcleo/Carcasa, una llave, un mapa de región cerrada) o una **pista** de la trama o del próximo golpe de Teach.
+
+Las tablas listas para usar —y un randomizador opcional de rejugabilidad— están en el [Apéndice — Reconocimiento e Inteligencia](06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md). El sandbox así se siente **informado**, no aleatorio: deciden con datos en la mano.
 
 ---
 
@@ -80,7 +100,7 @@ El **Valle de la Aguja** (Thyra) es **inaccesible** para los PJ: solo Teach, con
 Esto es cómo fluye una partida típica. Úsalo como hilo; el sandbox hará el resto.
 
 ### Fase 0 — Railroad inicial *(lineal)*
-Los PJ investigan un asesinato en **Waterdeep** (el relojero Thaddeus, muerto por el Cronófago Kaelthas), derrotan a Kaelthas y los **Anacronistas** (Galen, Zephyr) los llevan a **Chronosia**. Se establecen en **Cronópolis** (Cap. 3). *Sin elecciones de peso: es el enganche.* Al final, **ven el Cronómetro de Realidades** (setup del robo futuro).
+Los PJ investigan un asesinato en **Waterdeep** (el relojero Thaddeus, muerto por el Cronófago Kaelthas), derrotan a Kaelthas y los **Anacronistas** (liderados por Galen) los llevan a **Chronosia**. Se establecen en **Cronópolis** (Cap. 3). *Sin elecciones de peso: es el enganche.* Al final, **ven el Cronómetro de Realidades** (setup del robo futuro).
 
 ### Fase 1 — Robos y traición *(eventos fijos)*
 **Edward Teach** ejecuta su plan (detalle en Cap. 14): roba la Perla y el Cronómetro, forja el **Talismán** y **asesina a Thyra** (→ SALTO del Reloj). Estalla la **guerra espontánea** entre lugartenientes. Se construye el **Contador del Ritual**. Los PJ pueden investigar los robos y ser sospechosos.
