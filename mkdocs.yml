@@ -40,18 +40,80 @@ plugins:
 hooks:
   - mkdocs_hooks.py
 
-# No construir los exports ni copiar las imágenes originales (pesadas, gitignoradas).
-# La web usa las copias optimizadas de assets/web/ (ver mkdocs_hooks.py).
+# El libro: índice de capítulos. Lo no listado aquí no aparece en el menú.
+nav:
+  - Portada: index.md
+  - La Historia de Chronosia: 00_La_Historia_de_Chronosia.md
+  - 1 · Cómo dirigir Chronosia: 01_Como_Dirigir.md
+  - 2 · El semiplano: 02_El_Semiplano.md
+  - 3 · Cronópolis: 03_Cronopolis.md
+  - Las regiones:
+    - 4 · La Espiral Inversa: Capitulos_Regiones/04_La_Espiral_Inversa.md
+    - 5 · El Jardín de los Tiempos Gemelos: Capitulos_Regiones/05_El_Jardin_de_los_Tiempos_Gemelos.md
+    - 6 · Glacialis: Capitulos_Regiones/06_Glacialis.md
+    - 7 · Las Ruinas del Tiempo Perdido: Capitulos_Regiones/07_Las_Ruinas_del_Tiempo_Perdido.md
+    - 8 · El Abismo de los Posibles: Capitulos_Regiones/08_El_Abismo_de_los_Posibles.md
+    - 9 · Las Llanuras de la Compresión: Capitulos_Regiones/09_Las_Llanuras_de_la_Compresion.md
+    - 10 · La Ciudad Subterránea de Veldrisza: Capitulos_Regiones/10_La_Ciudad_Subterranea_de_Veldrisza.md
+    - 11 · El Archipiélago de Barbanegra: Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md
+    - 12 · La Mansión de la Sed Eterna: Capitulos_Regiones/12_La_Mansion_de_la_Sed_Eterna.md
+    - 13 · Las Calderas Dimensionales: Capitulos_Regiones/13_Las_Calderas_Dimensionales.md
+  - 14 · El arco de Barbanegra y las traiciones: 14_Arco_de_Barbanegra.md
+  - 15 · El clímax — La Torre de la Eternidad: 15_Climax_La_Torre.md
+  - Apéndices:
+    - Creación de personajes: 01_Introduccion/03_Creacion_Personajes.md
+    - A · Cronología de eventos fijos: 02_Guia_DM/07_Cronologia_Maestra_Campana.md
+    - B · PNJs importantes: 02_Guia_DM/03_NPCs_Importantes.md
+    - Facciones:
+      - Índice de facciones: 02_Guia_DM/02_Facciones/00_Indice_Facciones.md
+      - Los Cronófagos: 02_Guia_DM/02_Facciones/01_Cronofagos.md
+      - La Resistencia: 02_Guia_DM/02_Facciones/02_La_Resistencia.md
+      - Los Anacronistas: 02_Guia_DM/02_Facciones/03_Anacronistas.md
+      - Bregan D'aerthe: 02_Guia_DM/02_Facciones/04_Bregan_Daerthe.md
+      - Dinámicas entre facciones: 02_Guia_DM/02_Facciones/06_Dinamicas_Entre_Facciones.md
+      - Oceánicos de Abysara: 02_Guia_DM/02_Facciones/07_Oceanicos_Abysara.md
+    - C · Bestiario (statblocks):
+      - Lugartenientes (índice): 02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md
+      - Serapis: 02_Guia_DM/04_Cronofagos_Detallado/01_Serapis_El_Retroceso.md
+      - Varrak: 02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md
+      - Vorthak: 02_Guia_DM/04_Cronofagos_Detallado/03_Lord_Vorthak_El_Sediento_Eterno.md
+      - Edward Teach: 02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md
+      - Dimensionalis: 02_Guia_DM/04_Cronofagos_Detallado/05_Dimensionalis_La_Fracturada.md
+      - Ignis: 02_Guia_DM/04_Cronofagos_Detallado/06_Ignis_El_Devorador_Espacial.md
+      - Veldrisza: 02_Guia_DM/04_Cronofagos_Detallado/07_Matrona_Veldrisza_La_Tejedora_Dimensional.md
+      - Las Gemelas: 02_Guia_DM/04_Cronofagos_Detallado/08_Las_Gemelas_Del_Espejo.md
+      - Ymir: 02_Guia_DM/04_Cronofagos_Detallado/09_Ymir_El_Eterno_Invierno.md
+      - Medusa: 02_Guia_DM/04_Cronofagos_Detallado/10_Medusa_La_Eterna.md
+      - Tempus: 02_Guia_DM/04_Cronofagos_Detallado/11_Tempus_El_Fragmentado.md
+      - Aethernus: 02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md
+      - Soldados y ejércitos: 02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md
+      - Monstruos genéricos: 05_Apendices/17_Monstruos_Enemigos.md
+    - D · Objetos mágicos y reliquias: 06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md
+    - E · Tablas:
+      - Eventos aleatorios: 06_Recursos/Tablas/19_Tablas_Eventos.md
+      - Tracking de campaña: 06_Recursos/Tablas/20_Tablas_Tracking_Campana.md
+      - Encuentros por región: 06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md
+    - F · Handouts: 06_Recursos/Handouts/README.md
+    - Nexo planar y continuaciones: 02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md
+
+# Fuera del menú (material en bruto ya fundido en los capítulos, o meta).
 exclude_docs: |
   exports/
   agents.md
+  README.md
   70_Ideas_Creativas_DM.md
   assets/mapas/
   assets/bestiario/
   assets/objetos_magicos/
   assets/Prompt_Mapa_ChatGPT.md
+  assets/Prompts_Arte_Chronosia.md
+  assets/00_Indice_Visual.md
+  00_Esquema_Campana_Mermaid.md
+  00_Indice_Campana.md
   00_Esquemas/02_Ascension_Conclave.md
   02_Guia_DM/05_La_Ascension_del_Conclave.md
+  06_Recursos/Tablas/README.md
+  06_Recursos/Mapas/README.md
 
 markdown_extensions:
   - admonition
