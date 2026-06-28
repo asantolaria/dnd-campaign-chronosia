@@ -1,6 +1,6 @@
 # ⏰ Serapis el Retroceso
 
-![Serapis el Retroceso](../../assets/bestiario/lugartenientes/01_serapis.jpg)
+![Serapis el Retroceso](../../assets/bestiario/lugartenientes/01_serapis-el-retroceso.jpg)
 
 ## *Lugarteniente Temporal - Elfo Eterno*
 

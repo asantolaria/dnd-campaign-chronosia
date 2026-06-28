@@ -1,6 +1,6 @@
 # 🏴‍☠️ Edward Teach "Barbanegra"
 
-![Edward Teach](../../assets/bestiario/lugartenientes/04_edward-teach.jpg)
+![Edward Teach](../../assets/bestiario/lugartenientes/04_edward-teach-barbanegra.jpg)
 
 ## *Lugarteniente Dimensional - Humano Pirata - Independiente/Híbrido*
 

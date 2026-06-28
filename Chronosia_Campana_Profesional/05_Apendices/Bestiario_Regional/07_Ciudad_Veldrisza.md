@@ -10,7 +10,7 @@ Veldrisza no es solo una caverna: es una herida en la roca por la que se filtra 
 
 ## 😈 Villano Menor — Zress'ynara, la Tejedora de Umbrales
 
-![Zress'ynara, la Tejedora de Umbrales](../../assets/bestiario/villanos_menores/07_zressynara.jpg)
+![Zress'ynara, la Tejedora de Umbrales](../../assets/bestiario/villanos_menores/07_zressynara-tejedora-de-umbrales.jpg)
 
 Sacerdotisa drow caída en desgracia ante la Matrona, Zress'ynara fue *bendecida* por Lolth con la maldición de la transformación: medio drow, medio araña, una **drider** que ya no distingue dónde acaba la caverna y dónde empieza Menzoberranzan. Custodia los nudos de telaraña dimensional como una carcelera devota, y cobra peaje en sangre o en almas. Gancho: ofrece a los PJ una ruta segura por el Underdark... a cambio de entregarle a uno de los refugiados que protegen.
 

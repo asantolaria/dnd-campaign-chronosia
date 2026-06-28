@@ -14,7 +14,7 @@ Cronópolis es la última ciudad libre, pero **nadie la gobierna del todo**. Hay
 
 ### **Síndica Maren Velasco — Autoridad Civil**
 
-![Síndica Maren](../assets/bestiario/npcs/maren-sindica.jpg)
+![Síndica Maren](../assets/bestiario/npcs/maren-velasco-sindica.jpg)
 
 - **Raza/Clase:** Humana, plebeya · funcionaria, no combatiente.
 - **Cargo:** Síndica del Concejo de Cronópolis (gremios, refugiados, abastecimiento). Heredó el cargo cuando el anterior síndico murió en un asedio; no lo pidió y lo lleva con un cansancio honesto.
@@ -33,7 +33,7 @@ Cronópolis es la última ciudad libre, pero **nadie la gobierna del todo**. Hay
 
 ### **Bram "Dosjarras" Holderfast — Tabernero**
 
-![Bram Dosjarras](../assets/bestiario/npcs/bram.jpg)
+![Bram Dosjarras](../assets/bestiario/npcs/bram-dosjarras-holderfast.jpg)
 
 - **Raza:** Enano de las colinas, exsoldado retirado (le falta una pierna, prótesis de los Ingenieros).
 - **Personalidad:** Bonachón con memoria de elefante; sirve fiado a los desesperados y lo apunta en una pizarra que nunca cobra.
@@ -59,7 +59,7 @@ Zephyr "el Saltamundos" es genial pero **errante y aleatorio**. La ciudad necesi
 
 ### **Caldo y Compañía — Puesto de Zephyr (cuando está)**
 
-![Zephyr](../assets/bestiario/npcs/zephyr.jpg)
+![Zephyr](../assets/bestiario/npcs/zephyr-el-saltamundos.jpg)
 
 - Cuando el carromato de **Zephyr** aparece (aleatorio), se instala junto al almacén de Oda. Lo exótico/planar lo trae Zephyr; lo fiable, Oda. Los PJ aprenden a aprovechar ambos.
 

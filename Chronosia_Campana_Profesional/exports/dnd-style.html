@@ -1,0 +1,53 @@
+<style>
+  @page { size: A4; margin: 1.5cm; }
+  :root{ --rojo:#58180d; --rojo2:#7a2710; --pergamino:#ece3cf; --caja:#e3d7b6; --linea:#b08d57; }
+  body{
+    font-family:"EB Garamond","Palatino Linotype","Book Antiqua",Palatino,Georgia,"Times New Roman",serif;
+    background:var(--pergamino); color:#19120a;
+    font-size:10.5pt; line-height:1.42; text-align:justify; hyphens:auto;
+    margin:0; padding:1.4cm 1.2cm;
+    column-count:2; column-gap:1.5em;
+  }
+  /* Elementos a todo el ancho */
+  #title-block-header, nav#TOC, h1 { column-span:all; -webkit-column-span:all; }
+  #title-block-header{ text-align:center; margin:22vh 0 2em; break-after:page; }
+  #title-block-header .title{ font-size:3.2em; border:0; }
+  #title-block-header .subtitle{ font-size:1.2em; color:var(--rojo2); }
+  /* Títulos */
+  h1,h2,h3,h4{ font-family:"Optima","Palatino Linotype","Book Antiqua",Georgia,serif;
+               color:var(--rojo); line-height:1.12; font-weight:bold; }
+  h1{ font-size:1.9em; border-bottom:3px double var(--rojo); padding-bottom:.1em;
+      margin:.2em 0 .5em; break-before:page; letter-spacing:.5px; }
+  h2{ font-size:1.35em; font-variant:small-caps; letter-spacing:1px;
+      border-bottom:1px solid var(--linea); padding-bottom:.05em; margin:1.1em 0 .4em;
+      break-after:avoid; }
+  h3{ font-size:1.12em; color:var(--rojo2); font-variant:small-caps; margin:.9em 0 .3em; break-after:avoid; }
+  h4{ font-size:1em; color:#6b3410; font-variant:small-caps; letter-spacing:.5px; margin:.7em 0 .2em; break-after:avoid; }
+  p{ margin:.35em 0; }
+  a{ color:var(--rojo); text-decoration:none; }
+  hr{ border:0; border-top:2px solid var(--linea); margin:1em 0; }
+  /* Capitular (drop cap) tras un H1 o H2 */
+  h1 + p::first-letter, h2 + p::first-letter{
+    font-family:Georgia,"Times New Roman",serif; font-weight:bold; color:var(--rojo);
+    font-size:3.4em; line-height:.78; float:left; padding:.02em .08em 0 0;
+  }
+  /* Recuadros laterales / texto para leer en voz alta */
+  blockquote{ background:var(--caja); border:1px solid var(--linea); border-left:4px solid var(--rojo);
+              margin:.8em 0; padding:.5em .8em; font-size:.95em; break-inside:avoid; }
+  /* Tablas estilo manual */
+  table{ border-collapse:collapse; width:100%; margin:.8em 0; font-size:.9em; break-inside:avoid; }
+  th{ background:var(--rojo); color:var(--pergamino); padding:.3em .5em; text-align:left; font-variant:small-caps; }
+  td{ padding:.28em .5em; border-bottom:1px solid #cdb685; vertical-align:top; }
+  tr:nth-child(even) td{ background:#e6dabb; }
+  code{ background:#e6dabb; padding:.05em .3em; border-radius:3px; font-size:.88em; }
+  pre{ background:var(--caja); border:1px solid var(--linea); padding:.6em; overflow:auto; font-size:.8em; break-inside:avoid; }
+  /* Imágenes: dentro de columna, centradas, con marco */
+  img{ display:block; max-width:100%; height:auto; margin:.7em auto;
+       border:3px solid var(--rojo); box-shadow:0 2px 5px rgba(0,0,0,.3); break-inside:avoid; }
+  ul,ol{ margin:.3em 0 .3em 1.1em; padding:0; }
+  li{ margin:.12em 0; }
+  nav#TOC{ break-after:page; }
+  nav#TOC ul{ list-style:none; columns:2; column-gap:2em; }
+  nav#TOC a{ color:#19120a; }
+  nav#TOC > ul > li > a{ color:var(--rojo); font-variant:small-caps; font-weight:bold; }
+</style>

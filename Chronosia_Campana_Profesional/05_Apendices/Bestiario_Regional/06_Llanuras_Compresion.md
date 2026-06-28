@@ -10,7 +10,7 @@ En las Llanuras de la Compresión las distancias mienten. Un paso puede cubrir u
 
 ## 😈 Villano Menor — Karkesh el Cartógrafo de Cenizas
 
-![Karkesh el Cartógrafo de Cenizas](../../assets/bestiario/villanos_menores/06_karkesh.jpg)
+![Karkesh el Cartógrafo de Cenizas](../../assets/bestiario/villanos_menores/06_karkesh-cartografo-de-cenizas.jpg)
 
 Cultista infernal que sirvió de zapador a Dimensionalis: traza "mapas vivos" en pergaminos de piel humana que reescriben la geometría local. No es la lugarteniente, sino su agrimensor: mide la fractura y la ensancha, abriendo bolsas de Avernus donde antes había llanura. Gancho: quien posea su atlas comprimido puede predecir (o provocar) los pliegues del terreno.
 

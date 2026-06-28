@@ -10,7 +10,7 @@ Las Ruinas del Tiempo Perdido son los restos de una ciudad-reloj que existió "e
 
 ## 😈 Villano Menor — Magistrado Cerografo, el Engranaje Desfasado
 
-![Magistrado Cerografo, el Engranaje Desfasado](../../assets/bestiario/villanos_menores/04_magistrado-cerografo.jpg)
+![Magistrado Cerografo, el Engranaje Desfasado](../../assets/bestiario/villanos_menores/04_magistrado-cerografo-engranaje-desfasado.jpg)
 
 Cerografo fue el "magistrado del orden" de la ciudad-reloj: un constructo administrador modelado a imagen de los modrones, encargado de mantener cada cosa en su instante exacto. Cuando Tempus se fragmentó, Cerografo siguió cumpliendo su función con lógica enloquecida — ahora "corrige" cualquier criatura que esté "en el tiempo equivocado", lo que para él significa todos los seres vivos. No es el lugarteniente: es su capataz mecánico, el sub-jefe que custodia los engranajes mientras Tempus delira en el corazón de las ruinas.
 

@@ -1,6 +1,6 @@
 # 🌌 Dimensionalis la Fracturada
 
-![Dimensionalis](../../assets/bestiario/lugartenientes/05_dimensionalis.jpg)
+![Dimensionalis](../../assets/bestiario/lugartenientes/05_dimensionalis-la-fracturada.jpg)
 
 ## *Lugarteniente Dimensional - Tiefling - Independiente*
 

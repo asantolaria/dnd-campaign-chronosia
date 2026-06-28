@@ -7,3 +7,6 @@ conversation-scene-tts/output/
 Chronosia_Campana_Profesional/assets/mapas/
 Chronosia_Campana_Profesional/assets/bestiario/
 Chronosia_Campana_Profesional/assets/objetos_magicos/
+
+# Manual exportado (regenerable con exports/build_manual.sh)
+Chronosia_Campana_Profesional/exports/Chronosia_Manual_Completo.*
