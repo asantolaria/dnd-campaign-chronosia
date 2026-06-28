@@ -5,7 +5,7 @@
 
 > **📖 NAVEGACIÓN:**
 > - [← Volver a Fase 2](./00_Guia_General_Fase_2.md)
-> - [Sesión 8: Primera Sospecha](./02_Sesion_8_Primera_Sospecha.md)
+> - [Guía de la Fase 2](./00_Guia_General_Fase_2.md)
 > - [Anacronistas](../../02_Guia_DM/02_Facciones/03_Anacronistas.md)
 > - [La Resistencia](../../02_Guia_DM/02_Facciones/02_La_Resistencia.md)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)
@@ -347,7 +347,7 @@ lugartenientes continúan alimentando el ritual con sus acciones."
 - **[La Resistencia](../../02_Guia_DM/02_Facciones/02_La_Resistencia.md)** - Información sobre Balthar y La Resistencia
 - **[Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timing del ritual
 - **[Tablas de Tracking](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** - Estado de lugartenientes y balance
-- **[Sesión 8: Primera Sospecha](./02_Sesion_8_Primera_Sospecha.md)** - Contexto de la sesión
+- **[Guía de la Fase 2](./00_Guia_General_Fase_2.md)** - Contexto de la sesión
 
 ---
 

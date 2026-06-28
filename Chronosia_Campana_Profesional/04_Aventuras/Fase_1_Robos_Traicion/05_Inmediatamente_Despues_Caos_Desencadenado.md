@@ -5,7 +5,7 @@
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 1](./00_Guia_General_Fase_1.md)
-> - [Después del 3er Lugarteniente: Asesinato de Thyra](./04_Despues_3er_Lugarteniente_Asesinato_Thyra.md)
+> - [El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)
 > - [Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
 > - [Motor de Campaña — Reloj del Ritual y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md) - Fuente única (estructura, ritmo, escalada de Teach)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos

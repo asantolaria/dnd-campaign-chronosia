@@ -1,176 +1,51 @@
 # 🎲 FASE 2: SANDBOX INICIAL
-## *Sesiones 6-9 - Exploración Libre*
+## *~Sesiones 6-9 · Nivel 5→7 · Libertad total*
 
 ---
 
 > **📖 NAVEGACIÓN:**
-> - [← Volver al Índice Principal](../00_Estructura_Campana.md)
-> - [Fase 1: Robos y Traición](../Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
-> - [Fase 3: Sandbox Avanzado](../Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
+> - [← Índice de Aventuras](../00_Estructura_Campana.md) · [⏳ Motor de Campaña](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
+> - [Fase 1: Robos y Traición](../Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md) · [Fase 3: Sandbox Avanzado](../Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
 
 ---
 
-## 📋 **OBJETIVO DE ESTA FASE**
+## 📋 Qué es esta fase
 
-Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/traiciones. Esta fase es **SANDBOX PURO** - los PJ tienen libertad total de elección mientras la trama paralela avanza automáticamente.
+**Sandbox puro.** Tras el caos de la Fase 1, los PJ exploran libremente: eligen qué regiones visitar y a qué lugartenientes enfrentar, negociar o evitar. **El Reloj del Ritual corre mientras tanto** — no fuerces ningún orden; deja que el coste de oportunidad haga el trabajo. Cierra con "La Traición de Serapis" (al inicio de la Fase 3).
 
----
-
-## 📚 **ARCHIVOS DE ESTA FASE**
-
-### **Sesión 6-7: Exploración Libre**
-- **[01_Sesion_6-7_Exploracion_Libre.md](./01_Sesion_6-7_Exploracion_Libre.md)**
-- **Nivel:** 5-6
-- **Ubicación:** Regiones desbloqueadas (elección de los PJ)
-- **Eventos:** Sandbox puro, elección de lugarteniente a enfrentar
-
-### **Sesión 8: Primera Sospecha sobre Manshoon**
-- **[02_Sesion_8_Primera_Sospecha.md](./02_Sesion_8_Primera_Sospecha.md)**
-- **Nivel:** 6
-- **Ubicación:** Variable
-- **Evento:** ⚠️ **REVELACIÓN GRADUAL #1** - ¿Dónde está Manshoon?
-
-### **Sesión 9: Exploración Avanzada**
-- **[03_Sesion_9_Exploracion_Avanzada.md](./03_Sesion_9_Exploracion_Avanzada.md)**
-- **Nivel:** 7
-- **Ubicación:** Variable
-- **Eventos:** Sandbox continúa, más regiones desbloqueadas
-
-### **Misiones Sandbox**
-- **[Misiones_Sandbox.md](./Misiones_Sandbox.md)**
-- **Contenido:** Descripciones detalladas de todas las misiones por región
-- **Uso:** Referencia durante la exploración libre
+> **Esta guía no va sesión a sesión.** Tienes el toolkit para dirigirla: el [Mapa de Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md#-mapa-de-puertas-gating-de-regiones), las [misiones por región](./Misiones_Sandbox.md), la [tabla de eventos](../../06_Recursos/Tablas/19_Tablas_Eventos.md) y los [detalles de cada región](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md). Dosifica tú.
 
 ---
 
-## 🎯 **CARACTERÍSTICAS DE ESTA FASE**
+## 🌀 Cómo fluye la fase
 
-### **✅ Libertad Total:**
-- Los PJ eligen qué lugartenientes enfrentar
-- Orden de las misiones es completamente libre
-- Pueden aliarse, negociar, o derrotar a cada lugarteniente
-
-### **🎲 Eventos Variables:**
-- **Eventos Aleatorios (1d12):** Cada 2-3 sesiones, tira para eventos del mundo
-- **Alianzas Dinámicas:** Los lugartenientes forman/rompen alianzas
-- **Sistema de Puntos:** Tracking de La Ascensión del Cónclave
-
-### **📊 Progresión de Niveles:**
-- **Sesión 6-7:** Nivel 5 → 6
-- **Sesión 8:** Nivel 6 → 7
-- **Sesión 9:** Nivel 7
-
-### **🗺️ Regiones Desbloqueadas:**
-- **Sesión 6:** 6 regiones totales
-- **Sesión 8:** 8 regiones totales
-- **Sesión 9:** 9 regiones totales
+1. **Punto de partida:** los PJ tienen ~6 regiones abiertas (las de entrada: Serapis y Ymir a nivel 5-6, más las que abrió derrotar al 1.er lugarteniente). Recomienda empezar por nivel 5-6.
+2. **El bucle:** vuelven a Cronópolis → eligen objetivo → viajan → exploran/enfrentan/negocian → vuelven. Cada arco de región **avanza el Reloj**. Más progreso abre más puertas (ver Mapa de Puertas: el Rotor → Motor de Viento abre el Archipiélago de Teach; derrotar a Ignis abre el ala dimensional profunda).
+3. **Eventos del mundo:** tira en la [tabla de eventos](../../06_Recursos/Tablas/19_Tablas_Eventos.md) cada 2-3 sesiones para que la guerra entre lugartenientes se sienta viva (duelos, conquistas, alianzas, el "hipo del Contador" que delata a Teach).
+4. **Cierre:** cuando hayan tratado con 2-3 lugartenientes y olfateen a Manshoon, enlaza con [La Traición de Serapis](../Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md) → Fase 3.
 
 ---
 
-## ⏳ **EL RELOJ DEL RITUAL (MOTOR DE PRESIÓN)**
+## ✨ Hitos de esta fase (escenas firma)
 
-**⚠️ IMPORTANTE:** La presión la marca un **único motor**: el **Reloj del Ritual** (8 segmentos, empieza en 2/8), que mide la ascensión de Aethernus. No hay sistema de balance temporal/dimensional (retirado).
-
-**Qué mueve el Reloj durante esta fase:**
-- **Avanza (+1):** explorar una región a fondo; hitos de Barbanegra (Thyra = SALTO); desatender a Teach (caza a otro lugarteniente → crece)
-- **Frena / retrocede:** derrotar a un lugarteniente **crítico** (Vorthak, Ignis, Teach); sabotaje de los Anacronistas; sacrificio de Varrak (−1)
-
-**La escalada la encarna Teach:** cada lugarteniente que los PJ no alcanzan primero, Teach lo absorbe y crece. No hay "Supremos" ni inmortalidad.
-
-**Ver:** [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
+- **Revelación #1 — "¿Dónde está Manshoon?":** los PJ notan que Aethernus nunca aparece; las órdenes llegan vía lugartenientes; un Cronófago suelta que está "recluido en la Torre". Escenas y diálogos completos en **[Escenas de Revelación](./04_Escenas_de_Revelacion.md)**.
+- **Nace el Contador del Ritual:** Anacronistas + La Resistencia construyen el marcador que hace visible la cuenta atrás (el Reloj). Encuentro completo en **[Anacronistas y La Resistencia](./05_Encuentro_Anacronistas_Relojeros.md)**.
 
 ---
 
-## 🔗 **REFERENCIAS IMPORTANTES**
+## ⏳ El Reloj en esta fase
 
-### **Documentos del DM:**
-- **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro (referencia general)
-- **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema de competencia
-- **[04_Escenas_de_Revelacion.md](./04_Escenas_de_Revelacion.md)** - Revelaciones graduales
-- **[05_Encuentro_Anacronistas_Relojeros.md](./05_Encuentro_Anacronistas_Relojeros.md)** - Contador del Ritual (Sesión 8-9)
-
-### **Documentos de Regiones:**
-- **[08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - Tabla maestra
-- **[10_Regiones_Temporales.md](../../03_Regiones/10_Regiones_Temporales.md)** - Regiones temporales
-- **[11_Regiones_Dimensionales.md](../../03_Regiones/11_Regiones_Dimensionales.md)** - Regiones dimensionales
+- **Avanza (+1):** explorar una región a fondo; hitos de Barbanegra (Thyra = SALTO); desatender a Teach (caza a otro lugarteniente y crece).
+- **Frena / retrocede:** derrotar a un **crítico** (Vorthak, Ignis, Teach); sabotaje de los Anacronistas; sacrificio de Varrak (−1).
+- **Hazlo visible:** el Contador de Cronópolis, los hitos de Teach, las voces de Galen/Varrak/Marcus. Es ritmo, no cronómetro: tú decides cuándo cae un segmento. Detalle: [Motor de Campaña](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 ---
 
-## 💡 **NOTAS PARA EL DM**
+## 🔗 Referencias
 
-### **Sandbox Real:**
-- **No fuerces un orden:** Los PJ eligen libremente
-- **Prepárate para cualquier región:** Ten información lista
-- **Usa el sistema de puntos:** Simula el mundo vivo
-
-### **Eventos Aleatorios:**
-- **Tira 1d12 cada 2-3 sesiones:** Para eventos del mundo
-- **Adapta según contexto:** Los eventos deben tener sentido narrativo
-- **Afecta a los PJ:** Los eventos deben tener impacto visible
-
-### **Reloj del Ritual:**
-- **Trackea el Reloj:** avanza un segmento cuando los PJ exploran una región a fondo
-- **Hazlo visible:** Contador del Ritual de Cronópolis, hitos de Teach, voces de Galen/Varrak/Marcus
-- **Es ritmo, no cronómetro:** el DM decide cuándo cae un segmento; frénalo al caer un crítico o con sabotaje/sacrificio
+- **[Misiones_Sandbox.md](./Misiones_Sandbox.md)** — qué ofrece cada región (úsalo como menú durante la exploración)
+- **[Regiones](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** · **[Eventos](../../06_Recursos/Tablas/19_Tablas_Eventos.md)** · **[Cronología](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)**
 
 ---
 
-## 📅 **TIMELINE DE ESTA FASE**
-
-### **📖 SESIÓN 6-7: Exploración Libre**
-
-**Regiones Accesibles:** 6 regiones desbloqueadas
-
-**Eventos Típicos:**
-- Los PJ eligen su primer objetivo (lugarteniente a enfrentar)
-- Escuchan rumores sobre alianzas entre lugartenientes
-- Pueden encontrarse con otros lugartenientes de forma random
-
-**Eventos Fijos:** Ninguno (sandbox puro)
-
-**Eventos Variables (1d12):**
-- Duelo a muerte entre lugartenientes (d12=1)
-- Conquista territorial (d12=2)
-- Alianza sorpresa (d12=3)
-- Etc. (ver `05_La_Ascension_del_Conclave.md` - Tabla de Eventos Aleatorios)
-
-**Progresión de Niveles:**
-- **Sesión 6:** Nivel 5
-- **Sesión 7:** Nivel 5-6
-
----
-
-### **📖 SESIÓN 8: "Primera Sospecha sobre Manshoon"**
-
-**Eventos de Sandbox:** Continúan normalmente
-
-**⚠️ REVELACIÓN GRADUAL #1:**
-- ❗ Los PJ notan que **Aethernus nunca aparece directamente**
-- ❗ Todas las órdenes vienen a través de lugartenientes
-- ❗ Interrogan a un Cronófago capturado: "Nunca he visto a Aethernus en persona"
-
-**Regiones Nuevas Desbloqueadas (Total: 8):**
-- **Las Llanuras de la Compresión** (Dimensionalis - Dimensional Principal) - Nivel 7-8
-- **El Jardín de los Tiempos Gemelos** (Las Gemelas - Dimensional Principal) - Nivel 7-8
-
-**Progresión de Niveles:**
-- **Sesión 8:** Nivel 6 → 7
-
----
-
-### **📖 SESIÓN 9: Exploración Avanzada**
-
-**Eventos de Sandbox:** Continúan
-
-**Progresión:** Los PJ deberían haber derrotado 2-3 lugartenientes
-
-**Regiones Nuevas Desbloqueadas (Total: 9):**
-- **El Desierto Espejado** (Tempus - Temporal) - Nivel 6-7
-
-**Progresión de Niveles:**
-- **Sesión 9:** Nivel 7
-
----
-
-*Esta fase da libertad total a los PJ mientras el mundo continúa evolucionando a su alrededor.* 🎲🗺️✨
-
+*Libertad total para los PJ; el mundo evoluciona a su alrededor y el Reloj corre. Aquí se siembra lo que se cosecha en la Torre.* 🎲⏳

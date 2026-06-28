@@ -1,150 +1,43 @@
 # 🌟 FASE 3: SANDBOX AVANZADO
-## *Sesiones 9-12 - Revelaciones y Elecciones Críticas*
+## *~Sesiones 9-12 · Nivel 7→8 · Revelaciones y elecciones*
 
 ---
 
 > **📖 NAVEGACIÓN:**
-> - [← Volver al Índice Principal](../00_Estructura_Campana.md)
-> - [Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
-> - [Fase 4: Ritual Completado](../Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
+> - [← Índice de Aventuras](../00_Estructura_Campana.md) · [⏳ Motor de Campaña](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
+> - [Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md) · [Fase 4: Clímax — La Torre](../Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
 
 ---
 
-## 📋 **OBJETIVO DE ESTA FASE**
+## 📋 Qué es esta fase
 
-Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11), guerra entre lugartenientes se intensifica. Esta fase combina **sandbox libre** con **eventos fijos críticos**.
+El sandbox continúa, pero **las revelaciones sobre Manshoon se aceleran** y el Reloj entra en zona alta. Sigue siendo libre (qué regiones, a quién enfrentar), con dos hitos firma: **la elección de Varrak** y el set-piece de **La Traición de Serapis**, que cierra el tramo sandbox y abre el clímax.
 
----
-
-## 📚 **ARCHIVOS DE ESTA FASE**
-
-### **Sesión 10: Algo Está Mal**
-- **[01_Sesion_10_Algo_Esta_Mal.md](./01_Sesion_10_Algo_Esta_Mal.md)**
-- **Nivel:** 7-8
-- **Ubicación:** Variable
-- **Evento:** ⚠️ **REVELACIÓN GRADUAL #2** - El ritual de ascensión
-
-### **Sesión 11: El Momento de Elección**
-- **[02_Sesion_11_Momento_Eleccion.md](./02_Sesion_11_Momento_Eleccion.md)**
-- **Nivel:** 8
-- **Ubicación:** El Abismo de los Posibles (Varrak)
-- **Evento:** ⚠️⚠️ **EVENTO FIJO CRÍTICO** - Varrak elige bando
-
-### **Sesión 12: El Ritual**
-- **[03_Sesion_12_El_Ritual.md](./03_Sesion_12_El_Ritual.md)**
-- **Nivel:** 8
-- **Ubicación:** Variable
-- **Evento:** ⚠️ **Ritual al 92%** - Urgencia máxima
+> Mismo toolkit que la Fase 2 (regiones, misiones, eventos, Reloj). Esta guía da el flujo y los hitos; no va sesión a sesión.
 
 ---
 
-## 🎯 **CARACTERÍSTICAS DE ESTA FASE**
+## 🌀 Cómo fluye la fase
 
-### **✅ Eventos Fijos:**
-- Sesión 10: Revelación sobre el ritual de ascensión
-- Sesión 11: Varrak debe elegir bando (decisión crítica)
-- Sesión 12: Ritual al 92% (urgencia máxima)
-
-### **🎲 Sandbox Continúa:**
-- Los PJ pueden seguir explorando libremente
-- Más regiones desbloqueadas
-- Eventos aleatorios continúan
-
-### **📊 Progresión de Niveles:**
-- **Sesión 10:** Nivel 7 → 8
-- **Sesión 11:** Nivel 8
-- **Sesión 12:** Nivel 8
+1. **Sigue el sandbox** — los PJ deberían ir por su 3.º-5.º lugarteniente; la guerra entre bandos está en su punto álgido (tira eventos del mundo).
+2. **Revelación #2 — el ritual de ascensión:** una confesión, una biblioteca o una visión de Varrak destapan que Manshoon pretende **convertirse en dios**. (Escenas en [Escenas de Revelación](../Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md).)
+3. **Varrak elige bando:** según cómo lo trataron los PJ, se vuelve **aliado**, se va con **Vorthak**, o cae como **mártir**. Es el beat que prepara su sacrificio. (Ramas y diálogos en su [ficha](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md).)
+4. **Revelación #3 — urgencia máxima:** el Reloj se acerca al final; las voces de Amaunator/Voidar avisan de que queda poco. Si Varrak es aliado y el Reloj está crítico (≥6/8), puede ofrecerse a sacrificarse.
+5. **Cierre — La Traición de Serapis:** el set-piece (juicio de Marcus, Kaoros revelado, derrota de Serapis, posible sacrificio de Varrak) cierra el sandbox y enlaza con la Torre. → **[La Traición de Serapis](./04_La_Traicion_de_Serapis.md)**.
 
 ---
 
-## 🔗 **REFERENCIAS IMPORTANTES**
+## ⏳ El Reloj en esta fase
 
-### **Documentos del DM:**
-- **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro (referencia general)
-- **[04_Escenas_de_Revelacion.md](../Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md)** - Revelaciones graduales
-- **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema de competencia
-- **[04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md)** - Varrak del Horizonte (ficha completa)
+Suele entrar en **zona crítica (≥6/8)**: aquí pesa frenar críticos, el sabotaje Anacronista o el sacrificio de Varrak (−1). Cuando llega a 8 → Llamada de los Dioses → Fase 4. Detalle: [Motor de Campaña](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 ---
 
-## 📅 **TIMELINE DE ESTA FASE**
+## 🔗 Referencias
 
-### **📖 SESIÓN 10: "Algo Está Mal"**
-
-**Eventos de Sandbox:** Continúan
-
-**⚠️ REVELACIÓN GRADUAL #2:**
-- ❗ **Confesión de un lugarteniente herido:** "Aethernus no ha respondido en MESES"
-- ❗ Los PJ encuentran evidencia en una biblioteca: Manshoon planea "convertirse en dios"
-- ❗ **Visión de Varrak:** Los PJ ven el ritual de ascensión divina en progreso
-
-**Regiones Nuevas Desbloqueadas (Total: 10):**
-- **Tela de Sombras** (Veldrisza - Dimensional Principal) - Nivel 8-9
-
-**Progresión de Niveles:**
-- **Sesión 10:** Nivel 7 → 8
+- **[La Traición de Serapis](./04_La_Traicion_de_Serapis.md)** — set-piece de cierre
+- **[Varrak — ficha](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md)** · [Escenas de Revelación](../Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md) · [Cronología](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)
 
 ---
 
-### **📖 SESIÓN 11: "El Momento de Elección"**
-
-**⚠️ EVENTO FIJO CRÍTICO #1:**
-- ❗❗ **VARRAK DEL HORIZONTE DEBE ELEGIR BANDO**
-- ❗❗ Decisiones de los PJ determinan si se vuelve aliado o enemigo
-
-**Desarrollo:**
-1. Los PJ llegan al Abismo de los Posibles
-2. Varrak les revela: "Veo tres futuros posibles para mí"
-3. **Los PJ deciden mediante sus acciones/palabras:**
-   - **Aliado Reticente:** Le dan esperanza → Varrak: +3 pts (se une a los PJ)
-   - **Servidor Fiel:** Lo traicionan/desilusionan → Varrak: +5 pts (se une a Vorthak)
-   - **Mártir Quebrado:** Lo destruyen completamente → Varrak muere
-
-**⚠️ EVENTO FIJO CRÍTICO #2:**
-- ❗❗ **LAS GEMELAS DEL ESPEJO ELIGEN BANDO**
-- ❗❗ Se unen al Bando Dimensional O Temporal (depende de quién esté ganando)
-
-**⚠️ EVENTO FIJO CRÍTICO #3:**
-- ❗❗ **ALIANZAS DE BANDO SE FORMALIZAN**
-- ❗❗ Bando Temporal (Vorthak + Serapis + posiblemente Varrak)
-- ❗❗ Bando Dimensional (Ignis + Veldrisza + Las Gemelas)
-- ❗❗ Independientes (Edward Teach, Dimensionalis)
-
-**Regiones Nuevas Desbloqueadas (Total: 11):**
-- **El Jardín Pétreo** (Medusa - Temporal Menor) - Nivel 6-7
-
-**Todas las regiones están ahora desbloqueadas.**
-
-**Progresión de Niveles:**
-- **Sesión 11:** Nivel 8
-
----
-
-### **📖 SESIÓN 12: "El Ritual"**
-
-**Eventos de Sandbox:** Continúan (guerra entre lugartenientes muy intensa)
-
-**⚠️ REVELACIÓN GRADUAL #3:**
-- ❗ **Fragmento de poder divino liberado** cuando un lugarteniente muere
-- ❗ Los PJ tocan el fragmento y escuchan la voz de Amaunator: "El ritual está al 92%. Pronto será irreversible."
-- ❗ **Visión/sueño de Voidar:** Advierte que si el ritual completa, la realidad colapsará
-- ❗ **Urgencia máxima:** Los PJ deben actuar pronto o será demasiado tarde
-
-**Eventos Típicos:**
-- Los PJ deberían haber derrotado 4-6 lugartenientes en total
-- Guerra entre bandos está en su punto máximo
-- Edward Teach está investigando activamente la Torre de la Eternidad
-- **Preparación para Fase 4:** Los PJ deben estar listos para el asalto final
-
-**Progresión de Niveles:**
-- **Sesión 12:** Nivel 8
-
-**⚠️ TRANSICIÓN A FASE 4:**
-- Después de esta sesión, los PJ deben estar preparados para el asalto final
-- El ritual está al 92-95%, avanzando rápidamente
-- La siguiente fase será completamente lineal: intento de llegar al ritual a tiempo
-
----
-
-*Esta fase combina libertad de sandbox con eventos críticos que determinan el destino final.* 🌟⚔️✨
-
+*Sandbox con la verdad emergiendo y el Reloj apretando. Se cosecha lo sembrado: Varrak, las facciones, los villanos que quedaron vivos.* 🌟⏳

@@ -5,7 +5,7 @@
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 4](./00_Guia_General_Fase_4.md)
-> - [Sesión 12: El Ritual](../Fase_3_Sandbox_Avanzado/03_Sesion_12_El_Ritual.md)
+> - [Fase 3: Sandbox Avanzado](../Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
 > - [⚔️ Batalla Final por Fases](./02_Batalla_Final_Por_Fases.md) · [🏰 Torre de la Eternidad](../../00_Esquemas/03_Torre_Eternidad.md)
 > - [Motor de Campaña: Reloj y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 
