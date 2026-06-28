@@ -20,19 +20,19 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 
 ### **Sesión 6-7: Exploración Libre**
 - **[01_Sesion_6-7_Exploracion_Libre.md](./01_Sesion_6-7_Exploracion_Libre.md)**
-- **Nivel:** 6-7
+- **Nivel:** 5-6
 - **Ubicación:** Regiones desbloqueadas (elección de los PJ)
 - **Eventos:** Sandbox puro, elección de lugarteniente a enfrentar
 
 ### **Sesión 8: Primera Sospecha sobre Manshoon**
 - **[02_Sesion_8_Primera_Sospecha.md](./02_Sesion_8_Primera_Sospecha.md)**
-- **Nivel:** 8-9
+- **Nivel:** 6
 - **Ubicación:** Variable
 - **Evento:** ⚠️ **REVELACIÓN GRADUAL #1** - ¿Dónde está Manshoon?
 
 ### **Sesión 9: Exploración Avanzada**
 - **[03_Sesion_9_Exploracion_Avanzada.md](./03_Sesion_9_Exploracion_Avanzada.md)**
-- **Nivel:** 9-10
+- **Nivel:** 7
 - **Ubicación:** Variable
 - **Eventos:** Sandbox continúa, más regiones desbloqueadas
 
@@ -56,9 +56,9 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 - **Sistema de Puntos:** Tracking de La Ascensión del Cónclave
 
 ### **📊 Progresión de Niveles:**
-- **Sesión 6-7:** Nivel 6-7 → 7-8
-- **Sesión 8:** Nivel 8 → 9
-- **Sesión 9:** Nivel 9 → 10
+- **Sesión 6-7:** Nivel 5 → 6
+- **Sesión 8:** Nivel 6 → 7
+- **Sesión 9:** Nivel 7
 
 ### **🗺️ Regiones Desbloqueadas:**
 - **Sesión 6:** 6 regiones totales
@@ -139,8 +139,8 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 - Etc. (ver `05_La_Ascension_del_Conclave.md` - Tabla de Eventos Aleatorios)
 
 **Progresión de Niveles:**
-- **Sesión 6:** Nivel 6-7
-- **Sesión 7:** Nivel 7-8
+- **Sesión 6:** Nivel 5
+- **Sesión 7:** Nivel 5-6
 
 ---
 
@@ -154,11 +154,11 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 - ❗ Interrogan a un Cronófago capturado: "Nunca he visto a Aethernus en persona"
 
 **Regiones Nuevas Desbloqueadas (Total: 8):**
-- **Las Llanuras de la Compresión** (Dimensionalis - Dimensional Principal) - Nivel 8-10
-- **El Jardín de los Tiempos Gemelos** (Las Gemelas - Dimensional Principal) - Nivel 8-10
+- **Las Llanuras de la Compresión** (Dimensionalis - Dimensional Principal) - Nivel 7-8
+- **El Jardín de los Tiempos Gemelos** (Las Gemelas - Dimensional Principal) - Nivel 7-8
 
 **Progresión de Niveles:**
-- **Sesión 8:** Nivel 8 → 9
+- **Sesión 8:** Nivel 6 → 7
 
 ---
 
@@ -169,10 +169,10 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 **Progresión:** Los PJ deberían haber derrotado 2-3 lugartenientes
 
 **Regiones Nuevas Desbloqueadas (Total: 9):**
-- **El Desierto Espejado** (Tempus - Temporal) - Nivel 7-9
+- **El Desierto Espejado** (Tempus - Temporal) - Nivel 6-7
 
 **Progresión de Niveles:**
-- **Sesión 9:** Nivel 9 → 10
+- **Sesión 9:** Nivel 7
 
 ---
 

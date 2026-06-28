@@ -5,7 +5,7 @@
 
 > **📖 NAVEGACIÓN:**
 > - [Esquemas Visuales](../00_Esquema_Campana_Mermaid.md) - Diagramas de la campaña
-> - [Guía del DM](../02_Guia_DM/00_Guia_Navegacion_DM.md) - Navegación completa
+> - [Guía del DM](../02_Guia_DM/01_Dirigir_Campana.md) - Navegación completa
 
 ---
 
@@ -94,9 +94,8 @@
 ### **Para el DM:**
 - **`../02_Guia_DM/DM_Screen_Una_Pagina.md`** → Referencia de una página para mesa
 - **`../02_Guia_DM/Eventos_Que_Siempre_Ocurren.md`** → Lista de hitos fijos y frase para el DM
-- **`../02_Guia_DM/00_Guia_Navegacion_DM.md`** → Guía completa de navegación
+- **`../02_Guia_DM/01_Dirigir_Campana.md`** → Guía completa de navegación
 - **`../02_Guia_DM/07_Cronologia_Maestra_Campana.md`** → Timeline maestro
-- **`../00_Documento_Trabajo_Restructuracion.md`** → Documento de trabajo de restructuración
 - **`Fase_2_Sandbox_Inicial/04_Escenas_de_Revelacion.md`** → Escenas de revelación
 - **`Fase_0_Railroad_Inicial/04_Kaelthas_El_Relojero_Roto.md`** → Stats de Kaelthas
 

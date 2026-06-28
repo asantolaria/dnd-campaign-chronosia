@@ -52,6 +52,7 @@
 ## 🎯 **ARTEFACTOS PRINCIPALES**
 
 ### **⏰ Cronómetro de Realidades**
+![Cronómetro de Realidades](../../assets/objetos_magicos/01_cronometro-realidades.jpg)
 
 **Tipo:** Artefacto (Requiere Sintonización)  
 **Rareza:** Artefacto Único  
@@ -128,6 +129,7 @@ Cuando se combina con la Perla del Vacío Primordial, crea el Talismán de Inter
 ---
 
 ### **🌌 Perla del Vacío Primordial**
+![Perla del Vacío Primordial](../../assets/objetos_magicos/02_perla-vacio-primordial.jpg)
 
 **Tipo:** Artefacto (Requiere Sintonización)  
 **Rareza:** Artefacto Único  
@@ -205,6 +207,7 @@ Cuando se combina con el Cronómetro de Realidades, crea el Talismán de Interce
 ---
 
 ### **⏰ Contador del Ritual**
+![Contador del Ritual](../../assets/objetos_magicos/04_contador-ritual.jpg)
 
 **Tipo:** Artefacto (No requiere sintonización)  
 **Rareza:** Artefacto Único (Híbrido)  
@@ -282,6 +285,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 ---
 
 ### **🪞 Espejo de Realidad Fragmentada**
+![Espejo de Realidad Fragmentada](../../assets/objetos_magicos/05_espejo-realidad-fragmentada.jpg)
 
 **Tipo:** Artefacto (Requiere Sintonización)  
 **Rareza:** Artefacto Único  
@@ -351,6 +355,7 @@ Un espejo circular de 3 pies de diámetro con marco de plata ornamentada. La sup
 ---
 
 ### **⏰ Arena del Tiempo Estabilizada**
+![Arena del Tiempo Estabilizada](../../assets/objetos_magicos/06_arena-del-tiempo.jpg)
 
 **Tipo:** Artefacto (Requiere Sintonización)  
 **Rareza:** Artefacto Único  
@@ -418,6 +423,7 @@ Un reloj de arena de 2 pies de altura con estructura de bronce antiguo. La arena
 ---
 
 ### **🔨 Excavadora Dimensional**
+![Excavadora Dimensional](../../assets/objetos_magicos/07_excavadora-dimensional.jpg)
 
 **Tipo:** Artefacto (Requiere Sintonización)  
 **Rareza:** Artefacto Único  
@@ -488,6 +494,7 @@ Una máquina de excavación del tamaño de un carro pequeño, con múltiples tal
 ---
 
 ### **⚙️ Rotor Infinito**
+![Rotor Infinito](../../assets/objetos_magicos/08_rotor-infinito.jpg)
 
 **Tipo:** Artefacto (Requiere Sintonización)  
 **Rareza:** Artefacto Único  
@@ -579,6 +586,7 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 ## 💍 **SISTEMA DE ANILLOS DE PODER DE LOS LUGARTENIENTES**
 
 ### **💍 Anillos de Poder de los Lugartenientes**
+![Anillos de Poder](../../assets/objetos_magicos/09_anillos-de-poder.jpg)
 
 **Tipo:** Artefacto (Requiere Sintonización con Aethernus)  
 **Rareza:** Artefacto Único (Cada uno)  
@@ -1241,6 +1249,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Uso:** No requiere sintonización, funciona para cualquiera
 
 #### **🔧 Artilugio Detector de Balance (Indicador del Equilibrio / Balanza de Chronosia)**
+![Balanza de Chronosia](../../assets/objetos_magicos/11_balanza-chronosia.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Creación:** Din Goldgear y los Ingenieros/Artífices de Cronópolis lo inventan y construyen después de que los PJ derroten a su segundo lugarteniente

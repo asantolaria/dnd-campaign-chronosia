@@ -15,7 +15,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 9-10
+- **Nivel de los PJ:** 7
 - **Ubicación:** Variable (elección de los PJ)
 - **Estilo:** Sandbox puro - libertad total
 - **Eventos Fijos:** Ninguno (sandbox puro)
@@ -39,18 +39,18 @@
 ## 🗺️ **REGIONES DISPONIBLES (9 Total)**
 
 ### **Nuevas Regiones Desbloqueadas:**
-- **El Desierto Espejado** (Tempus) - Nivel 7-9
+- **El Desierto Espejado** (Tempus) - Nivel 6-7
 
 ### **Todas las Regiones Disponibles:**
-1. La Espiral del Reloj de Arena (Serapis) - Nivel 5-7
-2. Glacialis (Ymir) - Nivel 5-7
-3. El Abismo de los Posibles (Varrak) - Nivel 7-9
-4. La Mansión de la Sed Eterna (Vorthak) - Nivel 9-11
-5. Archipiélago de Barbanegra (Edward Teach) - Nivel 11-13
-6. Volcanis (Ignis) - Nivel 13-15
-7. Las Llanuras de la Compresión (Dimensionalis) - Nivel 8-10
-8. El Jardín de los Tiempos Gemelos (Las Gemelas) - Nivel 8-10
-9. El Desierto Espejado (Tempus) - Nivel 7-9
+1. La Espiral del Reloj de Arena (Serapis) - Nivel 5-6
+2. Glacialis (Ymir) - Nivel 5-6
+3. El Abismo de los Posibles (Varrak) - Nivel 6-7
+4. La Mansión de la Sed Eterna (Vorthak) - Nivel 7-8
+5. Archipiélago de Barbanegra (Edward Teach) - Nivel 8-9
+6. Volcanis (Ignis) - Nivel 9-10
+7. Las Llanuras de la Compresión (Dimensionalis) - Nivel 7-8
+8. El Jardín de los Tiempos Gemelos (Las Gemelas) - Nivel 7-8
+9. El Desierto Espejado (Tempus) - Nivel 6-7
 
 ---
 

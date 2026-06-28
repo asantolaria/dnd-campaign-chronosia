@@ -361,7 +361,6 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro y eventos de desbloqueo
 - **[08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - Información de regiones y desbloqueos
 - **[21_Objetos_Magicos_Reliquias.md](./21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)** - Sistema de Anillos de Poder
-- **[00_Documento_Trabajo_Restructuracion.md](../../00_Documento_Trabajo_Restructuracion.md)** - Documento de trabajo de restructuración
 
 ---
 

@@ -23,13 +23,13 @@ El momento crítico ha llegado. Los PJ intentan llegar al ritual de Aethernus a 
 
 ### **Sesión 13: El Camino al Ritual**
 - **[01_Sesion_13_El_Camino_al_Ritual.md](./01_Sesion_13_El_Camino_al_Ritual.md)**
-- **Nivel:** 13-14
+- **Nivel:** 8
 - **Ubicación:** Camino hacia la Torre de la Eternidad
 - **Evento:** Preparación final, revelación de la ubicación, urgencia máxima
 
 ### **Sesión 14: La Batalla contra Teach y el Ritual Completado**
 - **[02_Sesion_14_Batalla_Teach_Ritual_Completado.md](./02_Sesion_14_Batalla_Teach_Ritual_Completado.md)**
-- **Nivel:** 14-15
+- **Nivel:** 9
 - **Ubicación:** Torre de la Eternidad (exterior y cámara del ritual)
 - **Evento:** ⚠️⚠️⚠️ **BATALLA ÉPICA CONTRA TEACH** + **RITUAL SE COMPLETA** + **AETHERNUS SE CONVIERTE EN DIOS**
 
@@ -91,14 +91,14 @@ Los PJ reciben recursos de aliados:
 - Oceánicos de las Profundidades: Guerreros
 - Otras facciones: Bendiciones, armas, información
 
-**Nivel de los PJ:** 13-14
+**Nivel de los PJ:** 8
 
 ---
 
 ### **📖 SESIÓN 14: "La Batalla contra Teach y el Ritual Completado"**
 
 **Ubicación:** Torre de la Eternidad (exterior y cámara del ritual)  
-**Nivel de los PJ:** 14-15
+**Nivel de los PJ:** 9
 
 **⚠️⚠️⚠️ EVENTO CRÍTICO: LA BATALLA CONTRA TEACH**
 

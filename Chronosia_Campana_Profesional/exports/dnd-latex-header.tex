@@ -1,0 +1,36 @@
+% Cabecera LaTeX (xelatex) para dar a Chronosia un aspecto de manual de D&D.
+% Requiere: texlive-xetex texlive-fonts-recommended texlive-latex-recommended texlive-latex-extra
+\usepackage{fontspec}
+\usepackage{xcolor}
+\definecolor{dndred}{HTML}{58180D}
+\definecolor{dndred2}{HTML}{7A2710}
+\definecolor{parch}{HTML}{ECE3CF}
+\definecolor{caja}{HTML}{E3D7B6}
+\definecolor{linea}{HTML}{B08D57}
+
+% Fondo pergamino en todas las páginas
+\usepackage{pagecolor}
+\pagecolor{parch}
+
+% Fuente serif (incluida en texlive-fonts-recommended)
+\setmainfont{TeX Gyre Pagella}
+
+% Títulos en rojo, versalitas, con filete
+\usepackage{titlesec}
+\titleformat{\section}{\color{dndred}\Large\scshape\bfseries}{\thesection}{0.6em}{}[{\color{linea}\titlerule[1.2pt]}]
+\titleformat{\subsection}{\color{dndred}\large\scshape\bfseries}{\thesubsection}{0.5em}{}
+\titleformat{\subsubsection}{\color{dndred2}\scshape\bfseries}{}{0em}{}
+\titleformat{\paragraph}[runin]{\color{dndred2}\scshape\bfseries}{}{0em}{}
+
+% Pie de página
+\usepackage{fancyhdr}
+\pagestyle{fancy}\fancyhf{}\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\color{dndred}\thepage}
+
+% Enlaces discretos
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=dndred, urlcolor=dndred2}
+
+% Tablas y filas alternas
+\usepackage{longtable,booktabs,array}
+\usepackage{colortbl}

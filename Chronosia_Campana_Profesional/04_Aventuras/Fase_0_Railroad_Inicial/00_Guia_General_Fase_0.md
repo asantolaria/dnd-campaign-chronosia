@@ -26,13 +26,13 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 
 ### **Sesión 2: Llegada a Chronosia**
 - **[02_Sesion_2_Llegada_Chronosia.md](./02_Sesion_2_Llegada_Chronosia.md)**
-- **Nivel:** 3-4
+- **Nivel:** 3
 - **Ubicación:** Cronópolis (Costa Oeste de Chronosia, cerca del mar)
 - **Eventos:** Portal a Chronosia, Tour de Cronópolis, Consejo Anacronista, Ver Cronómetro de Realidades
 
 ### **Sesión 3: Primera Misión**
 - **[03_Sesion_3_Primera_Mision.md](./03_Sesion_3_Primera_Mision.md)**
-- **Nivel:** 4-5
+- **Nivel:** 4
 - **Ubicación:** Región desbloqueada (elección del DM)
 - **Eventos:** Primera exploración, Encuentro con lugarteniente, Aprendizaje de distorsiones
 
@@ -50,8 +50,8 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 
 ### **📊 Progresión de Niveles:**
 - **Sesión 1:** Nivel 3 (inicio)
-- **Sesión 2:** Nivel 3-4 (investigación completa)
-- **Sesión 3:** Nivel 4-5 (primer lugarteniente derrotado)
+- **Sesión 2:** Nivel 3 (investigación completa)
+- **Sesión 3:** Nivel 3-4 (primer lugarteniente derrotado)
 
 ---
 
@@ -123,7 +123,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 ### **📖 SESIÓN 2: "Llegada a Chronosia"**
 
 **Ubicación:** Cronópolis (centro de Chronosia) - **BASE PERMANENTE DE LOS PJ**  
-**Nivel de los PJ:** 3-4
+**Nivel de los PJ:** 3
 
 **Eventos Fijos:**
 - ✅ **Galen abre portal temporal** desde Waterdeep a Chronosia
@@ -160,7 +160,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 ### **📖 SESIÓN 3: "Primera Misión"**
 
 **Ubicación:** Región desbloqueada (elección del DM)  
-**Nivel de los PJ:** 4-5
+**Nivel de los PJ:** 4
 
 **Eventos Fijos:**
 - ✅ Los Anacronistas envían a los PJ a investigar actividad Cronófaga
@@ -173,9 +173,9 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 - Pueden encontrar a otros lugartenientes de lejos
 
 **Regiones Accesibles (Primeras 3 Desbloqueadas):**
-- **Glacialis** (Ymir - Dimensional) - Nivel 5-7
-- **La Espiral del Reloj de Arena** (Serapis - Temporal Principal) - Nivel 5-7
-- **Valle de la Aguja Suspendida** (Thyra - Temporal Caído) - Nivel 6-8
+- **Glacialis** (Ymir - Dimensional) - Nivel 5-6
+- **La Espiral del Reloj de Arena** (Serapis - Temporal Principal) - Nivel 5-6
+- **Valle de la Aguja Suspendida** (Thyra - Temporal Caído) - Nivel 6-7
 
 ---
 

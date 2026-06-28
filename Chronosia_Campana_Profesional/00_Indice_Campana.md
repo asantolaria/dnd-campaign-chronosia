@@ -61,7 +61,6 @@
 ## 🔗 **NAVEGACIÓN RÁPIDA**
 
 - **Empezar a dirigir:** [01_Dirigir_Campana.md](02_Guia_DM/01_Dirigir_Campana.md) → [00_Estructura_Campana.md](04_Aventuras/00_Estructura_Campana.md)
-- **Estudio y mejoras:** [00_Estudio_y_Valoracion_Campana.md](00_Estudio_y_Valoracion_Campana.md)
 - **README:** [README.md](README.md)
 
 ---

@@ -143,7 +143,7 @@ islas del oeste. Y ahora... tiene el Cronómetro."
 **Información sobre Edward Teach:**
 - Lugarteniente dimensional
 - Controla el Archipiélago de Barbanegra
-- Extremadamente peligroso (Nivel 11-13)
+- Extremadamente peligroso (Nivel 8-9)
 - Conocido por su astucia y traiciones
 
 **Decisión de los PJ:**

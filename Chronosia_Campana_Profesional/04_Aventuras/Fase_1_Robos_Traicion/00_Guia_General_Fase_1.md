@@ -73,10 +73,10 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - **Después del 3er Lugarteniente:** ⚠️ Thyra SIEMPRE muere (evento fijo). **Sensación in-world:** El Valle de la Aguja está **inaccesible** (barrera de estasis); **solo Teach con el Talismán** puede entrar. Los PJ no pueden plantearse salvar a Thyra porque no tienen forma de llegar hasta ella — no es que "fallen", es que solo Teach tiene ese poder.
 
 ### **📊 Progresión de Niveles (Aproximada):**
-- **Después del 1er Lugarteniente:** Nivel 5-6
-- **Después del 2do Lugarteniente:** Nivel 6-7
-- **Después del 3er Lugarteniente:** Nivel 7-8
-- **Inmediatamente después:** Nivel 7-8
+- **Después del 1er Lugarteniente:** Nivel 4
+- **Después del 2do Lugarteniente:** Nivel 4-5
+- **Después del 3er Lugarteniente:** Nivel 5
+- **Inmediatamente después:** Nivel 5
 
 ---
 
@@ -178,7 +178,7 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - Archivista Mira (erudita Oceánica)
 
 **Regiones Nuevas Accesibles:**
-- **Archipiélago de Barbanegra** (Edward Teach - Dimensional) - Nivel 11-13 (bloqueado hasta después del 3er lugarteniente)
+- **Archipiélago de Barbanegra** (Edward Teach - Dimensional) - Nivel 8-9 (bloqueado hasta después del 3er lugarteniente)
 - **Abysara** (ciudad submarina Oceánicos de las Profundidades) - Explorable pero no hostil
 
 ---
@@ -296,9 +296,9 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 - Es una guerra espontánea provocada por la ambición de Teach y la paranoia de otros
 
 **Regiones Nuevas Desbloqueadas (Total: 6):**
-- **El Abismo de los Posibles** (Varrak - Temporal) - Nivel 7-9
-- **Volcanis** (Ignis - Dimensional) - Nivel 13-15
-- **La Mansión de la Sed Eterna** (Vorthak - Temporal) - Nivel 9-11
+- **El Abismo de los Posibles** (Varrak - Temporal) - Nivel 6-7
+- **Volcanis** (Ignis - Dimensional) - Nivel 9-10
+- **La Mansión de la Sed Eterna** (Vorthak - Temporal) - Nivel 7-8
 
 ---
 

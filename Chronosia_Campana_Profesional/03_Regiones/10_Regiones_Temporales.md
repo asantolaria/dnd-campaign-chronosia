@@ -34,7 +34,7 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 **⚰️ LUGARTENIENTES CAÍDOS (1):**
 - Thyra la Suspendida (asesinada por Edward Teach en Sesión 5-6)
 
-**📖 Ver sistema de anillos de poder:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)
+**📖 Ver sistema de anillos de poder:** [21_Objetos_Magicos_Reliquias.md](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)
 
 ---
 
@@ -104,7 +104,7 @@ Edward Teach "Barbanegra" - Ver acciones legendarias actualizadas en [00_Cronofa
 
 **🎖️ LUGARTENIENTE ACTIVO**
 
-**⚔️ SOLDADOS ÚNICOS:** Serapis entrena y otorga poderes de **Reversión Temporal** a sus soldados, llamados "Los Retrocedentes". Estos soldados pueden revertir heridas menores, repetir acciones fallidas, y usar armas regresivas. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+**⚔️ SOLDADOS ÚNICOS:** Serapis entrena y otorga poderes de **Reversión Temporal** a sus soldados, llamados "Los Retrocedentes". Estos soldados pueden revertir heridas menores, repetir acciones fallidas, y usar armas regresivas. Ver [13_Soldados_y_Ejercitos_Regionales.md](../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
 ### **Descripción Geográfica**
 Un valle montañoso dominado por un **Reloj de Arena Gigante** de 100 metros de altura tallado en la roca. La arena fluye constantemente: cuando sube, el tiempo avanza; cuando baja, todo se reinicia. Las aldeas están construidas alrededor del reloj, y los habitantes trabajan físicamente cada día para hacer subir la arena y mantener el tiempo fluyendo.
@@ -215,7 +215,7 @@ Al derrotar a Serapis:
 
 **⚠️ PERSONAJE ESPECIAL:** Varrak es el **Oráculo Neutral** que puede convertirse en aliado, siervo o mártir según las acciones de los PJ. Ver [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) para su sistema completo.
 
-**⚔️ SOLDADOS ÚNICOS:** Varrak entrena y otorga poderes de **Predicción Temporal** a sus soldados, llamados "Los Videntes". Estos soldados pueden ver el futuro próximo, esquivar ataques proféticamente, y atacar anticipadamente. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+**⚔️ SOLDADOS ÚNICOS:** Varrak entrena y otorga poderes de **Predicción Temporal** a sus soldados, llamados "Los Videntes". Estos soldados pueden ver el futuro próximo, esquivar ataques proféticamente, y atacar anticipadamente. Ver [13_Soldados_y_Ejercitos_Regionales.md](../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
 ### **Descripción Geográfica**
 
@@ -324,7 +324,7 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 
 **⚔️ LÍDER DEL BANDO TEMPORAL** - Comanda "Los Sedientos de Tiempo" en la competencia
 
-**⚔️ SOLDADOS ÚNICOS:** Vorthak entrena y otorga poderes de **Drenaje Temporal de Vida** a sus soldados, llamados "Los Drenados". Estos soldados pueden drenar vida temporal de los enemigos, transferir vida a Vorthak, y almacenar reservas temporales. Muestran signos de envejecimiento prematuro por el drenaje constante. Ver [13_Soldados_y_Ejercitos_Regionales.md](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
+**⚔️ SOLDADOS ÚNICOS:** Vorthak entrena y otorga poderes de **Drenaje Temporal de Vida** a sus soldados, llamados "Los Drenados". Estos soldados pueden drenar vida temporal de los enemigos, transferir vida a Vorthak, y almacenar reservas temporales. Muestran signos de envejecimiento prematuro por el drenaje constante. Ver [13_Soldados_y_Ejercitos_Regionales.md](../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) para detalles completos.
 
 ### **Descripción Geográfica**
 Una mansión gótica colosal construida con piedra negra que absorbe la luz, rodeada por una niebla temporal que envejece y rejuvenece constantemente. La mansión tiene múltiples niveles, cada uno representando una época diferente, desde la antigüedad hasta el futuro. Los pasillos están llenos de espejos que muestran versiones de diferentes edades de los visitantes, y las habitaciones cambian de época según la necesidad del vampiro.

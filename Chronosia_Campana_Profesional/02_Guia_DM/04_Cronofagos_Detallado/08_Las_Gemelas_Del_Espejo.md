@@ -1,4 +1,7 @@
 # 🪞 Las Gemelas del Espejo - Lyra y Nyx
+
+![Las Gemelas del Espejo](../../assets/bestiario/lugartenientes/08_gemelas-del-espejo-lyra-nyx.jpg)
+
 ## *Lugartenientes Dimensionales - Humanas Gemelas - Neutrales*
 
 ---
@@ -9,7 +12,7 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Principales/Neutrales
 - **Región:** El Jardín de los Tiempos Gemelos
-- **Nivel Recomendado:** 9-11
+- **Nivel Recomendado:** 6-7
 - **Bando:** Neutral (hasta Sesión 11, luego pueden cambiar)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 2+ lugartenientes + Espejo de Realidad)
 
@@ -40,25 +43,25 @@ Cuando las Gemelas mueren (ya sea por los PJ o por otro lugarteniente), **El Jar
 
 ---
 
-**Clase de Armadura:** 17 (armadura de cuero mágica + destreza)  
-**Puntos de Golpe:** 195 (26d8 + 78) - **Compartido entre ambas**  
+**Clase de Armadura:** 16 (armadura de cuero mágica + destreza)  
+**Puntos de Golpe:** 170 (20d8 + 80) - **Compartido entre ambas**  
 **Velocidad:** 30 pies
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 14 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 16 (+3) | 20 (+5) |
+| 12 (+1) | 18 (+4) | 18 (+4) | 16 (+3) | 14 (+2) | 16 (+3) |
 
 ---
 
-**Salvaciones:** DES +12, INT +11, CAR +12  
-**Habilidades:** Arcano +11, Engaño +12, Percepción +10, Persuasión +12, Sigilo +12  
+**Salvaciones:** DES +7, INT +6, CAR +6  
+**Habilidades:** Arcano +6, Engaño +6, Percepción +5, Persuasión +6, Sigilo +7  
 **Resistencias al Daño:** Espacial, psíquico  
 **Inmunidades a Condiciones:** Confundido (por efectos dimensionales), efectos que alteran el espacio  
-**Sentidos:** Percepción pasiva 20  
+**Sentidos:** Percepción pasiva 15  
 **Idiomas:** Común, Primordial, Abisal  
-**CR:** 14 (11,500 XP) - **Para ambas gemelas juntas**
+**CR:** 8 (3,900 XP) - **Para ambas gemelas juntas (no por gemela)**
 
 ---
 
@@ -74,10 +77,10 @@ Como acción de bonificación, Lyra y Nyx pueden intercambiar posiciones instant
 Como acción, ambas gemelas pueden refugiarse en la dimensión espejo, volviéndose inmunes a ataques por 1 turno. Mientras están en el refugio, no pueden atacar pero pueden observar.
 
 **Clones de Enemigos.**  
-Las Gemelas pueden crear clones de enemigos que luchan por ellas. Ver mecánicas completas en [00_Cronofagos_Detallado.md](./00_Cronofagos_Detallado.md#-mecánicas-de-clones-y-daño-compartido).
+Las Gemelas pueden crear clones espejo de enemigos que luchan por ellas. Como máximo puede haber **1 clon activo a la vez**, dura un máximo de 3 turnos, y desaparece si las Gemelas son reducidas a la mitad de sus PV. El clon es una copia espejo debilitada: tiene la mitad de los PV del original y hace la mitad del daño.
 
-**Daño Compartido (Nivel 9+).**  
-Una vez activado, todo el daño recibido por los clones se comparte con el original (50% del daño). Ver mecánicas completas en [00_Cronofagos_Detallado.md](./00_Cronofagos_Detallado.md#-mecánicas-de-clones-y-daño-compartido).
+**Resistencia Legendaria (1/día).**  
+Si una de las Gemelas falla una tirada de salvación, puede elegir tener éxito en su lugar. Como comparten un mismo bloque de desafío, esta resistencia se aplica **una sola vez al día entre ambas**.
 
 **Reflejos Múltiples.**  
 Las Gemelas pueden crear múltiples reflejos de sí mismas que confunden a los enemigos sobre cuál es la real. Los enemigos tienen desventaja en ataques contra las Gemelas.
@@ -92,97 +95,83 @@ Las Gemelas son inmunes a efectos que alteran el espacio, incluyendo *puerta dim
 **Multiataque (Cada Gemela).**  
 Cada gemela realiza dos ataques: uno con *Daga del Espejo* y uno con *Rayo Cegador*.
 
-**Daga del Espejo.** *Ataque con Arma Cuerpo a Cuerpo:* +12 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 9 (1d6 + 5) de daño perforante más 7 (2d6) de daño espacial.
+**Daga del Espejo.** *Ataque con Arma Cuerpo a Cuerpo:* +8 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 7 (1d6 + 4) de daño perforante más 7 (2d6) de daño espacial.
 
-**Rayo Cegador.** *Ataque con Conjuro:* +12 al ataque, alcance 60 pies, un objetivo.  
+**Rayo Cegador.** *Ataque con Conjuro:* +8 al ataque, alcance 60 pies, un objetivo.  
 Las Gemelas lanzan un rayo de luz a los ojos del enemigo.  
-*Impacto:* El objetivo debe hacer salvación de Constitución CD 18 o queda cegado por 1 turno.
+*Impacto:* 9 (2d8) de daño radiante, y el objetivo debe hacer salvación de Constitución CD 15 o queda cegado hasta el final de su siguiente turno.
 
-**Clon de Enemigo (3/día).**  
-Como acción, las Gemelas crean un clon de un enemigo que lucha por ellas durante 3 turnos. El clon tiene las mismas estadísticas que el original.
-
-**Clon Masivo (2/día).**  
-Como acción, las Gemelas crean clones de 1d3 enemigos diferentes que luchan por ellas durante 4 turnos.
+**Clon de Enemigo (1/día).**  
+Como acción, las Gemelas crean un clon espejo de un enemigo que lucha por ellas durante un máximo de 3 turnos. El clon es una copia debilitada con la mitad de los PV del original y que hace la mitad de su daño. Solo puede haber 1 clon activo a la vez.
 
 **Ataque Dual (Recarga 5-6).**  
-Como acción, ambas gemelas atacan simultáneamente desde dimensiones opuestas, causando daño doble. El objetivo debe hacer salvación de Destreza CD 18 o recibe el doble de daño.
+Como acción, ambas gemelas atacan simultáneamente desde dimensiones opuestas. El objetivo debe hacer salvación de Destreza CD 15 o recibe 22 (4d6 + 8) de daño espacial; si la supera, recibe la mitad.
 
 **Dimensión Invertida (1/día).**  
-Como acción, las Gemelas invierten completamente la realidad en 60 pies, confundiendo a todos los enemigos sobre qué es real. Todos los enemigos en el área deben hacer salvación de Sabiduría CD 18 o quedan confundidos por 1d4 turnos.
+Como acción, las Gemelas invierten completamente la realidad en 30 pies, confundiendo a todos los enemigos sobre qué es real. Todos los enemigos en el área deben hacer salvación de Sabiduría CD 15 o quedan confundidos hasta el final de su siguiente turno.
 
 **Colapso Dimensional (1/día).**  
-Como acción, las Gemelas colapsan la dimensión espejo, atrapando a todos los enemigos en un laberinto de reflejos infinitos. Todos los enemigos en 60 pies deben hacer salvación de Sabiduría CD 20 o quedan atrapados y deben encontrar su camino de regreso.
+Como acción, las Gemelas colapsan la dimensión espejo, atrapando a los enemigos en un laberinto de reflejos. Todos los enemigos en 30 pies deben hacer salvación de Sabiduría CD 15 o quedan atrapados (incapacitados) hasta que usen su acción para superar una nueva salvación CD 15 y encontrar el camino de regreso (al final de cada uno de sus turnos repiten la salvación).
 
 ---
 
 ### **Acciones Legendarias**
 
-Las Gemelas pueden realizar 1-4 acciones legendarias por turno (compartidas entre ambas), dependiendo del nivel de los personajes jugadores.
+Las Gemelas comparten **2 acciones legendarias** por ronda (un único bloque para ambos cuerpos). Solo pueden usar una opción a la vez, y únicamente al final del turno de otra criatura. Recuperan las acciones legendarias gastadas al inicio del turno de una de las Gemelas.
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Intercambio de Posición** | 5                | 1 Acción   | Lyra y Nyx intercambian posiciones instantáneamente a través de la dimensión espejo                           |
-| **Rayo Cegador**           | 5                | 1 Acción   | Lanza un rayo de luz a los ojos de un enemigo, cegándolo por 1 turno                                         |
-| **Clon de Enemigo**        | 6                | 2 Acciones | Crea un clon de un enemigo que lucha por las gemelas durante 3 turnos                                         |
-| **Refugio Espejo**         | 6                | 2 Acciones | Ambas gemelas se refugian en la dimensión espejo, volviéndose inmunes a ataques por 1 turno                   |
-| **Ataque Dual**            | 7                | 2 Acciones | Ambas gemelas atacan simultáneamente desde dimensiones opuestas, causando daño doble                          |
-| **Clon Masivo**            | 8                | 3 Acciones | Crea clones de 1d3 enemigos que luchan por las gemelas durante 4 turnos                                       |
-| **Daño Compartido**        | 9                | 3 Acciones | **Activa**: Todo el daño recibido por los clones se comparte con el original (50% del daño)                   |
-| **Reflejos Múltiples**     | 9                | 3 Acciones | Crea múltiples reflejos de las gemelas que confunden a los enemigos sobre cuál es la real                    |
-| **Dimensión Invertida**    | 10               | 4 Acciones | Invierte completamente la realidad en 60 pies, confundiendo a todos los enemigos sobre qué es real            |
-| **Colapso Dimensional**    | 11               | 4 Acciones | Colapsa la dimensión espejo, atrapando a todos los enemigos en un laberinto de reflejos infinitos              |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Intercambio de Posición** | 1 Acción   | Lyra y Nyx intercambian posiciones instantáneamente a través de la dimensión espejo; no provoca ataques de oportunidad. |
+| **Rayo Cegador**           | 1 Acción   | Una de las Gemelas realiza un ataque de *Rayo Cegador* contra un enemigo.                                     |
+| **Daga del Espejo**        | 1 Acción   | Una de las Gemelas realiza un ataque de *Daga del Espejo* contra un enemigo a su alcance.                     |
+| **Refugio Espejo**         | 2 Acciones | Ambas gemelas se refugian en la dimensión espejo, volviéndose inmunes a ataques hasta el inicio de su siguiente turno; mientras tanto no pueden atacar. |
+| **Reflejos Múltiples**     | 2 Acciones | Crean múltiples reflejos de sí mismas; hasta el inicio de su siguiente turno los enemigos tienen desventaja en los ataques contra ellas. |
 
-### **🪞 Mecánicas de Clones y Daño Compartido:**
+### **🪞 Mecánicas de Clones:**
 
-#### **📋 Creación de Clones:**
-- **Clon de Enemigo** (Nivel 6): Crea 1 clon de un enemigo específico
-- **Clon Masivo** (Nivel 8): Crea clones de 1d3 enemigos diferentes
-- **Duración**: Los clones duran 3-4 turnos dependiendo del nivel
-- **Control**: Los clones luchan automáticamente por las gemelas
-- **Estadísticas**: Los clones tienen las mismas estadísticas que el original
+#### **📋 Creación de Clones (acotada):**
+- **Clon de Enemigo** (1/día): Crea 1 clon espejo de un enemigo específico
+- **Límite**: Como máximo **1 clon activo a la vez**
+- **Duración**: El clon dura un máximo de **3 turnos** y desaparece si las Gemelas caen a la mitad de sus PV
+- **Estadísticas**: El clon es una copia debilitada — **mitad de PV y mitad de daño** que el original
+- **Control**: El clon lucha automáticamente por las Gemelas
 
-#### **💥 Daño Compartido (Nivel 9+):**
-- **Activación**: Una vez activado, permanece activo durante el resto del combate
-- **Mecánica**: Todo el daño recibido por los clones se comparte con el original
-- **Porcentaje**: El original recibe el 50% del daño total infligido a sus clones
-- **Cálculo**: Si un clon recibe 20 puntos de daño, el original recibe 10
-- **Múltiples Clones**: Si hay varios clones del mismo enemigo, el daño se suma
+> **Nota de diseño:** En versiones anteriores las Gemelas clonaban enemigos en masa y compartían el 50% del daño sin límite, lo que hacía el encuentro injugable. Esa mecánica se ha eliminado: ahora hay un único clon debilitado y temporal.
 
 #### **👁️ Rayo Cegador:**
-- **Efecto**: Ciega al enemigo por 1 turno completo
-- **Resistencia**: Los enemigos pueden hacer una tirada de salvación de Constitución
+- **Efecto**: Hace 9 (2d8) de daño radiante y ciega al enemigo hasta el final de su siguiente turno
+- **Resistencia**: Salvación de Constitución CD 15 para evitar la ceguera
 - **Alcance**: 60 pies de distancia
-- **Frecuencia**: Puede usarse cada turno si tienen acciones legendarias
 
 #### **🎭 Estrategia de Combate:**
-1. **Fase Inicial**: Crear clones de enemigos poderosos
+1. **Fase Inicial**: Crear el clon de un enemigo poderoso para dividir la atención
 2. **Fase de Control**: Usar rayos cegadores para neutralizar amenazas
-3. **Fase de Daño**: Activar daño compartido para maximizar el daño
-4. **Fase Final**: Usar clones masivos para abrumar a los enemigos
+3. **Fase de Daño**: Alternar *Ataque Dual* e *Intercambio de Posición* para concentrar daño
+4. **Fase Final**: Usar *Refugio Espejo* y *Dimensión Invertida* para sobrevivir
 
 ---
 
 ## 🎯 **TÁCTICAS DE COMBATE**
 
 ### **Fase 1: Preparación (Rounds 1-2)**
-1. Crean *Clon de Enemigo* de la amenaza mayor
+1. Crean su *Clon de Enemigo* (único) de la amenaza mayor
 2. Activan *Reflejos Múltiples* para confundir enemigos
 3. Se posicionan estratégicamente usando *Intercambio de Posición*
 
 ### **Fase 2: Control (Rounds 3-6)**
 - Usan *Rayo Cegador* para neutralizar amenazas
-- Crean *Clon Masivo* para multiplicar aliados
-- Activan *Daño Compartido* (Nivel 9+) para maximizar daño
+- Aprovechan *Ataque Dual* (Recarga 5-6) cuando esté disponible
+- Alternan *Intercambio de Posición* para evitar quedar acorraladas
 
-### **Fase 3: Desesperación (HP < 50)**
+### **Fase 3: Desesperación (HP < 85)**
 - Usan *Refugio Espejo* para protegerse
 - Activan *Dimensión Invertida* para confundir a todos
 - Priorizan supervivencia sobre ofensiva
 
 ### **Estrategias Especiales:**
-- **Contra Múltiples Enemigos:** Usan *Clon Masivo* + *Daño Compartido*
-- **Contra Tanques:** Usan *Ataque Dual* para daño doble
+- **Contra Múltiples Enemigos:** Usan *Dimensión Invertida* + *Reflejos Múltiples*
+- **Contra Tanques:** Usan *Ataque Dual* para concentrar daño
 - **Contra Hechiceros:** Usan *Rayo Cegador* para cegarlos
 
 ---
@@ -227,8 +216,8 @@ Las Gemelas eligen bando según el estado de la campaña:
 
 ### **🎭 Naturaleza Única:**
 - Existen simultáneamente en múltiples realidades
-- Pueden crear clones de los PJ
-- El daño a los clones se comparte con el original
+- Pueden crear un clon espejo (debilitado y temporal) de un PJ
+- Comparten un único bloque de desafío (PV, acciones legendarias y resistencia legendaria) entre ambos cuerpos
 
 
 ---

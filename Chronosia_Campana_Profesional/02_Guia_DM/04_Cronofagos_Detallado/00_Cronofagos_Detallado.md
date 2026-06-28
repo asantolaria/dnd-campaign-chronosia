@@ -16,25 +16,25 @@
 ### **⏰ LUGARTENIENTES TEMPORALES** (Poder de Amaunator)
 
 1. **[01_Serapis_El_Retroceso.md](./01_Serapis_El_Retroceso.md)** - Elfo Eterno
-   - Nivel Recomendado: 5-7 | CR: 8
+   - Nivel Recomendado: 4-5 | CR: 5
    - Región: La Espiral Inversa | Estado: 🔓 Desbloqueada
 
 2. **[02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md)** - Orco (El Oráculo)
-   - Nivel Recomendado: 7-9 | CR: 12
+   - Nivel Recomendado: 7-8 | CR: 9
    - Región: El Abismo de los Posibles | Estado: 🔒 Bloqueada
    - Nota: Neutral, puede aliarse con los PJ
 
 3. **[03_Lord_Vorthak_El_Sediento_Eterno.md](./03_Lord_Vorthak_El_Sediento_Eterno.md)** - Vampiro Ancestral
-   - Nivel Recomendado: 10-12 | CR: 18
+   - Nivel Recomendado: 9 | CR: 12 (ápice)
    - Región: La Mansión de la Sed Eterna | Estado: 🔒 Bloqueada
    - Nota: Líder del Bando Temporal
 
 4. **[10_Medusa_La_Eterna.md](./10_Medusa_La_Eterna.md)** - Medusa Ancestral
-   - Nivel Recomendado: 8-9 | CR: 9
+   - Nivel Recomendado: 5-6 | CR: 7
    - Región: El Jardín de los Tiempos Gemelos | Estado: 🔒 Bloqueada
 
 5. **[11_Tempus_El_Fragmentado.md](./11_Tempus_El_Fragmentado.md)** - Constructo Temporal
-   - Nivel Recomendado: 10-12 | CR: 12
+   - Nivel Recomendado: 6-7 | CR: 8
    - Región: Las Ruinas del Tiempo Perdido | Estado: 🔒 Bloqueada
 
 ---
@@ -42,32 +42,32 @@
 ### **🌌 LUGARTENIENTES DIMENSIONALES** (Poder de Voidar)
 
 6. **[04_Edward_Teach_Barbanegra.md](./04_Edward_Teach_Barbanegra.md)** - Humano Pirata
-   - Nivel Recomendado: 11-13 | CR: 17
+   - Nivel Recomendado: 8-9 (villano recurrente) | CR: 11
    - Región: Archipiélago de Barbanegra | Estado: 🔓 Desbloqueada (Sesión 6+)
    - Nota: Independiente, punto ciego para Varrak, **INFORMACIÓN ULTRA-SECRETA**
 
 7. **[05_Dimensionalis_La_Fracturada.md](./05_Dimensionalis_La_Fracturada.md)** - Tiefling
-   - Nivel Recomendado: 9-11 | CR: 14
+   - Nivel Recomendado: 7-8 | CR: 9
    - Región: Las Llanuras de la Compresión | Estado: 🔒 Bloqueada
    - Nota: Independiente
 
 8. **[06_Ignis_El_Devorador_Espacial.md](./06_Ignis_El_Devorador_Espacial.md)** - Dragón Rojo Ancestral
-   - Nivel Recomendado: 13-15 | CR: 24
+   - Nivel Recomendado: 9-10 | CR: 13 (ápice)
    - Región: Las Calderas Dimensionales | Estado: 🔒 Bloqueada
    - Nota: Líder del Bando Dimensional
 
 9. **[07_Matrona_Veldrisza_La_Tejedora_Dimensional.md](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md)** - Drow Matrona
-   - Nivel Recomendado: 11-13 | CR: 17
+   - Nivel Recomendado: 8-9 | CR: 11
    - Región: La Ciudad Subterránea de Veldrisza | Estado: 🔒 Bloqueada
    - Nota: Bando Dimensional
 
 10. **[08_Las_Gemelas_Del_Espejo.md](./08_Las_Gemelas_Del_Espejo.md)** - Humanas Gemelas
-    - Nivel Recomendado: 9-11 | CR: 14 (ambas juntas)
+    - Nivel Recomendado: 6-7 | CR: 8 (ambas juntas)
     - Región: El Jardín de los Tiempos Gemelos | Estado: 🔒 Bloqueada
     - Nota: Neutrales, pueden aliarse con los PJ
 
 11. **[09_Ymir_El_Eterno_Invierno.md](./09_Ymir_El_Eterno_Invierno.md)** - Elemental de Hielo Ancestral
-    - Nivel Recomendado: 5-7 | CR: 8
+    - Nivel Recomendado: 6-7 | CR: 8
     - Región: Glacialis | Estado: 🔓 Desbloqueada
     - **⚠️ FUNCIÓN CRÍTICA:** Reclutador Interplanar - Mantiene la red de portales que trae suministros y criaturas de otros planos
 
@@ -76,8 +76,8 @@
 ### **👑 LÍDER SUPREMO**
 
 12. **[12_Aethernus_Valcarys_Manshoon.md](./12_Aethernus_Valcarys_Manshoon.md)** - Humano (Clone de Manshoon #47)
-    - Nivel Recomendado: 13-15 (Clímax) | CR: 26
-    - Región: Torre de la Eternidad | Estado: 🔒 Bloqueada (Sesión 13-15)
+    - Nivel Recomendado: 10 (Clímax) | CR: 13-14 (por fases)
+    - Región: Torre de la Eternidad | Estado: 🔒 Bloqueada (Clímax, nivel 10)
     - Nota: **INFORMACIÓN ULTRA-SECRETA** sobre su verdadero plan
 
 ---
@@ -120,8 +120,7 @@
 - Efecto al morir (restauración de la región a la normalidad)
 
 **⚠️ NOTAS IMPORTANTES:**
-- **Acciones Legendarias:** Los detalles completos están en cada archivo individual
-- **Escalado Dinámico:** Los lugartenientes escalan su poder según el nivel de los PJ (1-4 acciones legendarias por turno)
+- **Acciones Legendarias:** Cada lugarteniente tiene un número FIJO de acciones legendarias por ronda definido en su propio statblock (estándar 5e: los ápice 3/ronda, los medios 2/ronda, los menores 0-2). Los detalles completos están en cada archivo individual
 - **Balance Crítico:** Los PJ deben mantener balance entre poderes temporales y dimensionales
 - **Efectos al Morir:** ⚠️ **IMPORTANTE:** Cuando un lugarteniente muere (ya sea por los PJ o por otro lugarteniente), su región se restaura completamente a la normalidad. Todas las distorsiones temporales o dimensionales causadas por su poder desaparecen gradualmente en 1d4 horas, eliminando las disfunciones y volviendo la región a un estado normal sin anomalías. Este efecto aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
 - **Información Ultra-Secreta:** Edward Teach y Aethernus tienen información crítica marcada como "ULTRA-SECRETA"
@@ -281,24 +280,16 @@ Un consejo originalmente de doce seres de distintas razas, cada uno deformado po
 
 ### **⚔️ Sistema de Acciones Legendarias (Aplicable a Todos los Lugartenientes):**
 
-Los lugartenientes escalan su poder según el nivel de los personajes jugadores, adaptando su número de acciones legendarias para mantener el desafío apropiado:
+Cada lugarteniente tiene un número **FIJO** de acciones legendarias por ronda, definido en su propio statblock siguiendo el estándar de D&D 5e. No existe escalado dinámico según el nivel de los PJ: el número es el mismo en cada combate y depende únicamente del rango del lugarteniente.
 
-- **Nivel 5-6**: 1 Acción Legendaria por turno
-- **Nivel 7-8**: 2 Acciones Legendarias por turno  
-- **Nivel 9-10**: 3 Acciones Legendarias por turno
-- **Nivel 11-12**: 4 Acciones Legendarias por turno
-
-**📊 Escalado Dinámico:**
-- **Nivel 5-6**: Los lugartenientes son desafiantes pero manejables para grupos de nivel medio
-- **Nivel 7-8**: Aumentan su versatilidad táctica con más opciones por turno
-- **Nivel 9-10**: Se vuelven extremadamente peligrosos, requiriendo coordinación total del grupo
-- **Nivel 11-12**: Poder casi divino, cada acción legendaria puede cambiar el curso del combate
+- **Lugartenientes ápice** (Vorthak, Ignis, Aethernus): **3 acciones legendarias por ronda**
+- **Lugartenientes medios** (Varrak, Dimensionalis, Veldrisza, Medusa, Tempus, Ymir, Gemelas, Serapis, Teach): **2 acciones legendarias por ronda**
+- **Lugartenientes menores / esbirros**: **0-2 acciones legendarias por ronda**
 
 **🎯 Consideraciones de Balance:**
-- Las acciones legendarias se usan al final del turno de cada criatura
-- El DM puede ajustar el número según la experiencia del grupo
-- Combates más largos permiten más uso de acciones legendarias
-- Algunas acciones requieren múltiples acciones legendarias para mayor impacto
+- Las acciones legendarias se gastan **al final del turno de otra criatura** y se recargan al inicio del turno del lugarteniente (estándar 5e)
+- El número es fijo: consulta el statblock individual para el valor exacto de cada lugarteniente
+- Algunas acciones cuestan más de una acción legendaria, limitando cuántas puede encadenar por ronda
 
 **📖 Ver información completa de regiones y distribución geográfica:** [08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
@@ -452,17 +443,17 @@ Edward Teach NO es solo un oportunista que roba poder. Es el **único lugartenie
 - Sospecha de que los dioses pueden ser liberados
 - Conciencia de que Manshoon es vulnerable durante el ritual
 
-| **Acción Legendaria**          | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| ------------------------------ | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Ataque de Cañón**      | 5                | 1 Acción   | Dispara un cañón que causa daño de área en un radio de 20 pies                                        |
-| **Portal de Intercambio**      | 5                | 1 Acción   | Intercambia posiciones con un enemigo a hasta 30 pies de distancia                                            |
-| **Desplazamiento Masivo**      | 6                | 2 Acciones | Teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies        |
-| **Portal de Retorno**          | 7                | 2 Acciones | Crea un portal que conecta dos ubicaciones, permitiendo viaje instantáneo entre ellas por 3 turnos            |
-| **Desplazamiento Forzado**     | 8                | 3 Acciones | Fuerza a un enemigo a teletransportarse a una ubicación específica, posiblemente peligrosa                    |
-| **Portal de Absorción**        | 9                | 3 Acciones | Crea un portal que absorbe ataques enemigos y los redirige a otros enemigos                                   |
-| **Desplazamiento Dimensional** | 10               | 4 Acciones | Teletransporta a todos los enemigos en 60 pies a un plano dimensional aleatorio por 1d4 turnos                |
-| **Portal de Realidad**         | 11               | 4 Acciones | Crea un portal masivo que conecta con múltiples realidades, confundiendo y desorientando a todos los enemigos |
-| **Portal de Invocación**       | 8                | 3 Acciones | Abre un portal a otro mundo y trae 1d4 criaturas aleatorias de una lista predefinida que luchan por Edward Teach |
+| **Acción Legendaria**          | **Costo**  | **Descripción**                                                                                               |
+| ------------------------------ | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Ataque de Cañón**      | 1 Acción   | Dispara un cañón que causa daño de área en un radio de 20 pies                                        |
+| **Portal de Intercambio**      | 1 Acción   | Intercambia posiciones con un enemigo a hasta 30 pies de distancia                                            |
+| **Desplazamiento Masivo**      | 2 Acciones | Teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies        |
+| **Portal de Retorno**          | 2 Acciones | Crea un portal que conecta dos ubicaciones, permitiendo viaje instantáneo entre ellas por 3 turnos            |
+| **Desplazamiento Forzado**     | 3 Acciones | Fuerza a un enemigo a teletransportarse a una ubicación específica, posiblemente peligrosa                    |
+| **Portal de Absorción**        | 3 Acciones | Crea un portal que absorbe ataques enemigos y los redirige a otros enemigos                                   |
+| **Desplazamiento Dimensional** | 4 Acciones | Teletransporta a todos los enemigos en 60 pies a un plano dimensional aleatorio por 1d4 turnos                |
+| **Portal de Realidad**         | 4 Acciones | Crea un portal masivo que conecta con múltiples realidades, confundiendo y desorientando a todos los enemigos |
+| **Portal de Invocación**       | 3 Acciones | Abre un portal a otro mundo y trae 1d4 criaturas aleatorias de una lista predefinida que luchan por Edward Teach |
 
 ### **🌍 Lista de Criaturas Invocables (Portal de Invocación):**
 
@@ -490,24 +481,24 @@ Edward Teach NO es solo un oportunista que roba poder. Es el **único lugartenie
 
 **Nota DM:** Estas acciones se añaden al repertorio de Edward Teach después de asesinar a Thyra en Sesión 5-6.
 
-|| **Acción Legendaria** | **Nivel Mínimo** | **Costo** | **Descripción** |
-|| -------------------- | ---------------- | --------- | --------------- |
-|| **Estasis Pirata** | 6 | 2 Acciones | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
-|| **Suspensión de Ataque** | 6 | 1 Acción | Congela un ataque enemigo en el aire, evitando que cause daño hasta su siguiente turno |
-|| **Congelación Temporal** | 7 | 2 Acciones | Convierte a un enemigo en cristal temporal, paralizándolo por 1d4 turnos (CD 16 Sabiduría) |
-|| **Campo de Estasis** | 8 | 3 Acciones | Crea un área de 30 pies donde todos los enemigos quedan suspendidos, perdiendo su turno (CD 18 Sabiduría) |
-|| **Momento Robado** | 9 | 3 Acciones | Roba el turno de un enemigo - ese enemigo pierde su próxima acción y Teach gana una acción adicional |
-|| **Congelación Masiva** | 10 | 4 Acciones | Congela el tiempo en 60 pies, todos los enemigos pierden 2 turnos consecutivos (CD 20 Sabiduría) |
-|| **Estasis de Batalla** | 11 | 4 Acciones | Congela a todos en 90 pies por 1 turno completo mientras Teach actúa libremente (CD 22 Sabiduría) |
+|| **Acción Legendaria** | **Costo** | **Descripción** |
+|| -------------------- | --------- | --------------- |
+|| **Estasis Pirata** | 2 Acciones | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
+|| **Suspensión de Ataque** | 1 Acción | Congela un ataque enemigo en el aire, evitando que cause daño hasta su siguiente turno |
+|| **Congelación Temporal** | 2 Acciones | Convierte a un enemigo en cristal temporal, paralizándolo por 1d4 turnos (CD 16 Sabiduría) |
+|| **Campo de Estasis** | 3 Acciones | Crea un área de 30 pies donde todos los enemigos quedan suspendidos, perdiendo su turno (CD 18 Sabiduría) |
+|| **Momento Robado** | 3 Acciones | Roba el turno de un enemigo - ese enemigo pierde su próxima acción y Teach gana una acción adicional |
+|| **Congelación Masiva** | 4 Acciones | Congela el tiempo en 60 pies, todos los enemigos pierden 2 turnos consecutivos (CD 20 Sabiduría) |
+|| **Estasis de Batalla** | 4 Acciones | Congela a todos en 90 pies por 1 turno completo mientras Teach actúa libremente (CD 22 Sabiduría) |
 
 **💀 COMBINACIONES DEVASTADORAS:**
 
 Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 
-- **Portal Congelado** (Nivel 8+): Portal de Intercambio + Suspensión de Ataque = Teletransporta y congela al enemigo
-- **Estasis y Reposición** (Nivel 9+): Estasis Pirata + Portal de Intercambio = Se hace inmune e intercambia posición con enemigo
-- **Desplazamiento Temporal** (Nivel 10+): Desplazamiento Masivo + Campo de Estasis = Teletransporta y congela a todos
-- **Cañón Suspendido** (Nivel 7+): Ataque de Cañón + Campo de Estasis = Daño masivo a enemigos congelados (doble daño)
+- **Portal Congelado**: Portal de Intercambio + Suspensión de Ataque = Teletransporta y congela al enemigo
+- **Estasis y Reposición**: Estasis Pirata + Portal de Intercambio = Se hace inmune e intercambia posición con enemigo
+- **Desplazamiento Temporal**: Desplazamiento Masivo + Campo de Estasis = Teletransporta y congela a todos
+- **Cañón Suspendido**: Ataque de Cañón + Campo de Estasis = Daño masivo a enemigos congelados (doble daño)
 
 **⚠️ Impacto en Varrak:** Después de robar este poder, Varrak del Horizonte NO puede predecir las acciones de Teach. Esto convierte a Edward en extremadamente impredecible y peligroso.
 
@@ -550,31 +541,31 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Región**: Las Llanuras de la Compresión
 - **⚔️ Statblock Completo:** [05_Dimensionalis_La_Fracturada.md](./05_Dimensionalis_La_Fracturada.md)
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Fractura Menor**         | 5                | 1 Acción   | Crea una pequeña fractura dimensional que confunde a un enemigo, dándole desventaja en sus tiradas            |
-| **Superposición**          | 5                | 1 Acción   | Se superpone con una versión de otra dimensión, ganando +2 AC y +2 a todas las tiradas por 1 turno            |
-| **Laberinto Dimensional**  | 6                | 2 Acciones | Crea un laberinto espacial de 30x30 pies donde las direcciones cambian constantemente                         |
-| **Fractura Masiva**        | 7                | 2 Acciones | Fractura la realidad en un radio de 60 pies, creando múltiples dimensiones superpuestas que confunden a todos |
-| **Dimensión Espejo**       | 8                | 3 Acciones | Crea una dimensión espejo donde los enemigos se ven reflejados, causando confusión y desorientación           |
-| **Superposición Total**    | 9                | 3 Acciones | Se superpone con múltiples versiones dimensionales, ganando múltiples acciones por turno                      |
-| **Caos Dimensional**       | 10               | 4 Acciones | Fractura completamente la realidad en 90 pies, creando un caos espacial donde las leyes físicas no funcionan  |
-| **Fragmentación Absoluta** | 11               | 4 Acciones | Se fragmenta en múltiples versiones dimensionales simultáneas, cada una actuando independientemente           |
-| **Separación Dimensional** | 9                | 3 Acciones | **Nivel 5-8**: Separa a los jugadores en parejas en habitaciones cerradas con criaturas. **Nivel 9+**: Separa a cada jugador individualmente en habitaciones con criaturas más poderosas |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Fractura Menor**         | 1 Acción   | Crea una pequeña fractura dimensional que confunde a un enemigo, dándole desventaja en sus tiradas            |
+| **Superposición**          | 1 Acción   | Se superpone con una versión de otra dimensión, ganando +2 AC y +2 a todas las tiradas por 1 turno            |
+| **Laberinto Dimensional**  | 2 Acciones | Crea un laberinto espacial de 30x30 pies donde las direcciones cambian constantemente                         |
+| **Fractura Masiva**        | 2 Acciones | Fractura la realidad en un radio de 60 pies, creando múltiples dimensiones superpuestas que confunden a todos |
+| **Dimensión Espejo**       | 3 Acciones | Crea una dimensión espejo donde los enemigos se ven reflejados, causando confusión y desorientación           |
+| **Superposición Total**    | 3 Acciones | Se superpone con múltiples versiones dimensionales, ganando múltiples acciones por turno                      |
+| **Caos Dimensional**       | 4 Acciones | Fractura completamente la realidad en 90 pies, creando un caos espacial donde las leyes físicas no funcionan  |
+| **Fragmentación Absoluta** | 4 Acciones | Se fragmenta en múltiples versiones dimensionales simultáneas, cada una actuando independientemente           |
+| **Separación Dimensional** | 3 Acciones | Separa a los jugadores en habitaciones cerradas con criaturas (en parejas o individualmente, a criterio del DM) |
 
 ### **🏠 Mecánicas de Separación Dimensional:**
 
-#### **📊 Niveles 5-8: Separación en Parejas**
+#### **📊 Separación en Parejas (grupos de menor nivel)**
 - **Habitaciones**: 2-3 habitaciones cerradas (dependiendo del número de jugadores)
 - **Distribución**: 2 jugadores por habitación
-- **Criaturas por Habitación**: 1-2 criaturas de nivel 5-8
+- **Criaturas por Habitación**: 1-2 criaturas ajustadas al nivel del grupo
 - **Escape**: Los jugadores deben derrotar a las criaturas para escapar
 - **Reunión**: Una vez que todas las habitaciones estén limpias, los jugadores se reúnen
 
-#### **📊 Niveles 9+: Separación Individual**
+#### **📊 Separación Individual (grupos cercanos al tope de nivel 10)**
 - **Habitaciones**: 1 habitación por jugador
 - **Distribución**: 1 jugador por habitación
-- **Criaturas por Habitación**: 1-2 criaturas de nivel 9-12
+- **Criaturas por Habitación**: 1-2 criaturas más poderosas ajustadas al nivel del grupo
 - **Escape**: Cada jugador debe derrotar a sus criaturas individualmente
 - **Reunión**: Todos los jugadores deben escapar para reunirse
 
@@ -582,10 +573,9 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 
 | **Nivel Jugadores** | **Tipo de Separación** | **Criaturas por Habitación** | **Nivel de Criaturas** | **Ejemplos** |
 |---------------------|------------------------|-------------------------------|-------------------------|--------------|
-| **5-6** | Parejas | 1-2 | 5-6 | Goblin Berserker, Orco Guerrero |
+| **4-6** | Parejas | 1-2 | 4-6 | Goblin Berserker, Orco Guerrero |
 | **7-8** | Parejas | 2 | 7-8 | Troll, Elemental de Tierra |
 | **9-10** | Individual | 1-2 | 9-10 | Demonio Mayor, Dragón Wyrmling |
-| **11-12** | Individual | 2 | 11-12 | Dragón Adulto, Lich Menor |
 
 #### **⚔️ Mecánicas de Habitaciones:**
 - **Puertas Cerradas**: Solo se abren al derrotar a todas las criaturas
@@ -600,16 +590,16 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Región**: Las Calderas Dimensionales
 - **⚔️ Statblock Completo:** [06_Ignis_El_Devorador_Espacial.md](./06_Ignis_El_Devorador_Espacial.md)
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Portal de Ataque**       | 5                | 1 Acción   | Crea un portal detrás de un enemigo y ataca a través de él, ganando ventaja en el ataque                      |
-| **Portal de Crias**        | 5                | 1 Acción   | Crea un portal que lanza 1d2 crías de dragón rojo que atacan a los enemigos                                   |
-| **Portal Múltiple**        | 6                | 2 Acciones | Crea 2 portales que permiten atacar a través de ambos simultáneamente                                         |
-| **Portal de Elementales**  | 7                | 2 Acciones | Crea un portal que trae 1d4 elementales de fuego que luchan por Ignis                                         |
-| **Portal de Crias Masivo** | 8                | 3 Acciones | Crea un portal que lanza 1d4+1 crías de dragón rojo que atacan a todos los enemigos                           |
-| **Portal de Refuerzos**    | 9                | 3 Acciones | Crea un portal que trae 1d3 dragones rojos adultos que luchan por Ignis                                       |
-| **Portal Infernal**        | 10               | 4 Acciones | Crea múltiples portales que atacan desde todas las direcciones, causando daño masivo                          |
-| **Portal de Devastación**  | 11               | 4 Acciones | Crea un portal masivo que lanza un ejército de dragones rojos y elementales de fuego                          |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Portal de Ataque**       | 1 Acción   | Crea un portal detrás de un enemigo y ataca a través de él, ganando ventaja en el ataque                      |
+| **Portal de Crias**        | 1 Acción   | Crea un portal que lanza 1d2 crías de dragón rojo que atacan a los enemigos                                   |
+| **Portal Múltiple**        | 2 Acciones | Crea 2 portales que permiten atacar a través de ambos simultáneamente                                         |
+| **Portal de Elementales**  | 2 Acciones | Crea un portal que trae 1d4 elementales de fuego que luchan por Ignis                                         |
+| **Portal de Crias Masivo** | 3 Acciones | Crea un portal que lanza 1d4+1 crías de dragón rojo que atacan a todos los enemigos                           |
+| **Portal de Refuerzos**    | 3 Acciones | Crea un portal que trae 1d3 dragones rojos adultos que luchan por Ignis                                       |
+| **Portal Infernal**        | 4 Acciones | Crea múltiples portales que atacan desde todas las direcciones, causando daño masivo                          |
+| **Portal de Devastación**  | 4 Acciones | Crea un portal masivo que lanza un ejército de dragones rojos y elementales de fuego                          |
 
 ### **10. Matrona Veldrisza "La Tejedora Dimensional" (Drow Matrona)**
 - **Poder**: Combina el poder de Lolth con la manipulación espacial para crear portales que conectan con Menzoberranzan. Puede tejer redes espaciales que atrapan a sus enemigos en dimensiones de pesadilla
@@ -618,16 +608,16 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Región**: La Ciudad Subterránea de Veldrisza
 - **⚔️ Statblock Completo:** [07_Matrona_Veldrisza_La_Tejedora_Dimensional.md](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md)
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Red de Telaraña**        | 5                | 1 Acción   | Crea una red de telarañas dimensionales que atrapa a un enemigo, paralizándolo por 1 turno                    |
-| **Portal a Menzoberranzan** | 5                | 1 Acción   | Abre un portal a Menzoberranzan que trae 1d3 drow guerreros que luchan por Veldrisza                          |
-| **Dimensión de Pesadilla** | 6                | 2 Acciones | Atrapa a un enemigo en una dimensión de pesadilla donde debe superar una prueba de coraje para escapar          |
-| **Red Masiva**             | 7                | 2 Acciones | Crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies                            |
-| **Portal de Ejército**     | 8                | 3 Acciones | Abre un portal masivo que trae un ejército de drow (2d4 guerreros + 1 sacerdotisa)                           |
-| **Dimensión Colectiva**    | 9                | 3 Acciones | Atrapa a todos los enemigos en 90 pies en una dimensión de pesadilla colectiva                                |
-| **Red Cósmica**            | 10               | 4 Acciones | Crea una red de telarañas que cubre 120 pies, atrapando todo y conectando con Menzoberranzan                  |
-| **Portal de Lolth**        | 11               | 4 Acciones | Abre un portal directo a Lolth, trayendo su poder divino y múltiples demonios drow                           |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Red de Telaraña**        | 1 Acción   | Crea una red de telarañas dimensionales que atrapa a un enemigo, paralizándolo por 1 turno                    |
+| **Portal a Menzoberranzan** | 1 Acción   | Abre un portal a Menzoberranzan que trae 1d3 drow guerreros que luchan por Veldrisza                          |
+| **Dimensión de Pesadilla** | 2 Acciones | Atrapa a un enemigo en una dimensión de pesadilla donde debe superar una prueba de coraje para escapar          |
+| **Red Masiva**             | 2 Acciones | Crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies                            |
+| **Portal de Ejército**     | 3 Acciones | Abre un portal masivo que trae un ejército de drow (2d4 guerreros + 1 sacerdotisa)                           |
+| **Dimensión Colectiva**    | 3 Acciones | Atrapa a todos los enemigos en 90 pies en una dimensión de pesadilla colectiva                                |
+| **Red Cósmica**            | 4 Acciones | Crea una red de telarañas que cubre 120 pies, atrapando todo y conectando con Menzoberranzan                  |
+| **Portal de Lolth**        | 4 Acciones | Abre un portal directo a Lolth, trayendo su poder divino y múltiples demonios drow                           |
 
 ### **11. Las Gemelas del Espejo - Lyra y Nyx (Humanas Gemelas Dimensionales)**
 - **Poder Dimensional**: Tienen acceso a una dimensión espejo que existe al otro lado de cualquier superficie reflectante. Al atravesar un espejo, viven en un mundo idéntico pero simétricamente invertido como si se miraran en un espejo. Pueden intercambiar posiciones instantáneamente entre ambas dimensiones, atacar desde el mundo espejo y usar la dimensión como refugio o trampa
@@ -637,29 +627,29 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Región**: El Jardín de los Tiempos Gemelos
 - **⚔️ Statblock Completo:** [08_Las_Gemelas_Del_Espejo.md](./08_Las_Gemelas_Del_Espejo.md)
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Intercambio de Posición** | 5                | 1 Acción   | Lyra y Nyx intercambian posiciones instantáneamente a través de la dimensión espejo                           |
-| **Rayo Cegador**           | 5                | 1 Acción   | Lanza un rayo de luz a los ojos de un enemigo, cegándolo por 1 turno                                         |
-| **Clon de Enemigo**        | 6                | 2 Acciones | Crea un clon de un enemigo que lucha por las gemelas durante 3 turnos                                         |
-| **Refugio Espejo**         | 6                | 2 Acciones | Ambas gemelas se refugian en la dimensión espejo, volviéndose inmunes a ataques por 1 turno                   |
-| **Ataque Dual**            | 7                | 2 Acciones | Ambas gemelas atacan simultáneamente desde dimensiones opuestas, causando daño doble                          |
-| **Clon Masivo**            | 8                | 3 Acciones | Crea clones de 1d3 enemigos que luchan por las gemelas durante 4 turnos                                       |
-| **Daño Compartido**        | 9                | 3 Acciones | **Activa**: Todo el daño recibido por los clones se comparte con el original (50% del daño)                   |
-| **Reflejos Múltiples**     | 9                | 3 Acciones | Crea múltiples reflejos de las gemelas que confunden a los enemigos sobre cuál es la real                    |
-| **Dimensión Invertida**    | 10               | 4 Acciones | Invierte completamente la realidad en 60 pies, confundiendo a todos los enemigos sobre qué es real            |
-| **Colapso Dimensional**    | 11               | 4 Acciones | Colapsa la dimensión espejo, atrapando a todos los enemigos en un laberinto de reflejos infinitos              |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Intercambio de Posición** | 1 Acción   | Lyra y Nyx intercambian posiciones instantáneamente a través de la dimensión espejo                           |
+| **Rayo Cegador**           | 1 Acción   | Lanza un rayo de luz a los ojos de un enemigo, cegándolo por 1 turno                                         |
+| **Clon de Enemigo**        | 2 Acciones | Crea un clon de un enemigo que lucha por las gemelas durante 3 turnos                                         |
+| **Refugio Espejo**         | 2 Acciones | Ambas gemelas se refugian en la dimensión espejo, volviéndose inmunes a ataques por 1 turno                   |
+| **Ataque Dual**            | 2 Acciones | Ambas gemelas atacan simultáneamente desde dimensiones opuestas, causando daño doble                          |
+| **Clon Masivo**            | 3 Acciones | Crea clones de 1d3 enemigos que luchan por las gemelas durante 4 turnos                                       |
+| **Daño Compartido**        | 3 Acciones | **Activa**: Todo el daño recibido por los clones se comparte con el original (50% del daño)                   |
+| **Reflejos Múltiples**     | 3 Acciones | Crea múltiples reflejos de las gemelas que confunden a los enemigos sobre cuál es la real                    |
+| **Dimensión Invertida**    | 4 Acciones | Invierte completamente la realidad en 60 pies, confundiendo a todos los enemigos sobre qué es real            |
+| **Colapso Dimensional**    | 4 Acciones | Colapsa la dimensión espejo, atrapando a todos los enemigos en un laberinto de reflejos infinitos              |
 
 ### **🪞 Mecánicas de Clones y Daño Compartido:**
 
 #### **📋 Creación de Clones:**
-- **Clon de Enemigo** (Nivel 6): Crea 1 clon de un enemigo específico
-- **Clon Masivo** (Nivel 8): Crea clones de 1d3 enemigos diferentes
+- **Clon de Enemigo** (2 Acciones): Crea 1 clon de un enemigo específico
+- **Clon Masivo** (3 Acciones): Crea clones de 1d3 enemigos diferentes
 - **Duración**: Los clones duran 3-4 turnos dependiendo del nivel
 - **Control**: Los clones luchan automáticamente por las gemelas
 - **Estadísticas**: Los clones tienen las mismas estadísticas que el original
 
-#### **💥 Daño Compartido (Nivel 9+):**
+#### **💥 Daño Compartido (3 Acciones):**
 - **Activación**: Una vez activado, permanece activo durante el resto del combate
 - **Mecánica**: Todo el daño recibido por los clones se comparte con el original
 - **Porcentaje**: El original recibe el 50% del daño total infligido a sus clones
@@ -686,35 +676,35 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Región**: Glacialis
 - **⚔️ Statblock Completo:** [09_Ymir_El_Eterno_Invierno.md](./09_Ymir_El_Eterno_Invierno.md)
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Aliento de Hielo**       | 5                | 1 Acción   | Exhala un cono de hielo de 30 pies que congela a los enemigos, reduciendo su velocidad a la mitad             |
-| **Portal de Hielo**        | 5                | 1 Acción   | Crea un portal de hielo que conecta con el Plano Elemental del Agua, permitiendo ataques a distancia          |
-| **Cristalización**         | 6                | 2 Acciones | Convierte el aire en cristales de hielo que crean obstáculos y trampas en el campo de batalla                 |
-| **Compresión Espacial**    | 7                | 2 Acciones | Comprime el espacio en 60 pies, reduciendo las distancias y permitiendo ataques de área más efectivos         |
-| **Portal de Elementales**  | 8                | 3 Acciones | Crea un portal que trae 1d4 elementales de agua que luchan por Ymir                                         |
-| **Expansión Dimensional**  | 9                | 3 Acciones | Expande el espacio en 90 pies, aumentando las distancias y dificultando el movimiento enemigo                 |
-| **Congelación Masiva**     | 10               | 4 Acciones | Congela toda el área en 120 pies, creando un campo de hielo que reduce la velocidad y causa daño por frío     |
-| **Portal Cósmico**         | 11               | 4 Acciones | Crea un portal masivo al Plano Elemental del Agua que inunda la región con agua elemental y criaturas acuáticas |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Aliento de Hielo**       | 1 Acción   | Exhala un cono de hielo de 30 pies que congela a los enemigos, reduciendo su velocidad a la mitad             |
+| **Portal de Hielo**        | 1 Acción   | Crea un portal de hielo que conecta con el Plano Elemental del Agua, permitiendo ataques a distancia          |
+| **Cristalización**         | 2 Acciones | Convierte el aire en cristales de hielo que crean obstáculos y trampas en el campo de batalla                 |
+| **Compresión Espacial**    | 2 Acciones | Comprime el espacio en 60 pies, reduciendo las distancias y permitiendo ataques de área más efectivos         |
+| **Portal de Elementales**  | 3 Acciones | Crea un portal que trae 1d4 elementales de agua que luchan por Ymir                                         |
+| **Expansión Dimensional**  | 3 Acciones | Expande el espacio en 90 pies, aumentando las distancias y dificultando el movimiento enemigo                 |
+| **Congelación Masiva**     | 4 Acciones | Congela toda el área en 120 pies, creando un campo de hielo que reduce la velocidad y causa daño por frío     |
+| **Portal Cósmico**         | 4 Acciones | Crea un portal masivo al Plano Elemental del Agua que inunda la región con agua elemental y criaturas acuáticas |
 
 ### **❄️ Mecánicas de Control Espacial a través del Hielo:**
 
 #### **🧊 Manipulación del Espacio:**
-- **Compresión Espacial** (Nivel 7): Reduce las distancias en 60 pies, permitiendo ataques de área más efectivos
-- **Expansión Dimensional** (Nivel 9): Aumenta las distancias en 90 pies, dificultando el movimiento enemigo
+- **Compresión Espacial** (2 Acciones): Reduce las distancias en 60 pies, permitiendo ataques de área más efectivos
+- **Expansión Dimensional** (3 Acciones): Aumenta las distancias en 90 pies, dificultando el movimiento enemigo
 - **Efecto**: Cambia la geometría del espacio para ventaja táctica
 - **Duración**: Los efectos duran hasta el final del combate
 
 #### **🌊 Portales de Hielo:**
-- **Portal de Hielo** (Nivel 5): Portal simple al Plano Elemental del Agua
-- **Portal de Elementales** (Nivel 8): Trae 1d4 elementales de agua
-- **Portal Cósmico** (Nivel 11): Portal masivo que inunda la región
+- **Portal de Hielo** (1 Acción): Portal simple al Plano Elemental del Agua
+- **Portal de Elementales** (3 Acciones): Trae 1d4 elementales de agua
+- **Portal Cósmico** (4 Acciones): Portal masivo que inunda la región
 - **Conexión**: Los portales conectan con el Plano Elemental del Agua
 
 #### **❄️ Efectos de Congelación:**
-- **Aliento de Hielo** (Nivel 5): Cono de 30 pies que reduce velocidad a la mitad
-- **Cristalización** (Nivel 6): Convierte el aire en cristales de hielo
-- **Congelación Masiva** (Nivel 10): Campo de hielo de 120 pies
+- **Aliento de Hielo** (1 Acción): Cono de 30 pies que reduce velocidad a la mitad
+- **Cristalización** (2 Acciones): Convierte el aire en cristales de hielo
+- **Congelación Masiva** (4 Acciones): Campo de hielo de 120 pies
 - **Efectos**: Reducción de velocidad, daño por frío, obstáculos
 
 #### **🎯 Estrategia de Combate:**
@@ -827,12 +817,12 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Canalización arcana** para energías temporales/espaciales
 
 **🎭 Máscara:**
-- **Sin máscara** 
-- **Lentes circulares oscuros** que reflejan la luz
-- **Expresión completamente oculta** para inhumanidad deliberada
+- **Sin máscara** — muestra el rostro distorsionado por el tiempo (mitades de distinta edad)
+- **Lentes circulares oscuros** subidos sobre la gorra
+- **Aire deliberadamente inhumano** pese a ir a cara descubierta
 
 **🛡️ Accesorios:**
-- **sobrero** similar al de los soldados soviéticos del mismo color del uniforme
+- **Gorra de plato** militar (estilo soviético), del mismo color del uniforme
 - **Tatuaje** símbolo de la serpiente con forma de infinito mordiendose la cola en la mano.
 - **Insignias de oficial** en los hombros
 

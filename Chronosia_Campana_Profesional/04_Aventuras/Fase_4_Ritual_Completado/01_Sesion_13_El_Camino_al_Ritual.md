@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 13-14
+- **Nivel de los PJ:** 8
 - **Ubicación:** Variable → Camino hacia la Torre de la Eternidad
 - **Estilo:** Preparación Final + Llamada Divina + Urgencia Máxima
 - **⚠️ RITUAL AL 98%:** Solo queda 2% antes de que sea irreversible

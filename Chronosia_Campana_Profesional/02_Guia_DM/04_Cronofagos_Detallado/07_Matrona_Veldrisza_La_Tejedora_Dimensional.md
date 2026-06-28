@@ -1,4 +1,7 @@
 # 🕷️ Matrona Veldrisza "La Tejedora Dimensional"
+
+![Matrona Veldrisza](../../assets/bestiario/lugartenientes/07_matrona-veldrisza.jpg)
+
 ## *Lugarteniente Dimensional - Drow Matrona*
 
 ---
@@ -9,7 +12,7 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Principal
 - **Región:** La Ciudad Subterránea de Veldrisza
-- **Nivel Recomendado:** 11-13
+- **Nivel Recomendado:** 8-9
 - **Bando:** Dimensional (Bajo Ignis)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere Edward Teach, Artefacto Gnomo o Varrak)
 
@@ -35,7 +38,7 @@ Cuando Veldrisza muere (ya sea por los PJ o por otro lugarteniente), **La Ciudad
 
 ---
 
-**Clase de Armadura:** 19 (armadura de cuero mágica + destreza + protección de Lolth)  
+**Clase de Armadura:** 18 (armadura de cuero mágica + destreza + protección de Lolth)  
 **Puntos de Golpe:** 225 (30d8 + 90)  
 **Velocidad:** 30 pies
 
@@ -43,17 +46,17 @@ Cuando Veldrisza muere (ya sea por los PJ o por otro lugarteniente), **La Ciudad
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 14 (+2) | 20 (+5) | 16 (+3) | 22 (+6) | 20 (+5) | 24 (+7) |
+| 12 (+1) | 18 (+4) | 16 (+3) | 16 (+3) | 16 (+3) | 18 (+4) |
 
 ---
 
-**Salvaciones:** DES +12, INT +13, SAB +12, CAR +14  
-**Habilidades:** Arcano +13, Engaño +14, Intimidación +14, Percepción +12, Persuasión +14, Religión +13  
+**Salvaciones:** DES +8, INT +7, SAB +7, CAR +8  
+**Habilidades:** Arcano +7, Engaño +8, Intimidación +8, Percepción +7, Persuasión +8, Religión +7  
 **Resistencias al Daño:** Fuego, espacial, magia (tiradas de salvación contra hechizos con ventaja)  
 **Inmunidades a Condiciones:** Encantado, efectos que alteran el espacio  
-**Sentidos:** Visión en la oscuridad 120 pies, Percepción pasiva 22  
+**Sentidos:** Visión en la oscuridad 120 pies, Percepción pasiva 17  
 **Idiomas:** Común, Élfico, Abisal, Infernal, Drow  
-**CR:** 17 (18,000 XP)
+**CR:** 11 (7,200 XP)
 
 ---
 
@@ -74,8 +77,11 @@ Veldrisza puede crear múltiples redes espaciales simultáneamente. Puede manten
 **Inmunidad Dimensional.**  
 Veldrisza es inmune a efectos que alteran el espacio, incluyendo *puerta dimensional* y efectos de compresión/expansión espacial.
 
+**Resistencia Legendaria (1/día).**  
+Si Veldrisza falla una tirada de salvación, puede elegir tener éxito en su lugar.
+
 **Magia Innata.**  
-Veldrisza puede lanzar los siguientes hechizos innatamente (CD de salvación 22):
+Veldrisza puede lanzar los siguientes hechizos innatamente (CD de salvación 16):
 - A voluntad: *dancing lights*, *darkness*, *faerie fire*
 - 1/día cada uno: *levitate*, *dispel magic*, *suggestion*
 
@@ -86,45 +92,43 @@ Veldrisza puede lanzar los siguientes hechizos innatamente (CD de salvación 22)
 **Multiataque.**  
 Veldrisza realiza tres ataques: dos con *Daga de Telaraña* y uno con *Red Espacial*.
 
-**Daga de Telaraña.** *Ataque con Arma Cuerpo a Cuerpo:* +12 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 9 (1d6 + 5) de daño perforante más 10 (3d6) de daño espacial.  
-El objetivo debe hacer salvación de Destreza CD 18 o queda atrapado en una red espacial (paralizado por 1 turno).
+**Daga de Telaraña.** *Ataque con Arma Cuerpo a Cuerpo:* +10 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 8 (1d6 + 4) de daño perforante más 10 (3d6) de daño espacial.  
+El objetivo debe hacer salvación de Destreza CD 17 o queda atrapado en una red espacial (paralizado por 1 turno).
 
-**Red Espacial.** *Ataque con Conjuro:* +13 al ataque, alcance 60 pies, un objetivo.  
+**Red Espacial.** *Ataque con Conjuro:* +10 al ataque, alcance 60 pies, un objetivo.  
 Veldrisza lanza una red de telarañas dimensionales que atrapa al enemigo.  
-*Impacto:* El objetivo debe hacer salvación de Destreza CD 18 o queda paralizado por 1 turno y recibe 14 (4d6) de daño espacial.
+*Impacto:* El objetivo debe hacer salvación de Destreza CD 17 o queda paralizado por 1 turno y recibe 14 (4d6) de daño espacial.
 
 **Portal a Menzoberranzan (3/día).**  
 Como acción, Veldrisza abre un portal a Menzoberranzan que trae 1d3 drow guerreros (CR 3 cada uno) que luchan por Veldrisza hasta ser derrotados.
 
 **Dimensión de Pesadilla (2/día).**  
-Como acción, Veldrisza atrapa a un enemigo a hasta 60 pies de distancia en una dimensión de pesadilla. El enemigo debe hacer salvación de Sabiduría CD 20 o queda atrapado y debe superar una prueba de coraje (tirada de Carisma CD 20) para escapar. Mientras está atrapado, el enemigo no puede actuar y recibe 14 (4d6) de daño psíquico por turno.
+Como acción, Veldrisza atrapa a un enemigo a hasta 60 pies de distancia en una dimensión de pesadilla. El enemigo debe hacer salvación de Sabiduría CD 17 o queda atrapado y debe superar una prueba de coraje (tirada de Carisma CD 17) para escapar. Mientras está atrapado, el enemigo no puede actuar y recibe 10 (3d6) de daño psíquico por turno.
 
 **Red Masiva (1/día).**  
-Como acción, Veldrisza crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies. Todos los enemigos en el área deben hacer salvación de Destreza CD 18 o quedan paralizados por 1 turno.
+Como acción, Veldrisza crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies. Todos los enemigos en el área deben hacer salvación de Destreza CD 17 o quedan paralizados por 1 turno.
 
 **Portal de Ejército (1/día).**  
-Como acción, Veldrisza abre un portal masivo que trae un ejército de drow: 2d4 guerreros drow (CR 3 cada uno) + 1 sacerdotisa de Lolth (CR 9). Todos luchan por Veldrisza hasta ser derrotados.
+Como acción, Veldrisza abre un portal que trae 1d3 guerreros drow (CR 3 cada uno) que luchan por Veldrisza hasta ser derrotados.
 
-**Portal de Lolth (1/día).**  
-Como acción, Veldrisza abre un portal directo a Lolth, trayendo su poder divino y múltiples demonios drow (1d4 yochlol, CR 10 cada uno). Los demonios luchan por Veldrisza hasta ser derrotados.
+**Portal de Lolth (1/combate).**  
+Como acción, Veldrisza abre un portal a las profundidades de Lolth, trayendo **1 drider (CR 6) o 1d2 demonios drow menores (quasit/yochlol menor, CR 2-3)**. Las criaturas luchan por Veldrisza hasta ser derrotadas.
 
 ---
 
 ### **Acciones Legendarias**
 
-Veldrisza puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores.
+Veldrisza puede realizar **3 acciones legendarias por ronda**, eligiendo entre las opciones de abajo. Solo puede usar una acción legendaria a la vez y solo al final del turno de otra criatura. Recupera las acciones legendarias gastadas al inicio de su turno.
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                               |
-| -------------------------- | ---------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
-| **Red de Telaraña**        | 5                | 1 Acción   | Crea una red de telarañas dimensionales que atrapa a un enemigo, paralizándolo por 1 turno                    |
-| **Portal a Menzoberranzan** | 5                | 1 Acción   | Abre un portal a Menzoberranzan que trae 1d3 drow guerreros que luchan por Veldrisza                          |
-| **Dimensión de Pesadilla** | 6                | 2 Acciones | Atrapa a un enemigo en una dimensión de pesadilla donde debe superar una prueba de coraje para escapar          |
-| **Red Masiva**             | 7                | 2 Acciones | Crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies                            |
-| **Portal de Ejército**     | 8                | 3 Acciones | Abre un portal masivo que trae un ejército de drow (2d4 guerreros + 1 sacerdotisa)                           |
-| **Dimensión Colectiva**    | 9                | 3 Acciones | Atrapa a todos los enemigos en 90 pies en una dimensión de pesadilla colectiva                                |
-| **Red Cósmica**            | 10               | 4 Acciones | Crea una red de telarañas que cubre 120 pies, atrapando todo y conectando con Menzoberranzan                  |
-| **Portal de Lolth**        | 11               | 4 Acciones | Abre un portal directo a Lolth, trayendo su poder divino y múltiples demonios drow                           |
+| **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
+| -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Red de Telaraña**        | 1 Acción   | Crea una red de telarañas dimensionales que atrapa a un enemigo, paralizándolo por 1 turno (DES CD 17)        |
+| **Portal a Menzoberranzan** | 1 Acción  | Abre un portal a Menzoberranzan que trae 1 drow guerrero (CR 3) que lucha por Veldrisza                       |
+| **Dimensión de Pesadilla** | 2 Acciones | Atrapa a un enemigo en una dimensión de pesadilla donde debe superar una prueba de coraje para escapar (SAB CD 17) |
+| **Red Masiva**             | 2 Acciones | Crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies (DES CD 17)               |
+| **Dimensión Colectiva**    | 3 Acciones | Atrapa a todos los enemigos en 60 pies en una dimensión de pesadilla colectiva (SAB CD 17)                   |
+| **Red Cósmica**            | 3 Acciones | Crea una red de telarañas que cubre 90 pies, ralentizando a los enemigos atrapados (DES CD 17 o velocidad reducida a la mitad y desventaja en ataques 1 turno) |
 
 ---
 
@@ -181,7 +185,7 @@ Cuando Veldrisza muere (ya sea por los PJ o por otro lugarteniente), **La Ciudad
 - Cuando Veldrisza vea cómo los lugartenientes mueven sus casillas, ordenará a los Bregan Daerthe que maten a Serapis
 - Los Bregan Daerthe llevarán el cuerpo de Serapis a Veldrisza para el ritual Zin-Carla
 
-**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa.
+**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa.
 
 ---
 
@@ -203,7 +207,7 @@ Veldrisza puede invocar el ritual **Zin-Carla**, un ritual drow de resurrección
 - Combina poderes temporales y dimensionales de forma única
 - Sirve a Veldrisza como guardián poderoso
 
-**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa del ritual.
+**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa del ritual.
 
 ---
 
@@ -233,7 +237,7 @@ Aunque Veldrisza no interactúa directamente con los PJ en esta trama, su influe
 - Manipula a otros lugartenientes sin que se den cuenta
 - Gana poder significativo sin exponerse directamente
 
-**📖 Trama relacionada:** [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe)  
+**📖 Trama relacionada:** [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe)  
 
 ---
 

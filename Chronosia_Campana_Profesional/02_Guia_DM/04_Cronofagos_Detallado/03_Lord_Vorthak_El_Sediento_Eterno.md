@@ -1,4 +1,7 @@
 # 🩸 Lord Vorthak "El Sediento Eterno"
+
+![Lord Vorthak](../../assets/bestiario/lugartenientes/03_lord-vorthak-el-sediento-eterno.jpg)
+
 ## *Lugarteniente Temporal - Vampiro Ancestral - Líder del Bando Temporal*
 
 ---
@@ -9,7 +12,7 @@
 - **Tipo:** Temporal (Poder de Amaunator)
 - **Rol:** Principal/Líder
 - **Región:** La Mansión de la Sed Eterna
-- **Nivel Recomendado:** 10-12
+- **Nivel Recomendado:** 9
 - **Bando:** Temporal (Líder del Bando Temporal)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 3+ lugartenientes)
 
@@ -35,38 +38,41 @@ Cuando Vorthak muere (ya sea por los PJ o por otro lugarteniente), **La Mansión
 
 ---
 
-**Clase de Armadura:** 20 (armadura de placas mágica + escudo)  
-**Puntos de Golpe:** 256 (32d8 + 112)  
+**Clase de Armadura:** 18 (armadura de placas mágica + escudo)  
+**Puntos de Golpe:** 250 (33d8 + 99)  
 **Velocidad:** 30 pies, escalada 30 pies
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 22 (+6) | 18 (+4) | 16 (+3) | 18 (+4) | 20 (+5) | 20 (+5) |
+| 20 (+5) | 16 (+3) | 16 (+3) | 16 (+3) | 18 (+4) | 18 (+4) |
 
 ---
 
-**Salvaciones:** DES +11, SAB +12, CAR +12  
-**Habilidades:** Atletismo +13, Intimidación +12, Percepción +12, Persuasión +12, Sigilo +11  
+**Salvaciones:** DES +8, SAB +9, CAR +9  
+**Habilidades:** Atletismo +10, Intimidación +9, Percepción +9, Persuasión +9, Sigilo +8  
 **Resistencias al Daño:** Necrótico, no mágico (contundente, cortante, perforante)  
 **Inmunidades a Condiciones:** Encantado, agotamiento, envenenado, asustado  
-**Sentidos:** Percepción pasiva 22, visión en la oscuridad 120 pies  
+**Sentidos:** Percepción pasiva 19, visión en la oscuridad 120 pies  
 **Idiomas:** Común, Élfico, Abisal, Infernal  
-**CR:** 18 (20,000 XP)
+**CR:** 12 (8.400 XP)
 
 ---
 
 ### **Rasgos Especiales**
 
 **Reservas Temporales.**  
-Vorthak está rodeado constantemente por 2d4 secuaces (vampiros menores o humanos drenados). Puede almacenar "reservas temporales" de vida drenada en estos secuaces. Cada secuaz puede almacenar hasta 50 HP de reserva temporal.
+Vorthak está rodeado constantemente por 2d4 secuaces (vampiros menores o humanos drenados). Puede almacenar "reservas temporales" de vida drenada en estos secuaces. Cada secuaz puede almacenar hasta 30 HP de reserva temporal.
 
-**Transferencia de Daño (Protección Divina).**  
-Como reacción cuando recibe daño, Vorthak puede transferir todo el daño recibido en ese turno a un secuaz. El secuaz muere si el daño excede su HP máximo.
+**Transferencia de Daño (Protección Divina) (1/ronda).**  
+Una vez por ronda, como reacción cuando recibe daño, Vorthak puede transferir todo el daño de ese único ataque o efecto a un secuaz que tenga reserva temporal. El secuaz muere si el daño excede su HP máximo. Si no le quedan secuaces, no puede usar esta reacción.
+
+**Resistencia Legendaria (3/día).**  
+Si Vorthak falla una tirada de salvación, puede elegir tener éxito en su lugar.
 
 **Regeneración.**  
-Vorthak recupera 20 HP al inicio de cada turno si tiene al menos 1 HP y no está expuesto a la luz solar directa.
+Vorthak recupera 15 HP al inicio de cada turno si tiene al menos 1 HP y no está expuesto a la luz solar directa.
 
 **Forma de Niebla (2/día).**  
 Como acción, Vorthak se transforma en una nube de niebla o vuelve a su forma normal. En forma de niebla, es resistente a todo daño excepto fuerza radiante, no puede tomar acciones, hablar o manipular objetos, y puede moverse a través de espacios de 1 pulgada sin apretarse.
@@ -82,41 +88,47 @@ Vorthak puede drenar vida temporal de múltiples enemigos simultáneamente. Cada
 ### **Acciones**
 
 **Multiataque.**  
-Vorthak realiza cuatro ataques: tres con *Espada de la Sed* y uno con *Mordisco Temporal*.
+Vorthak realiza tres ataques: dos con *Espada de la Sed* y uno con *Mordisco Temporal*.
 
-**Espada de la Sed.** *Ataque con Arma Cuerpo a Cuerpo:* +13 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 13 (1d10 + 6) de daño cortante más 10 (3d6) de daño necrótico.  
+**Espada de la Sed.** *Ataque con Arma Cuerpo a Cuerpo:* +10 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 14 (2d8 + 5) de daño cortante más 7 (2d6) de daño necrótico.  
 Si el objetivo es una criatura, Vorthak recupera HP igual a la mitad del daño necrótico infligido.
 
-**Mordisco Temporal.** *Ataque con Arma Cuerpo a Cuerpo:* +13 al ataque, alcance 5 pies, un objetivo que esté agarrado, incapacitado o paralizado.  
-*Impacto:* 12 (2d6 + 6) de daño perforante más 14 (4d6) de daño necrótico.  
-El objetivo debe hacer salvación de Constitución CD 20 o envejece 1d4 años y Vorthak se rejuvenece igual cantidad, recuperando 1d4 HP adicionales.
+**Mordisco Temporal.** *Ataque con Arma Cuerpo a Cuerpo:* +10 al ataque, alcance 5 pies, un objetivo que esté agarrado, incapacitado o paralizado.  
+*Impacto:* 12 (2d6 + 5) de daño perforante más 10 (3d6) de daño necrótico.  
+El objetivo debe hacer salvación de Constitución CD 17 o envejece 1d4 años y Vorthak se rejuvenece igual cantidad, recuperando 1d4 HP adicionales.
 
 **Drenaje Temporal (Recarga 5-6).**  
 Como acción, Vorthak drena 1d4 años de vida de un enemigo a hasta 30 pies de distancia. El enemigo envejece esa cantidad y Vorthak se rejuvenece igual cantidad, recuperando 1d4 HP por cada año drenado.
 
 **Sed Insaciable (3/día).**  
-Como acción, Vorthak drena vida temporal de todos los enemigos en un radio de 30 pies. Cada enemigo debe hacer salvación de Constitución CD 20 o envejece 2d4 años. Vorthak se rejuvenece y recupera 2d4 HP por cada enemigo afectado.
+Como acción, Vorthak drena vida temporal de todos los enemigos en un radio de 30 pies. Cada enemigo debe hacer salvación de Constitución CD 17 o envejece 2d4 años. Vorthak se rejuvenece y recupera 2d4 HP por cada enemigo afectado.
 
 **Drenaje de Secuaz (1/día).**  
-Como acción, Vorthak drena completamente la vida de un secuaz, convirtiendo todos los años restantes del secuaz en cura instantánea. Vorthak recupera HP igual a los años drenados (máximo 50 HP).
+Como acción, Vorthak drena completamente la vida de un secuaz, convirtiendo todos los años restantes del secuaz en cura instantánea. Vorthak recupera HP igual a los años drenados (máximo 30 HP).
 
 ---
 
 ### **Acciones Legendarias**
 
-Vorthak puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores.
+Vorthak puede realizar 3 acciones legendarias por ronda, gastándolas al final del turno de otra criatura. Solo puede usar una acción legendaria por turno. Recupera las acciones legendarias gastadas al inicio de su turno.
 
-| **Acción Legendaria**      | **Nivel Mínimo** | **Costo**  | **Descripción**                                                                                                               |
-| -------------------------- | ---------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| **Drenaje Temporal**       | 5                | 1 Acción   | Drena 1d4 años de vida de un enemigo, envejeciéndolo y rejuveneciéndose a sí mismo                                           |
-| **Reserva de Vida**        | 5                | 1 Acción   | Almacena vida drenada en un secuaz, creando una "reserva temporal" que puede usar más tarde                                   |
-| **Sed Insaciable**         | 6                | 2 Acciones | Drena vida temporal de todos los enemigos en un radio de 30 pies, envejeciéndolos 2d4 años                                  |
-| **Transferencia de Daño**   | 7                | 2 Acciones | **Protección Divina**: Todo el daño recibido en este turno se transfiere a un secuaz, que muere si excede su HP máximo |
-| **Envejecimiento Acelerado** | 8                | 3 Acciones | Acelera el envejecimiento de un enemigo, haciéndolo envejecer 1d6 años por turno durante 3 turnos                           |
-| **Drenaje de Secuaz**      | 9                | 3 Acciones | Drena completamente la vida de un secuaz, convirtiendo sus años restantes en cura instantánea                                 |
-| **Sed Eterna**             | 10               | 4 Acciones | Crea un campo de drenaje que absorbe continuamente la vida temporal de todos los enemigos en 60 pies                          |
-| **Resurrección Temporal**  | 11               | 4 Acciones | Si es reducido a 0 HP, puede usar todas sus reservas temporales para resucitar con HP completo                               |
+| **Acción Legendaria**        | **Costo**  | **Descripción**                                                                                               |
+| ---------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
+| **Drenaje Temporal**         | 1 Acción   | Drena 1d4 años de vida de un enemigo a 30 pies, envejeciéndolo y rejuveneciéndose a sí mismo                  |
+| **Reserva de Vida**          | 1 Acción   | Almacena vida drenada en un secuaz, creando una "reserva temporal" que puede usar más tarde                   |
+| **Ataque de Espada**         | 1 Acción   | Vorthak realiza un ataque con *Espada de la Sed*                                                              |
+| **Sed Insaciable**           | 2 Acciones | Drena vida temporal de todos los enemigos en un radio de 30 pies (CD 17 Con), envejeciéndolos 2d4 años        |
+| **Envejecimiento Acelerado** | 2 Acciones | Un enemigo a 30 pies hace salvación CD 17 de Con o envejece 1d6 años por turno durante 3 turnos               |
+| **Drenaje de Secuaz**        | 3 Acciones | Drena completamente la vida de un secuaz, convirtiendo sus años restantes en cura instantánea (máx. 30 HP)    |
+
+---
+
+### **Resurrección Temporal (1/combate, especial)**
+
+Si Vorthak es reducido a 0 HP **y le queda al menos un secuaz o reserva temporal vivo**, puede, una vez por combate, drenar de golpe toda su reserva: sus secuaces restantes mueren instantáneamente y Vorthak se levanta con **la mitad de sus HP máximos** (125 HP). Si no le quedan secuaces ni reservas temporales en el momento de caer, **no puede revivir** y muere definitivamente.
+
+> **Nota de diseño (puzzle):** Vorthak es un combate de prioridad de objetivos, no un muro de HP. El grupo debe matar primero a sus secuaces para impedir que reviva. Mientras le quede un solo secuaz con reserva, levantarlo a 0 HP solo gasta su resurrección y lo deja sin red de seguridad.
 
 ---
 
@@ -133,9 +145,9 @@ Vorthak puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel
 - Usa *Sed Insaciable* contra múltiples enemigos
 
 ### **Fase 3: Defensiva (HP < 100)**
-- Transfiere todo el daño a secuaces
+- Transfiere el daño del golpe más peligroso a un secuaz (1/ronda)
 - Usa *Drenaje de Secuaz* para cura masiva
-- Activa *Resurrección Temporal* si es reducido a 0 HP
+- Si cae a 0 HP y aún tiene secuaces, usa *Resurrección Temporal* (1/combate) para levantarse con la mitad de HP, consumiendo sus secuaces
 
 ### **Estrategias Especiales:**
 - **Contra Múltiples Enemigos:** Usa *Sed Insaciable* para drenar a todos simultáneamente

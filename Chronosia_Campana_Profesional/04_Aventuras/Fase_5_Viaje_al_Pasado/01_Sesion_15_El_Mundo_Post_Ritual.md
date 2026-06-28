@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 15
+- **Nivel de los PJ:** 9-10
 - **Ubicación:** Chronosia (mundo post-apocalíptico)
 - **Estilo:** Exploración + Combate + Obtención de Anillos
 - **⚠️ MUNDO CAMBIADO:** Chronosia es ahora extremadamente peligroso

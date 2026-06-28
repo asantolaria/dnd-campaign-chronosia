@@ -14,7 +14,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 12-13
+- **Nivel de los PJ:** 8
 - **Ubicación:** Variable
 - **Estilo:** Sandbox + Preparación Final
 - **⚠️ RITUAL AL 92%:** Urgencia máxima
@@ -79,7 +79,7 @@
 ## 🔗 **REFERENCIAS**
 
 - **[Cronología Maestra - Sesión 12](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-12-el-ritual)**
-- **[Fase 4: Clímax](../Fase_4_Climax/00_Guia_General_Fase_4.md)** - Próxima fase
+- **[Fase 6: Batalla Final](../Fase_6_Batalla_Final/00_Guia_General_Fase_6.md)** - Clímax de la campaña
 
 ---
 

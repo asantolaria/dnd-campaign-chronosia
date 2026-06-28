@@ -105,7 +105,7 @@ Tras el asesinato de Thyra, los lugartenientes reaccionan espontáneamente. Algu
 ### **📊 Competencia Narrativa Entre Lugartenientes:**
 
 > **📊 Para tablas completas de tracking:**
-> Consulta **[20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** para:
+> Consulta **[20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)** para:
 > - Estado de Lugartenientes (vivo/muerto/aliado)
 > - Balance Temporal/Dimensional
 > - Todas las demás tablas de tracking
@@ -135,11 +135,11 @@ Tras el asesinato de Thyra, los lugartenientes reaccionan espontáneamente. Algu
 - Manshoon configuró el sistema así ANTES de recluirse, pero ahora NO sabe quién lo recibe
 - Máximo 3 Supremos durante la campaña
 
-**📖 Para eventos narrativos:** Ver [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) para detalles completos sobre la competencia narrativa.
+**📖 Para eventos narrativos:** Ver [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) para detalles completos sobre la competencia narrativa.
 
 ### **🎲 Eventos Aleatorios (1d12 cada 2-3 sesiones):**
 
-Ver [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) para la tabla completa de eventos aleatorios.
+Ver [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) para la tabla completa de eventos aleatorios.
 
 ### **⚔️ Resolución Final y Repercusión en el Clímax:**
 
@@ -160,8 +160,8 @@ Ver [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Concl
 - **Edward Teach:** Siempre presente, determina el final según timing narrativo
 
 **📊 Para tablas completas de resolución final:**
-- Consulta [20_Tablas_Tracking_Campana.md](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#9-resolución-final-y-estado-para-el-clímax)
-- Ver detalles completos en [05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax)
+- Consulta [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#9-resolución-final-y-estado-para-el-clímax)
+- Ver detalles completos en [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md#-resolución-de-la-lucha-de-poder-y-repercusión-en-el-clímax)
 
 ---
 

@@ -21,13 +21,13 @@ Los PJ han viajado al pasado. Han llegado a tiempo al ritual. Ahora pueden inten
 
 ### **Sesión 18: Llegada a Tiempo**
 - **[01_Sesion_18_Llegada_a_Tiempo.md](./01_Sesion_18_Llegada_a_Tiempo.md)**
-- **Nivel:** 15 (nivel máximo de la campaña)
+- **Nivel:** 10 (nivel máximo de la campaña)
 - **Ubicación:** Torre de la Eternidad (pasado, antes del ritual completado)
 - **Evento:** Llegada a tiempo, preparación para la batalla final
 
 ### **Sesión 19-20: Batalla Final por Fases**
 - **[02_Sesion_19-20_Batalla_Final_Por_Fases.md](./02_Sesion_19-20_Batalla_Final_Por_Fases.md)**
-- **Nivel:** 15
+- **Nivel:** 10 (nivel máximo de la campaña)
 - **Ubicación:** Torre de la Eternidad (cámara del ritual)
 - **Evento:** ⚠️⚠️⚠️ **BATALLA FINAL ÉPICA POR FASES** + **PREVENCIÓN DEL RITUAL** + **EPÍLOGO**
 
@@ -78,7 +78,7 @@ Los PJ han viajado al pasado. Han llegado a tiempo al ritual. Ahora pueden inten
 - Pueden intentar liberar a los dioses
 - La batalla final está a punto de comenzar
 
-**Nivel de los PJ:** 15
+**Nivel de los PJ:** 10
 
 ---
 
@@ -116,7 +116,7 @@ Los PJ han viajado al pasado. Han llegado a tiempo al ritual. Ahora pueden inten
 - Epílogo según el resultado
 - Cierre de la campaña
 
-**Nivel de los PJ:** 15 (nivel máximo; no hay subida de nivel durante la batalla)
+**Nivel de los PJ:** 10 (nivel máximo; no hay subida de nivel durante la batalla)
 
 ---
 
@@ -136,7 +136,7 @@ Los PJ han viajado al pasado. Han llegado a tiempo al ritual. Ahora pueden inten
 ### **El Combate Final:**
 - **Múltiples Fases:** No es un solo combate, son múltiples fases
 - **Objetivos Claros:** Cada fase tiene objetivos específicos
-- **Progresión:** Los PJ progresan de nivel durante la batalla
+- **Progresión:** Los PJ ya están en el nivel máximo (10); no suben de nivel durante la batalla
 - **Épico:** Este es el momento más importante de la campaña
 
 ### **El Epílogo:**

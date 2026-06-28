@@ -1,4 +1,5 @@
 # 🗺️ Geografía y Regiones de Chronosia
+![Mapa general de Chronosia](../assets/mapas/00_mapa-general-chronosia.png)
 ## *El Reino del Tiempo Fracturado - Guía Completa*
 
 ---
@@ -469,7 +470,7 @@ Cuando dos lugartenientes se enfrentan directamente (duelo, batalla abierta, con
 - **Refugiados:** Civiles huyendo de la guerra
 - **Oportunidades:** Los PJ pueden aprovechar el caos para infiltrarse o aliarse
 
-**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta **[05_La_Ascension_del_Conclave.md](../../02_Guia_DM/05_La_Ascension_del_Conclave.md#-zonas-de-guerra)** - Sección "Zonas de Guerra"
+**📖 Para tablas de encuentros y mecánicas detalladas:** Consulta **[05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md#-zonas-de-guerra)** - Sección "Zonas de Guerra"
 
 ---
 
@@ -568,10 +569,6 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 - **Rutas recomendadas con columna de artefactos obtenidos**
 - Región del Reloj de Arena completamente desarrollada con sistema jugable
 - **CRONOLOGÍA CORREGIDA**: Thyra viva al inicio, Teach bloqueado hasta Sesión 6
-
-### **⏳ Pendiente de Desarrollo:**
-
-**📌 Ver:** [00_Plan_Desarrollo_Campana.md](../00_Plan_Desarrollo_Campana.md) para lista completa de tareas pendientes
 
 ### **🎯 Objetivos de Diseño:**
 - **Variedad**: Cada región debe sentirse única con mecánicas distintivas

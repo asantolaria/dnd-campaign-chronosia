@@ -16,7 +16,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 2-3 horas
-- **Nivel de los PJ:** 7-8 (aproximado, después del 3er lugarteniente)
+- **Nivel de los PJ:** 5 (aproximado, después del 3er lugarteniente)
 - **Ubicación:** Valle de la Aguja Suspendida (Región de Thyra)
 - **Estilo:** Tragedia + Confrontación (opcional)
 - **⚠️⚠️ EVENTO CATALIZADOR #2:** El evento más importante de la campaña

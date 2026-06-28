@@ -37,14 +37,14 @@
 ### **📖 Información General**
 - **[02_Guia_Rapida.md](./02_Guia_Rapida.md)** - Tono, ambientación y reglas de la casa
 - **[03_Creacion_Personajes.md](./03_Creacion_Personajes.md)** - Creación de PJ, trasfondos de Waterdeep
-- **[04_Resumen_Mundo.md](./04_Resumen_Mundo.md)** - Geografía, historia y culturas de Chronosia
+- **[08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - Geografía, historia y culturas de Chronosia
 
 ### **🎲 Guías del DM**
 - **[../02_Guia_DM/01_Dirigir_Campana.md](../02_Guia_DM/01_Dirigir_Campana.md)** - Estructura de sesiones y niveles
-- **[../02_Guia_DM/06_Facciones_Organizaciones.md](../02_Guia_DM/06_Facciones_Organizaciones.md)** - Cronófagos, La Resistencia, Anacronistas, Bregan D'aerthe
+- **[00_Indice_Facciones.md](../02_Guia_DM/02_Facciones/00_Indice_Facciones.md)** - Cronófagos, La Resistencia, Anacronistas, Bregan D'aerthe
 - **[../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ **FUENTE DE VERDAD** sobre lugartenientes y poderes
 - **[../02_Guia_DM/05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia entre lugartenientes
-- **[../02_Guia_DM/22_Eventos_Ascension_Conclave.md](../02_Guia_DM/22_Eventos_Ascension_Conclave.md)** - ⭐ Eventos que modifican puntos
+- **[05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - ⭐ Eventos que modifican puntos
 
 ### **🗺️ Regiones y Misiones**
 - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Tabla maestra de regiones y desbloqueos
@@ -60,9 +60,9 @@
 | **Aspecto** | **Detalles** |
 |------------|-------------|
 | **Duración** | 15-20 sesiones de 4 horas |
-| **Niveles** | 3 → 15 |
+| **Niveles** | 3 → 10 |
 | **Jugadores** | 4-6 óptimo (3-7 rango) |
-| **Estilo** | Railroad (Sesiones 1-3) → Sandbox Puro (4-12) → Railroad Suave (13-15) |
+| **Estilo** | Railroad (Sesiones 1-3) → Sandbox Puro (4-12) → Railroad Suave (13-20) |
 
 ---
 

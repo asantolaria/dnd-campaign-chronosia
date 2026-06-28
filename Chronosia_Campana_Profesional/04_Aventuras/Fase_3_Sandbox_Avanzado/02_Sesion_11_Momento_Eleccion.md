@@ -15,7 +15,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 3-4 horas
-- **Nivel de los PJ:** 11-12
+- **Nivel de los PJ:** 8
 - **Ubicación:** El Abismo de los Posibles (Región de Varrak)
 - **Estilo:** Decisión Crítica + Combate (opcional)
 - **⚠️⚠️ EVENTO FIJO CRÍTICO:** Varrak debe elegir bando

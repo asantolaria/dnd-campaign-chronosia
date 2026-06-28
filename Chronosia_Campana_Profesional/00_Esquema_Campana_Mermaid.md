@@ -87,7 +87,7 @@ flowchart TD
     FINAL_C --> EPILOGO
     FINAL_D --> EPILOGO
     
-    EPILOGO --> END([Fin de Campaña<br/>Nivel 15])
+    EPILOGO --> END([Fin de Campaña<br/>Nivel 10])
     
     style FASE0 fill:#e1f5ff
     style FASE1 fill:#ffe1f5

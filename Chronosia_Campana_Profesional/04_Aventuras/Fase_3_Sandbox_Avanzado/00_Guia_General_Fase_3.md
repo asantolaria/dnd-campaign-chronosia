@@ -20,19 +20,19 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 
 ### **Sesión 10: Algo Está Mal**
 - **[01_Sesion_10_Algo_Esta_Mal.md](./01_Sesion_10_Algo_Esta_Mal.md)**
-- **Nivel:** 10-11
+- **Nivel:** 7-8
 - **Ubicación:** Variable
 - **Evento:** ⚠️ **REVELACIÓN GRADUAL #2** - El ritual de ascensión
 
 ### **Sesión 11: El Momento de Elección**
 - **[02_Sesion_11_Momento_Eleccion.md](./02_Sesion_11_Momento_Eleccion.md)**
-- **Nivel:** 11-12
+- **Nivel:** 8
 - **Ubicación:** El Abismo de los Posibles (Varrak)
 - **Evento:** ⚠️⚠️ **EVENTO FIJO CRÍTICO** - Varrak elige bando
 
 ### **Sesión 12: El Ritual**
 - **[03_Sesion_12_El_Ritual.md](./03_Sesion_12_El_Ritual.md)**
-- **Nivel:** 12-13
+- **Nivel:** 8
 - **Ubicación:** Variable
 - **Evento:** ⚠️ **Ritual al 92%** - Urgencia máxima
 
@@ -51,9 +51,9 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 - Eventos aleatorios continúan
 
 ### **📊 Progresión de Niveles:**
-- **Sesión 10:** Nivel 10 → 11
-- **Sesión 11:** Nivel 11 → 12
-- **Sesión 12:** Nivel 12 → 13
+- **Sesión 10:** Nivel 7 → 8
+- **Sesión 11:** Nivel 8
+- **Sesión 12:** Nivel 8
 
 ---
 
@@ -79,10 +79,10 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 - ❗ **Visión de Varrak:** Los PJ ven el ritual de ascensión divina en progreso
 
 **Regiones Nuevas Desbloqueadas (Total: 10):**
-- **Tela de Sombras** (Veldrisza - Dimensional Principal) - Nivel 10-12
+- **Tela de Sombras** (Veldrisza - Dimensional Principal) - Nivel 8-9
 
 **Progresión de Niveles:**
-- **Sesión 10:** Nivel 10 → 11
+- **Sesión 10:** Nivel 7 → 8
 
 ---
 
@@ -111,12 +111,12 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 - ❗❗ Independientes (Edward Teach, Dimensionalis)
 
 **Regiones Nuevas Desbloqueadas (Total: 11):**
-- **El Jardín Pétreo** (Medusa - Temporal Menor) - Nivel 6-8
+- **El Jardín Pétreo** (Medusa - Temporal Menor) - Nivel 6-7
 
 **Todas las regiones están ahora desbloqueadas.**
 
 **Progresión de Niveles:**
-- **Sesión 11:** Nivel 11 → 12
+- **Sesión 11:** Nivel 8
 
 ---
 
@@ -137,7 +137,7 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 - **Preparación para Fase 4:** Los PJ deben estar listos para el asalto final
 
 **Progresión de Niveles:**
-- **Sesión 12:** Nivel 12 → 13
+- **Sesión 12:** Nivel 8
 
 **⚠️ TRANSICIÓN A FASE 4:**
 - Después de esta sesión, los PJ deben estar preparados para el asalto final

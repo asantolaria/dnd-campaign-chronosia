@@ -15,7 +15,7 @@
 ## 📅 **INFORMACIÓN GENERAL**
 
 - **Duración Estimada:** 4-6 horas
-- **Nivel de los PJ:** 14-15
+- **Nivel de los PJ:** 9
 - **Ubicación:** Torre de la Eternidad (exterior y cámara del ritual)
 - **Estilo:** Combate Épico + Narrativa Trágica + Transformación del Mundo
 - **⚠️⚠️⚠️ EVENTO CRÍTICO:** Esta sesión cambia el mundo permanentemente
@@ -76,7 +76,7 @@ Así que, con todo el respeto del mundo... no puedo dejaros pasar."
 #### **1.2. La Batalla Épica contra Teach**
 
 **Edward Teach - Estadísticas:**
-- **Nivel de los PJ:** 14-15 (alcanzan nivel 15 al final de esta sesión; nivel máximo de la campaña)
+- **Nivel de los PJ:** 9 (alcanzan nivel 9 al final de esta sesión)
 - **Poderes Combinados:** 
   - **Poder Propio (Dimensional):** Manipulación espacial, portales, compresión
   - **Poder Robado (Temporal):** Manipulación temporal, envejecimiento, bucles temporales
@@ -117,7 +117,7 @@ no para esto. Ya es demasiado tarde para esto."
 **Recompensas:**
 - **Talismán de Interceptación Divina:** Objeto crucial para Fase 5
 - **Anillo Robado:** Si los PJ lo obtienen a tiempo (antes de que desaparezca)
-- **Experiencia:** Nivel 14 → 15
+- **Experiencia:** Nivel 8 → 9
 
 **Mecánica de Anillos:**
 - **Anillo Propio de Teach:** Desaparece al poco tiempo de su muerte (normal)

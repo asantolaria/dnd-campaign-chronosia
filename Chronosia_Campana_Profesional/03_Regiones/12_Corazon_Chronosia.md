@@ -165,10 +165,9 @@ Los PJ pueden acceder a la Torre de la Eternidad cuando:
 
 ## 📖 **REFERENCIAS**
 
-- [Torre de la Eternidad - Diagrama](../../00_Esquemas/03_Torre_Eternidad.md)
+- [Torre de la Eternidad - Diagrama](../00_Esquemas/03_Torre_Eternidad.md)
 - [Valle de la Aguja Suspendida (Thyra)](./10_Regiones_Temporales.md#-valle-de-la-aguja-suspendida-thyra-la-suspendida---caída)
 - [Aethernus Valcarys (Manshoon)](../02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md)
-- [Sesión 14: Asalto a la Torre](../../04_Aventuras/Fase_4_Climax/02_Sesion_14_Asalto_Torre.md)
 
 ---
 

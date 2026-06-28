@@ -1,4 +1,7 @@
 # ⏰ Serapis el Retroceso
+
+![Serapis el Retroceso](../../assets/bestiario/lugartenientes/01_serapis-el-retroceso.jpg)
+
 ## *Lugarteniente Temporal - Elfo Eterno*
 
 ---
@@ -9,7 +12,7 @@
 - **Tipo:** Temporal (Poder de Amaunator)
 - **Rol:** Principal
 - **Región:** La Espiral Inversa
-- **Nivel Recomendado:** 5-7
+- **Nivel Recomendado:** 4-5
 - **Bando:** Temporal (Bajo Lord Vorthak) → **⚠️ NO puede aliarse con Vorthak** (se van a realizar cambios)
 - **Estado de Acceso:** 🔓 Desbloqueada (accesible desde el inicio)
 
@@ -35,32 +38,32 @@ Cuando Serapis muere (ya sea por los PJ o por otro lugarteniente), **La Espiral 
 
 ---
 
-**Clase de Armadura:** 17 (armadura de cuero mágica + destreza)  
-**Puntos de Golpe:** 142 (19d8 + 57)  
+**Clase de Armadura:** 15 (armadura de cuero mágica + destreza)  
+**Puntos de Golpe:** 130 (20d8 + 40)  
 **Velocidad:** 30 pies
 
 ---
 
 | FUE | DES | CON | INT | SAB | CAR |
 |-----|-----|-----|-----|-----|-----|
-| 12 (+1) | 20 (+5) | 16 (+3) | 18 (+4) | 16 (+3) | 14 (+2) |
+| 12 (+1) | 16 (+3) | 14 (+2) | 16 (+3) | 14 (+2) | 14 (+2) |
 
 ---
 
-**Salvaciones:** DES +10, INT +9, SAB +8  
-**Habilidades:** Arcano +9, Historia +9, Percepción +8, Persuasión +7, Sigilo +10  
+**Salvaciones:** DES +6, INT +6, SAB +5  
+**Habilidades:** Arcano +6, Historia +6, Percepción +5, Persuasión +5, Sigilo +6  
 **Resistencias al Daño:** Temporal, necrótico  
 **Inmunidades a Condiciones:** Envejecimiento mágico, efectos que alteran el tiempo  
-**Sentidos:** Visión en la oscuridad 120 pies, Percepción pasiva 18  
+**Sentidos:** Visión en la oscuridad 120 pies, Percepción pasiva 15  
 **Idiomas:** Común, Élfico, Draconico, Primordial  
-**CR:** 8 (3,900 XP)
+**CR:** 5 (1,800 XP)
 
 ---
 
 ### **Rasgos Especiales**
 
 **Reversión Temporal (Recarga 5-6).**  
-Al final de cada turno, Serapis puede revertir hasta 20 puntos de daño recibido en ese turno, restaurando HP igual al daño revertido. Este poder representa su capacidad de "deshacer" las heridas.
+Al final de cada turno, Serapis puede revertir hasta 10 puntos de daño recibido en ese turno, restaurando HP igual al daño revertido. Este poder representa su capacidad de "deshacer" las heridas.
 
 **Arena del Pasado (1/día).**  
 Como acción, Serapis crea un campo de 30 pies de radio donde el tiempo fluye hacia atrás. Las criaturas en el área envejecen 1d4 años por turno, pero Serapis se rejuvenece igual cantidad, recuperando 1d4 HP por turno.
@@ -76,38 +79,24 @@ Serapis puede ver ecos de eventos que ocurrieron en los últimos 24 horas en un 
 ### **Acciones**
 
 **Multiataque.**  
-Serapis realiza tres ataques: dos con *Crono-Espada* y uno con *Ataque Temporal*.
+Serapis realiza dos ataques: uno con *Crono-Espada* y uno con *Ataque Temporal*.
 
-**Crono-Espada.** *Ataque con Arma Cuerpo a Cuerpo:* +10 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 10 (1d8 + 5) de daño cortante más 7 (2d6) de daño temporal.  
-La criatura objetivo debe hacer salvación de Constitución CD 16 o envejece 1d4 años.
+**Crono-Espada.** *Ataque con Arma Cuerpo a Cuerpo:* +7 al ataque, alcance 5 pies, un objetivo.  
+*Impacto:* 7 (1d8 + 3) de daño cortante más 7 (2d6) de daño temporal.  
+La criatura objetivo debe hacer salvación de Constitución CD 14 o envejece 1d4 años.
 
-**Ataque Temporal.** *Ataque con Arma a Distancia:* +10 al ataque, alcance 60 pies, un objetivo.  
+**Ataque Temporal.** *Ataque con Arma a Distancia:* +7 al ataque, alcance 60 pies, un objetivo.  
 Serapis puede atacar a través del tiempo, cortando a un enemigo que esté a hasta 60 pies de distancia como si estuviera cuerpo a cuerpo.  
-*Impacto:* 8 (1d6 + 5) de daño perforante más 7 (2d6) de daño temporal.
+*Impacto:* 6 (1d6 + 3) de daño perforante más 7 (2d6) de daño temporal.
 
-**Retroceso de Heridas (Recarga 5-6).**  
-Al final del turno, Serapis puede revertir todas las heridas recibidas en ese turno, restaurando HP igual al daño total recibido. Este poder no puede revertir daño que lo reduzca a 0 HP.
-
-**Rebobinar Turno (3/día).**  
-Como reacción cuando un enemigo completa su turno, Serapis puede "rebobinar" ese turno, forzando al enemigo a repetir sus acciones exactamente igual. El enemigo debe volver a realizar todas las tiradas de ataque y salvación.
+**Deshacer (Recarga: 1/combate).**  
+Como reacción, justo después de que un ataque le impacte o un enemigo complete una acción que le afecte, Serapis "deshace" ese único evento reciente: el ataque o efecto se considera que nunca ocurrió (el atacante no gasta el ataque, pero Serapis no sufre sus consecuencias). Solo puede deshacer **un ataque o efecto**, y solo **una vez por combate**. No puede deshacer daño que ya lo haya reducido a 0 HP en un turno anterior.
 
 ---
 
 ### **Acciones Legendarias**
 
-Serapis puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel de los personajes jugadores.
-
-| **Acción Legendaria** | **Nivel Mínimo** | **Costo** | **Descripción** |
-|----------------------|------------------|-----------|-----------------|
-| **Arena del Pasado** | 5 | 1 Acción | Crea un campo de 30 pies donde las criaturas envejecen 1d4 años por turno, pero Serapis se rejuvenece igual cantidad |
-| **Crono-Espada** | 5 | 1 Acción | Su espada puede cortar a través del tiempo, atacando a un enemigo que esté a hasta 60 pies de distancia |
-| **Reversión de Heridas** | 6 | 2 Acciones | Al final del turno, todas las heridas recibidas se revierten, restaurando HP igual al daño recibido |
-| **Retroceso Temporal** | 7 | 3 Acciones | Al inicio del turno, puede "rebobinar" el turno de un enemigo, forzando a repetir sus acciones exactamente igual |
-| **Bucle de Combate** | 8 | 4 Acciones | Al final del turno, puede "guardar" el estado del combate y repetir el turno completo si no le gusta el resultado |
-| **Reversión de Muerte** | 9 | 5 Acciones | Si es reducido a 0 HP, puede revertir el tiempo 1 turno atrás, volviendo a su estado anterior |
-| **Reversión de Realidad** | 10 | 6 Acciones | Puede revertir cualquier efecto mágico, hechizo o habilidad que haya ocurrido en los últimos 3 turnos |
-| **Bucle Eterno** | 11 | 7 Acciones | Crea un bucle temporal donde el combate se repite exactamente igual por 1d4 turnos, pero Serapis puede cambiar sus acciones en cada iteración |
+Serapis **no tiene acciones legendarias**. Como primer lugarteniente y combate de introducción (nivel 4-5), su desafío proviene de su buen statblock, su movilidad temporal a distancia y su habilidad *Deshacer*, no de actuar fuera de su turno.
 
 ---
 
@@ -115,22 +104,20 @@ Serapis puede realizar 1-4 acciones legendarias por turno, dependiendo del nivel
 
 ### **Fase 1: Apertura (Rounds 1-2)**
 1. **Round 1:** Activa *Arena del Pasado* para crear el campo de reversión temporal
-2. **Round 2:** Usa *Crono-Espada* a distancia contra el enemigo más peligroso
+2. **Round 2:** Usa *Ataque Temporal* a distancia contra el enemigo más peligroso
 
 ### **Fase 2: Control (Rounds 3-5)**
-- Usa *Retroceso Temporal* para forzar a los enemigos a repetir turnos fallidos
-- Mantiene distancia con *Ataque Temporal*
-- Usa *Reversión de Heridas* al final de cada turno para mantenerse con vida
+- Mantiene distancia con *Ataque Temporal* y entra a melé con *Crono-Espada* cuando le conviene
+- Usa *Reversión Temporal* al final de cada turno (si recarga) para mitigar el daño recibido
 
-### **Fase 3: Desesperación (HP < 50)**
-- Activa *Bucle de Combate* para repetir turnos completos
-- Usa *Reversión de Muerte* si es reducido a 0 HP
-- Prioriza supervivencia sobre ofensiva
+### **Fase 3: Desesperación (HP < 40)**
+- Guarda su *Deshacer* (1/combate) para anular el golpe crítico o el efecto que más le duela
+- Prioriza supervivencia sobre ofensiva, manteniendo distancia con *Ataque Temporal*
 
 ### **Estrategias Especiales:**
 - **Contra Múltiples Enemigos:** Usa *Arena del Pasado* para envejecer a todos mientras se rejuvenece
-- **Contra Hechiceros:** Usa *Rebobinar Turno* para forzar a repetir hechizos fallidos
-- **Contra Tanques:** Usa *Crono-Espada* a distancia para evitar combate cuerpo a cuerpo
+- **Contra Pícaros/Pegadores:** Reserva *Deshacer* para cancelar su ataque más fuerte del combate
+- **Contra Tanques:** Usa *Ataque Temporal* a distancia para evitar combate cuerpo a cuerpo
 
 ---
 
@@ -161,7 +148,7 @@ Después de la trama de la Traición de Serapis, cuando la Matrona Veldrisza vea
 - Combina poderes temporales y dimensionales de forma única
 - Sirve a Veldrisza como guardián poderoso
 
-**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa.
+**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa.
 
 ---
 
@@ -189,7 +176,7 @@ Serapis está involucrado en una de las tramas más complejas y emocionales de l
 - **Mecánica única:** Sistema del Reloj de Arena (ver región)
 - **Destino final:** Será asesinado por los Bregan Daerthe y resucitado como no-muerto bajo el control de Veldrisza mediante el ritual Zin-Carla
 
-**📖 Trama completa:** [04_La_Traicion_de_Serapis.md](../../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md)  
+**📖 Trama completa:** [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md)  
 
 ---
 
