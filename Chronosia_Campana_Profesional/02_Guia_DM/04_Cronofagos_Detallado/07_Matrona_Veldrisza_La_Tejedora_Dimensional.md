@@ -1,6 +1,6 @@
 # 🕷️ Matrona Veldrisza "La Tejedora Dimensional"
 
-![Matrona Veldrisza](../../assets/bestiario/lugartenientes/07_veldrisza.png)
+![Matrona Veldrisza](../../assets/bestiario/lugartenientes/07_veldrisza.jpg)
 
 ## *Lugarteniente Dimensional - Drow Matrona*
 

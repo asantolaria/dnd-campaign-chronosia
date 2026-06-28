@@ -1,6 +1,6 @@
 # 🪞 Las Gemelas del Espejo - Lyra y Nyx
 
-![Las Gemelas del Espejo](../../assets/bestiario/lugartenientes/08_gemelas-lyra-nyx.png)
+![Las Gemelas del Espejo](../../assets/bestiario/lugartenientes/08_gemelas-lyra-nyx.jpg)
 
 ## *Lugartenientes Dimensionales - Humanas Gemelas - Neutrales*
 

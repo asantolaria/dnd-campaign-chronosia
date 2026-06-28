@@ -12,7 +12,7 @@ Glacialis es un páramo donde el horizonte no termina nunca: una llanura blanca 
 
 ## 😈 Villano Menor — Velka la Guardiana de Umbrales
 
-![Velka la Guardiana de Umbrales](../../assets/bestiario/villanos_menores/03_velka.png)
+![Velka la Guardiana de Umbrales](../../assets/bestiario/villanos_menores/03_velka.jpg)
 
 Velka fue una hechicera del frío que negoció con Ymir el cargo de **vigilante de los portales menores**: a ella le toca decidir qué cruza y qué se queda congelado en el umbral. No es el Eterno Invierno —es su carcelera de fronteras, devota y resentida, que cobra peaje en calor corporal a quien intenta pasar. Gancho: los PJ necesitan que un portal permanezca abierto, y solo Velka tiene la llave de escarcha.
 

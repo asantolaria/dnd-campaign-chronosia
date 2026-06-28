@@ -7,7 +7,7 @@
 
 ### **🔮 Galen (Anacronistas) - Explicador Principal**
 
-![Galen](../assets/bestiario/npcs/galen.png)
+![Galen](../assets/bestiario/npcs/galen.jpg)
 
 **Descripción**: Humano anciano con túnica azul y ojos que brillan con sabiduría temporal. Líder de los Anacronistas, una facción dedicada a mantener el equilibrio entre tiempo y espacio.
 
@@ -109,7 +109,7 @@
 
 ### **🗡️ Jarlaxle - El Aliado Ambiguo**
 
-![Jarlaxle](../assets/bestiario/npcs/jarlaxle.png)
+![Jarlaxle](../assets/bestiario/npcs/jarlaxle.jpg)
 
 - **Descripción**: Drow elegante con sombrero de plumas y personalidad carismática
 - **Profesión**: Líder de Bregan D'aerthe
@@ -130,7 +130,7 @@
 
 ### **⏰ Cornelius "El Inmutable" - El Guardián del Tiempo**
 
-![Cornelius](../assets/bestiario/npcs/cornelius.png)
+![Cornelius](../assets/bestiario/npcs/cornelius.jpg)
 
 - **Raza**: Humano
 - **Rol**: Guardián del Tiempo Natural
@@ -155,7 +155,7 @@
 
 ### **⚙️ Din Goldgear - La Mano Derecha de Cornelius**
 
-![Din Goldgear](../assets/bestiario/npcs/din.png)
+![Din Goldgear](../assets/bestiario/npcs/din.jpg)
 
 - **Raza**: Gnomo de los Bosques
 - **Clase**: Artífice (Nivel 9)
@@ -294,7 +294,7 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 
 ### **⚙️ Capitán Marcus "El Inquebrantable" - Líder de La Resistencia**
 
-![Capitán Marcus](../assets/bestiario/npcs/marcus.png)
+![Capitán Marcus](../assets/bestiario/npcs/marcus.jpg)
 
 - **Raza**: Humano veterano de guerra
 - **Edad**: 45 años, con cicatrices de batalla y ojos que han visto demasiado

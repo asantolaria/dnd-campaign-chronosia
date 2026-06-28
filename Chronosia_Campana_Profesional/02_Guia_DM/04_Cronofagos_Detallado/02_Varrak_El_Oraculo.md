@@ -1,7 +1,7 @@
 # 🔮 Varrak del Horizonte (El Oráculo)
 
-![Varrak el Oráculo](../../assets/bestiario/lugartenientes/02_varrak.png)
-![Varrak niño](../../assets/bestiario/lugartenientes/02a_varrak-nino.png) ![Varrak adulto](../../assets/bestiario/lugartenientes/02b_varrak-adulto.png) ![Varrak anciano](../../assets/bestiario/lugartenientes/02c_varrak-anciano.png)
+![Varrak el Oráculo](../../assets/bestiario/lugartenientes/02_varrak.jpg)
+![Varrak niño](../../assets/bestiario/lugartenientes/02a_varrak-nino.jpg) ![Varrak adulto](../../assets/bestiario/lugartenientes/02b_varrak-adulto.jpg) ![Varrak anciano](../../assets/bestiario/lugartenientes/02c_varrak-anciano.jpg)
 
 ## *Lugarteniente Temporal - Orco*
 

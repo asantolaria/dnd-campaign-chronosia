@@ -10,7 +10,7 @@
 
 ## 😈 Villano Menor — Tessaly Bifronte, la Que Eligió Mal
 
-![Tessaly Bifronte, la Que Eligió Mal](../../assets/bestiario/villanos_menores/05_tessaly.png)
+![Tessaly Bifronte, la Que Eligió Mal](../../assets/bestiario/villanos_menores/05_tessaly.jpg)
 
 Tessaly fue una vidente que sirvió a Varrak hasta que miró demasiados futuros y los vio todos terminar en su propia muerte. Para escapar, fusionó dos versiones de sí misma — la que se rindió y la que luchó — en un solo cuerpo en guerra consigo mismo. Ahora siembra el Abismo de "tús alternativos" para que ningún visitante salga siendo quien entró. Es la sub-jefa que custodia las galerías de probabilidad donde Varrak ensaya sus profecías.
 

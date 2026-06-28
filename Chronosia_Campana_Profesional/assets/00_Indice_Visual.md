@@ -32,18 +32,18 @@ Statblocks en [02_Guia_DM/04_Cronofagos_Detallado/](../02_Guia_DM/04_Cronofagos_
 
 | Imagen | Lugarteniente | Statblock |
 |---|---|---|
-| `01_serapis.png` | Serapis el Retroceso | `01_Serapis_El_Retroceso.md` |
-| `02_varrak.png` (+ `02a/b/c` niño/adulto/anciano) | Varrak el Oráculo | `02_Varrak_El_Oraculo.md` |
-| `03_vorthak.png` | Lord Vorthak | `03_Lord_Vorthak_El_Sediento_Eterno.md` |
-| `04_edward-teach.png` | Edward Teach «Barbanegra» | `04_Edward_Teach_Barbanegra.md` |
-| `05_dimensionalis.png` | Dimensionalis la Fracturada | `05_Dimensionalis_La_Fracturada.md` |
-| `06_ignis.png` | Ignis el Devorador Espacial | `06_Ignis_El_Devorador_Espacial.md` |
-| `07_veldrisza.png` | Matrona Veldrisza | `07_Matrona_Veldrisza_La_Tejedora_Dimensional.md` |
-| `08_gemelas-lyra-nyx.png` | Las Gemelas del Espejo | `08_Las_Gemelas_Del_Espejo.md` |
-| `09_ymir.png` | Ymir el Eterno Invierno | `09_Ymir_El_Eterno_Invierno.md` |
-| `10_medusa.png` | Medusa la Eterna | `10_Medusa_La_Eterna.md` |
-| `11_tempus.png` | Tempus el Fragmentado | `11_Tempus_El_Fragmentado.md` |
-| `12_aethernus.png` | Aethernus Valcarys (jefe final) | `12_Aethernus_Valcarys_Manshoon.md` |
+| `01_serapis.jpg` | Serapis el Retroceso | `01_Serapis_El_Retroceso.md` |
+| `02_varrak.jpg` (+ `02a/b/c` niño/adulto/anciano) | Varrak el Oráculo | `02_Varrak_El_Oraculo.md` |
+| `03_vorthak.jpg` | Lord Vorthak | `03_Lord_Vorthak_El_Sediento_Eterno.md` |
+| `04_edward-teach.jpg` | Edward Teach «Barbanegra» | `04_Edward_Teach_Barbanegra.md` |
+| `05_dimensionalis.jpg` | Dimensionalis la Fracturada | `05_Dimensionalis_La_Fracturada.md` |
+| `06_ignis.jpg` | Ignis el Devorador Espacial | `06_Ignis_El_Devorador_Espacial.md` |
+| `07_veldrisza.jpg` | Matrona Veldrisza | `07_Matrona_Veldrisza_La_Tejedora_Dimensional.md` |
+| `08_gemelas-lyra-nyx.jpg` | Las Gemelas del Espejo | `08_Las_Gemelas_Del_Espejo.md` |
+| `09_ymir.jpg` | Ymir el Eterno Invierno | `09_Ymir_El_Eterno_Invierno.md` |
+| `10_medusa.jpg` | Medusa la Eterna | `10_Medusa_La_Eterna.md` |
+| `11_tempus.jpg` | Tempus el Fragmentado | `11_Tempus_El_Fragmentado.md` |
+| `12_aethernus.jpg` | Aethernus Valcarys (jefe final) | `12_Aethernus_Valcarys_Manshoon.md` |
 
 *(Thyra la Suspendida — caída — no tiene imagen.)*
 
@@ -55,16 +55,16 @@ Fichas en [05_Apendices/Bestiario_Regional/](../05_Apendices/Bestiario_Regional/
 
 | Imagen | Villano | Región |
 |---|---|---|
-| `01_candano.png` | Cándano el Penitente Eterno | Espiral Inversa |
-| `02_caelith.png` | Caelith, el Jardinero a Medias | Jardín de los Tiempos Gemelos |
-| `03_velka.png` | Velka, Guardiana de Umbrales | Glacialis |
-| `04_magistrado-cerografo.png` | Magistrado Cerografo | Ruinas del Tiempo Perdido |
-| `05_tessaly.png` | Tessaly Bifronte | Abismo de los Posibles |
-| `06_karkesh.png` | Karkesh, Cartógrafo de Cenizas | Llanuras de la Compresión |
-| `07_zressynara.png` | Zress'ynara, Tejedora de Umbrales | Ciudad de Veldrisza |
-| `08_capitan-moreve.png` | Capitán Móreve «el Mascahoras» | Archipiélago de Barbanegra |
-| `09_aurelius-crane.png` | Mayordomo Aurelius Crane | Mansión de la Sed Eterna |
-| `10_drazhul.png` | Capataz Drazhûl | Calderas Dimensionales |
+| `01_candano.jpg` | Cándano el Penitente Eterno | Espiral Inversa |
+| `02_caelith.jpg` | Caelith, el Jardinero a Medias | Jardín de los Tiempos Gemelos |
+| `03_velka.jpg` | Velka, Guardiana de Umbrales | Glacialis |
+| `04_magistrado-cerografo.jpg` | Magistrado Cerografo | Ruinas del Tiempo Perdido |
+| `05_tessaly.jpg` | Tessaly Bifronte | Abismo de los Posibles |
+| `06_karkesh.jpg` | Karkesh, Cartógrafo de Cenizas | Llanuras de la Compresión |
+| `07_zressynara.jpg` | Zress'ynara, Tejedora de Umbrales | Ciudad de Veldrisza |
+| `08_capitan-moreve.jpg` | Capitán Móreve «el Mascahoras» | Archipiélago de Barbanegra |
+| `09_aurelius-crane.jpg` | Mayordomo Aurelius Crane | Mansión de la Sed Eterna |
+| `10_drazhul.jpg` | Capataz Drazhûl | Calderas Dimensionales |
 
 ---
 
@@ -74,14 +74,14 @@ Fichas en [02_Guia_DM/03_NPCs_Importantes.md](../02_Guia_DM/03_NPCs_Importantes.
 
 | Imagen | NPC | Rol |
 |---|---|---|
-| `din.png` | Din Goldgear | Artífice gnomo · mecenas |
-| `marcus.png` | Capitán Marcus | Líder de la Resistencia |
-| `cornelius.png` | Cornelius «el Inmutable» | Relojero místico · mecenas |
-| `galen.png` | Galen | Líder Anacronista · explicador del balance |
-| `maren-sindica.png` | Síndica Maren Velasco | Autoridad civil de Cronópolis |
-| `bram.png` | Bram «Dosjarras» | Tabernero (La Última Hora) |
-| `zephyr.png` | Zephyr «el Saltamundos» | Comerciante interplanar |
-| `jarlaxle.png` | Jarlaxle | Líder de Bregan D'aerthe |
+| `din.jpg` | Din Goldgear | Artífice gnomo · mecenas |
+| `marcus.jpg` | Capitán Marcus | Líder de la Resistencia |
+| `cornelius.jpg` | Cornelius «el Inmutable» | Relojero místico · mecenas |
+| `galen.jpg` | Galen | Líder Anacronista · explicador del balance |
+| `maren-sindica.jpg` | Síndica Maren Velasco | Autoridad civil de Cronópolis |
+| `bram.jpg` | Bram «Dosjarras» | Tabernero (La Última Hora) |
+| `zephyr.jpg` | Zephyr «el Saltamundos» | Comerciante interplanar |
+| `jarlaxle.jpg` | Jarlaxle | Líder de Bregan D'aerthe |
 
 ---
 
@@ -91,11 +91,11 @@ Stats en [05_Apendices/17_Monstruos_Enemigos.md](../05_Apendices/17_Monstruos_En
 
 | Imagen | Unidad |
 |---|---|
-| `1_tropa.png` | Tropa Cronófaga (soldado raso) |
-| `2_sargento.png` | Sargento Cronófago |
-| `3_oficial.png` | Oficial Cronófago |
-| `lanzador-conjuros.png` | Cronófago lanzador de conjuros |
-| `simbolo-cronofagos.png` | Símbolo de la facción (uróboros-infinito) |
+| `1_tropa.jpg` | Tropa Cronófaga (soldado raso) |
+| `2_sargento.jpg` | Sargento Cronófago |
+| `3_oficial.jpg` | Oficial Cronófago |
+| `lanzador-conjuros.jpg` | Cronófago lanzador de conjuros |
+| `simbolo-cronofagos.jpg` | Símbolo de la facción (uróboros-infinito) |
 
 ---
 
@@ -105,18 +105,18 @@ Descripciones en [06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md](../06_Recu
 
 | Imagen | Reliquia |
 |---|---|
-| `01_cronometro-realidades.png` | Cronómetro de Realidades |
-| `02_perla-vacio-primordial.png` | Perla del Vacío Primordial |
-| `03_talisman-interceptacion.png` | Talismán de Interceptación Divina |
-| `04_contador-ritual.png` | Contador del Ritual |
-| `05_espejo-realidad-fragmentada.png` | Espejo de Realidad Fragmentada |
-| `06_arena-del-tiempo.png` | Arena del Tiempo Estabilizada |
-| `07_excavadora-dimensional.png` | Excavadora Dimensional |
-| `08_rotor-infinito.png` | Rotor Infinito |
-| `09_anillos-de-poder.png` | Anillos de Poder de los Lugartenientes |
-| `10_cronosellado.png` | El Cronosellado |
-| `11_balanza-chronosia.png` | Indicador del Equilibrio / Balanza de Chronosia |
+| `01_cronometro-realidades.jpg` | Cronómetro de Realidades |
+| `02_perla-vacio-primordial.jpg` | Perla del Vacío Primordial |
+| `03_talisman-interceptacion.jpg` | Talismán de Interceptación Divina |
+| `04_contador-ritual.jpg` | Contador del Ritual |
+| `05_espejo-realidad-fragmentada.jpg` | Espejo de Realidad Fragmentada |
+| `06_arena-del-tiempo.jpg` | Arena del Tiempo Estabilizada |
+| `07_excavadora-dimensional.jpg` | Excavadora Dimensional |
+| `08_rotor-infinito.jpg` | Rotor Infinito |
+| `09_anillos-de-poder.jpg` | Anillos de Poder de los Lugartenientes |
+| `10_cronosellado.jpg` | El Cronosellado |
+| `11_balanza-chronosia.jpg` | Indicador del Equilibrio / Balanza de Chronosia |
 
 ---
 
-*Para incrustar una imagen en una nota de Obsidian:* `![[assets/bestiario/lugartenientes/03_vorthak.png]]`
+*Para incrustar una imagen en una nota de Obsidian:* `![[assets/bestiario/lugartenientes/03_vorthak.jpg]]`

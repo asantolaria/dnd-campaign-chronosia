@@ -10,7 +10,7 @@ El mar del Archipiélago no se mueve. Lleva calmo desde que Barbanegra ancló su
 
 ## 😈 Villano Menor — Capitán Móreve "el Mascahoras"
 
-![Capitán Móreve "el Mascahoras"](../../assets/bestiario/villanos_menores/08_capitan-moreve.png)
+![Capitán Móreve "el Mascahoras"](../../assets/bestiario/villanos_menores/08_capitan-moreve.jpg)
 
 Antiguo subordinado de Barbanegra, Móreve cayó en un vórtice y volvió cambiado: ahora *come tiempo*. Su tripulación no envejece; ellos roban los años de quien abordan. Navega el bergantín *Reloj Roto*, persiguiendo presas no por su oro sino por las décadas que aún les quedan. Gancho: ofrece a un PJ moribundo "más años" a cambio de servir en su tripulación eterna — y mantiene su palabra de un modo monstruoso.
 

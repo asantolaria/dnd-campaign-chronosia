@@ -10,7 +10,7 @@ La Mansión de la Sed Eterna se alza tras una niebla que no obedece al viento. S
 
 ## 😈 Villano Menor — Mayordomo Aurelius Crane
 
-![Mayordomo Aurelius Crane](../../assets/bestiario/villanos_menores/09_aurelius-crane.png)
+![Mayordomo Aurelius Crane](../../assets/bestiario/villanos_menores/09_aurelius-crane.jpg)
 
 El mayordomo no-muerto de Vorthak, atado por un pacto de servidumbre que la muerte no rompió. Recibe a los huéspedes con cortesía perfecta y los conduce, plato a plato, hacia su drenaje. No es el señor de la casa: es su guante. Gancho: Aurelius odia a Vorthak en secreto y, presionado bien, puede traicionarlo... o entregar a los PJs a la niebla para "librarlos" del amo de una manera retorcida.
 

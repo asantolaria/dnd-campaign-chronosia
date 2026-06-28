@@ -10,7 +10,7 @@ La Espiral Inversa es un valle donde el ayer nunca termina de morir. El mismo am
 
 ## 😈 Villano Menor — Cándano el Penitente Eterno
 
-![Cándano el Penitente Eterno](../../assets/bestiario/villanos_menores/01_candano.png)
+![Cándano el Penitente Eterno](../../assets/bestiario/villanos_menores/01_candano.jpg)
 
 Antiguo sacristán del valle, Cándano fue el primero en darse cuenta de que el día se repetía. Ha vivido el mismo amanecer miles de veces y ha enloquecido: cree que el bucle es un castigo divino y que solo derramando sangre nueva cada ciclo "gastará" el día lo bastante para romperlo. No es el lugarteniente — es un esbirro voluntario de Serapis, un fanático local que ofrenda viajeros al Retroceso a cambio de fragmentos de poder temporal.
 

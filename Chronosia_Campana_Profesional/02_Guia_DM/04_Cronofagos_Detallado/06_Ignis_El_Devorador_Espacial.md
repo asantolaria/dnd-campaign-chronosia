@@ -1,6 +1,6 @@
 # 🔥 Ignis el Devorador Espacial
 
-![Ignis](../../assets/bestiario/lugartenientes/06_ignis.png)
+![Ignis](../../assets/bestiario/lugartenientes/06_ignis.jpg)
 
 ## *Lugarteniente Dimensional - Dragón Rojo Ancestral - Líder del Bando Dimensional*
 

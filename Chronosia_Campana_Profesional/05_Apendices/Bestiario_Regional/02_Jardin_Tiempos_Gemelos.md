@@ -10,7 +10,7 @@
 
 ## 😈 Villano Menor — Caelith, el Jardinero a Medias
 
-![Caelith, el Jardinero a Medias](../../assets/bestiario/villanos_menores/02_caelith.png)
+![Caelith, el Jardinero a Medias](../../assets/bestiario/villanos_menores/02_caelith.jpg)
 
 Caelith fue el horticultor que cuidó el jardín antes de la distorsión. La estasis de Medusa lo atrapó a medio petrificar: su mitad izquierda es piedra que nunca termina de cuajar, su mitad derecha aún sangra. Sirve a las lugartenientes podando "el tiempo sobrante" de los intrusos, convencido de que detenerlos para siempre es un acto de misericordia. Es el sub-jefe que los PJ encuentran custodiando el corazón del laberinto vegetal.
 
