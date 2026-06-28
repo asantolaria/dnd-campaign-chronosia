@@ -5,5 +5,7 @@ Chronosia_Campana_Profesional/assets/mapas/
 Chronosia_Campana_Profesional/assets/bestiario/
 Chronosia_Campana_Profesional/assets/objetos_magicos/
 
-# Manual exportado (regenerable con exports/build_manual.sh)
-Chronosia_Campana_Profesional/exports/Chronosia_Manual_Completo.*
+# Manual exportado (regenerable con exports/build_manual.sh).
+# Los fuentes del build (build_manual.sh, dnd-style.html, dnd-latex-header.tex,
+# README.md) SÍ se versionan; los documentos generados (prefijo "Chronosia_") no.
+Chronosia_Campana_Profesional/exports/Chronosia_*
