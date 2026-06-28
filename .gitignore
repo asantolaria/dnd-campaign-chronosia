@@ -9,3 +9,4 @@ Chronosia_Campana_Profesional/assets/objetos_magicos/
 # Los fuentes del build (build_manual.sh, dnd-style.html, dnd-latex-header.tex,
 # README.md) SÍ se versionan; los documentos generados (prefijo "Chronosia_") no.
 Chronosia_Campana_Profesional/exports/Chronosia_*
+Chronosia_Campana_Profesional/assets/portada.png

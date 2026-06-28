@@ -1,5 +1,7 @@
 # Chronosia — El Reino del Tiempo Fracturado
 
+![Chronosia — El Reino del Tiempo Fracturado](assets/web/portada.jpg){ width="480" }
+
 > Campaña de D&D 5e · nivel 3→10 · sandbox con reloj y clímax en la Torre de la Eternidad.
 
 !!! warning "Manual del DM — contiene spoilers"
