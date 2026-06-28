@@ -122,7 +122,7 @@ Región: Glacialis (Chronosia), con distorsión ESPACIAL. Páramo glacial con po
 ### 4 · Las Ruinas del Tiempo Perdido *(Tempus — temporal · nv 6-7)*
 ```
 Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, una "zona segura" de entrada y 3-5 puntos de interés marcados con iconos. Vista cenital, tono horror cósmico + épica, proporción 4:3.
-Región: Las Ruinas del Tiempo Perdido (Chronosia), con distorsión TEMPORAL. Ciudad en ruinas atrapada fuera del tiempo: engranajes colosales semienterrados, relojería rota, geometría ordenada de mecanismo de reloj, fragmentos de piedra flotando inmóviles en el aire. Etiquetas en español opcionales (revisa la ortografía). Evita marcas de agua y estética de cómic.
+Región: Las Ruinas del Tiempo Perdido (Chronosia), con distorsión TEMPORAL. Ciudad en ruinas atrapada fuera del tiempo: engranajes colosales semienterrados, relojería rota, geometría ordenada de mecanismo de reloj, fragmentos de piedra flotando inmóviles en el aire. Rotula EXACTAMENTE así, respetando tildes y SIN repetir ningún nombre: una «zona segura» de entrada llamada «Refugio del Viajero» (icono, sin número); y CUATRO puntos numerados en orden: 1) El Archivo del Tiempo Astillado; 2) El Gran Engramaje Roto; 3) La Forja del Éter Eterno; 4) El Observatorio de las Estrellas Estáticas. Además, sin número: «El Río de los Segundos Perdidos» (un río que desciende) y «Los Cañones del Eco Temporal» (al fondo). IMPORTANTE: «La Forja del Éter Eterno» debe aparecer UNA sola vez, y el número 2 va en «El Gran Engramaje Roto». Etiquetas en español. Evita marcas de agua y estética de cómic.
 ```
 
 ### 5 · El Abismo de los Posibles *(Varrak — temporal · nv 7-8)*
@@ -134,13 +134,13 @@ Región: El Abismo de los Posibles (Chronosia), con distorsión TEMPORAL. Gran c
 ### 6 · Las Llanuras de la Compresión *(Dimensionalis — dimensional · nv 7-8 · → Avernus)*
 ```
 Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, una "zona segura" de entrada y 3-5 puntos de interés marcados con iconos. Vista cenital, tono horror cósmico + épica, proporción 4:3.
-Región: Las Llanuras de la Compresión (Chronosia), con distorsión ESPACIAL. Llanura donde el espacio se pliega: distancias imposibles, caminos que se comprimen, estructuras estiradas o encogidas, horizonte curvado; al fondo, grietas con un resplandor infernal (presagio de Avernus). Etiquetas en español opcionales (revisa la ortografía). Evita marcas de agua y estética de cómic.
+Región: Las Llanuras de la Compresión (Chronosia), con distorsión ESPACIAL. Llanura donde el espacio se pliega: distancias imposibles, caminos que se comprimen, estructuras estiradas o encogidas, horizonte curvado; al fondo, grietas con un resplandor infernal (presagio de Avernus). Rotula EXACTAMENTE seis puntos numerados, respetando tildes y ortografía (ATENCIÓN: se escribe «Encogido», con G — NUNCA «Encojido»): 1) Punto de Entrada Seguro (zona segura); 2) El Bosque de Árboles Encogidos; 3) El Mercado Retorcido; 4) El Puente Infinito y el Páramo Encogido; 5) La Grieta Temporal (las grietas con resplandor infernal hacia Avernus); 6) La Atalaya Comprimida. Al fondo, sin número: «Los Picos Estirados». Etiquetas en español. Evita marcas de agua y estética de cómic.
 ```
 
 ### 7 · La Ciudad Subterránea de Veldrisza *(Veldrisza — dimensional · nv 8-9 · → Underdark)*
 ```
 Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, una "zona segura" de entrada y 3-5 puntos de interés marcados con iconos. Vista cenital, tono horror cósmico + épica, proporción 4:3.
-Región: La Ciudad Subterránea de Veldrisza (Chronosia), con distorsión ESPACIAL. Caverna-ciudad drow del Underdark: arquitectura tallada en estalagmitas, telarañas colosales que conectan plataformas a distinta altura, un gran portal-telaraña hacia Menzoberranzan y hongos luminosos. Etiquetas en español opcionales (revisa la ortografía). Evita marcas de agua y estética de cómic.
+Región: La Ciudad Subterránea de Veldrisza (Chronosia), con distorsión ESPACIAL. Caverna-ciudad drow del Underdark: arquitectura tallada en estalagmitas, telarañas colosales que conectan plataformas a distinta altura, un gran portal-telaraña hacia Menzoberranzan y hongos luminosos. Rotula EXACTAMENTE seis puntos numerados, respetando tildes (ATENCIÓN: se escribe «Túneles», CON tilde): 1) Entrada de los Túneles Superiores (zona segura); 2) Mercado de las Sombras Luminosas; 3) El Gran Portal-Telaraña; 4) Círculo de la Torsión Espacial; 5) Templo del Abrazo de la Araña; 6) La Ciudadela Distorsionada. Etiquetas en español. Evita marcas de agua y estética de cómic.
 ```
 
 ### 8 · Archipiélago de Barbanegra *(Edward Teach — dimensional · nv 8-9)*
@@ -152,13 +152,13 @@ Región: Archipiélago de Barbanegra (Chronosia), con distorsión ESPACIAL. Isla
 ### 9 · La Mansión de la Sed Eterna *(Vorthak — temporal · nv 9 · → Barovia)*
 ```
 Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, una "zona segura" de entrada y 3-5 puntos de interés marcados con iconos. Vista cenital, tono horror cósmico + épica, proporción 4:3.
-Región: La Mansión de la Sed Eterna (Chronosia), con distorsión TEMPORAL (drenaje de vida). Finca gótica solitaria envuelta en niebla espesa, con jardines marchitos, criptas y verja de hierro; la niebla se espesa hacia un borde que parece llevar a "otro lugar" (presagio de Barovia / Shadowfell). Etiquetas en español opcionales (revisa la ortografía). Evita marcas de agua y estética de cómic.
+Región: La Mansión de la Sed Eterna (Chronosia), con distorsión TEMPORAL (drenaje de vida). Finca gótica solitaria envuelta en niebla espesa, con jardines marchitos, criptas y verja de hierro; la niebla se espesa hacia un borde que parece llevar a "otro lugar" (presagio de Barovia / Shadowfell). Rotula EXACTAMENTE seis puntos numerados, respetando tildes; el edificio central (la finca gótica) DEBE llevar su propio rótulo: 1) Entrada Principal (zona segura, la verja de hierro); 2) Jardines Marchitos; 3) Fuente de Lágrimas Heladas; 4) El Observatorio Roto; 5) Criptas Familiares; 6) La Mansión (el edificio central, guarida del señor de la finca). En el borde, sin número: «Niebla Eterna — Hacia Otro Lugar» (la niebla que lleva al Shadowfell). Etiquetas en español. Evita marcas de agua y estética de cómic.
 ```
 
 ### 10 · Las Calderas Dimensionales *(Ignis — dimensional · nv 9-10 · → Plano del Fuego)*
 ```
 Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, una "zona segura" de entrada y 3-5 puntos de interés marcados con iconos. Vista cenital, tono horror cósmico + épica, proporción 4:3.
-Región: Las Calderas Dimensionales (Chronosia), con distorsión ESPACIAL. Cordillera volcánica con calderas y ríos de lava, portales ardientes abiertos sobre las bocas de fuego de los que asoma el Plano Elemental del Fuego, y huesos de dragón dispersos. Etiquetas en español opcionales (revisa la ortografía). Evita marcas de agua y estética de cómic.
+Región: Las Calderas Dimensionales (Chronosia), con distorsión ESPACIAL. Cordillera volcánica con calderas y ríos de lava, portales ardientes abiertos sobre las bocas de fuego de los que asoma el Plano Elemental del Fuego, y huesos de dragón dispersos. Rotula EXACTAMENTE cinco puntos numerados, respetando tildes; las tres bocas de fuego centrales DEBEN llevar su rótulo: 1) Puesto de Guardia del Amanecer (zona segura); 2) La Aguja Temporal; 3) El Mausoleo de Fulgur; 4) La Grieta Primigenia; 5) Las Tres Calderas (las tres bocas/portales de lava, guarida del señor del fuego). Unidos por el «Camino de los Peregrinos» (un sendero). Etiquetas en español. Evita marcas de agua y estética de cómic.
 ```
 
 ---
