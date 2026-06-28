@@ -28,7 +28,7 @@
 ### **División Interna en Cronófagos**
 - **Naturaleza del Conflicto**: Algunos se especializan en tiempo, otros en espacio, y algunos en ambos, creando tensiones internas
 - **Tácticas**: Rivalidad entre bandos temporales y dimensionales
-- **Resultado**: La Ascensión del Cónclave (competencia entre lugartenientes)
+- **Resultado**: Guerra civil entre lugartenientes tras el asesinato de Thyra. La escalada la encarna **Edward Teach**, que absorbe a los lugartenientes que los PJ no alcanzan (ver [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md))
 
 ### **Oceánicos de las Profundidades vs. Edward Teach**
 - **Naturaleza del Conflicto**: Vendetta eterna tras la traición de Teach (robo de la Perla y masacre de 47 guerreros)
@@ -82,7 +82,7 @@ Los PJ descubren que Jarlaxle y Bregan D'aerthe han estado trabajando para Mansh
 Los PJ se enteran de que Aethernus es en realidad un clone de Manshoon. Esta revelación cambia completamente su comprensión de la campaña.
 
 ### **Elección de Bando**
-Los PJ deben elegir entre aliarse con Cronófagos temporales o espaciales, sabiendo que el desbalance podría causar una catástrofe cósmica.
+Los PJ deben elegir a qué lugartenientes enfrentar primero, sabiendo que cada región que exploran consume tiempo: el Reloj del Ritual avanza y los villanos que dejen sin tocar serán absorbidos por Teach.
 
 ### **Jarlaxle como Aliado Ambiguo**
 Puede ser convencido de traicionar a Manshoon, pero siempre con un precio. Los PJ deben negociar cuidadosamente.
@@ -171,8 +171,7 @@ El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de 
 
 ## 🔗 **REFERENCIAS RELACIONADAS**
 
-- **Sistema de Balance**: [../01_Dirigir_Campana.md#-sistema-de-balance-temporal-dimensional](../01_Dirigir_Campana.md#-sistema-de-balance-temporal-dimensional)
-- **Sistema de Competencia**: [../05_La_Ascension_del_Conclave.md](../05_La_Ascension_del_Conclave.md)
+- **Motor de Campaña (Reloj del Ritual y Puertas)**: [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md) — fuente única sobre estructura, ritmo y la escalada de Teach
 - **NPCs Importantes**: [../03_NPCs_Importantes.md](../03_NPCs_Importantes.md)
 
 ---

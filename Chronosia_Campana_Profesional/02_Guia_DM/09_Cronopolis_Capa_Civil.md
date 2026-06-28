@@ -2,7 +2,7 @@
 
 > Cronópolis ya tenía sus **facciones** (La Resistencia, los Anacronistas, los Ingenieros) y sus **mecenas** (Cornelius, Marcus, Din). Lo que faltaba era la **gente que hace que la ciudad respire**: quién la gobierna, dónde se bebe y se oyen rumores, dónde se compra, dónde se reza y se cura, y las caras de los refugiados que llegan cuando los PJ liberan una región.
 >
-> Estos NPCs son el **hogar** de los PJ. Cuanto más vivos estén, más duele cuando la ciudad peligra (robo del Cronómetro, desbalance crítico, asedios).
+> Estos NPCs son el **hogar** de los PJ. Cuanto más vivos estén, más duele cuando la ciudad peligra (robo del Cronómetro, el Reloj del Ritual acercándose a 8, asedios).
 >
 > Facciones y mecenas: [03_NPCs_Importantes.md](./03_NPCs_Importantes.md) · NPCs de región: [../05_Apendices/Bestiario_Regional/00_Indice_Bestiario_Regional.md](../05_Apendices/Bestiario_Regional/00_Indice_Bestiario_Regional.md)
 
@@ -21,7 +21,7 @@ Cronópolis es la última ciudad libre, pero **nadie la gobierna del todo**. Hay
 - **Personalidad:** Pragmática, agotada, incorruptible. Le importa **la gente que come hoy**, no la guerra cósmica.
 - **Tensión central:** El **Capitán Marcus** (Resistencia) quiere militarizar la ciudad y prohibir la magia; **Galen** (Anacronistas) quiere usar la magia para sostener el Cronómetro. Maren está en medio, sin ejército propio, sosteniendo el consenso con saliva y favores.
 - **Gancho:** Pide a los PJ que sean su **mano neutral** — los únicos que hablan con las dos facciones sin pertenecer a ninguna. Recompensa con acceso, información y legitimidad (no con oro: la ciudad no lo tiene).
-- **Si la ciudad cae en desbalance crítico:** Maren es quien organiza la evacuación y a quien los jugadores ven quebrarse. Su arco es el coste humano del fracaso.
+- **Si el Reloj llega a zona crítica y la ciudad peligra:** Maren es quien organiza la evacuación y a quien los jugadores ven quebrarse. Su arco es el coste humano del fracaso.
 
 > **Conflicto Resistencia ↔ Anacronistas (para el DM):** no es solo filosófico (tecnología vs magia). Es **práctico**: solo hay un Cronómetro de Realidades y recursos para *una* estrategia de defensa. Cada victoria de los PJ inclina la balanza interna. Quién "gana" Cronópolis depende de a quién apoyen.
 

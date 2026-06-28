@@ -5,10 +5,12 @@
 
 > **📖 NAVEGACIÓN:**
 > - [Diagrama Principal](#-diagrama-principal-de-la-campaña) (este archivo)
+> - [⏳ Motor de Campaña: Reloj y Puertas](./02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md) — **fuente de verdad** del ritmo
 > - [📊 Opciones en Sandbox](./00_Esquemas/01_Sandbox.md) - Detalle de exploración libre
-> - [⚔️ La Ascensión del Cónclave](./00_Esquemas/02_Ascension_Conclave.md) - Sistema de competencia
 > - [🏰 Torre de la Eternidad](./00_Esquemas/03_Torre_Eternidad.md) - Asalto final y finales
 > - [🎭 Decisiones Críticas](./00_Esquemas/04_Decisiones_Criticas.md) - Puntos de elección clave
+>
+> **⚠️ Diagrama en revisión:** la estructura vigente es **5 fases · nivel 3→10 · clímax en la Torre**. Sistemas retirados: balance temporal/dimensional, Lugartenientes Supremos, viaje al pasado. **No hay que derrotar a un número fijo de lugartenientes** — solo a los críticos (Teach, Ignis, Vorthak) + Aethernus; el resto es opcional. Los "Objetivo: derrotar N" del diagrama son orientativos, no obligatorios.
 
 ---
 
@@ -116,8 +118,8 @@ flowchart TD
 ### **📊 [Opciones en Sandbox](./00_Esquemas/01_Sandbox.md)**
 Exploración libre de regiones temporales y dimensionales, sistema de balance crítico, y consecuencias del desequilibrio.
 
-### **⚔️ [La Ascensión del Cónclave](./00_Esquemas/02_Ascension_Conclave.md)**
-Formación de bandos tras el asesinato de Thyra, competencia narrativa entre lugartenientes, eventos aleatorios, y determinación narrativa de Supremos.
+### **⚔️ La guerra entre lugartenientes** *(sistema "Ascensión del Cónclave" retirado)*
+Tras el asesinato de Thyra estalla la guerra civil entre lugartenientes. La escalada ya **no** son "Supremos": la encarna **Teach**, que absorbe a los que los PJ no alcanzan. Ver [Motor de Campaña](./02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 ### **🏰 [Torre de la Eternidad](./00_Esquemas/03_Torre_Eternidad.md)**
 Los 5 niveles del asalto final, condiciones para cada uno de los 4 finales posibles, y mecánicas del combate final.

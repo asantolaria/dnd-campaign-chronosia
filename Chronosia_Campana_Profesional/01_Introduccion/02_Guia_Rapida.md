@@ -13,8 +13,8 @@
 1. **Waterdeep** → Asesinato durante el Festival del Reloj Astronómico
 2. **Investigación** → Los PJ descubren distorsiones temporales
 3. **Viaje** → Galen los lleva a Chronosia (semiplano fracturado)
-4. **Objetivo** → Derrotar a los lugartenientes manteniendo balance temporal/dimensional (5 temporales vs 6 dimensionales después de la muerte de Thyra)
-5. **Clímax** → Enfrentar a Aethernus (Manshoon Clone #47) y decidir el destino de los dioses
+4. **Objetivo** → Elegir a qué lugartenientes enfrentar mientras el **Reloj del Ritual** (cuenta atrás de la ascensión de Aethernus) avanza
+5. **Clímax** → Cuando el Reloj llega a 8, se abre la Torre: enfrentar a Aethernus (Manshoon Clone #47) —o a Teach si llegó primero— y decidir el destino de los dioses
 
 ---
 
@@ -113,7 +113,7 @@ Un **reino fracturado** donde el tiempo y el espacio se han roto bajo el peso de
 ## 📜 **REGLAS DE LA CASA**
 
 ### **🎲 Reglas Especiales**
-- **Balance Crítico**: Mantener equilibrio entre poderes temporales y dimensionales
+- **El Reloj del Ritual**: una cuenta atrás de 8 segmentos avanza mientras los PJ exploran; obliga a elegir y a no demorarse
 - **Consecuencias Reales**: Las acciones tienen efectos permanentes
 - **Muerte Significativa**: La muerte tiene consecuencias narrativas importantes
 - **Poder Progresivo**: Los jugadores ganan poder a medida que derrotan enemigos
@@ -143,7 +143,7 @@ Un **reino fracturado** donde el tiempo y el espacio se han roto bajo el peso de
 ### **Para Preparación de Sesión:**
 - **[../02_Guia_DM/01_Dirigir_Campana.md](../02_Guia_DM/01_Dirigir_Campana.md)** - Estructura completa de sesiones
 - **[../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ Lugartenientes y poderes
-- **[../02_Guia_DM/05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia
+- **[../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** - ⭐ Reloj del Ritual, ritmo y mapa de puertas
 
 ### **Para Regiones y Aventuras:**
 - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Tabla maestra

@@ -838,7 +838,7 @@ Los PJ pueden intentar prevenir la creación del Talismán, pero **Teach lo comp
 - Si es interrumpido, el ritual falla y debe esperar 24 horas
 
 **Si intentan interrumpirlo:**
-- Combate contra Edward Teach (CR 17) + 6 piratas élite
+- Combate contra Edward Teach (CR 11-12) + 6 piratas élite
 - ⚠️ **IMPORTANTE:** Aunque interrumpan, Teach completa el ritual de todas formas
   - Puede retirarse y completarlo más tarde
   - Puede completarlo durante el combate si los PJ no lo detienen completamente

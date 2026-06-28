@@ -17,14 +17,14 @@
 
 ## 🌌 **LAS REGIONES DIMENSIONALES**
 
-Estas regiones están dominadas por lugartenientes que controlan aspectos específicos del espacio. Los jugadores deben enfrentar a estos lugartenientes manteniendo el equilibrio con las regiones temporales.
+Estas regiones están dominadas por lugartenientes que controlan aspectos específicos del espacio.
 
-**⚠️ ESTADO ACTUAL:** Edward Teach está **BLOQUEADO** al inicio de la campaña y se desbloquea tras asesinar a Thyra (después del 3er lugarteniente derrotado). Los **6 lugartenientes dimensionales** están activos en la competencia por el favor de Aethernus.
+**⚠️ ESTADO ACTUAL:** El Archipiélago de Edward Teach está **CERRADO** al inicio porque el mar está en calma muerta; se abre al construir el **Motor de Viento Perpetuo** (= Rotor Infinito = derrotar **Serapis + Ymir**). Los **6 lugartenientes dimensionales** están activos.
 
-**⚠️ MECÁNICA CRÍTICA:** Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
+**⏳ MOTOR DE PRESIÓN:** El ritmo lo marca el **Reloj del Ritual** (la ascensión de Aethernus), no un balance entre tipos de lugarteniente. Derrotar a un lugarteniente crítico (aquí, **Ignis**, líder dimensional, o **Teach**) lo frena. Ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 **👑 LUGARTENIENTES DIMENSIONALES (6):**
-- Edward Teach "Barbanegra" (Independiente - BLOQUEADO hasta después del 3er lugarteniente, DESBLOQUEADO tras asesinar a Thyra)
+- Edward Teach "Barbanegra" (Independiente - CERRADO hasta el Motor de Viento; los PJ le llegan por mar hacia nivel 7-9)
 - Dimensionalis la Fracturada (Independiente)
 - Ignis el Devorador Espacial (Líder del Bando Dimensional)
 - Matrona Veldrisza "La Tejedora Dimensional" (Bando Dimensional)
@@ -39,9 +39,9 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 
 **Ubicación**: Islas del Oeste, mar abierto
 
-**ESTADO:** 🔒 **BLOQUEADO** (Sesión 1+) → 🔓 **DESBLOQUEADO** (Después del asesinato de Thyra) - Se desbloquea cuando La Resistencia inventa el Motor de Viento Perpetuo para navegar el mar en calma
+**ESTADO:** 🔒 **CERRADO** (mar en calma muerta) → 🔓 **ABIERTO** cuando La Resistencia construye el **Motor de Viento Perpetuo** (= Rotor Infinito = derrotar **Serapis + Ymir**). NO depende del asesinato de Thyra
 
-**🎖️ LUGARTENIENTE ACTIVO** - Participa en "La Ascensión del Cónclave" (Solo después de asesinar a Thyra)
+**🎖️ LUGARTENIENTE ACTIVO Y CRÍTICO** - Motor de la trama; villano final alternativo. Crece absorbiendo a los lugartenientes que los PJ no alcanzan primero
 
 **⚔️ INDEPENDIENTE** - No se alinea con ningún bando, ha asesinado a Thyra y robado sus poderes
 
@@ -455,18 +455,15 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 
 ---
 
-## ⚖️ **BALANCE TEMPORAL/DIMENSIONAL**
+## ⏳ **EL RELOJ DEL RITUAL Y ESTAS REGIONES**
 
-**⚠️ ADVERTENCIA CRÍTICA:** Los PJ deben mantener un balance al derrotar lugartenientes:
+El coste de explorar cada región dimensional no es un "desbalance", sino el **tiempo**: cada arco a fondo avanza el Reloj del Ritual (la ascensión de Aethernus). Ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
-- **Temporales Principales Activos:** 3 (Serapis, Varrak, Vorthak)
-- **Dimensionales Principales Activos:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Balance Actual:** Ya hay un desequilibrio favorable a lo dimensional (3 vs 5)
+- **Frena el Reloj:** derrotar a un lugarteniente **crítico** (aquí, **Ignis**, líder dimensional, o **Teach**).
+- **Puertas que abre el ala dimensional:** derrotar a **Ignis** abre el ala profunda (Dimensionalis, Veldrisza); derrotar a **Teach** abre la Tela de Sombras de Veldrisza.
 
-**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio y evitar catástrofe cósmica.
-
-**NOTA ESPECIAL - Edward Teach:** Aunque es clasificado como "Dimensional", tiene poderes robados de Thyra (Temporal), lo que lo convierte en una amenaza híbrida única.
+**NOTA ESPECIAL - Edward Teach:** Combina sus poderes piratas con los de estasis robados a Thyra (amenaza híbrida). Cada lugarteniente que los PJ no alcanzan, Teach lo absorbe y crece → su poder en la Torre depende de a cuántos llegó él antes que ellos.
 
 ---
 
-*Estas regiones dimensionales ofrecen desafíos únicos que requieren creatividad y adaptación por parte de los jugadores. Cada una presenta mecánicas diferentes que mantendrán la campaña fresca y emocionante, mientras los jugadores deben mantener el equilibrio crítico entre poderes temporales y dimensionales.*
+*Estas regiones dimensionales ofrecen desafíos únicos que requieren creatividad y adaptación por parte de los jugadores. Cada una presenta mecánicas diferentes que mantendrán la campaña fresca y emocionante, mientras el Reloj del Ritual avanza al fondo.*

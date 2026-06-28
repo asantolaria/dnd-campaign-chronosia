@@ -1,13 +1,13 @@
-# 📖 Sesión 13: El Camino al Ritual
-## *Ritual al 98% - Los Dioses Llaman - Preparación Final*
+# 📖 La Llamada de los Dioses y el Asalto
+## *Reloj a 8/8 - Los Dioses Llaman - Preparación Final*
 
 ---
 
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 4](./00_Guia_General_Fase_4.md)
 > - [Sesión 12: El Ritual](../Fase_3_Sandbox_Avanzado/03_Sesion_12_El_Ritual.md)
-> - [Sesión 14: Batalla contra Teach y Ritual Completado](./02_Sesion_14_Batalla_Teach_Ritual_Completado.md)
-> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 13
+> - [⚔️ Batalla Final por Fases](./02_Batalla_Final_Por_Fases.md) · [🏰 Torre de la Eternidad](../../00_Esquemas/03_Torre_Eternidad.md)
+> - [Motor de Campaña: Reloj y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 
 ---
 
@@ -154,14 +154,14 @@ desde ella, dorados y púrpuras, mezclándose en un vórtice de energía cósmic
 
 El ritual está al 99.5%. Solo queda 0.5% antes de que sea irreversible.
 
-Y entonces... veis a Edward Teach. Está bloqueando el camino.
+Si Teach sigue vivo, lo veis adelantarse hacia la cima — quiere interceptar el poder antes que nadie (camino al Final B).
 ```
 
-**Setup para Sesión 14:**
-- Los PJ están listos para el asalto
-- El ritual está al 99.5-99.9%
-- Edward Teach bloquea el camino
-- La batalla final está a punto de comenzar
+**Setup para el asalto:**
+- Los PJ están listos para entrar en la Torre
+- El ritual está al 99.5-99.9% (Reloj a 8/8)
+- Si Teach vive, corre hacia la Cámara de Ascensión
+- La batalla final está a punto de comenzar → [Torre de la Eternidad](../../00_Esquemas/03_Torre_Eternidad.md) y [Batalla Final por Fases](./02_Batalla_Final_Por_Fases.md)
 
 ---
 
@@ -191,12 +191,12 @@ Y entonces... veis a Edward Teach. Está bloqueando el camino.
 
 ## 🔗 **REFERENCIAS**
 
-- **[Cronología Maestra - Sesión 13](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-13-el-camino-al-ritual)**
-- **[Sesión 14: Batalla contra Teach y Ritual Completado](./02_Sesion_14_Batalla_Teach_Ritual_Completado.md)** - Próxima sesión
+- **[⚔️ Batalla Final por Fases](./02_Batalla_Final_Por_Fases.md)** - el combate, paso a paso
+- **[🏰 Torre de la Eternidad](../../00_Esquemas/03_Torre_Eternidad.md)** - niveles y finales
 - **[Edward Teach - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)**
 
 ---
 
-*Los dioses llaman. El tiempo se agota. El asalto final comienza. Pero primero... Teach bloquea el camino.* ⚔️🏰✨
+*Los dioses llaman. El Reloj marca 8. El asalto a la Torre comienza.* ⚔️🏰✨
 
 

@@ -11,9 +11,8 @@
 - [Eventos Espaciales Aleatorios](#-eventos-espaciales-aleatorios)
 - [Tabla de Distorsiones Espaciales (1d12)](#-tabla-de-distorsiones-espaciales-1d12)
 
-### **⚖️ Efectos de Desbalance**
-- [Tabla de Efectos por Desbalance](#-tabla-de-efectos-por-desbalance)
-- [Sistema de Lanzamientos por Nivel](#-sistema-de-lanzamientos-por-nivel)
+### **⏳ El Reloj del Ritual**
+- [Qué mueve el Reloj](#-qué-mueve-el-reloj-del-ritual)
 
 ### **🌊 Los Gritos de los Dioses**
 - [Los Gritos de los Dioses en Conflicto](#-los-gritos-de-los-dioses-en-conflicto)
@@ -149,8 +148,8 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 
 ### **Cambios de Poder**
 - **Debilitamiento**: Los efectos temporales se intensifican cuando un lugarteniente es derrotado
-- **Estabilización**: El tiempo se normaliza gradualmente en una región
-- **Fractura**: Nuevas distorsiones aparecen cuando el equilibrio se rompe
+- **Estabilización**: Al caer un lugarteniente, su región se restaura gradualmente (su "Efecto al Morir") — salvo que Teach interceptara el poder, en cuyo caso la región **sigue rota** (firma de que Barbanegra la robó)
+- **Fractura**: Nuevas distorsiones aparecen donde el ritual de Aethernus avanza sin oposición
 - **Convergencia**: Múltiples efectos temporales se combinan en una zona
 
 ---
@@ -193,7 +192,6 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 - **Destrucción del Tiempo**: El tiempo se congela eternamente
 - **Destrucción del Espacio**: El espacio se colapsa en un punto
 - **Nuevo Equilibrio**: Se establece un nuevo orden temporal y espacial
-- **Catástrofe Cósmica**: El desbalance entre poderes temporales y espaciales causa una catástrofe
 
 ---
 
@@ -204,7 +202,7 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 - Permite que los PJ se adapten a los efectos
 - Usa los eventos para crear tensión, no frustración
 - Mantén la coherencia interna del mundo
-- **Balance Temporal/Espacial**: Alterna entre eventos temporales y espaciales para mantener el equilibrio
+- **Variedad**: Alterna entre eventos temporales y espaciales para mantener la atmósfera viva
 
 ### **Adaptación**
 - Ajusta las dificultades según el nivel del grupo
@@ -218,26 +216,30 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 - Usa los eventos para desarrollar personajes
 - Permite que los PJ aprendan sobre el mundo
 - Mantén la atmósfera temporal y espacial consistente
-- **Mecánica de Balance**: Recuerda que los PJ deben mantener el equilibrio entre derrotas temporales y espaciales
+- **Coste de oportunidad**: Recuerda que cada región explorada hace avanzar el Reloj del Ritual — los PJ no pueden con todo, y eso es el corazón de la campaña
 
 ---
 
-## ⚖️ **TABLA DE EFECTOS POR DESBALANCE**
+## ⏳ **QUÉ MUEVE EL RELOJ DEL RITUAL**
 
-### **🎯 Concepto Simplificado**
-Cuando hay desbalance entre lugartenientes temporales y dimensionales derrotados, los PJ sufren efectos aleatorios que afectan su día a día. **Cuanto mayor sea el desbalance, más veces hay que lanzar en la tabla**.
+> **Recordatorio:** la única cuenta de presión de Chronosia es el **Reloj del Ritual** (8 segmentos, empieza en 2/8). No hay "balance" temporal/dimensional. Fuente única: [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
-### **📊 Sistema de Lanzamientos por Nivel (SIMPLIFICADO)**
+### **📊 Tracking de segmentos**
 
-| **Nivel de Desbalance** | **Diferencia** | **Lanzamientos por Sesión** | **Momento de Lanzamiento** |
-|-------------------------|----------------|----------------------------|----------------------------|
-| 🟢 **Equilibrio** | 0-1 | **0** | Ninguno |
-| ⚠️ **Desbalance** | 2-3 | **1d4** | Al inicio de cada sesión |
-| 🔴 **Crítico** | 4+ | **1d6** | Al inicio + cada 2 horas + eventos importantes |
+| **Movimiento** | **Causa** |
+|----------------|-----------|
+| ⬆️ **+1** | Explorar una región a fondo (≈+1 por arco) |
+| ⬆️ **+1 / salto** | Hito de Teach (el asesinato de Thyra da un **salto**) · desatender a Teach (absorbe a otro lugarteniente y crece) |
+| ⏸️ **Se estanca** | Derrotar a un lugarteniente CRÍTICO (Vorthak, Ignis o Teach → corta un canal divino): el siguiente avance no cuenta |
+| ⏸️ **Congela 1** | Misión de sabotaje de los Anacronistas |
+| ⬇️ **−1** | Sacrificio de Varrak (con el reloj en zona crítica ≥6/8) |
+| 🔔 **8/8** | **Llamada de los Dioses** → se abre la Torre → Fase 4 (clímax) |
 
-### **🎲 Tabla de Efectos de Desbalance (1d10) - SIMPLIFICADA**
+### **🎲 Tormentas del Ritual (tabla opcional, 1d10)**
 
-| d10 | Efecto de Desbalance | Duración | Tipo |
+A medida que el reloj se acerca a 8, el semiplano se vuelve más inestable. **Opcional:** cuando el Reloj entra en zona crítica (≥6/8), el DM puede lanzar 1 efecto al inicio de sesión para transmitir que el ritual aprieta. No es un segundo libro de cuentas: es sabor de urgencia.
+
+| d10 | Tormenta del Ritual | Duración | Tipo |
 |-----|----------------------|----------|------|
 | 1 | **Fatiga Temporal**: Los PJ están cansados. Desventaja en todas las tiradas de Fuerza y Destreza por 1 hora. | 1 hora | Temporal |
 | 2 | **Confusión Espacial**: Los PJ se desorientan. Desventaja en tiradas de Sabiduría (Percepción) y navegación por 30 minutos. | 30 min | Espacial |
@@ -250,53 +252,23 @@ Cuando hay desbalance entre lugartenientes temporales y dimensionales derrotados
 | 9 | **Fallo de Objetos Mágicos**: Los objetos mágicos fallan aleatoriamente (33% de probabilidad) por 3 horas. | 3 horas | Mágico |
 | 10 | **Catástrofe Menor**: Combinación de 2 efectos aleatorios de esta tabla (lanza 2d10 y aplica ambos). | Variable | Múltiple |
 
-### **📝 Instrucciones de Uso**
+### **📝 Instrucciones de Uso (opcional)**
 
-#### **Cuándo Lanzar:**
-- **Al inicio de cada sesión** (según el nivel de desbalance)
-- **Cada 2 horas** (desbalance moderado)
-- **Cada hora** (desbalance crítico)
-- **En eventos importantes** (desbalance crítico)
-
-#### **Cómo Aplicar los Efectos:**
-1. **Lanza el dado** según el nivel de desbalance
-2. **Aplica el efecto** inmediatamente
-3. **Anota la duración** y el tipo de efecto
-4. **Informa a los PJ** sobre el efecto y su causa
-5. **Usa los explicadores** (Galen, Varrak, Capitán Marcus) para explicar por qué ocurre
-
-#### **Ejemplos de Uso (SIMPLIFICADO):**
-
-**Desbalance:**
-- Al inicio de sesión: Lanza 1d4 → 3 lanzamientos
-- Efectos: 1d10 = 4 (Restricción de Descanso), 1d10 = 8 (Compresión Espacial), 1d10 = 7 (Nivel de Agotamiento)
-- **Nota**: Si el desbalance es extremo (diferencia de 4+), el DM puede aumentar la frecuencia de lanzamientos
+- **Cuándo:** solo con el Reloj en zona crítica (≥6/8), como mucho 1 tirada al inicio de sesión. Si la mesa ya siente la urgencia, no hace falta.
+- **Cómo:** lanza 1d10, aplica el efecto, anota la duración e informa a los PJ de la causa (el ritual está casi consumado).
+- **Explicadores:** Galen, Varrak o el Capitán Marcus pueden poner voz a lo que ocurre.
 
 ### **🎭 Integración Narrativa**
 
-#### **Explicaciones de los Explicadores:**
+**Galen (zona crítica):**
+*"El Contador casi se ha llenado. Amaunator y Voidar agonizan a la vez, y su agonía sangra al mundo. Esto es lo que se siente cuando un dios está a punto de nacer."*
 
-**Galen (Desbalance Temporal):**
-*"El equilibrio se rompe hacia lo temporal. Amaunator se debilita, y el tiempo se vuelve caótico. Estos efectos son manifestaciones de su agonía."*
+**Varrak:**
+*"El tiempo y el espacio se deshilachan. No es desorden: es el ritual tirando de los hilos. Cada hora que pasa, Aethernus está más cerca."*
 
-**Varrak (Desbalance Dimensional):**
-*"Veo el espacio fracturándose. Voidar pierde poder, y las dimensiones se vuelven inestables. Estos efectos son ecos de su sufrimiento."*
-
-**Capitán Marcus (Desbalance Crítico):**
-*"Nuestros dispositivos fallan. El equilibrio está roto, y Chronosia se desmorona. Estos efectos son solo el principio de la catástrofe."*
-
-### **⚖️ Restauración del Equilibrio**
-
-#### **Efectos que Mejoran con el Equilibrio:**
-- Cuando los PJ restauran el equilibrio (diferencia de 0-1), todos los efectos activos se eliminan
-- Los efectos desaparecen gradualmente a medida que el balance se restaura
-
-#### **Motivación para los PJ:**
-- **Los efectos empeoran** si no mantienen el equilibrio
-- **Los efectos mejoran** cuando restauran el equilibrio
-- **La tabla proporciona feedback inmediato** sobre sus acciones
-- **Los explicadores pueden predecir** qué efectos ocurrirán
+**Capitán Marcus:**
+*"Nuestros dispositivos fallan. No es avería: el semiplano se desmorona bajo el ritual. Daos prisa."*
 
 ---
 
-*Última actualización: Diciembre 2025 - Sistema de efectos de desbalance simplificado e implementado*
+*Sistema de presión: Reloj del Ritual (8 segmentos). Las tormentas son sabor opcional de la zona crítica, no una mecánica de balance.*

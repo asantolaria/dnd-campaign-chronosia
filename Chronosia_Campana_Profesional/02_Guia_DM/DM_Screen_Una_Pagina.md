@@ -3,13 +3,14 @@
 
 ---
 
-### ⚖️ **BALANCE ACTUAL**
+### ⏳ **RELOJ DEL RITUAL**
 
-| **T derrotados** | **D derrotados** | **Diferencia** | **Estado** |
-|------------------|------------------|----------------|------------|
-| _____ | _____ | _____ | 🟢 Equilibrio (0-1) / ⚠️ Desbalance (2+) |
+| **Segmento actual** | **Empieza en** | **Llega a 8 →** |
+|---------------------|----------------|------------------|
+| `[▓][▓][░][░][░][░][░][░]` _____ /8 | 2/8 | Llamada de los Dioses → se abre la Torre |
 
-**Post-Thyra (Sesión 6+):** 5 temporales activos vs 6 dimensionales. Si diferencia ≥4 → Varrak puede sacrificarse.
+**Sube (+1):** explorar una región a fondo (≈+1 por arco) · hitos de Teach (el asesinato de Thyra da un salto) · desatender a Teach (absorbe a otro lugarteniente).
+**Baja / se frena:** derrotar a un lugarteniente CRÍTICO (Vorthak, Ignis o Teach → corta un canal divino, estanca el ritual) · sabotaje de los Anacronistas (congela un segmento) · sacrificio de Varrak (−1, con el reloj ≥6/8).
 
 ---
 
@@ -23,31 +24,30 @@
 
 ---
 
-### 💬 **FRASES CLAVE (explicadores del balance)**
+### 💬 **FRASES CLAVE (la urgencia del reloj)**
 
-**Galen:** *"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
+**Galen:** *"El Contador no miente: cada segmento que cae, Aethernus está más cerca de la divinidad. No da tiempo a todo. Elegid."*
 
-**Varrak:** *"Hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza."*
+**Varrak:** *"He visto los futuros. En casi todos, el ritual se completa antes de que lleguéis. Solo cae a quien tenéis delante."*
 
-**Marcus (tras 2º lugarteniente):** *"El artilugio de Din muestra fluctuaciones. Si el desbalance continúa, nuestros dispositivos fallarán."*
+**Marcus (hipo del Contador):** *"El Contador ha retrocedido y no hemos tocado nada. Alguien ha matado a un lugarteniente ahí fuera... y no se está restaurando la región. Eso es Barbanegra."*
 
 ---
 
 ### 🎯 **URGENCIA NARRATIVA**
 
-- **Fase 0-1:** Establecer base y vivir eventos fijos (Talismán, Thyra).
-- **Fase 2-3:** Sandbox; revelaciones Manshoon/ritual (Ses. 8, 10); Varrak elige bando (Ses. 11).
-- **Fase 4:** Ritual se completa; batalla Teach; mundo cambia (no retorno).
-- **Fase 5-6:** Viaje al pasado; batalla final.
+- **Fase 0-1:** Establecer base y vivir eventos fijos (Talismán, Thyra). Reloj empieza en 2/8.
+- **Fase 2-3:** Sandbox con reloj; revelaciones Manshoon/ritual; Varrak elige bando. Teach crece con lo que dejan sin tocar.
+- **Fase 4 (clímax):** Reloj a 8 → Llamada de los Dioses → asalto a la Torre. El final depende de a quién derrotaron y de si Teach llegó antes.
 
 ---
 
 ### 📌 **ENLACES RÁPIDOS**
 
+- Motor de campaña: `02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md` (Reloj, puertas, finales)
 - Tracking: `06_Recursos/Tablas/20_Tablas_Tracking_Campana.md`
 - Eventos fijos: `02_Guia_DM/Eventos_Que_Siempre_Ocurren.md`
-- Balance y reglas: `02_Guia_DM/01_Dirigir_Campana.md` (§ Balance, § Eventos fijos)
 
 ---
 
-*Imprime o ten en segunda pantalla. Actualiza balance y lugartenientes tras cada sesión.*
+*Imprime o ten en segunda pantalla. Actualiza el reloj y los lugartenientes tras cada sesión.*

@@ -3,77 +3,74 @@
 
 ---
 
-## ⚖️ **EXPLICADORES DEL BALANCE**
+## ⏳ **EXPLICADORES DEL RELOJ DEL RITUAL**
+
+> **Sistema vigente:** estos NPCs ya **no** explican un "balance temporal/dimensional" (sistema retirado). Explican el **Reloj del Ritual** — el Contador de 8 segmentos que mide la ascensión de Aethernus. Ver fuente única: [10_Motor_de_Campana_Reloj_y_Puertas.md](./10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 ### **🔮 Galen (Anacronistas) - Explicador Principal**
 
 ![Galen](../assets/bestiario/npcs/galen-anacronista.jpg)
 
-**Descripción**: Humano anciano con túnica azul y ojos que brillan con sabiduría temporal. Líder de los Anacronistas, una facción dedicada a mantener el equilibrio entre tiempo y espacio.
+**Descripción**: Humano anciano con túnica azul y ojos que brillan con sabiduría temporal. Líder de los Anacronistas, una facción dedicada a frenar la ascensión de Aethernus.
 
-**Función**: Explicador principal de la teoría del balance temporal/dimensional.
+**Función**: Explicador principal del **Reloj del Ritual** (el Contador de los Anacronistas). Enseña a los PJ a leerlo y qué lo hace avanzar o frenarse.
 
 **Diálogos Clave**:
 
-#### **Primera Explicación del Balance**
-*"Escuchad, jóvenes. Chronosia existe en un equilibrio precario entre dos fuerzas fundamentales: el Tiempo y el Espacio. Amaunator y Voidar, aunque prisioneros, siguen luchando. Su poder se filtra a través de sus lugartenientes."*
+#### **Primera Explicación del Reloj**
+*"Escuchad, jóvenes. Aethernus no se limita a gobernar: está completando un ritual de ascensión divina. Su poder se filtra a través de sus lugartenientes, y mientras tanto la cuenta atrás avanza. Mirad este Contador: ocho segmentos. Cuando se agote, los dioses serán llamados y se abrirá la Torre."*
 
-*"Si derrotáis demasiados lugartenientes temporales sin equilibrar con los dimensionales, Amaunator se debilitará. El tiempo se volverá caótico, los portales temporales fallarán, y Cronópolis perderá su estabilidad."*
+*"El Contador avanza con el tiempo: cada región que exploráis a fondo consume semanas, y el ritual aprovecha cada una. También salta con los golpes de Barbanegra. Pero se frena cuando cortáis un canal de poder divino: matar a un crítico —Vorthak, Ignis, el propio Teach— estanca el ritual. Nuestros sabotajes lo congelan una temporada."*
 
-*"Si derrotáis demasiados dimensionales sin equilibrar con los temporales, Voidar se debilitará. El espacio se fracturará, los portales dimensionales se volverán inestables, y las distancias cambiarán aleatoriamente."*
+*"No podéis hacerlo todo. Debéis elegir dónde lucháis. Lo que dejéis sin hacer, lo aprovecha el enemigo."*
 
-*"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
+#### **Advertencia: el Contador avanza**
+*"El Contador ha ganado otro segmento. La ascensión se acerca. Si seguís dejando que el tiempo corra sin cortar canales de poder, llegaremos a la Llamada de los Dioses sin estar preparados."*
 
-#### **Advertencia de Desbalance**
-*"Veo que habéis derrotado más lugartenientes de un tipo que del otro. Las distorsiones se están volviendo más visibles. Cronópolis ya no es completamente estable. Si continuáis así, las consecuencias serán graves."*
-
-#### **Advertencia de Desbalance Crítico**
-*"¡Es demasiado tarde! El equilibrio está roto. Cronópolis se vuelve inestable, y pronto no habrá lugar seguro en todo Chronosia. Debéis actuar ahora para restaurar el equilibrio."*
+#### **Advertencia: zona crítica del Reloj**
+*"El Contador está casi lleno. Quedan apenas un par de segmentos antes de la Llamada de los Dioses y la apertura de la Torre. Lo que vayáis a hacer, hacedlo ya."*
 
 ### **🔮 Varrak del Horizonte - Confirmación Visual**
 
-**Descripción**: Orco anciano con ojos que brillan con visiones del futuro. Lugarteniente neutral que puede ver múltiples futuros y decidir su alineación en la Sesión 11.
+**Descripción**: Orco anciano con ojos que brillan con visiones del futuro. Lugarteniente neutral que puede ver múltiples futuros y decidir su alineación más adelante en el sandbox.
 
-**Función**: Confirmación visual del balance con visiones del futuro.
+**Función**: Confirmación visual del avance del ritual con visiones del futuro.
 
 **Diálogos Clave**:
 
-#### **Visión del Futuro Catastrófico (Desbalance Temporal)**
-*"Veo futuros donde el equilibrio se rompe. En uno, derrotáis a todos los lugartenientes temporales primero. El tiempo se detiene, Cronópolis se congela, y vosotros quedáis atrapados en estasis eterna."*
+#### **Visión del Futuro Catastrófico (el ritual se completa)**
+*"Veo el futuro donde no llegáis a tiempo. El Contador se agota, los dioses son llamados, la Torre se abre... y Aethernus asciende antes de que entréis. En ese futuro, todo lo que conocéis se disuelve en su eternidad."*
 
-#### **Visión del Futuro Catastrófico (Desbalance Dimensional)**
-*"En otro, derrotáis a todos los dimensionales primero. El espacio se colapsa, Cronópolis se fractura, y vosotros desaparecéis en el vacío dimensional."*
+#### **Visión de Barbanegra (el usurpador)**
+*"Veo otro futuro: mientras vosotros os demoráis, un hombre de barba negra caza lugarteniente tras lugarteniente. Cuando la Torre se abre, es él quien entra primero, hinchado con poder robado. No sé deciros cuál de los dos es peor."*
 
-#### **Visión del Futuro Correcto**
-*"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente. Ese es el futuro que debéis elegir."*
+#### **Visión del Futuro Esperanzador**
+*"Pero hay un futuro donde cortáis los canales a tiempo, frenáis el ritual y llegáis a la Torre antes que él. Es estrecho. En casi todos los demás, perdemos. Ese es el que debéis elegir."*
 
-#### **Advertencia de Desbalance**
-*"Mis visiones se vuelven más claras. Veo múltiples futuros donde el equilibrio se rompe. Debéis actuar pronto para evitar la catástrofe."*
+#### **Advertencia: el tiempo aprieta**
+*"Mis visiones se aclaran a medida que el Contador se llena. Veo cada vez más futuros que terminan en la Torre. Debéis actuar pronto."*
 
-### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
+### **⚙️ Capitán Marcus (La Resistencia) - Lecturas del Contador**
 
 **Descripción**: Humano militar con uniforme negro y dispositivos tecnológicos avanzados. Líder de La Resistencia, una facción que usa tecnología para combatir las distorsiones.
 
-**Función**: Advertencias tecnológicas sobre el desbalance con datos concretos, **pero solo después del descubrimiento del balance**.
+**Función**: Lecturas tecnológicas del estado del ritual con datos concretos, una vez que el Contador del Ritual está instalado en Cronópolis.
 
-**⚠️ IMPORTANTE**: El Capitán Marcus **NO** puede advertir sobre el balance hasta **después de que los PJ derroten a su segundo lugarteniente**, momento en el que Din Goldgear inventa el artilugio detector de balance.
+**⚠️ IMPORTANTE**: La Resistencia y los Anacronistas construyen el **Contador del Ritual** en Cronópolis durante la Fase 1-2. A partir de ahí, Marcus puede dar lecturas precisas de cuánto le queda al ritual y de los "hipos" del Contador (muertes de lugartenientes que los PJ no provocaron — ver el Motor de Campaña).
 
 **Diálogos Clave**:
 
-#### **Tras la Muerte de Thyra (Sesión 5-6) - Primera Señal**
-*"Algo extraño está pasando. Algunos de nuestros artefactos más sensibles a lo temporal están teniendo malfuncionamientos menores. No sabemos por qué, pero algo ha cambiado."*
+#### **Tras la Muerte de Thyra (Sesión 5-6) - El Salto**
+*"Algo extraño está pasando. Nuestros artefactos más sensibles a lo temporal sufrieron un pico brutal y el Contador dio un salto. Alguien ha trastocado el ritual a lo grande. No sabemos aún quién, pero la cuenta atrás se ha acelerado."*
 
-#### **Tras el Segundo Lugarteniente Derrotado - El Descubrimiento**
-*"Din Goldgear ha descubierto algo increíble. Ha inventado un artilugio que detecta el equilibrio entre poderes temporales y dimensionales. Parece que cada vez que un lugarteniente cae, el balance se altera, y eso afecta a nuestros dispositivos."*
+#### **El Contador instalado - Lecturas precisas**
+*"Din y los ingenieros han calibrado el Contador del Ritual con nuestros sensores. Ahora podemos leer cuánto le queda a la ascensión, y detectar cuándo un canal de poder cae ahí fuera aunque no hayamos sido nosotros. Cada vez que un lugarteniente muere, el Contador da un hipo."*
 
-#### **Advertencia de Desbalance (Post-Descubrimiento)**
-*"El artilugio de Din muestra fluctuaciones en el equilibrio. Los dispositivos anti-distorsión están perdiendo eficiencia. Algunos sistemas fallan ocasionalmente. El desbalance se está volviendo peligroso."*
+#### **Lectura: el ritual avanza**
+*"El Contador ha ganado otro segmento. La ascensión se acerca y nuestros dispositivos anti-distorsión empiezan a notar la tensión. Cada semana que pasa, el enemigo está más cerca."*
 
-#### **Advertencia de Desbalance Crítico (Post-Descubrimiento)**
-*"¡CRÍTICO! El artilugio marca un desbalance extremo. Los dispositivos anti-distorsión funcionan al 50% de eficiencia. Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
-
-#### **Advertencia de Desbalance Extremo (Post-Descubrimiento)**
-*"¡FALLO INMINENTE! El artilugio predice que los dispositivos anti-distorsión fallarán en las próximas horas. Cronópolis será completamente inestable. Debéis restaurar el equilibrio AHORA o todos moriremos."*
+#### **Lectura: zona crítica**
+*"¡CRÍTICO! El Contador está casi lleno. Cuando se complete, los dioses serán llamados y la Torre se abrirá. Si vais a cortar más canales de poder, es ahora o nunca."*
 
 ---
 
@@ -210,7 +207,7 @@
 - **Sirviente Homúnculo**: Ha creado un homúnculo especial a partir de un cristal temporal estabilizado (valorado en al menos 100 po). El homúnculo puede detectar distorsiones temporales y alertar a Din.
 - **Anillo de Recarga de Conjuros**: Puede recuperar un espacio de conjuro gastado (nivel 3 o inferior) una vez por amanecer.
 - **Dispositivos de Estabilización Temporal**: Din ha desarrollado varios dispositivos únicos que ayudan a estabilizar pequeñas distorsiones temporales, trabajando en conjunto con los relojes de Cornelius.
-- **🔧 Artilugio Detector de Balance** (Inventado después del segundo lugarteniente derrotado): Din Goldgear inventa este artilugio crucial después de descubrir la relación directa entre las bajas de lugartenientes y el equilibrio temporal/dimensional. El artilugio puede medir el equilibrio entre poderes temporales y dimensionales, detectar fluctuaciones cuando un lugarteniente cae, predecir fallos en dispositivos anti-distorsión, y alertar cuando el equilibrio se vuelve crítico. Este dispositivo se convierte en una herramienta esencial para La Resistencia y permite al Capitán Marcus proporcionar advertencias precisas sobre el estado del balance.
+- **🔧 Calibrador del Contador del Ritual**: Din Goldgear aporta los sensores temporales que permiten calibrar el **Contador del Ritual** (el Reloj de 8 segmentos que los Anacronistas y La Resistencia montan en Cronópolis). Sus instrumentos detectan los "hipos" del Contador: cuando un lugarteniente cae ahí fuera, el flujo de poder divino parpadea y el Contador retrocede medio segmento antes de estabilizarse. Esto convierte el aparato en herramienta de pistas (saber que alguien —p. ej. Teach— ha matado a un lugarteniente) además de medidor de la cuenta atrás. Permite al Capitán Marcus dar lecturas precisas del estado del ritual. Ver [10_Motor_de_Campana_Reloj_y_Puertas.md](./10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 **Función en la Campaña - Mecenas y Creador de Artefactos**:
 - **Mecenas Importante**: Din se ha convertido en uno de los mecenas más importantes de la campaña, proporcionando recursos, información y apoyo logístico a los PJ
@@ -272,10 +269,9 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 - **Idioma Universal**: Puede comunicarse con cualquier ser inteligente en su idioma nativo
 
 **Función en la Campaña**:
-- **Facilitador del Salto Planar**: Ayuda a los PJ a viajar del semiplano a Faerûn y viceversa
-- **Proveedor de Equipo**: Puede vender objetos únicos de otros planos que no se encuentran en el semiplano
-- **Información Interplanar**: Conoce secretos y rumores de múltiples dimensiones
-- **Escape Temporal**: Puede ofrecer a los PJ una forma de escapar del semiplano si es necesario
+- **Comerciante Errante**: Aparece en cualquier región con su carromato; vende objetos únicos de otros planos que no se encuentran en el semiplano
+- **Información Interplanar**: Conoce secretos y rumores de múltiples dimensiones; puede orientar a los PJ sobre lugartenientes o regiones
+- **Color planar**: Su mera presencia recuerda que Chronosia está aislada del multiverso mientras dura el ritual
 - **Objetos Únicos**: Sus mercancías pueden incluir artefactos que ayuden contra las distorsiones temporales
 
 **Mercancías Típicas**:
@@ -556,7 +552,7 @@ Chronosia presenta un sistema único de mecenazgo donde los personajes pueden re
 ### **⚖️ Balance y Tensiones**
 
 #### **🤝 Momentos de Cooperación**
-- **Objetivo Común**: Los tres quieren derrotar a los cronófagos y restaurar el equilibrio
+- **Objetivo Común**: Los tres quieren derrotar a los cronófagos y frenar la ascensión de Aethernus
 - **Información Compartida**: Pueden proporcionar inteligencia complementaria
 - **Recursos Combinados**: Los PJ pueden usar todos los tipos de equipamiento
 - **Din como Mediador**: Din puede ayudar a mediar entre Marcus (anti-magia) y el Maestro Relojero (pro-magia), ya que él combina ambos enfoques

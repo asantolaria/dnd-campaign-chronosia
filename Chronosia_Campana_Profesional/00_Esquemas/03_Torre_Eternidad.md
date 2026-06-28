@@ -5,8 +5,8 @@
 
 > **📖 NAVEGACIÓN:**
 > - [← Volver al Diagrama Principal](../00_Esquema_Campana_Mermaid.md)
+> - [⏳ Motor de Campaña: Reloj y Puertas](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 > - [📊 Opciones en Sandbox](./01_Sandbox.md)
-> - [⚔️ La Ascensión del Cónclave](./02_Ascension_Conclave.md)
 > - [🎭 Decisiones Críticas](./04_Decisiones_Criticas.md)
 
 ---

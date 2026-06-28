@@ -1,13 +1,13 @@
-# ⚔️ Sesiones 19-20: Batalla Final por Fases
-## *El Destino del Multiverso se Decide Aquí*
+# ⚔️ Batalla Final por Fases
+## *El Destino del Multiverso se Decide en la Torre*
 
 ---
 
 > **📖 REFERENCIAS:**
-> - [← Volver a Fase 6](./00_Guia_General_Fase_6.md)
-> - [Sesión 18: Llegada a Tiempo](./01_Sesion_18_Llegada_a_Tiempo.md)
+> - [← Guía de la Fase 4 (Clímax)](./00_Guia_General_Fase_4.md) · [🏰 Torre de la Eternidad](../../00_Esquemas/03_Torre_Eternidad.md)
+> - [Llamada de los Dioses y asalto](./01_Sesion_13_El_Camino_al_Ritual.md)
 > - [Aethernus Valcarys - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md)
-> - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesiones 19-20
+> - [Motor de Campaña: Reloj y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 
 ---
 
@@ -280,8 +280,8 @@ mientras podáis. Porque el mundo que conocíais... ya no existe."
 ## 🔗 **REFERENCIAS**
 
 - **[Aethernus Valcarys - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md)**
-- **[Cronología Maestra - Sesiones 19-20](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesiones-19-20-batalla-final-por-fases)**
-- **[Fase 6: Batalla Final](./00_Guia_General_Fase_6.md)** - Información completa
+- **[Torre de la Eternidad](../../00_Esquemas/03_Torre_Eternidad.md)** - blueprint de los niveles y finales
+- **[Guía de la Fase 4](./00_Guia_General_Fase_4.md)** - contexto del clímax
 
 ---
 

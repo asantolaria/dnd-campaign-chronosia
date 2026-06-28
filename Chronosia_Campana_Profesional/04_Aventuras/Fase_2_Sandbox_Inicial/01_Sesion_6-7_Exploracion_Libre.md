@@ -61,7 +61,7 @@ Los PJ regresan a Cronópolis después de la Sesión 6. Deben planificar su pró
 - Mapa actualizado con 6 regiones desbloqueadas
 - Información básica sobre cada lugarteniente
 - Advertencias sobre niveles de dificultad
-- Sistema de balance temporal/dimensional explicado
+- El Reloj del Ritual explicado (el Contador en Cronópolis)
 
 **Elección de los PJ:**
 - Pueden elegir cualquier región de las 6 disponibles

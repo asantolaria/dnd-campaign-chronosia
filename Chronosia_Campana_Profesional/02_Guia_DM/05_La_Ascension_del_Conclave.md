@@ -1,41 +1,12 @@
-# ⚠️ DOCUMENTO OBSOLETO - La Ascensión del Cónclave
-## *Este sistema ha sido eliminado en la restructuración de la campaña*
+# ⚠️ La Ascensión del Cónclave — SISTEMA RETIRADO
 
----
+> Este sistema (competencia entre lugartenientes por puntos, "Lugartenientes Supremos" con poder ×3 e inmortalidad) **se retiró en el rediseño**. Su función —que los villanos desatendidos se vuelvan más peligrosos— la absorbe ahora **Edward Teach**, que caza y absorbe a los lugartenientes que los PJ no alcanzan.
 
-> **⚠️ ESTADO:** OBSOLETO  
-> **FECHA DE OBSOLECENCIA:** Diciembre 2025  
-> **RAZÓN:** El sistema de "Ascensión del Cónclave" ha sido eliminado en la nueva narrativa donde el ritual se completa la primera vez y los PJ viajan al pasado para prevenirlo.
+**Dónde está ahora cada cosa:**
 
----
+- **Presión y escalada** → [⏳ Motor de Campaña: Reloj y Puertas](./10_Motor_de_Campana_Reloj_y_Puertas.md) (el Reloj del Ritual; Teach absorbe lugartenientes).
+- **La guerra entre lugartenientes (caos tras la muerte de Thyra)** → [Caos Desencadenado](../04_Aventuras/Fase_1_Robos_Traicion/05_Inmediatamente_Despues_Caos_Desencadenado.md).
+- **Varrak (aliado / siervo / mártir) y su sacrificio** → [ficha de Varrak](./04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md).
+- **Eventos aleatorios y gritos de los dioses** → [19_Tablas_Eventos.md](../06_Recursos/Tablas/19_Tablas_Eventos.md).
 
-## 📋 **INFORMACIÓN**
-
-Este documento describía el sistema de competencia entre lugartenientes por el favor de Aethernus. Este sistema **ya no es relevante** en la nueva narrativa de la campaña.
-
-### **¿Por qué fue eliminado?**
-
-En la nueva narrativa:
-- El ritual se completa la primera vez (los PJ llegan tarde)
-- Aethernus se convierte en dios
-- Los lugartenientes vivos aumentan su poder dinámicamente (según decisiones de los PJ)
-- No hay competencia por "Supremos" - todos los lugartenientes vivos reciben poder divino
-- Los PJ viajan al pasado para prevenir el ritual
-
-### **Sistema de Reemplazo:**
-
-- **Sistema Dinámico de Lugartenientes:** Los lugartenientes vivos post-ritual se determinan por las decisiones de los PJ durante la campaña
-- **Anillos de Poder:** Todos los lugartenientes tienen anillos que canalizan poder divino de Aethernus
-- **Sin Competencia:** No hay sistema de puntos o competencia - el poder se otorga automáticamente cuando Aethernus se convierte en dios
-
----
-
-## 🔗 **REFERENCIAS**
-
-Para información sobre la nueva narrativa, consulta:
-- **[Fase 4: Ritual Completado](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)** - Nueva narrativa del ritual
-- **[Sistema de Anillos de Poder](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)** - Nuevo sistema de poder
-
----
-
-*Este documento se mantiene por razones históricas pero NO debe usarse en la campaña actual.* ⚠️📋
+*(Tumba de redirección: se conserva solo para que los enlaces antiguos no se rompan.)*

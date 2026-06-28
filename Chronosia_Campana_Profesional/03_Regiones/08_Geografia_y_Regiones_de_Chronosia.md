@@ -15,9 +15,9 @@
 ### **👑 Distribución de Lugartenientes**
 - [Tabla Maestra de Regiones y Lugartenientes](#-tabla-maestra-de-regiones-y-lugartenientes)
 - [Resumen Estadístico](#-resumen-estadístico)
-- [La Ascensión del Cónclave](#-la-ascensión-del-cónclave)
+- [La Guerra entre Lugartenientes](#-la-guerra-entre-lugartenientes)
 
-### **🔒 Sistema de Bloqueos y Desbloqueos**
+### **🔒 Sistema de Bloqueos y Desbloqueos (Mapa de Puertas)**
 - [Regiones Desbloqueadas](#-regiones-desbloqueadas)
 - [Sistema de Desbloqueos](#-sistema-de-desbloqueos)
 - [Objetos y Artefactos](#-objetos-y-artefactos)
@@ -37,7 +37,7 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 - **Espacio Distorsionado**: Las distancias cambian constantemente según la región
 - **Realidad Inestable**: Las leyes físicas pueden variar según la proximidad a los lugartenientes
 - **Portales Dimensionales**: Conexiones inestables con otros planos y dimensiones
-- **Balance Crítico**: Los PJ deben mantener equilibrio entre derrotar lugartenientes temporales y dimensionales
+- **El Reloj del Ritual**: La ascensión de Aethernus avanza mientras los PJ exploran. El tiempo es el recurso crítico (ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md))
 
 ---
 
@@ -58,7 +58,7 @@ Chronosia es un semiplano fracturado donde el tiempo y el espacio han sido disto
 - **Distorsión Principal**: **NINGUNA** - Cronópolis está protegida por el Cronómetro de Realidades
 - **Protección Especial**: El **Cronómetro de Realidades** (creado con el único Cristal de Estabilización que obtuvieron los Anacronistas) mantiene un campo de estabilidad alrededor de Cronópolis. Los poderes de los Cronófagos **NO tienen efecto** dentro de esta región protegida, convirtiendo a Cronópolis en una pequeña "Galia" - un bastión de estabilidad en medio del caos de Chronosia.
 - **Conexión Histórica con el Mar**: Los Anacronistas eligieron establecerse cerca del mar como un recordatorio de su origen común con los Oceánicos. Aunque eligieron la superficie en lugar de las profundidades, la proximidad al océano mantiene viva la memoria de que ambos pueblos fueron una vez los Chronianos. Algunos Anacronistas más ancianos aún recuerdan las historias de sus "hermanos de las profundidades" en Abysara.
-- **Líder Supremo**: Aethernus Valcarys (Manshoon Clone #47) - **Ubicado en la Torre de la Eternidad** (más allá del Valle de Thyra, en las montañas del norte), **FUERA** de la protección del Cronómetro
+- **El BBEG**: Aethernus Valcarys (Manshoon Clone #47) - **Ubicado en la Torre de la Eternidad** (más allá del Valle de Thyra, en las montañas del norte), **FUERA** de la protección del Cronómetro
 - **Población**: Ciudadanos refugiados que rara vez salen de los muros protectores
 - **Seguridad**: Único bastión completamente seguro en todo Chronosia gracias al Cronómetro de Realidades
 - **Facciones**: La Resistencia (Fortaleza de Acero), Anacronistas, Ingenieros/Gnomos
@@ -90,19 +90,19 @@ Cronosia es atacada periódicamente por grupos y asaltantes de distintas regione
 - **Significado**: Un recordatorio constante del precio de la seguridad y la libertad en Chronosia
 - **Visitas**: Los habitantes visitan regularmente el cementerio para honrar a los caídos y recordar que la seguridad tiene un costo
 
-#### **⚖️ El Indicador del Equilibrio – Monitor central del balance**
+#### **⏳ El Contador del Ritual – Monitor central de la ascensión**
 
-La curva de información del balance entre poderes temporales y dimensionales se resuelve en Cronópolis mediante un **artefacto de monitorización** construido por los artífices de la ciudad.
+El avance de la ascensión de Aethernus se hace visible en Cronópolis mediante el **Contador del Ritual**, un artefacto de monitorización que los Anacronistas y La Resistencia construyen en la ciudad (Fase 1-2).
 
-- **Nombre en la ciudad:** **Indicador del Equilibrio** (o *Balanza de Chronosia*). Los ingenieros y La Resistencia lo llaman técnicamente "Artilugio Detector de Balance".
-- **Creadores:** Din Goldgear y los Ingenieros/Artífices de Cronópolis, en colaboración con La Resistencia. Lo inventan y construyen **después de que los PJ derroten a su segundo lugarteniente**, cuando Din descubre la relación entre las bajas de lugartenientes y la estabilidad del mundo.
-- **Función:** Detectar y mostrar el **equilibrio o desequilibrio de poder mágico** entre fuerzas temporales (Amaunator) y dimensionales (Voidar). No solo alerta a los expertos: la ciudad puede **monitorizar** el estado del balance desde un punto central.
+- **Nombre en la ciudad:** **Contador del Ritual** (o *Reloj del Ritual*). Es un marcador de **8 segmentos** que empieza ya avanzado (2/8).
+- **Creadores:** Los Anacronistas (que detectan el flujo de poder divino del ritual) junto con Din Goldgear y los Ingenieros, que le construyen una lectura física y un monitor público.
+- **Función:** Mostrar cuánto le falta a Aethernus para completar su ascensión. **Avanza** al explorar regiones a fondo y con los hitos de Barbanegra; **se frena o retrocede** al derrotar a un lugarteniente crítico, con sabotaje de los Anacronistas, o con el sacrificio de Varrak. A **8/8** se produce la Llamada de los Dioses y se abre la Torre.
 - **Ubicación en Cronópolis:**
-  - **Dispositivo principal:** En el taller de Din Goldgear / Taller de los Ingenieros (o Fortaleza de Acero), donde se realizan las lecturas precisas y el mantenimiento.
-  - **Monitor público:** Una **réplica o pantalla conectada** al artefacto está instalada en un lugar céntrico y accesible —por ejemplo la **Plaza del Equilibrio** (junto a la Plaza del Reloj) o el atrio de la **Fortaleza de Acero**— de modo que la ciudadanía y los PJ puedan ver el estado del balance al volver a Cronópolis (luces, agujas, escalas o símbolos que indiquen equilibrio / desbalance leve / crítico).
-- **Ventaja narrativa:** Los PJ reciben la información del balance de forma natural al regresar a la ciudad: ven el Indicador, o un guardia/ingeniero les comenta "la Balanza ha empeorado". Así la curva de información del balance no depende solo de diálogos puntuales con NPCs; se **monitoriza desde la ciudad central** mediante un artefacto que los artífices mantienen y que refleja el poder mágico en juego.
+  - **Dispositivo principal:** En el taller de Din Goldgear / Taller de los Ingenieros (o Fortaleza de Acero), donde los Anacronistas hacen las lecturas precisas.
+  - **Monitor público:** Una **réplica o pantalla conectada** está instalada en un lugar céntrico —por ejemplo la **Plaza del Reloj** o el atrio de la **Fortaleza de Acero**— de modo que la ciudadanía y los PJ vean el avance del ritual al volver a Cronópolis (segmentos que se encienden uno a uno).
+- **El "hipo" del Contador:** Toda muerte de lugarteniente corta un canal de poder divino y el Contador lo acusa con un parpadeo / retroceso de medio segmento. Si los PJ no la causaron, los Anacronistas detectan la anomalía → gancho de investigación (es así como se destapa que Teach está cazando lugartenientes). Detalle completo en [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
-**⚠️ NOTA:** El Indicador solo existe **después de que los PJ derroten a su segundo lugarteniente**. Antes de ese momento, La Resistencia y los artífices no conocen el sistema de balance y no hay monitor central.
+**⏳ NOTA:** El Contador ya existe desde Fase 1-2 (lo construyen los Anacronistas + La Resistencia). Es la **fuente de presión central** de la campaña: un solo motor de tiempo, no un libro de cuentas de balance.
 
 ### **🌋 VOLCANIS - Las Tierras Ardientes del Sur**
 - **Clima**: Calor extremo con erupciones volcánicas constantes
@@ -110,7 +110,7 @@ La curva de información del balance entre poderes temporales y dimensionales se
 - **Distorsión Principal**: Portales dimensionales de fuego y manipulación espacial
 - **Lugarteniente**: Ignis el Devorador Espacial (Líder Dimensional)
 - **Población**: Ciudad de Fuego Eterno - Población atrapada en portales dimensionales
-- **Acceso**: 🔒 **Bloqueada** - Accesible pero extremadamente peligrosa (CR 15+)
+- **Acceso**: 🔒 **Bloqueada** - Se accede por el Motor de Viento / red de portales (nivel 8-10); derrotar a Ignis abre el ala dimensional profunda (Dimensionalis, Veldrisza)
 
 ### **🏝️ REGIONES DISTRIBUIDAS - Las Tierras Fracturadas**
 - **Clima**: Variable e impredecible, cambiando entre las cuatro estaciones
@@ -126,23 +126,23 @@ La curva de información del balance entre poderes temporales y dimensionales se
 ### **📊 Guía de Lectura:**
 - **Nivel**: Nivel recomendado de los PJ para enfrentar la región
 - **Disponibilidad**: 🔓 Desbloqueada | 🔒 Bloqueada | ⚰️ Inaccesible | 🔓→⚰️ Cambia de estado
-- **Desbloqueo**: Requisito para acceder a la región
-- **Bando**: Afiliación en "La Ascensión del Cónclave"
+- **Desbloqueo**: Puerta in-world que abre la región (ver [Mapa de Puertas](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md#-mapa-de-puertas-gating-de-regiones))
+- **Bando**: Sabor de la guerra entre lugartenientes (temporal / dimensional / independiente)
 
 | **#** | **Lugarteniente**                     | **Raza**              | **Tipo**    | **Región**                         | **Nivel** | **Disp.** | **Desbloqueo**                                                                                                                               |
 | ----- | ------------------------------------- | --------------------- | ----------- | ---------------------------------- | --------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | Valle de la Aguja Suspendida       | 6-8       | 🔒→⚰️     | Bloqueada (poder de estasis) → Muerta tras asesinato por Edward Teach (después del 3er lugarteniente)                                        |
+| ⚰️    | **Thyra la Suspendida**               | Humana                | Temporal    | Valle de la Aguja Suspendida       | —       | ⚰️     | **Inaccesible para los PJ** (barrera de estasis; solo Teach con el Talismán). La mata Teach como evento fijo de su cronología → el valle pasa a ser el umbral de la Torre |
 | 1     | **Serapis el Retroceso**              | Elfo Eterno           | Temporal    | La Espiral del Reloj de Arena      | 5-7       | 🔓        | Accesible desde el inicio                                                                                                                    |
 | 2     | **Ymir el Eterno Invierno**           | Elemental de Hielo    | Dimensional | Glacialis                          | 5-7       | 🔓        | Accesible desde el inicio                                                                                                                    |
 | 3     | **Varrak el Oráculo**                 | Orco                  | Temporal    | El Oráculo de los Posibles         | 7-9       | 🔒        | Derrotar 1+ lugarteniente                                                                                                                    |
 | 4     | **Medusa la Eterna**                  | Medusa Ancestral      | Temporal    | El Jardín de los Tiempos Gemelos   | 8-9       | 🔒        | Derrotar 2+ lugartenientes                                                                                                                   |
-| 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 9-11      | 🔒        | Derrotar 2+ lugartenientes + Espejo de Realidad (Gemelas o quest)                                                                            |
-| 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-11      | 🔒        | Espejo de Realidad Fragmentada (de Gemelas) O derrotar Ignis                                                                                 |
-| 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | El Valle de los Castillos Malditos | 10-12     | 🔒        | Derrotar 3+ lugartenientes                                                                                                                   |
-| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Dimensional | Archipiélago de Barbanegra         | 11-13     | 🔒→🔓     | Bloqueado al inicio (mar en calma) → Desbloqueado cuando La Resistencia inventa el Motor de Viento Perpetuo (después del asesinato de Thyra) |
-| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 10-12     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales                                                                           |
-| 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 11-13     | 🔒        | Edward Teach O Artefacto Gnomo O Varrak                                                                                                      |
-| 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Las Calderas Dimensionales         | 13-15     | 🔒        | Accesible desde inicio pero extremadamente peligrosa                                                                                         |
+| 5     | **Las Gemelas del Espejo**            | Humanas Gemelas       | Dimensional | El Jardín de los Tiempos Gemelos   | 9-10      | 🔒        | Derrotar 2+ lugartenientes + Espejo de Realidad (Gemelas o quest)                                                                            |
+| 6     | **Dimensionalis la Fracturada**       | Tiefling              | Dimensional | Las Llanuras de la Compresión      | 9-10      | 🔒        | **Derrotar a Ignis** (abre el ala dimensional profunda) O Espejo de Realidad Fragmentada (de Gemelas)                                        |
+| 7     | **Lord Vorthak "El Sediento Eterno"** | Vampiro Ancestral     | Temporal    | El Valle de los Castillos Malditos | 8-10      | 🔒        | Derrotar 3+ lugartenientes                                                                                                                   |
+| 8     | **Edward Teach "Barbanegra"**         | Humano Pirata         | Independiente | Archipiélago de Barbanegra         | 7-9     | 🔒→🔓     | Bloqueado (mar en calma muerta) → Se abre al construir el **Motor de Viento Perpetuo** = Rotor Infinito (derrotar **Serapis + Ymir**)        |
+| 9     | **Tempus el Fragmentado**             | Constructo Temporal   | Temporal    | Las Ruinas del Tiempo Perdido      | 8-10     | 🔒        | Arena del Tiempo (Serapis) O derrotar 3+ lugartenientes temporales                                                                           |
+| 10    | **Matrona Veldrisza**                 | Drow Matrona          | Dimensional | La Ciudad Subterránea de Veldrisza | 9-10     | 🔒        | **Derrotar a Teach** (abre Veldrisza) O Artefacto Gnomo O Varrak                                                                            |
+| 11    | **Ignis el Devorador Espacial**       | Dragón Rojo Ancestral | Dimensional | Volcanis                           | 8-10     | 🔒        | Acceso por el Motor de Viento / red de portales. **Derrotarlo abre el ala dimensional profunda** (Dimensionalis, Veldrisza)                |
 
 **📖 Ver documentos de regiones específicas:**
 - [10_Regiones_Temporales.md](./10_Regiones_Temporales.md) - Detalles de cada región temporal
@@ -152,100 +152,42 @@ La curva de información del balance entre poderes temporales y dimensionales se
 
 ## 📊 **RESUMEN ESTADÍSTICO**
 
-**⚠️ ESTADO INICIAL (Sesión 1-5):**
-- **Total Activo**: 12 (1 Líder Supremo + 12 Lugartenientes)
+**⚠️ ESTADO INICIAL (Fase 0-1):**
+- **Total Activo**: 12 lugartenientes + el BBEG (Aethernus, en la Torre)
 - **Lugartenientes Activos**: 12 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Medusa, Tempus, Thyra, Ymir)
 - **Lugartenientes Temporales**: 6 (Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra - viva al inicio)
 - **Lugartenientes Dimensionales**: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
 - **Lugartenientes Caídos**: 0
-- **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Valle de la Aguja Suspendida, Glacialis, Cronópolis)
-- **Regiones Bloqueadas**: 7
+- **Regiones de entrada**: La Espiral del Reloj de Arena (Serapis), Glacialis (Ymir), + Cronópolis (hub)
+- **Resto**: 🔒 tras puertas in-world (ver Mapa de Puertas)
 
-**⚠️ ESTADO POST-ASESINATO DE THYRA (Sesión 6+):**
-- **Total Activo**: 11 (1 Líder Supremo + 11 Lugartenientes)
-- **Lugartenientes Activos**: 11 (Serapis, Varrak, Vorthak, Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Medusa, Tempus, Ymir)
-- **Lugartenientes Temporales**: 5 (Serapis, Varrak, Vorthak, Medusa, Tempus)
-- **Lugartenientes Dimensionales**: 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
+**⚠️ ESTADO POST-ASESINATO DE THYRA (hito de Barbanegra):**
+- **Lugartenientes Activos**: 11 + el BBEG
 - **Lugartenientes Caídos**: 1 (⚰️ Thyra la Suspendida - asesinada por Edward Teach)
-- **Regiones Activas**: 12 (1 caída, 11 explorables)
-- **Regiones Desbloqueadas**: 4 (La Espiral del Reloj de Arena, Archipiélago de Barbanegra, Glacialis, Cronópolis)
-- **Regiones Bloqueadas**: 7
+- **El Reloj del Ritual**: da un **SALTO** con el asesinato de Thyra (el tiempo se detiene 10 s en toda Chronosia)
+- **Guerra entre lugartenientes**: empieza la rivalidad abierta; **Teach** comienza a cazar y absorber a los lugartenientes que los PJ no alcanzan, y crece
 
-**⚖️ Balance Crítico:**
-- **Temporales vs Dimensionales**: 5 vs 6 (desequilibrio hacia dimensional)
-- **Estrategia Recomendada**: Derrotar al menos 1 dimensional antes de enfrentar más temporales para mantener equilibrio
-- **⚠️ MECÁNICAS DE DESBALANCE**: El desequilibrio afecta directamente a los PJ (ver sistema de niveles de desbalance)
+**⏳ La presión la marca el Reloj del Ritual** (no un balance temporal/dimensional). Ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md). Los PJ realistamente resuelven 4-6 regiones antes de que el reloj llegue a 8 y se abra la Torre: el coste de oportunidad les obliga a **elegir**.
+
+> **Críticos (la historia pasa por ellos):** Aethernus (BBEG, Torre), **Edward Teach** (motor de la trama, villano final alternativo), **Ignis** (líder dimensional, puerta al ala profunda) y **Vorthak** (líder temporal). El resto es sabor de sandbox: evitables, aliables o ignorables — y si los ignoras, alimentan el Reloj/Teach.
 
 ---
 
-## ⚖️ **SISTEMA DE NIVELES DE DESBALANCE**
+## ⚔️ **LA GUERRA ENTRE LUGARTENIENTES**
 
-### **🎯 Concepto Central**
-El equilibrio entre lugartenientes temporales y dimensionales es crítico para la estabilidad de Chronosia. Cuando los PJ derrotan demasiados de un tipo sin equilibrar con el otro, el mundo se vuelve inestable y afecta directamente su capacidad de viajar, descansar y acceder a recursos.
-
-### **📊 Cálculo del Balance**
-- **Equilibrio:** Cuando el número de temporales derrotados es igual o muy similar al número de dimensionales derrotados (diferencia de 0-1)
-- **Desbalance:** Cuando hay una diferencia significativa entre temporales y dimensionales derrotados (diferencia de 2+)
-
-### **🔴 Estados del Balance**
-
-#### **🟢 EQUILIBRIO**
-- **Estado**: Todo funciona normalmente
-- **Cronópolis**: Completamente seguro y estable
-- **Viajes**: Sin problemas, portales funcionan al 100%
-- **Descanso**: Descanso largo disponible sin restricciones
-- **Recursos**: Comerciantes y NPCs funcionan normalmente
-- **Efectos**: Ninguno
-
-#### **⚠️ DESBALANCE**
-- **Lanzamientos**: 1d4 efectos por sesión
-- **Momento**: Al inicio de cada sesión
-- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-- **Advertencia**: Los explicadores (Zephyr, Varrak, Capitán Marcus) advierten sobre el desbalance
-- **⚠️ ACCIÓN ESPECIAL:** Si el desbalance es extremo (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
-
-### **👥 Explicadores del Balance**
-
-#### **🔮 Galen (Anacronistas) - Explicador Principal**
-*"Escuchad, jóvenes. Chronosia existe en un equilibrio precario entre dos fuerzas fundamentales: el Tiempo y el Espacio. Amaunator y Voidar, aunque prisioneros, siguen luchando. Su poder se filtra a través de sus lugartenientes."*
-
-*"Si derrotáis demasiados lugartenientes temporales sin equilibrar con los dimensionales, Amaunator se debilitará. El tiempo se volverá caótico, los portales temporales fallarán, y Cronópolis perderá su estabilidad."*
-
-*"Si derrotáis demasiados dimensionales sin equilibrar con los temporales, Voidar se debilitará. El espacio se fracturará, los portales dimensionales se volverán inestables, y las distancias cambiarán aleatoriamente."*
-
-*"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
-
-#### **🔮 Varrak del Horizonte - Confirmación Visual**
-*"Veo futuros donde el equilibrio se rompe. En uno, derrotáis a todos los lugartenientes temporales primero. El tiempo se detiene, Cronópolis se congela, y vosotros quedáis atrapados en estasis eterna."*
-
-*"En otro, derrotáis a todos los dimensionales primero. El espacio se colapsa, Cronópolis se fractura, y vosotros desaparecéis en el vacío dimensional."*
-
-*"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente."*
-
-#### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
-*"El artilugio de Din Goldgear detecta anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
-
-*"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
-
-**⚠️ NOTA**: El Capitán Marcus solo puede proporcionar estas advertencias **después de que los PJ derroten a su segundo lugarteniente**, momento en el que Din Goldgear inventa el artilugio detector de balance. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
-
----
-
-## ⚔️ **LA ASCENSIÓN DEL CÓNCLAVE (SIMPLIFICADA)**
-
-**📖 Ver documento completo:** [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)
+**📖 Ver documento:** [05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md) · Estructura y ritmo: [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 
 ### **🎯 Concepto Central**
 
-Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes activos compiten por el favor de Aethernus. Los PJ deben **mantener balance** entre derrotar temporales y dimensionales, o un dios prevalecerá causando catástrofe cósmica.
+Tras el asesinato de Thyra por Edward Teach, estalla la rivalidad abierta entre los lugartenientes activos. No compiten por "ascender" a un poder ×3 ni se vuelven inmortales: la escalada real la encarna **Edward Teach**, que con su Talismán **absorbe a cada lugarteniente que los PJ no alcanzan primero** y crece. Cuanto más desatiendan a Teach, más fuerte llega él a la Torre.
 
-### **⚔️ Tres Bandos:**
+### **⚔️ Bandos (sabor de sandbox):**
 - **⏰ Temporal**: Vorthak (Líder), Serapis
-- **🌌 Dimensional**: Ignis (Líder), Veldrisza  
+- **🌌 Dimensional**: Ignis (Líder), Veldrisza
 - **🏴‍☠️ Independientes**: Edward Teach, Dimensionalis
-- **🟡 Neutrales**: Varrak, Las Gemelas (deciden en Sesión 11)
+- **🟡 Indecisos**: Varrak, Las Gemelas (eligen bando en Fase 3)
 
-### **⚠️ Balance Crítico:** 5 Temporales vs 6 Dimensionales → Los PJ deben derrotar al menos 1 dimensional antes de más temporales para mantener equilibrio
+### **⏳ La presión real:** el **Reloj del Ritual**. Cada región explorada lo avanza; derrotar a un lugarteniente crítico (Vorthak, Ignis o Teach) lo frena. A 8/8 → Llamada de los Dioses → se abre la Torre.
 
 ---
 
@@ -263,8 +205,8 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 #### **2. Valle de la Aguja Suspendida (Thyra la Suspendida)**
 - **Tipo**: Temporal Principal
 - **Nivel**: 6-8
-- **Acceso**: 🔒 **BLOQUEADA** (Sesión 1+) → 🔓 **ACCESIBLE** (Después del 3er lugarteniente) - Thyra tiene poder de bloqueo que hace la región inaccesible hasta su muerte
-- **⚠️ CAMBIO DE ESTADO**: La estasis desaparece tras el asesinato por Edward Teach (después del 3er lugarteniente), haciendo la región accesible
+- **Acceso**: ⚰️ **INACCESIBLE para los PJ** - El Valle de la Aguja queda **vedado para el grupo**: solo Teach, con el Talismán, puede penetrar la barrera de estasis. Tras su asesinato (evento fijo de Barbanegra), la estasis cae y el valle se vuelve **el camino a la Torre** (que solo se abre con el Reloj a 8)
+- **⚠️ CAMBIO DE ESTADO**: La estasis desaparece tras el asesinato por Edward Teach (hito de su cronología), dejando el valle devastado como umbral hacia la Torre
 - **🏰 FUNCIÓN ESPECIAL**: Punto de partida hacia la Torre de la Eternidad, ubicada más allá del valle en las montañas del norte
 - **Mecánica Especial**: 
   - **Campo de Estasis Perimetral (ANTES):** Barrera de estasis temporal que envuelve la región (5 millas de radio)
@@ -343,10 +285,10 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 - **Tipo**: Dimensional Principal / Independiente
 - **Recompensa**: Elección entre **Brújula Dimensional** O **Fragmento de Realidad** (el no elegido se destruye)
 
-#### **Las Calderas Dimensionales (Ignis el Devorador Espacial)**
+#### **Volcanis – Las Calderas Dimensionales (Ignis el Devorador Espacial)**
 - **Efecto de Bloqueo**: "El calor extremo y los portales dimensionales de fuego hacen casi imposible el acceso"
-- **Desbloqueo**: Accesible desde el inicio PERO **extremadamente peligrosa** (CR 15+, combate de dragón rojo ancestral)
-- **Nivel**: 12-14
+- **Desbloqueo**: Acceso por el **Motor de Viento / red de portales**. **Derrotar a Ignis abre el ala dimensional profunda** (Dimensionalis, Veldrisza)
+- **Nivel**: 8-10
 - **Tipo**: Dimensional Principal / Líder del Bando Dimensional
 - **Recompensa**: Tesoros de dragón rojo ancestral
 
@@ -361,11 +303,11 @@ Tras el asesinato de Thyra por Edward Teach (Sesión 5-6), los 11 lugartenientes
 - **Requisito para el Rotor**: Los PJ deben derrotar a Serapis (Núcleo Temporal) Y Ymir (Carcasa Helada)
 - **Construcción del Motor**: Los Ingenieros construyen el Motor en 2 semanas (requiere 10,000 po en materiales adicionales)
 - **Desbloqueo**: Una vez construido el Motor, los PJ pueden navegar el mar en calma y acceder al Archipiélago
-- **Estado Inicial**: 🔒 **BLOQUEADO** (Sesión 1-5)
+- **Estado Inicial**: 🔒 **BLOQUEADO** (mar en calma muerta)
 - **Efecto de Bloqueo**: Mar en Calma (sin viento, imposible navegar)
-- **Cambio de Estado**: 🔓 **DESBLOQUEADO** tras asesinar a Thyra (Sesión 6)
-- **Tipo**: Dimensional Principal / Independiente
-- **Nivel**: 11-13 ⚠️ **MUY PELIGROSO** (ha asesinado a Thyra y robado su poder)
+- **Cambio de Estado**: 🔓 **DESBLOQUEADO al construir el Motor de Viento Perpetuo** (= Rotor Infinito = derrotar **Serapis + Ymir**). NO depende del asesinato de Thyra: los PJ ven crecer a Teach de lejos y solo le llegan hacia nivel 7-9
+- **Tipo**: Independiente
+- **Nivel**: 7-9 ⚠️ **MUY PELIGROSO** (ha asesinado a Thyra y robado su poder; crece absorbiendo a los lugartenientes que los PJ no alcanzan)
 - **Mecánica Especial**: Batalla naval obligatoria (barco gigante intercepta), combate con poderes híbridos (pirata + estasis temporal)
 - **Bando**: Independiente
 - **⚠️ Advertencia**: Es un punto ciego para Varrak (afecta profecías)
@@ -476,32 +418,32 @@ Cuando dos lugartenientes se enfrentan directamente (duelo, batalla abierta, con
 
 ## 🎯 **RUTAS RECOMENDADAS**
 
-### **Ruta 1: Equilibrio Temprano (RECOMENDADA para mantener balance)**
+### **Ruta 1: Hacia el Mar (RECOMENDADA — abre las puertas centrales)**
 
 | **Orden** | **Lugarteniente** | **Tipo** | **Nivel** | **Artefacto Obtenido** | **Notas** |
 |-----------|-------------------|----------|-----------|------------------------|-----------|
-| 1 | Serapis el Retroceso | Temporal | 5-7 | **Núcleo Temporal** (parte 1 del Rotor Infinito) | Primera región, mecánica del Reloj de Arena |
-| 2 | Ymir el Eterno Invierno | Dimensional | 5-7 | **Carcasa Helada** (parte 2 del Rotor Infinito) | Menor, relativamente fácil |
-| 3 | Varrak el Oráculo | Temporal | 7-9 | Visión (si aliado) | **CRÍTICO**: Sesión 11, puede ser aliado |
+| 1 | Serapis el Retroceso | Temporal | 5-7 | **Núcleo Temporal** (parte 1 del Rotor Infinito) | Región de entrada, mecánica del Reloj de Arena |
+| 2 | Ymir el Eterno Invierno | Dimensional | 5-7 | **Carcasa Helada** (parte 2 del Rotor Infinito) | Región de entrada; con ambas partes → **Motor de Viento** → abre el mar (Teach) |
+| 3 | Varrak el Oráculo | Temporal | 7-9 | Visión (si aliado) | **CRÍTICO**: elige bando en Fase 3, puede ser aliado |
 | 4 | Medusa la Eterna | Temporal | 8-9 | Objetos de estasis | Menor, región compartida |
-| 5 | Las Gemelas del Espejo | Dimensional | 9-11 | Espejo de Realidad Fragmentada | Neutrales, región compartida |
-| 6 | Dimensionalis la Fracturada | Dimensional | 9-11 | Brújula Dimensional | Requiere Espejo O derrotar Ignis |
-| 7 | Lord Vorthak | Temporal | 10-12 | Objetos de drenaje temporal | Líder Temporal, 4-6 castillos |
-| 8 | Edward Teach | Dimensional | 11-13 | Tesoros piratas + poderes híbridos | **DESBLOQUEADO** tras asesinar a Thyra |
-| 9 | Tempus el Fragmentado | Temporal | 10-12 | Objetos de bucles | Requiere Arena del Tiempo |
-| 10 | Matrona Veldrisza | Dimensional | 11-13 | Hilo de Lolth O Red | Múltiples desbloqueos |
-| 11 | Ignis el Devorador Espacial | Dimensional | 13-15 | Tesoros de dragón ancestral | Boss final antes de Aethernus |
+| 5 | Las Gemelas del Espejo | Dimensional | 9-10 | Espejo de Realidad Fragmentada | Indecisas, región compartida |
+| 6 | Dimensionalis la Fracturada | Dimensional | 9-10 | Brújula Dimensional | **Requiere derrotar Ignis** (ala dimensional profunda) O Espejo |
+| 7 | Lord Vorthak | Temporal | 8-10 | Objetos de drenaje temporal | Líder Temporal (crítico), 4-6 castillos |
+| 8 | Edward Teach | Independiente | 7-9 | Tesoros piratas + poderes híbridos | **Se abre con el Motor de Viento** (Serapis + Ymir) |
+| 9 | Tempus el Fragmentado | Temporal | 8-10 | Objetos de bucles | Requiere Arena del Tiempo |
+| 10 | Matrona Veldrisza | Dimensional | 9-10 | Hilo de Lolth O Red | Se abre tras derrotar Teach (o por Ignis / Varrak) |
+| 11 | Ignis el Devorador Espacial | Dimensional | 8-10 | Tesoros de dragón ancestral | Líder dimensional (crítico); abre el ala profunda |
 
-**Balance Final:** 4 Temporales vs 7 Dimensionales (incluyendo Medusa y región compartida)
+> **El Reloj manda:** no hay tiempo para los 11. Cada región a fondo avanza el Reloj del Ritual; los PJ realistamente harán 4-6 antes de que se abra la Torre. Derrotar a un lugarteniente **crítico** (Vorthak, Ignis, Teach) frena el Reloj.
 
 ### **Ruta 2: Exploración Libre**
 
-Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derrotan demasiados de un tipo.
+Los PJ eligen su propio orden respetando las puertas in-world (Mapa de Puertas). El coste no es un "desbalance", sino el **tiempo**: cada arco de región avanza el Reloj del Ritual y deja crecer a Teach con lo que dejan sin tocar.
 
-**Sistema de Advertencias:**
-- Después de derrotar 2 temporales consecutivos → Eventos cósmicos de advertencia (Amaunator se debilita)
-- Después de derrotar 3 dimensionales consecutivos → Eventos cósmicos de advertencia (Voidar se debilita)
-- Si el desbalance llega a 4-5 de diferencia → Catástrofe cósmica inminente
+**Recordatorio de ritmo:**
+- Explorar una región a fondo → +1 segmento del Reloj
+- Desatender a Teach (que cace a otro lugarteniente) → +1 y Teach crece
+- Derrotar a un crítico, sabotaje de los Anacronistas o sacrificio de Varrak → frena o retrocede el Reloj
 
 ---
 
@@ -509,9 +451,9 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 
 ### **🗺️ Uso de la Geografía:**
 - **Variedad**: Cada región ofrece experiencias únicas (Reloj de Arena en Serapis, Mar en Calma en Barbanegra, Castillos Vampíricos en Vorthak)
-- **Progresión**: Los PJ pueden explorar regiones en cualquier orden respetando bloqueos
+- **Progresión**: Los PJ pueden explorar regiones en cualquier orden respetando las puertas in-world
 - **Adaptación**: Ajusta las dificultades según el nivel de los PJ
-- **Narrativa**: Usa la geografía para avanzar la historia de "La Ascensión del Cónclave"
+- **Narrativa**: Usa la geografía para hacer sentir el avance del Reloj del Ritual y el crecimiento de Teach
 
 ### **⚔️ Combates por Región:**
 - **Glacialis**: Combates lentos y tácticos (frío extremo)
@@ -529,15 +471,14 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 - **El Oráculo de los Posibles**: Roleplay intenso con Varrak, decisiones morales que afectan su alineación
 - **Valle de los Castillos Malditos**: Horror gótico, exploración de castillos embrujados
 
-### **🎲 Balance Temporal/Dimensional:**
-- **Trackea constantemente** el número de lugartenientes temporales vs dimensionales derrotados
-- **Usa eventos cósmicos** para advertir a los PJ del desbalance:
-  - Cielos que se oscurecen
-  - Terremotos temporales/espaciales
-  - NPCs que mencionan "anomalías crecientes"
-  - Visiones de Varrak que muestran futuros catastróficos
-- **Ofrece información** sobre el balance a través de los Anacronistas y los Guardianes del Oráculo
-- **No penalices inmediatamente** - Da 2-3 advertencias antes de consecuencias graves
+### **⏳ El Reloj del Ritual:**
+- **Trackea el Reloj** (8 segmentos, empieza en 2/8): avanza al explorar regiones a fondo y con los hitos de Teach
+- **Hazlo visible** a través del Contador del Ritual de Cronópolis y de señales del mundo:
+  - El asesinato de Thyra detiene el tiempo 10 s en toda Chronosia (SALTO del Reloj)
+  - "Hipos" del Contador que los PJ no provocaron → pista de que Teach caza lugartenientes
+  - Rumores de marineros, refugiados oceánicos, Anacronistas alarmados
+- **Frénalo** cuando los PJ derroten a un crítico (Vorthak, Ignis, Teach), saboteen con los Anacronistas o con el sacrificio de Varrak
+- **Es ritmo, no cronómetro estricto** - el DM decide cuándo cae un segmento (ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md))
 
 ### **🔧 Sistema de Artefactos de Ingeniería:**
 - **Introduce temprano** a los Ingenieros/Gnomos de Cronópolis (sesión 1-2)
@@ -556,26 +497,24 @@ Los PJ eligen su propio orden, pero deben ser advertidos del desbalance si derro
 ## 📝 **NOTAS DE DESARROLLO**
 
 ### **✅ Completado:**
-- Distribución de 11 lugartenientes activos + 1 caída
-- Sistema de "La Ascensión del Cónclave" simplificado con 3 bandos
-- Varrak el Oráculo como personaje neutral con sistema de elección
-- Edward Teach reposicionado como nivel 11-13 (refleja poder robado de Thyra)
-- Balance crítico entre poderes temporales y dimensionales
-- Sistema de bloqueos regionales con múltiples métodos de desbloqueo
+- Distribución de 12 lugartenientes activos (Thyra cae como hito de Teach)
+- Guerra entre lugartenientes con bandos como sabor (la escalada la encarna Teach)
+- Varrak el Oráculo como personaje indeciso con sistema de elección
+- Edward Teach reposicionado a nivel 7-9 (se le llega por mar, tras el Motor de Viento)
+- **Reloj del Ritual** como único motor de presión (sustituye al balance temporal/dimensional)
+- **Mapa de Puertas**: bloqueos regionales con razón in-world
 - Mecánicas de recompensas con elección destructiva
-- **Tabla maestra consolidada con niveles reordenados por dificultad real**
-- **Sistema de artefactos expandido a 5 artefactos con desbloqueos múltiples**
-- **Rotor Infinito mejorado**: Historia completa, componentes fragmentados, quest givers, portal a Faerún
-- **Rutas recomendadas con columna de artefactos obtenidos**
+- **Tabla maestra consolidada con niveles rescalados a techo 10**
+- **Sistema de artefactos expandido con desbloqueos múltiples**
+- **Rotor Infinito**: Historia completa, componentes fragmentados, quest givers, portal a Faerún
 - Región del Reloj de Arena completamente desarrollada con sistema jugable
-- **CRONOLOGÍA CORREGIDA**: Thyra viva al inicio, Teach bloqueado hasta Sesión 6
 
 ### **🎯 Objetivos de Diseño:**
 - **Variedad**: Cada región debe sentirse única con mecánicas distintivas
 - **Coherencia**: Las distorsiones deben ser consistentes con el tipo de lugarteniente
 - **Jugabilidad**: Cada región debe ofrecer diferentes tipos de desafíos (combate, puzzles, roleplay, gestión de recursos)
 - **Narrativa**: La geografía debe servir a la historia principal de liberación de los dioses
-- **Balance**: El sistema de equilibrio añade tensión estratégica sin ser punitivo
+- **Presión**: El Reloj del Ritual añade tensión estratégica (coste de oportunidad) sin ser punitivo
 - **Flexibilidad**: Múltiples caminos de desbloqueo para dar agencia a los PJ
 - **Consecuencias**: Las acciones de los PJ deben tener peso narrativo visible
 

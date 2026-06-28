@@ -85,11 +85,10 @@ Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organizaci
 
 ## ⚠️ **MECÁNICA CRÍTICA**
 
-Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Dado que hay 5 temporales y 6 dimensionales (después de la muerte de Thyra), el equilibrio está **desbalanceado hacia lo dimensional**. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
+Los PJ no pueden enfrentar a los 12 lugartenientes: el **Reloj del Ritual** (la cuenta atrás de la ascensión de Aethernus) avanza mientras exploran, así que tienen que elegir a quién derrotar. Matar a un crítico (Vorthak, Ignis o el propio Teach) corta un canal de poder divino y **frena** el ritual; los lugartenientes que dejen sin tocar serán **absorbidos por Edward Teach**, que crece con cada uno.
 
-**📖 Para más detalles sobre el sistema de balance:**
-- [Sistema de Balance Temporal/Dimensional](../01_Dirigir_Campana.md#-sistema-de-balance-temporal-dimensional)
-- [Tablas de Tracking](../../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#3-balance-temporal-dimensional)
+**📖 Para más detalles sobre el motor de campaña:**
+- [Motor de Campaña — El Reloj del Ritual y el Mapa de Puertas](../10_Motor_de_Campana_Reloj_y_Puertas.md) (fuente única)
 
 ---
 
@@ -117,7 +116,7 @@ Para información completa sobre los Cronófagos, incluyendo:
 ## 🔗 **REFERENCIAS RELACIONADAS**
 
 - **Lugartenientes Detallados**: [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) (ver archivos individuales para statblocks completos)
-- **Sistema de Competencia**: [05_La_Ascension_del_Conclave.md](../05_La_Ascension_del_Conclave.md)
+- **Motor de Campaña (Reloj del Ritual y escalada de Teach)**: [10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md)
 - **Dinámicas con Otras Facciones**: [06_Dinamicas_Entre_Facciones.md](./06_Dinamicas_Entre_Facciones.md)
 
 ---

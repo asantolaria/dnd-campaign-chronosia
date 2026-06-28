@@ -21,12 +21,9 @@
 - **Asesinato de Thyra la Suspendida** (después del 3er lugarteniente). Thyra está en una **zona inaccesible** (Valle de la Aguja Suspendida, barrera de estasis); **solo Teach con el Talismán** puede penetrarla. Los PJ no pueden plantearse salvarla — no es que fallen, es que solo Teach tiene el poder para llegar hasta ella.
 - **Guerra espontánea** entre lugartenientes (inmediatamente después del asesinato de Thyra).
 
-### **Fase 4 (Ritual Completado)**
-- **Batalla contra Edward Teach** y **completado del ritual de ascensión**. Aethernus se convierte en dios; los dioses (Amaunator y Voidar) mueren. Los PJ llegan tarde: el ritual se completa la primera vez. **Punto de no retorno.**
-
-### **Fases 5-6**
-- **Viaje al pasado** (máquina salta-mundos) y **llegada a tiempo** al ritual en el pasado.
-- **Batalla final** contra Aethernus (prevenir el ritual en la línea temporal del pasado).
+### **Fase 4 (Clímax — La Torre de la Eternidad)**
+- **La Llamada de los Dioses:** cuando el **Reloj del Ritual llega a 8/8**, Amaunator y Voidar claman públicamente y se revela la ubicación de la Torre. Esto **siempre ocurre** (el Reloj siempre acaba llegando a 8).
+- **Se abre la Torre** y empieza el asalto. *El desenlace NO es fijo:* depende del tablero (a quién derrotaron, si Teach intercepta, si reunieron a las facciones) → uno de los **4 finales**. Ver [Motor de Campaña](./10_Motor_de_Campana_Reloj_y_Puertas.md) y [Torre de la Eternidad](../00_Esquemas/03_Torre_Eternidad.md).
 
 ---
 

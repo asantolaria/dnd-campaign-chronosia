@@ -121,7 +121,7 @@
 
 **⚠️ NOTAS IMPORTANTES:**
 - **Acciones Legendarias:** Cada lugarteniente tiene un número FIJO de acciones legendarias por ronda definido en su propio statblock (estándar 5e: los ápice 3/ronda, los medios 2/ronda, los menores 0-2). Los detalles completos están en cada archivo individual
-- **Balance Crítico:** Los PJ deben mantener balance entre poderes temporales y dimensionales
+- **Reloj del Ritual:** Los PJ no pueden enfrentarlos a todos; la cuenta atrás del ritual avanza mientras exploran. Ver [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md)
 - **Efectos al Morir:** ⚠️ **IMPORTANTE:** Cuando un lugarteniente muere (ya sea por los PJ o por otro lugarteniente), su región se restaura completamente a la normalidad. Todas las distorsiones temporales o dimensionales causadas por su poder desaparecen gradualmente en 1d4 horas, eliminando las disfunciones y volviendo la región a un estado normal sin anomalías. Este efecto aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
 - **Información Ultra-Secreta:** Edward Teach y Aethernus tienen información crítica marcada como "ULTRA-SECRETA"
 
@@ -274,7 +274,7 @@ Estas recompensas mantienen a los Cronófagos leales y motivados para servir a s
 
 Un consejo originalmente de doce seres de distintas razas, cada uno deformado por su exposición al poder de los dioses en conflicto. Seis recibieron fragmentos del poder temporal de Amaunator, mientras que otros seis absorbieron fragmentos del poder espacial de Voidar.
 
-**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **11 lugartenientes activos** en la campaña. Los lugartenientes que los PJ no derroten antes del ritual completado aumentarán su poder después (sistema dinámico según decisiones de los PJ).
+**⚠️ ESTADO ACTUAL:** Tras el asesinato de Thyra la Suspendida por Edward Teach, quedan **11 lugartenientes activos** en la campaña. A los lugartenientes que los PJ no alcancen a tiempo los **absorbe Edward Teach** con el Talismán: él crece, no ellos. Ver [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 **📖 Ver sistema de anillos de poder:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)
 
@@ -325,25 +325,23 @@ Cada lugarteniente tiene un número **FIJO** de acciones legendarias por ronda, 
 - **Regiones Bloqueadas**: 7
 - **Valle de la Aguja Suspendida**: ⚰️ Bloqueada permanentemente tras la muerte de Thyra
 
-**👑 LA ASCENSIÓN DEL CÓNCLAVE:**
+**👑 LA GUERRA CIVIL ENTRE LUGARTENIENTES:**
 
-El asesinato de Thyra desencadenó la competencia entre lugartenientes. Todos los lugartenientes participan activamente en la lucha por el poder. Ver documento completo: [05_La_Ascension_del_Conclave.md](../05_La_Ascension_del_Conclave.md)
+El asesinato de Thyra desencadenó una guerra civil entre lugartenientes: cada uno descubre que puede robar el poder de otro, igual que hizo Teach. Es sabor de sandbox, pero la **escalada real la encarna Edward Teach**, que absorbe a los lugartenientes que los PJ no alcanzan. Ver el motor de campaña: [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 **Bandos Activos:**
 - ⏰ **Bando Temporal** (variable según alianzas) - Liderado por Lord Vorthak
 - 🌌 **Bando Dimensional** (variable según alianzas) - Liderado por Ignis
 - 🏴‍☠️ **Independientes** (variable según alianzas) - Edward Teach, Dimensionalis, otros
-- 🟡 **Neutrales** (variable según decisiones) - Varrak (hasta Sesión 11), Las Gemelas, otros
+- 🟡 **Neutrales** (variable según decisiones) - Varrak (decide más adelante en el sandbox), Las Gemelas, otros
 
-**⚠️ MECÁNICA CRÍTICA DE BALANCE:** 
+**⚠️ MECÁNICA CRÍTICA — EL RELOJ DEL RITUAL:** 
 
-Los PJ deben mantener balance entre poderes temporales y dimensionales. El desequilibrio actual (5 temporales vs 6 dimensionales post-Thyra) favorece lo dimensional. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer, provocando catástrofe cósmica.
+Los PJ no pueden combatir a los 12: el **Reloj del Ritual** avanza mientras exploran y deben elegir. Matar a un crítico (Vorthak, Ignis, Teach) corta un canal de poder divino y **frena** el ritual; los que dejen sin tocar los **absorbe Teach**. Detalles en [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 **⚠️ ACCIÓN ESPECIAL - SACRIFICIO DE VARRAK:**
 
-Si el balance alcanza **desbalance crítico (diferencia de 4+)**, Varrak del Horizonte (probablemente aliado de los PJ) tomará la decisión de quitarse la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Este sacrificio restaurará el balance y estabilizará Chronosia, pero los PJ perderán un aliado poderoso. Ver [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) para detalles completos.
-
-**Estrategia Recomendada:** Derrotar al menos 1 dimensional antes de enfrentar más temporales para mantener equilibrio y evitar el sacrificio de Varrak.
+Con el **Reloj del Ritual en zona crítica (≥6/8)** y si Varrak es aliado de los PJ, el oráculo se ofrece voluntariamente: su harakiri ritual libera su esencia temporal, **retrocede el Reloj 1 segmento** y alimenta el momento del funeral de Marcus. Ya no se dispara por "desbalance", sino por la relación construida y la cuenta atrás. Ver [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) y el motor de campaña.
 
 ---
 
@@ -383,8 +381,8 @@ Si el balance alcanza **desbalance crítico (diferencia de 4+)**, Varrak del Hor
 ### **3. Varrak del Horizonte (Orco)**
 - **Poder**: Ha vivido millones de vidas a la vez: anciano y niño simultáneamente. Predice futuros porque los ha experimentado ya
 - **Región**: El Abismo de los Posibles
-- **⚠️ Acción Especial:** Si el balance temporal/dimensional alcanza desbalance crítico (diferencia de 4+), Varrak se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica
-- **⚔️ Ficha Completa:** [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) (incluye detalles del sacrificio por equilibrio)
+- **⚠️ Acción Especial:** Con el Reloj del Ritual en zona crítica (≥6/8) y si es aliado de los PJ, Varrak se sacrifica voluntariamente: su muerte estabiliza el flujo y **retrocede el Reloj 1 segmento**
+- **⚔️ Ficha Completa:** [02_Varrak_El_Oraculo.md](./02_Varrak_El_Oraculo.md) (incluye detalles del sacrificio)
 
 ### **4. Lord Vorthak "El Sediento Eterno" (Vampiro Ancestral)**
 - **Poder**: Su sed de sangre es tan intensa que puede drenar la vida temporal de sus víctimas, acelerando su envejecimiento mientras él se rejuvenece
@@ -435,7 +433,7 @@ Edward Teach NO es solo un oportunista que roba poder. Es el **único lugartenie
 - Teach es el **único lugarteniente realmente peligroso** para el plan de Manshoon
 - Puede convertirse en **aliado temporal de los PJ** si descubren la verdad
 - Puede convertirse en el **villano final alternativo** si roba suficiente poder
-- Sus acciones están **desestabilizando** el equilibrio sin que Manshoon lo sepa
+- Sus acciones están **acelerando el caos y la cuenta atrás del ritual** sin que Manshoon lo sepa
 
 **Información que Teach Posee:**
 - Ubicación aproximada de la Torre de la Eternidad (sede de Manshoon)

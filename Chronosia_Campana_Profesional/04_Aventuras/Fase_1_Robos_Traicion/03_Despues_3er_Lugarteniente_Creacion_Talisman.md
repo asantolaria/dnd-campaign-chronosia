@@ -96,7 +96,7 @@ se unen. El Talismán de Interceptación Divina... casi está completo."
 #### **Opción A: Intentan Interrumpir el Ritual**
 
 **Si los PJ Intentan Interrumpir:**
-- **Combate Épico:** Edward Teach (CR 17) + 6 Piratas Élite (CR 8 cada uno)
+- **Combate Épico:** Edward Teach (CR 11-12) + 6 Piratas Élite (CR 8 cada uno)
 - **Muy Difícil:** Para nivel 5, es un combate extremadamente difícil
 - **⚠️ IMPORTANTE:** Aunque los PJ interrumpan, Teach completa el ritual de todas formas (puede retirarse y completarlo después, o completarlo durante el combate)
 

@@ -12,81 +12,81 @@
 
 ## 📋 **ÍNDICE DE TABLAS**
 
-1. [Balance Temporal/Dimensional](#1-balance-temporal-dimensional)
+1. [Reloj del Ritual](#1-reloj-del-ritual)
 2. [Desbloqueo de Regiones](#2-desbloqueo-de-regiones)
 3. [Progresión de Niveles de los PJ](#3-progresión-de-niveles-de-los-pj)
 4. [Estado de Lugartenientes](#4-estado-de-lugartenientes)
-5. [Anillos de Poder](#5-anillos-de-poder)
-6. [Estado de Máquina Salta-Mundos](#6-estado-de-máquina-salta-mundos)
-7. [Resumen General de Sesión](#7-resumen-general-de-sesión)
+5. [Reliquias de los Lugartenientes](#5-reliquias-de-los-lugartenientes)
+6. [Resumen General de Sesión](#6-resumen-general-de-sesión)
 
 ---
 
-## 3. **BALANCE TEMPORAL/DIMENSIONAL**
+## 1. **RELOJ DEL RITUAL**
 
-### **⚖️ Tabla de Balance**
+> Única cuenta de presión de la campaña. Marcador de **8 segmentos** (empieza en **2/8**) que mide la ascensión de Aethernus. A 8 → **Llamada de los Dioses** → se abre la Torre (Fase 4). Fuente: [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
-| **Sesión** | **Fecha** | **Temporales Derrotados** | **Dimensionales Derrotados** | **Diferencia** | **Estado** | **Efectos Activos** |
-|------------|-----------|---------------------------|------------------------------|----------------|------------|---------------------|
-| **1** | | 0 | 0 | 0 | ✅ Equilibrio | Ninguno |
-| **2** | | 0 | 0 | 0 | ✅ Equilibrio | Ninguno |
-| **3** | | 0 | 0 | 0 | ✅ Equilibrio | Ninguno |
-| **4-5** | | 0 | 0 | 0 | ✅ Equilibrio | Ninguno |
-| **6** | | 0 | 0 | 0 | ⚠️ Desequilibrio Inicial | 4T vs 5D (post-Thyra) |
-| **7** | | | | | | |
-| **8** | | | | | | |
-| **9** | | | | | | |
-| **10** | | | | | | |
-| **11** | | | | | | |
-| **12** | | | | | | |
+### **⏳ Marcador**
 
-### **📊 Estado Inicial (Sesión 6):**
-- **Temporales Activos:** 4 (Serapis, Varrak, Vorthak, Medusa, Tempus)
-- **Dimensionales Activos:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Diferencia:** -1 (favorable a dimensionales)
+```
+[▓][▓][░][░][░][░][░][░]   ← empieza en 2/8
+ 0  1  2  3  4  5  6  7  8 → LLAMADA DE LOS DIOSES
+```
 
-### **📝 Estados del Balance (SIMPLIFICADO):**
+### **⏳ Tracking por Sesión**
 
-| **Estado** | **Condición** | **Efectos por Sesión** | **Descripción** |
-|------------|---------------|------------------------|-----------------|
-| **🟢 Equilibrio** | Diferencia 0-1 | Ninguno | Todo normal |
-| **⚠️ Desbalance** | Diferencia 2+ | 1d4 efectos | Advertencias y efectos. Si es extremo (4+), Varrak puede sacrificarse |
+| **Sesión** | **Fecha** | **Segmento (X/8)** | **Movimiento esta sesión** | **Causa** | **Notas** |
+|------------|-----------|--------------------|----------------------------|-----------|-----------|
+| **1** | | 2/8 | — | Estado inicial | |
+| **2-3** | | | | | |
+| **4-5** | | | | Hito de Teach (Thyra → salto) | |
+| **6** | | | | | |
+| **7** | | | | | |
+| **8** | | | | | |
+| **9** | | | | | |
+| **10** | | | | | |
+| **11** | | | | | |
+| **12** | | | | | |
 
-### **⚠️ ACCIÓN ESPECIAL: SACRIFICIO DE VARRAK**
+### **📊 Qué mueve el Reloj:**
 
-**Si el desbalance alcanza 4+ (Desbalance Crítico):**
+| **Movimiento** | **Causa** |
+|----------------|-----------|
+| ⬆️ **+1** | Explorar una región a fondo (≈+1 por arco resuelto) |
+| ⬆️ **+1 / salto** | Hito de Teach (el asesinato de Thyra da un **salto**) · desatender a Teach (caza y absorbe otro lugarteniente → crece) |
+| ⏸️ **Se estanca** | Derrotar a un lugarteniente **CRÍTICO** (Vorthak, Ignis o Teach → corta un canal divino): el siguiente avance no cuenta |
+| ⏸️ **Congela 1** | Misión de sabotaje de los Anacronistas |
+| ⬇️ **−1** | Sacrificio de Varrak (con el reloj en zona crítica ≥6/8) |
+| 🔔 **8/8** | Llamada de los Dioses → Torre de la Eternidad → Fase 4 |
 
-Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la decisión de quitarse la vida para equilibrar los poderes y evitar la catástrofe cósmica.
+### **🔎 El "hipo" del Contador:**
+Toda muerte de lugarteniente corta un canal divino y el Contador lo acusa con un parpadeo/retroceso de medio segmento. Si **no** la causaron los PJ, los Anacronistas detectan la anomalía → los PJ investigan. Si la región **sigue rota** (no se restaura) = Teach interceptó el poder. Es la forma principal de destapar la caza de lugartenientes de Barbanegra.
+
+### **🔮 ACCIÓN ESPECIAL: SACRIFICIO DE VARRAK**
+
+El sacrificio ya **no** se dispara por desbalance, sino por una **relación construida** con Varrak a lo largo del sandbox y por el **reloj en zona crítica (≥6/8)**.
 
 **Condiciones:**
-- Diferencia de 4+ entre temporales y dimensionales derrotados
-- Varrak debe estar vivo y activo
-- Varrak probablemente es aliado de los PJ (muy probable según desarrollo)
+- Reloj en zona crítica (≥6/8)
+- Varrak vivo y **aliado** de los PJ (le dieron esperanza a lo largo de la campaña)
+- Momento: en el funeral de Marcus, tras "La Traición de Serapis"
 
-**Efecto Inmediato:**
-- Varrak se quita la vida voluntariamente
-- **Balance se restaura:** -1 temporal derrotado (Varrak)
-- **Diferencia se reduce:** El desbalance crítico se mitiga significativamente
-- **Región se restaura:** El Abismo de los Posibles vuelve a la normalidad
-- **Poder temporal liberado:** Se disipa suavemente, estabilizando Chronosia
+**Efecto:**
+- Varrak se ofrece; el harakiri ritual libera su esencia temporal
+- El monje manco la usa para recargar el artilugio y **revivir a Marcus** + dar un don a los PJ
+- **El Reloj retrocede 1 segmento** (su muerte estabiliza el flujo)
+- El Abismo de los Posibles se restaura
 
-**Impacto:**
-- ✅ Balance restaurado (diferencia se reduce en 1)
-- ⚠️ Varrak muere (los PJ pierden un aliado poderoso)
-- ⚠️ Momento emocional dramático
-- ✅ Estabilización de Chronosia
+**Nota:** Si lo traicionaron, el momento cambia de tono (muere de otro modo o no ocurre). Ficha y diálogos en `02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md`.
 
-**Nota:** Los PJ pueden intentar mantener el balance para evitar este sacrificio. Si actúan rápidamente para equilibrar antes de llegar a crítico, Varrak no necesita sacrificarse.
+### **📋 Registro de Muertes de Lugartenientes:**
 
-### **📋 Registro de Derrotas:**
-
-| **Sesión** | **Fecha** | **Lugarteniente Derrotado** | **Tipo** | **Temporales** | **Dimensionales** | **Nueva Diferencia** | **Notas** |
-|------------|-----------|------------------------------|----------|----------------|-------------------|----------------------|-----------|
-| 1 | | Kaelthas | Dimensional | 0 | 1 | -1 | |
-| 6 | | Thyra | Temporal Caído | 0 | 0 | -2 (ya muerta) | Asesinada por Teach |
-| | | Varrak (Sacrificio) | Temporal | 1 | 0 | -1 | ⚠️ **Sacrificio voluntario por desbalance crítico** |
-| | | | | | | | |
-| | | | | | | | |
+| **Sesión** | **Fecha** | **Lugarteniente** | **¿Crítico?** | **Causa** | **Efecto en el Reloj** | **Notas** |
+|------------|-----------|-------------------|---------------|-----------|------------------------|-----------|
+| 0 | | Kaelthas | No | Derrotado por PJ (Fase 0) | — | |
+| 1 (Fase 1) | | Thyra | No | Asesinada por Teach | ⬆️ Salto | Poder robado por Teach |
+| | | Varrak (sacrificio) | No | Voluntario, reloj ≥6/8 | ⬇️ −1 | 🔮 Revive a Marcus |
+| | | | | | | |
+| | | | | | | |
 
 ---
 
@@ -101,16 +101,16 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 | **Glacialis** | Ymir | Dimensional | 5-7 | Sesión 3 | | ✅ Desbloqueada | |
 | **La Espiral del Reloj de Arena** | Serapis | Temporal | 5-7 | Sesión 3 | | ✅ Desbloqueada | |
 | **Valle de la Aguja Suspendida** | Thyra (Caído) | Temporal Caído | 6-8 | Sesión 3 | | ⚰️ Bloqueada (Thyra muerta) | |
-| **Archipiélago de Barbanegra** | Edward Teach | Dimensional | 11-13 | Después del asesinato de Thyra + Motor de Viento Perpetuo | | 🔒 Bloqueada (mar en calma) → 🔓 Desbloqueada (Motor construido) | |
+| **Archipiélago de Barbanegra** | Edward Teach | Dimensional | 7-9 | Después del asesinato de Thyra + Motor de Viento Perpetuo | | 🔒 Bloqueada (mar en calma) → 🔓 Desbloqueada (Motor construido) | |
 | **El Abismo de los Posibles** | Varrak | Temporal | 7-9 | Sesión 6 | | ✅ Desbloqueada | |
-| **Volcanis** | Ignis | Dimensional | 13-15 | Sesión 6 | | ✅ Desbloqueada | |
-| **La Mansión de la Sed Eterna** | Vorthak | Temporal | 9-11 | Sesión 6 | | ✅ Desbloqueada | |
+| **Volcanis** | Ignis | Dimensional | 8-10 | Sesión 6 | | ✅ Desbloqueada | |
+| **La Mansión de la Sed Eterna** | Vorthak | Temporal | 8-10 | Sesión 6 | | ✅ Desbloqueada | |
 | **Las Llanuras de la Compresión** | Dimensionalis | Dimensional | 8-10 | Sesión 8 | | ✅ Desbloqueada | |
 | **El Jardín de los Tiempos Gemelos** | Las Gemelas | Dimensional | 8-10 | Sesión 8 | | ✅ Desbloqueada | |
 | **El Desierto Espejado** | Tempus | Temporal | 7-9 | Sesión 9 | | ✅ Desbloqueada | |
-| **Tela de Sombras** | Veldrisza | Dimensional | 10-12 | Sesión 10 | | ✅ Desbloqueada | |
-| **El Jardín Pétreo** | Medusa | Temporal | 6-8 | Sesión 11 | | ✅ Desbloqueada | |
-| **Torre de la Eternidad** | Manshoon | Final | 13-15 | Sesión 13 | | ✅ Desbloqueada | |
+| **Tela de Sombras** | Veldrisza | Dimensional | 9-10 | Sesión 10 | | ✅ Desbloqueada | |
+| **El Jardín Pétreo** | Medusa | Temporal | 5-8 | Sesión 11 | | ✅ Desbloqueada | |
+| **Torre de la Eternidad** | Aethernus (Manshoon) | Clímax | 10 | Reloj a 8/8 (Llamada de los Dioses) | | 🔒 Hasta Reloj 8/8 | |
 
 ### **📝 Notas de Tracking:**
 - **Total de Regiones:** 14 (12 con lugartenientes + 1 Material Plane + 1 centro seguro)
@@ -133,17 +133,9 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 | **6** | | 6 | 7 | Reacción Espontánea | |
 | **7** | | 7 | 8 | Derrotar 1-2 lugartenientes | |
 | **8** | | 8 | 9 | Derrotar 1-2 lugartenientes | |
-| **9** | | 9 | 10 | Derrotar 1 lugarteniente | |
-| **10** | | 10 | 11 | Revelaciones + 1 lugarteniente | |
-| **11** | | 11 | 12 | Evento de Varrak + 1 lugarteniente | |
-| **12** | | 12 | 13 | Derrotar 1-2 lugartenientes | |
-| **13** | | 13 | 14 | Preparación para ritual | |
-| **14** | | 14 | 15 | Batalla contra Teach, ritual completado | |
-| **15** | | 15 | 15 | Mundo post-ritual | |
-| **16** | | 15 | 16 | Construcción máquina | |
-| **17** | | 16 | 16 | Viaje al pasado | |
-| **18** | | 16 | 17 | Llegada a tiempo | |
-| **19-20** | | 17 | 20 | Batalla final por fases | |
+| **9** | | 9 | 10 | Derrotar 1 lugarteniente (techo de nivel) | |
+| **10-12** | | 10 | 10 | Revelaciones, Varrak, lugartenientes restantes (sin subir de nivel) | |
+| **Clímax** | | 10 | 10 | Reloj a 8/8 → asalto a la Torre de la Eternidad (Fase 4) | |
 
 ### **📝 Tracking Individual de PJ:**
 
@@ -167,7 +159,7 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 | **Kaelthas**      | Dimensional           | ⚰️ Muerto  | Sesión 1             | Waterdeep                 | Asesinado por PJ              |
 | **Thyra**         | Temporal Caído        | ⚰️ Muerto  | Sesión 5-6           | Valle de la Aguja         | Asesinado por Teach           |
 | **Serapis**       | Temporal    | ✅ Activo   | —                    | Espiral del Reloj         | Subordinado de Vorthak        |
-| **Varrak**        | Temporal    | ✅ Activo   | —                    | Abismo de los Posibles    | Neutral hasta Sesión 11, ⚠️ puede sacrificarse si desbalance crítico |
+| **Varrak**        | Temporal    | ✅ Activo   | —                    | Abismo de los Posibles    | Neutral hasta Sesión 11, 🔮 puede sacrificarse si es aliado y el reloj ≥6/8 |
 | **Vorthak**       | Temporal    | ✅ Activo   | —                    | Mansión de la Sed         | Líder Bando Temporal          |
 | **Edward Teach**  | Dimensional | ✅ Activo   | —                    | Archipiélago              | Independiente, tiene Talismán |
 | **Dimensionalis** | Dimensional | ✅ Activo   | —                    | Llanuras de Compresión    | Independiente                 |
@@ -177,7 +169,7 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 | **Medusa**        | Temporal              | ✅ Activo   | —                    | Jardín Pétreo             |                               |
 | **Tempus**        | Temporal              | ✅ Activo   | —                    | Desierto Espejado         |                               |
 | **Ymir**          | Dimensional           | ✅ Activo   | —                    | Glacialis                 |                               |
-| **Aethernus Valcarys (Manshoon)** | Líder | ✅ Recluido → ⚠️ Dios | —                    | Torre de la Eternidad     | Ejecutando ritual → Se convierte en dios (Fase 4) |
+| **Aethernus Valcarys (Manshoon)** | BBEG | ✅ Recluido → ⚔️ Clímax | —                    | Torre de la Eternidad     | Ejecutando el ritual; el clímax es el asalto a la Torre cuando el Reloj llega a 8/8 |
 
 ### **📝 Estados:**
 - **✅ Activo:** Lugarteniente está vivo y activo
@@ -194,80 +186,35 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 | 5-6 | | Thyra | ⚰️ Muerto | Asesinado por Teach | Poder robado |
 | 11 | | Varrak | Cambio de bando | Decisión de PJ | |
 | 11 | | Las Gemelas | Cambio de bando | Según bando ganador | |
-| X | | Varrak | ⚰️ Muerto (Sacrificio) | Desbalance crítico (4+) | ⚠️ **Sacrificio voluntario para equilibrar poderes** |
+| X | | Varrak | ⚰️ Muerto (Sacrificio) | Aliado + reloj ≥6/8 | 🔮 **Sacrificio voluntario: revive a Marcus y retrocede el Reloj −1** |
 
 ---
 
-## 5. **ANILLOS DE PODER**
+## 5. **RELIQUIAS DE LOS LUGARTENIENTES**
 
-### **💍 Tabla de Tracking de Anillos de Poder**
+### **💍 Tabla de Botín (anillos y artefactos)**
 
-**⚠️ IMPORTANTE:** Los anillos desaparecen 1-2 minutos después de la muerte del portador. El Talismán de Interceptación puede "congelar" anillos para preservarlos.
+Cada lugarteniente porta un **anillo de poder** (canalizador de Aethernus) y, en algunos casos, un artefacto regional. Son botín mágico potente. **Nota:** los anillos pierden su poder al cortarse la vinculación con Aethernus; preservarlos como objeto puede requerir el Talismán de Teach, pero **ya no son "combustible" de ninguna máquina del tiempo** — son recompensas y trofeos.
 
-| **Lugarteniente** | **Tipo** | **Estado** | **Anillo Obtenido** | **Sesión** | **Preservado con Talismán** | **Notas** |
-|-------------------|----------|------------|---------------------|------------|----------------------------|-----------|
-| **Serapis** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
-| **Varrak** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
-| **Vorthak** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
-| **Las Gemelas** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
-| **Tempus** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
-| **Ymir** | Temporal | Activo / Muerto | Sí / No | | Sí / No | |
-| **Dimensionalis** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
-| **Ignis** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
-| **Veldrisza** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
-| **Las Gemelas** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
-| **Medusa** | Dimensional | Activo / Muerto | Sí / No | | Sí / No | |
-| **Edward Teach** | Dimensional | ⚠️ Derrotado | Anillo Robado | Sesión 14 | ✅ Sí (Talismán) | Preservado después de batalla |
+| **Lugarteniente** | **Tipo** | **Estado** | **Anillo Obtenido** | **Artefacto regional** | **Sesión** | **Notas** |
+|-------------------|----------|------------|---------------------|------------------------|------------|-----------|
+| **Serapis** | Temporal | Activo / Muerto | Sí / No | Arena del Tiempo · Núcleo (Rotor) | | |
+| **Varrak** | Temporal | Activo / Muerto | Sí / No | — | | |
+| **Vorthak** | Temporal | Activo / Muerto | Sí / No | — | | Lugarteniente CRÍTICO |
+| **Las Gemelas** | Temporal | Activo / Muerto | Sí / No | Espejo de Realidad Fragmentada | | |
+| **Tempus** | Temporal | Activo / Muerto | Sí / No | — | | |
+| **Ymir** | Temporal | Activo / Muerto | Sí / No | Carcasa Helada (Rotor) | | |
+| **Dimensionalis** | Dimensional | Activo / Muerto | Sí / No | — | | |
+| **Ignis** | Dimensional | Activo / Muerto | Sí / No | — | | Lugarteniente CRÍTICO |
+| **Veldrisza** | Dimensional | Activo / Muerto | Sí / No | — | | |
+| **Medusa** | Dimensional | Activo / Muerto | Sí / No | — | | |
+| **Edward Teach** | Dimensional | Activo / Muerto | Sí / No | Talismán de Interceptación (Cronómetro + Perla) | | Lugarteniente CRÍTICO; recupera Cronómetro y Perla |
 
-### **📊 Anillos Disponibles para Máquina Salta-Mundos:**
-
-| **Anillo** | **Fuente** | **Estado** | **Usado en Máquina** | **Notas** |
-|------------|------------|------------|---------------------|-----------|
-| **Talismán de Teach** | Edward Teach | ✅ Obtenido | Sí / No | Componente clave |
-| **Anillo #1** | _____ | ✅ Obtenido | Sí / No | |
-| **Anillo #2** | _____ | ✅ Obtenido | Sí / No | |
-| **Anillo #3** | _____ | ✅ Obtenido | Sí / No | (Opcional) |
-| **Anillo #4** | _____ | ✅ Obtenido | Sí / No | (Opcional) |
-
-### **📝 Requisitos para Máquina Salta-Mundos:**
-- **Mínimo:** 2 anillos + Talismán de Teach
-- **Recomendado:** 3-4 anillos para mayor estabilidad
-- **Estado:** Los anillos se consumen completamente durante el salto temporal (único uso)
+> Detalle de cada objeto: [21_Objetos_Magicos_Reliquias.md](./21_Objetos_Magicos_Reliquias.md).
 
 ---
 
-## 6. **ESTADO DE MÁQUINA SALTA-MUNDOS**
-
-### **🚂 Tabla de Estado de la Máquina Salta-Mundos**
-
-| **Componente** | **Estado** | **Sesión** | **Fecha** | **Notas** |
-|----------------|------------|------------|-----------|-----------|
-| **Talismán de Teach** | ✅ Obtenido | Sesión 14 | | Componente clave |
-| **Anillos de Poder** | ⬜ Pendiente | | | Mínimo 2 necesarios |
-| **Construcción** | ⬜ No iniciada | | | Requiere Din Goldgear |
-| **Salto Temporal** | ⬜ No realizado | | | Solo 1 uso posible |
-| **Saltos Espaciales** | ⬜ Disponible | | | Funcionalidad permanente |
-
-### **📝 Estados de la Máquina:**
-- **⬜ No iniciada:** La máquina aún no se ha construido
-- **🔄 En construcción:** Los Gnomos están construyendo la máquina
-- **✅ Completa:** La máquina está lista para usar
-- **⚠️ Salto Temporal Usado:** El salto temporal se ha consumido (único uso)
-- **✅ Funcional (Espacial):** La máquina puede seguir saltando entre planos
-
-### **📋 Cronología de la Máquina:**
-
-| **Sesión** | **Fecha** | **Evento** | **Estado** |
-|------------|-----------|-----------|------------|
-| 14 | | Talismán obtenido de Teach | ✅ Componente clave obtenido |
-| 15 | | Obtención de anillos | ⬜ Pendiente |
-| 16 | | Construcción de máquina | 🔄 En construcción |
-| 17 | | Viaje temporal | ⚠️ Salto temporal usado |
-| Post-campaña | | Saltos espaciales | ✅ Funcional |
-
----
-
-## 7. **RESUMEN GENERAL DE SESIÓN**
+## 6. **RESUMEN GENERAL DE SESIÓN**
 
 ### **📋 Plantilla de Resumen de Sesión**
 
@@ -297,11 +244,10 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 - **Estado:** Baja / Media / Alta / Crítica
 - **Indicadores:** (Gritos de dioses, distorsiones, acciones de lugartenientes)
 
-#### **Balance Temporal/Dimensional:**
-- **Temporales Derrotados:** _____
-- **Dimensionales Derrotados:** _____
-- **Diferencia:** _____
-- **Estado:** _____
+#### **Reloj del Ritual:**
+- **Segmento actual:** _____ /8
+- **Movimiento esta sesión:** _____ (qué lo movió)
+- **¿Lugarteniente crítico caído? ¿Hipo del Contador detectado?:** _____
 
 #### **Artefactos:**
 - 
@@ -326,32 +272,30 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
    - Inicializa todos los valores base (Sesión 1-6)
 
 2. **Después de Cada Sesión:**
-   - Actualiza el Balance Temporal/Dimensional
+   - Actualiza el **Reloj del Ritual** (segmento actual y qué lo movió)
    - Marca regiones exploradas
-   - Actualiza niveles de PJ
+   - Actualiza niveles de PJ (techo nivel 10)
    - Registra cambios de estado de lugartenientes
    - Evalúa urgencia narrativa según eventos
    - Completa el Resumen General de Sesión
 
-3. **Antes de la Sesión 13 (Fase 4: Ritual Completado):**
-   - Los PJ intentarán llegar a tiempo al ritual
-   - El ritual está al 92-98%, avanzando rápidamente
-   - Los PJ llegarán tarde (evento fijo)
-   - El ritual se completará y Aethernus se convertirá en dios
+3. **Cuando el Reloj se acerca a 8/8 (zona crítica):**
+   - Sube la presión narrativa: hitos de Teach, gritos de los dioses, tormentas del ritual (opcional)
+   - Si Varrak es aliado y el reloj ≥6/8, prepara su posible sacrificio (−1 al Reloj, revive a Marcus)
+   - Recuerda a los PJ qué regiones/lugartenientes han quedado sin tocar (alimentan a Teach)
 
-4. **Antes de la Sesión 15 (Fase 5: Viaje al Pasado):**
-   - Determina qué lugartenientes quedan vivos post-ritual (dinámico según decisiones de los PJ)
-   - Verifica que los PJ tienen mínimo 2 anillos + Talismán
-   - La máquina salta-mundos debe estar lista para construir
+4. **Al llegar el Reloj a 8/8 (Fase 4: Clímax):**
+   - **Llamada de los Dioses** → se abre la Torre de la Eternidad
+   - El final depende del estado del tablero: a quién derrotaron, si Teach llegó antes, si reunieron a Anacronistas + Oceánicos (ver finales en el Motor de Campaña)
 
 5. **Durante la Sesión:**
-   - Si derrotan a un lugarteniente, actualiza balance y estado
-   - Si obtienen un anillo, actúa rápidamente para preservarlo con el Talismán
+   - Si derrotan a un lugarteniente, actualiza estado y el Reloj (¿era crítico? → se estanca)
+   - Si detectan un "hipo del Contador" que no provocaron, lánzalos a investigar (firma de Teach)
    - Si hay eventos aleatorios, úsalos narrativamente
 
-5. **Revisión Periódica:**
+6. **Revisión Periódica:**
    - Cada 3 sesiones, revisa que todo esté actualizado
-   - Verifica que el balance no esté demasiado desequilibrado
+   - Comprueba que el ritmo del Reloj acompaña el progreso de la mesa (ni cronómetro estricto ni regalado)
    - Evalúa la urgencia narrativa según los eventos ocurridos
 
 ---
@@ -360,7 +304,8 @@ Varrak del Horizonte, habiendo visto millones de futuros posibles, tomará la de
 
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro y eventos de desbloqueo
 - **[08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - Información de regiones y desbloqueos
-- **[21_Objetos_Magicos_Reliquias.md](./21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)** - Sistema de Anillos de Poder
+- **[10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** - Reloj del Ritual, puertas y finales (fuente única de estructura)
+- **[21_Objetos_Magicos_Reliquias.md](./21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)** - Anillos y reliquias de los lugartenientes
 
 ---
 

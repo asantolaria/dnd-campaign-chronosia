@@ -10,15 +10,16 @@
 
 ## 🎯 **RESUMEN EJECUTIVO**
 
-Los personajes deben derrotar a los lugartenientes por **siete razones fundamentales** que se entrelazan para crear una urgencia narrativa creciente:
+> **⚠️ Nota de diseño:** este documento se reescribió al retirar el *balance temporal/dimensional* y los *Lugartenientes Supremos*. La presión ahora la marca **un solo motor: el Reloj del Ritual** (ver [Motor de Campaña](./10_Motor_de_Campana_Reloj_y_Puertas.md)).
+
+Los personajes derrotan a los lugartenientes por **seis razones** que se entrelazan en una urgencia creciente:
 
 1. **Amenaza Directa a su Supervivencia** - Los lugartenientes quieren matarlos
 2. **Protección de Aliados y Refugio** - Cronópolis y los Anacronistas están en peligro
-3. **Prevención de Catástrofe Cósmica** - El balance temporal/dimensional debe mantenerse
+3. **Frenar el Reloj del Ritual** - cada canal divino que cortan (matando un crítico) estanca la ascensión de Aethernus
 4. **Detener la Ascensión Divina** - Aethernus está robando poder de los dioses
-5. **Prevenir Lugartenientes Supremos** - Si no actúan, algunos se vuelven inmortales
-6. **Detener la Guerra Civil** - Los lugartenientes se matan entre sí, causando caos
-7. **Venganza y Justicia** - Los lugartenientes han asesinado inocentes
+5. **Que Teach no se los coma** - cada lugarteniente que dejan vivo, Barbanegra lo absorbe y crece
+6. **Detener la Guerra Civil y hacer Justicia** - los lugartenientes se matan entre sí y han asesinado inocentes
 
 ---
 
@@ -96,77 +97,33 @@ Los PJ no solo luchan por sí mismos. Luchan por todos los que dependen de ellos
 
 ---
 
-## ⚖️ **3. PREVENCIÓN DE CATÁSTROFE CÓSMICA**
+## ⏳ **3. FRENAR EL RELOJ DEL RITUAL**
 
-### **El Balance Temporal/Dimensional: El Mecanismo Central**
+### **El Reloj: el Mecanismo Central**
 
-El sistema de balance es **crítico** para la estabilidad de Chronosia. Si los PJ derrotan demasiados lugartenientes de un tipo sin equilibrar con el otro, provocan una **catástrofe cósmica**.
+El **Reloj del Ritual** (el Contador que construyen los Anacronistas) marca lo cerca que está Aethernus de completar su ascensión divina. Avanza solo, con el tiempo. Los PJ no pueden pararlo del todo — pero **pueden frenarlo**.
 
-**Cómo Funciona:**
-- **6 Temporales vs 6 Dimensionales** (inicialmente)
-- **5 Temporales vs 6 Dimensionales** (después del asesinato de Thyra)
-- **Diferencia = |Temporales Derrotados - Dimensionales Derrotados|**
+**Cómo se frena:**
+- **Derrotar a un lugarteniente CRÍTICO** (Vorthak, Ignis, Teach) **corta un canal de poder divino** → el ritual se estanca (el siguiente avance no cuenta).
+- **Misiones de sabotaje de los Anacronistas** pueden congelar un segmento.
+- **El sacrificio de Varrak** retrocede el Reloj un segmento.
 
-### **Consecuencias del Desbalance**
+### **El "Hipo del Contador"**
 
-#### **🟡 DESBALANCE MENOR (Diferencia 2)**
-- **1d4 efectos por sesión** al inicio
-- Distorsiones temporales/dimensionales menores
-- Relojes que se atrasan, objetos que desaparecen
-- Personas que envejecen o rejuvenecen temporalmente
-
-#### **🟠 DESBALANCE MODERADO (Diferencia 3)**
-- **1d6 efectos por sesión** al inicio + cada 2 horas
-- Distorsiones más severas
-- Portales que fallan (10-25%)
-- Restricciones en descanso largo
-- Cronópolis comienza a mostrar inestabilidad
-
-#### **🔴 DESBALANCE CRÍTICO (Diferencia 4+)**
-- **1d8 efectos por sesión** al inicio + cada hora + eventos importantes
-- **Cronópolis se vuelve inestable** - el único refugio seguro se pierde
-- Portales fallan constantemente (50%+)
-- Descanso largo restringido o imposible
-- Envejecimiento/rejuvenecimiento aleatorio permanente
-- **El mundo comienza a desmoronarse**
+Cada muerte de lugarteniente hace **parpadear** el Contador (un canal se corta). Si los PJ no causaron ese parpadeo, sabrán que **alguien más** está matando lugartenientes — el rastro lleva a Teach. Así, el Reloj no es solo presión: es **una fuente de pistas** (ver [Motor de Campaña → El hipo del Contador](./10_Motor_de_Campana_Reloj_y_Puertas.md)).
 
 ### **La Advertencia de Zephyr**
 
 ```
-ZEPHYR (serio):
-"Escuchad, jóvenes. Chronosia existe en un equilibrio precario entre dos 
-fuerzas fundamentales: el Tiempo y el Espacio. Amaunator y Voidar, aunque 
-prisioneros, siguen luchando. Su poder se filtra a través de sus lugartenientes."
-
-"Si derrotáis demasiados lugartenientes temporales sin equilibrar con los 
-dimensionales, Amaunator se debilitará. El tiempo se volverá caótico, los 
-portales temporales fallarán, y Cronópolis perderá su estabilidad."
-
-"Si derrotáis demasiados dimensionales sin equilibrar con los temporales, 
-Voidar se debilitará. El espacio se fracturará, los portales dimensionales 
-se volverán inestables, y las distancias cambiarán aleatoriamente."
-
-"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo 
-se desmoronará."
-```
-
-### **La Visión de Varrak**
-
-```
-VARRAK (aterrorizado):
-"Veo futuros donde el equilibrio se rompe. En uno, derrotáis a todos los 
-lugartenientes temporales primero. El tiempo se detiene, Cronópolis se congela, 
-y vosotros quedáis atrapados en estasis eterna."
-
-"En otro, derrotáis a todos los dimensionales primero. El espacio se colapsa, 
-Cronópolis se fractura, y vosotros desaparecéis en el vacío dimensional."
-
-"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por 
-igual, y el mundo se estabiliza gradualmente."
+ZEPHYR (señalando el Contador):
+"¿Veis esto? Es lo cerca que está Aethernus de convertirse en dios. Avanza 
+solo, cada día, mientras dudáis. No podéis detenerlo del todo... pero cada 
+lugarteniente importante que caiga le corta una vena de poder y le hace 
+ganar tiempo. Elegid bien a quién enfrentáis: no os dará para todos."
 ```
 
 **La Urgencia:**
-Si los PJ no derrotan a los lugartenientes **manteniendo el balance**, destruyen el mundo que intentan salvar.
+Cada sesión que pasa, el Reloj avanza. Los PJ deben **elegir** a qué dedican su tiempo — porque no llegarán a todo antes de que se abra la Torre.
 
 ---
 
@@ -209,40 +166,28 @@ El ritual avanza automáticamente. Los PJ tienen tiempo limitado para detenerlo.
 
 ---
 
-## ⚔️ **5. PREVENIR LUGARTENIENTES SUPREMOS**
+## 🏴‍☠️ **5. QUE TEACH NO SE LOS COMA**
 
-### **La Ascensión del Cónclave: Competencia por Poder**
+### **Barbanegra Caza Lugartenientes**
 
-Tras el asesinato de Thyra, los lugartenientes entran en una **guerra civil espontánea**. Compiten por poder, formando alianzas, traicionándose, y matándose entre sí.
+Tras robar el poder de Thyra, Edward Teach descubre que puede **absorber el poder de cualquier lugarteniente que muera** (su Talismán intercepta el flujo divino). A partir de ese momento, **caza activamente** a los demás.
 
-**Acciones que Crean Supremos:**
-- **Asesinar a otro lugarteniente**: Gana poder significativo (Edward Teach mató a Thyra)
-- **Conquistar región completa**: Expande dominio y recursos
-- **Debilitar significativamente a los PJ**: Demuestra fuerza
-- **Completar misión de Aethernus**: Gana favor directo
-- **Formar alianza exitosa (3+ sesiones)**: Estabilidad y poder conjunto
-- **Ritual de extracción divina**: Acceso directo a poder divino
+**La consecuencia para los PJ:**
+- Cada lugarteniente que los PJ **dejan vivo y Teach alcanza primero**, Barbanegra **lo absorbe y se vuelve más fuerte**.
+- El poder de Teach en la Torre **= a cuántos llegó él antes que los PJ.** Si lo desatienden, se enfrentan a un Teach casi imparable (Final B).
 
-### **Qué Son los Lugartenientes Supremos**
-
-Si un lugarteniente logra múltiples victorias importantes, se convierte en **Supremo**:
-
-- **Poder x3**: HP, daño, CD de hechizos multiplicados por 3
-- **Inmortalidad Divina**: No pueden morir permanentemente (se regeneran en 1d4 días)
-- **Autoridad Suprema**: Pueden convocar a otros lugartenientes
-- **Llegan a la Torre**: Todos los supervivientes llegarán a la Torre de la Eternidad en Sesión 14
+> **Nota de diseño:** esto **reemplaza al antiguo sistema de "Lugartenientes Supremos"** (poder ×3, inmortalidad). En vez de que muchos villanos escalen por separado, **toda esa amenaza se concentra en Teach** — más fácil de dirigir y narrativamente más fuerte.
 
 ### **Por Qué Esto Es Peligroso**
 
-Si los PJ no derrotan a los lugartenientes antes del clímax:
+Si los PJ tardan demasiado o ignoran a Barbanegra:
 
-1. **Lugartenientes Supremos en la Torre**: El combate final se vuelve **mucho más difícil**
-2. **Manshoon + Supremos**: Combate multi-fase extremadamente difícil
-3. **Inmortalidad**: Los Supremos no pueden morir permanentemente
-4. **Poder x3**: Estadísticas multiplicadas por 3
+1. **Teach engorda** con cada lugarteniente que cae en la guerra civil sin que los PJ intervengan
+2. **El clímax se endurece**: un Teach que se comió a media docena de canales divinos es el peor jefe posible
+3. **Final B**: si llega a la Torre con el Talismán y suficiente poder, usurpa la ascensión
 
 **La Urgencia:**
-Cada sesión que pasa, los lugartenientes tienen más oportunidades de volverse Supremos. Los PJ deben actuar rápido.
+No es que "todos" escalen — es que **Teach** escala. Cada región que los PJ desatienden es comida para Barbanegra.
 
 ---
 
@@ -324,27 +269,27 @@ No es solo supervivencia. Es **justicia**. Los lugartenientes han hecho daño y 
 - La venganza (Thaddeus asesinado)
 
 **Presenta:**
-- El balance temporal/dimensional (explicación de Zephyr)
+- El Reloj del Ritual (el Contador que muestra la urgencia)
 - La existencia de los lugartenientes (12 totales, Kaelthas era el más débil)
 
 ### **Durante el Sandbox (Sesiones 4-12)**
 
 **Refuerza:**
-- Las consecuencias del desbalance (efectos activos cuando hay desbalance)
+- El Reloj avanzando (cada región consume tiempo)
 - La guerra civil (rumores, encuentros con lugartenientes luchando)
-- La urgencia del ritual (revelaciones graduales)
+- El "hipo del Contador" que destapa a Teach
 
 **Muestra:**
 - Amenazas activas (lugartenientes atacando, expandiendo dominio)
 - Aliados en peligro (Anacronistas, refugiados)
-- Lugartenientes volviéndose Supremos (si no se detienen)
+- A Teach engordando con cada lugarteniente que absorbe (si no lo detienen)
 
 ### **Hacia el Clímax (Sesiones 13-15)**
 
 **Enfatiza:**
 - La urgencia máxima (ritual al 98%, llamada de los dioses)
 - Las consecuencias finales (qué pasa si no detienen a Aethernus)
-- El sacrificio necesario (Varrak puede sacrificarse si el balance es crítico)
+- El sacrificio necesario (Varrak puede sacrificarse si el Reloj está crítico)
 
 **Presenta:**
 - Las opciones finales (4 finales posibles según acciones previas)
@@ -356,22 +301,22 @@ No es solo supervivencia. Es **justicia**. Los lugartenientes han hecho daño y 
 
 ### **Cuando los PJ Pregunten "¿Por Qué?"**
 
-1. **Recuerda el balance**: "Si no mantenemos el equilibrio, el mundo se desmorona"
+1. **Señala el Reloj**: "Cada crítico que cae le quita tiempo a Aethernus"
 2. **Menciona a los aliados**: "¿Qué pasará con Cronópolis si no actuamos?"
-3. **Enfatiza la urgencia**: "El ritual avanza. No tenemos tiempo infinito"
-4. **Muestra las consecuencias**: Aplica efectos de desbalance cuando corresponda
+3. **Enfatiza la urgencia**: "El Reloj avanza. No tenemos tiempo infinito"
+4. **Muestra las consecuencias**: Teach engordando, regiones que no se restauran
 5. **Usa NPCs**: Zephyr, Varrak, y otros pueden reforzar las motivaciones
 
 ### **Cuando los PJ Dudan en Actuar**
 
 1. **Crea urgencia narrativa**: Un lugarteniente ataca Cronópolis, un aliado es capturado
-2. **Muestra las consecuencias**: Efectos de desbalance, zonas de guerra activa
+2. **Muestra las consecuencias**: el Reloj avanzando, Teach engordando, zonas de guerra activa
 3. **Refuerza las conexiones emocionales**: Tiber en peligro, refugiados sufriendo
 4. **Presenta información nueva**: Revelaciones sobre el ritual, planes de los lugartenientes
 
 ### **Cuando los PJ Se Sienten Abrumados**
 
-1. **Recuerda el objetivo principal**: "No necesitáis derrotar a todos. Solo mantener el balance"
+1. **Recuerda el objetivo principal**: "No necesitáis derrotar a todos. Centraos en los críticos y vigilad el Reloj"
 2. **Ofrece opciones**: Pueden aliarse con algunos lugartenientes (Varrak, Las Gemelas)
 3. **Simplifica**: "Enfocaos en 2-3 lugartenientes primero, luego decidimos"
 4. **Muestra progreso**: "Ya habéis derrotado a X. Estáis haciendo progreso"
@@ -384,14 +329,13 @@ Los personajes deben derrotar a los lugartenientes porque:
 
 1. ✅ **Sobrevivencia**: Los lugartenientes quieren matarlos
 2. ✅ **Protección**: Sus aliados y refugio están en peligro
-3. ✅ **Balance**: Deben mantener el equilibrio o el mundo se desmorona
+3. ✅ **Reloj**: Cada crítico que cae frena la ascensión de Aethernus
 4. ✅ **Ritual**: Deben detener la ascensión divina de Aethernus
-5. ✅ **Supremos**: Deben prevenir que los lugartenientes se vuelvan inmortales
-6. ✅ **Caos**: Deben detener la guerra civil que destruye el mundo
-7. ✅ **Justicia**: Deben vengar a los inocentes y traer justicia
+5. ✅ **Teach**: Cada lugarteniente que dejan vivo, Barbanegra lo absorbe y crece
+6. ✅ **Caos y Justicia**: Detener la guerra civil y vengar a los inocentes
 
 **La Urgencia:**
-Cada sesión que pasa, el ritual avanza, los lugartenientes se vuelven más poderosos, y el mundo se vuelve más peligroso. Los PJ no tienen tiempo infinito. Deben actuar **ahora**.
+Cada sesión que pasa, el Reloj avanza y Teach engorda. Los PJ no tienen tiempo para todo: deben **elegir** y actuar **ahora**.
 
 ---
 

@@ -26,7 +26,6 @@
 - [Mecánica de Vinculación con Aethernus](#-mecánica-de-vinculación-con-aethernus)
 - [Mecánica de Anillos Robados](#-mecánica-de-anillos-robados)
 - [Integración con Talismán de Interceptación](#-integración-con-talismán-de-interceptación)
-- [Requisitos para la Máquina Salta-Mundos](#-requisitos-para-la-máquina-salta-mundos)
 
 ### **👑 Objetos de NPCs Importantes**
 - [Objetos de Aethernus Valcarys](#-objetos-de-aethernus-valcarys-manshoon)
@@ -605,13 +604,12 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 **Cómo Obtenerlos:**
 1. **Derrotar a un Lugarteniente:** Al derrotar a un lugarteniente, su anillo puede ser obtenido
 2. **⚠️ CRÍTICO - Desaparición:** Los anillos desaparecen al poco tiempo (1-2 minutos) después de la muerte de su portador
-3. **Solución:** El Talismán de Interceptación Divina puede "congelar" temporalmente un anillo para preservarlo
+3. **Solución:** El Talismán de Interceptación Divina puede "congelar" temporalmente un anillo para preservarlo como objeto
 4. **Requisito:** Los PJ deben actuar rápidamente después de derrotar a un lugarteniente
 
-**Requisitos para la Máquina Salta-Mundos:**
-- **Mínimo:** 2 anillos + Talismán de Teach
-- **Recomendado:** 3-4 anillos para mayor estabilidad
-- **Función:** Los anillos proporcionan energía divina pura necesaria para el salto temporal
+**Para qué sirven una vez obtenidos:**
+- Son **trofeos y objetos mágicos potentes** (ver propiedades abajo); cada anillo preservado conserva sus bonos pasivos
+- También son **prueba forense**: un anillo que sigue intacto y no se ha disipado indica que su portador murió hace muy poco o que un Talismán lo congeló
 
 #### **📜 Historia:**
 
@@ -650,14 +648,14 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 **Fuente de Energía Divina (Pasivo):**
 - El anillo contiene energía divina pura que puede ser extraída
 - **Energía Total:** Equivalente a un hechizo de nivel 9 (una vez consumido, el anillo se desvanece)
-- **Uso en Máquina Salta-Mundos:** Los anillos proporcionan la energía necesaria para el salto temporal
+- **Uso narrativo:** Los Anacronistas pueden aprovechar esa energía para alimentar misiones de sabotaje del ritual o cargar artefactos de la Resistencia
 - **Limitación:** Una vez que la energía se consume completamente, el anillo desaparece permanentemente
 
 **Vinculación con Aethernus (Pasivo):**
 - El anillo está vinculado mágicamente al anillo correspondiente de Aethernus
 - Aethernus puede detectar la ubicación del portador a través del anillo
 - Aethernus puede otorgar poder adicional al portador a través del anillo
-- Si Aethernus muere o se convierte en dios, la vinculación se rompe
+- Si Aethernus muere o completa su ascensión en la Torre, la vinculación se rompe
 
 #### **🔗 Mecánica de Vinculación con Aethernus:**
 
@@ -673,8 +671,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 
 **Transferencia de Poder:**
 - Aethernus puede otorgar poder adicional a un lugarteniente a través del anillo
-- Cuando Aethernus se convierte en dios, todos los lugartenientes vivos reciben poder divino a través de sus anillos
-- Los lugartenientes vivos aumentan su poder (CR +2-3) después del ritual completado
+- El anillo es el canal por el que Aethernus reparte su poder divino mientras dura el ritual
 
 **Detección:**
 - Aethernus puede detectar la ubicación de cualquier lugarteniente a través del anillo
@@ -720,36 +717,9 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 4. **Congelación:** El Talismán congela el anillo, previniendo su desaparición
 5. **Preservación:** El anillo permanece estable mientras esté en contacto con el Talismán
 
-**Uso en Máquina Salta-Mundos:**
-- Los anillos preservados pueden ser usados como fuente de energía para la máquina
-- El Talismán puede mantener múltiples anillos congelados si están en contacto
-- Los anillos proporcionan energía divina pura necesaria para el salto temporal
-
-#### **🚂 Requisitos para la Máquina Salta-Mundos:**
-
-**Energía Necesaria:**
-- **Mínimo:** 2 anillos + Talismán de Teach
-- **Recomendado:** 3-4 anillos para mayor estabilidad
-- **Máximo:** 5-6 anillos (más allá de esto, la energía es excesiva y peligrosa)
-
-**Por Qué Se Necesitan Anillos Específicamente:**
-1. **Energía Divina Pura:** Los anillos contienen energía divina pura de Aethernus
-2. **Canalización Directa:** Los anillos pueden canalizar poder directamente a la máquina
-3. **Estabilidad:** La energía divina es más estable que otras fuentes de poder
-4. **Vinculación Temporal:** Los anillos tienen vinculación temporal que puede ser aprovechada
-
-**Proceso de Uso:**
-1. **Integración:** Los anillos se integran en la máquina salta-mundos
-2. **Canalización:** La máquina canaliza la energía divina de los anillos
-3. **Salto Temporal:** La energía se consume para realizar el salto temporal (único uso)
-4. **Consumo:** Después del salto temporal, los anillos se consumen completamente
-5. **Funcionalidad Permanente:** La máquina puede seguir funcionando para saltos espaciales (no temporales)
-
-**Limitación Crítica:**
-- **Solo UN salto temporal:** La máquina solo puede hacer un salto temporal
-- **Después del salto:** Las fuentes de poder temporal se agotan
-- **Funcionalidad permanente:** La máquina puede seguir saltando entre planos (no temporales)
-- **Función post-campaña:** Comunica el plano de Chronosia con el resto del multiverso
+**Anillos congelados como objetos:**
+- El Talismán puede mantener varios anillos congelados si están en contacto
+- Un anillo preservado conserva sus bonos pasivos y puede usarse como objeto mágico o entregarse a los Anacronistas/Resistencia como fuente de poder para sus artefactos y misiones de sabotaje
 
 #### **📊 Tabla de Anillos por Lugarteniente:**
 
@@ -768,27 +738,21 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 | **Edward Teach "Barbanegra"** | Dimensional | ⚠️ Derrotado | Anillo Robado | Preservado con Talismán |
 | **Medusa la Paralizante** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 
-**⚠️ NOTA:** El estado de los lugartenientes es **dinámico** y depende de las decisiones de los PJ durante la campaña. Los lugartenientes que los PJ no derroten antes del ritual quedan vivos post-ritual y aumentan su poder.
+**⚠️ NOTA:** El estado de los lugartenientes es **dinámico** y depende de las decisiones de los PJ durante la campaña. A los lugartenientes que los PJ no alcancen, **Edward Teach puede cazarlos y absorberlos** con su Talismán (crece cuanto más absorba antes que los PJ); sus anillos quedan entonces fuera del alcance del grupo.
 
 #### **💡 Consejos para el DM:**
 
 **Obtención de Anillos:**
 - Los PJ deben planificar estratégicamente qué lugartenientes derrotar
-- Deben tener el Talismán de Teach antes de intentar preservar anillos
+- Para conservar un anillo como objeto, conviene tener el Talismán de Teach
 - Deben actuar rápidamente después de derrotar a un lugarteniente (1-2 minutos)
-- Pueden obtener más anillos de los necesarios (opcional, para mayor estabilidad)
+- Cada anillo preservado es un trofeo y un objeto mágico potente
 
 **Mecánica de Desaparición:**
 - Los anillos desaparecen 1-2 minutos después de la muerte del portador
 - El Talismán puede prevenir la desaparición si se usa a tiempo
 - Si los PJ no tienen el Talismán, el anillo desaparece permanentemente
-- Esto crea urgencia y tensión narrativa
-
-**Uso en Máquina:**
-- Los anillos son consumidos completamente durante el salto temporal
-- Después del salto, los anillos no pueden ser recuperados
-- La máquina puede seguir funcionando para saltos espaciales
-- Esto limita el uso temporal a una sola vez
+- Esto crea urgencia y tensión narrativa, y liga la firma forense del "hipo del Contador" (ver Reloj del Ritual)
 
 ---
 
@@ -796,7 +760,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 
 ### **👑 Objetos de Aethernus Valcarys (Manshoon)**
 
-> **⚠️ NOTA IMPORTANTE:** Los objetos de Aethernus Valcarys solo pueden obtenerse al derrotarlo en el clímax de la campaña (Sesión 13-15). Son extremadamente poderosos y están diseñados para un personaje de nivel 20.
+> **⚠️ NOTA IMPORTANTE:** Los objetos de Aethernus Valcarys solo pueden obtenerse al derrotarlo en el clímax de la campaña (Fase 4, asalto a la Torre). Son extremadamente poderosos: úsalos como recompensa de cierre para PJ de nivel 10, repartiendo o retirando los que desequilibren la mesa.
 
 #### **📍 Ubicación y Obtención:**
 
@@ -806,8 +770,8 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Estado:** En uso activo por Aethernus durante toda la campaña
 
 **Cómo Obtenerlos:**
-1. **Derrotar a Aethernus Valcarys:** Al derrotarlo en el clímax (Sesión 13-15), todos sus objetos pueden ser obtenidos como botín
-2. **Nivel Recomendado:** 13-15 (nivel de los PJ en el clímax)
+1. **Derrotar a Aethernus Valcarys:** Al derrotarlo en el clímax (Fase 4, asalto a la Torre), todos sus objetos pueden ser obtenidos como botín
+2. **Nivel Recomendado:** 10 (nivel de los PJ en el clímax)
 3. **Dificultad:** Extremadamente difícil - Aethernus es el antagonista principal de la campaña
 
 **Distribución de Objetos:**
@@ -1248,39 +1212,37 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Mecánica:** Vibra cuando detecta magia, más fuerte cuanto más cerca
 - **Uso:** No requiere sintonización, funciona para cualquiera
 
-#### **🔧 Artilugio Detector de Balance (Indicador del Equilibrio / Balanza de Chronosia)**
+#### **🔧 Monitor Público del Contador del Ritual (Balanza de Chronosia)**
 ![Balanza de Chronosia](../../assets/objetos_magicos/11_balanza-chronosia.jpg)
 
-**📍 Cómo Obtenerlo:**
-- **Creación:** Din Goldgear y los Ingenieros/Artífices de Cronópolis lo inventan y construyen después de que los PJ derroten a su segundo lugarteniente
-- **Ubicación en Cronópolis:**
-  - **Dispositivo principal:** Taller de Din Goldgear / Taller de los Ingenieros (lecturas precisas y mantenimiento)
-  - **Monitor central público:** Una réplica o pantalla conectada al artefacto está instalada en un lugar céntrico de la ciudad (p. ej. **Plaza del Equilibrio** o atrio de la **Fortaleza de Acero**), de modo que **la ciudad monitoriza el balance** desde un punto visible: ciudadanía y PJ pueden ver el estado (equilibrio / desbalance) al volver a Cronópolis
-- **Uso:** Los PJ pueden consultar el dispositivo principal con permiso de Din Goldgear o el Capitán Marcus; en la calle, basta con acercarse al monitor público o que un guardia/ingeniero les comente el estado de "la Balanza"
-- **Requisito:** Debe haberse derrotado al menos 2 lugartenientes para que se invente y se instale
+> **Nota:** es la cara pública del **Contador del Ritual** (ver arriba). No mide ningún "balance" entre tipos de lugartenientes: muestra a la ciudad cuántos segmentos quedan hasta la **Llamada de los Dioses**.
 
-**⚠️ IMPORTANTE:** Este artilugio solo existe **después de que los PJ derroten a su segundo lugarteniente**. Antes de ese momento, La Resistencia y los artífices no tienen conocimiento del sistema de balance y no hay monitor central en la ciudad.
+**📍 Cómo Obtenerlo:**
+- **Creación:** Din Goldgear y los Ingenieros/Artífices de Cronópolis lo construyen junto a los Anacronistas como pantalla pública conectada al Contador del Ritual
+- **Ubicación en Cronópolis:**
+  - **Dispositivo principal:** Taller de Din Goldgear / Santuario de los Anacronistas (lecturas precisas y mantenimiento)
+  - **Monitor central público:** Una réplica o pantalla está instalada en un lugar céntrico (p. ej. **Plaza del Reloj** o atrio de la **Fortaleza de Acero**), de modo que **la ciudad ve el avance del Ritual** desde un punto visible: ciudadanía y PJ ven el segmento actual (X/8) al volver a Cronópolis
+- **Uso:** Los PJ pueden consultar el dispositivo principal con permiso de Din Goldgear o el Capitán Marcus; en la calle, basta con acercarse al monitor público o que un guardia/ingeniero les comente "cómo va el Reloj"
 
 **Tipo:** Dispositivo (Tecnología + Magia)  
 **Rareza:** Muy Raro  
 **Peso:** 15 libras (dispositivo principal); el monitor público puede ser una instalación fija más grande  
-**Creador:** Din Goldgear + Ingenieros/Artífices de Cronópolis
+**Creador:** Din Goldgear + Ingenieros/Artífices de Cronópolis + Anacronistas
 
 **Historia:**
-Después de que los personajes derroten a su segundo lugarteniente, Din Goldgear descubre la relación directa entre las bajas de los lugartenientes y el equilibrio de poder mágico en Chronosia. Junto con los Ingenieros y La Resistencia, construye este artefacto no solo como herramienta interna, sino como **monitor central**: lo instalan de forma que Cronópolis pueda **vigilar el equilibrio o desequilibrio de poder mágico** desde la ciudad. Una réplica o pantalla conectada en un lugar céntrico (Plaza del Equilibrio o Fortaleza de Acero) permite a todo el que vuelva a Cronópolis —incluidos los PJ— ver de un vistazo si el balance está estable o en peligro.
+Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din Goldgear añade una **pantalla pública** conectada a él: lo instalan de forma que toda Cronópolis pueda **ver cuánto le queda al ritual de Aethernus**. Una réplica en un lugar céntrico (Plaza del Reloj o Fortaleza de Acero) permite a cualquiera que vuelva a la ciudad —incluidos los PJ— ver de un vistazo en qué segmento está el Reloj y si la Llamada de los Dioses está cerca.
 
 **Propiedades:**
-- **Medición del Equilibrio:** Mide el equilibrio actual entre poderes temporales y dimensionales, mostrando la diferencia numérica entre ambos
-- **Detección de Fluctuaciones:** Detecta fluctuaciones inmediatas cuando un lugarteniente cae, alertando sobre cambios en el balance
-- **Predicción de Fallos:** Predice fallos en dispositivos anti-distorsión basándose en el nivel de desbalance, mostrando porcentajes de eficiencia esperada
-- **Alertas de Estado:** Alerta cuando el equilibrio se vuelve crítico (diferencia de 3+), moderado (diferencia de 2), o extremo (diferencia de 4+)
-- **Visualización:** Muestra una representación visual del balance (escala, agujas, luces o símbolos que indican equilibrio / desbalance leve / crítico); el monitor público ofrece la misma información de forma legible para la ciudad
-- **Uso:** Requiere una acción para consultar el estado actual en el dispositivo principal; el monitor público es visible con solo acercarse
+- **Lectura del Reloj:** Muestra el segmento actual del Reloj del Ritual (X/8) y su tendencia
+- **Detección de Fluctuaciones:** Acusa el "hipo del Contador" cuando cae un lugarteniente (parpadeo / retroceso de medio segmento); si la caída no la provocaron los PJ, lo señala como anomalía a investigar
+- **Alertas de Estado:** Avisa cuando el Reloj entra en zona crítica (≥6/8) y cuando se acerca a 8/8 (Llamada de los Dioses inminente)
+- **Visualización:** Muestra los 8 segmentos de forma legible para la ciudad (luces, agujas o símbolos)
+- **Uso:** Requiere una acción para consultar el detalle en el dispositivo principal; el monitor público es visible con solo acercarse
 
 **Mecánica de Juego:**
-- El DM puede usar el artefacto para dar información clara del balance a los PJ cada vez que regresen a Cronópolis (ven el Indicador o les cuentan el estado de la Balanza)
-- El Capitán Marcus y los ingenieros usan el dispositivo principal para sus advertencias tecnológicas
-- **Monitor desde la ciudad central:** La información del balance se monitoriza desde Cronópolis mediante este artefacto, lo que suaviza la curva de información: los PJ no dependen solo de explicadores en momentos puntuales
+- El DM puede usar el monitor para dar a los PJ una lectura clara del Reloj cada vez que regresen a Cronópolis
+- El Capitán Marcus y los ingenieros lo usan para sus advertencias de urgencia
+- **Monitor desde la ciudad central:** suaviza la curva de información: los PJ no dependen solo de explicadores en momentos puntuales para saber cuánto les queda
 
 #### **Neutralizador de Campo**
 
@@ -1414,8 +1376,8 @@ Después de que los personajes derroten a su segundo lugarteniente, Din Goldgear
 
 > **📍 Ubicación y Obtención General:**
 > - **Ubicación:** Torre de la Eternidad (sede de Aethernus Valcarys)
-> - **Cómo Obtenerlas:** Solo pueden obtenerse al derrotar a Aethernus Valcarys en el clímax (Sesión 13-15)
-> - **Nivel Recomendado:** 13-15
+> - **Cómo Obtenerlas:** Solo pueden obtenerse al derrotar a Aethernus Valcarys en el clímax (Fase 4, asalto a la Torre)
+> - **Nivel Recomendado:** 10
 > - **Dificultad:** Extremadamente difícil - son reliquias divinas de poder inmenso
 
 ### **💎 Fragmentos de Poder Divino**
@@ -1424,8 +1386,8 @@ Después de que los personajes derroten a su segundo lugarteniente, Din Goldgear
 
 **📍 Cómo Obtenerlo:**
 - **Ubicación:** Torre de la Eternidad (en posesión de Aethernus Valcarys)
-- **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Sesión 13-15)
-- **Nivel Recomendado:** 13-15
+- **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Fase 4, asalto a la Torre)
+- **Nivel Recomendado:** 10
 - **Nota:** Este fragmento contiene parte del poder divino de Amaunator (Dios del Tiempo)
 
 **Tipo:** Reliquia (Requiere Sintonización)  
@@ -1443,8 +1405,8 @@ Después de que los personajes derroten a su segundo lugarteniente, Din Goldgear
 
 **📍 Cómo Obtenerlo:**
 - **Ubicación:** Torre de la Eternidad (en posesión de Aethernus Valcarys)
-- **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Sesión 13-15)
-- **Nivel Recomendado:** 13-15
+- **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Fase 4, asalto a la Torre)
+- **Nivel Recomendado:** 10
 - **Nota:** Este fragmento contiene parte del poder divino de Voidar (Dios del Espacio)
 
 **Tipo:** Reliquia (Requiere Sintonización)  
@@ -1641,8 +1603,8 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 
 **📍 Cómo Obtenerlo:**
 - **Ubicación:** Torre de la Eternidad (en posesión de Aethernus Valcarys o en una cámara secreta)
-- **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Sesión 13-15) o descubrir una cámara secreta en la Torre
-- **Nivel Recomendado:** 13-15
+- **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Fase 4, asalto a la Torre) o descubrir una cámara secreta en la Torre
+- **Nivel Recomendado:** 10
 - **Nota:** Esta reliquia contiene poder de ambos dioses (Amaunator y Voidar) y es extremadamente poderosa
 
 **Tipo:** Reliquia (Requiere Sintonización)  
@@ -1661,8 +1623,8 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 
 **📍 Cómo Obtenerlo:**
 - **Ubicación:** Torre de la Eternidad (en posesión de Aethernus Valcarys o en una cámara secreta)
-- **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Sesión 13-15) o descubrir una cámara secreta en la Torre
-- **Nivel Recomendado:** 13-15
+- **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Fase 4, asalto a la Torre) o descubrir una cámara secreta en la Torre
+- **Nivel Recomendado:** 10
 - **Nota:** Este escudo fue creado durante la batalla entre Amaunator y Voidar y contiene poder de ambos dioses
 
 **Tipo:** Escudo (Reliquia)  
@@ -1712,11 +1674,11 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 - Los PJ pueden recuperarlos si derrotan a Teach o interrumpen sus planes
 - Los artefactos de ingeniería requieren conocimiento técnico para usar
 
-### **Balance:**
-- Los artefactos principales son de nivel 15+
+### **Reparto de poder:**
+- Los artefactos principales son la cima del catálogo (úsalos con cuidado a nivel 9-10)
 - Los objetos de ingeniería son de nivel 5-10
-- Las reliquias divinas son de nivel 15+ y extremadamente raras
-- Ajusta la rareza según el nivel de los PJ
+- Las reliquias divinas son extremadamente raras y reservadas al clímax
+- Ajusta la rareza según el nivel de los PJ (la campaña va de nivel 3 a 10)
 
 ### **Integración Narrativa:**
 - Usa los artefactos para avanzar la trama

@@ -13,10 +13,10 @@
 ### **Información Básica:**
 - **Nombre:** Chronosia - El Reino del Tiempo Fracturado
 - **Sistema:** Dungeons & Dragons 5ª Edición
-- **Niveles:** 3-15
+- **Niveles:** 3-10
 - **Duración Estimada:** 15 sesiones
 - **Tipo:** Sandbox con elementos de railroad
-- **Tema Central:** Manipulación temporal/dimensional, guerra civil entre lugartenientes, ascensión divina
+- **Tema Central:** Manipulación temporal/dimensional, guerra civil entre lugartenientes, ascensión divina de Aethernus (medida por el Reloj del Ritual)
 
 ### **Estructura del Proyecto:**
 ```
@@ -70,11 +70,13 @@ Chronosia_Campana_Profesional/
 - **Información duplicada:** Eliminar duplicado y añadir referencia
 
 #### **Documentos Maestros (Fuentes de Verdad):**
+- **Motor de campaña (estructura, ritmo, Reloj del Ritual, puertas):** `02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md` ⭐ keystone
 - **Timeline:** `07_Cronologia_Maestra_Campana.md`
-- **Sistema Narrativo de Competencia:** `05_La_Ascension_del_Conclave.md`
 - **Tracking:** `20_Tablas_Tracking_Campana.md`
 - **Lugartenientes:** `04_Cronofagos_Detallado.md`
 - **Regiones:** `08_Geografia_y_Regiones_de_Chronosia.md`
+
+> ⚠️ **Sistema RETIRADO:** `05_La_Ascension_del_Conclave.md` (Lugartenientes Supremos / Ascensión del Cónclave / poder ×3 + inmortalidad) y el "balance temporal/dimensional" ya **no son vigentes**. El stub sigue existiendo, pero para estructura, ritmo y la escalada de villanos manda el keystone `10_Motor_de_Campana_Reloj_y_Puertas.md`.
 
 ---
 
@@ -88,7 +90,7 @@ Chronosia_Campana_Profesional/
 
 #### **Documentos que Deben Actualizarse Juntos:**
 - **Timeline maestro** ↔ **Guías de fases** ↔ **Cronología de eventos**
-- **Sistema de puntos** ↔ **Tablas de tracking** ↔ **Diagramas Mermaid**
+- **Reloj del Ritual** (keystone) ↔ **Tablas de tracking** ↔ **Diagramas Mermaid**
 - **Lugartenientes** ↔ **Regiones** ↔ **Misiones**
 - **Resolución final** ↔ **Tablas de tracking** ↔ **Guías de clímax**
 
@@ -178,9 +180,9 @@ Chronosia_Campana_Profesional/
 - `02_Guia_DM/07_Cronologia_Maestra_Campana.md` - Timeline maestro
 
 #### **Sistemas de Juego:**
-- `02_Guia_DM/05_La_Ascension_del_Conclave.md` - Sistema de competencia + Resolución final
-- `02_Guia_DM/05_La_Ascension_del_Conclave.md` - Sistema narrativo de competencia
+- `02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md` - ⭐ keystone: Reloj del Ritual, mapa de puertas, escalada de Teach, finales
 - `06_Recursos/Tablas/20_Tablas_Tracking_Campana.md` - Tablas de tracking
+- ~~`02_Guia_DM/05_La_Ascension_del_Conclave.md`~~ - **RETIRADO** (Ascensión del Cónclave / balance); usar el keystone
 
 #### **Contenido Narrativo:**
 - `02_Guia_DM/04_Cronofagos_Detallado.md` - Lugartenientes
@@ -237,23 +239,24 @@ Chronosia_Campana_Profesional/
 - **Manshoon está recluido** ejecutando ritual de ascensión divina
 - **NO sabe** de las traiciones entre lugartenientes
 - **Edward Teach** es el único que sospecha y puede robar poder
-- **La Ascensión del Cónclave** surgió orgánicamente, no fue planeada
+- **La guerra civil entre lugartenientes** surgió orgánicamente tras la muerte de Thyra; quien la escala de verdad es **Teach** (absorbe a los que los PJ no alcanzan)
 
-### **Sistemas Críticos:**
-- **Balance Temporal/Dimensional:** Debe mantenerse equilibrado
-- **Sistema de Puntos:** 15 puntos = Supremo (máximo 3)
-- **Progresión del Ritual:** Avanza constantemente (85% → 100%)
-- **Resolución Final:** Se calcula antes de Sesión 13
+### **Sistemas Críticos (vigentes — ver keystone `10_Motor_de_Campana_Reloj_y_Puertas.md`):**
+- **El Reloj del Ritual:** marcador de 8 segmentos (empieza en 2/8); mide la ascensión de Aethernus. Avanza al explorar regiones y con los hitos de Teach; se frena al matar a un crítico (Vorthak/Ignis/Teach), con sabotaje Anacronista o con el sacrificio de Varrak (−1). A 8 → Llamada de los Dioses → Torre
+- **Escalada de villanos:** la encarna Teach, NO los "Lugartenientes Supremos" (retirado: poder ×3 + inmortalidad)
+- **Finales:** dependen del estado del tablero al abrirse la Torre (A/B/C/D)
+- ⚠️ **RETIRADO:** balance temporal/dimensional, sistema de "15 puntos = Supremo", viaje al pasado / mundo post-ritual
 
 ---
 
 ## 🔗 **REFERENCIAS RÁPIDAS**
 
 ### **Documentos Maestros:**
+- Motor de campaña (keystone): `02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md`
 - Timeline: `02_Guia_DM/07_Cronologia_Maestra_Campana.md`
 - Tracking: `06_Recursos/Tablas/20_Tablas_Tracking_Campana.md`
 - Lugartenientes: `02_Guia_DM/04_Cronofagos_Detallado.md`
-- Sistema de Competencia: `02_Guia_DM/05_La_Ascension_del_Conclave.md`
+- ⚠️ RETIRADO (usar keystone): `02_Guia_DM/05_La_Ascension_del_Conclave.md`
 
 ### **Guías de Fases:**
 - Fase 0: `04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md`

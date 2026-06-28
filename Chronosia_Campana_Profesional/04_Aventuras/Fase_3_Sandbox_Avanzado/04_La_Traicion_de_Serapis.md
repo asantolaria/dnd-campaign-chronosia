@@ -306,7 +306,7 @@ La valentía que habéis mostrado... es la clase de valentía que puede cambiar 
 
 [Varrak se arrodilla, preparándose para el ritual]
 
-"He visto millones de futuros, y en todos donde el desbalance alcanza este punto... 
+"He visto millones de futuros, y en todos donde el Reloj llega a este punto... 
 Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde equilibro 
 los poderes con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
 real de detener a Aethernus."

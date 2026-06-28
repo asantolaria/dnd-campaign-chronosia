@@ -8,7 +8,7 @@
 > - [Después del 3er Lugarteniente: Creación del Talismán](./03_Despues_3er_Lugarteniente_Creacion_Talisman.md)
 > - [Inmediatamente Después: Caos Desencadenado](./05_Inmediatamente_Despues_Caos_Desencadenado.md)
 > - [El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md) - Sección "El Asesinato de Thyra"
-> - [La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Sistema completo
+> - [Motor de Campaña — Reloj del Ritual y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md) - Fuente única (estructura, ritmo, escalada de Teach)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos
 
 ---
@@ -137,7 +137,7 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 **Si los PJ Tienen el Talismán (Muy Improbable):**
 - Pueden penetrar la barrera usando el Talismán
 - Pueden llegar mientras Teach está atacando a Thyra
-- **Combate Épico:** Edward Teach (CR 17 con Talismán) vs PJ + Thyra
+- **Combate Épico:** Edward Teach (CR 11-12, reforzado por el Talismán) vs PJ + Thyra
 - **⚠️ IMPORTANTE:** En ese caso excepcional, pueden intentar salvarla; si aun así el evento fijo debe mantenerse por necesidades de la trama, Teach puede completar el asesinato (retirarse y volver, o lograrlo en combate). Pero **lo normal es que los PJ no tengan el Talismán**, así que esta opción no se plantea: no pueden entrar.
 
 **Si los PJ NO Tienen el Talismán (Lo habitual — diseño esperado):**
@@ -149,8 +149,8 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 
 **Consecuencias (SIEMPRE ocurren):**
 - ⚠️ Thyra muere (evento fijo)
-- ⚠️ La guerra se desencadena (evento fijo)
-- ⚠️ La Ascensión del Cónclave ocurre (evento fijo)
+- ⚠️ La guerra civil entre lugartenientes se desencadena (evento fijo)
+- ⚠️ **El Reloj del Ritual da un SALTO** (el asesinato de Thyra es un hito de Barbanegra)
 - ✅ **Si los PJ luchan:** Pueden debilitar a Teach, ganar información, o recuperar artefactos temporalmente
 
 #### **Opción B: Llegan DESPUÉS (Lo Más Probable)**
@@ -217,7 +217,7 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 ## 🔗 **REFERENCIAS**
 
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "El Asesinato de Thyra"
-- **[La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema completo de competencia
+- **[Motor de Campaña — Reloj del Ritual y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** - Fuente única (estructura, ritmo, escalada de Teach)
 - **[Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Eventos Progresivos
 - **[Edward Teach - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Poderes robados de Thyra y combinaciones devastadoras
 

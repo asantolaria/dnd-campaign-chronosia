@@ -78,31 +78,26 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 
 ---
 
-## ⚖️ **DESCUBRIMIENTO DEL BALANCE TEMPORAL/DIMENSIONAL**
+## ⏳ **EL CONTADOR DEL RITUAL**
 
-### **Estado Inicial (Sesión 1-5)**
-La Resistencia **NO monitoriza el balance** entre poderes temporales y dimensionales. Han vivido durante años y años con las distorsiones como parte de su realidad cotidiana, y nunca había habido un desbalance significativo que llamara su atención. Sus dispositivos funcionaban con normalidad, y aunque las distorsiones eran constantes, se mantenían en un estado relativamente estable.
+> **Sistema vigente:** La Resistencia ya no monitoriza un "balance temporal/dimensional" (retirado). Co-construye y mantiene el **Contador del Ritual** — el Reloj de 8 segmentos que mide la ascensión de Aethernus. Fuente única: [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md).
+
+### **Estado Inicial (Fase 0-1)**
+La Resistencia ha vivido durante años con las distorsiones como parte de su realidad cotidiana. Sus dispositivos funcionaban con normalidad y las distorsiones, aunque constantes, se mantenían estables. No tenían forma de medir cuánto le quedaba al ritual de Aethernus.
 
 ### **Primera Señal: Muerte de Thyra (Sesión 5-6)**
-Tras el asesinato de Thyra la Suspendida por Edward Teach, algunos artefactos más sensibles a lo temporal comenzaron a tener **ligeros malfuncionamientos**. Los ingenieros notaron pequeñas anomalías en dispositivos que dependían de la estabilidad temporal, pero inicialmente no comprendieron la causa. Algunos estabilizadores temporales funcionaban con una eficiencia ligeramente reducida, y ciertos mecanismos mostraban comportamientos inusuales.
+Tras el asesinato de Thyra la Suspendida por Edward Teach, los artefactos más sensibles a lo temporal sufrieron un **pico brutal**: la cuenta atrás del ritual dio un **salto** detectable. Los ingenieros notaron anomalías serias en dispositivos que dependían de la estabilidad temporal y comprendieron que algo había trastocado el ritual a gran escala.
 
-### **El Descubrimiento: Segundo Lugarteniente Derrotado**
-Después de que los personajes derroten a un **segundo lugarteniente**, **Din Goldgear** (trabajando en colaboración con La Resistencia) se da cuenta de que hay una **reacción directa entre las bajas de los lugartenientes y cómo afecta su influencia en el mundo de Chronosia**. 
+### **El Contador instalado: la cuenta atrás se hace visible**
+Junto con los **Anacronistas** (que aportan la lectura del ritual) y con los sensores de **Din Goldgear**, La Resistencia construye el **Contador del Ritual**: un marcador de 8 segmentos que mide la ascensión de Aethernus. El dispositivo no se queda en el taller: se instala un **monitor central** en Cronópolis (atrio de la Fortaleza de Acero) de modo que **la ciudad pueda ver cuánto le queda al ritual** desde un punto visible. Así, el estado de la cuenta atrás deja de depender solo de explicadores puntuales: al volver a la ciudad, los PJ y la ciudadanía ven el Contador.
 
-Din, con su experiencia en Barovia y su comprensión de las distorsiones planares, conecta los puntos: cada vez que un lugarteniente cae, el equilibrio entre poderes temporales y dimensionales se altera, y esto se refleja en el funcionamiento de los artefactos tecnológicos.
+El Contador puede:
+- **Mostrar cuántos segmentos** le quedan al ritual antes de la Llamada de los Dioses
+- **Detectar los "hipos"** del flujo de poder divino cuando un lugarteniente cae (parpadeo / retroceso de medio segmento), aunque no fueran los PJ quienes lo mataron
+- **Servir de pista de investigación**: un hipo que los PJ no provocaron + una región que sigue rota = alguien (Teach) está cazando lugartenientes
+- **Avisar** cuando la cuenta atrás entra en zona crítica
 
-### **El Artilugio Detector de Balance (Indicador del Equilibrio)**
-Din Goldgear, junto con los Ingenieros y artífices de Cronópolis, **inventa un artefacto capaz de detectar y mostrar el equilibrio o desequilibrio de poder mágico** entre fuerzas temporales y dimensionales. El dispositivo no se queda solo en el taller: se instala un **monitor central** en Cronópolis (p. ej. Plaza del Equilibrio o atrio de la Fortaleza de Acero) de modo que **la ciudad pueda monitorizar el balance** desde un punto visible. Así, la información del balance deja de depender solo de explicadores puntuales: al volver a la ciudad, los PJ y la ciudadanía pueden ver el estado de "la Balanza" o del Indicador del Equilibrio.
-
-El artefacto puede:
-- **Medir el equilibrio** entre poderes temporales y dimensionales
-- **Detectar fluctuaciones** cuando un lugarteniente cae
-- **Predecir fallos** en dispositivos anti-distorsión basándose en el desbalance
-- **Alertar** cuando el equilibrio se vuelve crítico
-
-Se convierte en herramienta crucial para La Resistencia y en **referente visual** para toda Cronópolis: los artífices lo mantienen y toda la ciudad monitoriza el balance de poder mágico desde el centro.
-
-**⚠️ IMPORTANTE**: Este descubrimiento ocurre **después** de que los PJ derroten a su segundo lugarteniente. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance y no existe el Indicador en la ciudad.
+Se convierte en herramienta crucial para La Resistencia y en **referente visual** para toda Cronópolis: los artífices lo mantienen y toda la ciudad sigue la cuenta atrás desde el centro.
 
 ---
 

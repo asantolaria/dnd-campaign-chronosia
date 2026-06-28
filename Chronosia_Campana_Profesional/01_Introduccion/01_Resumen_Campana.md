@@ -9,7 +9,7 @@
 
 ## 📜 **RESUMEN EJECUTIVO**
 
-*Chronosia* es una campaña épica de D&D donde los PJ investigan un asesinato en Waterdeep que los lleva a un semiplano fracturado donde el tiempo y el espacio se han roto. Deben derrotar a los lugartenientes manteniendo el balance entre poderes temporales y dimensionales (6 vs 6 inicialmente, 5 vs 6 después de la muerte de Thyra), o provocarán una catástrofe cósmica.
+*Chronosia* es una campaña épica de D&D donde los PJ investigan un asesinato en Waterdeep que los lleva a un semiplano fracturado donde el tiempo y el espacio se han roto. Es un sandbox con una cuenta atrás: el **Reloj del Ritual** mide la ascensión de Aethernus mientras los PJ exploran, así que no da tiempo a todo y hay que elegir a qué lugartenientes enfrentar antes de que se abra la Torre.
 
 ---
 
@@ -26,9 +26,9 @@
 - Controla a los **Cronófagos** y a **12 lugartenientes** (6 de cada tipo inicialmente)
 
 ### **La Mecánica Central**
-- **Balance Temporal/Dimensional**: 6 Temporales vs 6 Dimensionales (inicialmente) → 5 Temporales vs 6 Dimensionales (después de la muerte de Thyra)
-- Si los PJ matan demasiados de un tipo, provocan catástrofe cósmica
-- **La Ascensión del Cónclave**: Todos los lugartenientes compiten por el favor de Aethernus
+- **El Reloj del Ritual**: una cuenta atrás de 8 segmentos que mide la ascensión de Aethernus. Avanza al explorar regiones y con los golpes de Barbanegra; se frena al derrotar a un crítico (Vorthak, Ignis, Teach) o con sabotajes. A 8 → Llamada de los Dioses → se abre la Torre
+- Los PJ no pueden enfrentarlos a todos: deben **elegir**, y lo que dejan sin hacer lo aprovecha el enemigo
+- **Guerra civil entre lugartenientes**: tras el asesinato de Thyra, los lugartenientes pelean entre sí, y Edward Teach absorbe a los que los PJ no alcanzan
 
 ---
 
@@ -43,8 +43,7 @@
 - **[../02_Guia_DM/01_Dirigir_Campana.md](../02_Guia_DM/01_Dirigir_Campana.md)** - Estructura de sesiones y niveles
 - **[00_Indice_Facciones.md](../02_Guia_DM/02_Facciones/00_Indice_Facciones.md)** - Cronófagos, La Resistencia, Anacronistas, Bregan D'aerthe
 - **[../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** - ⭐ **FUENTE DE VERDAD** sobre lugartenientes y poderes
-- **[../02_Guia_DM/05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - ⭐ Sistema de competencia entre lugartenientes
-- **[05_La_Ascension_del_Conclave.md](../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - ⭐ Eventos que modifican puntos
+- **[../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** - ⭐ **FUENTE DE VERDAD** sobre estructura, ritmo (el Reloj del Ritual) y el mapa de puertas
 
 ### **🗺️ Regiones y Misiones**
 - **[../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - ⭐ Tabla maestra de regiones y desbloqueos
@@ -62,17 +61,17 @@
 | **Duración** | 15-20 sesiones de 4 horas |
 | **Niveles** | 3 → 10 |
 | **Jugadores** | 4-6 óptimo (3-7 rango) |
-| **Estilo** | Railroad (Sesiones 1-3) → Sandbox Puro (4-12) → Railroad Suave (13-20) |
+| **Estilo** | Railroad de apertura (Fase 0-1) → Sandbox con reloj (Fase 2-3) → Clímax guiado en la Torre (Fase 4) |
 
 ---
 
 ## 🎯 **OBJETIVO DE LA CAMPAÑA**
 
 Los PJ deben:
-1. ✅ Derrotar a los lugartenientes manteniendo balance temporal/dimensional
+1. ✅ Elegir a qué lugartenientes enfrentar antes de que el Reloj del Ritual se agote
 2. ✅ Descubrir que Aethernus es Manshoon Clone #47
 3. ✅ Decidir el destino de los dioses Amaunator y Voidar
-4. ✅ Enfrentar a Aethernus en batalla final
+4. ✅ Enfrentar a Aethernus (o a Teach) en el clímax de la Torre
 5. ✅ Determinar el futuro de Chronosia
 
 ---

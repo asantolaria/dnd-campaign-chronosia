@@ -6,7 +6,7 @@
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 3](./00_Guia_General_Fase_3.md)
 > - [Sesión 11: Momento de Elección](./02_Sesion_11_Momento_Eleccion.md)
-> - [Fase 4: Ritual Completado](../Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
+> - [Fase 4: Ritual Completado](../Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Sesión 12
 
 ---
@@ -79,7 +79,7 @@
 ## 🔗 **REFERENCIAS**
 
 - **[Cronología Maestra - Sesión 12](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-sesión-12-el-ritual)**
-- **[Fase 6: Batalla Final](../Fase_6_Batalla_Final/00_Guia_General_Fase_6.md)** - Clímax de la campaña
+- **[Fase 4: Clímax — La Torre de la Eternidad](../Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)** - Clímax de la campaña
 
 ---
 

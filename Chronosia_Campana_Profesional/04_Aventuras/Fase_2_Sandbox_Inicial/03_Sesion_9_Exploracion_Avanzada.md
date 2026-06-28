@@ -27,7 +27,7 @@
 ### **Objetivos Principales:**
 - ✅ Continuar exploración libre
 - ✅ Derrotar más lugartenientes
-- ✅ Mantener o equilibrar el balance temporal/dimensional
+- ✅ Vigilar el Reloj del Ritual (frenarlo derrotando a los críticos)
 
 ### **Objetivos Secundarios:**
 - ⭐ Obtener artefactos importantes
@@ -59,8 +59,8 @@
 ### **1. Planificación (15 minutos)**
 
 **Los PJ planifican su próxima misión:**
-- Revisan regiones disponibles
-- Consideran el balance temporal/dimensional
+- Revisan regiones disponibles (y las puertas que tienen abiertas)
+- Consideran el Reloj del Ritual: qué críticos lo frenan, a quién no les dará tiempo
 - Eligen objetivo
 
 ### **2. Exploración (2-3 horas)**

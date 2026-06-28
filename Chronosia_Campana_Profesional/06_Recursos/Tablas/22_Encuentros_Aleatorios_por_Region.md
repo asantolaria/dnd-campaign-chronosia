@@ -51,7 +51,7 @@
 | 3 | **Criaturas desorientadas** | 4 | 1d4 criaturas (lobos, jabalíes o **bestias distorsionadas**: mismo statblock con 1 rasgo menor temporal, p. ej. "repite un ataque fallido una vez") que han entrado por una distorsión. Combate o evasión. |
 | 4 | **Mercader** | — | Mercader que viaja a o desde Cronópolis. Puede comerciar (objetos comunes o un objeto menor), dar rumores o pedir protección hasta la ciudad (1d2 encuentros de CR 3 en el camino). |
 | 5 | **Bandidos o espías** | 4 | 2-4 bandidos (o **espías** de Bregan D'aerthe / Cronófagos) que observan el camino. Combate si los PJ les confrontan; si no, pueden seguir a los PJ (el DM puede usarlos más tarde). |
-| 6 | **Distorsión menor** | — | Una pequeña zona donde el tiempo o el espacio "falla": relojes se atrasan 1 hora, 30 pies de camino se sienten como 60. Sin combate; el DM puede aplicar 1 efecto menor de la tabla de desbalance (sin lanzar 1d4) para recordar que el mundo está inestable. |
+| 6 | **Distorsión menor** | — | Una pequeña zona donde el tiempo o el espacio "falla": relojes se atrasan 1 hora, 30 pies de camino se sienten como 60. Sin combate; el DM puede aplicar 1 efecto menor de la tabla de Tormentas del Ritual para recordar que el mundo está inestable. |
 
 ---
 
@@ -63,4 +63,4 @@
 
 ---
 
-*Ver también: [19_Tablas_Eventos.md](./19_Tablas_Eventos.md) para eventos aleatorios globales y efectos de desbalance.*
+*Ver también: [19_Tablas_Eventos.md](./19_Tablas_Eventos.md) para eventos aleatorios globales y tormentas del ritual.*

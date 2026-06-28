@@ -17,11 +17,11 @@
 
 ## ⏰ **LAS REGIONES TEMPORALES**
 
-Estas regiones están dominadas por lugartenientes que controlan aspectos específicos del tiempo. Los jugadores deben enfrentar a estos lugartenientes manteniendo el equilibrio con las regiones dimensionales.
+Estas regiones están dominadas por lugartenientes que controlan aspectos específicos del tiempo.
 
-**⚠️ ESTADO ACTUAL:** Thyra la Suspendida está **VIVA** al inicio de la campaña (Sesión 1-5) y se bloquea permanentemente tras ser asesinada por Edward Teach (Sesión 6). Quedan **5 lugartenientes temporales activos** en la competencia por el favor de Aethernus.
+**⚠️ ESTADO ACTUAL:** Thyra la Suspendida está **VIVA** al inicio de la campaña y cae permanentemente tras ser asesinada por Edward Teach (hito de la cronología de Barbanegra). Quedan **5 lugartenientes temporales activos**.
 
-**⚠️ MECÁNICA CRÍTICA:** Los PJ deben derrotar a los lugartenientes manteniendo un balance entre poderes temporales y espaciales. Si derrotan demasiados de un tipo sin equilibrar con el otro, uno de los dioses podría prevalecer sobre el otro, provocando una catástrofe cósmica.
+**⏳ MOTOR DE PRESIÓN:** El ritmo de la campaña lo marca el **Reloj del Ritual** (la ascensión de Aethernus), no un balance entre tipos de lugarteniente. Cada región explorada a fondo lo avanza; derrotar a un lugarteniente crítico lo frena. Ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 **👑 LUGARTENIENTES TEMPORALES (6 inicialmente, 5 tras asesinato):**
 - Serapis el Retroceso
@@ -42,7 +42,7 @@ Estas regiones están dominadas por lugartenientes que controlan aspectos espec�
 
 **Ubicación**: Región montañosa del norte, cerca de los glaciares. **Más allá del valle, en las profundidades de las montañas del norte, se encuentra el acceso a la Torre de la Eternidad.**
 
-**ESTADO:** 🔒 **BLOQUEADA** (Sesión 1+) → 🔓 **ACCESIBLE** (Después del 3er lugarteniente) - Thyra fue asesinada por Edward Teach, la estasis desapareció
+**ESTADO:** ⚰️ **INACCESIBLE para los PJ** (barrera de estasis; solo Teach con el Talismán) → tras su asesinato cae la estasis y el valle se vuelve **el camino a la Torre** (que solo se abre con el Reloj a 8)
 
 ### **Descripción Geográfica**
 Un valle glacial en las altas montañas del norte donde todo está congelado en un instante eterno. Ríos de hielo suspendidos como cristal líquido en el aire, caballeros nórdicos a punto de golpear eternamente, aves atrapadas con las alas abiertas en pleno vuelo. En el centro se alza una aguja de hielo eterno que emite pulsos temporales sutiles, rodeada por glaciares que nunca se derriten.
@@ -502,20 +502,17 @@ Ver [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronof
 
 ---
 
-## ⚖️ **BALANCE TEMPORAL/DIMENSIONAL**
+## ⏳ **EL RELOJ DEL RITUAL Y ESTAS REGIONES**
 
-**⚠️ ADVERTENCIA CRÍTICA:** Los PJ deben mantener un balance al derrotar lugartenientes:
+El coste de explorar cada región temporal no es un "desbalance", sino el **tiempo**: cada arco a fondo avanza el Reloj del Ritual (la ascensión de Aethernus). Ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
-- **Temporales Principales Activos:** 3 (Serapis, Varrak, Vorthak)
-- **Dimensionales Principales Activos:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Balance Actual:** Ya hay un desequilibrio favorable a lo dimensional (3 vs 5)
+- **Frena el Reloj:** derrotar a un lugarteniente **crítico** (aquí, **Vorthak**, líder temporal).
+- **Lo que dejan sin tocar** lo aprovecha Teach, que absorbe a los lugartenientes que los PJ no alcanzan y crece.
 
-**⚠️ ACCIÓN ESPECIAL - SACRIFICIO DE VARRAK:**
+**🔮 SACRIFICIO DE VARRAK:**
 
-Si el balance alcanza **desbalance crítico (diferencia de 4+)**, Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Este sacrificio restaurará el balance y estabilizará Chronosia, pero los PJ perderán un aliado poderoso. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles completos.
-
-**Estrategia Recomendada:** Derrotar al menos 2 dimensionales antes de enfrentar más temporales para mantener equilibrio y evitar el sacrificio de Varrak.
+El sacrificio de Varrak ya **no se dispara por desbalance**, sino por la **relación construida** con él durante el sandbox y por el **Reloj en zona crítica (≥6/8)**. Si es aliado, se ofrece tras "La Traición de Serapis": su muerte recarga el artilugio del monje manco (revive a Marcus, da un don) y **retrocede el Reloj 1 segmento**. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) y el arco de Varrak en el Motor de Campaña.
 
 ---
 
-*Estas regiones temporales ofrecen desafíos únicos que requieren creatividad y adaptación por parte de los jugadores. Cada una presenta mecánicas diferentes que mantendrán la campaña fresca y emocionante, mientras los jugadores deben mantener el equilibrio crítico entre poderes temporales y dimensionales.*
+*Estas regiones temporales ofrecen desafíos únicos que requieren creatividad y adaptación por parte de los jugadores. Cada una presenta mecánicas diferentes que mantendrán la campaña fresca y emocionante, mientras el Reloj del Ritual avanza al fondo.*

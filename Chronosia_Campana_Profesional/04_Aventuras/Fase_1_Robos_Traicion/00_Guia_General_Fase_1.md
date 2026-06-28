@@ -131,7 +131,7 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 
 ### **Después del 3er Lugarteniente - La Combinación:**
 - **⚠️ EVENTO FIJO:** El Talismán SIEMPRE se crea
-- **Si intentan interrumpir:** Combate épico vs Edward Teach (CR 17), pero el Talismán se completa de todas formas
+- **Si intentan interrumpir:** Combate épico vs Edward Teach (CR 11-12), pero el Talismán se completa de todas formas
 - **Final B depende del timing:** Si Teach llega primero a la Torre, usa el Talismán (Final B)
 
 ### **Después del 3er Lugarteniente - Asesinato de Thyra:**
@@ -220,7 +220,7 @@ Edward Teach ejecuta su plan maestro: roba los artefactos, crea el Talismán, as
 1. **Los PJ rastrean a Teach** (si siguieron las pistas)
 2. **Encuentran la isla** donde ejecuta el ritual
 3. **Decisión crítica:** ¿Interrumpen el ritual?
-   - **SÍ:** Combate vs Edward Teach (CR 17) + 6 piratas élite
+   - **SÍ:** Combate vs Edward Teach (CR 11-12) + 6 piratas élite
    - **NO / Llegan tarde:** Teach completa el Talismán
 
 **⚠️ IMPORTANTE - EVENTO FIJO:**

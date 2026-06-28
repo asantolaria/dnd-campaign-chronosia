@@ -444,10 +444,10 @@ Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 
 Objeto: el Cronosellado, artefacto-prisión que captura y almacena el poder de una batalla divina. Propuesta: un dispositivo arcano-mecánico de metal negro y oro con dos cámaras enfrentadas (una dorada/solar = tiempo, otra púrpura/vacío = espacio) unidas por un sello central que contiene energía robada pulsante; cadenas rúnicas lo recorren. Es el corazón del ritual. Proporción 1:1. (Nota: aspecto interpretativo; el lore no lo describe.)
 ```
 
-### Indicador del Equilibrio (Balanza de Chronosia) *(propuesta — sin descripción en el lore)*
+### Contador del Ritual (monitor de la ascensión) *(propuesta — sin descripción en el lore)*
 ```
 Ilustración de objeto/artilugio al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo, render pictórico realista, iluminación de estudio, fondo neutro, sin personajes, sin texto ni marcas de agua.
-Objeto: el Indicador del Equilibrio (Balanza de Chronosia), artilugio gnomo de magia + tecnología para medir el equilibrio temporal/dimensional. Propuesta: una balanza-astrolabio de bronce y latón con dos platillos luminosos —uno dorado (temporal), otro púrpura (dimensional)— sobre una esfera graduada con agujas y luces que marcan equilibrio o desbalance. Versión de monitor público fijo, más grande. Proporción 1:1. (Nota: aspecto interpretativo; el lore no lo describe.)
+Objeto: el Contador del Ritual, artilugio gnomo de magia + tecnología que mide cuánto le falta a Aethernus para completar su ascensión divina. Propuesta: una columna-astrolabio de bronce y latón con una hilera vertical de 8 segmentos luminosos que se encienden uno a uno (de dorado a púrpura intenso) conforme avanza el ritual, coronada por una esfera graduada con agujas; algún segmento parpadea ("el hipo" cuando muere un lugarteniente). Versión de monitor público fijo en la plaza de Cronópolis, grande. Proporción 1:1. (Nota: aspecto interpretativo; el lore no lo describe.)
 ```
 
 ---

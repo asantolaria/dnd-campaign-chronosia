@@ -37,12 +37,12 @@ flowchart TD
     D7 -->|Enemigo| D9[Varrak se une a Vorthak<br/>Bando Temporal fortalecido<br/>Enemigo adicional]
     D7 -->|Mártir| D10[Varrak se sacrifica<br/>Poder épico a PJ<br/>Mejor oportunidad de victoria]
     
-    D8 --> D11[Decisión 5: Sesiones 6-12<br/>¿Mantener balance temporal/dimensional?]
+    D8 --> D11[Decisión 5: Sesiones 6-12<br/>¿A quién dejan crecer? Reloj del Ritual]
     D9 --> D11
     D10 --> D11
     
-    D11 -->|Sí| D12[Equilibrio mantenido<br/>Sin penalizaciones<br/>Chronosia estable]
-    D11 -->|No| D13[Desequilibrio creciente<br/>Penalizaciones severas<br/>Riesgo de catástrofe]
+    D11 -->|Frenan a Teach y críticos| D12[Reloj contenido<br/>Llegan a tiempo a la Torre<br/>Mejor desenlace]
+    D11 -->|Desatienden a Teach| D13[Reloj se dispara<br/>Teach absorbe lugartenientes<br/>Riesgo de Final B/D]
     
     D12 --> D14[Decisión 6: Sesión 14<br/>¿Liberar dioses en combate final?]
     D13 --> D14
@@ -92,7 +92,7 @@ flowchart TD
 - Los PJ pueden llegar a tiempo si investigaron en la Decisión 1
 
 **Opciones:**
-- **Intentar Interrumpir:** Combate épico vs Edward Teach (CR 17) + 6 piratas élite
+- **Intentar Interrumpir:** Combate épico vs Edward Teach (CR 11-12) + 6 piratas élite
 - **No Interrumpir / Llegar Tarde:** Teach completa el Talismán sin oposición
 
 **⚠️ IMPORTANTE:**
@@ -113,7 +113,7 @@ flowchart TD
 - Los PJ pueden llegar durante el asesinato si actuaron rápido
 
 **Opciones:**
-- **Intentar Prevenir:** Combate épico vs Edward Teach (CR 17 con Talismán) + Thyra como aliada temporal
+- **Intentar Prevenir:** Combate épico vs Edward Teach (CR 11-12 con Talismán) + Thyra como aliada temporal
 - **Llegar Tarde:** Thyra muerta, guerra espontánea comienza (evento fijo)
 
 **⚠️ IMPORTANTE:**
@@ -145,22 +145,22 @@ flowchart TD
 
 ---
 
-#### **5️⃣ Decisión 5: Sesiones 6-12 - ¿Mantener el balance temporal/dimensional?**
+#### **5️⃣ Decisión 5: Sesiones 6-12 - ¿A quién frenan mientras avanza el Reloj del Ritual?**
 
 **Contexto:**
-- Los PJ deben derrotar lugartenientes manteniendo equilibrio entre temporales y dimensionales
-- El desequilibrio causa penalizaciones crecientes
+- Los PJ exploran libremente, pero el **Reloj del Ritual** (ascensión de Aethernus) avanza con cada región explorada a fondo
+- No da tiempo a todo: lo que dejan sin tocar lo aprovecha **Teach**, que absorbe a los lugartenientes que no alcanzan y crece
 
 **Opciones:**
-- **Sí - Mantener equilibrio:** Sin penalizaciones, Chronosia estable
-- **No - Desequilibrar:** Penalizaciones severas, riesgo de catástrofe cósmica
+- **Frenar a los críticos:** derrotar a Vorthak, Ignis o Teach estanca el Reloj; sabotear con los Anacronistas lo congela; el sacrificio de Varrak lo retrocede 1 segmento
+- **Desatender a Teach:** el Reloj se dispara y Teach llega a la Torre mucho más fuerte
 
 **Consecuencias:**
-- **Equilibrio (Diferencia 0-1):** Todo funciona normalmente, sin efectos
-- **Desbalance (Diferencia 2+):** 1d4 efectos por sesión al inicio
-- **⚠️ NOTA:** Si el desbalance es extremo (diferencia 4+), Varrak puede sacrificarse voluntariamente para equilibrar
+- **Reloj contenido:** los PJ llegan a tiempo a la Torre → opción a Final A o C
+- **Reloj a 8 con Teach crecido:** riesgo de Final B (Teach usurpador) o D (demasiado tarde)
+- **⚠️ NOTA:** el sacrificio de Varrak se dispara por relación construida + Reloj en zona crítica (≥6/8), no por desbalance
 
-**Impacto:** Afecta directamente la jugabilidad y la dificultad de la campaña.
+**Impacto:** Determina con qué fuerza llega Teach a la Torre y qué final se desencadena. Ver [Motor de Campaña](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 ---
 
@@ -189,15 +189,15 @@ flowchart TD
 1. ✅ Investigar el robo del Cronómetro
 2. ⚠️ Intentar interrumpir el Talismán (aunque siempre se crea, pueden debilitar a Teach)
 3. ⚠️ Intentar prevenir el asesinato de Thyra (aunque siempre muere, pueden debilitar a Teach)
-4. ✅ Varrak como Mártir (mejor oportunidad de victoria)
-5. ✅ Mantener equilibrio temporal/dimensional
-6. ✅ Liberar a los dioses en el combate final
+4. ✅ Varrak como Mártir / aliado (frena el Reloj y refuerza al grupo)
+5. ✅ Frenar a Teach y a los críticos para contener el Reloj del Ritual
+6. ✅ Reunir a Anacronistas + Oceánicos y liberar a los dioses en el combate final
 
-**Ruta Alternativa (Thyra viva):**
+**Ruta de Riesgo (Teach desatendido):**
 1. ✅ Investigar el robo
-2. ✅ Interrumpir el Talismán
-3. ⚠️ Intentar prevenir el asesinato de Thyra (aunque siempre muere)
-4. ⚠️ Campaña cambia completamente - La Ascensión del Cónclave no ocurre
+2. ⚠️ Talismán creado igualmente
+3. ⚠️ Thyra muere igualmente (SALTO del Reloj)
+4. ⚠️ Los PJ se reparten en regiones lejanas y dejan que Teach cace lugartenientes → llega a la Torre como usurpador (Final B/D)
 
 ---
 

@@ -22,21 +22,22 @@
 
 ### **📊 Estructura de Niveles**
 - **Nivel Inicial**: 3 (llegada a Chronosia)
-- **Nivel Máximo**: 10 (techo; se alcanza al entrar en la Fase 6 y no se sube más)
+- **Nivel Máximo**: 10 (techo; se alcanza en el clímax de la Torre y no se sube más)
 - **Primera Misión**: 3→5 (Waterdeep + primer lugarteniente)
-- **Fase Sandbox**: 5→8 (derrotar lugartenientes manteniendo balance)
-- **Clímax**: 8→9 (Fase 4: batalla contra Teach y ritual; se alcanza nivel 9 al final de Sesión 14)
+- **Fase Sandbox**: 5→8 (explorar regiones mientras avanza el Reloj del Ritual)
+- **Clímax**: 8→10 (Fase 4: asalto a la Torre y batalla final por fases)
 
-### **⚠️ IMPORTANTE - SISTEMA DE BALANCE CRÍTICO**
-La campaña tiene **12 lugartenientes activos** inicialmente (6 de cada tipo):
-- **6 Temporales**: Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra (viva al inicio)
-- **6 Dimensionales**: Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas, Ymir
-- **1 Caído**: Thyra (asesinada por Edward Teach en Sesión 6)
+### **⏳ IMPORTANTE - EL RELOJ DEL RITUAL (MOTOR DE PRESIÓN)**
+La presión de la campaña la marca un **único motor**: el **Reloj del Ritual** (8 segmentos, empieza en 2/8), que mide la ascensión de Aethernus. **No hay sistema de balance temporal/dimensional** (retirado).
 
-**⚠️ BALANCE INICIAL**: 6 temporales vs 6 dimensionales = **Equilibrio**
-**⚠️ BALANCE POST-THYRA**: 5 temporales vs 6 dimensionales = **Desequilibrio hacia dimensional**
+La campaña tiene **12 lugartenientes activos** inicialmente:
+- **Temporales**: Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra (viva al inicio)
+- **Dimensionales**: Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas, Ymir
+- **Cae como hito de Teach**: Thyra (asesinada por Edward Teach → SALTO del Reloj)
 
-**Ver tabla completa en:** [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
+**No hay que combatir a los 12.** Los críticos son cuatro: Aethernus (BBEG), Teach, Ignis y Vorthak. El resto es sabor de sandbox; lo que dejan sin tocar, lo absorbe Teach y crece.
+
+**Ver motor y mapa de puertas en:** [10_Motor_de_Campana_Reloj_y_Puertas.md](./10_Motor_de_Campana_Reloj_y_Puertas.md) · [08_Geografia_y_Regiones_de_Chronosia.md](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
 
 ### **📋 Lista de Verificación Pre-Campaña**
 - [ ] Leer [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) - Vista general de lugartenientes (ver archivos individuales para statblocks completos)
@@ -45,80 +46,39 @@ La campaña tiene **12 lugartenientes activos** inicialmente (6 de cada tipo):
 - [ ] Revisar [00_Estructura_Campana.md](../04_Aventuras/00_Estructura_Campana.md) - Estructura de fases
 - [ ] Preparar tablas de tracking (ver [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md))
 - [ ] Preparar encuentros para niveles 3-10
-- [ ] **Familiarizarse con sistema de balance temporal/dimensional**
-- [ ] **Memorizar diálogos de explicadores del balance**
+- [ ] **Familiarizarse con el Reloj del Ritual y el Mapa de Puertas** (ver [10_Motor_de_Campana_Reloj_y_Puertas.md](./10_Motor_de_Campana_Reloj_y_Puertas.md))
+- [ ] **Tener claro qué avanza y qué frena el Reloj**
 - [ ] **Revisar sistema de anillos de poder** (ver [21_Objetos_Magicos_Reliquias.md](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes))
-- [ ] **Revisar nueva narrativa del ritual completado** (ver [Fase 4: Ritual Completado](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md))
+- [ ] **Revisar el clímax de la Torre y sus finales** (ver [Fase 4: Clímax Torre](../04_Aventuras/Fase_4_Climax_Torre/00_Guia_General_Fase_4.md))
 
 ---
 
-## ⚖️ **SISTEMA DE BALANCE TEMPORAL/DIMENSIONAL**
+## ⏳ **EL RELOJ DEL RITUAL (MOTOR DE PRESIÓN)**
+
+> **Fuente única de verdad de estructura y ritmo:** [10_Motor_de_Campana_Reloj_y_Puertas.md](./10_Motor_de_Campana_Reloj_y_Puertas.md). Aquí solo el resumen de mesa.
 
 ### **🎯 Concepto Central**
-El equilibrio entre lugartenientes temporales y dimensionales es crítico para la estabilidad de Chronosia. Cuando los PJ derrotan demasiados de un tipo sin equilibrar con el otro, el mundo se vuelve inestable y afecta directamente su capacidad de viajar, descansar y acceder a recursos.
+La presión la marca un **único motor**: el **Reloj del Ritual** (8 segmentos, empieza en 2/8), que mide la ascensión de Aethernus. Los PJ eligen libremente qué explorar, **pero el ritual avanza mientras tanto**. No da tiempo a todo: hay que **escoger** (realistamente 4-6 regiones). Lo que dejen sin hacer lo aprovecha Teach. A 8/8 → Llamada de los Dioses → se abre la Torre (clímax).
 
-### **📊 Cálculo del Balance**
-- **Equilibrio:** Cuando el número de temporales derrotados es igual o muy similar al número de dimensionales derrotados (diferencia de 0-1)
-- **Desbalance:** Cuando hay una diferencia significativa entre temporales y dimensionales derrotados (diferencia de 2+)
+### **📊 Qué mueve el Reloj**
 
-### **🔴 Estados del Balance (SIMPLIFICADO)**
+| Avanza (+1) | Frena / retrocede |
+|---|---|
+| Explorar una región a fondo (cada arco ≈ +1) | Derrotar a un lugarteniente **crítico** (Vorthak, Ignis o Teach) → el ritual se estanca |
+| Cada hito fijo de Barbanegra (el asesinato de Thyra da un **SALTO**) | Misiones de sabotaje de los Anacronistas (congelan un segmento) |
+| Desatender a Teach (deja que cace a otro lugarteniente → +1 y crece) | El sacrificio de Varrak (**−1 segmento**) |
 
-#### **🟢 EQUILIBRIO**
-- **Estado**: Todo funciona normalmente
-- **Cronópolis**: Completamente seguro y estable
-- **Viajes**: Sin problemas, portales funcionan al 100%
-- **Descanso**: Descanso largo disponible sin restricciones
-- **Recursos**: Comerciantes y NPCs funcionan normalmente
-- **Efectos**: Ninguno
+> **Ritmo, no cronómetro estricto.** Avanza el Reloj por *progreso narrativo*, no por reloj de pared. El DM tiene la última palabra sobre cuándo cae un segmento.
 
-#### **⚠️ DESBALANCE**
-- **Lanzamientos**: 1d4 efectos por sesión
-- **Momento**: Al inicio de cada sesión
-- **Efectos**: Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-- **Advertencia**: Los explicadores (Galen, Varrak, Capitán Marcus) advierten sobre el desbalance
-- **⚠️ ACCIÓN ESPECIAL**: Si el desbalance es extremo (diferencia de 4+), Varrak puede sacrificarse voluntariamente para equilibrar (ver sección de Sacrificio de Varrak)
+### **👁️ Cómo lo ven los jugadores: el Contador del Ritual**
+Los Anacronistas + La Resistencia construyen el **Contador del Ritual** en Cronópolis (Fase 1-2): un marcador físico de 8 segmentos. Al volver a la ciudad, los PJ ven cuánto ha avanzado.
 
-### **👥 Explicadores del Balance**
+**El "hipo" del Contador (gancho de investigación):** toda muerte de lugarteniente corta un canal de poder y el Contador parpadea / retrocede medio segmento. Si NO la causaron los PJ, los Anacronistas detectan la anomalía → *"alguien ha matado a un lugarteniente ahí fuera"*. Si esa región **debería haberse restaurado y sigue rota**, es prueba de que **Teach está cazando lugartenientes**. Así los PJ destapan su plan deduciéndolo del Reloj.
 
-#### **🔮 Galen (Anacronistas) - Explicador Principal**
-*"Escuchad, jóvenes. Chronosia existe en un equilibrio precario entre dos fuerzas fundamentales: el Tiempo y el Espacio. Amaunator y Voidar, aunque prisioneros, siguen luchando. Su poder se filtra a través de sus lugartenientes."*
-
-*"Si derrotáis demasiados lugartenientes temporales sin equilibrar con los dimensionales, Amaunator se debilitará. El tiempo se volverá caótico, los portales temporales fallarán, y Cronópolis perderá su estabilidad."*
-
-*"Si derrotáis demasiados dimensionales sin equilibrar con los temporales, Voidar se debilitará. El espacio se fracturará, los portales dimensionales se volverán inestables, y las distancias cambiarán aleatoriamente."*
-
-*"Debéis mantener el equilibrio. Derrotad a ambos tipos por igual, o el mundo se desmoronará."*
-
-#### **🔮 Varrak del Horizonte - Confirmación Visual**
-*"Veo futuros donde el equilibrio se rompe. En uno, derrotáis a todos los lugartenientes temporales primero. El tiempo se detiene, Cronópolis se congela, y vosotros quedáis atrapados en estasis eterna."*
-
-*"En otro, derrotáis a todos los dimensionales primero. El espacio se colapsa, Cronópolis se fractura, y vosotros desaparecéis en el vacío dimensional."*
-
-*"Pero hay un futuro donde mantenéis el equilibrio. Derrotáis a ambos tipos por igual, y el mundo se estabiliza gradualmente."*
-
-#### **⚙️ Capitán Marcus (La Resistencia) - Advertencias Tecnológicas**
-*"El artilugio de Din Goldgear detecta anomalías crecientes en el equilibrio temporal-espacial. Si el desbalance continúa, nuestros dispositivos anti-distorsión fallarán."*
-
-*"Sin estabilidad, no podremos mantener Cronópolis segura. Los PJ tendrán que buscar refugio en regiones inestables, donde las distorsiones son más peligrosas."*
-
-**⚠️ NOTA**: El Capitán Marcus solo puede proporcionar estas advertencias **después de que los PJ derroten a su segundo lugarteniente**, momento en el que Din Goldgear y los artífices inventan el **Indicador del Equilibrio** (Artilugio Detector de Balance). Ese artefacto se instala en Cronópolis con un **monitor público** (p. ej. Plaza del Equilibrio o Fortaleza de Acero), de modo que la ciudad monitoriza el balance de poder mágico desde el centro y los PJ pueden ver el estado al volver. Antes de ese momento, La Resistencia no tiene conocimiento del sistema de balance.
-
-### **📝 Hoja de Seguimiento del Desbalance**
-
-> **📊 Para tabla completa de tracking del balance:**
-> Consulta **[20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#3-balance-temporal-dimensional)** para:
-> - Tabla de Balance completa
-> - Registro de Derrotas
-> - Niveles de Desbalance y efectos
-
-**Efectos Activos:**
-- [ ] Cronópolis estable
-- [ ] Distorsiones menores visibles
-- [ ] Distorsiones moderadas visibles
-- [ ] Cronópolis inestable
-- [ ] Fallos en portales (10%/25%/50%)
-- [ ] Restricciones de descanso
-- [ ] Envejecimiento/rejuvenecimiento aleatorio
+### **👥 Voces que lo explican en mesa**
+- **Galen (Anacronistas)**: lee el Contador y avisa de cada avance del ritual.
+- **Varrak del Horizonte**: visiones de los futuros donde Aethernus completa la ascensión.
+- **Capitán Marcus (La Resistencia)**: datos del Contador y urgencia técnica.
 
 ---
 
@@ -132,11 +92,9 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 | **1 · Robos y Traición** | 4-6 | 4 → 5 | Eventos fijos | Robo del Cronómetro → Talismán → **muerte de Thyra** → guerra. [Guía](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md) |
 | **2 · Sandbox inicial** | 6-9 | 5 → 7 | Libertad total | Eligen lugartenientes; Revelación #1 (Manshoon, ses. 8). [Guía](../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md) |
 | **3 · Sandbox avanzado** | 9-12 | 7 → 8 | Semi-lineal | Revelación #2 (ritual, ses. 10); Varrak elige bando (ses. 11). [Guía](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md) |
-| **4 · Ritual completado** | 13-14 | 8 → 9 | Lineal | Batalla contra Teach; **ritual se completa** (punto de no retorno). [Guía](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md) |
-| **5 · Viaje al pasado** | 15-17 | 9 → 10 | Semi-lineal | Mundo post-ritual → máquina salta-mundos → viaje + rebatalla. [Guía](../04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md) |
-| **6 · Batalla final** | 18-20 | **10** | Lineal | Llegada a tiempo → batalla final por fases → epílogo (apertura del hub planar). [Guía](../04_Aventuras/Fase_6_Batalla_Final/00_Guia_General_Fase_6.md) |
+| **4 · Clímax: la Torre** | 13-15 | 8 → **10** | Guiado | Reloj a 8 → Llamada de los Dioses → asalto a la Torre → batalla final por fases → uno de los 4 finales. [Guía](../04_Aventuras/Fase_4_Climax_Torre/00_Guia_General_Fase_4.md) |
 
-**⚠️ Nivel máximo: 10** (alcanzado al entrar en la Fase 6; no se sube más). Los **eventos fijos** (Talismán, muerte de Thyra, ritual completado) se detallan más abajo en "Consejos → Eventos fijos: sensación in-world".
+**⚠️ Nivel máximo: 10** (alcanzado en el clímax; no se sube más). La presión la marca el **Reloj del Ritual** ([Motor de Campaña](./10_Motor_de_Campana_Reloj_y_Puertas.md)). Los **eventos fijos** (Talismán, muerte de Thyra) se detallan más abajo en "Consejos → Eventos fijos: sensación in-world".
 
 ---
 
@@ -160,7 +118,7 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 - [ ] Revisar timeline de la fase actual (ver [07_Cronologia_Maestra_Campana.md](./07_Cronologia_Maestra_Campana.md))
 - [ ] Preparar encuentros según nivel de los PJ
 - [ ] Revisar tablas de tracking (ver [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md))
-- [ ] Verificar balance temporal/dimensional
+- [ ] Comprobar el estado del Reloj del Ritual (¿toca avanzar un segmento?)
 - [ ] Preparar eventos aleatorios si aplica (1d12 cada 2-3 sesiones)
 
 ### **Documentos Útiles:**
@@ -175,28 +133,28 @@ El equilibrio entre lugartenientes temporales y dimensionales es crítico para l
 
 ### **⚠️ Eventos fijos: sensación in-world**
 
-Los eventos fijos (Talismán creado, Thyra muere, ritual se completa la primera vez) son **necesarios** para que la historia se desarrolle. Para que los jugadores no sientan que el DM les "bloquea" opciones, esos eventos deben tener **sensación de inevitabilidad in-world**:
+Los eventos fijos (Talismán creado, Thyra muere) son **necesarios** para que la historia se desarrolle. Para que los jugadores no sientan que el DM les "bloquea" opciones, esos eventos deben tener **sensación de inevitabilidad in-world**:
 
 - **Thyra:** El Valle de la Aguja Suspendida es **inaccesible** para los PJ: una barrera de estasis impide entrar. **Solo Edward Teach, con el Talismán de Interceptación**, puede penetrarla. Los PJ no tienen el Talismán; por tanto **no pueden plantearse salvar a Thyra** — no es que fallen, es que solo Teach tiene el poder para llegar hasta ella. La sensación buscada es **tragedia lejana**, no "podíamos haberla salvado".
 - **Otros eventos fijos:** Siempre que sea posible, justifica la inevitabilidad con el mundo (zonas inaccesibles, artefactos únicos en manos del villano, poderes que solo él tiene). Los PJ pueden influir en el **cómo** o en las consecuencias laterales, pero el hito ocurre por lógica del mundo.
 
 ### **⚠️ Reglas Críticas a Recordar:**
 
-1. **Balance Temporal/Dimensional:**
-   - Trackea derrotas en [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#3-balance-temporal-dimensional)
-   - Usa diálogos de explicadores cuando haya desbalance
-   - Aplica consecuencias inmediatamente
+1. **Reloj del Ritual:**
+   - Trackea el avance en [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md)
+   - Hazlo visible con el Contador del Ritual y las voces de Galen/Varrak/Marcus
+   - Frénalo al caer un crítico (Vorthak, Ignis, Teach), con sabotaje o con el sacrificio de Varrak
 
-2. **Sistema Dinámico de Lugartenientes:**
-   - Los lugartenientes vivos post-ritual se determinan dinámicamente por decisiones de los PJ
-   - Los que los PJ no derroten antes del ritual aumentan su poder después (CR +2-3)
-   - No hay sistema de "Supremos" - todos los vivos reciben poder divino
+2. **La escalada la encarna Teach (no hay "Supremos"):**
+   - Cada lugarteniente que los PJ no alcanzan primero, **Teach lo absorbe y crece**
+   - Su poder en la Torre = a cuántos llegó él antes que ellos
+   - NO se vuelven inmortales ni ganan poder ×3 (sistema de Cónclave retirado)
 
-3. **Preparación para Fase 4 (ANTES de Sesión 13):**
-   - Los PJ deben estar preparados para la batalla contra Teach
-   - El ritual está al 92-98%, avanzando rápidamente
-   - Los PJ intentarán llegar a tiempo pero llegarán tarde
-   - **📖 Detalles completos:** [Fase 4: Ritual Completado](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
+3. **Preparación para Fase 4 (clímax de la Torre):**
+   - La Torre se abre con el Reloj a 8 (Llamada de los Dioses)
+   - El final depende del estado del tablero (a quién derrotaron y de cómo llegan)
+   - La campaña **termina en el clímax de la Torre** (no hay viaje al pasado)
+   - **📖 Detalles completos:** [Fase 4: Clímax Torre](../04_Aventuras/Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
 
 ---
 
@@ -219,23 +177,15 @@ Los eventos fijos (Talismán creado, Thyra muere, ritual se completa la primera 
 - **Sesión 11**: ⚠️⚠️ Las Gemelas eligen bando
 - **Impacto**: Determina aliados y enemigos para el clímax
 
-### **Ritual Completado (Fase 4)**
-- **Sesión 13**: ⚠️⚠️⚠️ Llamada de los dioses, ritual al 98%, preparación final
-- **Sesión 14**: ⚠️⚠️⚠️ Batalla contra Teach, ritual completado, Aethernus se convierte en dios
-- **Impacto**: El mundo cambia permanentemente - punto de no retorno
-- **Consecuencias**: Lugartenientes vivos aumentan poder, portales se abren, invasión comienza
-
-### **Viaje al Pasado (Fase 5)**
-- **Sesión 15**: Mundo post-ritual, obtención de anillos de poder
-- **Sesión 16**: Construcción de la máquina salta-mundos
-- **Sesión 17**: ⚠️⚠️⚠️ Viaje temporal, fusión con yo del pasado, rebatalla contra Teach
-- **Impacto**: Única oportunidad de cambiar el pasado
-
-### **Batalla Final (Fase 6)**
-- **Sesión 18**: Llegada a tiempo al ritual, preparación
-- **Sesiones 19-20**: ⚠️⚠️⚠️ Batalla final por fases (tipo videojuego)
-- **Impacto**: Determina el futuro del multiverso
-- **Consecuencias**: Restauración del equilibrio cósmico o derrota final
+### **Clímax: la Torre (Fase 4)**
+- **Reloj a 8 → Llamada de los Dioses**: Amaunator y Voidar claman; se desbloquea la Torre de la Eternidad
+- **Asalto a la Torre**: batalla final por fases (tipo videojuego) contra Aethernus / Teach
+- **El final depende del tablero**:
+  - **Teach vivo con el Talismán y llega primero** → Final B (Blackbeard el Usurpador)
+  - **Los PJ llegan a tiempo** → Final A (Manshoon Ascendente) o C (Carrera Divina, si hay tres bandos)
+  - **Reloj forzado más allá de 8 sin que lleguen** → Final D (Demasiado Tarde)
+- **La diplomacia de facciones paga aquí**: si reunieron a Anacronistas + Oceánicos, pueden **liberar a los dioses** (buen desenlace); si no, derrotan a Aethernus pero los dioses no se salvan (final más sombrío)
+- **📖 Detalles completos:** [Fase 4: Clímax Torre](../04_Aventuras/Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
 
 ---
 

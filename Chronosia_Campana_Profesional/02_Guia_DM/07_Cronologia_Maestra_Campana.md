@@ -3,17 +3,17 @@
 
 ---
 
-> **⚠️ DOCUMENTO MAESTRO:**
-> Este es el ÚNICO documento donde se especifica cuándo ocurren los eventos clave. Todos los demás documentos referencian a este para timing.
+> **⚠️ DOCUMENTO MAESTRO (timing de eventos fijos).**
+> Para el **ritmo y la presión** (el Reloj del Ritual), el **gating de regiones** y el **timing de los hitos de Teach**, manda el [⏳ Motor de Campaña: Reloj y Puertas](./10_Motor_de_Campana_Reloj_y_Puertas.md). Este documento detalla *cuándo* ocurren los eventos fijos.
 >
-> **📖 Para información detallada de cada fase, consulta las Guías Generales:**
+> **Estructura: 5 fases · nivel 3→10 · clímax en la Torre de la Eternidad.** Sistemas retirados: balance temporal/dimensional, Lugartenientes Supremos y viaje al pasado.
+>
+> **📖 Guías Generales por fase:**
 > - [Fase 0: Railroad Inicial](../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)
 > - [Fase 1: Robos y Traición](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
 > - [Fase 2: Sandbox Inicial](../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
 > - [Fase 3: Sandbox Avanzado](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
-> - [Fase 4: Ritual Completado](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
-- [Fase 5: Viaje al Pasado](../04_Aventuras/Fase_5_Viaje_al_Pasado/00_Guia_General_Fase_5.md)
-- [Fase 6: Batalla Final](../04_Aventuras/Fase_6_Batalla_Final/00_Guia_General_Fase_6.md)
+> - [Fase 4: Clímax — La Torre de la Eternidad](../04_Aventuras/Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
 
 ---
 
@@ -24,9 +24,7 @@
 - [Fase 1: Robos y Traición (Sesiones 4-6)](#fase-1-robos-y-traición-sesiones-4-6)
 - [Fase 2: Sandbox Inicial (Sesiones 6-9)](#fase-2-sandbox-inicial-sesiones-6-9)
 - [Fase 3: Sandbox Avanzado (Sesiones 9-12)](#fase-3-sandbox-avanzado-sesiones-9-12)
-- [Fase 4: Ritual Completado (Sesiones 13-14)](#fase-4-ritual-completado-sesiones-13-14)
-- [Fase 5: Viaje al Pasado (Sesiones 15-17)](#fase-5-viaje-al-pasado-sesiones-15-17)
-- [Fase 6: Batalla Final (Sesiones 18-20)](#fase-6-batalla-final-sesiones-18-20)
+- [Fase 4: Clímax — La Torre de la Eternidad (Sesiones 13-15)](#-fase-4-clímax-sesiones-13-15)
 
 ### **📊 Por Sistema**
 - [Desbloqueo de Regiones](#-desbloqueo-de-regiones)
@@ -168,7 +166,7 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 ### **Objetivo de esta Fase:**
 Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar al villano final.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 4](../04_Aventuras/Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
+**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 4](../04_Aventuras/Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
 
 ### **Resumen de Sesiones:**
 
@@ -225,7 +223,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 | **Rotor Infinito** | Derrotar a Serapis (Núcleo) + Ymir (Carcasa) | 3-7 | - | - Componentes fragmentados<br>- Propósito: conectar todas las regiones<br>- Portal a Faerún (post-campaña) | Quest de Ingenieros |
 | **Motor de Viento Perpetuo** | Rotor Infinito completo + 10,000 po + 2 semanas | 7-9 | Archipiélago de Barbanegra | - Permite navegar el mar en calma<br>- Tecnología de La Resistencia | Desbloqueo de región |
 | **Contador del Ritual** | Colaboración Anacronistas + La Resistencia | 8-9 | - | - Muestra urgencia del ritual (indicadores narrativos)<br>- Urgencia visible<br>- Manshoon está recluido | Revelación gradual |
-| **Artilugio Detector de Balance** | Din Goldgear lo inventa después del 2do lugarteniente | 7-8 | - | - Detecta desbalance temporal/dimensional<br>- Malfuncionamientos después de Thyra<br>- Sistema de balance explicado | Tecnología de La Resistencia |
+| **Contador del Ritual** | Anacronistas + La Resistencia lo construyen (Din calibra los sensores) | 8-9 | - | - Marcador de 8 segmentos de la ascensión de Aethernus<br>- "Hipo" al morir un lugarteniente (gancho de investigación)<br>- Sistema del Reloj explicado | Tecnología de La Resistencia |
 | **Excavadora Dimensional** | 5 Cristales Dimensionales Puros | Variable | - | - Permite excavar en espacios comprimidos<br>- Tecnología avanzada | Quest opcional |
 
 ---
@@ -270,11 +268,8 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 > - Métodos de subida de nivel
 
 **Resumen:**
-- **Niveles:** 3 (inicio) → 15 (final)
-- **Total de Lugartenientes a Derrotar:** 
-  - **Sesión 1:** Kaelthas (Dimensional)
-  - **Sesiones 3-12:** 10-11 lugartenientes adicionales
-  - **TOTAL:** 11-12 lugartenientes derrotados durante la campaña
+- **Niveles:** 3 (inicio) → 10 (final)
+- **Lugartenientes a derrotar:** **no hay que derrotarlos a todos.** Críticos = Teach, Ignis, Vorthak (+ Aethernus). Para *llegar* a Teach bastan **2** (Serapis + Ymir → Motor de Viento); recomendable **3-4** en total antes de enfrentarlo. El resto son opcionales; los que el grupo no alcanza, los absorbe Teach. Ver [Motor de Campaña](./10_Motor_de_Campana_Reloj_y_Puertas.md).
 
 ---
 
@@ -330,25 +325,21 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 **Sandbox es Real:**
 - Entre las Sesiones 6-12, los PJ tienen libertad TOTAL
 - No fuerces un orden específico de lugartenientes
-- Los lugartenientes que los PJ no derroten antes del ritual quedan vivos post-ritual (sistema dinámico)
-- Actualiza las tablas de tracking en [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md) después de cada sesión
+- Los lugartenientes que los PJ no alcancen son absorbidos por Teach o caen en la guerra civil; eso **alimenta el Reloj** (ver Motor de Campaña)
+- Actualiza el **Reloj del Ritual** y el estado de regiones después de cada sesión
 
-**Timing del Ritual Completado (Fase 4):**
-- Sesión 13 puede moverse a Sesión 12-14 si los PJ avanzan más rápido/lento
-- Pero el ritual DEBE estar en estado crítico (98%) cuando se llame a los PJ
-- Los PJ llegarán tarde (evento fijo) - el ritual se completa en Sesión 14
-- Ajusta la urgencia narrativa según el ritmo de la mesa
+**Timing del clímax (Fase 4):**
+- La Torre se abre cuando el **Reloj llega a 8** (Llamada de los Dioses), no en una sesión fija — cae hacia las Sesiones 13-15 según el ritmo de la mesa
+- El final depende del tablero: si los PJ llegan a tiempo (Final A/C), si Teach intercepta primero (Final B), o si el Reloj se agota sin ellos (Final D)
+- Ajusta cuándo cae cada segmento según el progreso narrativo
 
 ### **Urgencia Escalable:**
 
-**Sesiones 1-3:** Sin urgencia, exploración tranquila  
-**Sesiones 4-6:** Urgencia moderada (robos, asesinato)  
-**Sesiones 6-9:** Urgencia moderada (guerra entre lugartenientes)  
-**Sesiones 10-12:** Urgencia creciente (revelaciones sobre Manshoon)  
-**Sesión 13:** **URGENCIA MÁXIMA** - "¡NO QUEDA TIEMPO!"  
-**Sesión 14:** ⚠️⚠️⚠️ **RITUAL COMPLETADO** - Aethernus se convierte en dios  
-**Sesiones 15-17:** Mundo post-ritual, viaje al pasado  
-**Sesiones 18-20:** Batalla final por fases
+**Reloj 2-3/8 (Sesiones 1-3):** Sin urgencia, exploración tranquila  
+**Reloj 3-4/8 (Sesiones 4-6):** Urgencia moderada (robos, asesinato de Thyra → salto del Reloj)  
+**Reloj 4-6/8 (Sesiones 6-9):** Guerra entre lugartenientes; el "hipo del Contador" destapa a Teach  
+**Reloj 6-7/8 (Sesiones 10-12):** Urgencia creciente; revelaciones sobre Manshoon; posible sacrificio de Varrak  
+**Reloj 8/8 (Sesiones 13-15):** ⚠️⚠️⚠️ **LLAMADA DE LOS DIOSES** — se abre la Torre, clímax y uno de los 4 finales
 
 ---
 
@@ -364,9 +355,9 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 | **08_Geografia_y_Regiones_de_Chronosia.md** | Tabla maestra de regiones | Toda la campaña |
 | **04_Escenas_de_Revelacion.md** (Fase_2_Sandbox_Inicial) | Revelaciones sobre Manshoon (Sesiones 8-13) | Preparar Sesiones 8-13 |
 | **05_Encuentro_Anacronistas_Relojeros.md** (Fase_2_Sandbox_Inicial) | Contador del Ritual (Sesión 8-9) | Preparar Sesión 8-9 |
-| **04_Aventuras/Fase_4_Ritual_Completado/** | Ritual completado, batalla contra Teach | Preparar Sesiones 13-14 |
-| **04_Aventuras/Fase_5_Viaje_al_Pasado/** | Mundo post-ritual, viaje temporal | Preparar Sesiones 15-17 |
-| **04_Aventuras/Fase_6_Batalla_Final/** | Batalla final por fases | Preparar Sesiones 18-20 |
+| **04_Aventuras/Fase_4_Climax_Torre/** | Clímax: asalto a la Torre de la Eternidad | Preparar Sesiones 13-15 |
+| **00_Esquemas/03_Torre_Eternidad.md** | Niveles de la Torre y los 4 finales | Preparar el clímax |
+| **10_Motor_de_Campana_Reloj_y_Puertas.md** | Reloj, puertas, villanos críticos, Teach, Varrak | Toda la campaña |
 
 ---
 

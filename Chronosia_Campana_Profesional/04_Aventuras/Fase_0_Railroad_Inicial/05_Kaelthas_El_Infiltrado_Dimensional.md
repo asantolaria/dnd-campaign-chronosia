@@ -238,19 +238,13 @@ El taller de Kaelthas es un edificio de tres pisos en el distrito de artesanos d
 
 ---
 
-## ⚖️ **IMPACTO EN EL BALANCE**
+## 🎯 **PAPEL EN LA CAMPAÑA**
 
-### **Balance Inicial Corregido**
-- **Antes**: Kaelthas temporal → 6 temporales vs 6 dimensionales (equilibrio)
-- **Después**: Kaelthas dimensional → 5 temporales vs 6 dimensionales (después de muerte de Thyra)
-- **Resultado**: El desequilibrio inicial es ligero y parte del diseño
-
-### **Mecánicas de Desbalance**
-- **Los PJ enfrentan** un desequilibrio desde el inicio
-- **Deben aprender** sobre la importancia del balance
-- **Galen explica** la teoría del balance después de derrotar a Kaelthas
-- **Motivación** para equilibrar futuros enfrentamientos
+### **El Primer Lugarteniente**
+- **Kaelthas es dimensional** (canaliza el poder de Voidar): es el primer Cronófago que los PJ derrotan, en Waterdeep.
+- Su derrota es el gancho que los lleva a Chronosia con los Anacronistas.
+- **Galen explica el Reloj del Ritual** (el Contador) después de derrotar a Kaelthas: la ascensión de Aethernus avanza, y los PJ tendrán que elegir a qué dedican su tiempo.
 
 ---
 
-*Kaelthas el Infiltrado Dimensional es el primer antagonista que los PJ enfrentan en la campaña Chronosia. Su derrota marca el inicio de su aventura en el mundo fracturado de Chronosia, donde el equilibrio entre tiempo y espacio es crucial para la supervivencia. Al ser dimensional, introduce a los PJ al concepto de desequilibrio desde el primer encuentro.*
+*Kaelthas el Infiltrado Dimensional es el primer antagonista que los PJ enfrentan en la campaña Chronosia. Su derrota marca el inicio de su aventura en el mundo fracturado de Chronosia, e introduce a los PJ al conflicto entre tiempo y espacio que está destrozando el semiplano.*

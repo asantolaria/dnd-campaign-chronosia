@@ -24,7 +24,7 @@
 - [ ] Mapas visuales de regiones
 
 ### **Materiales de Juego:**
-- [x] **Hoja Balance Temporal/Dimensional** - [Hoja_Balance_Temporal_Dimensional.md](./Hoja_Balance_Temporal_Dimensional.md) — Recordatorio para jugadores del equilibrio (temporales vs dimensionales derrotados) y del Indicador del Equilibrio en Cronópolis ✅
+- [ ] **Hoja del Reloj del Ritual** — handout para jugadores del Contador (8 segmentos) y su avance. *(Pendiente Etapa 3; sustituye a la antigua hoja de balance, retirada.)*
 - [ ] Fichas de personajes
 - [ ] Hojas de seguimiento
 - [ ] Tablas de referencia

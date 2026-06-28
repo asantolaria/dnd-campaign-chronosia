@@ -67,21 +67,17 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 
 ---
 
-## ⚖️ **SISTEMA DE BALANCE CRÍTICO**
+## ⏳ **EL RELOJ DEL RITUAL (MOTOR DE PRESIÓN)**
 
-**⚠️ IMPORTANTE:** Los PJ deben mantener equilibrio entre derrotar lugartenientes temporales y dimensionales.
+**⚠️ IMPORTANTE:** La presión la marca un **único motor**: el **Reloj del Ritual** (8 segmentos, empieza en 2/8), que mide la ascensión de Aethernus. No hay sistema de balance temporal/dimensional (retirado).
 
-**Balance Inicial:**
-- **Temporales:** 3 (Serapis, Varrak, Vorthak)
-- **Dimensionales:** 5 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas)
-- **Ya hay desequilibrio** favorable a lo dimensional
+**Qué mueve el Reloj durante esta fase:**
+- **Avanza (+1):** explorar una región a fondo; hitos de Barbanegra (Thyra = SALTO); desatender a Teach (caza a otro lugarteniente → crece)
+- **Frena / retrocede:** derrotar a un lugarteniente **crítico** (Vorthak, Ignis, Teach); sabotaje de los Anacronistas; sacrificio de Varrak (−1)
 
-**Consecuencias del Desequilibrio:**
-- **Equilibrio (Diferencia 0-1):** Sin efectos, todo funciona normalmente
-- **Desbalance (Diferencia 2+):** 1d4 efectos por sesión al inicio
-- **⚠️ NOTA:** Si el desbalance es extremo (diferencia 4+), Varrak puede sacrificarse voluntariamente para equilibrar
+**La escalada la encarna Teach:** cada lugarteniente que los PJ no alcanzan primero, Teach lo absorbe y crece. No hay "Supremos" ni inmortalidad.
 
-**Ver:** [Tabla de Efectos por Desbalance](../../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
+**Ver:** [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)
 
 ---
 
@@ -112,10 +108,10 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 - **Adapta según contexto:** Los eventos deben tener sentido narrativo
 - **Afecta a los PJ:** Los eventos deben tener impacto visible
 
-### **Balance Temporal/Dimensional:**
-- **Trackea constantemente:** Número de temporales vs dimensionales derrotados
-- **Usa advertencias:** Eventos cósmicos cuando hay desequilibrio
-- **No penalices inmediatamente:** Da 2-3 advertencias antes de consecuencias graves
+### **Reloj del Ritual:**
+- **Trackea el Reloj:** avanza un segmento cuando los PJ exploran una región a fondo
+- **Hazlo visible:** Contador del Ritual de Cronópolis, hitos de Teach, voces de Galen/Varrak/Marcus
+- **Es ritmo, no cronómetro:** el DM decide cuándo cae un segmento; frénalo al caer un crítico o con sabotaje/sacrificio
 
 ---
 

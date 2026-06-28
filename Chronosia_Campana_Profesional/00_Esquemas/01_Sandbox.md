@@ -48,65 +48,52 @@ flowchart LR
     D5 --> DEC10{¿Derrotar?}
     D6 --> DEC11{¿Derrotar/Aliarse?<br/>Según circunstancias}
     
-    DEC1 --> BALANCE[⚖️ Sistema de Balance<br/>Temporales vs Dimensionales]
-    DEC2 --> BALANCE
-    DEC3 --> BALANCE
-    DEC4 --> BALANCE
-    DEC5 --> BALANCE
-    DEC6 --> BALANCE
-    DEC7 --> BALANCE
-    DEC8 --> BALANCE
-    DEC9 --> BALANCE
-    DEC10 --> BALANCE
-    DEC11 --> BALANCE
+    DEC1 --> RELOJ[⏳ Reloj del Ritual<br/>Avanza con el tiempo]
+    DEC2 --> RELOJ
+    DEC3 --> RELOJ
+    DEC4 --> RELOJ
+    DEC5 --> RELOJ
+    DEC6 --> RELOJ
+    DEC7 --> RELOJ
+    DEC8 --> RELOJ
+    DEC9 --> RELOJ
+    DEC10 --> RELOJ
+    DEC11 --> RELOJ
     
-    BALANCE --> CONSEC{¿Desequilibrio?}
-    CONSEC -->|Equilibrio| OK[Todo normal<br/>Sin penalizaciones]
-    CONSEC -->|Desbalance| DESB[Desbalance<br/>1d4 efectos/sesión]
+    RELOJ --> CONSEC{¿Crítico derrotado?}
+    CONSEC -->|Sí: Vorthak/Ignis/Teach| FRENA[Canal cortado<br/>el ritual se estanca]
+    CONSEC -->|No, o lugarteniente vivo| AVANZA[Teach lo absorbe<br/>el Reloj avanza]
     
     style SANDBOX fill:#fff5e1
-    style BALANCE fill:#ffe1e1
-    style OK fill:#ccffcc
-    style DESB fill:#ffcc99
+    style RELOJ fill:#ffe1e1
+    style FRENA fill:#ccffcc
+    style AVANZA fill:#ffcc99
 ```
 
 ---
 
 ## 📋 **INFORMACIÓN DETALLADA**
 
-### **⚖️ Sistema de Balance Crítico**
+> **Motor de presión: el Reloj del Ritual** (sustituye al antiguo sistema de balance temporal/dimensional, retirado). Detalle completo en [⏳ Motor de Campaña: Reloj y Puertas](../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
 
-**Balance Inicial (Después de la muerte de Thyra):**
-- **Temporales:** 5 (Serapis, Varrak, Vorthak, Medusa, Tempus)
-- **Dimensionales:** 6 (Teach, Dimensionalis, Ignis, Veldrisza, Gemelas, Ymir)
-- **Ya hay desequilibrio** favorable a lo dimensional (5 vs 6)
+### **⏳ Cómo funciona el Reloj en el sandbox**
 
-**Cálculo del Balance:**
-- **Equilibrio:** Cuando el número de temporales derrotados es igual o muy similar al número de dimensionales derrotados (diferencia de 0-1)
-- **Desbalance:** Cuando hay una diferencia significativa entre temporales y dimensionales derrotados (diferencia de 2+)
+El Reloj del Ritual (8 segmentos, empieza en 2/8) avanza mientras los PJ exploran. **No da tiempo a todo: hay que elegir.**
 
-### **🔴 Estados del Balance:**
+- **Avanza** al explorar regiones (cada arco ≈ +1), con los hitos de Teach, y si dejan que Barbanegra absorba lugartenientes.
+- **Se frena** al derrotar a un **crítico** (Vorthak, Ignis, Teach → corta un canal divino), con sabotaje de los Anacronistas, o con el **sacrificio de Varrak** (−1).
+- **A 8** → Llamada de los Dioses → se abre la Torre (clímax).
 
-#### **🟢 EQUILIBRIO**
-- **Estado:** Todo funciona normalmente
-- **Cronópolis:** Completamente seguro y estable
-- **Viajes:** Sin problemas, portales funcionan al 100%
-- **Descanso:** Descanso largo disponible sin restricciones
-- **Efectos:** Ninguno
+### **🔮 El sacrificio de Varrak**
 
-#### **⚠️ DESBALANCE**
-- **Lanzamientos:** 1d4 efectos por sesión
-- **Momento:** Al inicio de cada sesión
-- **Efectos:** Ver [Tabla de Efectos por Desbalance](../06_Recursos/Tablas/19_Tablas_Eventos.md#-tabla-de-efectos-por-desbalance)
-- **⚠️ ACCIÓN ESPECIAL:** Si el desbalance es extremo (diferencia de 4+), Varrak puede sacrificarse voluntariamente para equilibrar
-- **⚠️ ACCIÓN ESPECIAL:** Si el balance alcanza desbalance crítico (diferencia de 4+), Varrak del Horizonte (probablemente aliado de los PJ) se quitará la vida voluntariamente para equilibrar los poderes y evitar la catástrofe cósmica. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) para detalles.
+Si el **Reloj está crítico (≥6/8)** y Varrak es aliado de los PJ, puede sacrificarse para retroceder el Reloj un segmento (y revivir a Marcus). El gatillo ya no es el "desbalance", sino el Reloj + la relación construida con él. Ver [02_Varrak_El_Oraculo.md](../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md).
 
 ### **🎯 Estrategia Recomendada:**
 
-**Para mantener el equilibrio:**
-- Derrotar al menos 1 dimensional antes de enfrentar más temporales
-- Alternar entre temporales y dimensionales cuando sea posible
-- Considerar alianzas en lugar de derrotas cuando el balance esté en riesgo
+**Para no quedarse sin tiempo:**
+- Prioriza a los **críticos** (frenan el Reloj); el resto, opcional
+- No te entretengas: cada región consume tiempo
+- Considera **alianzas** en vez de combates cuando convenga (Varrak, Gemelas)
 
 **⚠️ IMPORTANTE - Opciones de Alianza con Lugartenientes:**
 
@@ -127,5 +114,5 @@ flowchart LR
 
 ---
 
-*Este diagrama muestra cómo las decisiones de exploración afectan el balance crítico de Chronosia. Mantener el equilibrio es esencial para evitar catástrofes cósmicas.* ⚖️✨
+*Este diagrama muestra cómo las decisiones de exploración hacen correr el Reloj del Ritual. No da tiempo a todo: elegir bien a quién enfrentar es la esencia del sandbox.* ⏳✨
 

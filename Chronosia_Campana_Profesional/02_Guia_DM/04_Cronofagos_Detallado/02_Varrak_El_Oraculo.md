@@ -214,31 +214,30 @@ El monje manco es la mano derecha de Varrak, y su presencia añade profundidad e
 
 ---
 
-## ⚠️ **SACRIFICIO POR EQUILIBRIO - DESBALANCE CRÍTICO**
+## ⚠️ **SACRIFICIO POR EL RELOJ**
 
 **⚠️ INFORMACIÓN CRÍTICA PARA EL DM:**
 
-Si el balance temporal/dimensional alcanza un **desbalance crítico (diferencia de 4+)** en cualquier momento de la campaña, Varrak tomará una decisión drástica:
+> **Gatillo actualizado.** El sacrificio ya no se dispara por "desbalance crítico" (sistema retirado), sino por el **Reloj del Ritual en zona crítica (≥6/8)** más una **relación construida** con Varrak a lo largo del sandbox. Su arco completo en 4 beats está en [⏳ Motor de Campaña → El arco de Varrak](../10_Motor_de_Campana_Reloj_y_Puertas.md#-el-arco-de-varrak-sacrificio-motivado).
 
 ### **La Decisión de Varrak:**
 
-Varrak, habiendo visto millones de futuros posibles, comprende que un desbalance crítico llevará a Chronosia a la catástrofe cósmica. Como lugarteniente temporal, su muerte restaurará su región y ayudará a equilibrar los poderes.
+Varrak, habiendo visto millones de futuros posibles, comprende que cuando el Reloj llega a este punto **solo hay un futuro donde los PJ ganan: aquel en el que él se aparta**. Su muerte libera su poder temporal y le compra tiempo al mundo.
 
 **Condiciones para el Sacrificio:**
-- **Desbalance Crítico:** Diferencia de 4+ entre temporales y dimensionales derrotados
-- **Varrak está vivo:** Debe estar activo (no derrotado)
-- **Varrak probablemente es aliado:** Si Varrak se ha convertido en aliado de los PJ (muy probable según el desarrollo de la campaña), su sacrificio será voluntario y heroico
+- **Reloj crítico:** El Reloj del Ritual está en **≥6/8**
+- **Varrak está vivo y es aliado:** se ha ganado su confianza durante el sandbox (beats 1-3 de su arco); si lo traicionaron o destruyeron, el momento cambia de tono o no ocurre
+- **Momento:** suele coincidir con el funeral de Marcus tras "La Traición de Serapis"
 
 ### **Cómo Ocurre:**
 
-1. **Varrak detecta el desbalance:** Sus visiones le muestran la catástrofe inminente
-2. **Varrak contacta a los PJ:** Si es aliado, les explica su decisión
+1. **Varrak ve el final:** sus visiones le muestran que el Reloj ya no se puede revertir de otro modo
+2. **Varrak contacta a los PJ:** si es aliado, les explica su decisión
 3. **El sacrificio:** Varrak se quita la vida voluntariamente mediante **harakiri ritual** (seppuku)
 4. **Efecto inmediato:**
-   - **Balance se restaura:** -1 temporal derrotado (Varrak)
-   - **Diferencia se reduce:** El desbalance crítico se mitiga
+   - **El Reloj retrocede 1 segmento** (su muerte estabiliza el flujo divino)
    - **Región se restaura:** El Abismo de los Posibles vuelve a la normalidad
-   - **Poder temporal liberado:** Se disipa suavemente, ayudando a estabilizar Chronosia
+   - **Poder temporal liberado:** el monje manco lo canaliza al artilugio para revivir a Marcus
 
 ### **🎭 El Ritual del Harakiri - El Sacrificio Final**
 
@@ -253,7 +252,7 @@ La valentía que habéis mostrado... es la clase de valentía que puede cambiar 
 
 [Varrak se arrodilla, preparándose para el ritual]
 
-"He visto millones de futuros, y en todos donde el desbalance alcanza este punto... 
+"He visto millones de futuros, y en todos donde el Reloj llega a este punto... 
 Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde equilibro 
 los poderes con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
 real de detener a Aethernus."
@@ -286,7 +285,7 @@ Si Varrak es aliado de los PJ, este será un momento emocionalmente devastador p
 **Diálogo Sugerido:**
 ```
 VARRAK:
-"He visto millones de futuros, y en todos donde el desbalance alcanza este punto... 
+"He visto millones de futuros, y en todos donde el Reloj llega a este punto... 
 Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde equilibro 
 los poderes con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
 real de detener a Aethernus."
@@ -300,7 +299,7 @@ todos moriremos. Al menos así... al menos así vosotros tenéis una oportunidad
 
 ### **Consecuencias:**
 
-- **✅ Balance restaurado:** El desbalance crítico se reduce significativamente
+- **✅ Reloj retrocedido:** El Reloj del Ritual baja 1 segmento
 - **✅ Región restaurada:** El Abismo de los Posibles vuelve a la normalidad
 - **⚠️ Varrak muere:** Los PJ pierden un aliado poderoso
 - **⚠️ Impacto emocional:** Momento dramático y trágico
@@ -308,9 +307,9 @@ todos moriremos. Al menos así... al menos así vosotros tenéis una oportunidad
 
 ### **Notas para el DM:**
 
-- **Timing:** Este evento puede ocurrir en cualquier momento después de Sesión 8, cuando el balance se vuelve crítico
-- **Prevención:** Los PJ pueden intentar mantener el balance para evitar este sacrificio
-- **Alternativas:** Si los PJ actúan rápidamente para equilibrar el balance antes de que llegue a crítico, Varrak no necesita sacrificarse
+- **Timing:** Cuando el Reloj del Ritual entra en zona crítica (≥6/8), normalmente en Fase 3
+- **Prevención:** Si los PJ frenan el Reloj a tiempo (matando críticos, sabotaje), el sacrificio puede no ser necesario
+- **Relación:** El peso emocional depende de los beats 1-3 de su arco; sin vínculo previo, no aterriza
 - **Impacto narrativo:** Este es un momento clave que muestra el costo real de la guerra y la importancia del balance
 
 ---
@@ -340,7 +339,7 @@ Varrak debe elegir bando. Los PJ determinan el resultado:
 - **Mártir Quebrado:** Si lo destruyen → Se sacrifica, los PJ reciben poder épico
 
 ### **💀 Sacrificio Heroico:**
-Si el balance alcanza **desbalance crítico (diferencia 4+)**, Varrak puede **sacrificarse voluntariamente** para equilibrar los poderes y evitar la catástrofe cósmica.
+Si el **Reloj del Ritual entra en zona crítica (≥6/8)** y Varrak es aliado, puede **sacrificarse voluntariamente** para retroceder el Reloj y darles a los PJ una última oportunidad. Ver su arco completo en el [Motor de Campaña](../10_Motor_de_Campana_Reloj_y_Puertas.md#-el-arco-de-varrak-sacrificio-motivado).
 
 
 ---

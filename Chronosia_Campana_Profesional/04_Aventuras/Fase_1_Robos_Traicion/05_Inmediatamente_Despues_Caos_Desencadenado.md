@@ -1,5 +1,5 @@
 # 📖 Inmediatamente Después: El Caos Desencadenado
-## *Guerra Espontánea - La Ascensión del Cónclave Comienza*
+## *Guerra Civil entre Lugartenientes - El Salto del Reloj del Ritual*
 
 ---
 
@@ -7,7 +7,7 @@
 > - [← Volver a Fase 1](./00_Guia_General_Fase_1.md)
 > - [Después del 3er Lugarteniente: Asesinato de Thyra](./04_Despues_3er_Lugarteniente_Asesinato_Thyra.md)
 > - [Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
-> - [La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Sistema completo
+> - [Motor de Campaña — Reloj del Ritual y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md) - Fuente única (estructura, ritmo, escalada de Teach)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos
 
 ---
@@ -18,7 +18,7 @@
 - **Nivel Aprox de los PJ:** 7-8 (inmediatamente después del asesinato de Thyra)
 - **Ubicación:** En cualquier lugar de Chronosia
 - **Estilo:** Revelación + Transición a Sandbox
-- **⚠️⚠️⚠️ EVENTO FIJO:** Guerra espontánea comienza
+- **⚠️⚠️⚠️ EVENTO FIJO:** Guerra civil entre lugartenientes comienza · el Reloj del Ritual da un salto
 - **⚠️ TIMING:** Ocurre **INMEDIATAMENTE DESPUÉS** del asesinato de Thyra
 
 ---
@@ -227,7 +227,7 @@ Los PJ ahora entienden que:
 **Información Proporcionada:**
 - Mapa actualizado con regiones desbloqueadas (6 regiones)
 - Información sobre los bandos
-- Advertencia sobre el balance temporal/dimensional
+- El **Contador del Ritual** ha dado un salto: la cuenta atrás se ha acelerado
 
 **Primera Elección de Sandbox:**
 - Los PJ pueden elegir qué región explorar primero
@@ -254,10 +254,10 @@ Los PJ ahora entienden que:
 ## 🎁 **RECOMPENSAS**
 
 ### **Información Revelada:**
-- Sistema de La Ascensión del Cónclave
+- La guerra civil entre lugartenientes y cómo Teach la aprovecha (ver el Motor de Campaña)
 - Formación de bandos
 - Estado de cada lugarteniente
-- Advertencia sobre el balance
+- El salto del Reloj del Ritual
 
 ### **Regiones Desbloqueadas (Total: 6):**
 - El Abismo de los Posibles (Varrak)
@@ -281,14 +281,14 @@ Los PJ ahora entienden que:
 
 ### **Setup para Fase 2:**
 - **Presenta las opciones:** Qué regiones están disponibles
-- **Explica el sistema:** Balance temporal/dimensional
+- **Explica el sistema:** el Reloj del Ritual avanza mientras exploran; hay que elegir
 - **Crea motivación:** "Debéis actuar antes de que sea demasiado tarde"
 
 ---
 
 ## 🔗 **REFERENCIAS**
 
-- **[La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema completo
+- **[Motor de Campaña — Reloj del Ritual y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** - Fuente única (estructura, ritmo, escalada de Teach)
 - **[Cronología Maestra - Eventos Progresivos](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md#-fase-1-robos-y-traición-eventos-progresivos)**
 - **[Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)** - Próxima fase
 

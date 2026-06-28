@@ -6,7 +6,7 @@
 > **📖 REFERENCIAS:**
 > - [← Volver a Fase 1](./00_Guia_General_Fase_1.md)
 > - [El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md) - Sección "El Asesinato de Thyra"
-> - [La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md) - Sistema completo
+> - [Motor de Campaña — Reloj del Ritual y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md) - Fuente única (estructura, ritmo, escalada de Teach)
 > - [Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md) - Eventos Progresivos
 
 ---
@@ -137,7 +137,7 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 **Si los PJ Tienen el Talismán (Muy Improbable):**
 - Pueden penetrar la barrera usando el Talismán
 - Pueden llegar mientras Teach está atacando a Thyra
-- **Combate Épico:** Edward Teach (CR 17 con Talismán) vs PJ + Thyra
+- **Combate Épico:** Edward Teach (CR 11-12, reforzado por el Talismán) vs PJ + Thyra
 - **⚠️ IMPORTANTE:** En ese caso excepcional pueden intentar salvarla; si el evento fijo se mantiene, Teach puede completar el asesinato. Lo normal es que **no tengan el Talismán** y lleguen después (Opción B).
   - Pueden retrasar el asesinato
   - Pueden herir gravemente a Teach
@@ -150,8 +150,8 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 
 **Consecuencias (SIEMPRE ocurren):**
 - ⚠️ Thyra muere (evento fijo)
-- ⚠️ La guerra se desencadena (evento fijo)
-- ⚠️ La Ascensión del Cónclave ocurre (evento fijo)
+- ⚠️ La guerra civil entre lugartenientes se desencadena (evento fijo)
+- ⚠️ **El Reloj del Ritual da un SALTO** (el asesinato de Thyra es un hito de Barbanegra)
 - ✅ **Si los PJ luchan:** Pueden debilitar a Teach, ganar información, o recuperar artefactos temporalmente
 
 #### **Opción B: Llegan DESPUÉS (Lo Más Probable)**
@@ -217,7 +217,7 @@ EDWARD TEACH: "Ahora veo... el pasado, el presente, el futuro... todo DETENIDO."
 ## 🔗 **REFERENCIAS**
 
 - **[El Talismán de Interceptación](./06_El_Talisman_de_Interceptacion.md)** - Sección "El Asesinato de Thyra"
-- **[La Ascensión del Cónclave](../../02_Guia_DM/05_La_Ascension_del_Conclave.md)** - Sistema completo de competencia
+- **[Motor de Campaña — Reloj del Ritual y Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** - Fuente única (estructura, ritmo, escalada de Teach)
 - **[Cronología Maestra](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Eventos Progresivos
 - **[Edward Teach - Ficha Completa](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md)** - Poderes robados de Thyra y combinaciones devastadoras
 

@@ -6,7 +6,7 @@
 > **📖 NAVEGACIÓN:**
 > - [← Volver al Índice Principal](../00_Estructura_Campana.md)
 > - [Fase 2: Sandbox Inicial](../Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
-> - [Fase 4: Ritual Completado](../Fase_4_Ritual_Completado/00_Guia_General_Fase_4.md)
+> - [Fase 4: Ritual Completado](../Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
 
 ---
 

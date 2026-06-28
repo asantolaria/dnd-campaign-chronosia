@@ -12,9 +12,8 @@
 
 ### **Tablas de Tracking:**
 - [x] **[20_Tablas_Tracking_Campana.md](20_Tablas_Tracking_Campana.md)** - Hojas de seguimiento completas para gestionar toda la campaña ✅
-  - Sistema de Puntos de la Ascensión del Cónclave
   - Progresión del Ritual de Manshoon
-  - Balance Temporal/Dimensional
+  - Reloj del Ritual (8 segmentos)
   - Desbloqueo de Regiones
   - Progresión de Niveles de los PJ
   - Contador de Arena de Serapis
