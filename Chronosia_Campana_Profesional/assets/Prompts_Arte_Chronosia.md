@@ -18,6 +18,20 @@
 
 ---
 
+## 1 · Portada del manual *(NUEVO)*
+
+> Para la home de la web y la tapa del PDF. Vertical, proporción 2:3. Gemini rotula texto regular: revisa la ortografía o pídela **sin texto** y rotula el título aparte.
+
+```
+Portada de manual de campaña de D&D, estilo key-art de tapa dura de Wizards of the Coast: ilustración pictórica épica, dramática y muy detallada, composición vertical de portada de libro, proporción 2:3. Acabado de pintura digital realista, no estilo cómic, sin marcas de agua.
+Tema: CHRONOSIA, un semiplano donde el tiempo y el espacio se han fracturado. Escena central: una TORRE imposible que se alza hacia un cielo PARTIDO EN DOS — una mitad de sol dorado y relojería (el Tiempo), la otra de vacío púrpura estrellado (el Espacio) — con grietas de realidad recorriendo el firmamento. Alrededor de la torre flotan engranajes colosales, esferas de reloj rotas y fragmentos de tierra suspendidos fuera del tiempo. Abajo, en pequeño, la silueta de una ciudad amurallada con relojes (Cronópolis) y unas diminutas figuras de aventureros contemplando la escena, para dar escala épica. Paleta cohesionada en sepias y dorados contra púrpuras profundos; iluminación dramática, atmósfera de horror cósmico y maravilla.
+Deja espacio limpio en la parte superior para el título y en la inferior para el subtítulo. Si rotulas: título «CHRONOSIA» grande y, debajo, «El Reino del Tiempo Fracturado». Evita estética de cómic y marcas de agua.
+```
+
+**Cuando la generes:** guárdala como `~/Descargas/portada.png` y dímelo — la optimizo para web, la pongo de cabecera en la home del sitio y la dejo lista para la tapa del PDF.
+
+---
+
 ## 2 · Mapa general de Chronosia
 
 > **Numeración canónica:** coincide con los 10 mapas regionales (§3) y los archivos `assets/mapas/01..10`. Úsala siempre. (El PNG antiguo del mapa general traía nombres obsoletos — «Colinas Remolino», «Ciudad de Hielo»…; este prompt lo corrige.)

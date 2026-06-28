@@ -111,6 +111,14 @@
 
 ---
 
+### **🔮 Lanzadores de Conjuros Cronófagos (Apoyo arcano)**
+
+![Cronófago lanzador de conjuros](../assets/bestiario/tropas/cronofago-lanzador-conjuros.jpg)
+
+Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espaciales menores a distancia (ralentizar, desplazar, fragmentar). Frágiles en cuerpo a cuerpo pero peligrosos en grupo; suelen acompañar a sargentos y oficiales. CR orientativo entre el de un sargento y un oficial.
+
+---
+
 ### **🎖️ Oficiales Cronófagos (Comandantes)**
 
 ![Oficial Cronófago](../assets/bestiario/tropas/3_cronofago-oficial.jpg)

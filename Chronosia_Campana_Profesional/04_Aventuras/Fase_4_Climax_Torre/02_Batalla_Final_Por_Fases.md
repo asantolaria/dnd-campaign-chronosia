@@ -40,6 +40,8 @@
 
 ### **FASE 1: COMBATE INICIAL (1-2 horas)**
 
+![El Cronosellado, núcleo del ritual](../../assets/objetos_magicos/10_cronosellado.jpg)
+
 **Objetivo:** Interrumpir el ritual y reducir su progreso
 
 **Estado Inicial:**

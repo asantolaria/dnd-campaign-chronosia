@@ -1,5 +1,7 @@
 # 🏛️ Cronópolis — La Capa Civil
 
+![Mapa de Cronópolis](../assets/mapas/11_cronopolis.png)
+
 > Cronópolis ya tenía sus **facciones** (La Resistencia, los Anacronistas, los Ingenieros) y sus **mecenas** (Cornelius, Marcus, Din). Lo que faltaba era la **gente que hace que la ciudad respire**: quién la gobierna, dónde se bebe y se oyen rumores, dónde se compra, dónde se reza y se cura, y las caras de los refugiados que llegan cuando los PJ liberan una región.
 >
 > Estos NPCs son el **hogar** de los PJ. Cuanto más vivos estén, más duele cuando la ciudad peligra (robo del Cronómetro, el Reloj del Ritual acercándose a 8, asedios).

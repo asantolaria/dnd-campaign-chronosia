@@ -28,8 +28,8 @@
 
 ## 📝 **NOTAS IMPORTANTES**
 
-- Existe un mapa de región en `assets/region-map.png`
-- El prompt para generar mapas con ChatGPT está en `assets/Prompt_Mapa_ChatGPT.md`
+- Los mapas (general + 10 regiones + Cronópolis + Torre) están en `assets/mapas/`
+- Los prompts para regenerarlos están en `assets/Prompts_Arte_Chronosia.md`
 - Las descripciones geográficas detalladas están en `03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md`
 
 ---

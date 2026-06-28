@@ -1,6 +1,8 @@
 # 🏰 Torre de la Eternidad
 ## *Asalto Final y Los Cuatro Finales*
 
+![Corte vertical de la Torre de la Eternidad](../assets/mapas/12_torre-eternidad.png)
+
 ---
 
 > **📖 NAVEGACIÓN:**
