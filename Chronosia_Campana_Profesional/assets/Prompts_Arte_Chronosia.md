@@ -55,7 +55,7 @@ Marca 10 emplazamientos con un círculo numerado del 1 al 10 y rotúlalos con su
 9 La Mansión de la Sed Eterna — mansión gótica solitaria envuelta en niebla, al suroeste.
 10 Las Calderas Dimensionales — calderas volcánicas con bocas de fuego, al sur junto al volcán.
 
-Marca también, SIN número: una TORRE solitaria y oculta tras las montañas del norte (la Torre de la Eternidad); y un pequeño VALLE HELADO cercano, sellado por una barrera de escarcha (el Valle de la Aguja).
+Marca también, SIN número y con UNA SOLA etiqueta: un pequeño VALLE HELADO al norte, con una torre-aguja solitaria, sellado por una barrera de escarcha; rotúlalo EXACTAMENTE «Valle de la Aguja», una sola vez. NO dibujes ni rotules la Torre de la Eternidad en este mapa (tiene el suyo propio).
 
 Dibuja además, en línea fina punteada, las RUTAS desde Cronópolis a las regiones cercanas, y una ruta distinta sobre el mar (líneas de oleaje) que cruce el Mar Oriental hasta el Archipiélago de Barbanegra (8), para sugerir que solo se llega por mar; si la rotulas, escribe exactamente «Ruta marítima».
 
@@ -66,7 +66,7 @@ Añade rosa de los vientos y una cartela con el título «CHRONOSIA».
 - **Una sola etiqueta por lugar** (no repitas ningún nombre).
 - **Sin texto entre paréntesis** y **sin frases ni descripciones** dentro de la imagen: solo los nombres exactos de la lista (el texto largo se corrompe).
 - Cuida la **ortografía** de los nombres propios: «Veldrisza» (no «Veldrixza»), «Subterránea» (no «Subterránnea»).
-- El Valle de la Aguja se rotula solo «Valle de la Aguja» (sin coletilla).
+- El Valle de la Aguja se rotula EXACTAMENTE «Valle de la Aguja», UNA sola vez en todo el mapa; NUNCA escribas «Aeguja» ni ninguna otra variante, ni lo dupliques.
 
 Si no puedes garantizar el texto correcto, genera el mapa **SOLO con los números 1-10** (sin nombres) y deja un recuadro de leyenda vacío en una esquina para rotular a mano. Formato vertical, proporción 2:3. Evita marcas de agua y estética de cómic.
 ```
@@ -122,7 +122,7 @@ Región: Glacialis (Chronosia), con distorsión ESPACIAL. Páramo glacial con po
 ### 4 · Las Ruinas del Tiempo Perdido *(Tempus — temporal · nv 6-7)*
 ```
 Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, una "zona segura" de entrada y 3-5 puntos de interés marcados con iconos. Vista cenital, tono horror cósmico + épica, proporción 4:3.
-Región: Las Ruinas del Tiempo Perdido (Chronosia), con distorsión TEMPORAL. Ciudad en ruinas atrapada fuera del tiempo: engranajes colosales semienterrados, relojería rota, geometría ordenada de mecanismo de reloj, fragmentos de piedra flotando inmóviles en el aire. Rotula EXACTAMENTE así, respetando tildes y SIN repetir ningún nombre: una «zona segura» de entrada llamada «Refugio del Viajero» (icono, sin número); y CUATRO puntos numerados en orden: 1) El Archivo del Tiempo Astillado; 2) El Gran Engramaje Roto; 3) La Forja del Éter Eterno; 4) El Observatorio de las Estrellas Estáticas. Además, sin número: «El Río de los Segundos Perdidos» (un río que desciende) y «Los Cañones del Eco Temporal» (al fondo). IMPORTANTE: «La Forja del Éter Eterno» debe aparecer UNA sola vez, y el número 2 va en «El Gran Engramaje Roto». Etiquetas en español. Evita marcas de agua y estética de cómic.
+Región: Las Ruinas del Tiempo Perdido (Chronosia), con distorsión TEMPORAL. Ciudad en ruinas atrapada fuera del tiempo: engranajes colosales semienterrados, relojería rota, fragmentos de piedra flotando inmóviles en el aire, un río que la cruza. MUY IMPORTANTE para el texto: en el MAPA marca SOLO con número (1 a 4) cuatro puntos, y pon los nombres en una caja de LEYENDA aparte titulada «Leyenda»: 1) El Archivo del Tiempo Astillado; 2) El Gran Engramaje Roto; 3) La Forja del Éter Eterno; 4) El Observatorio de las Estrellas Estáticas. Rotula además, con su nombre en cursiva y SIN número, tres lugares: «Refugio del Viajero» (zona segura de entrada), «El Río de los Segundos Perdidos» (el río) y «Los Cañones del Eco Temporal» (al fondo) — estos tres NO llevan número. Cada nombre aparece UNA sola vez. Etiquetas en español. Evita marcas de agua y estética de cómic.
 ```
 
 ### 5 · El Abismo de los Posibles *(Varrak — temporal · nv 7-8)*
@@ -152,7 +152,7 @@ Región: Archipiélago de Barbanegra (Chronosia), con distorsión ESPACIAL. Isla
 ### 9 · La Mansión de la Sed Eterna *(Vorthak — temporal · nv 9 · → Barovia)*
 ```
 Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, una "zona segura" de entrada y 3-5 puntos de interés marcados con iconos. Vista cenital, tono horror cósmico + épica, proporción 4:3.
-Región: La Mansión de la Sed Eterna (Chronosia), con distorsión TEMPORAL (drenaje de vida). Finca gótica solitaria envuelta en niebla espesa, con jardines marchitos, criptas y verja de hierro; la niebla se espesa hacia un borde que parece llevar a "otro lugar" (presagio de Barovia / Shadowfell). Rotula EXACTAMENTE seis puntos numerados, respetando tildes; el edificio central (la finca gótica) DEBE llevar su propio rótulo: 1) Entrada Principal (zona segura, la verja de hierro); 2) Jardines Marchitos; 3) Fuente de Lágrimas Heladas; 4) El Observatorio Roto; 5) Criptas Familiares; 6) La Mansión (el edificio central, guarida del señor de la finca). En el borde, sin número: «Niebla Eterna — Hacia Otro Lugar» (la niebla que lleva al Shadowfell). Etiquetas en español. Evita marcas de agua y estética de cómic.
+Región: La Mansión de la Sed Eterna (Chronosia), con distorsión TEMPORAL (drenaje de vida). Finca gótica solitaria envuelta en niebla espesa, con jardines marchitos, criptas y verja de hierro; la niebla se espesa hacia un borde que lleva a otro lugar (presagio de Barovia / Shadowfell). MUY IMPORTANTE para el texto: en el MAPA marca los puntos SOLO con los números 1 a 6, y pon los nombres en una caja de LEYENDA aparte cuyo título sea EXACTAMENTE «Leyenda» (en español; NUNCA «Map Key» ni nada en inglés): 1) Entrada Principal (zona segura, la verja); 2) Jardines Marchitos; 3) Fuente de Lágrimas Heladas; 4) El Observatorio Roto; 5) Criptas Familiares; 6) La Mansión (el edificio gótico central). En el borde, sin número, rotula «Niebla Eterna — Hacia Otro Lugar». Etiquetas en español. Evita marcas de agua y estética de cómic.
 ```
 
 ### 10 · Las Calderas Dimensionales *(Ignis — dimensional · nv 9-10 · → Plano del Fuego)*
