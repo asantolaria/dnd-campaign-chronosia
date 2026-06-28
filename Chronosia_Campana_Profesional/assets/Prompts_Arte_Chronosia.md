@@ -41,7 +41,7 @@ Mapa de fantasía dibujado a mano, estilo cartografía clásica de manual de rol
 
 Tema: el semiplano fracturado de Chronosia (un limbo entre planos, no un reino al uso). Continente único y alargado en vertical, rodeado por dos mares (Mar Occidental al oeste, Mar Oriental al este). Gradiente: NORTE con altas montañas y glaciares eternos; CENTRO templado con una gran ciudad amurallada destacada en el corazón del continente; SUR árido y volcánico con un volcán activo.
 
-En el CENTRO, sin número y como icono de ciudad-estrella destacado: CRONÓPOLIS (la capital y única zona segura, con grandes relojes y puerto fluvial).
+En el CENTRO, sin número y como icono de ciudad-estrella destacado: CRONÓPOLIS, la capital amurallada con grandes relojes y puerto fluvial. **Rotúlala SOLO con la palabra «CRONÓPOLIS»** (no escribas descripciones en el mapa).
 
 Marca 10 emplazamientos con un círculo numerado del 1 al 10 y rotúlalos con su nombre:
 1 La Espiral Inversa — colinas templadas con un remolino/espiral grabado en el terreno, cerca de la capital.
@@ -57,9 +57,9 @@ Marca 10 emplazamientos con un círculo numerado del 1 al 10 y rotúlalos con su
 
 Marca también, SIN número: una TORRE solitaria y oculta tras las montañas del norte (la Torre de la Eternidad); y un pequeño VALLE HELADO cercano, sellado por una barrera de escarcha (el Valle de la Aguja).
 
-Dibuja además, en línea fina punteada, las RUTAS desde Cronópolis a las regiones cercanas, y una RUTA MARÍTIMA distinta (líneas de oleaje) que cruce el Mar Oriental hasta el Archipiélago de Barbanegra (8), para sugerir que solo se llega por mar.
+Dibuja además, en línea fina punteada, las RUTAS desde Cronópolis a las regiones cercanas, y una ruta distinta sobre el mar (líneas de oleaje) que cruce el Mar Oriental hasta el Archipiélago de Barbanegra (8), para sugerir que solo se llega por mar; si la rotulas, escribe exactamente «Ruta marítima».
 
-Añade rosa de los vientos y una cartela con el título «CHRONOSIA». Si el texto no sale fiable, genera el mapa SOLO con los números 1-10 (sin nombres) y deja un recuadro de leyenda vacío en una esquina para rotular a mano. Formato vertical, proporción 2:3. Evita marcas de agua y estética de cómic.
+Añade rosa de los vientos y una cartela con el título «CHRONOSIA». **Rotula en español con etiquetas CORTAS y exactas (solo los nombres de la lista); NO escribas frases ni descripciones dentro de la imagen, porque el texto largo se corrompe.** Si el texto no sale fiable, genera el mapa SOLO con los números 1-10 y deja un recuadro de leyenda vacío en una esquina para rotular a mano. Formato vertical, proporción 2:3. Evita marcas de agua y estética de cómic.
 ```
 
 ---
@@ -77,12 +77,13 @@ Tema: Cronópolis, la última ciudad libre y zona segura de Chronosia (un basti�
 
 ```
 Ilustración de mazmorra en CORTE VERTICAL (sección transversal) dibujada a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, cartela con el título «LA TORRE DE LA ETERNIDAD» y una leyenda lateral por niveles. Composición vertical alta y dramática, proporción 2:3.
-Tema: la torre imposible donde Aethernus ejecuta su ascensión, alzándose entre las montañas heladas del norte hacia un cielo fracturado con grietas que muestran el cosmos. Muestra la torre abierta como una casa de muñecas, con 4 NIVELES apilados conectados por una gran escalera de caracol, y una "antesala" entre cada nivel:
-- Nivel 1 (base): la Sala de Ecos — cámara de acertijos con espejos y ecos de luz.
-- Nivel 2: el Corazón del Tiempo — una mansión lujosa de habitaciones (la antigua casa de Manshoon), engranajes gigantes girando.
-- Nivel 3: la Eliminatoria — un puente/prueba estrecho sobre el vacío.
-- Nivel 4 (cima): la Cámara de Ascensión — un ritual circular con dos dioses encadenados a pilares (uno dorado/solar = tiempo, otro púrpura/vacío = espacio) y un marcador del ritual brillando.
-Paleta sepia con acentos dorados (tiempo) y púrpuras (espacio/vacío). Tono épico y de horror cósmico. Etiquetas en español por nivel (revisa la ortografía). Evita marcas de agua y estética de cómic.
+Tema: la torre imposible donde Aethernus ejecuta su ascensión, alzándose entre las montañas heladas del norte hacia un cielo fracturado con grietas que muestran el cosmos. Muestra la torre abierta como una casa de muñecas, con 4 NIVELES apilados conectados por una gran escalera de caracol:
+- Nivel 1 (base): cámara de acertijos con espejos y ecos de luz.
+- Nivel 2: mansión lujosa de habitaciones con engranajes gigantes girando.
+- Nivel 3: un puente estrecho sobre un abismo.
+- Nivel 4 (cima): un ritual circular con dos dioses encadenados a pilares (uno dorado/solar, otro púrpura/vacío) y un marcador brillando.
+Paleta sepia con acentos dorados (tiempo) y púrpuras (espacio/vacío). Tono épico y de horror cósmico.
+**ROTULADO (importante):** etiqueta cada nivel SOLO con un título corto, exactamente: «Nivel 1 · Sala de Ecos», «Nivel 2 · Corazón del Tiempo», «Nivel 3 · Eliminatoria», «Nivel 4 · Cámara de Ascensión». **NO escribas frases ni párrafos descriptivos dentro de la imagen** — el texto largo se corrompe en galimatías. Si dudas, genera la imagen SIN texto y rotula tú. Evita marcas de agua y estética de cómic.
 ```
 
 ---
