@@ -1,4 +1,7 @@
 # 👑 Aethernus Valcarys (Manshoon Clone #47)
+
+![Aethernus Valcarys](../../assets/bestiario/lugartenientes/12_aethernus.png)
+
 ## *Líder Supremo del Cónclave - El Verdadero Plan*
 
 ---

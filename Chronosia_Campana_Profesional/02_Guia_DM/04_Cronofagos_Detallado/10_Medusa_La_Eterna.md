@@ -1,4 +1,7 @@
 # 🐍 Medusa la Eterna
+
+![Medusa la Eterna](../../assets/bestiario/lugartenientes/10_medusa.png)
+
 ## *Lugarteniente Temporal - Medusa Ancestral*
 
 ---

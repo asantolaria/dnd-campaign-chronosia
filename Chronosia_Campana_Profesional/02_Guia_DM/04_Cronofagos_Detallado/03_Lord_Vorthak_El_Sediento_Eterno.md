@@ -1,4 +1,7 @@
 # 🩸 Lord Vorthak "El Sediento Eterno"
+
+![Lord Vorthak](../../assets/bestiario/lugartenientes/03_vorthak.png)
+
 ## *Lugarteniente Temporal - Vampiro Ancestral - Líder del Bando Temporal*
 
 ---

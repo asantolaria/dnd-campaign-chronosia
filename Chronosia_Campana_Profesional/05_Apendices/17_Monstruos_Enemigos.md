@@ -42,7 +42,11 @@
 
 ## ⚔️ **CRONÓFAGOS**
 
+![Símbolo de los Cronófagos](../assets/bestiario/tropas/simbolo-cronofagos.png)
+
 ### **⚡ Tropa Cronófaga (Soldados Rasos)**
+
+![Tropa Cronófaga](../assets/bestiario/tropas/1_tropa.png)
 
 #### **Estadísticas Básicas**
 - **Nivel**: 3
@@ -73,6 +77,8 @@
 ---
 
 ### **🛡️ Sargentos Cronófagos (Suboficiales)**
+
+![Sargento Cronófago](../assets/bestiario/tropas/2_sargento.png)
 
 #### **Estadísticas Básicas**
 - **Nivel**: 6
@@ -106,6 +112,8 @@
 ---
 
 ### **🎖️ Oficiales Cronófagos (Comandantes)**
+
+![Oficial Cronófago](../assets/bestiario/tropas/3_oficial.png)
 
 #### **Estadísticas Básicas**
 - **Nivel**: 9

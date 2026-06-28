@@ -1,4 +1,7 @@
 # ⚙️ Tempus el Fragmentado
+
+![Tempus el Fragmentado](../../assets/bestiario/lugartenientes/11_tempus.png)
+
 ## *Lugarteniente Temporal - Constructo Temporal*
 
 ---

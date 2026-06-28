@@ -13,6 +13,9 @@
 Cronópolis es la última ciudad libre, pero **nadie la gobierna del todo**. Hay una autoridad civil nominal y dos poderes fácticos que tiran de ella. Esa tensión es **material de juego**: los PJ acabarán mediando.
 
 ### **Síndica Maren Velasco — Autoridad Civil**
+
+![Síndica Maren](../assets/bestiario/npcs/maren-sindica.png)
+
 - **Raza/Clase:** Humana, plebeya · funcionaria, no combatiente.
 - **Cargo:** Síndica del Concejo de Cronópolis (gremios, refugiados, abastecimiento). Heredó el cargo cuando el anterior síndico murió en un asedio; no lo pidió y lo lleva con un cansancio honesto.
 - **Personalidad:** Pragmática, agotada, incorruptible. Le importa **la gente que come hoy**, no la guerra cósmica.
@@ -29,6 +32,9 @@ Cronópolis es la última ciudad libre, pero **nadie la gobierna del todo**. Hay
 **La Última Hora** es la taberna-posada bajo la sombra del Gran Reloj. Su nombre es una broma local: es el único sitio donde el tiempo "se porta bien" y aun así nadie sabe cuánto durará. Punto de encuentro, tablón de rumores y termómetro de la ciudad.
 
 ### **Bram "Dosjarras" Holderfast — Tabernero**
+
+![Bram Dosjarras](../assets/bestiario/npcs/bram.png)
+
 - **Raza:** Enano de las colinas, exsoldado retirado (le falta una pierna, prótesis de los Ingenieros).
 - **Personalidad:** Bonachón con memoria de elefante; sirve fiado a los desesperados y lo apunta en una pizarra que nunca cobra.
 - **Función:** **Dador de rumores y ganchos.** Cada vez que los PJ vuelven a la ciudad, Bram tiene 1d4 rumores (mezcla de verdad, exageración y bulo) sobre regiones, lugartenientes y movimientos del Culto.
@@ -52,6 +58,9 @@ Zephyr "el Saltamundos" es genial pero **errante y aleatorio**. La ciudad necesi
 - **Gancho:** Siempre falta algo crítico. Oda manda a los PJ a recuperar un cargamento perdido / una ruta de suministro cortada por una milicia de lugarteniente.
 
 ### **Caldo y Compañía — Puesto de Zephyr (cuando está)**
+
+![Zephyr](../assets/bestiario/npcs/zephyr.png)
+
 - Cuando el carromato de **Zephyr** aparece (aleatorio), se instala junto al almacén de Oda. Lo exótico/planar lo trae Zephyr; lo fiable, Oda. Los PJ aprenden a aprovechar ambos.
 
 ---

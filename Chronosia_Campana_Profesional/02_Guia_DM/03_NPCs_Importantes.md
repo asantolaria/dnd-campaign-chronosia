@@ -7,6 +7,8 @@
 
 ### **🔮 Galen (Anacronistas) - Explicador Principal**
 
+![Galen](../assets/bestiario/npcs/galen.png)
+
 **Descripción**: Humano anciano con túnica azul y ojos que brillan con sabiduría temporal. Líder de los Anacronistas, una facción dedicada a mantener el equilibrio entre tiempo y espacio.
 
 **Función**: Explicador principal de la teoría del balance temporal/dimensional.
@@ -106,6 +108,9 @@
 - **Función**: Proporciona hechizos y consejos mágicos
 
 ### **🗡️ Jarlaxle - El Aliado Ambiguo**
+
+![Jarlaxle](../assets/bestiario/npcs/jarlaxle.png)
+
 - **Descripción**: Drow elegante con sombrero de plumas y personalidad carismática
 - **Profesión**: Líder de Bregan D'aerthe
 - **Importancia**: Puede ser aliado o enemigo según las circunstancias
@@ -124,6 +129,9 @@
 ## 🌌 **PERSONAJES DE CHRONOSIA**
 
 ### **⏰ Cornelius "El Inmutable" - El Guardián del Tiempo**
+
+![Cornelius](../assets/bestiario/npcs/cornelius.png)
+
 - **Raza**: Humano
 - **Rol**: Guardián del Tiempo Natural
 - **Alineación**: Neutral Bueno
@@ -146,6 +154,9 @@
 - **Momento Emocional**: Su estabilidad contrasta con el caos del mundo, creando momentos de paz y reflexión
 
 ### **⚙️ Din Goldgear - La Mano Derecha de Cornelius**
+
+![Din Goldgear](../assets/bestiario/npcs/din.png)
+
 - **Raza**: Gnomo de los Bosques
 - **Clase**: Artífice (Nivel 9)
 - **Rol**: Mano Derecha de Cornelius "El Inmutable" y Maestro Ingeniero
@@ -282,6 +293,9 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 - **Función**: Proporciona rituales de estabilización y protección
 
 ### **⚙️ Capitán Marcus "El Inquebrantable" - Líder de La Resistencia**
+
+![Capitán Marcus](../assets/bestiario/npcs/marcus.png)
+
 - **Raza**: Humano veterano de guerra
 - **Edad**: 45 años, con cicatrices de batalla y ojos que han visto demasiado
 - **Profesión**: Capitán de La Resistencia en Chronosia

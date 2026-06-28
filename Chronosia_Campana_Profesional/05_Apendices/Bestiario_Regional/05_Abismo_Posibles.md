@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — El Abismo de los Posibles
+
+![Mapa de El Abismo de los Posibles](../../assets/mapas/05_abismo-de-los-posibles.png)
+
 ## Lugarteniente: Varrak el Oráculo (realidades paralelas; predice futuros) · Tipo: Dimensional · Nivel PJ: 7-8
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales. Aquí las realidades alternativas se superponen como cristales mal cortados: caminas y, sin querer, pisas la versión de ti que tomó otra decisión. La probabilidad gotea. Lo que pudo ser acecha junto a lo que es.
@@ -6,6 +9,8 @@
 ---
 
 ## 😈 Villano Menor — Tessaly Bifronte, la Que Eligió Mal
+
+![Tessaly Bifronte, la Que Eligió Mal](../../assets/bestiario/villanos_menores/05_tessaly.png)
 
 Tessaly fue una vidente que sirvió a Varrak hasta que miró demasiados futuros y los vio todos terminar en su propia muerte. Para escapar, fusionó dos versiones de sí misma — la que se rindió y la que luchó — en un solo cuerpo en guerra consigo mismo. Ahora siembra el Abismo de "tús alternativos" para que ningún visitante salga siendo quien entró. Es la sub-jefa que custodia las galerías de probabilidad donde Varrak ensaya sus profecías.
 

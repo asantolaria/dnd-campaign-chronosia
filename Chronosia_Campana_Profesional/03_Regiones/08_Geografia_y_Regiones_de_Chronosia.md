@@ -1,4 +1,5 @@
 # 🗺️ Geografía y Regiones de Chronosia
+![Mapa general de Chronosia](../assets/mapas/00_mapa-general-chronosia.png)
 ## *El Reino del Tiempo Fracturado - Guía Completa*
 
 ---

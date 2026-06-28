@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — Archipiélago de Barbanegra
+
+![Mapa del Archipiélago de Barbanegra](../../assets/mapas/08_archipielago-de-barbanegra.png)
+
 ## Lugarteniente: Edward Teach "Barbanegra" · Tipo: Dimensional · Nivel PJ: 8-9
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
@@ -6,6 +9,8 @@
 El mar del Archipiélago no se mueve. Lleva calmo desde que Barbanegra ancló su flota fantasma entre las islas perdidas, y esa calma es antinatural: las velas no se hinchan, las olas se quedan a medio romper, y el horizonte se curva hacia adentro. Los **vórtices dimensionales** giran entre los islotes como remolinos negros, y por ellos entran y salen barcos de mares que no existen en este mundo. Quien navega aquí demasiado tiempo nota que su reflejo en el agua envejece más rápido que él — o más despacio. Es una de las puertas marítimas del hub, y la marea trae visitantes de otros mundos enredados en algas y siglos.
 
 ## 😈 Villano Menor — Capitán Móreve "el Mascahoras"
+
+![Capitán Móreve "el Mascahoras"](../../assets/bestiario/villanos_menores/08_capitan-moreve.png)
 
 Antiguo subordinado de Barbanegra, Móreve cayó en un vórtice y volvió cambiado: ahora *come tiempo*. Su tripulación no envejece; ellos roban los años de quien abordan. Navega el bergantín *Reloj Roto*, persiguiendo presas no por su oro sino por las décadas que aún les quedan. Gancho: ofrece a un PJ moribundo "más años" a cambio de servir en su tripulación eterna — y mantiene su palabra de un modo monstruoso.
 

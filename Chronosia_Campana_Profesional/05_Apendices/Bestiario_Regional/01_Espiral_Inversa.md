@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — La Espiral Inversa
+
+![Mapa de La Espiral Inversa](../../assets/mapas/01_espiral-inversa.png)
+
 ## Lugarteniente: Serapis el Retroceso · Tipo: Temporal · Nivel PJ: 4-5
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
@@ -6,6 +9,8 @@
 La Espiral Inversa es un valle donde el ayer nunca termina de morir. El mismo amanecer regresa cada vez que cae la noche; las cosechas vuelven a brotar verdes, las velas se alargan al consumirse, los muertos se levantan confundidos sin recordar haber caído. Bajo la reversión de Serapis, los aldeanos repiten el mismo día atrapados en bucles que solo unos pocos logran percibir — y enloquecer por ello.
 
 ## 😈 Villano Menor — Cándano el Penitente Eterno
+
+![Cándano el Penitente Eterno](../../assets/bestiario/villanos_menores/01_candano.png)
 
 Antiguo sacristán del valle, Cándano fue el primero en darse cuenta de que el día se repetía. Ha vivido el mismo amanecer miles de veces y ha enloquecido: cree que el bucle es un castigo divino y que solo derramando sangre nueva cada ciclo "gastará" el día lo bastante para romperlo. No es el lugarteniente — es un esbirro voluntario de Serapis, un fanático local que ofrenda viajeros al Retroceso a cambio de fragmentos de poder temporal.
 

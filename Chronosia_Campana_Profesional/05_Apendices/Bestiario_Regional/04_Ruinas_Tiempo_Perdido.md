@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — Las Ruinas del Tiempo Perdido
+
+![Mapa de Las Ruinas del Tiempo Perdido](../../assets/mapas/04_ruinas-del-tiempo-perdido.png)
+
 ## Lugarteniente: Tempus el Fragmentado · Tipo: Temporal · Nivel PJ: 6-7
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
@@ -6,6 +9,8 @@
 Las Ruinas del Tiempo Perdido son los restos de una ciudad-reloj que existió "entre tics", fuera del flujo normal del tiempo. Engranajes del tamaño de torres giran sin sentido en el aire, escaleras suben hacia ayeres que ya no están, y un orden mecánico moribundo —eco lejano del nexo planar de Mechanus— intenta seguir funcionando aunque el reloj central, Tempus, esté roto. Aquí el tiempo no se repite ni retrocede: simplemente se desordena, y los guardianes de relojería ejecutan instrucciones de hace milenios.
 
 ## 😈 Villano Menor — Magistrado Cerografo, el Engranaje Desfasado
+
+![Magistrado Cerografo, el Engranaje Desfasado](../../assets/bestiario/villanos_menores/04_magistrado-cerografo.png)
 
 Cerografo fue el "magistrado del orden" de la ciudad-reloj: un constructo administrador modelado a imagen de los modrones, encargado de mantener cada cosa en su instante exacto. Cuando Tempus se fragmentó, Cerografo siguió cumpliendo su función con lógica enloquecida — ahora "corrige" cualquier criatura que esté "en el tiempo equivocado", lo que para él significa todos los seres vivos. No es el lugarteniente: es su capataz mecánico, el sub-jefe que custodia los engranajes mientras Tempus delira en el corazón de las ruinas.
 

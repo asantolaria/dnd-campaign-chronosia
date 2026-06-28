@@ -1,4 +1,7 @@
 # ❄️ Ymir el Eterno Invierno
+
+![Ymir el Eterno Invierno](../../assets/bestiario/lugartenientes/09_ymir.png)
+
 ## *Lugarteniente Dimensional - Elemental de Hielo Ancestral*
 
 ---

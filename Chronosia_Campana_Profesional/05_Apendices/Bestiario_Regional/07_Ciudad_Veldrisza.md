@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — La Ciudad Subterránea de Veldrisza
+
+![Mapa de La Ciudad Subterránea de Veldrisza](../../assets/mapas/07_ciudad-subterranea-de-veldrisza.png)
+
 ## Lugarteniente: Matrona Veldrisza · Tipo: Dimensional · Nivel PJ: 8-9
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
@@ -6,6 +9,8 @@
 Veldrisza no es solo una caverna: es una herida en la roca por la que se filtra otro mundo. Las telarañas que cuelgan de las estalactitas no son de seda, sino de distancia tejida — cada hebra cruza el umbral hacia **Menzoberranzan**, y al tocarla un caminante puede aparecer mil kilómetros más abajo, en el Underdark verdadero. Aquí Lolth observa con ocho ojos paciente, y los refugiados que un día huyeron a la superficie descubren que la superficie ahora cuelga sobre el abismo. Es la **puerta al Underdark**: cruzarla es renunciar al cielo.
 
 ## 😈 Villano Menor — Zress'ynara, la Tejedora de Umbrales
+
+![Zress'ynara, la Tejedora de Umbrales](../../assets/bestiario/villanos_menores/07_zressynara.png)
 
 Sacerdotisa drow caída en desgracia ante la Matrona, Zress'ynara fue *bendecida* por Lolth con la maldición de la transformación: medio drow, medio araña, una **drider** que ya no distingue dónde acaba la caverna y dónde empieza Menzoberranzan. Custodia los nudos de telaraña dimensional como una carcelera devota, y cobra peaje en sangre o en almas. Gancho: ofrece a los PJ una ruta segura por el Underdark... a cambio de entregarle a uno de los refugiados que protegen.
 

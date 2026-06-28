@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — La Mansión de la Sed Eterna
+
+![Mapa de La Mansión de la Sed Eterna](../../assets/mapas/09_mansion-de-la-sed-eterna.png)
+
 ## Lugarteniente: Lord Vorthak · Tipo: Temporal · Nivel PJ: 9
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
@@ -6,6 +9,8 @@
 La Mansión de la Sed Eterna se alza tras una niebla que no obedece al viento. Sus relojes adelantan y sus espejos envejecen. Lord Vorthak drena no solo la sangre, sino los años: sus víctimas encanecen en una sola noche. Pero la mansión es más que su guarida. Es **una puerta**. La niebla que la rodea no nace en Chronosia: se filtra del **Shadowfell**, y al otro lado aguarda Barovia. Cruzar mal la bruma no es perderse: es llegar a un lugar peor, donde otro señor mucho más antiguo ya espera invitados. Todo lo que el grupo haga aquí puede ser el umbral de esa segunda y más oscura campaña.
 
 ## 😈 Villano Menor — Mayordomo Aurelius Crane
+
+![Mayordomo Aurelius Crane](../../assets/bestiario/villanos_menores/09_aurelius-crane.png)
 
 El mayordomo no-muerto de Vorthak, atado por un pacto de servidumbre que la muerte no rompió. Recibe a los huéspedes con cortesía perfecta y los conduce, plato a plato, hacia su drenaje. No es el señor de la casa: es su guante. Gancho: Aurelius odia a Vorthak en secreto y, presionado bien, puede traicionarlo... o entregar a los PJs a la niebla para "librarlos" del amo de una manera retorcida.
 

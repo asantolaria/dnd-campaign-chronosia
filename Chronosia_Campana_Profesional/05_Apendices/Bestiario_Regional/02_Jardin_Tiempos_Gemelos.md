@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — El Jardín de los Tiempos Gemelos
+
+![Mapa de El Jardín de los Tiempos Gemelos](../../assets/mapas/02_jardin-tiempos-gemelos.png)
+
 ## Lugartenientes: Medusa la Eterna (estasis/petrificación temporal) Y Las Gemelas del Espejo (dimensión espejo) · Tipo: Temporal / Dimensional · Nivel PJ: 5-7
 
 > Da vida propia a la región más allá de los lugartenientes: un villano menor, bestias firma y NPCs locales. En este jardín el tiempo se detiene entre los setos y cada superficie pulida esconde un mundo invertido. Las estatuas avanzan cuando nadie las mira; los reflejos aprenden a odiar a su original.
@@ -6,6 +9,8 @@
 ---
 
 ## 😈 Villano Menor — Caelith, el Jardinero a Medias
+
+![Caelith, el Jardinero a Medias](../../assets/bestiario/villanos_menores/02_caelith.png)
 
 Caelith fue el horticultor que cuidó el jardín antes de la distorsión. La estasis de Medusa lo atrapó a medio petrificar: su mitad izquierda es piedra que nunca termina de cuajar, su mitad derecha aún sangra. Sirve a las lugartenientes podando "el tiempo sobrante" de los intrusos, convencido de que detenerlos para siempre es un acto de misericordia. Es el sub-jefe que los PJ encuentran custodiando el corazón del laberinto vegetal.
 

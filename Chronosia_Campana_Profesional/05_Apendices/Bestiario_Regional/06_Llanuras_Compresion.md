@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — Las Llanuras de la Compresión
+
+![Mapa de Las Llanuras de la Compresión](../../assets/mapas/06_llanuras-de-la-compresion.png)
+
 ## Lugarteniente: Dimensionalis la Fracturada · Tipo: Dimensional · Nivel PJ: 7-8
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
@@ -6,6 +9,8 @@
 En las Llanuras de la Compresión las distancias mienten. Un paso puede cubrir una legua o devolverte al punto de partida; los horizontes se pliegan como tela arrugada y los caminos se anudan sobre sí mismos. Dimensionalis no gobierna el espacio: lo ha herido, y por la fractura se filtra el calor seco de un Avernus lejano que reclama el desgarro como puerta.
 
 ## 😈 Villano Menor — Karkesh el Cartógrafo de Cenizas
+
+![Karkesh el Cartógrafo de Cenizas](../../assets/bestiario/villanos_menores/06_karkesh.png)
 
 Cultista infernal que sirvió de zapador a Dimensionalis: traza "mapas vivos" en pergaminos de piel humana que reescriben la geometría local. No es la lugarteniente, sino su agrimensor: mide la fractura y la ensancha, abriendo bolsas de Avernus donde antes había llanura. Gancho: quien posea su atlas comprimido puede predecir (o provocar) los pliegues del terreno.
 

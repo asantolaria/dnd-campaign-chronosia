@@ -1,4 +1,7 @@
 # 🐉 Bestiario Regional — Las Calderas Dimensionales
+
+![Mapa de Las Calderas Dimensionales](../../assets/mapas/10_calderas-dimensionales.png)
+
 ## Lugarteniente: Ignis el Devorador Espacial · Tipo: Dimensional · Nivel PJ: 9-10
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
@@ -8,6 +11,8 @@ Las Calderas son un anfiteatro de cráteres volcánicos donde la roca nunca se e
 ---
 
 ## 😈 Villano Menor — Capataz Drazhûl, el Quemador de Fronteras
+
+![Capataz Drazhûl, el Quemador de Fronteras](../../assets/bestiario/villanos_menores/10_drazhul.png)
 
 Drazhûl es un cultista del fuego ascendido a **capataz de las calderas**: dirige a los esclavos y a las crías de dragón que mantienen abiertas las bocas planares, alimentándolas con sacrificios. No es Ignis —es su mayordomo del horno, un fanático cuya piel ya está medio carbonizada por estar demasiado cerca de la puerta. Gancho: para cerrar una caldera mayor hay que apagar el ritual perpetuo que Drazhûl supervisa desde el borde del cráter.
 

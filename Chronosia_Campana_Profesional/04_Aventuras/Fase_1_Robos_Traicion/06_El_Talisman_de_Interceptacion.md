@@ -1,4 +1,5 @@
 # 🔱 El Talismán de Interceptación Divina
+![Talismán de Interceptación Divina](../../assets/objetos_magicos/03_talisman-interceptacion.png)
 ## *El Arma Secreta de Edward Teach*
 
 ---
