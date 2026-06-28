@@ -44,10 +44,17 @@ add "06_Recursos/Handouts/Contador_del_Ritual.md"
 add "06_Recursos/Handouts/Carta_Incriminatoria.md"
 add "06_Recursos/Handouts/Cronologia_de_Barbanegra.md"
 
-# --- Concatenar: rutas de imagen absolutas + sin emojis ---
+# --- Concatenar: imágenes -> copias web optimizadas + rutas absolutas + sin emojis ---
+# (mismo redirect que mkdocs_hooks.py: el PDF usa assets/web/ para no pesar 100+ MB)
 : > "$OUT_MD"
 for f in "${FILES[@]}"; do
-  sed -E "s#\]\((\.\./)*assets/#](${ROOT}/assets/#g" "$f" \
+  sed -E \
+    -e 's#assets/bestiario/#assets/web/bestiario/#g' \
+    -e 's#assets/objetos_magicos/#assets/web/objetos_magicos/#g' \
+    -e 's#assets/mapas/([A-Za-z0-9_-]+)\.png#assets/web/mapas/\1.jpg#g' \
+    -e 's#assets/portada\.png#assets/web/portada.jpg#g' \
+    "$f" \
+  | sed -E "s#\]\((\.\./)*assets/#](${ROOT}/assets/#g" \
   | perl -CSD -pe '
       s/[\x{1F000}-\x{1FFFF}\x{2300}-\x{23FF}\x{2600}-\x{27BF}\x{2B00}-\x{2BFF}\x{FE00}-\x{FE0F}\x{2049}\x{203C}]//g;
       s/^(\#{1,6})\s+/$1 /;
