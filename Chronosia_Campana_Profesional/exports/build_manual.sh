@@ -40,7 +40,9 @@ add "06_Recursos/Tablas/19_Tablas_Eventos.md"
 add "06_Recursos/Tablas/20_Tablas_Tracking_Campana.md"
 add "06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md"
 add "06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md"
-add "06_Recursos/Handouts/README.md"
+add "06_Recursos/Handouts/Contador_del_Ritual.md"
+add "06_Recursos/Handouts/Carta_Incriminatoria.md"
+add "06_Recursos/Handouts/Cronologia_de_Barbanegra.md"
 
 # --- Concatenar: rutas de imagen absolutas + sin emojis ---
 : > "$OUT_MD"

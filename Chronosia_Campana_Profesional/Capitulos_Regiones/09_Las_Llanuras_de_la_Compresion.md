@@ -24,7 +24,7 @@ Hasta ahora los PJ sabían *qué* hace Aethernus (en el Abismo, si lo visitaron)
 
 ## Recorrido por la región
 
-**Flujo:** **Punto de Entrada Seguro** (1): el campamento de exploradores y la advertencia sobre los pliegues → **El Bosque de Árboles Encogidos** (2): primer terreno comprimido, Old Tessil y la lección de la geometría mentirosa → **El Mercado Retorcido** (3): Hossk, rumores, y el agrimensor Karkesh → **El Puente Infinito y el Páramo Encojido** (4): el sub-jefe Karkesh y su atlas → **La Grieta Temporal** (5): el desgarro hacia Avernus, prueba previa a la guarida → **La Atalaya Comprimida** (6): Dimensionalis, el laberinto dimensional y la negociación de la identidad. *(Los Picos Estirados son telón de fondo y rutas alternativas, no zona obligatoria.)*
+**Flujo:** **Punto de Entrada Seguro** (1): el campamento de exploradores y la advertencia sobre los pliegues → **El Bosque de Árboles Encogidos** (2): primer terreno comprimido, Old Tessil y la lección de la geometría mentirosa → **El Mercado Retorcido** (3): Hossk, rumores, y el agrimensor Karkesh → **El Puente Infinito y el Páramo Encogido** (4): el sub-jefe Karkesh y su atlas → **La Grieta Temporal** (5): el desgarro hacia Avernus, prueba previa a la guarida → **La Atalaya Comprimida** (6): Dimensionalis, el laberinto dimensional y la negociación de la identidad. *(Los Picos Estirados son telón de fondo y rutas alternativas, no zona obligatoria.)*
 
 > **Nota de dirección.** El espacio es el enemigo aquí tanto como las criaturas. Usa terreno difícil que aparece y desaparece, distancias que cambian a media tirada de movimiento, y la sensación constante de que el mapa no es de fiar. La **brújula de Casiopea** (si vinieron del Abismo) o el **Mapa de Líneas Estables** y los objetos de Hossk son las únicas anclas. La última zona, de nuevo, **no es un jefe a matar**: Dimensionalis prefiere vender antes que morir, y huye si pierde. El combate es opcional; la negociación es el clímax.
 
@@ -68,9 +68,9 @@ Hossk vende **brújulas, cuerdas-ancla y piedras de retorno** (que a veces funci
 
 - **Gancho:** una **caravana entera** acampada en el Mercado "llegó antes de salir": sus integrantes recuerdan dos versiones del viaje y empiezan a borrarse. Los PJ pueden hallar dónde se plegó el camino antes de que el bucle los disuelva — recompensa: una ruta al Páramo y la gratitud de la caravana.
 
-**Lleva a:** siguiendo el "atlas caliente" del que habla todo el mundo, el rastro de Karkesh sube al Páramo Encojido, cruzando el Puente Infinito.
+**Lleva a:** siguiendo el "atlas caliente" del que habla todo el mundo, el rastro de Karkesh sube al Páramo Encogido, cruzando el Puente Infinito.
 
-### 4 · El Puente Infinito y el Páramo Encojido *(dominio de Karkesh)*
+### 4 · El Puente Infinito y el Páramo Encogido *(dominio de Karkesh)*
 
 Un puente de piedra que se extiende sin llegar nunca al otro lado, y más allá un páramo encogido donde la perspectiva engaña. Aquí el agrimensor de Dimensionalis mide y ensancha la fractura.
 

@@ -107,6 +107,25 @@
 
 ---
 
+## 🌀 **POR QUÉ CHRONOSIA TE MARCA**
+
+> Los trasfondos anteriores te atan a **Waterdeep** y a **Thaddeus**, pero llegas a Chronosia persiguiendo a un asesino: por accidente, no por elección. Estos ganchos son **OPCIONALES** y existen para darte una razón *propia* por la que el destino de un semiplano fracturado —y de sus dos dioses cautivos— debería importarte. Tira en la d8 o elige uno con tu DM. Puedes combinar dos si encajan con tu concepto.
+
+| **d8** | **Gancho** | **Conecta con** |
+|--------|-----------|-----------------|
+| **1** | **Un familiar atrapado en el bucle.** Un ser querido (padre, hermana, prometida) desapareció hace años en un naufragio o un incendio… y juras haberlo visto, sin envejecer, en un sueño o un reflejo. En Chronosia el tiempo se pliega: existe en un bucle, ni vivo ni muerto, esperando a que el flujo temporal se restaure. | **Anacronistas** (saber temporal) · tema de la **inevitabilidad/elección**. Liberar a Amaunator podría cerrar el bucle. |
+| **2** | **Sangre chroniana latente.** Un abuelo "venido de muy lejos del que nadie hablaba". Al cruzar a Chronosia, un Anacronista *o* un Oceánico te reconoce —tus ojos, una marca, tu reacción al fluir del lugar— como descendiente de los suyos. Cada facción jura que tu sangre les pertenece. | **Anacronistas** y **Oceánicos** · directamente la **llave chroniana**: tú mismo eres prueba de que los dos pueblos fueron uno. |
+| **3** | **La visión de Varrak.** La noche antes de partir de Waterdeep, un mendigo ciego (o una voz en sueños) te describió tu propia muerte… y luego dijo: "Pero hay otra rama. Búscame donde el sol está encadenado." No conoces ese nombre todavía. | **Varrak** (oráculo) · tema de la **elección** frente al destino escrito. Te predispone a escuchar su sacrificio. |
+| **4** | **Deuda con La Resistencia.** Alguien te salvó la vida, te sacó de una mazmorra o pagó una deuda imposible, y solo pidió: "Cuando llegue el día, ayuda a los que luchan en el lugar sin cielo." Ese día ha llegado. | **La Resistencia** · tema del **precio de la libertad**. Tienes una obligación pendiente antes de poder marcharte. |
+| **5** | **El objeto heredado.** Esa reliquia familiar —un reloj que nunca da bien la hora, un colgante que zumba, una brújula que no apunta al norte— empieza a reaccionar al cruzar a Chronosia. Es tecnología chroniana: un fragmento de los mecanismos que sostienen el semiplano. | **Anacronistas** / **Oceánicos** (querrán el objeto) · gancho hacia la **llave**: puede ser una pieza que falta. |
+| **6** | **Pesadillas con el Sol encadenado.** Desde hace meses sueñas con un sol enorme envuelto en cadenas que arden sin consumirse, y una voz que pide ayuda en un idioma que no conoces pero entiendes. Al llegar, sabes que el sueño era memoria, no fantasía. | **Amaunator** (Tiempo, el Sol encadenado) · tema de la **memoria** · empuja hacia liberar a los dioses (la **llave**). |
+| **7** | **El trato pendiente con Bregan D'aerthe.** Aceptaste un favor de un drow elegante de sonrisa fácil —dinero, una salida, una mentira oportuna— sin leer la letra pequeña. Jarlaxle cobra sus deudas donde menos lo esperas, y resulta que opera en Chronosia. | **Bregan D'aerthe** (Jarlaxle) · tema del **precio** de los tratos. Una palanca para que la trama mercenaria te alcance. |
+| **8** | **Los recuerdos que se borran.** Hay un rostro, un nombre, una infancia entera que se te escapan cuando intentas fijarlos, como si alguien los estuviera *editando*. En Chronosia, donde el tiempo y el espacio están rotos, sospechas que ahí está la respuesta a qué (o quién) te están borrando. | Tema central de la **memoria** · **Anacronistas** (custodios del recuerdo) · el desenlace puede devolverte lo perdido o confirmar su pérdida. |
+
+> **Para el DM:** los ganchos **2** y **5** apuntan de lleno a la *llave chroniana* (reconciliar Anacronistas y Oceánicos), el corazón del buen final; los **1** y **6** justifican liberar a los dioses; el **3** prepara el sacrificio de Varrak. Reparte ganchos de facciones distintas entre los PJ para que el grupo no quede atado a un solo bando.
+
+---
+
 ## ⚔️ **EQUIPAMIENTO INICIAL**
 
 ### **🏙️ Objetos de Waterdeep:**
