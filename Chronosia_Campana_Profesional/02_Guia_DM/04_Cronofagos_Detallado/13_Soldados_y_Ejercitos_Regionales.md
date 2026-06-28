@@ -96,7 +96,7 @@ Cada región tiene soldados únicos porque:
 **Criaturas que Trae:**
 - **Crías de Dragón Rojo** (CR 4): Dragones jóvenes con aliento de fuego
 - **Elementales de Fuego** (CR 5): Criaturas elementales puras de fuego
-- **Dragones Rojos Adultos** (CR 17): Dragones poderosos con habilidades completas
+- **Dragones Rojos Jóvenes** (CR 10): dragones de fuego peligrosos pero acordes al techo de nivel 10
 - **Criaturas Infernales**: Varias criaturas del plano de fuego
 
 **Características:**

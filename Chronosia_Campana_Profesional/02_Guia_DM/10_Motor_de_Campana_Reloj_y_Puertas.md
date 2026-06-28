@@ -69,12 +69,12 @@ Cada puerta tiene una **razón in-world** (no "el DM dice que no"): el mundo est
 | Nivel PJ | Región / Villano | Puerta (qué la abre) | Razón in-world |
 |---|---|---|---|
 | **Hub** | **Cronópolis** | — (base, siempre abierta) | Estabilizada por el Cronómetro |
-| **4-7** | **Espiral del Reloj de Arena** (Serapis) · **Glacialis** (Ymir) | Abiertas desde el inicio | Regiones de entrada |
-| **5-8** | Jardín Pétreo (Medusa) · Jardín de los Tiempos Gemelos (Gemelas) · Abismo de los Posibles (Varrak) | Abiertas tras derrotar 1 lugarteniente | Los portales se estabilizan al caer un canal |
+| **4-7** | **La Espiral Inversa** (Serapis) · **Glacialis** (Ymir) | Abiertas desde el inicio | Regiones de entrada |
+| **5-8** | El Jardín de los Tiempos Gemelos (Medusa + Las Gemelas) · El Abismo de los Posibles (Varrak) | Abiertas tras derrotar 1 lugarteniente | Los portales se estabilizan al caer un canal |
 | **7-9** | 🔒 **Archipiélago de Barbanegra** (Teach) | **Motor de Viento Perpetuo** = Rotor Infinito (derrotar **Serapis + Ymir**) + recursos + 2 semanas | **El mar está en calma muerta** (estasis de Teach): ningún barco normal puede llegar. Hace falta viento perpetuo. |
 | **8-10** | 🔒 Mansión de la Sed Eterna (**Vorthak**, líder temporal) · Ruinas del Tiempo Perdido (Tempus) | Tempus requiere la **Arena del Tiempo** (de Serapis) | Bucles temporales infranqueables sin ella |
-| **8-10** | 🔒 **Volcanis** (**Ignis**, líder dimensional) | Acceso por el Motor de Viento / red de portales | Cubil de dragón ancestral, boss dimensional |
-| **9-10** | 🔒 Llanuras de la Compresión (Dimensionalis) · Tela de Sombras (**Veldrisza**) | **Derrotar a Ignis** (Dimensionalis) / derrotar a Teach (Veldrisza) | Espacio comprimido; solo se abre al caer el líder |
+| **8-10** | 🔒 **Las Calderas Dimensionales** (**Ignis**, líder dimensional) | Acceso por el Motor de Viento / red de portales | Cubil de dragón ancestral, boss dimensional |
+| **9-10** | 🔒 Las Llanuras de la Compresión (Dimensionalis) · La Ciudad Subterránea de Veldrisza (**Veldrisza**) | **Derrotar a Ignis** (Dimensionalis) / derrotar a Teach (Veldrisza) | Espacio comprimido; solo se abre al caer el líder |
 | **—** | 🔒 Valle de la Aguja (Thyra) | **Inaccesible para los PJ** (solo Teach con el Talismán) | Barrera de estasis — evento fijo, ver Barbanegra |
 | **Clímax** | 🔒 **Torre de la Eternidad** (Aethernus) | **Reloj a 8 → Llamada de los Dioses** | Recluido hasta completar el ritual |
 
