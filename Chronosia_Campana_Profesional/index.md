@@ -9,19 +9,18 @@
 
 ## Por dónde empezar
 
-- **[Índice de la campaña](00_Indice_Campana.md)** — mapa completo de documentos.
-- **[Resumen de la campaña](01_Introduccion/01_Resumen_Campana.md)** — el argumento en breve.
-- **[⏳ Motor de Campaña: Reloj y Puertas](02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** — la fuente de verdad: cómo funciona el reloj, el gating de regiones y los villanos.
-- **[Dirigir la campaña](02_Guia_DM/01_Dirigir_Campana.md)** — guía rápida de mesa.
+- **[La Historia de Chronosia](00_La_Historia_de_Chronosia.md)** — el alma de la campaña. Léela primero, de principio a fin.
+- **[Capítulo 1 · Cómo dirigir Chronosia](01_Como_Dirigir.md)** — el motor (el Reloj), el mapa de puertas, los villanos y el recorrido fase a fase.
+- **[Capítulo 3 · Cronópolis](03_Cronopolis.md)** — el hub desde el que arranca el sandbox.
+- **[Capítulo 15 · El clímax: la Torre de la Eternidad](15_Climax_La_Torre.md)** — cómo termina (los 4 finales).
 
-## Secciones
+## El libro
 
-- **Introducción** — tono, ambientación, creación de personajes.
-- **Guía del DM** — motor de campaña, cronología, NPCs, facciones y lugartenientes.
-- **Regiones** — geografía y zonas de Chronosia.
-- **Aventuras** — estructura por fases y prep de sesiones (Fases 0-4).
-- **Apéndices** — bestiario regional y monstruos.
-- **Recursos** — tablas, objetos mágicos y handouts.
+- **La Historia de Chronosia** — el trasfondo y los temas.
+- **Capítulos 1-3** — cómo dirigir, el semiplano y Cronópolis (el hub).
+- **Las regiones (Caps. 4-13)** — las 10 zonas del sandbox; cada una aporta una pieza de la verdad.
+- **Capítulos 14-15** — el arco de Barbanegra y las traiciones, y el clímax en la Torre.
+- **Apéndices** — creación de personajes, cronología, PNJs, facciones, bestiario, objetos mágicos, tablas (reconocimiento, encuentros) y handouts.
 
 ---
 

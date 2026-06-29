@@ -10,6 +10,7 @@ theme:
   features:
     - navigation.instant
     - navigation.tracking
+    - navigation.path
     - navigation.sections
     - navigation.indexes
     - navigation.top
