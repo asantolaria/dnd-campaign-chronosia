@@ -217,7 +217,7 @@ El monje manco es la mano derecha de Varrak, y su presencia añade profundidad e
 
 **⚠️ INFORMACIÓN CRÍTICA PARA EL DM:**
 
-> **Gatillo actualizado.** El sacrificio ya no se dispara por "desbalance crítico" (sistema retirado), sino por el **Reloj del Ritual en zona crítica (≥6/8)** más una **relación construida** con Varrak a lo largo del sandbox. Su arco completo en 4 beats está en [⏳ Motor de Campaña → El arco de Varrak](../10_Motor_de_Campana_Reloj_y_Puertas.md#-el-arco-de-varrak-sacrificio-motivado).
+> **Gatillo actualizado.** El sacrificio ya no se dispara por "desbalance crítico" (sistema retirado), sino por el **Reloj del Ritual en zona crítica (≥6/8)** más una **relación construida** con Varrak a lo largo del sandbox. Su arco completo en 4 beats está en [⏳ Motor de Campaña → El arco de Varrak](../../01_Como_Dirigir.md).
 
 ### **La Decisión de Varrak:**
 
@@ -338,7 +338,7 @@ Varrak debe elegir bando. Los PJ determinan el resultado:
 - **Mártir Quebrado:** Si lo destruyen → Se sacrifica, los PJ reciben poder épico
 
 ### **💀 Sacrificio Heroico:**
-Si el **Reloj del Ritual entra en zona crítica (≥6/8)** y Varrak es aliado, puede **sacrificarse voluntariamente** para retroceder el Reloj y darles a los PJ una última oportunidad. Ver su arco completo en el [Motor de Campaña](../10_Motor_de_Campana_Reloj_y_Puertas.md#-el-arco-de-varrak-sacrificio-motivado).
+Si el **Reloj del Ritual entra en zona crítica (≥6/8)** y Varrak es aliado, puede **sacrificarse voluntariamente** para retroceder el Reloj y darles a los PJ una última oportunidad. Ver su arco completo en el [Motor de Campaña](../../01_Como_Dirigir.md).
 
 
 ---

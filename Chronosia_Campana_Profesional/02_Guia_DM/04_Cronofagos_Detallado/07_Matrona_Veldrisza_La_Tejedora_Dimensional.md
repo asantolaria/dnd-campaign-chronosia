@@ -184,7 +184,7 @@ Cuando Yrindra muere (ya sea por los PJ o por otro lugarteniente), **La Ciudad S
 - Cuando Yrindra vea cómo los lugartenientes mueven sus casillas, ordenará a los Bregan Daerthe que maten a Serapis
 - Los Bregan Daerthe llevarán el cuerpo de Serapis a Yrindra para el ritual Zin-Carla
 
-**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa.
+**📖 Referencia:** Ver [14_Arco_de_Barbanegra.md](../../14_Arco_de_Barbanegra.md) para la escena completa.
 
 ---
 
@@ -206,7 +206,7 @@ Yrindra puede invocar el ritual **Zin-Carla**, un ritual drow de resurrección q
 - Combina poderes temporales y dimensionales de forma única
 - Sirve a Yrindra como guardián poderoso
 
-**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa del ritual.
+**📖 Referencia:** Ver [14_Arco_de_Barbanegra.md](../../14_Arco_de_Barbanegra.md) para la escena completa del ritual.
 
 ---
 
@@ -236,7 +236,7 @@ Aunque Yrindra no interactúa directamente con los PJ en esta trama, su influenc
 - Manipula a otros lugartenientes sin que se den cuenta
 - Gana poder significativo sin exponerse directamente
 
-**📖 Trama relacionada:** [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe)  
+**📖 Trama relacionada:** [14_Arco_de_Barbanegra.md](../../14_Arco_de_Barbanegra.md)  
 
 ---
 

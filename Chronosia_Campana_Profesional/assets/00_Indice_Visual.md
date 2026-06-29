@@ -10,7 +10,7 @@
 
 | Archivo | Zona | Documento |
 |---|---|---|
-| `mapas/00_mapa-general-chronosia.png` | Mapa general | [03_Regiones/08_Geografia…](../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md) |
+| `mapas/00_mapa-general-chronosia.png` | Mapa general | [03_Regiones/08_Geografia…](../02_El_Semiplano.md) |
 | `mapas/01_espiral-inversa.png` | La Espiral Inversa | [Bestiario 01](./bestiario/) · región de Serapis |
 | `mapas/02_jardin-tiempos-gemelos.png` | Jardín de los Tiempos Gemelos | región de Medusa + Gemelas |
 | `mapas/03_glacialis.png` | Glacialis | región de Ymir |
@@ -70,7 +70,7 @@ Fichas en [05_Apendices/Bestiario_Regional/](../05_Apendices/Bestiario_Regional/
 
 ## 👥 NPCs — `bestiario/npcs/`
 
-Fichas en [02_Guia_DM/03_NPCs_Importantes.md](../02_Guia_DM/03_NPCs_Importantes.md) y [02_Guia_DM/09_Cronopolis_Capa_Civil.md](../02_Guia_DM/09_Cronopolis_Capa_Civil.md).
+Fichas en [02_Guia_DM/03_NPCs_Importantes.md](../02_Guia_DM/03_NPCs_Importantes.md) y [02_Guia_DM/09_Cronopolis_Capa_Civil.md](../03_Cronopolis.md).
 
 | Imagen | NPC | Rol |
 |---|---|---|

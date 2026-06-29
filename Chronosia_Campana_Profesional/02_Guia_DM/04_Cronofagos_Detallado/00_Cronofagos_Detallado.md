@@ -3,7 +3,7 @@
 
 > **Este archivo es el ÍNDICE MAESTRO de los lugartenientes.** Cada ficha individual (`01`–`12`) contiene el statblock completo, las acciones legendarias actualizadas, las tácticas y el efecto al morir. Aquí solo encontrarás el resumen y los enlaces; **no se reproducen statblocks** (vivían aquí desactualizados).
 >
-> - Motor de campaña (Reloj y Puertas): [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md)
+> - Motor de campaña (Reloj y Puertas): [../../01_Como_Dirigir.md](../../01_Como_Dirigir.md)
 > - Bestiario regional (villanos menores y bestias firma por región): [../../05_Apendices/Bestiario_Regional/00_Indice_Bestiario_Regional.md](../../05_Apendices/Bestiario_Regional/00_Indice_Bestiario_Regional.md)
 > - Tropas cronófagas genéricas y facciones: [../../05_Apendices/17_Monstruos_Enemigos.md](../../05_Apendices/17_Monstruos_Enemigos.md)
 
@@ -40,7 +40,7 @@
 
 ### ⚰️ Caída
 
-- **Thyra la Suspendida** (Humana, Temporal) — asesinada por Edward Teach (hito 4 de la Cronología de Barbanegra). Su poder de estasis temporal pasó a Teach; el Valle de la Aguja se restauró. No tiene ficha de combate: es un evento fijo. Ver [Edward Teach](./04_Edward_Teach_Barbanegra.md) y el [motor de campaña](../10_Motor_de_Campana_Reloj_y_Puertas.md).
+- **Thyra la Suspendida** (Humana, Temporal) — asesinada por Edward Teach (hito 4 de la Cronología de Barbanegra). Su poder de estasis temporal pasó a Teach; el Valle de la Aguja se restauró. No tiene ficha de combate: es un evento fijo. Ver [Edward Teach](./04_Edward_Teach_Barbanegra.md) y el [motor de campaña](../../01_Como_Dirigir.md).
 
 ### ⚔️ Tropas y ejércitos
 
@@ -53,12 +53,12 @@
 
 - **Statblocks de combate** (AC, PV, atributos, acciones, **acciones legendarias**, tácticas, efecto al morir): en cada ficha individual. **Es la fuente actualizada; no la dupliques.**
 - **Acciones legendarias:** cada lugarteniente tiene un número FIJO por ronda definido en su ficha (estándar 5e: ápice 3/ronda, medios 2/ronda, menores 0-2). No hay escalado dinámico por nivel de PJ.
-- **Efecto al morir:** cuando un lugarteniente muere (por los PJ o por otro lugarteniente), su región se restaura: las distorsiones desaparecen gradualmente (1d4 horas). Detalle por región en cada ficha. **Excepción forense:** si fue **Teach** quien lo interceptó con el Talismán, el poder NO se dispersa y la región NO se restaura (ver "el hipo del Contador" en el [motor de campaña](../10_Motor_de_Campana_Reloj_y_Puertas.md)).
-- **Reloj del Ritual:** los PJ no pueden enfrentarlos a todos; la cuenta atrás avanza mientras exploran y deben elegir. A los que no alcancen, los **absorbe Teach** (él crece, no ellos). Ver el [motor de campaña](../10_Motor_de_Campana_Reloj_y_Puertas.md).
+- **Efecto al morir:** cuando un lugarteniente muere (por los PJ o por otro lugarteniente), su región se restaura: las distorsiones desaparecen gradualmente (1d4 horas). Detalle por región en cada ficha. **Excepción forense:** si fue **Teach** quien lo interceptó con el Talismán, el poder NO se dispersa y la región NO se restaura (ver "el hipo del Contador" en el [motor de campaña](../../01_Como_Dirigir.md)).
+- **Reloj del Ritual:** los PJ no pueden enfrentarlos a todos; la cuenta atrás avanza mientras exploran y deben elegir. A los que no alcancen, los **absorbe Teach** (él crece, no ellos). Ver el [motor de campaña](../../01_Como_Dirigir.md).
 - **Información ULTRA-SECRETA:** Edward Teach y Aethernus la guardan; los PJ deben descubrirla gradualmente (ver sus fichas).
 
 **📖 Sistema de anillos de poder de los lugartenientes:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)
-**📖 Regiones y distribución geográfica:** [08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)
+**📖 Regiones y distribución geográfica:** [02_El_Semiplano.md](../../02_El_Semiplano.md)
 
 ---
 

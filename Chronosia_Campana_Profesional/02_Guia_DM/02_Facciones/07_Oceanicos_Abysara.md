@@ -6,7 +6,7 @@
 > **📖 NAVEGACIÓN:**
 > - [← Volver al Índice](./00_Indice_Facciones.md)
 > - [Dinámicas entre Facciones](./06_Dinamicas_Entre_Facciones.md)
-> - [Información sobre el Robo de la Perla](../../04_Aventuras/Fase_1_Robos_Traicion/06_El_Talisman_de_Interceptacion.md#-los-océnicos-de-las-profundidades---raza-de-las-profundidades)
+> - [Información sobre el Robo de la Perla](../../14_Arco_de_Barbanegra.md)
 
 ---
 
@@ -218,7 +218,7 @@ Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mo
 
 ## 📚 **REFERENCIAS RELACIONADAS**
 
-- **Robo de la Perla:** [06_El_Talisman_de_Interceptacion.md](../../04_Aventuras/Fase_1_Robos_Traicion/06_El_Talisman_de_Interceptacion.md#-los-océnicos-de-las-profundidades---raza-de-las-profundidades)
+- **Robo de la Perla:** [14_Arco_de_Barbanegra.md](../../14_Arco_de_Barbanegra.md)
 - **Cristales de Chronosia:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-cristal-estabilizador)
 - **Bendiciones del Vacío:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-bendiciones-del-vacío-océnicos-de-las-profundidades)
 - **Conexión con Anacronistas:** [03_Anacronistas.md](./03_Anacronistas.md#-la-gran-división-la-batalla-de-los-dioses)

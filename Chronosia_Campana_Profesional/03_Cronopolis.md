@@ -18,7 +18,7 @@ Cronópolis es una **"Galia"**: la última aldea libre rodeada por un mundo conq
 
 Pero es un refugio **asediado**. La ciudad rebosa de refugiados que han huido de las regiones rotas; el abastecimiento llega a duras penas; las patrullas de los Cronófagos rondan más allá de la niebla; y, en el centro, el Contador sube. La paz de Cronópolis es la calma de un náufrago aferrado a una tabla: real, pero contada. Que se *sienta* viva —que los PJ aprendan nombres, deban favores, beban en su taberna— es lo que hará que duela si algún día el Cronómetro falla.
 
-> **Para el DM.** Cronópolis no es un menú de servicios: es lo que los PJ luchan por no perder. Mantén las mismas caras visita tras visita, deja que el Contador suba a la vista de todos, y haz que cada región liberada **se note** aquí (un refugiado con nombre, un servicio que reabre, una ruta que se despeja). Detalle civil completo en [02_Guia_DM/09_Cronopolis_Capa_Civil.md](02_Guia_DM/09_Cronopolis_Capa_Civil.md).
+> **Para el DM.** Cronópolis no es un menú de servicios: es lo que los PJ luchan por no perder. Mantén las mismas caras visita tras visita, deja que el Contador suba a la vista de todos, y haz que cada región liberada **se note** aquí (un refugiado con nombre, un servicio que reabre, una ruta que se despeja).
 
 ---
 
@@ -41,7 +41,7 @@ El corazón de la ciudad. Bajo el Gran Reloj se alza el **Contador del Ritual**:
 > *En la plaza:* "La gente pasa y mira de reojo la columna, como quien mira una herida que no sana. Cada cierto tiempo, uno de los segmentos se enciende con una luz dorada y enferma, y un murmullo recorre el mercado: el ritual ha ganado terreno. A veces —raro— un segmento **parpadea hacia atrás** medio dedo, y entonces alguien sonríe sin saber por qué: ahí fuera ha caído un lugarteniente."*
 
 **Para qué sirve al grupo:**
-- **Leer la cuenta atrás.** Es la fuente visible del **Reloj del Ritual** (8 segmentos). Al volver a la ciudad, los PJ —y la ciudadanía— ven en qué punto va la ascensión. Funcionamiento completo en [02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md](02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
+- **Leer la cuenta atrás.** Es la fuente visible del **Reloj del Ritual** (8 segmentos). Al volver a la ciudad, los PJ —y la ciudadanía— ven en qué punto va la ascensión. Funcionamiento completo en [01_Como_Dirigir.md](01_Como_Dirigir.md).
 - **Pista de investigación.** Un "hipo" del Contador que los PJ no provocaron, más una región que sigue rota = alguien ahí fuera está cazando lugartenientes. La primera pista de que **Teach** va por delante.
 - **Termómetro emocional.** Cuando el Contador entra en zona crítica, la plaza se vacía y la ciudad contiene el aliento.
 
@@ -165,7 +165,7 @@ Es el HUB: el sitio al que se vuelve entre regiones. Las actividades nucleares s
 - **Conseguir misiones.** Maren (misiones de ciudad y mediación), Marcus (campaña de liberación, golpes anti-Cronófago), Galen (sabotajes que frenan el ritual), Oda (cargamentos perdidos, rutas cortadas), Bram (ganchos personales, como su hija desaparecida). Cada región liberada trae un **refugiado con nombre** y un beneficio tangible a la ciudad.
 - **La diplomacia de facciones → la media llave.** El hilo largo de Cronópolis: ganarse a los Anacronistas (a través de Galen) sin romper con La Resistencia (Marcus), mediando entre ambos como pide Maren. El premio es la **media llave chroniana de los Anacronistas** (el dominio del Tiempo, el saber del Cronómetro). La otra mitad —el dominio del Espacio— está en el mar, con los **Oceánicos** del Archipiélago de Barbanegra. **Reunir ambas mitades es la condición del buen final**: liberar a Amaunator y a Voidar en la Torre en vez de simplemente cambiarles de carcelero.
 
-> **Cómo encaja en la campaña.** Cronópolis es el centro del sandbox: de aquí salen las puertas a las regiones y aquí vuelven los PJ con botín, refugiados y piezas de la verdad. El muelle (zona 9) abre el Archipiélago solo cuando los Ingenieros montan el **Motor de Viento Perpetuo** (Rotor Infinito = Núcleo de Serapis + Carcasa de Ymir). La ciudad guarda **una** de las dos mitades de la llave chroniana; la otra está en [Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md](Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md). Ritmo, puertas y Reloj: [02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md](02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
+> **Cómo encaja en la campaña.** Cronópolis es el centro del sandbox: de aquí salen las puertas a las regiones y aquí vuelven los PJ con botín, refugiados y piezas de la verdad. El muelle (zona 9) abre el Archipiélago solo cuando los Ingenieros montan el **Motor de Viento Perpetuo** (Rotor Infinito = Núcleo de Serapis + Carcasa de Ymir). La ciudad guarda **una** de las dos mitades de la llave chroniana; la otra está en [Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md](Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md). Ritmo, puertas y Reloj: [01_Como_Dirigir.md](01_Como_Dirigir.md).
 
 ---
 

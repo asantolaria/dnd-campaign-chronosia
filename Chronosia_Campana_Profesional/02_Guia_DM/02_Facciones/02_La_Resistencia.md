@@ -80,7 +80,7 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 
 ## ⏳ **EL CONTADOR DEL RITUAL**
 
-> **Sistema vigente:** La Resistencia ya no monitoriza un "balance temporal/dimensional" (retirado). Co-construye y mantiene el **Contador del Ritual** — el Reloj de 8 segmentos que mide la ascensión de Aethernus. Fuente única: [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md).
+> **Sistema vigente:** La Resistencia ya no monitoriza un "balance temporal/dimensional" (retirado). Co-construye y mantiene el **Contador del Ritual** — el Reloj de 8 segmentos que mide la ascensión de Aethernus. Fuente única: [../../01_Como_Dirigir.md](../../01_Como_Dirigir.md).
 
 ### **Estado Inicial (Fase 0-1)**
 La Resistencia ha vivido durante años con las distorsiones como parte de su realidad cotidiana. Sus dispositivos funcionaban con normalidad y las distorsiones, aunque constantes, se mantenían estables. No tenían forma de medir cuánto le quedaba al ritual de Aethernus.

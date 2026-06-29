@@ -5,7 +5,7 @@
 
 ## 📑 **ÍNDICE MAESTRO**
 
-- **[00_Indice_Campana.md](./00_Indice_Campana.md)** – Navegación rápida: fases 0-6, sesiones, fuentes de verdad y herramientas del DM.
+- **[00_Indice_Campana.md](./00_La_Historia_de_Chronosia.md)** – Navegación rápida: fases 0-6, sesiones, fuentes de verdad y herramientas del DM.
 
 ---
 
@@ -43,8 +43,8 @@ Esta es la versión profesional de la campaña Chronosia, organizada siguiendo l
 
 ## 📋 **HERRAMIENTAS RÁPIDAS PARA EL DM**
 
-- **[02_Guia_DM/DM_Screen_Una_Pagina.md](./02_Guia_DM/DM_Screen_Una_Pagina.md)** – Referencia de una página para mesa (balance, lugartenientes, frases clave).
-- **[02_Guia_DM/Eventos_Que_Siempre_Ocurren.md](./02_Guia_DM/Eventos_Que_Siempre_Ocurren.md)** – Lista de hitos fijos de la trama y frase tipo para el DM.
+- **[02_Guia_DM/DM_Screen_Una_Pagina.md](./01_Como_Dirigir.md)** – Referencia de una página para mesa (balance, lugartenientes, frases clave).
+- **[02_Guia_DM/Eventos_Que_Siempre_Ocurren.md](./01_Como_Dirigir.md)** – Lista de hitos fijos de la trama y frase tipo para el DM.
 
 ### **📕 Libro de campaña (un solo archivo)**
 

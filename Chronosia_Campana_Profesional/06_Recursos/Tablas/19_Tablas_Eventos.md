@@ -222,7 +222,7 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 
 ## ⏳ **QUÉ MUEVE EL RELOJ DEL RITUAL**
 
-> **Recordatorio:** la única cuenta de presión de Chronosia es el **Reloj del Ritual** (8 segmentos, empieza en 2/8). No hay "balance" temporal/dimensional. Fuente única: [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
+> **Recordatorio:** la única cuenta de presión de Chronosia es el **Reloj del Ritual** (8 segmentos, empieza en 2/8). No hay "balance" temporal/dimensional. Fuente única: [01_Como_Dirigir.md](../../01_Como_Dirigir.md).
 
 ### **📊 Tracking de segmentos**
 

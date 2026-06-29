@@ -24,7 +24,7 @@ Chronosia es un **sandbox con cuenta atrás**. Los jugadores eligen libremente q
 
 ## El tono: las Marcas del Tiempo Roto
 
-Chronosia no es un mundo de fantasía con un reloj encima: es un **semiplano agonizante** donde dos dioses presos se desangran, y eso se nota en cada detalle. Igual que *Curse of Strahd* te pide repetir sus "marcas del horror" hasta que Barovia se siente opresiva, aquí tu trabajo es **martillear, sesión tras sesión, la sensación de tiempo y espacio averiados** hasta que los jugadores la den por sentada. Esto no es decoración: es lo que separa "matamos monstruos en un sitio raro" de "estamos dentro de algo que se está rompiendo". Las páginas sensoriales de la [Guía Rápida](01_Introduccion/02_Guia_Rapida.md) son tu despensa; aquí tienes la cocina.
+Chronosia no es un mundo de fantasía con un reloj encima: es un **semiplano agonizante** donde dos dioses presos se desangran, y eso se nota en cada detalle. Igual que *Curse of Strahd* te pide repetir sus "marcas del horror" hasta que Barovia se siente opresiva, aquí tu trabajo es **martillear, sesión tras sesión, la sensación de tiempo y espacio averiados** hasta que los jugadores la den por sentada. Esto no es decoración: es lo que separa "matamos monstruos en un sitio raro" de "estamos dentro de algo que se está rompiendo". Las páginas sensoriales son tu despensa; aquí tienes la cocina.
 
 ### Tres o cuatro tics recurrentes (repítelos hasta que pesen)
 Elige un puñado de gestos y **vuelve a ellos cada sesión**. La repetición es lo que crea el tono; un detalle usado una vez es anécdota, usado diez veces es atmósfera.

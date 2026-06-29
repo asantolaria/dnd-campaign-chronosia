@@ -267,7 +267,7 @@ Cuando se combina con el Cronómetro de Realidades, crea el Talismán de Interce
 **Ubicación:** Cronópolis (Taller de los Ingenieros o Santuario de los Anacronistas)  
 **Estado Actual:** ✅ Creado y activo desde Fase 1-2
 
-> **Reloj del Ritual:** este artefacto **ES** el Reloj del Ritual — un marcador de **8 segmentos** (0→8) que mide la ascensión de Aethernus. NO mide un % ni un "balance". Empieza ya avanzado en **2/8** y a **8/8** se produce la Llamada de los Dioses y se abre la Torre. Fuente única: [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
+> **Reloj del Ritual:** este artefacto **ES** el Reloj del Ritual — un marcador de **8 segmentos** (0→8) que mide la ascensión de Aethernus. NO mide un % ni un "balance". Empieza ya avanzado en **2/8** y a **8/8** se produce la Llamada de los Dioses y se abre la Torre. Fuente única: [01_Como_Dirigir.md](../../01_Como_Dirigir.md).
 
 #### **📍 Ubicación y Obtención:**
 
@@ -329,7 +329,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 | 6-7/8 | ⚠️ Zona crítica | Luz roja de advertencia; pueden lanzarse Tormentas del Ritual |
 | 8/8 | **Llamada de los Dioses** | Se abre la Torre de la Eternidad (Fase 4) |
 
-> El avance lo rige el [Motor de Campaña](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md): +1 por arco de región, salto con el asesinato de Thyra, se estanca al caer un crítico, −1 con el sacrificio de Varrak.
+> El avance lo rige [Cómo Dirigir](../../01_Como_Dirigir.md): +1 por arco de región, salto con el asesinato de Thyra, se estanca al caer un crítico, −1 con el sacrificio de Varrak.
 
 #### **🎯 Función Narrativa:**
 - Transmite urgencia visual a los jugadores

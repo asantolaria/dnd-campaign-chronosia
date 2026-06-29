@@ -23,7 +23,7 @@
 
 ## 1. **RELOJ DEL RITUAL**
 
-> Única cuenta de presión de la campaña. Marcador de **8 segmentos** (empieza en **2/8**) que mide la ascensión de Aethernus. A 8 → **Llamada de los Dioses** → se abre la Torre (Fase 4). Fuente: [10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md).
+> Única cuenta de presión de la campaña. Marcador de **8 segmentos** (empieza en **2/8**) que mide la ascensión de Aethernus. A 8 → **Llamada de los Dioses** → se abre la Torre (Fase 4). Fuente: [01_Como_Dirigir.md](../../01_Como_Dirigir.md).
 
 ### **⏳ Marcador**
 
@@ -111,7 +111,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 
 ### **📝 Notas de Tracking:**
 - **Total de Regiones:** 11 con lugarteniente + Cronópolis (hub) + Torre de la Eternidad (clímax)
-- **Puerta:** razón in-world que abre la región (ver [Mapa de Puertas](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md#-mapa-de-puertas-gating-de-regiones)). El gating NO es "tras derrotar N lugartenientes" salvo donde la puerta lo indique
+- **Puerta:** razón in-world que abre la región (ver [Mapa de Puertas](../../01_Como_Dirigir.md)). El gating NO es "tras derrotar N lugartenientes" salvo donde la puerta lo indique
 - **Regiones Desbloqueadas:** Marca con ✅ cuando se desbloquea
 - **Regiones Exploradas:** Marca con ✅ cuando los PJ la visitan
 - **Regiones Bloqueadas:** Marca con ⚰️ si el lugarteniente muere y la región se bloquea
@@ -299,8 +299,8 @@ Cada lugarteniente porta un **anillo de poder** (canalizador de Aethernus) y, en
 ## 🔗 **REFERENCIAS**
 
 - **[07_Cronologia_Maestra_Campana.md](../../02_Guia_DM/07_Cronologia_Maestra_Campana.md)** - Timeline maestro y eventos de desbloqueo
-- **[08_Geografia_y_Regiones_de_Chronosia.md](../../03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md)** - Información de regiones y desbloqueos
-- **[10_Motor_de_Campana_Reloj_y_Puertas.md](../../02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md)** - Reloj del Ritual, puertas y finales (fuente única de estructura)
+- **[02_El_Semiplano.md](../../02_El_Semiplano.md)** - Información de regiones y desbloqueos
+- **[01_Como_Dirigir.md](../../01_Como_Dirigir.md)** - Reloj del Ritual, puertas y finales (fuente única de estructura)
 - **[21_Objetos_Magicos_Reliquias.md](./21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)** - Anillos y reliquias de los lugartenientes
 
 ---

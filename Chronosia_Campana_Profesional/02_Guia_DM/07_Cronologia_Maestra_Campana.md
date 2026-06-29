@@ -4,16 +4,11 @@
 ---
 
 > **⚠️ DOCUMENTO MAESTRO (timing de eventos fijos).**
-> Para el **ritmo y la presión** (el Reloj del Ritual), el **gating de regiones** y el **timing de los hitos de Teach**, manda el [⏳ Motor de Campaña: Reloj y Puertas](./10_Motor_de_Campana_Reloj_y_Puertas.md). Este documento detalla *cuándo* ocurren los eventos fijos.
+> Para el **ritmo y la presión** (el Reloj del Ritual), el **gating de regiones** y el **timing de los hitos de Teach**, manda [⏳ Cómo Dirigir](../01_Como_Dirigir.md). Este documento detalla *cuándo* ocurren los eventos fijos.
 >
 > **Estructura: 5 fases · nivel 3→10 · clímax en la Torre de la Eternidad.** Sistemas retirados: balance temporal/dimensional, Lugartenientes Supremos y viaje al pasado.
 >
-> **📖 Guías Generales por fase:**
-> - [Fase 0: Railroad Inicial](../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)
-> - [Fase 1: Robos y Traición](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
-> - [Fase 2: Sandbox Inicial](../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
-> - [Fase 3: Sandbox Avanzado](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
-> - [Fase 4: Clímax — La Torre de la Eternidad](../04_Aventuras/Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
+> **📖 Recorrido fase a fase:** [Cómo Dirigir](../01_Como_Dirigir.md)
 
 ---
 
@@ -66,7 +61,7 @@ SESIONES 13-15: Torre de la Eternidad y Batalla Final
 ### **Objetivo de esta Fase:**
 Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con la trama principal.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 0](../04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md)
+**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
 
 ### **Resumen de Sesiones:**
 
@@ -88,7 +83,7 @@ Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con 
 ### **Objetivo de esta Fase:**
 Edward Teach ejecuta su plan maestro progresivamente: roba los artefactos después de que los PJ derroten lugartenientes, crea el Talismán, asesina a Thyra, y desencadena la guerra espontánea entre lugartenientes.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 1](../04_Aventuras/Fase_1_Robos_Traicion/00_Guia_General_Fase_1.md)
+**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
 
 ### **Cronología de Eventos (Basada en Derrotas de Lugartenientes):**
 
@@ -119,7 +114,7 @@ Edward Teach ejecuta su plan maestro progresivamente: roba los artefactos despu�
 ### **Objetivo de esta Fase:**
 Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/traiciones.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 2](../04_Aventuras/Fase_2_Sandbox_Inicial/00_Guia_General_Fase_2.md)
+**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
 
 ### **Resumen de Sesiones:**
 
@@ -143,7 +138,7 @@ Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/tra
 ### **Objetivo de esta Fase:**
 Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11), guerra entre lugartenientes se intensifica.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 3](../04_Aventuras/Fase_3_Sandbox_Avanzado/00_Guia_General_Fase_3.md)
+**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
 
 ### **Resumen de Sesiones:**
 
@@ -166,7 +161,7 @@ Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11),
 ### **Objetivo de esta Fase:**
 Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar al villano final.
 
-**📖 Para timeline detallado y desarrollo completo:** [Guía General de la Fase 4](../04_Aventuras/Fase_4_Climax_Torre/00_Guia_General_Fase_4.md)
+**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
 
 ### **Resumen de Sesiones:**
 
@@ -269,7 +264,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 
 **Resumen:**
 - **Niveles:** 3 (inicio) → 10 (final)
-- **Lugartenientes a derrotar:** **no hay que derrotarlos a todos.** Críticos = Teach, Ignis, Vorthak (+ Aethernus). Para *llegar* a Teach bastan **2** (Serapis + Ymir → Motor de Viento); recomendable **3-4** en total antes de enfrentarlo. El resto son opcionales; los que el grupo no alcanza, los absorbe Teach. Ver [Motor de Campaña](./10_Motor_de_Campana_Reloj_y_Puertas.md).
+- **Lugartenientes a derrotar:** **no hay que derrotarlos a todos.** Críticos = Teach, Ignis, Vorthak (+ Aethernus). Para *llegar* a Teach bastan **2** (Serapis + Ymir → Motor de Viento); recomendable **3-4** en total antes de enfrentarlo. El resto son opcionales; los que el grupo no alcanza, los absorbe Teach. Ver [Cómo Dirigir](../01_Como_Dirigir.md).
 
 ---
 
@@ -347,17 +342,17 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 
 | **Documento** | **Qué Contiene** | **Cuándo Usarlo** |
 |--------------|------------------|-------------------|
-| **Guías Generales de Fases** | Timeline detallado de cada fase | Preparar cada fase |
+| **01_Como_Dirigir.md** | Recorrido fase a fase, Reloj y Puertas | Preparar cada fase |
 | **06_Facciones_Organizaciones.md** | Info sobre Anacronistas, Oceánicos de las Profundidades, Cronófagos | Sesiones 2+ |
-| **06_El_Talisman_de_Interceptacion.md** (Fase_1_Robos_Traicion) | Robos y traiciones (Sesiones 4-6) | Preparar Sesiones 4-6 |
+| **14_Arco_de_Barbanegra.md** | Robos y traiciones (Sesiones 4-6) | Preparar Sesiones 4-6 |
 | **21_Objetos_Magicos_Reliquias.md** | Sistema de Anillos de Poder | Sesiones 14+ |
 | **20_Tablas_Tracking_Campana.md** | Tablas completas de tracking + Resolución final | Toda la campaña (actualizar después de cada sesión) |
-| **08_Geografia_y_Regiones_de_Chronosia.md** | Tabla maestra de regiones | Toda la campaña |
+| **02_El_Semiplano.md** | Tabla maestra de regiones | Toda la campaña |
 | **04_Escenas_de_Revelacion.md** (Fase_2_Sandbox_Inicial) | Revelaciones sobre Manshoon (Sesiones 8-13) | Preparar Sesiones 8-13 |
 | **05_Encuentro_Anacronistas_Relojeros.md** (Fase_2_Sandbox_Inicial) | Contador del Ritual (Sesión 8-9) | Preparar Sesión 8-9 |
-| **04_Aventuras/Fase_4_Climax_Torre/** | Clímax: asalto a la Torre de la Eternidad | Preparar Sesiones 13-15 |
+| **01_Como_Dirigir.md** (clímax) | Clímax: asalto a la Torre de la Eternidad | Preparar Sesiones 13-15 |
 | **00_Esquemas/03_Torre_Eternidad.md** | Niveles de la Torre y los 4 finales | Preparar el clímax |
-| **10_Motor_de_Campana_Reloj_y_Puertas.md** | Reloj, puertas, villanos críticos, Teach, Varrak | Toda la campaña |
+| **01_Como_Dirigir.md** | Reloj, puertas, villanos críticos, Teach, Varrak | Toda la campaña |
 
 ---
 

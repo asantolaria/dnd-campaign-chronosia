@@ -28,7 +28,7 @@
 ### **División Interna en Cronófagos**
 - **Naturaleza del Conflicto**: Algunos se especializan en tiempo, otros en espacio, y algunos en ambos, creando tensiones internas
 - **Tácticas**: Rivalidad entre bandos temporales y dimensionales
-- **Resultado**: Guerra civil entre lugartenientes tras el asesinato de Thyra. La escalada la encarna **Edward Teach**, que absorbe a los lugartenientes que los PJ no alcanzan (ver [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md))
+- **Resultado**: Guerra civil entre lugartenientes tras el asesinato de Thyra. La escalada la encarna **Edward Teach**, que absorbe a los lugartenientes que los PJ no alcanzan (ver [../../01_Como_Dirigir.md](../../01_Como_Dirigir.md))
 
 ### **Oceánicos de las Profundidades vs. Edward Teach**
 - **Naturaleza del Conflicto**: Vendetta eterna tras la traición de Teach (robo de la Perla y masacre de 47 guerreros)
@@ -171,7 +171,7 @@ El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de 
 
 ## 🔗 **REFERENCIAS RELACIONADAS**
 
-- **Motor de Campaña (Reloj del Ritual y Puertas)**: [../10_Motor_de_Campana_Reloj_y_Puertas.md](../10_Motor_de_Campana_Reloj_y_Puertas.md) — fuente única sobre estructura, ritmo y la escalada de Teach
+- **Motor de Campaña (Reloj del Ritual y Puertas)**: [../../01_Como_Dirigir.md](../../01_Como_Dirigir.md) — fuente única sobre estructura, ritmo y la escalada de Teach
 - **NPCs Importantes**: [../03_NPCs_Importantes.md](../03_NPCs_Importantes.md)
 
 ---

@@ -147,7 +147,7 @@ Después de la trama de la Traición de Serapis, cuando la Matrona Yrindra vea c
 - Combina poderes temporales y dimensionales de forma única
 - Sirve a Yrindra como guardián poderoso
 
-**📖 Referencia:** Ver [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md#-fase-7-la-traición-final-de-los-bregan-daerthe) para la escena completa.
+**📖 Referencia:** Ver [14_Arco_de_Barbanegra.md](../../14_Arco_de_Barbanegra.md) para la escena completa.
 
 ---
 
@@ -175,7 +175,7 @@ Serapis está involucrado en una de las tramas más complejas y emocionales de l
 - **Mecánica única:** Sistema del Reloj de Arena (ver región)
 - **Destino final:** Será asesinado por los Bregan Daerthe y resucitado como no-muerto bajo el control de Yrindra mediante el ritual Zin-Carla
 
-**📖 Trama completa:** [04_La_Traicion_de_Serapis.md](../../04_Aventuras/Fase_3_Sandbox_Avanzado/04_La_Traicion_de_Serapis.md)  
+**📖 Trama completa:** [14_Arco_de_Barbanegra.md](../../14_Arco_de_Barbanegra.md)  
 
 ---
 

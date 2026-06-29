@@ -5,7 +5,7 @@
 
 ## ⏳ **EXPLICADORES DEL RELOJ DEL RITUAL**
 
-> **Sistema vigente:** estos NPCs ya **no** explican un "balance temporal/dimensional" (sistema retirado). Explican el **Reloj del Ritual** — el Contador de 8 segmentos que mide la ascensión de Aethernus. Ver fuente única: [10_Motor_de_Campana_Reloj_y_Puertas.md](./10_Motor_de_Campana_Reloj_y_Puertas.md).
+> **Sistema vigente:** estos NPCs ya **no** explican un "balance temporal/dimensional" (sistema retirado). Explican el **Reloj del Ritual** — el Contador de 8 segmentos que mide la ascensión de Aethernus. Ver fuente única: [10_Motor_de_Campana_Reloj_y_Puertas.md](../01_Como_Dirigir.md).
 
 ### **🔮 Galen (Anacronistas) - Explicador Principal**
 
@@ -207,7 +207,7 @@
 - **Sirviente Homúnculo**: Ha creado un homúnculo especial a partir de un cristal temporal estabilizado (valorado en al menos 100 po). El homúnculo puede detectar distorsiones temporales y alertar a Din.
 - **Anillo de Recarga de Conjuros**: Puede recuperar un espacio de conjuro gastado (nivel 3 o inferior) una vez por amanecer.
 - **Dispositivos de Estabilización Temporal**: Din ha desarrollado varios dispositivos únicos que ayudan a estabilizar pequeñas distorsiones temporales, trabajando en conjunto con los relojes de Cornelius.
-- **🔧 Calibrador del Contador del Ritual**: Din Goldgear aporta los sensores temporales que permiten calibrar el **Contador del Ritual** (el Reloj de 8 segmentos que los Anacronistas y La Resistencia montan en Cronópolis). Sus instrumentos detectan los "hipos" del Contador: cuando un lugarteniente cae ahí fuera, el flujo de poder divino parpadea y el Contador retrocede medio segmento antes de estabilizarse. Esto convierte el aparato en herramienta de pistas (saber que alguien —p. ej. Teach— ha matado a un lugarteniente) además de medidor de la cuenta atrás. Permite al Capitán Marcus dar lecturas precisas del estado del ritual. Ver [10_Motor_de_Campana_Reloj_y_Puertas.md](./10_Motor_de_Campana_Reloj_y_Puertas.md).
+- **🔧 Calibrador del Contador del Ritual**: Din Goldgear aporta los sensores temporales que permiten calibrar el **Contador del Ritual** (el Reloj de 8 segmentos que los Anacronistas y La Resistencia montan en Cronópolis). Sus instrumentos detectan los "hipos" del Contador: cuando un lugarteniente cae ahí fuera, el flujo de poder divino parpadea y el Contador retrocede medio segmento antes de estabilizarse. Esto convierte el aparato en herramienta de pistas (saber que alguien —p. ej. Teach— ha matado a un lugarteniente) además de medidor de la cuenta atrás. Permite al Capitán Marcus dar lecturas precisas del estado del ritual. Ver [10_Motor_de_Campana_Reloj_y_Puertas.md](../01_Como_Dirigir.md).
 
 **Función en la Campaña - Mecenas y Creador de Artefactos**:
 - **Mecenas Importante**: Din se ha convertido en uno de los mecenas más importantes de la campaña, proporcionando recursos, información y apoyo logístico a los PJ
