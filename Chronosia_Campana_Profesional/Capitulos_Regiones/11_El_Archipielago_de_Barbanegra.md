@@ -88,6 +88,10 @@ Esta zona es la **explicación** de la región: aquí los PJ *ven*, tallado en p
 
 ### 5 · Fuerte Negro del Capitán Barbanegra *(guarida de Edward Teach)*
 
+![Battlemap del Fuerte Negro — la guarida pirata de Teach](../assets/mapas/battlemap-fuerte-negro.png)
+
+> *Battlemap para el asalto final (cuadrícula lista para VTT o impresión). Mapa: «Pirate Lair» de [Forgotten Adventures](https://www.forgotten-adventures.net/) — CC BY 4.0.*
+
 La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un peñón vertical, la **flota pirata** fantasma anclada al pie en eterna calma, y en lo alto, la bandera de la calavera. Aquí, en la cámara más alta, Teach **ya lleva el Talismán de Interceptación Divina cosido al pecho** —forjado y probado en Thyra— y trabaja sin descanso en **perfeccionar su costura**: estabilizar los dos poderes lo bastante para interceptar a una presa mucho mayor sin que el medallón se le rompa en las manos.
 
 > *Leído al entrar en la cámara alta:* "El salón está lleno de mesas de cartas náuticas, todas cubiertas de cálculos que no son de navegación sino de *teología*: distancias a una Torre que no figura en mapa alguno, fechas de un ritual ajeno. En el centro, sobre un soporte de hierro, descansa un **Cristal Estabilizador** que pulsa al compás de un medallón colgado al cuello de un pirata de barba negra — un medallón que late con **dos luces que se pelean, oro y púrpura**, mientras su mano izquierda envejece y rejuvenece sin parar y su piel cristaliza a trozos. Se vuelve sin sorpresa. «Por fin alguien interesante. Decidme — ¿venís a detenerme, o a entender que tengo razón?»"*
