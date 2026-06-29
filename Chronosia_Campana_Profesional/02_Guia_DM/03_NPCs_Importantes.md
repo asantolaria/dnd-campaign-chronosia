@@ -632,7 +632,7 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 **Desarrollo**: Los PJ deben construir dispositivos que sellen los portales dimensionales
 
 ### **🌙 MISIÓN 5: "La Ciudad Subterránea" - Ciudad Subterránea de Veldrisza (Nivel 6-7)**
-**Lugarteniente**: Matrona Veldrisza "La Tejedora Dimensional"
+**Lugarteniente**: Matrona Yrindra "La Tejedora Dimensional"
 **Poblado**: Colonia de Refugiados (población: 400 habitantes)
 **Problema**: Los refugiados están atrapados en redes espaciales que los conectan con Menzoberranzan
 **Objetivo**: Cortar las conexiones dimensionales y liberar a los refugiados

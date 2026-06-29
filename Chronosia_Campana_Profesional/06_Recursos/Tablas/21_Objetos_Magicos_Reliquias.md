@@ -72,7 +72,7 @@ Aparecen las recompensas de trama de gama media, ligadas a derrotar lugartenient
 La curva sube: piezas mayores ensambladas y equipo personal de lugartenientes.
 - **Rotor Infinito (completo) y el Motor de Viento Perpetuo** que los Ingenieros construyen con él: requiere **ambas partes** (Núcleo + Carcasa) más materiales; es un hito de esta banda, no antes.
 - **Excavadora Dimensional:** quest de los Ingenieros (materiales + 5 Cristales de Poder Dimensionales); herramienta de progreso de trama de esta banda.
-- **Objetos personales de lugartenientes (reliquias menores):** botín de Serapis, Edward Teach, Dimensionalis, Ignis, Veldrisza y Las Gemelas (espadas/dagas/capas +2/+3 y similares), además del **Espejo de Realidad Fragmentada** (derrotar a Las Gemelas).
+- **Objetos personales de lugartenientes (reliquias menores):** botín de Serapis, Edward Teach, Dimensionalis, Ignis, Yrindra y Las Gemelas (espadas/dagas/capas +2/+3 y similares), además del **Espejo de Realidad Fragmentada** (derrotar a Las Gemelas).
 - **Anillos de Poder de los Lugartenientes:** empiezan a entrar en juego aquí (Estasis, Reversión, Aceleración, Compresión, Fragmentación). Recuerda su mecánica: **desaparecen 1-2 min tras la muerte del portador** salvo intervención del Talismán; no escalan solos, son botín situacional.
 - **Tecnología de gama alta (Muy Raro):** Rifle Anti-Magia, Estabilizador Temporal, Compresor Dimensional.
 
@@ -790,7 +790,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 | **Thyra la Suspendida** | Temporal | ⚠️ Muerta | ❌ Desaparecido | Asesinada por Teach |
 | **Dimensionalis la Fracturada** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Ignis el Devorador Espacial** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
-| **Matrona Veldrisza** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
+| **Matrona Yrindra** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Edward Teach "Barbanegra"** | Dimensional | ⚠️ Derrotado | Anillo Robado | Preservado con Talismán |
 | **Medusa la Paralizante** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 
@@ -974,12 +974,12 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Daño:** 2d6+3 cortante + 2d6 fuego
 - **Poder:** Puede crear portales de fuego al atacar
 
-#### **🌙 Objetos de Matrona Veldrisza**
+#### **🌙 Objetos de Matrona Yrindra**
 
 **📍 Ubicación:**
 - **Lugar:** La Ciudad Subterránea de Veldrisza (región de Veldrisza)
-- **Poseedor:** Matrona Veldrisza
-- **Cómo Obtenerlos:** Derrotar a Veldrisza (Nivel 9-10)
+- **Poseedor:** Matrona Yrindra
+- **Cómo Obtenerlos:** Derrotar a Yrindra (Nivel 9-10)
 - **Nota:** Requiere la Excavadora Dimensional o ayuda de Varrak del Horizonte (aliado) para acceder
 
 **Bastón de Telarañas Dimensionales:**

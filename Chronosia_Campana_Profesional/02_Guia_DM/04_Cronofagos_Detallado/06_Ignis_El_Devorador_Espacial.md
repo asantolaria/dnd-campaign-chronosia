@@ -169,7 +169,7 @@ Cuando Ignis muere (ya sea por los PJ o por otro lugarteniente), **Las Calderas 
 
 ## 👑 **COMO LÍDER DEL BANDO DIMENSIONAL**
 
-Ignis lidera el Bando Dimensional junto con Veldrisza y potencialmente Las Gemelas. Es el lugarteniente más poderoso del bando dimensional y representa la mayor amenaza dimensional para los PJ.
+Ignis lidera el Bando Dimensional junto con Yrindra y potencialmente Las Gemelas. Es el lugarteniente más poderoso del bando dimensional y representa la mayor amenaza dimensional para los PJ.
 
 ---
 
@@ -191,7 +191,7 @@ Ignis es **Caótico Malvado** en su esencia más pura. No sigue ningún código,
 - **Poder por poder:** Aunque es líder del Bando Dimensional, no lidera por ambición - simplemente es el más poderoso y los demás lo siguen por miedo
 
 **Relación con Otros:**
-- **Veldrisza:** La tolera porque es útil, pero no tiene lealtad real hacia ella
+- **Yrindra:** La tolera porque es útil, pero no tiene lealtad real hacia ella
 - **Otros Lugartenientes:** Los ve como herramientas o juguetes para su diversión
 - **Aethernus:** No le importa el plan de Aethernus - solo sigue órdenes porque le permiten causar más caos
 

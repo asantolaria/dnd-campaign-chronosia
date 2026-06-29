@@ -51,6 +51,8 @@ Un edificio de cúpulas y relojería fina, sede de los **Anacronistas**, los des
 
 **Para qué sirve al grupo:** es la casa de **Galen** (ver más abajo), el explicador principal del Reloj y la voz que conduce, paso a paso, hacia la **media llave chroniana** de los Anacronistas. Aquí los PJ aprenden la historia antigua (la fractura, los dos pueblos), consultan archivos, y —si se ganan la confianza de la facción— acceden al saber del Cronómetro.
 
+> **Siembra — los primos del fondo.** En un rincón de la cúpula, un **mural descolorido** muestra a un solo pueblo —los Chronianos— partiéndose en dos columnas el día de la fractura: una sube hacia las torres de la superficie, la otra desciende hacia un mar pintado en azul oscuro. Un viejo anacronista que barre bajo el mural se detiene si un PJ se queda mirándolo: *"Esos de ahí abajo eran de los nuestros, ¿sabéis? Anacronistas y los del agua fuimos un mismo pueblo antes de que el mundo se rompiera. Los llamábamos **los primos del fondo** — nuestros hermanos perdidos bajo el mar. Mi abuela juraba que aún cantan ahí abajo, esperando que alguien de arriba se acuerde de que existen. Nadie va ya. El mar no deja."* Sabor y gancho temprano: los Oceánicos no son extraños, sino la mitad perdida de Cronópolis —y nadie cruza a verlos.
+
 ### 4 · El Cuartel de la Resistencia (Fortaleza de Acero)
 
 Una fortaleza maciza, sin un solo adorno, que es a la vez cuartel, fundición y arsenal de **La Resistencia**: los ingenieros y artesanos que odian la magia y la combaten con pólvora, vapor y acero. De sus chimeneas sale humo a todas horas. En su atrio está el **monitor central** del Contador (espejo técnico del de la Plaza).

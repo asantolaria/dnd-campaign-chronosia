@@ -32,7 +32,7 @@ Compara el **nivel recomendado** con el nivel del grupo para leer el riesgo:
 | **Tempus** | (errante) | 🕓 Temporal | 7-8 | **Núcleo Temporal** | Fragmenta su propio tiempo: dispérsalo y pierde acciones. |
 | **Dimensionalis** | (ala profunda) | 🌌 Dimensional | 8-9 | **Carcasa Dimensional** | Anclar el espacio (p. ej. *zona antimagia*) la deja sin teletransportes. |
 | **Vorthak** *(crítico)* | Mansión de la Sed Eterna | 🩸 Vida | 8-10 | frena el Reloj | Luz solar y daño radiante cortan su regeneración. |
-| **Veldrisza** | Ciudad de Veldrisza | 🌌 Dimensional | 9-10 | **Carcasa Dimensional** | Mueve los hilos desde la sombra: corta a sus marionetas primero. |
+| **Yrindra** | Ciudad de Veldrisza | 🌌 Dimensional | 9-10 | **Carcasa Dimensional** | Mueve los hilos desde la sombra: corta a sus marionetas primero. |
 | **Ignis** *(crítico)* | ala dimensional profunda | 🌌 Dimensional | 9-10 | **abre las Llanuras/Veldrisza**; frena el Reloj | Devora espacio: lucha en espacios cerrados donde no pueda "tragarse" el terreno. |
 | **Edward Teach** *(crítico)* | Archipiélago de Barbanegra | ⚓ Usurpador | 7-9 *(crece)* | media llave oceánica; frena el Reloj | **Cuanto antes, mejor**: cada lugarteniente que absorbe lo sube de CR. |
 | **Aethernus** *(BBEG)* | Torre de la Eternidad | ☀️🌑 Ambos | 8-10 *(fin de partida)* | el clímax | Solo es vulnerable con la **llave chroniana** completa (Anacronistas + Oceánicos). |
@@ -79,7 +79,15 @@ Para que **cada campaña sea distinta de verdad** (no solo "qué regiones ves"),
 |---|---|
 | 1 | Como está escrito: Serapis (Núcleo), Ymir (Carcasa). |
 | 2 | Núcleo en el Jardín (Medusa/Gemelas); Carcasa en Ymir. |
-| 3 | Núcleo en Serapis; Carcasa la tiene Veldrisza (más tarde → puerta más dura). |
+| 3 | Núcleo en Serapis; Carcasa la tiene Yrindra (más tarde → puerta más dura). |
 | 4 | Ambas piezas las guardan lugartenientes de nivel medio: el Archipiélago se abre más tarde. |
+
+**¿Está Teach en el Fuerte Negro cuando llegan?** — decide si el grupo encuentra a Edward Teach **dentro** de su fortaleza del Archipiélago o **fuera, de caza** (absorbiendo lugartenientes). El eje depende de cómo trataron *el hipo del Contador*: si desatendieron sus avisos, Teach campa a sus anchas cazando y casi siempre estará **fuera** (sobrevive más fácil → empuja hacia el **Final B**); si lo presionaron y le pisaron los talones, está **dentro**, acorralado.
+
+| Según estado (o 1d6) | ¿Dónde está Teach? |
+|---|---|
+| **Lo presionaron** (cazaron sus presas, atendieron el hipo del Contador) · *1-2* | **Dentro** del Fuerte Negro, atrincherado. Confrontación directa posible aquí. |
+| **Termino medio** (ni lo persiguieron ni lo ignoraron) · *3-4* | **Entrando y saliendo.** 50/50: tira al llegar o haz que dependa de la hora del asalto. |
+| **Lo desatendieron** (ignoraron el hipo del Contador, lo dejaron cazar) · *5-6* | **Fuera, de caza.** Vuelve cargado de poder robado; sobrevive con más facilidad → tiende al **Final B**. |
 
 > Apunta la lectura en tu hoja de seguimiento. No se la cuentes a los jugadores: que la **descubran** explorando y reconociendo.

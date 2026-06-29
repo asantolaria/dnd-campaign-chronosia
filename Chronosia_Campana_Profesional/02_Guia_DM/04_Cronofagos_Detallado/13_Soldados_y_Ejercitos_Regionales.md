@@ -10,7 +10,7 @@
 - [Cómo Funciona el Otorgamiento de Poderes](#-cómo-funciona-el-otorgamiento-de-poderes)
 
 ### **🌌 Lugartenientes con Conexiones Planares**
-- [Matrona Veldrisza - Portales a Menzoberranzan](#-matrona-veldrisza---portales-a-menzoberranzan)
+- [Matrona Yrindra - Portales a Menzoberranzan](#-matrona-yrindra---portales-a-menzoberranzan)
 - [Ignis el Devorador Espacial - Portales al Plano Elemental del Fuego](#-ignis-el-devorador-espacial---portales-al-plano-elemental-del-fuego)
 
 ### **⏰🌌 Lugartenientes que Crean Soldados con Poderes Propios**
@@ -33,7 +33,7 @@ Los lugartenientes se dividen en dos categorías según cómo obtienen sus ejér
 Estos lugartenientes tienen acceso directo a otros planos y traen criaturas de esos planos para luchar por ellos. **NO crean soldados con poderes propios**, sino que invocan aliados de otros planos.
 
 **Lugartenientes con Conexiones Planares:**
-- **Matrona Veldrisza**: Portales a Menzoberranzan → Trae guerreros drow, sacerdotisas de Lolth, demonios drow
+- **Matrona Yrindra**: Portales a Menzoberranzan → Trae guerreros drow, sacerdotisas de Lolth, demonios drow
 - **Ignis el Devorador Espacial**: Portales al Plano Elemental del Fuego → Trae dragones rojos, elementales de fuego, criaturas infernales
 
 #### **⚔️ Tipo 2: Lugartenientes que Crean Soldados con Poderes Propios**
@@ -66,7 +66,7 @@ Cada región tiene soldados únicos porque:
 
 ## 🌌 **LUGARTENIENTES CON CONEXIONES PLANARES**
 
-### **🕷️ Matrona Veldrisza - Portales a Menzoberranzan**
+### **🕷️ Matrona Yrindra - Portales a Menzoberranzan**
 
 **Tipo de Ejército:** Criaturas invocadas desde Menzoberranzan
 
@@ -76,13 +76,13 @@ Cada región tiene soldados únicos porque:
 - **Demonios Drow (Yochlol)** (CR 10): Demonios araña que sirven a Lolth directamente
 
 **Características:**
-- **NO son soldados entrenados** por Veldrisza
+- **NO son soldados entrenados** por Yrindra
 - **Vienen directamente de Menzoberranzan** a través de portales
 - **Mantienen sus habilidades originales** de Menzoberranzan
-- **Luchan por Veldrisza** pero no reciben poderes dimensionales adicionales
-- **Regresan a Menzoberranzan** cuando son derrotados o cuando Veldrisza cierra los portales
+- **Luchan por Yrindra** pero no reciben poderes dimensionales adicionales
+- **Regresan a Menzoberranzan** cuando son derrotados o cuando Yrindra cierra los portales
 
-**Poderes de Veldrisza:**
+**Poderes de Yrindra:**
 - **Portal a Menzoberranzan** (3/día): Trae 1d3 guerreros drow
 - **Portal de Ejército** (1/día): Trae 2d4 guerreros drow + 1 sacerdotisa de Lolth
 - **Portal de Lolth** (1/día): Trae 1d4 yochlol (demonios drow)
@@ -304,7 +304,7 @@ Los soldados dimensionales reciben fragmentos del poder espacial de su lugarteni
 | **Edward Teach** | Los Estancados | Estasis + Espacial | Estasis Parcial + Portales |
 | **Dimensionalis** | Los Fracturados | Fracturación Dimensional | Existencia Fracturada |
 | **Las Gemelas** | Los Reflejados | Dimensiones Espejo | Reflejos Dimensionales |
-| **Veldrisza** | **Invocados de Menzoberranzan** | **N/A (Criaturas Planares)** | **Guerreros Drow, Sacerdotisas, Demonios** |
+| **Yrindra** | **Invocados de Menzoberranzan** | **N/A (Criaturas Planares)** | **Guerreros Drow, Sacerdotisas, Demonios** |
 | **Ignis** | **Invocados del Plano de Fuego** | **N/A (Criaturas Planares)** | **Dragones Rojos, Elementales de Fuego** |
 
 ---
@@ -313,7 +313,7 @@ Los soldados dimensionales reciben fragmentos del poder espacial de su lugarteni
 
 ### **⚠️ Diferencias Clave:**
 
-1. **Veldrisza e Ignis NO tienen soldados entrenados** - Solo invocan criaturas de otros planos
+1. **Yrindra e Ignis NO tienen soldados entrenados** - Solo invocan criaturas de otros planos
 2. **El resto de lugartenientes SÍ tienen soldados entrenados** - Cada uno con habilidades únicas
 3. **Los soldados de cada región son distintos** - Porque cada lugarteniente otorga poderes diferentes
 4. **Las disfunciones afectan a los soldados** - Cada región tiene disfunciones únicas que afectan a sus soldados

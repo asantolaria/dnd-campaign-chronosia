@@ -2,7 +2,7 @@
 
 ![Corte vertical de la Torre de la Eternidad](assets/mapas/12_torre-eternidad.png)
 
-> **El final de la campaña** · **Nivel:** 10 (techo de Chronosia) · **Reloj:** 8/8 · **Puerta:** se abre cuando los dioses claman · **Lo que se decide:** si Aethernus asciende, si Teach lo usurpa, o si los héroes liberan a Amaunator y Voidar y devuelven el equilibrio.
+> **El final de la campaña** · **Nivel:** 10 (techo de Chronosia) · **Reloj:** doom monótono, **8/8 = ascensión consumada (Final D, derrota)** · **Entrada:** se asalta cuando los PJ **reúnen la llave chroniana** (las dos mitades) **y conocen la entrada** (revelada por Teach o por la espía Matrona Yrindra) · **Lo que se decide:** si Aethernus asciende, si Teach lo usurpa, o si los héroes liberan a Amaunator y Voidar y devuelven el equilibrio.
 
 Todo lo que los héroes han hecho —cada región explorada, cada lugarteniente caído, cada facción reconciliada— converge aquí, en una sola torre suspendida entre los planos. La Torre de la Eternidad no es una mazmorra: es la última página de Chronosia, y los PJ la escriben con sus elecciones. Este capítulo cuenta el clímax como debe vivirse en mesa: la llamada, el asalto nivel a nivel, la batalla por fases y los cuatro finales posibles.
 
@@ -10,7 +10,9 @@ Todo lo que los héroes han hecho —cada región explorada, cada lugarteniente 
 
 ## La Llamada de los Dioses
 
-Cuando el **Reloj del Ritual llega a 8/8**, el ritual de ascensión entra en su última fracción y el semiplano entero lo siente. No hay heraldos ni mensajeros: los propios dioses cautivos, exprimidos hasta el límite, encuentran el aliento para gritar una vez. Léelo cuando el último segmento del Reloj caiga en su sitio.
+> **Cuándo se dispara.** La Llamada **no** la activa el Reloj llegando a 8/8 (eso sería ya la derrota, el Final D). Se activa cuando los PJ **reúnen la llave chroniana** —las dos mitades, Anacronistas + Oceánicos— **y conocen la entrada de la Torre** (revelada por Teach o por la espía Matrona Yrindra de Veldrisza). Ese es el momento en que el asalto es posible y los dioses, sintiendo que sus liberadores ya tienen lo que hace falta, encuentran el aliento para llamarlos. El Reloj sigue corriendo como doom de fondo: cuanto más alto esté cuando suene la Llamada, más cerca del 100% arrancará el medidor del ritual arriba.
+
+Cuando los PJ tienen la llave reunida y saben cómo entrar, el ritual de ascensión entra en su última fracción y el semiplano entero lo siente. No hay heraldos ni mensajeros: los propios dioses cautivos, exprimidos hasta el límite, encuentran el aliento para gritar una vez. Léelo en ese momento.
 
 > *Leído a todos los PJ, estén donde estén:*
 > "El cielo de Chronosia se raja como una vidriera vieja. Por las grietas no se ve cielo: se ve **el cosmos colapsando**, galaxias que se derraman hacia adentro. El tiempo tartamudea —vuestro corazón late dos veces y luego se salta un latido— y el espacio se pliega: el horizonte que tenéis delante se acerca y se aleja como si respirara.
@@ -36,7 +38,7 @@ Cuando el **Reloj del Ritual llega a 8/8**, el ritual de ascensión entra en su 
 > *Leído (Teach, a lo lejos, sobre la cubierta de un barco que ya no toca el agua):*
 > "¡Una **carrera**, héroes! El primero en llegar a la cima se queda con el poder de un dios. ¡Que gane el mejor… o sea, yo!"
 
-Y entonces los héroes echan a correr hacia una torre que existe en varias dimensiones a la vez, con el Reloj sonando 8 y el ritual rozando lo irreversible.
+Y entonces los héroes echan a correr hacia una torre que existe en varias dimensiones a la vez, con el Reloj alto y el ritual rozando lo irreversible. *(Si el Reloj llegara a 8/8 antes de que entren, la ascensión se consuma sin combate: Final D.)*
 
 ---
 
@@ -108,7 +110,7 @@ A partir de aquí, todo es la batalla final. Si Teach llegó, está presente, co
 
 ## La batalla final por fases
 
-> **Nivel 10 fijo** (no se sube de nivel durante el combate). **Reloj 8/8.** El **medidor del ritual** está visible siempre y sube cada 2-3 turnos (narrativo, no estricto). Si llega al 100% antes de que los PJ ganen → **Final D**. La estructura es de **tres pasos** (interrumpir → liberar → derrotar), entrelazados con las fases del statblock de Aethernus.
+> **Nivel 10 fijo** (no se sube de nivel durante el combate). El **medidor del ritual** —un contador PROPIO del combate final, como desactivar una bomba— está visible siempre y sube cada 2-3 turnos (narrativo, no estricto); dentro de la Cámara **sí puede subir y bajar** según lo que hagan los PJ. **No confundir con el Reloj del sandbox**, que es doom monótono y nunca retrocede. Si el medidor del ritual llega al 100% antes de que los PJ ganen → **Final D** (lo mismo que si el Reloj del sandbox toca 8/8). La estructura es de **tres pasos** (interrumpir → liberar → derrotar), entrelazados con las fases del statblock de Aethernus.
 
 ### Paso 1 — Interrumpir el ritual *(detener el reloj)*
 
@@ -196,11 +198,13 @@ Si **Edward Teach sobrevivió, cruzó la Eliminatoria (con ventaja del Talismán
 
 ### Final C · Carrera Divina *(el filo de la navaja)*
 
-Cuando el medidor está **muy alto** (Teach corriendo, PJ rezagados, ritual cerca del 100%) el final se convierte en una **carrera literal contra el porcentaje**. Cada turno cuenta; interrumpir el Cronosellado retrocede el medidor, perder turnos lo dispara. Es el Final A o B comprimido en una cuenta atrás visible: los héroes ganan **por los pelos**, o lo ven completarse ante sus ojos (→ Final D). Úsalo para tensar al máximo cuando el grupo llegó tarde pero no *demasiado* tarde. La emoción está en el medidor subiendo mientras ruedan los dados.
+Cuando el medidor del ritual está **muy alto** (Teach corriendo, PJ rezagados, ritual cerca del 100%) el final se convierte en una **carrera literal contra el porcentaje**. Cada turno cuenta; interrumpir el Cronosellado **retrocede el medidor**, perder turnos lo dispara. Es el Final A o B comprimido en una cuenta atrás visible: los héroes ganan **por los pelos**, o lo ven completarse ante sus ojos (→ Final D). Úsalo para tensar al máximo cuando el grupo llegó tarde pero no *demasiado* tarde. La emoción está en el medidor subiendo mientras ruedan los dados.
+>
+> **Importante:** ese tira-y-afloja es el **medidor PROPIO del combate final** —el del ritual dentro de la Cámara, que sube y baja por turnos como la cuenta de una bomba que se desactiva—. **No es el Reloj del sandbox.** El Reloj del sandbox es doom monótono y **nunca retrocede**; interrumpir el Cronosellado no lo mueve hacia atrás. Lo único que se mueve en Final C es el medidor del propio ritual.
 
 ### Final D · Demasiado Tarde *(imparable — fin de partida)*
 
-Si el **medidor llega al 100%** antes de que los PJ liberen o derroten, **Aethernus consuma la ascensión**. No hay combate: ya es un dios, y un dios **no tiene CR ni statblock**. Es una **derrota narrativa**, no un encuentro ganable —resistir la tentación de inflarlo a CR 23/25 y "darles una oportunidad". No la hay. Esa es la honestidad del Reloj.
+Si el **Reloj del sandbox toca 8/8** —o, ya en el combate, si el **medidor del ritual llega al 100%**— **Aethernus consuma la ascensión**. **8/8 = Final D, derrota.** No hay combate: ya es un dios, y un dios **no tiene CR ni statblock**. Es una **derrota narrativa**, no un encuentro ganable —resistir la tentación de inflarlo a CR 23/25 y "darles una oportunidad". No la hay. Esa es la honestidad del Reloj: monótono, nunca retrocede, y a 8/8 se acaba.
 
 > *Leído:* "El medidor toca el cien. El sol y el vacío que estaban encadenados se… **vacían**, de golpe, como dos odres pinchados, y mueren. Lo que queda en pie en el centro del círculo ya no es un hombre. Os mira como un niño mira a una hormiga. «El multiverso es mío —dice, y su voz es todas las voces—. Vosotros sois insignificantes. Huid. Huid mientras el mundo que conocíais aún existe… porque pronto no existirá.» No hay tirada de ataque que importe. Solo queda **huir, o caer de pie.**"
 
@@ -284,12 +288,12 @@ No hay epílogo luminoso, pero sí hay **cierre**. Cuenta qué fue del multivers
 
 ### Los lugartenientes supervivientes *(los que el grupo no derrotó)*
 
-- **A luminoso / agridulce.** Al romperse el Cronosellado, los lugartenientes vivos pierden de golpe el poder que era luz y vacío robados: vuelven a ser lo que eran antes de Aethernus. Algunos —**las Gemelas**, **Varrak** si vivía— hallan redención; otros —**Vorthak el Sediento**, **Ignis**, **Veldrisza la Tejedora**— quedan despojados y a merced de un mundo que recuerda lo que hicieron. La guerra civil que Veldrisza tejió (la traición a Serapis vía Bregan D'aerthe, su resurrección como Zin-Carla) muere con su causa: sin poder divino que repartirse, los conspiradores no son más que asesinos sin trono. Lo que el grupo no cerró, lo cierra la caída del ritual.
-- **B / D.** Los supervivientes se postran ante el dios nuevo o son devorados por él. Quienes drenaban poder de Aethernus ahora lo drenan —o lo sufren— del usurpador. Veldrisza intriga igual bajo amo nuevo; Vorthak e Ignis sirven o arden. Ninguno gana: solo cambian de cadena.
+- **A luminoso / agridulce.** Al romperse el Cronosellado, los lugartenientes vivos pierden de golpe el poder que era luz y vacío robados: vuelven a ser lo que eran antes de Aethernus. Algunos —**las Gemelas**, **Varrak** si vivía— hallan redención; otros —**Vorthak el Sediento**, **Ignis**, **Yrindra la Tejedora**— quedan despojados y a merced de un mundo que recuerda lo que hicieron. La guerra civil que Yrindra tejió (la traición a Serapis vía Bregan D'aerthe, su resurrección como Zin-Carla) muere con su causa: sin poder divino que repartirse, los conspiradores no son más que asesinos sin trono. Lo que el grupo no cerró, lo cierra la caída del ritual.
+- **B / D.** Los supervivientes se postran ante el dios nuevo o son devorados por él. Quienes drenaban poder de Aethernus ahora lo drenan —o lo sufren— del usurpador. Yrindra intriga igual bajo amo nuevo; Vorthak e Ignis sirven o arden. Ninguno gana: solo cambian de cadena.
 
 ### Bregan D'aerthe / Jarlaxle
 
-- **Cualquier final.** Los drow son los únicos que siempre ganan algo, porque nunca apostaron por nadie. Cumplido el contrato con Veldrisza (la muerte y profanación de Serapis), **Jarlaxle** lee el viento antes que nadie. **En A**, recoge su oro y desaparece por un portal hacia el Underdark antes de que se cierren, dejando Chronosia como una anécdota lucrativa. **En B**, le ofrece sus servicios al dios pirata —un trato entre oportunistas— o se larga si huele que no le conviene. **En D**, ya no está: fue el primero en marcharse, porque Bregan D'aerthe nunca muere por una causa, solo cobra por ella. Que reaparezcan algún día, en otra mesa, en otro mundo, es la clase de promesa que Jarlaxle sí cumple.
+- **Cualquier final.** Los drow son los únicos que siempre ganan algo, porque nunca apostaron por nadie. Cumplido el contrato con Yrindra (la muerte y profanación de Serapis), **Jarlaxle** lee el viento antes que nadie. **En A**, recoge su oro y desaparece por un portal hacia el Underdark antes de que se cierren, dejando Chronosia como una anécdota lucrativa. **En B**, le ofrece sus servicios al dios pirata —un trato entre oportunistas— o se larga si huele que no le conviene. **En D**, ya no está: fue el primero en marcharse, porque Bregan D'aerthe nunca muere por una causa, solo cobra por ella. Que reaparezcan algún día, en otra mesa, en otro mundo, es la clase de promesa que Jarlaxle sí cumple.
 
 ### Los dioses — Amaunator (Tiempo) y Voidar (Espacio)
 

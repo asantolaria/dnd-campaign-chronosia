@@ -143,7 +143,7 @@ El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de 
 - **Ventajas**: Información privilegiada, recursos de Faerûn, tecnología avanzada, red de espías
 - **Desventajas**: Lealtad cuestionable, pueden traicionar en cualquier momento, métodos poco éticos
 - **Cuándo Aliarse**: Cuando necesiten información sobre Manshoon, cuando busquen recursos de Faerûn, cuando quieran infiltrar otras facciones
-- **🤝 Afinidad Especial**: Tienen mucha afinidad con la Matrona Veldrisza debido a sus conexiones con Menzoberranzan y la cultura drow
+- **🤝 Afinidad Especial**: Tienen mucha afinidad con la Matrona Yrindra debido a sus conexiones con Menzoberranzan y la cultura drow
 - **⚠️ ADVERTENCIA**: Su verdadera lealtad es con Manshoon, pero Jarlaxle puede ser convencido de cambiar de bando
 - **📖 Documento completo:** [04_Bregan_Daerthe.md](./04_Bregan_Daerthe.md)
 

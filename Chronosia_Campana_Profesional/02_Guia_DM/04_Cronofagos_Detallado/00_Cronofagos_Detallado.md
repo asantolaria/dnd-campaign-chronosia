@@ -28,7 +28,7 @@
 | [04](./04_Edward_Teach_Barbanegra.md) | **Edward Teach "Barbanegra"** | Humano Pirata | 11 | 8-9 | Archipiélago de Barbanegra | 🔒 Motor de Viento · **villano final alternativo · ULTRA-SECRETO** |
 | [05](./05_Dimensionalis_La_Fracturada.md) | **Dimensionalis la Fracturada** | Tiefling | 9 | 7-8 | Las Llanuras de la Compresión | 🔒 |
 | [06](./06_Ignis_El_Devorador_Espacial.md) | **Ignis el Devorador** | Dragón Rojo Ancestral | 13 | 9-10 | Las Calderas Dimensionales | 🔒 · **líder dimensional** |
-| [07](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md) | **Matrona Veldrisza** | Drow Matrona | 11 | 8-9 | La Ciudad Subterránea de Veldrisza | 🔒 |
+| [07](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md) | **Matrona Yrindra** | Drow Matrona | 11 | 8-9 | La Ciudad Subterránea de Veldrisza | 🔒 |
 | [08](./08_Las_Gemelas_Del_Espejo.md) | **Las Gemelas del Espejo** (Lyra y Nyx) | Humanas Gemelas | 8 (juntas) | 6-7 | El Jardín de los Tiempos Gemelos | 🔒 · neutrales/aliables |
 | [09](./09_Ymir_El_Eterno_Invierno.md) | **Ymir el Eterno Invierno** | Elemental de Hielo Ancestral | 8 | 6-7 | Glacialis | 🔓 · **reclutador interplanar** |
 
@@ -82,7 +82,7 @@
 
 **⚠️ Importante:** los soldados de cada región son **únicos** porque cada lugarteniente otorga poderes diferentes. Ver [13_Soldados_y_Ejercitos_Regionales.md](./13_Soldados_y_Ejercitos_Regionales.md).
 
-- **Lugartenientes con conexiones planares** (Veldrisza, Ignis): invocan criaturas de otros planos (drow, dragones, elementales).
+- **Lugartenientes con conexiones planares** (Yrindra, Ignis): invocan criaturas de otros planos (drow, dragones, elementales).
 - **Lugartenientes que crean soldados** (resto): entrenan y otorgan poderes únicos a sus seguidores.
 
 ### ⏰ Cronófagos Temporales

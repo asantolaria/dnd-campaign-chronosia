@@ -22,7 +22,7 @@ Las conexiones **no se inventan**: se derivan de los poderes y la raza que cada 
 
 | Lugarteniente | Pista ya presente en su diseño | Plano / dominio | Continuación natural |
 |---|---|---|---|
-| **Matrona Veldrisza** (Drow) | Portales a **Menzoberranzan**, poder de **Lolth** | **Underdark** + Telaraña Demoníaca | Campaña drow / *Out of the Abyss* |
+| **Matrona Yrindra** (Drow) | Portales a **Menzoberranzan**, poder de **Lolth** | **Underdark** + Telaraña Demoníaca | Campaña drow / *Out of the Abyss* |
 | **Lord Vorthak** (Vampiro Ancestral) | No-muerto feudal, drena vida, dominio aislado | **Shadowfell → Barovia** (Dominio del Terror) | *Curse of Strahd* |
 | **Dimensionalis** (Tiefling) | Herencia infernal, fractura a "otras dimensiones" | **Nueve Infiernos → Avernus** | *Descent into Avernus* |
 | **Ignis** (Dragón Rojo Ancestral) | Portales al **Plano Elemental del Fuego**, hueste de dragones | **Plano del Fuego** (y refuerzo infernal) | Aventura elemental / Avernus |
@@ -32,7 +32,7 @@ Las conexiones **no se inventan**: se derivan de los poderes y la raza que cada 
 | **Las Gemelas del Espejo** | Dimensión espejo simétrica | **Plano de los Espejos** / demiplano propio | Gancho propio |
 | **Edward Teach** (Pirata) | "Portal de Invocación" multiversal, mar | **Plano del Agua** / multiverso caótico | Gancho propio (marítimo) |
 
-> **Lectura rápida:** los **tres destinos clásicos** que un grupo pedirá —**Underdark, Barovia, Averno**— ya están cableados por Veldrisza, Vorthak y Dimensionalis. Los **Planos Elementales** son el cuarto, vía Ignis e Ymir.
+> **Lectura rápida:** los **tres destinos clásicos** que un grupo pedirá —**Underdark, Barovia, Averno**— ya están cableados por Yrindra, Vorthak y Dimensionalis. Los **Planos Elementales** son el cuarto, vía Ignis e Ymir.
 
 ---
 

@@ -96,6 +96,16 @@ La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un 
 
 > *Leído al entrar en la cámara alta:* "El salón está lleno de mesas de cartas náuticas, todas cubiertas de cálculos que no son de navegación sino de *teología*: distancias a una Torre que no figura en mapa alguno, fechas de un ritual ajeno. En el centro, sobre un soporte de hierro, descansa un **Cristal Estabilizador** que pulsa al compás de un medallón colgado al cuello de un pirata de barba negra — un medallón que late con **dos luces que se pelean, oro y púrpura**, mientras su mano izquierda envejece y rejuvenece sin parar y su piel cristaliza a trozos. Se vuelve sin sorpresa. «Por fin alguien interesante. Decidme — ¿venís a detenerme, o a entender que tengo razón?»"*
 
+> **¿Está Teach en el Fuerte Negro cuando llegan? (aleatorio ponderado).** Su presencia depende de cómo los PJ hayan manejado el **hipo del Contador** (Teach ha estado cazando lugartenientes para alimentar su Talismán). No fuerces el resultado: tira o decide según el estado de campaña.
+>
+> | d6 ponderado | Estado de campaña | Resultado |
+> |---|---|---|
+> | 1-4 | Los PJ **desatendieron** el hipo del Contador (Teach cazó sin oposición) | **Está FUERA, de caza.** Encuentran su guarida, su intel (cartas náuticas, cálculos de la Torre), el Cristal Estabilizador… y la **entrada a la Torre**. Pero **él sobrevive y crece** → alimenta el **Final B**. |
+> | 5-6 | Estado neutro / sin señal clara | **Está dentro, pero distraído**, trabajando en la costura del Talismán: confrontación posible, aunque puede huir si la pelea se tuerce. |
+> | — | Los PJ lo **presionaron / atendieron** el hipo (le cazaron presas, le cerraron rutas) | **Está dentro y fortificado**, esperándolos: confrontación plena. (Anula la tirada.) |
+>
+> *Que esté fuera no es un fracaso: es el motor del Final B. Que esté dentro y caiga preparado tampoco lo es: elimina la amenaza. Ambos son resultados válidos — la diferencia la marcan los PJ, no el guion.*
+
 **Edward Teach "Barbanegra"** (lugarteniente CRÍTICO — ver statblock). No es un bruto: es un hombre lúcido que ha visto la verdad antes que nadie y ha decidido jugarse el mundo a una carta.
 
 - **Aproximación:** la subida al fuerte la defienden **piratas élite**, **Marineros Distorsionados** en bucle, y los cañones de la flota anclada. Si los PJ pactaron con los Oceánicos, estos atacan el peñón desde el agua, abren la gruta inundada y dividen a la guarnición — convirtiendo un asalto suicida en algo posible.
@@ -105,6 +115,8 @@ La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un 
   *(Es una oferta real. Aceptarla encamina el Final B: Teach asciende. Es sabor y bifurcación, no trampa — pero los Oceánicos romperán toda alianza si los PJ pactan con él.)*
 - **Victoria — Teach derrotado:** el Talismán queda inerte; los dos artefactos pueden recuperarse (la **Perla del Vacío** vuelve, por derecho, a los Oceánicos: devolverla cimenta la alianza y la promesa de la media llave). El mar muerto despierta en 1d4 horas: vuelven la marea, el viento y las olas, los náufragos del Puerto Seco lloran al sentir la brisa. Como Teach es **crítico**, su muerte **frena el Reloj del Ritual**. Los PJ se llevan: la confirmación del plan de usurpación, la noticia de que el poder divino *puede* interceptarse, y —si supieron jugar a los Oceánicos— la **media llave chroniana del mar**.
 - **El coste:** si los PJ tardaron demasiado y dejaron crecer a Teach, pueden encontrarse con que ya zarpó hacia la Torre con el Talismán completo: entonces no hay confrontación aquí, sino una **persecución** hacia el clímax, donde Teach es el villano del **Final B**.
+
+> **Nota DM — evitar a Teach es una estrategia legítima.** La **media llave chroniana** del mar **no se obtiene matando a Teach**: se gana con el **pacto con los Oceánicos** (Tholassa / Reina Nereia, sellado en **Xal'azar**, zona 4) tras **vencer a Móreve** (zona 3) y recuperar su reliquia. Cumplido eso, los PJ ya tienen su premio —la **media llave** y la **alianza submarina**— y pueden decidir **no asaltar el Fuerte Negro**, dejando a Teach vivo y creciendo. Es una elección válida, no un cabo suelto: **mantiene abierto el Final B (Barbanegra el Usurpador)** y lleva a la persecución hacia la Torre. Refuerza, además, lo que ya marca el cristal: **asaltar a Teach sin haber aprendido a romper el Cristal Estabilizador** (lo que se descubre con los Oceánicos, zonas 2-4) es un combate claramente **perdedor** → la salida natural es que los PJ **huyan y Teach viva**. Su muerte **nunca está guionizada**: depende de cómo lleguen. Matarlo preparados **elimina** la amenaza del Final B — y eso también es un resultado válido, no un problema.
 
 ---
 

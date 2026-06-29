@@ -47,6 +47,8 @@ Al noroeste del refugio, una biblioteca-bóveda hincada en la ladera, marcada en
 
 **Pista/secreto:** una astilla cuarteada, la última del estante, está rota a la mitad —como si el recuerdo mismo se hubiera partido—. Muestra a los Chronianos **dividiéndose en dos columnas**: una baja hacia el mar, otra se queda en la superficie. Primera imagen del **pueblo partido**. Veturia: *"Aquí se rompieron en dos. Los del agua y los de la tierra. Y al partirse, partieron también su saber. Por eso hoy nadie sabe ya hacer lo que ellos hacían."*
 
+**Pista/secreto — el relieve de la llave entera.** Sobre el dintel del Archivo, gastado por los siglos, hay un **relieve tallado de antes de la fractura**: el pueblo chroniano *unido*, sin partir todavía, formando un círculo. Entre todas las manos sostienen en alto **una sola llave**, hecha de dos mitades engastadas que encajan perfectamente —una de cara al sol, otra de cara a un mar tallado bajo sus pies—. Bajo el círculo, un solo rostro mira hacia las olas, ya volviéndose para descender. Veturia, si está, lo lee: *"Mirad: aquí la llave era una. Tiempo y Espacio, las dos mitades en las mismas manos. Esto se talló antes de que la mitad del pueblo bajara al mar y se llevara su mitad consigo. Lo que veis no es solo memoria — es un plano. Quien junte otra vez las dos mitades, vuelve a tener la llave entera."* Presagio directo de la **llave chroniana partida** y de los **dos pueblos** que deben reunirse.
+
 **Lleva a:** el rastro de engranajes sube hacia el corazón mecánico de las ruinas, el Gran Engramaje Roto.
 
 ### 2 · El Gran Engramaje Roto

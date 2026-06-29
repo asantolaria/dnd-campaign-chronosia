@@ -2,7 +2,7 @@
 
 ![Mapa de La Ciudad Subterránea de Veldrisza](../../assets/mapas/07_ciudad-subterranea-de-veldrisza.png)
 
-## Lugarteniente: Matrona Veldrisza · Tipo: Dimensional · Nivel PJ: 8-9
+## Lugarteniente: Matrona Yrindra · Tipo: Dimensional · Nivel PJ: 8-9
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 
@@ -37,5 +37,5 @@ Sacerdotisa drow caída en desgracia ante la Matrona, Zress'ynara fue *bendecida
 ## 🔗 Ganchos de la región
 
 - Un nudo de telaraña dimensional pulsa más fuerte cada noche: si nadie lo sella, en tres días Menzoberranzan podrá enviar una columna de asalto a la superficie a través de Veldrisza.
-- Los refugiados susurran que la Matrona Veldrisza no es la verdadera dueña de la ciudad — algo más antiguo teje bajo el suelo, y las arañas le obedecen a *ella*, no a la Matrona.
+- Los refugiados susurran que la Matrona Yrindra no es la verdadera dueña de la ciudad — algo más antiguo teje bajo el suelo, y las arañas le obedecen a *ella*, no a la Matrona.
 - Vornan ofrece guiar a los PJ por el Underdark hacia el corazón del hub planar, pero la ruta atraviesa territorios de *Out of the Abyss*: cada umbral cruzado los hunde más lejos del cielo.

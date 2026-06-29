@@ -74,8 +74,8 @@ Bregan D'aerthe es una organización mercenaria drow contratada por Manshoon (us
 
 ## 🤝 **AFINIDADES ESPECIALES**
 
-### **Matrona Veldrisza**
-Bregan D'aerthe tiene mucha afinidad con la **Matrona Veldrisza** debido a sus conexiones con Menzoberranzan y la cultura drow. Esta relación puede ser explotada por los PJ para obtener información o crear divisiones internas.
+### **Matrona Yrindra**
+Bregan D'aerthe tiene mucha afinidad con la **Matrona Yrindra** debido a sus conexiones con Menzoberranzan y la cultura drow. Esta relación puede ser explotada por los PJ para obtener información o crear divisiones internas.
 
 ---
 

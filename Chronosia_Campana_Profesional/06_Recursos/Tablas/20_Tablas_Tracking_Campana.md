@@ -105,7 +105,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **La Mansión de la Sed Eterna** | Vorthak | Temporal | 8-10 | Alto nivel (ver Mapa de Puertas) | | 🔒 | |
 | **Las Calderas Dimensionales** | Ignis | Dimensional | 8-10 | Motor de Viento / red de portales | | 🔒 | |
 | **Las Llanuras de la Compresión** | Dimensionalis | Dimensional | 9-10 | Derrotar a Ignis | | 🔒 | |
-| **La Ciudad Subterránea de Veldrisza** | Veldrisza | Dimensional | 9-10 | Derrotar a Teach / entrada secreta de Varrak | | 🔒 | |
+| **La Ciudad Subterránea de Veldrisza** | Yrindra | Dimensional | 9-10 | Derrotar a Teach / entrada secreta de Varrak | | 🔒 | |
 | **Valle de la Aguja** | Thyra (caída) | Temporal | ≤10 | Inaccesible para los PJ (solo Teach); umbral de la Torre tras su muerte | | ⚰️ | |
 | **Torre de la Eternidad** | Aethernus (Manshoon) | Clímax | 10 | Reloj a 8/8 (Llamada de los Dioses) | | 🔒 Hasta Reloj 8/8 | |
 
@@ -161,7 +161,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **Edward Teach**  | Independiente | ✅ Activo   | —                    | El Archipiélago de Barbanegra | Crítico, tiene Talismán |
 | **Dimensionalis** | Dimensional | ✅ Activo   | —                    | Las Llanuras de la Compresión | Independiente             |
 | **Ignis**         | Dimensional | ✅ Activo   | —                    | Las Calderas Dimensionales | Líder Bando Dimensional (crítico) |
-| **Veldrisza**     | Dimensional | ✅ Activo   | —                    | La Ciudad Subterránea de Veldrisza | Aliada de Ignis      |
+| **Yrindra**     | Dimensional | ✅ Activo   | —                    | La Ciudad Subterránea de Veldrisza | Aliada de Ignis      |
 | **Las Gemelas**   | Dimensional | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos | Neutral; eligen en Fase 3 |
 | **Medusa**        | Temporal              | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos |                        |
 | **Tempus**        | Temporal              | ✅ Activo   | —                    | Las Ruinas del Tiempo Perdido |                          |
@@ -202,7 +202,7 @@ Cada lugarteniente porta un **anillo de poder** (canalizador de Aethernus) y, en
 | **Ymir** | Temporal | Activo / Muerto | Sí / No | Carcasa Helada (Rotor) | | |
 | **Dimensionalis** | Dimensional | Activo / Muerto | Sí / No | — | | |
 | **Ignis** | Dimensional | Activo / Muerto | Sí / No | — | | Lugarteniente CRÍTICO |
-| **Veldrisza** | Dimensional | Activo / Muerto | Sí / No | — | | |
+| **Yrindra** | Dimensional | Activo / Muerto | Sí / No | — | | |
 | **Medusa** | Dimensional | Activo / Muerto | Sí / No | — | | |
 | **Edward Teach** | Dimensional | Activo / Muerto | Sí / No | Talismán de Interceptación (Cronómetro + Perla) | | Lugarteniente CRÍTICO; recupera Cronómetro y Perla |
 

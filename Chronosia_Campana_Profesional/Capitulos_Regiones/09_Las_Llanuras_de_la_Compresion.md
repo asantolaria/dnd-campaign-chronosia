@@ -18,7 +18,7 @@ Hasta ahora los PJ sabían *qué* hace Aethernus (en el Abismo, si lo visitaron)
 
 > **Si los PJ NO visitan esta región**, llegarán a la Torre sin saber a *quién* enfrentan: pelearán contra "Aethernus el archimago" sin la palanca psicológica y arcana que da saber que es un clon descartable de Manshoon, ni el mapa de lealtades para dividir al enemigo. Lo deducirán tarde, en la propia Torre, y peor. **Dimensionalis no regala nada**: cobra en favores, objetos o información, y siempre se reserva el derecho de **vender a los PJ al mejor postor** después. El trato es la región.
 >
-> **Rejugabilidad:** lo que Dimensionalis revela depende de lo que los PJ le ofrezcan a cambio. Una mesa puede sacarle la identidad de Aethernus; otra, los tratos secretos de Teach; otra, la conexión de Veldrisza con los Bregan D'aerthe. Vende **por capas**: cada secreto tiene un precio mayor, y el último —la identidad— es el más caro. **No reveles todo de golpe**: que negocien por cada pieza.
+> **Rejugabilidad:** lo que Dimensionalis revela depende de lo que los PJ le ofrezcan a cambio. Una mesa puede sacarle la identidad de Aethernus; otra, los tratos secretos de Teach; otra, la conexión de Yrindra con los Bregan D'aerthe. Vende **por capas**: cada secreto tiene un precio mayor, y el último —la identidad— es el más caro. **No reveles todo de golpe**: que negocien por cada pieza.
 
 ---
 
@@ -108,7 +108,7 @@ Una torre de vigía que el espacio ha plegado sobre sí misma: parece baja desde
   > "Tengo todo lo que queréis saber, y lo vendo por piezas. ¿Qué ofrecéis? Oro no — el oro no significa nada cuando puedes estar en mil sitios a la vez. Favores. Objetos. Información que yo no tenga. O… un nombre. Decidme un secreto de los vuestros, y os daré uno de los míos. Empecemos barato."
 
   - **Capa 1 (barata):** la red de **quién canaliza a qué dios**. *"Los de fuego, los de espacio, los que abren portales — todos son Voidar. Los del tiempo, los que rebobinan, los que envejecen — Amaunator. Dos dioses, repartidos en pedazos entre los Cronófagos. ¿No lo sabíais? Pobres."*
-  - **Capa 2 (media):** los **tratos y traiciones** entre lugartenientes. *"Veldrisza tiene comprados a los Bregan D'aerthe por encima de Serapis. El pirata robó el poder de Thyra y miente a todos. Ignis abre puertas a Avernus por puro placer. Nadie sirve a nadie de verdad — todos esperan su turno para traicionar."* (Enlaza con Cap. 10.)
+  - **Capa 2 (media):** los **tratos y traiciones** entre lugartenientes. *"Yrindra tiene comprados a los Bregan D'aerthe por encima de Serapis. El pirata robó el poder de Thyra y miente a todos. Ignis abre puertas a Avernus por puro placer. Nadie sirve a nadie de verdad — todos esperan su turno para traicionar."* (Enlaza con Cap. 10.)
   - **Capa 3 (la más cara — la identidad):** quién es Aethernus.
     > "Y aquí está la joya, por la que cobro caro: vuestro 'Aethernus Valcarys' no nació en Chronosia. No es un dios viejo ni un señor de este lugar roto. Es **Manshoon** — sí, *ese* Manshoon, el archimago de Faerûn que sembró el mundo de copias de sí mismo. Y este de aquí no es siquiera el original: es el **Clon número cuarenta y siete**. Un descarte. Una sobra. Encontró dos dioses heridos en el centro de este semiplano y decidió beberse lo divino hasta volverse dios él mismo. El número 47, queriendo ser único. ¿No es exquisito? Por eso os lo cobro tan caro: porque un hombre que se cree el único cuando es el cuarenta y siete… tiene una grieta. Y vosotros acabáis de comprarla."
 
@@ -164,6 +164,6 @@ Una torre de vigía que el espacio ha plegado sobre sí misma: parece baja desde
 ## Cómo encaja en la campaña
 - **Puerta:** requiere **derrotar a Ignis** (Cap. de las Calderas Dimensionales) para abrir el ala dimensional profunda donde mora Dimensionalis (nivel 9-10). También accesible con el **Espejo de Realidad Fragmentada** si la mesa lo tiene.
 - **Pieza de trama que se llevan:** la **identidad** — **Aethernus = Manshoon, Clon #47** —, la red de qué Cronófago canaliza a qué dios, y los tratos/traiciones entre lugartenientes. Es el secreto que convierte al enemigo de "un poder" en "un hombre con una grieta".
-- **Conexión con otros capítulos:** las capas 2 y 3 de Dimensionalis siembran **Veldrisza y los Bregan D'aerthe** (Cap. 10) y el **plan de Teach** (Cap. 11). La filtración a Avernus prefigura la **escala** del poder robado (Calderas Dimensionales).
+- **Conexión con otros capítulos:** las capas 2 y 3 de Dimensionalis siembran **Yrindra y los Bregan D'aerthe** (Cap. 10) y el **plan de Teach** (Cap. 11). La filtración a Avernus prefigura la **escala** del poder robado (Calderas Dimensionales).
 - **Lo que se pierden si la saltan:** enfrentan a Aethernus sin saber que es Manshoon ni el número 47 — sin la palanca arcana y psicológica del clímax — y sin el mapa de lealtades para dividir al enemigo. Lo deducirán tarde, en la Torre.
 - **Advertencia permanente:** Dimensionalis vende a todos. Lo que les dijo es cierto *hoy*; mañana puede venderlos a ellos. Úsala como fuente recurrente y traicionera.

@@ -61,7 +61,7 @@ Presentadas como se sienten al acercarse:
 4. **Las Ruinas del Tiempo Perdido** *(Cap. 7 · Tempus el Fragmentado)* — Lo que queda del mundo Chroniano anterior a la fractura, atrapado en bucles tan perfectos que entrar sin precaución es repetirse para siempre.
 5. **El Abismo de los Posibles** *(Cap. 8 · Varrak el Oráculo)* — Montañas de bambú y templos sobre el vacío donde el futuro se ramifica en mil senderos a la vez; aquí un oráculo orco ve todos los finales y aún no ha decidido de qué lado está.
 6. **Las Llanuras de la Compresión** *(Cap. 9 · Dimensionalis la Fracturada)* — Una llanura donde el espacio se quiebra en laberintos imposibles, las direcciones mienten y la distancia entre dos pasos no es nunca la misma; aquí se esconde la identidad del enemigo.
-7. **La Ciudad Subterránea de Veldrisza** *(Cap. 10 · Matrona Veldrisza)* — Una urbe drow tejida de telaraña mágica bajo la tierra, donde las traiciones entre lugartenientes se cuecen en la oscuridad y un hilo mal pisado te manda a una dimensión de pesadilla.
+7. **La Ciudad Subterránea de Veldrisza** *(Cap. 10 · Matrona Yrindra)* — Una urbe drow tejida de telaraña mágica bajo la tierra, donde las traiciones entre lugartenientes se cuecen en la oscuridad y un hilo mal pisado te manda a una dimensión de pesadilla.
 8. **El Archipiélago de Barbanegra** *(Cap. 11 · Edward Teach "Barbanegra")* — Un mar en calma muerta, sin un soplo de viento, sembrado de islas donde un pirata que ha aprendido a robarle poder a los dioses prepara su propia usurpación.
 9. **La Mansión de la Sed Eterna** *(Cap. 12 · Lord Vorthak "El Sediento Eterno")* — Un dominio de castillos en ruinas y niebla que envejece, donde un vampiro ancestral drena la vida ajena —un espejo perfecto de lo que Aethernus le hace a los dioses.
 10. **Las Calderas Dimensionales** *(Cap. 13 · Ignis el Devorador Espacial)* — Volcanes y ríos de lava perforados por portales de fuego hacia otros planos; aquí se mide la verdadera escala del poder robado y cómo se filtra fuera de Chronosia.
@@ -85,7 +85,7 @@ Y dos lugares que **no** son destino del grupo, pero pesan sobre todo el mapa:
 | 4 | Las Ruinas del Tiempo Perdido | Tempus el Fragmentado | Cap. 7 |
 | 5 | El Abismo de los Posibles | Varrak el Oráculo | Cap. 8 |
 | 6 | Las Llanuras de la Compresión | Dimensionalis la Fracturada | Cap. 9 |
-| 7 | La Ciudad Subterránea de Veldrisza | Matrona Veldrisza | Cap. 10 |
+| 7 | La Ciudad Subterránea de Veldrisza | Matrona Yrindra | Cap. 10 |
 | 8 | El Archipiélago de Barbanegra | Edward Teach "Barbanegra" | Cap. 11 |
 | 9 | La Mansión de la Sed Eterna | Lord Vorthak "El Sediento Eterno" | Cap. 12 |
 | 10 | Las Calderas Dimensionales | Ignis el Devorador Espacial | Cap. 13 |
@@ -129,7 +129,7 @@ Los Oceánicos son seres acuáticos, nobles y longevos, de escamas iridiscentes 
 
 ### Bregan D'aerthe — *las sombras a sueldo* (líder: **Jarlaxle Baenre**)
 
-Mercenarios drow llegados de Faerûn, contratados por el propio Manshoon (con oro Zhentarim) para espiar, contrabandear y eliminar amenazas a su plan. Elegantes, sigilosos, sin lealtad que el dinero no pueda comprar. Aparecen como aliados útiles —información, recursos, contactos— y pueden revelarse enemigos en cuanto cambie el viento. Su líder, **Jarlaxle Baenre**, juega a varias bandas a la vez y puede ser convencido de traicionar a Manshoon… si la oferta vale la pena. Tienen especial afinidad con la Matrona Veldrisza, por sus raíces drow comunes: una grieta que los PJ astutos pueden aprovechar.
+Mercenarios drow llegados de Faerûn, contratados por el propio Manshoon (con oro Zhentarim) para espiar, contrabandear y eliminar amenazas a su plan. Elegantes, sigilosos, sin lealtad que el dinero no pueda comprar. Aparecen como aliados útiles —información, recursos, contactos— y pueden revelarse enemigos en cuanto cambie el viento. Su líder, **Jarlaxle Baenre**, juega a varias bandas a la vez y puede ser convencido de traicionar a Manshoon… si la oferta vale la pena. Tienen especial afinidad con la Matrona Yrindra, por sus raíces drow comunes: una grieta que los PJ astutos pueden aprovechar.
 
 ---
 

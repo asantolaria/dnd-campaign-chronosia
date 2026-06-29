@@ -78,21 +78,40 @@ Es un marcador de **8 segmentos** que empieza en **2/8** (el ritual ya está ava
 ```
 RELOJ DEL RITUAL — Ascensión de Aethernus
 [▓][▓][░][░][░][░][░][░]   ← empieza en 2/8
- 0  1  2  3  4  5  6  7  8 → LLAMADA DE LOS DIOSES (se abre la Torre)
+ 0  1  2  3  4  5  6  7  8 → 8/8 = LA ASCENSIÓN SE CONSUMA (derrota · Final D)
 ```
 
-| Avanza (+1) | Frena / retrocede |
-|---|---|
-| Explorar una región a fondo (cada arco ≈ +1) | Derrotar a un **crítico** (Vorthak, Ignis, Teach) → corta un canal divino: el ritual se estanca |
-| Hitos de Barbanegra (la **muerte de Thyra** da un SALTO) | Misiones de sabotaje de los Anacronistas (congelan un segmento) |
-| Desatender a Teach (deja que absorba a otro lugarteniente) | El **sacrificio de Varrak** (−1 segmento) |
+**El Reloj es DOOM puro: solo SUBE o se ESTANCA, nunca retrocede** (única excepción en toda la campaña: el sacrificio de Varrak). Y **no mide vuestra actividad — mide al enemigo**: el ritual drena a los dioses con el paso del tiempo, hagáis lo que hagáis. Quedarse quietos **no lo detiene** (los días corren igual) y encima no gana nada; por eso siempre conviene actuar. La pregunta nunca es *"¿exploro?"*, sino *"¿en qué gasto el tiempo que me queda?"*.
 
-**A 8/8** → **Llamada de los Dioses** → se abre la Torre de la Eternidad (Cap. 15).
+**Velocidad (muévelo por hito, no por reloj de pared):**
 
-> **Ritmo, no cronómetro.** Avanza el Reloj por *progreso narrativo*, no por reloj de pared. Con ~6 segmentos de margen y 10 regiones, los PJ resuelven realistamente **4-6 regiones**: que dejen cosas sin ver **es el punto**, no un fallo.
+| Sube +1 cuando… |
+|---|
+| Completáis el **arco de una región** (ir + resolver) |
+| Hacéis una **travesía larga** (un viaje que es un arco: cruzar el mar muerto, bajar al ala profunda) |
+| Pasa una **temporada de inactividad** en Cronópolis (descanso o investigación larga) |
+
+De 2 a 8 hay **~6 hitos** → caben **~5-6 regiones** en las ~14-15 sesiones. Que dejen zonas sin ver **es el punto**, no un fallo.
+
+**Estancar (ganar tiempo, nunca rebobinar):**
+
+| Frena el ritual |
+|---|
+| **Cortar un crítico** (Teach · Ignis · Vorthak) → corta un canal divino: el ritual **se estanca 2 hitos** (los próximos 2 no suben) |
+| **Misión de sabotaje** de los Anacronistas → estanca **1 hito** |
+| **El sacrificio de Varrak** → **−1 segmento** (lo ÚNICO que hace retroceder el Reloj) |
+
+Cortar críticos **compra tiempo** para reunir la llave y prepararse; el doom nunca se deshace, solo se contiene. Frase para la mesa: *"Cada trozo grande de tiempo os cuesta un segmento; tenéis unos seis. Cada crítico que cortéis os regala un par de respiros."*
+
+> **A 8/8 = derrota, no apertura.** Llegar a 8 **no abre la Torre**: significa que **Aethernus consuma la ascensión** y se hace dios → **Final D** (Cap. 15). La Torre se asalta cuando los PJ están listos (ver *El Mapa de Puertas*), corriendo contra ese reloj.
 
 ### El "hipo" del Contador (gancho de investigación)
-Cada muerte de lugarteniente corta un canal y el Contador **parpadea/retrocede**. Si los PJ **no** causaron ese parpadeo, los Anacronistas lo detectan: *"alguien ha matado a un lugarteniente ahí fuera"*. Si además esa región **debería haberse restaurado y sigue rota**, es prueba de que **Teach está cazando lugartenientes** y absorbiendo su poder. Así los PJ destapan el plan de Teach **deduciéndolo del propio Reloj**, sin que tú se lo cuentes.
+Cada muerte de lugarteniente corta un canal y el Contador **parpadea y se estanca** un instante. Si los PJ **no** causaron ese parpadeo, los Anacronistas lo detectan: *"alguien ha matado a un lugarteniente ahí fuera"*. Si además esa región **sigue rota**, es prueba de que **Teach está cazando lugartenientes** y absorbiendo su poder. Así destapan su plan **deduciéndolo del propio Reloj**, sin que tú se lo cuentes.
+
+> **El vistazo a Teach.** Tarde o temprano, siguiendo un parpadeo, los PJ **pillan a Teach en plena cacería** (o justo después). Es un **roce claramente perdedor**: suelta su oferta y **se marcha porque tiene una presa que cazar** (*"Tengo un dios que atrapar; volved cuando hayáis crecido"*). No huye por guion — tiene agenda. Siembra su amenaza y las ganas de pararlo, sin arriesgar su muerte antes de tiempo.
+
+### Cómo lo ven los jugadores (feedback en mesa)
+El Contador es un **aparato físico** en Cronópolis (lo montan los Anacronistas leyendo el Cristal). **Se enciende** en la Fase 1-2 mostrando ya 2/8. **Avanza:** un segmento se ilumina y los Anacronistas lo anuncian. **Se estanca:** al cortar un crítico, el segmento actual **se agrieta y se congela** a la vista, y los Anacronistas lo confirman (*"has cortado un canal — el ritual se ha atascado; has ganado tiempo"*). El avance y el estancamiento **siempre se comunican**.
 
 ---
 
@@ -107,7 +126,7 @@ Cada región tiene una **razón in-world** para estar cerrada hasta conseguir ci
 | 7-9 | **El Archipiélago de Barbanegra** (Cap. 11) | **Motor de Viento** (ver abajo): hasta entonces el mar está en calma muerta |
 | 8-10 | **Las Ruinas del Tiempo Perdido** (Cap. 7) · **La Mansión de la Sed Eterna** (Cap. 12) · **Las Calderas Dimensionales** (Cap. 13) | Alto nivel; las Ruinas piden una **Arena del Tiempo** (la deja cualquier lugarteniente temporal) |
 | 9-10 | **Las Llanuras de la Compresión** (Cap. 9) · **La Ciudad de Veldrisza** (Cap. 10) | Derrotar a **Ignis** abre el ala dimensional profunda |
-| Clímax | **La Torre de la Eternidad** (Cap. 15) | El Reloj llega a 8 |
+| Clímax | **La Torre de la Eternidad** (Cap. 15) | Reunir la **llave chroniana** (las dos mitades) y conocer la entrada (la revela Teach o la Matrona Yrindra) |
 
 Así, **cuatro regiones están abiertas desde el inicio** (Espiral, Glacialis, Jardín, Abismo): el sandbox arranca de verdad libre.
 
@@ -115,13 +134,19 @@ Así, **cuatro regiones están abiertas desde el inicio** (Espiral, Glacialis, J
 El mar que rodea el Archipiélago está en **calma muerta**: ningún barco avanza. Para cruzarlo, los Anacronistas montan el **Motor de Viento**, que necesita el **Rotor Infinito**. Y el Rotor se ensambla con **dos piezas que sueltan los lugartenientes al caer** —una de cada tipo de conducto divino—:
 
 - **Núcleo Temporal** — el corazón de un **conducto de Amaunator (Tiempo)**. Lo deja **cualquier lugarteniente temporal**: **Serapis** (Espiral), **las Gemelas** o **Medusa** (Jardín), **Tempus**…
-- **Carcasa Dimensional** — la coraza de un **conducto de Voidar (Espacio)**. La deja **cualquier lugarteniente dimensional**: **Ymir** (Glacialis), **Dimensionalis**, **Veldrisza**, **Ignis**…
+- **Carcasa Dimensional** — la coraza de un **conducto de Voidar (Espacio)**. La deja **cualquier lugarteniente dimensional**: **Ymir** (Glacialis), **Dimensionalis**, **Yrindra**, **Ignis**…
 
 Combina **uno de cada tipo** y tienes el Rotor. **Serapis e Ymir son los más accesibles** (regiones de entrada), pero **no obligatorios**: el grupo elige a quién cazar. La puerta premia derrotar lugartenientes, sin forzar dos en concreto.
 
-> **Lugartenientes por aspecto** (de qué dios son conducto): **Temporales (Amaunator)** — Serapis, Tempus, Medusa, las Gemelas. **Dimensionales (Voidar)** — Ymir, Dimensionalis, Veldrisza, Ignis. *(Vorthak drena vida: no da pieza de Rotor.)*
+> **Lugartenientes por aspecto** (de qué dios son conducto): **Temporales (Amaunator)** — Serapis, Tempus, Medusa, las Gemelas. **Dimensionales (Voidar)** — Ymir, Dimensionalis, Yrindra, Ignis. *(Vorthak drena vida: no da pieza de Rotor.)*
 
 El **Valle de la Aguja** (Thyra) es **inaccesible** para los PJ: solo Teach, con el Talismán, puede entrar.
+
+### Por qué hay puertas: la fractura y la cadena de llaves
+Chronosia es un **plano roto**: sus regiones son fragmentos desconectados y no se cruza libremente, porque el tiempo y el espacio están partidos desde la Guerra de los Dioses. Lo único que tiende un puente sobre una fractura es **el poder de un dios cautivo** — justo lo que canalizan los lugartenientes. Por eso **cada lugarteniente que cae suelta una "llave"**: una pieza del Rotor, una reliquia (la Arena del Tiempo), o el corte de un canal que estabiliza un ala entera (al caer **Ignis** se abre lo profundo: Llanuras y Veldrisza). Vencer al de cerca te da **el medio para alcanzar al de más allá**, y varias víctimas pueden abrir la misma puerta (el Rotor lo monta *cualquier* temporal + *cualquier* dimensional). *(Qué suelta cada uno, con una tirada de hallazgo, en el [Apéndice — Reconocimiento e Inteligencia](06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md).)*
+
+### La puerta de la Torre: la llave chroniana
+La Torre de la Eternidad **no la abre el Reloj**. Está fuera de todo alcance hasta que los PJ **reúnen la llave chroniana** —las dos mitades del saber chroniano: la de los **Anacronistas** (Cronópolis) y la de los **Oceánicos** (el Archipiélago)— y **aprenden la entrada** (se la revela **Teach** en su guarida, o la **Matrona Yrindra**, la espía de Veldrisza). Reunir a los dos pueblos no es solo "el buen final": es, literalmente, **cómo se entra**. Sin la llave solo cabe un **asalto desesperado** (final sombrío). Por eso el **Archipiélago** —media llave oceánica + Teach + la revelación de la Torre— es **casi imprescindible**.
 
 ### Saber si estás listo: reconocimiento e inteligencia
 Con cuatro regiones abiertas a la vez, los PJ eligen objetivos casi **a ciegas**. Dales herramientas para **medir la amenaza antes de comprometerse** y para **encontrar lo que les falta**, en lugar de cargar de frente:
@@ -167,7 +192,7 @@ El Reloj entra en zona alta. Las piezas encajan: los lugartenientes son **conduc
 - Los PJ deberían comprender que la única forma de **liberar a los dioses** es reunir a **Anacronistas + Oceánicos** (la llave chroniana).
 
 ### Fase 4 — Clímax: la Torre *(guiado)*
-El Reloj llega a 8 → **Llamada de los Dioses** → se abre la Torre. Asalto por niveles y **batalla final**; el desenlace depende del tablero (Cap. 15).
+Cuando los PJ reúnen la **llave chroniana** y conocen la entrada, **asaltan la Torre** —corriendo contra el Reloj: si llega a 8 antes, la ascensión se consuma (**Final D**)—. Asalto por niveles y **batalla final**; el desenlace depende del tablero (Cap. 15).
 
 ---
 
@@ -177,7 +202,7 @@ Pase lo que pase, estos hitos suceden (los PJ cambian el *cómo* y el *desenlace
 
 - **Fase 0:** asesinato de Thaddeus en Waterdeep; derrota de Kaelthas; llegada a Cronópolis.
 - **Fase 1:** robo de la Perla y del Cronómetro; **creación del Talismán**; **muerte de Thyra**; guerra espontánea.
-- **Fase 4:** la **Llamada de los Dioses** cuando el Reloj llega a 8 (el desenlace NO es fijo: ver los 4 finales).
+- **Fase 4:** el **enfrentamiento final** en la Torre (lo provocan los PJ al estar listos —llave chroniana + entrada conocida—, o el **Reloj a 8** precipita el **Final D**). El desenlace NO es fijo: ver los 4 finales.
 
 > **Sensación in-world, no "el DM dice no":** Thyra muere porque su valle es **inaccesible** salvo para Teach con el Talismán; el Talismán se forja porque Teach tiene medios que los PJ no. Preséntalo como **lógica del mundo**, no como un muro.
 

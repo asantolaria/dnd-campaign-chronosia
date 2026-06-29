@@ -208,7 +208,7 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Lord Vorthak "El Sediento Eterno"** → Poderes de drenaje temporal
 - **Medusa la Eterna** → Poderes de petrificación temporal
 - **Ignis el Devorador Espacial** → Poderes de portales de fuego
-- **Matrona Veldrisza** → Poderes de redes espaciales
+- **Matrona Yrindra** → Poderes de redes espaciales
 - **Las Gemelas del Espejo** → Poderes de dimensión espejo
 
 #### **🎭 Mecánica Narrativa:**

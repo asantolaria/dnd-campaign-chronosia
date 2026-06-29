@@ -16,7 +16,7 @@ Fue una edad dorada. Y terminó como terminan las edades doradas: porque los dio
 
 Nadie sabe qué encendió la **Guerra de los Dioses**. Unos dicen celos; otros, que el Tiempo y el Espacio no pueden coexistir para siempre sin chocar. Lo que sí se sabe es el resultado: cuando Amaunator y Voidar lucharon, **el mundo se rompió**. El tiempo dejó de avanzar igual en todas partes; las distancias dejaron de medir lo mismo. Aldeas quedaron atrapadas en un solo día eterno; montañas se plegaron sobre sí mismas; el cielo se llenó de grietas.
 
-De aquel mundo roto quedó **Chronosia**: no un reino, sino un **semiplano fracturado**, un limbo a la deriva entre los planos, hecho de los pedazos de lo que fue.
+De aquel mundo roto quedó **Chronosia**: no un reino, sino un **semiplano fracturado**, un limbo a la deriva entre los planos, hecho de los pedazos de lo que fue — y sus pedazos quedaron **mal cosidos entre sí**: viajar de una región a otra ya no es recorrer un camino, sino salvar una herida en el tiempo y el espacio. Solo el poder de un dios —el mismo que hoy roban los lugartenientes— puede tender un puente sobre esas grietas. *(Por eso, en la práctica, cada región permanece cerrada hasta que los héroes arrancan el medio para alcanzarla: es el Mapa de Puertas del Cap. 1.)*
 
 Y los Chronianos, para sobrevivir, **se partieron en dos**. Una mitad bajó al mar, buscando refugio en las profundidades donde las distorsiones apenas llegaban: se convirtieron en los **Oceánicos de las Profundidades**, y reconstruyeron la ciudad sumergida de **Abysara**. La otra mitad se quedó en la superficie, aferrada a un Cristal de Estabilización con el que levantaron una última ciudad libre, **Cronópolis**: se convirtieron en los **Anacronistas**.
 
@@ -81,4 +81,4 @@ Cada región entrega una **pieza** de todo lo anterior. Los PJ las descubren en 
 | **La Mansión de la Sed Eterna** | El **espejo**: drenar vida = lo que Aethernus hace a los dioses |
 | **Las Calderas Dimensionales** | La **escala** del poder robado y su filtración a otros planos |
 
-La otra media llave chroniana está en **Cronópolis** (Anacronistas). Reunir ambas mitades = poder liberar a los dioses en la Torre.
+La otra media llave chroniana está en **Cronópolis** (Anacronistas). **Reunir ambas mitades es, literalmente, la llave de la Torre de la Eternidad**: sin ellas no hay forma de entrar salvo un asalto desesperado, y solo con ellas se puede **liberar** a los dioses en vez de cambiarles de carcelero. Reunir a los dos pueblos partidos no es un adorno del final: es *cómo se gana*.

@@ -156,7 +156,7 @@ El golpe final la deshace en cristales de tiempo. Su poder de estasis, que deber
 
 > Si el arco de Teach es una marea que no se puede parar, **esto** es lo contrario: el momento en que los PJ y sus aliados, por una vez, **roban una jugada al tiempo**. Una traición dentro de la Resistencia, un juicio injusto, un mártir, un sacrificio — y, si el Reloj ya pesa, un milagro que devuelve a un muerto a la vida. Es la prueba de que la inevitabilidad tiene grietas si alguien está dispuesto a pagar el precio.
 
-**El reparto:** **Varrak del Horizonte** (oráculo aliado), **Din Goldgear** (artífice gnomo, mano derecha de Cornelius), el **Capitán Marcus "el Inquebrantable"** (líder de la Resistencia), **Serapis el Retroceso** (lugarteniente, CR 5 — Cap. 4), su agente doble **Kaoros el Sordo**, y los mercenarios **Bregan Daerthe** (drow, comprados *en secreto* por la Matrona Veldrisza, no por Serapis).
+**El reparto:** **Varrak del Horizonte** (oráculo aliado), **Din Goldgear** (artífice gnomo, mano derecha de Cornelius), el **Capitán Marcus "el Inquebrantable"** (líder de la Resistencia), **Serapis el Retroceso** (lugarteniente, CR 5 — Cap. 4), su agente doble **Kaoros el Sordo**, y los mercenarios **Bregan Daerthe** (drow, comprados *en secreto* por la Matrona Yrindra, no por Serapis).
 
 **El engranaje oculto:** Varrak previó todo y entregó a los PJ un cristal con un mensaje profético para Din. Din y Marcus prepararon un plan en el que **Marcus sabe que debe dejarse matar**. Los PJ **no deben saber la verdad hasta el final**: para ellos, es una traición interna que se desangra en directo.
 
@@ -195,7 +195,7 @@ Din da el paso que nadie esperaba. Días antes implantó un "impuesto revolucion
 
 > **Din Goldgear:** "Esperad. Serapis… crees que has ganado. Pero hay algo que no sabes. Bregan Daerthe… sois mercenarios. Trabajáis por oro. ¿Qué diríais si os ofreciera TODO el que hemos recaudado a cambio de que ayudéis a derrotar a Serapis? Y de propina: él lleva encima un artilugio muy valioso. Botín vuestro."
 
-Los drow aceptan **temporalmente** (su lealtad real es de Veldrisza, pero mantienen la fachada). **Resistencia + Bregan Daerthe + PJ vs Serapis.**
+Los drow aceptan **temporalmente** (su lealtad real es de Yrindra, pero mantienen la fachada). **Resistencia + Bregan Daerthe + PJ vs Serapis.**
 
 **Mecánica del artilugio de retroceso** *(en manos de Serapis):* tiene **3-5 cargas** (ajusta al nivel). Cuando va a morir, **reinicia el combate al estado inicial**: recupera todos sus PG (y restaura recursos de los aliados también — un bucle), pero **gasta una carga**. Los PJ deben **agotar las cargas** para poder matarlo. Al quedar en 0, Serapis cae — pero el artilugio queda **vacío**.
 
@@ -217,13 +217,13 @@ El **monje manco**, discípulo de Varrak, introduce su brazo etéreo en el pecho
 
 **El milagro (Reloj ≥6/8):** Din toma el artilugio recargado y, con él, **retrocede el Reloj del Ritual** un punto crítico **y revive al Capitán Marcus**. El tiempo da marcha atrás sobre la ejecución: Marcus respira de nuevo. Din restaura además los edificios arrasados. Por fin, devuelve a los PJ el artilugio con **1d4+2 cargas** (puede curar del todo a un aliado: PV plenos, sin condiciones).
 
-> **El precio.** Varrak muere de verdad — un aliado y oráculo perdido para siempre. El pueblo carga con la culpa de haber matado a un inocente. Y los Bregan Daerthe **no** se quedan: tras la batalla vuelven con Serapis, fingiendo lealtad. Más adelante, cuando la Matrona Veldrisza vea moverse las fichas de la guerra, ordenará a los drow **rematar a Serapis** y llevar su cuerpo a la **Ciudad Subterránea de Veldrisza**, donde el ritual **Zin-Carla** lo resucitará como no-muerto a su servicio. La grieta que los PJ abrieron en la inevitabilidad se paga, también, con un enemigo nuevo.
+> **El precio.** Varrak muere de verdad — un aliado y oráculo perdido para siempre. El pueblo carga con la culpa de haber matado a un inocente. Y los Bregan Daerthe **no** se quedan: tras la batalla vuelven con Serapis, fingiendo lealtad. Más adelante, cuando la Matrona Yrindra vea moverse las fichas de la guerra, ordenará a los drow **rematar a Serapis** y llevar su cuerpo a la **Ciudad Subterránea de Veldrisza**, donde el ritual **Zin-Carla** lo resucitará como no-muerto a su servicio. La grieta que los PJ abrieron en la inevitabilidad se paga, también, con un enemigo nuevo.
 
 ---
 
 ## Cómo encaja en la campaña
 
 - **Arco de Teach:** la espina del antagonista que **rompe las reglas** de Aethernus. Cuatro hitos fijos anclados al Reloj (no a kills), que culminan en el **SALTO** del asesinato de Thyra y la guerra de lugartenientes. A partir del SALTO, **Teach absorbe a los lugartenientes que los PJ no alcanzan primero**: su fuerza en la Torre depende de cuánto se demoren. Teach es **CRÍTICO** (su muerte frena el Reloj) y el villano del **Final B (Barbanegra el Usurpador)**.
-- **La Traición de Serapis:** cierre de Fase 3. La contracara temática: una vez, con un sacrificio (Varrak) y si el Reloj pesa (≥6/8), los PJ **sí** retroceden el Reloj y revierten una muerte. Demuestra que lo inevitable tiene grietas — al precio de un aliado y de un nuevo enemigo (Serapis Zin-Carla bajo Veldrisza).
+- **La Traición de Serapis:** cierre de Fase 3. La contracara temática: una vez, con un sacrificio (Varrak) y si el Reloj pesa (≥6/8), los PJ **sí** retroceden el Reloj y revierten una muerte. Demuestra que lo inevitable tiene grietas — al precio de un aliado y de un nuevo enemigo (Serapis Zin-Carla bajo Yrindra).
 - **Statblocks:** Teach **CR 11** (Cap. 11, El Archipiélago de Barbanegra); Serapis **CR 5** (Cap. 4, La Espiral Inversa); Thyra **CR ≤10**. Techo de campaña: nivel 10, Reloj de 8 segmentos.
 - **Reglas vivas:** liberar a los dioses exige reunir las **dos medias llaves chronianas** (Oceánicos + Anacronistas); el líder Anacronista es **Galen**; **no** existe "Ascensión del Cónclave" como sistema. Ver [El Talismán de Interceptación Divina](14_Arco_de_Barbanegra.md) y [La Traición de Serapis](14_Arco_de_Barbanegra.md).

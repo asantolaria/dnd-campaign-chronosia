@@ -208,7 +208,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 | **Edward Teach** | Dimensional | Archipiélago de Barbanegra | - **Brújula de los Mares** O Cofre del Tesoro Pirata (elección destructiva)<br>- Poderes híbridos (temporal + dimensional) | - Información sobre el Talismán<br>- Plan de interceptación divina<br>- Confirmación de asesinato de Thyra | Archipiélago de Barbanegra | Requiere Motor de Viento |
 | **Dimensionalis** | Dimensional | Las Llanuras de la Compresión | - **Brújula Dimensional** O Fragmento de Realidad (elección destructiva) | - Información sobre compresión espacial<br>- Secretos dimensionales<br>- Triple agente revelada | Las Llanuras de la Compresión | Requiere derrotar a Ignis |
 | **Ignis** | Dimensional | Volcanis | - Tesoros de dragón rojo ancestral | - Información sobre portales de fuego<br>- Conexión con Plano Elemental del Fuego<br>- Líder del Bando Dimensional | Volcanis | Boss final antes de Manshoon |
-| **Veldrisza** | Dimensional | Tela de Sombras | - **Hilo de Lolth** O Red de Captura (elección destructiva) | - Información sobre redes espaciales<br>- Conexión con Menzoberranzan<br>- Alianza con Ignis | Tela de Sombras | Requiere derrotar a Teach |
+| **Yrindra** | Dimensional | Tela de Sombras | - **Hilo de Lolth** O Red de Captura (elección destructiva) | - Información sobre redes espaciales<br>- Conexión con Menzoberranzan<br>- Alianza con Ignis | Tela de Sombras | Requiere derrotar a Teach |
 | **Las Gemelas** | Dimensional | El Jardín de los Tiempos Gemelos | - Objetos relacionados con espejos y reflejos | - Información sobre dimensión espejo<br>- Origen de las gemelas<br>- Neutrales hasta Sesión 11 | El Jardín de los Tiempos Gemelos | Región compartida con Medusa |
 
 ---
@@ -254,7 +254,7 @@ Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar
 - **Total: 14 regiones** (12 con lugartenientes + 1 Material Plane + 1 centro seguro)
 - **Lugartenientes Totales: 12**
   - **5 Temporales:** Serapis, Varrak, Vorthak, Medusa, Tempus
-  - **6 Dimensionales:** Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas, Ymir
+  - **6 Dimensionales:** Edward Teach, Dimensionalis, Ignis, Yrindra, Las Gemelas, Ymir
   - **1 Caído:** Thyra (muere en Sesión 5-6, era Temporal)
 
 ---

@@ -208,7 +208,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 6. **Edward Teach "Barbanegra"** (Dimensional - Principal/Independiente/Híbrido)
 7. **Dimensionalis la Fracturada** (Dimensional - Principal/Independiente)
 8. **Ignis el Devorador Espacial** (Dimensional - Principal/Líder)
-9. **Matrona Veldrisza "La Tejedora Dimensional"** (Dimensional - Principal)
+9. **Matrona Yrindra "La Tejedora Dimensional"** (Dimensional - Principal)
 10. **Las Gemelas del Espejo - Lyra y Nyx** (Dimensional - Principales/Neutrales)
 11. **Ymir el Eterno Invierno** (Dimensional - Menor)
 
