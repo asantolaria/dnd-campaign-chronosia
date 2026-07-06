@@ -39,9 +39,9 @@
 - [ ] **Recompensas de facciones (detalladas)**: Tabla expandida con todas las recompensas posibles de cada facción según nivel de relación
 
 ### **Tablas de Utilidad:**
+- [x] **[24_Rumores_Taberna.md](24_Rumores_Taberna.md)** - Rumores de *La Última Hora* (1d20, mezcla de verdad/medias/bulo; los sirve Bram, 1d4 por visita) ✅
 - [ ] Nombres de NPCs
 - [ ] Nombres de lugares
-- [ ] Generadores de rumores
 
 ---
 

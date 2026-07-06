@@ -38,7 +38,32 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      # URL del primer intento que haya tenido éxito.
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment2.outputs.page_url || steps.deployment3.outputs.page_url }}
     steps:
-      - uses: actions/deploy-pages@v4
+      # El backend de GitHub Pages falla de forma intermitente ("Deployment
+      # failed, try again later") aunque el artefacto sea correcto. Reintentamos
+      # hasta 3 veces con espera creciente; el job solo falla si caen los tres.
+      - name: Deploy a GitHub Pages (intento 1)
         id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Esperar antes del 2.º intento
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 15
+
+      - name: Deploy a GitHub Pages (intento 2)
+        id: deployment2
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: Esperar antes del 3.º intento
+        if: steps.deployment.outcome == 'failure' && steps.deployment2.outcome == 'failure'
+        run: sleep 30
+
+      - name: Deploy a GitHub Pages (intento 3, final)
+        id: deployment3
+        if: steps.deployment.outcome == 'failure' && steps.deployment2.outcome == 'failure'
+        uses: actions/deploy-pages@v4

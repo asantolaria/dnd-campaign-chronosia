@@ -86,7 +86,7 @@ Un nido de engranajes, poleas y cosas que silban, encajado contra la muralla est
 Un revoltijo de tenderetes, tiendas de campaña y, en medio, la posada **La Última Hora** —el hub social, bajo la sombra del Gran Reloj. Aquí se come, se bebe, se regatea y, sobre todo, se oye **todo**. El mercado es un mar de refugiados de las regiones caídas.
 
 **Para qué sirve al grupo:**
-- **Rumores y ganchos.** El tabernero **Bram "Dosjarras"** tiene 1d4 rumores cada vez que el grupo vuelve (mezcla de verdad, exageración y bulo) sobre regiones, lugartenientes y movimientos del Culto. La camarera **Vesh** lo oye todo y lo vende a quien sea.
+- **Rumores y ganchos.** El tabernero **Bram "Dosjarras"** tiene 1d4 rumores cada vez que el grupo vuelve (mezcla de verdad, exageración y bulo) sobre regiones, lugartenientes y movimientos del Culto. La camarera **Vesh** lo oye todo y lo vende a quien sea. → Tira en la [**Tabla de Rumores de la Taberna**](06_Recursos/Tablas/24_Rumores_Taberna.md).
 - **Suministro fiable.** La intendente **Oda Krell** gestiona el almacén común: equipo mundano, raciones, reparaciones básicas. El oro vale poco en un limbo sitiado, así que se paga con **vales de la ciudad y trueque** —materiales raros traídos de las regiones (cristales temporales, metal dimensional). Cuando el carromato de **Zephyr el Saltamundos** aparece (aleatorio), se instala aquí con lo exótico y planar.
 - **Descanso.** Una cama, una jarra y un techo donde el tiempo se porta bien.
 
