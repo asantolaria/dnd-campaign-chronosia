@@ -510,7 +510,207 @@ Objeto: el Contador del Ritual, artilugio gnomo de magia + tecnología que mide 
 
 ---
 
-## 10 · Flujo en Gemini (paso a paso)
+## 10 · Objetos de facción — inventos y reliquias por bando *(NUEVO)*
+
+> Completa el códice visual del §9 (los 11 artefactos "héroe") con **lo que crearon las facciones**: la tecnología de cada pueblo y las reliquias del clímax. Mismo estilo de lámina de catálogo (objeto único, fondo neutro, sin personajes ni texto). **Paletas guía:** *Anacronistas / Ingenieros* = latón, oro envejecido y relojería gnoma; *Oceánicos de Abysara* = coral, nácar y bioluminiscencia turquesa; *Aethernus* = negro y oro con destellos dorados (Tiempo) y púrpuras (Espacio); *reliquias divinas* = dorado solar contra púrpura del vacío. Donde el lore no describe el objeto, va como **propuesta interpretativa** (marcado). Máquinas y armas largas van en 4:3; el resto en 1:1.
+
+---
+
+### 🌿 Anacronistas
+
+#### Reloj de Estabilización Temporal
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, leve resplandor mágico, fondo neutro (pergamino), sin personajes, sin texto ni marcas de agua.
+Objeto: el Reloj de Estabilización Temporal, un reloj gnomo de sobremesa de latón y oro envejecido bajo una cúpula de cristal; su péndulo central oscila sereno y perfecto mientras a su alrededor engranajes exteriores giran de forma caótica y desincronizada. Emite una burbuja de luz dorada tenue y estable a su alrededor (el aire dentro de ella parece "en calma"). Proporción 1:1.
+```
+
+#### Gafas de Percepción Temporal
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, leve resplandor mágico, fondo neutro (pergamino), sin personajes, sin texto ni marcas de agua.
+Objeto: las Gafas de Percepción Temporal, unas gafas de relojero de montura de latón con varias lentes abatibles de aumento superpuestas; los cristales son de zafiro ahumado y, al mirar a través de ellos, muestran finas estelas doradas —ecos del pasado reciente— suspendidas en el aire. Proporción 1:1.
+```
+
+#### Brújula del Tiempo Verdadero
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, leve resplandor mágico, fondo neutro (pergamino), sin personajes, sin texto ni marcas de agua.
+Objeto: la Brújula del Tiempo Verdadero, una brújula de bolsillo de latón con anillos concéntricos grabados con horas y símbolos de reloj en lugar de puntos cardinales; su aguja dorada no apunta al norte, sino a un pequeño sol grabado en la esfera (el "tiempo verdadero"). Tapa abierta, mecanismo visible. Proporción 1:1.
+```
+
+---
+
+### 🌊 Oceánicos de las Profundidades (Abysara)
+
+#### Amuleto de Respiración Acuática
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Amuleto de Respiración Acuática, un colgante oceánico de nácar y coral pulido que engarza una gota de agua marina encapsulada que nunca se vacía y ondula despacio en su interior; cordón de algas trenzadas. Brillo bioluminiscente turquesa. Proporción 1:1.
+```
+
+#### Tridente del Vacío
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un arma mágica, render pictórico realista del material, iluminación de estudio suave, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Tridente del Vacío, un tridente de las profundidades forjado en coral negro y hueso abisal, con las tres puntas grabadas con runas del dios Voidar; de sus dientes gotea una oscuridad estrellada (fragmentos de vacío) y el arma emite un aura fría púrpura-turquesa. Elegante y siniestro. Proporción 3:4.
+```
+
+#### Escama de Oceánico
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Escama de Oceánico, una gran escama iridiscente de un habitante de Abysara (tonos azul, verde y púrpura que cambian con la luz), montada como talismán/broche sobre una base de coral y plata; bioluminiscencia suave en los bordes. Proporción 1:1.
+```
+
+#### Cristal Estabilizador *(tecnología oceánica)*
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un único objeto mágico, render pictórico realista del material, iluminación de estudio suave, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Cristal Estabilizador, un cristal de azul profundo con matices turquesa que parece contener el océano en su interior; superficie lisa como el vidrio pero con textura orgánica de coral, emitiendo una luz tenue y constante azul verdosa. Transmite sensación de calma y protección. Proporción 1:1.
+```
+
+---
+
+### ⚙️ La Resistencia (Ingenieros de Cronópolis)
+
+#### Rifle Anti-Magia
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un arma de fuego (tecnología), render pictórico realista del material, iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Rifle Anti-Magia, un rifle largo de acero pavonado y latón con culata de madera oscura, cañón reforzado ceñido por anillos de cobre grabados con runas anti-hechizo, mira telescópica y recámara de cerrojo visible. Estética steampunk industrial de La Resistencia. Proporción 4:3.
+```
+
+#### Granada de Estabilidad
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un objeto (tecnología), render pictórico realista del material, iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Granada de Estabilidad, un explosivo esférico de latón con bandas remachadas y un pequeño cristal estabilizador engarzado en el centro que late azulado; pulsador/mecha superior y grabado de un reloj en calma. Proporción 1:1.
+```
+
+#### Escudo Tecnológico
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un objeto (tecnología), render pictórico realista del material, iluminación de estudio, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Escudo Tecnológico, un escudo de acero remachado con placas móviles y engranajes en el borde; un generador central proyecta una fina malla de energía anti-magia azulada sobre su superficie. Robusto y funcional, estética de La Resistencia. Proporción 1:1.
+```
+
+#### Trampa Mecánica Anti-Magia
+```
+Ilustración de objeto/artilugio al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un dispositivo (tecnología), render pictórico realista del material, iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Trampa Mecánica Anti-Magia, un dispositivo de suelo circular de latón y acero, plano y del tamaño de un escudo, con una placa de presión central grabada con runas anti-magia; unos brazos articulados con resortes rematan en barrotes de acero que, al activarse, se despliegan hacia arriba cerrándose en una cúpula-jaula que aísla a un lanzador de conjuros. Muéstralo en vista 3/4, ya disparado, con la jaula de barrotes formada y las runas emitiendo un tenue resplandor azulado que anula la magia dentro. Proporción 4:3.
+```
+
+#### Detector de Magia
+```
+Ilustración de objeto/artilugio al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un dispositivo (tecnología), render pictórico realista del material, iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Detector de Magia, un instrumento de mano de latón con diales graduados, agujas indicadoras y finas antenas de cobre; un cristal indicador en el centro parpadea con distinto color según el tipo de magia (temporal dorado, espacial púrpura). Estética de instrumento científico victoriano. Proporción 1:1.
+```
+
+#### Estabilizador Temporal *(portátil — versión de campo del Neutralizador)*
+```
+Ilustración de objeto/artilugio al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un dispositivo (tecnología + magia), render pictórico realista del material, iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Estabilizador Temporal, un dispositivo portátil de campo (versión reducida del Neutralizador de Cronópolis) del tamaño de un maletín/mochila de latón y acero, con patas plegables para clavarlo en el suelo, un péndulo pequeño y una esfera de reloj central; al desplegarse proyecta una cúpula-burbuja dorada de radio corto que estabiliza las distorsiones a su alrededor. Muéstralo desplegado y activo. Estética gnómica/steampunk. Proporción 1:1.
+```
+
+#### Cerrador de Portales *(antes «Compresor Dimensional» · portátil)*
+```
+Ilustración de objeto/artilugio al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un dispositivo (tecnología + magia), render pictórico realista del material, iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Cerrador de Portales, un dispositivo portátil de latón y acero del tamaño de un instrumento de campo, montado sobre un trípode plegable; en su frente lleva un pequeño iris mecánico (diafragma de placas) que se cierra como un obturador, con bobinas de cobre y una lente que proyecta un fino cono de energía que "cose" y apaga una grieta-portal púrpura. Estética gnómica/steampunk. Muéstralo desplegado sobre su trípode. Proporción 1:1.
+```
+
+#### Neutralizador de Campo *(instalación fija — escudo de Cronópolis)*
+```
+Ilustración de máquina mágica al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un artilugio grande (tecnología), render pictórico realista, iluminación de estudio, resplandor mágico frío, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Neutralizador de Campo, la mayor de las máquinas de los Ingenieros: una instalación fija y masiva de acero —anclada en Cronópolis— con bobinas y antenas de cobre en torno a un núcleo apagado (mate, sin brillo mágico) que proyecta hacia arriba una gran cúpula de energía anti-magia translúcida; es el escudo de la ciudad, e impide que la magia y las distorsiones de fuera penetren en su interior. Imponente, monumental. Proporción 4:3.
+```
+
+#### Motor de Viento Perpetuo
+```
+Ilustración de máquina mágica al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un artefacto grande, render pictórico realista, iluminación de estudio, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Motor de Viento Perpetuo, una gran máquina naval montada en un muelle o proa: una turbina/hélice colosal de latón impulsada por el Rotor Infinito engarzado en su corazón (un núcleo que pulsa energía dorada envuelto en una carcasa de hielo eterno con runas); genera un vendaval visible que hincha velas sobre un mar en calma muerta. Estética gnómica/steampunk. Proporción 4:3.
+```
+
+#### Prótesis Mecánica de Balthar
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de una prótesis (tecnología), render pictórico realista del material, iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Prótesis Mecánica de Balthar, un brazo protésico enano de latón y acero macizo con articulaciones expuestas y remaches; un cañón anti-magia integrado en el antebrazo y runas grabadas en las placas. Robusto, de armero. Proporción 1:1.
+```
+
+#### Brazo Mecánico de Lucienne
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de una prótesis (tecnología), render pictórico realista del material, iluminación de estudio, leve resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Brazo Mecánico de Lucienne, un brazo protésico más fino y preciso, de acero pulido y latón, con múltiples herramientas de artífice desplegadas en abanico (llaves, destornilladores, calibres) y cuchillas retráctiles asomando. Estética de ingeniera meticulosa. Proporción 1:1.
+```
+
+> *(El «Dispositivo de Detección de Kaoros» no lleva lámina propia: es el mismo objeto que el Detector de Magia en versión personal. Si quieres una variante, reusa el prompt del Detector añadiendo "más pequeño, con membranas y diapasones vibrantes en vez de esfera sonora".)*
+
+#### Ferrocarril Universal *(concepto post-campaña — escena)*
+```
+Ilustración conceptual al estilo key-art de los manuales de Dungeons & Dragons 5e: escena épica, render pictórico realista, iluminación dramática, sin marcas de agua ni estética de cómic.
+Escena: el Ferrocarril Universal, la obra final de los Ingenieros gnomos: vías de raíl de latón y acero que cruzan el semiplano fracturado de Chronosia, saltando entre fragmentos de tierra flotantes y engranajes colosales suspendidos; una locomotora de latón impulsada por el Rotor Infinito (núcleo dorado + carcasa de hielo) avanza hacia un gran portal-arco al final de las vías que se abre a una ciudad portuaria reconocible (Waterdeep/Faerûn). Paleta sepia-dorada contra púrpuras. Proporción 3:2 (apaisada). (Nota: aspecto interpretativo; el lore no lo describe en detalle.)
+```
+
+---
+
+### 👑 Equipo de Aethernus Valcarys *(botín del clímax — Artefacto Único)*
+
+> Todos comparten estética: **negro y oro** con venas de energía **dorada (Tiempo) y púrpura (Espacio)**, motivo de **eclipse** (sol dorado + estrella negra) y de **serpiente-infinito (∞)**. Son la regalía del BBEG: opulentos e imperiales.
+
+#### Bastón de Mando de Aethernus
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un artefacto mágico, render pictórico realista del material, iluminación de estudio, resplandor mágico, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Bastón de Mando de Aethernus, un cetro de ébano negro con filigrana de oro rematado por una gema que es a la vez un sol dorado y una estrella negra (un eclipse), con finos engranajes y anillos orbitando la punta y desprendiendo destellos dorados y púrpuras. Imperial y amenazante. Proporción 3:4.
+```
+
+#### Corona de Aethernus
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un artefacto mágico, render pictórico realista del material, iluminación de estudio, resplandor mágico, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Corona de Aethernus, una corona de oro negro con puntas afiladas como agujas de reloj y cristales engarzados que laten como corazones —unos dorados (tiempo), otros púrpuras (espacio)—; el frontal muestra un motivo de eclipse. Opulenta y siniestra. Proporción 1:1.
+```
+
+#### Armadura de Aethernus
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un artefacto mágico, render pictórico realista del material, iluminación de estudio, resplandor mágico, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Armadura de Aethernus, una armadura de placas de metal negro con filigrana dorada y venas de energía dorada y púrpura recorriendo las junturas; hombreras en forma de engranajes y un peto con el motivo del eclipse. Presentada sobre soporte, imperial e imponente. Proporción 3:4.
+```
+
+#### Espada de Aethernus
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un arma mágica, render pictórico realista del material, iluminación de estudio, resplandor mágico, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: la Espada de Aethernus, una espada larga de acero oscuro cuyo filo parece "cortar el aire" dejando una estela doble, dorada (temporal) y púrpura (espacial); la guarda tiene forma de serpiente-infinito (∞) y la hoja está grabada con runas divinas. Proporción 3:4.
+```
+
+> *(No hay «Escudo de Aethernus»: es un mago y no usa escudo. El único escudo del clímax es el **Escudo de la División**, una reliquia de la Torre — su lámina está en «Reliquias divinas», más abajo.)*
+
+---
+
+### 🔮 Reliquias divinas *(Torre de la Eternidad — clímax)*
+
+#### Fragmento de Amaunator
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de una reliquia sagrada, render pictórico realista, iluminación dramática, intenso resplandor mágico, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Fragmento de Amaunator, una esquirla de luz solar solidificada: un cristal dorado ardiente con forma de disco solar roto que flota e irradia calor y luz de mediodía; a su alrededor, eslabones de cadenas doradas rotas (el dios liberado). Proporción 1:1.
+```
+
+#### Fragmento de Voidar
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de una reliquia sagrada, render pictórico realista, iluminación dramática, resplandor mágico frío, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Fragmento de Voidar, una esquirla de vacío solidificado: un cristal negro-violáceo que contiene en su interior un cielo nocturno estrellado; sus bordes doblan y distorsionan el espacio a su alrededor. Junto a él, eslabones de cadenas púrpuras rotas. Proporción 1:1.
+```
+
+#### Cristal de Poder *(dorado / púrpura / multicolor)*
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un componente mágico, render pictórico realista del material, iluminación de estudio, resplandor mágico, fondo neutro, sin personajes, sin texto ni marcas de agua.
+Objeto: los Cristales de Poder, cristales brillantes que cristalizan de los estallidos de la batalla divina; muestra tres juntos que ilustran los tipos: uno dorado (poder temporal), uno púrpura (poder dimensional) y uno multicolor (ambos). Emiten una luz cálida y constante; se sienten llenos de energía. Proporción 1:1.
+```
+
+#### Cristal de la Batalla Eterna
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de una reliquia mágica peligrosa, render pictórico realista, iluminación dramática, resplandor mágico intenso, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Cristal de la Batalla Eterna, un gran cristal en el que el oro solar y el púrpura del vacío se entrelazan en espiral (un eclipse cristalizado); grietas de energía recorren su superficie y desprende un aura poderosa e inquietante (usar su poder daña al portador). Proporción 1:1.
+```
+
+#### Escudo de la División
+```
+Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de una reliquia/escudo, render pictórico realista del material, iluminación dramática, resplandor mágico, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
+Objeto: el Escudo de la División, un escudo antiguo partido literalmente por una línea central: una mitad dorada solar (Amaunator), la otra púrpura del vacío (Voidar), con el sello de la fractura del mundo grabado en el centro. Aura divina de ambos dioses. Proporción 1:1.
+```
+
+---
+
+## 11 · Flujo en Gemini (paso a paso)
 
 1. **Una pieza por conversación** (o reusa la misma para variaciones y correcciones).
 2. **Copia un bloque entero y pégalo.** Ya incluye estilo y proporción. Pide *"genera una sola imagen"*.

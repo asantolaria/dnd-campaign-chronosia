@@ -80,6 +80,8 @@ Al norte, una maraña de portales de hielo —arcos de escarcha de distintos tam
 
 **Qué hay:** el sistema de reclutamiento interplanar de Ymir en funcionamiento. Los PJ ven *cómo* los Cronófagos se abastecen desde otros planos —prueba viva de que Chronosia conecta con el multiverso—. Cada **nodo (umbral) que sellen aquí debilita a Ymir**: menos refuerzos en el combate final.
 
+> **Cómo sellar los umbrales (dos vías):** a la vieja usanza —derrotar a Velka congela su portal, sabotear los arcos uno a uno— o con el **Cerrador de Portales** portátil de La Resistencia (un PJ lo ancla frente a un umbral y lo clausura en un par de turnos mientras el grupo lo protege). Ambas valen. Ver [Motor de Campaña → las zonas de portales](../01_Como_Dirigir.md) y el [catálogo de objetos](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md).
+
 **Encuentro con villano menor — Velka la Guardiana de Umbrales** (ver bestiario). Hechicera del frío que negoció con Ymir el cargo de carcelera de fronteras: decide qué cruza y qué se queda congelado en el umbral. Cobra peaje en calor corporal.
 > "Alto. Nadie pasa sin pagar, y nadie sella mis puertas sin morir. ¿Queréis cruzar al hub? ¿Queréis cerrar un umbral? Yo tengo la llave de escarcha de cada uno. Pagadme —en calor, en sangre, en años— o congelaos en el marco como los demás que quisieron pasar listos."
 

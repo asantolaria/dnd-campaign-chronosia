@@ -157,19 +157,21 @@ Si los dioses fueron liberados, intervienen entre fases: **Amaunator** lanza env
 - ***Inmunidad a Predicción.*** Inmune a *presagio* y efectos que adivinen sus acciones.
 - ***Acciones Legendarias (3/ronda):*** *Ataque de Espada* (1) · *Paso Dimensional* — teletransporte 60 pies (1) · *Estallido* — un enemigo a 60 pies, CD 18 (2).
 
+> **Esencia de mago.** Aethernus lucha como **archimago**: su daño principal son los conjuros y poderes de cada fase. Empuña la Espada **o** el Bastón **a una mano**, con la otra **libre para conjurar**, y **no usa escudo**. Sus multiataques mezclan un golpe de arma con **Descarga Divina** (*ataque de conjuro a distancia:* +11, 120 pies, 2d10+5 temporal/espacial).
+
 **🟢 Fase 1 — El Estratega Recluido (110 PG).** *Regeneración:* +10 PG al inicio de su turno (desaparece en Fase 2).
-- ***Multiataque:*** dos *Espadas de Poder Divino* (+11, 2d10+5 cortante + 3d6 temporal/espacial; CD 18 CON o envejece 1d6 años / teleport 30 pies).
+- ***Multiataque:*** una *Espada de Poder Divino* (+11, 2d10+5 cortante + 3d6 temporal/espacial; CD 18 CON o envejece 1d6 años / teleport 30 pies) + una *Descarga Divina* (conjuro; +11, 120 pies, 2d10+5 temporal/espacial).
 - ***Manipulación Temporal (3/día):*** radio 60 pies, CD 18 SAB o *lentitud* (enemigos) / *celeridad* (aliados).
 
 **🟡 Fase 2 — El Cónclave Encarnado (100 PG).** Pierde la regeneración; gana los poderes de los **lugartenientes que sigan vivos** (tacha los caídos).
-- ***Multiataque:*** tres ataques (dos *Espada* + uno *Bastón de Mando*: +11, 2d6+5 cont. + 3d6 mágico, CD 18 SAB o encantado 1 turno).
+- ***Multiataque:*** tres ataques: un golpe de arma a una mano (Espada o *Bastón de Mando*: +11, 2d6+5 cont. + 3d6 mágico, CD 18 SAB o encantado 1 turno) + dos *Descarga Divina* (mano libre para conjurar).
 - ***Llamada a Lugartenientes (1/combate):*** hasta 2 lugartenientes vivos aparecen y luchan por él.
 - ***Extracción de Poder (rec. 5-6):*** enemigo a 30 pies, CD 18 CON o desventaja al ataque; Aethernus cura 25 PG.
 - ***Poderes robados (solo de lugartenientes VIVOS):*** p. ej. envejecimiento 1d4 años (CD 18 CON); *Portal de Fuego* cono 60 pies, CD 18 DES, 12d6 fuego. *Cada lugarteniente caído antes = un poder menos.*
 
 **🔴 Fase 3 — La Ascensión Truncada (90 PG).** Absorbe a cualquier lugarteniente invocado (cura 20 PG).
 - ***Inestabilidad del Ritual:*** al inicio de su turno, la criatura no aliada más cercana hace CD 18 DES o 2d6 temporal/espacial.
-- ***Multiataque:*** dos *Espada* potenciada (daño temporal/espacial sube a 4d6).
+- ***Multiataque:*** una *Espada* potenciada (daño temporal/espacial sube a 4d6) + una *Descarga Divina*.
 - ***Combinación de Poderes (rec. 5-6):*** campo de 60 pies, CD 18 CON, 10d6 temporal/espacial (mitad si pasa) + aturdido 1 turno con fallo.
 
 > **Al morir:** el ritual se interrumpe sin explosión; el poder acumulado se disipa. Si los dioses fueron liberados con la llave, cierran las heridas de Chronosia; si no, el plano queda dañado pero estable. Las distorsiones se revierten en 1d6 días.

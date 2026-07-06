@@ -74,7 +74,7 @@ La curva sube: piezas mayores ensambladas y equipo personal de lugartenientes.
 - **Excavadora Dimensional:** quest de los Ingenieros (materiales + 5 Cristales de Poder Dimensionales); herramienta de progreso de trama de esta banda.
 - **Objetos personales de lugartenientes (reliquias menores):** botín de Serapis, Edward Teach, Dimensionalis, Ignis, Yrindra y Las Gemelas (espadas/dagas/capas +2/+3 y similares), además del **Espejo de Realidad Fragmentada** (derrotar a Las Gemelas).
 - **Anillos de Poder de los Lugartenientes:** empiezan a entrar en juego aquí (Estasis, Reversión, Aceleración, Compresión, Fragmentación). Recuerda su mecánica: **desaparecen 1-2 min tras la muerte del portador** salvo intervención del Talismán; no escalan solos, son botín situacional.
-- **Tecnología de gama alta (Muy Raro):** Rifle Anti-Magia, Estabilizador Temporal, Compresor Dimensional.
+- **Tecnología de gama alta (Muy Raro):** Rifle Anti-Magia, Estabilizador Temporal, Cerrador de Portales.
 
 ### Nivel 9-10 / Fin de partida — Artefactos y reliquias divinas
 La cima del catálogo, reservada al clímax y a lo ligado a Aethernus.
@@ -856,6 +856,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 5. **Anillo del Vacío:** Abre portales al vacío primordial (1/día, CD 22)
 
 #### **🪄 Bastón de Mando de Aethernus**
+![Bastón de Mando de Aethernus](../../assets/objetos_magicos/30_baston-mando-aethernus.jpg)
 
 **Tipo:** Bastón de Mando (Artefacto)  
 **Rareza:** Artefacto Único  
@@ -866,6 +867,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Hechizos disponibles:** *Time Stop*, *Plane Shift*, *Gate*, *Wish* (1/día)
 
 #### **👑 Corona de Aethernus**
+![Corona de Aethernus](../../assets/objetos_magicos/31_corona-aethernus.jpg)
 
 **Tipo:** Corona (Artefacto)  
 **Rareza:** Artefacto Único  
@@ -876,6 +878,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Aura de Dominio:** Criaturas en 60 pies tienen desventaja en salvaciones contra Aethernus
 
 #### **🛡️ Armadura de Aethernus**
+![Armadura de Aethernus](../../assets/objetos_magicos/32_armadura-aethernus.jpg)
 
 **Tipo:** Armadura de Placas (Artefacto)  
 **Rareza:** Artefacto Único  
@@ -887,6 +890,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Adaptación:** Se adapta automáticamente a amenazas
 
 #### **⚔️ Espada de Aethernus**
+![Espada de Aethernus](../../assets/objetos_magicos/33_espada-aethernus.jpg)
 
 **Tipo:** Espada Larga +3 (Artefacto)  
 **Rareza:** Artefacto Único  
@@ -896,15 +900,9 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Corte Dimensional:** Puede cortar a través del espacio, atacando a enemigos a distancia
 - **Absorción de Poder:** Absorbe poder de criaturas derrotadas
 
-#### **🛡️ Escudo de Aethernus**
+#### **🛡️ Escudo de Aethernus** → *no existe: Aethernus es un mago y no usa escudo*
 
-**Tipo:** Escudo +3 (Artefacto)  
-**Rareza:** Artefacto Único  
-**CA:** +3  
-**Poderes:**
-- **Reflejo Mágico:** Puede reflejar hechizos de nivel 5 o inferior
-- **Protección Temporal:** Inmunidad a efectos de tiempo
-- **Protección Dimensional:** Inmunidad a efectos de espacio
+Aethernus **no porta escudo** —es un archimago y necesita las manos para conjurar—. No hay "Escudo de Aethernus". El único escudo del clímax es el **[Escudo de la División](#escudo-de-la-división)**, una **reliquia divina** que se halla en la Torre (cámara secreta / botín), no equipo suyo (ver *Reliquias de la Batalla*, más abajo). Se retiró la pieza duplicada para no repartir dos escudos-artefacto casi idénticos.
 
 ---
 
@@ -1011,6 +1009,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 > - **Nivel Recomendado:** 5-9
 
 #### **Reloj de Estabilización Temporal**
+![Reloj de Estabilización Temporal](../../assets/objetos_magicos/12_reloj-estabilizacion-temporal.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Recompensa por Alianza:** Los Anacronistas lo ofrecen como recompensa por formar alianza permanente
@@ -1029,6 +1028,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Recarga:** Al amanecer
 
 #### **Gafas de Percepción Temporal**
+![Gafas de Percepción Temporal](../../assets/objetos_magicos/13_gafas-percepcion-temporal.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Recompensa por Alianza:** Los Anacronistas lo ofrecen como recompensa por formar alianza permanente
@@ -1045,6 +1045,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - Pueden ver "ecos" de eventos pasados (hasta 1 hora)
 
 #### **Brújula del Tiempo Verdadero**
+![Brújula del Tiempo Verdadero](../../assets/objetos_magicos/14_brujula-tiempo-verdadero.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Recompensa por Alianza:** Los Anacronistas lo ofrecen como recompensa por formar alianza permanente
@@ -1071,6 +1072,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 > - **Nivel Recomendado:** 5-9
 
 #### **Amuleto de Respiración Acuática**
+![Amuleto de Respiración Acuática](../../assets/objetos_magicos/15_amuleto-respiracion-acuatica.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Recompensa por Alianza:** Los Oceánicos lo ofrecen como recompensa por formar alianza permanente
@@ -1087,6 +1089,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - Ventaja en tiradas de Atletismo para nadar
 
 #### **Tridente del Vacío**
+![Tridente del Vacío](../../assets/objetos_magicos/16_tridente-del-vacio.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Recompensa por Alianza:** Los Oceánicos lo ofrecen como recompensa por formar alianza permanente
@@ -1103,6 +1106,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - Puede crear portales al vacío (1/día, CD 18)
 
 #### **Escama de Oceánico**
+![Escama de Oceánico](../../assets/objetos_magicos/17_escama-de-oceanico.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Recompensa por Alianza:** Los Oceánicos lo ofrecen como recompensa por formar alianza permanente
@@ -1132,6 +1136,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 ### **🔫 Armas de Neutralización**
 
 #### **Rifle Anti-Magia**
+![Rifle Anti-Magia](../../assets/objetos_magicos/19_rifle-antimagia.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 8,000 po en el Taller de La Resistencia
@@ -1152,6 +1157,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Recarga:** Acción para recargar (1 proyectil por turno)
 
 #### **Granada de Estabilidad**
+![Granada de Estabilidad](../../assets/objetos_magicos/20_granada-estabilidad.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 1,500 po en el Taller de La Resistencia
@@ -1172,6 +1178,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **CD de Salvación:** CD 15 de Destreza para la mitad del daño
 
 #### **Escudo Tecnológico**
+![Escudo Tecnológico](../../assets/objetos_magicos/21_escudo-tecnologico.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 3,000 po en el Taller de La Resistencia
@@ -1189,6 +1196,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Durabilidad:** 50 puntos de durabilidad (se repara con herramientas de herrero)
 
 #### **Trampa Mecánica Anti-Magia**
+![Trampa Mecánica Anti-Magia](../../assets/objetos_magicos/22_trampa-antimagia.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 2,500 po en el Taller de La Resistencia
@@ -1210,47 +1218,54 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 
 ### **🔧 Máquinas de Estabilización**
 
-> **📍 Nota:** Las máquinas de estabilización son grandes dispositivos fijos que generalmente permanecen en Cronópolis. Los PJ pueden usarlas pero no llevarlas consigo.
+> **📍 Nota:** Solo el **Neutralizador de Campo** es una **instalación fija** anclada en Cronópolis (el escudo de la ciudad). El **Cerrador de Portales** y el **Estabilizador Temporal** son **portátiles**: aparatos pequeños que un PJ lleva encima y despliega en el campo (sobre un trípode/patas plegables).
 
-#### **Estabilizador Temporal**
+#### **Estabilizador Temporal** *(portátil — versión de campo del Neutralizador)*
+![Estabilizador Temporal](../../assets/objetos_magicos/24_estabilizador-temporal.jpg)
 
 **📍 Cómo Obtenerlo:**
-- **Ubicación:** Cronópolis (Taller de los Ingenieros)
-- **Uso:** Los PJ pueden usarlo si tienen permiso de los Ingenieros
-- **Construcción:** Los Ingenieros pueden construir uno nuevo por 10,000 po (requiere 2 semanas)
-- **Requisito:** Buena relación con Din Goldgear o los Ingenieros
+- **Compra / encargo:** Los Ingenieros lo montan por 5.000 po (requiere 1 semana), o se ofrece como recompensa de misión.
+- **Requisito:** Buena relación con Din Goldgear o los Ingenieros.
 
-**Tipo:** Máquina (Tecnología)  
+**Tipo:** Dispositivo (Tecnología) — **portátil**  
 **Rareza:** Muy Raro  
-**Peso:** 200 libras  
+**Peso:** 25 libras (maletín/mochila con patas plegables)  
 **Creador:** Din Goldgear + Ingenieros
 
 **Propiedades:**
-- **Área de Efecto:** Radio de 100 pies
-- **Función:** Corrige distorsiones temporales menores
-- **Duración:** Permanente mientras esté activo
-- **Requisitos:** Requiere 1 persona para operar, consume 10 po de materiales por día
+- **Área de Efecto:** Radio de 20 pies (burbuja personal o de grupo pequeño).
+- **Función:** Estabiliza las distorsiones temporales y espaciales **menores** dentro de la burbuja (cancela efectos de distorsión de nivel ≤3; ventaja en salvaciones contra distorsión mientras se permanezca dentro).
+- **Cómo se maneja:** **1 operador**; cuesta **1 acción desplegarlo y anclarlo** al suelo. Una vez plantado, el aparato se queda donde está (el operador puede alejarse; la burbuja no lo sigue).
+- **Duración / uso:** **10 minutos por carga, 3 cargas/día**; recarga con materiales en Cronópolis.
+- **En una palabra:** el Neutralizador de Campo que cabe en una mochila — menos radio y menos potencia, pero se lleva a cualquier región.
 
-#### **Compresor Dimensional**
+#### **Cerrador de Portales** *(antes «Compresor Dimensional»)*
+![Cerrador de Portales](../../assets/objetos_magicos/25_cerrador-portales.jpg)
 
 **📍 Cómo Obtenerlo:**
-- **Ubicación:** Cronópolis (Taller de los Ingenieros)
-- **Uso:** Los PJ pueden usarlo si tienen permiso de los Ingenieros
-- **Construcción:** Los Ingenieros pueden construir uno nuevo por 15,000 po (requiere 3 semanas)
-- **Requisito:** Buena relación con Din Goldgear o los Ingenieros
+- **Compra / encargo:** Los Ingenieros lo montan por 8.000 po (requiere 1-2 semanas) o lo ceden para una campaña de asalto a una región de portales.
+- **Requisito:** Buena relación con Din Goldgear o La Resistencia.
 
-**Tipo:** Máquina (Tecnología)  
+**Tipo:** Dispositivo (Tecnología) — **portátil**  
 **Rareza:** Muy Raro  
-**Peso:** 300 libras  
+**Peso:** 8 libras (aparato de mano con trípode plegable)  
 **Creador:** Din Goldgear + Ingenieros
 
-**Propiedades:**
-- **Área de Efecto:** Radio de 60 pies
-- **Función:** Cierra portales dimensionales menores
-- **CD de Cierre:** CD 18 para cerrar portales de nivel 5 o inferior
-- **Requisitos:** Requiere 2 personas para operar, consume 20 po de materiales por día
+**Función:** sellar portales dimensionales — su único cometido, y la respuesta tecnológica contra los lugartenientes que se defienden **inundando el campo de refuerzos** desde otros planos.
+
+**Cómo se maneja (mecánica de mesa):**
+- **1 operador** lo despliega sobre su trípode y lo apunta al portal (un segundo par de manos acelera el proceso: a la mitad de turnos).
+- **Anclaje:** **2 turnos** fijando el aparato sobre la boca del portal antes de activarlo. Durante ese anclaje el operador está expuesto: es la ventana en la que el grupo debe **protegerlo**.
+- **Cierre:** al terminar el anclaje, el operador hace una prueba de **Herramientas de artífice o Arcano CD 18**.
+  - **Portal menor** (nivel ≤5): se sella con **1 éxito**.
+  - **Portal mayor / de lugarteniente** (las bocas de Ignis, los umbrales de Yrindra, la red de Ymir): requiere **3 éxitos** (3 turnos más) y **1 Cristal de Poder** como combustible.
+- **Duración / uso:** sella **un portal a la vez**; cada cierre consume **1 carga** (3 cargas/día, repone con materiales). Un portal cerrado queda sellado de forma permanente salvo que un lugarteniente lo reabra activamente.
+- **Vulnerable:** si el operador cae o el aparato sufre daño grave durante el anclaje, el proceso se pierde y hay que reiniciarlo.
+
+**🎣 Gancho en la historia (cómo aprenden que lo necesitan):** ver la campaña de asalto a las zonas de portales en el [Motor de Campaña](../../01_Como_Dirigir.md). En resumen: los PJ descubren —a las malas o por aviso de La Resistencia— que a Ymir, Ignis y Yrindra **no se les mata a espada, sino cerrándoles las puertas**; cerrar los portales **anula sus invocaciones**. El Cerrador es la vía tecnológica; cada región tiene además su vía in-world (el *ritual de apagado* de Cendal en las Calderas, el sellado de umbrales de Aeryndra en Veldrisza, cerrar la Red de Ymir en Glacialis). Son intercambiables.
 
 #### **Detector de Magia**
+![Detector de Magia](../../assets/objetos_magicos/23_detector-magia.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 2,000 po en el Taller de La Resistencia
@@ -1267,6 +1282,8 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 - **Precisión:** Identifica el tipo de magia (temporal, espacial, arcana)
 - **Mecánica:** Vibra cuando detecta magia, más fuerte cuanto más cerca
 - **Uso:** No requiere sintonización, funciona para cualquiera
+
+> **Nota (fusión):** el **Dispositivo de Detección de Kaoros** que aparece más abajo en «Objetos Personales de Líderes» es **el mismo aparato** en su variante personal —más pequeño (3 lb, alcance 500 pies), que Kaoros "lee" por vibraciones al ser sordo—. Mecánicamente son el mismo objeto: usa una ficha u otra, no las dupliques.
 
 #### **🔧 Monitor Público del Contador del Ritual (Balanza de Chronosia)**
 ![Balanza de Chronosia](../../assets/objetos_magicos/11_balanza-chronosia.jpg)
@@ -1300,30 +1317,31 @@ Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din 
 - El Capitán Marcus y los ingenieros lo usan para sus advertencias de urgencia
 - **Monitor desde la ciudad central:** suaviza la curva de información: los PJ no dependen solo de explicadores en momentos puntuales para saber cuánto les queda
 
-#### **Neutralizador de Campo**
+#### **Neutralizador de Campo** *(instalación fija — el escudo de Cronópolis)*
+![Neutralizador de Campo](../../assets/objetos_magicos/26_neutralizador-campo.jpg)
 
 **📍 Cómo Obtenerlo:**
-- **Ubicación:** Cronópolis (Taller de los Ingenieros)
-- **Uso:** Los PJ pueden usarlo si tienen permiso de los Ingenieros
-- **Construcción:** Los Ingenieros pueden construir uno nuevo por 20,000 po (requiere 4 semanas)
-- **Requisito:** Buena relación con Din Goldgear o los Ingenieros
+- **Ubicación:** Cronópolis (instalación fija; el prototipo es el que ancla la defensa de la ciudad). Los Ingenieros pueden montar otro por 20.000 po (requiere 4 semanas) en un bastión que se quiera proteger.
+- **Requisito:** Buena relación con Din Goldgear o los Ingenieros.
+- **⚠️ Fijo:** no se transporta. Es infraestructura.
 
-**Tipo:** Máquina (Tecnología)  
+**Tipo:** Máquina (Tecnología) — **instalación fija**  
 **Rareza:** Muy Raro  
-**Peso:** 500 libras  
+**Peso:** 500 libras (anclado)  
 **Creador:** Din Goldgear + Ingenieros
 
 **Propiedades:**
-- **Radio de Efecto:** 120 pies
-- **Duración:** 1 hora (1/día)
-- **Función:** Cancela todos los efectos mágicos de nivel 4 o inferior en el área
-- **Requisitos:** Requiere 3 personas para operar, consume 50 po de materiales por uso
+- **Radio de Efecto:** 120 pies (cúpula).
+- **Función:** proyecta una cúpula de anti-magia que **impide que la magia y las distorsiones de fuera penetren** en el área — es el escudo que mantiene a raya el Caos de Chronosia en el perímetro que cubre. Dentro, además, se cancelan los efectos mágicos de nivel ≤4.
+- **Cómo se maneja:** requiere **3 operadores**; **1 hora de funcionamiento, 1/día**; consume 50 po de materiales por uso.
+- **Relación con el Estabilizador:** el **Estabilizador Temporal** (arriba) es su hermano **portátil** —misma idea, en pequeño y transportable—; el Neutralizador es la versión monumental y fija.
 
 ---
 
 ### **⚙️ Artefactos de Ingeniería**
 
 #### **Motor de Viento Perpetuo**
+![Motor de Viento Perpetuo](../../assets/objetos_magicos/27_motor-viento-perpetuo.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Construcción:** Los Ingenieros lo construyen usando el Rotor Infinito completo
@@ -1345,6 +1363,7 @@ Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din 
 - **Requisitos:** Requiere Rotor Infinito completo para construir
 
 #### **Ferrocarril Universal**
+![Ferrocarril Universal](../../assets/objetos_magicos/29_ferrocarril-universal.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Construcción:** Los Ingenieros lo construyen usando el Rotor Infinito completo (POST-CAMPAÑA)
@@ -1372,6 +1391,7 @@ Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din 
 > **📍 Nota:** Estos objetos están en posesión de los líderes de La Resistencia. Los PJ pueden obtenerlos como recompensas por misiones muy importantes o por derrotar a los líderes (no recomendado).
 
 #### **Prótesis Mecánica de Balthar**
+![Prótesis Mecánica de Balthar](../../assets/objetos_magicos/28_protesis-balthar.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Recompensa por Misión Épica:** Balthar podría ofrecerla como recompensa por una misión extremadamente importante
@@ -1408,23 +1428,9 @@ Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din 
 - **Ventaja:** En todas las tiradas con herramientas de herrero y artífice
 - **Arma:** Cuchillas retráctiles (1d4 cortante)
 
-#### **Dispositivo de Detección de Kaoros**
+#### **Dispositivo de Detección de Kaoros** *(= Detector de Magia, variante personal)*
 
-**📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 2,500 po en el Taller de La Resistencia
-- **Recompensa por Misión:** Kaoros lo ofrece como recompensa por misiones de detección
-- **Requisito:** Buena relación con Kaoros el Sordo
-
-**Tipo:** Dispositivo (Tecnología)  
-**Rareza:** Raro  
-**Peso:** 3 libras  
-**Creador:** Kaoros el Sordo
-
-**Propiedades:**
-- **Función:** "Siente" magia a través de vibraciones mecánicas
-- **Rango:** 500 pies
-- **Precisión:** Identifica dirección y tipo de magia
-- **Uso:** No requiere oído (funciona por vibraciones)
+Es **el mismo aparato** que el **Detector de Magia** (ver «Máquinas de Estabilización», arriba), en la versión personal que porta **Kaoros el Sordo**: más pequeño (3 libras, alcance 500 pies) y que "lee" la magia por **vibraciones** en lugar de por sonido, adaptado a su sordera. No es un objeto distinto; usa la ficha del Detector de Magia. Se mantiene aquí solo como referencia del equipo personal de Kaoros.
 
 ---
 
@@ -1439,6 +1445,7 @@ Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din 
 ### **💎 Fragmentos de Poder Divino**
 
 #### **Fragmento de Amaunator**
+![Fragmento de Amaunator](../../assets/objetos_magicos/35_fragmento-amaunator.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Ubicación:** Torre de la Eternidad (en posesión de Aethernus Valcarys)
@@ -1458,6 +1465,7 @@ Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din 
 - **Poder Divino:** Puede usar *Time Stop* (1/día, CD 22)
 
 #### **Fragmento de Voidar**
+![Fragmento de Voidar](../../assets/objetos_magicos/36_fragmento-voidar.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Ubicación:** Torre de la Eternidad (en posesión de Aethernus Valcarys)
@@ -1492,6 +1500,7 @@ Durante la batalla eterna entre Amaunator y Voidar, los estallidos de poder divi
 ---
 
 #### **⚡ Cristal de Poder**
+![Cristal de Poder](../../assets/objetos_magicos/37_cristal-de-poder.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Origen:** Se forma mágicamente cuando los estallidos de poder divino entre Amaunator y Voidar cristalizan en el espacio-tiempo fracturado
@@ -1539,6 +1548,7 @@ Un cristal brillante que pulsa con energía mágica. Su color varía según el t
 ---
 
 #### **🛡️ Cristal Estabilizador**
+![Cristal Estabilizador](../../assets/objetos_magicos/18_cristal-estabilizador.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Origen:** Tecnología única de los Oceánicos de las Profundidades de Abysara
@@ -1656,6 +1666,7 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 ### **⚔️ Reliquias de la Batalla**
 
 #### **Cristal de la Batalla Eterna**
+![Cristal de la Batalla Eterna](../../assets/objetos_magicos/38_cristal-batalla-eterna.jpg)
 
 **📍 Cómo Obtenerlo:**
 - **Ubicación:** Torre de la Eternidad (en posesión de Aethernus Valcarys o en una cámara secreta)
@@ -1676,12 +1687,13 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 - **⚠️ ADVERTENCIA:** Usar este poder causa 2d10 de daño necrótico al portador
 
 #### **Escudo de la División**
+![Escudo de la División](../../assets/objetos_magicos/34_escudo-division.jpg)
 
 **📍 Cómo Obtenerlo:**
-- **Ubicación:** Torre de la Eternidad (en posesión de Aethernus Valcarys o en una cámara secreta)
+- **Ubicación:** Torre de la Eternidad (en una **cámara secreta** o entre las reliquias del clímax — **no** la empuña Aethernus)
 - **Cómo Obtenerlo:** Derrotar a Aethernus Valcarys en el clímax (Fase 4, asalto a la Torre) o descubrir una cámara secreta en la Torre
 - **Nivel Recomendado:** 10
-- **Nota:** Este escudo fue creado durante la batalla entre Amaunator y Voidar y contiene poder de ambos dioses
+- **Nota:** Este escudo fue creado durante la batalla entre Amaunator y Voidar y contiene poder de ambos dioses. **No lo empuña Aethernus** (es un mago, no usa escudo): es una **reliquia** que se encuentra en la Torre (antes figuraba duplicada como "Escudo de Aethernus"; ahora es una sola pieza, una reliquia del clímax, no equipo del BBEG).
 
 **Tipo:** Escudo (Reliquia)  
 **Rareza:** Artefacto Único  
@@ -1710,7 +1722,9 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 | Rifle Anti-Magia | Muy Raro | Tecnología | 12 lbs | La Resistencia |
 | Granada de Estabilidad | Raro | Tecnología | 1 lb | La Resistencia |
 | Escudo Tecnológico | Raro | Tecnología | 8 lbs | La Resistencia |
-| Estabilizador Temporal | Muy Raro | Tecnología | 200 lbs | Din Goldgear |
+| Estabilizador Temporal (portátil) | Muy Raro | Tecnología | 25 lbs | Din Goldgear |
+| Cerrador de Portales (portátil) | Muy Raro | Tecnología | 8 lbs | Din Goldgear (sella portales) |
+| Neutralizador de Campo (fijo) | Muy Raro | Tecnología | 500 lbs | Cronópolis (escudo de la ciudad) |
 | Fragmento de Amaunator | Artefacto | Reliquia | 1 lb | Torre de la Eternidad |
 | Fragmento de Voidar | Artefacto | Reliquia | 1 lb | Torre de la Eternidad |
 | Cristal de Poder (Pequeño) | Muy Raro | Consumible | 0.5 lbs | Regiones activas (raro) |

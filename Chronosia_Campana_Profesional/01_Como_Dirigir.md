@@ -142,6 +142,15 @@ Combina **uno de cada tipo** y tienes el Rotor. **Serapis e Ymir son los más ac
 
 El **Valle de la Aguja** (Thyra) es **inaccesible** para los PJ: solo Teach, con el Talismán, puede entrar.
 
+### Las zonas de portales y el Cerrador de Portales
+Tres regiones se defienden del mismo modo: su lugarteniente **no se agota, porque abre portales y trae refuerzos frescos cada turno** — **Glacialis** (Ymir y su red de umbrales), **Las Calderas Dimensionales** (Ignis y sus bocas al Plano del Fuego y a Avernus) y **La Ciudad de Veldrisza** (Yrindra y sus portales a Menzoberranzan). Asaltarlas de frente es una marea sin fin. La lección que el grupo aprende —a las malas en un primer intento, o por aviso de La Resistencia— es que **a estos no se les mata a espada, sino cerrándoles las puertas**: cerrar los portales **anula sus invocaciones** y convierte un combate imposible en uno ganable.
+
+Hay dos vías, **intercambiables**:
+- **Tecnológica:** el **Cerrador de Portales**, un aparato **portátil** que construye Din Goldgear (La Resistencia). Un PJ lo despliega sobre su trípode frente a un portal; cuesta un par de turnos de **anclaje en los que hay que protegerlo**, tiene cargas limitadas y sella un portal cada vez (los portales de lugarteniente piden varios éxitos y un Cristal de Poder). Manejo completo en el [catálogo de objetos](06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md).
+- **In-world:** cada una de esas regiones tiene ya su propio método en su capítulo —el *ritual de apagado* del Hermano Cendal (Calderas), el sellado de umbrales de la Hermana Aeryndra (Veldrisza), cerrar los umbrales de la Red de Ymir (Glacialis)—.
+
+El grupo usa la que consiga. Lo importante es que **el sandbox les enseñe la necesidad**: telegrafía los refuerzos infinitos, deja que un explorador o el Capitán Marcus lo diga en voz alta, y que descubran que la victoria pasa por las puertas, no por el aguante.
+
 ### Por qué hay puertas: la fractura y la cadena de llaves
 Chronosia es un **plano roto**: sus regiones son fragmentos desconectados y no se cruza libremente, porque el tiempo y el espacio están partidos desde la Guerra de los Dioses. Lo único que tiende un puente sobre una fractura es **el poder de un dios cautivo** — justo lo que canalizan los lugartenientes. Por eso **cada lugarteniente que cae suelta una "llave"**: una pieza del Rotor, una reliquia (la Arena del Tiempo), o el corte de un canal que estabiliza un ala entera (al caer **Ignis** se abre lo profundo: Llanuras y Veldrisza). Vencer al de cerca te da **el medio para alcanzar al de más allá**, y varias víctimas pueden abrir la misma puerta (el Rotor lo monta *cualquier* temporal + *cualquier* dimensional). *(Qué suelta cada uno, con una tirada de hallazgo, en el [Apéndice — Reconocimiento e Inteligencia](06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md).)*
 

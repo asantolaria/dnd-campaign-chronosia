@@ -44,6 +44,7 @@ Statblocks en [02_Guia_DM/04_Cronofagos_Detallado/](../02_Guia_DM/04_Cronofagos_
 | `10_medusa-la-eterna.jpg` | Medusa la Eterna | `10_Medusa_La_Eterna.md` |
 | `11_tempus-el-fragmentado.jpg` | Tempus el Fragmentado | `11_Tempus_El_Fragmentado.md` |
 | `12_aethernus-valcarys.jpg` | Aethernus Valcarys (jefe final) | `12_Aethernus_Valcarys_Manshoon.md` |
+| `12b_aethernus-en-combate.jpg` | Aethernus Valcarys — en combate (cuerpo entero, regalía) | `12_Aethernus_Valcarys_Manshoon.md` |
 
 *(Thyra la Suspendida — caída — no tiene imagen.)*
 
@@ -99,11 +100,11 @@ Stats en [05_Apendices/17_Monstruos_Enemigos.md](../05_Apendices/17_Monstruos_En
 
 ---
 
-## 🔮 Reliquias — `objetos_magicos/`
+## 🔮 Objetos mágicos y reliquias — `objetos_magicos/`
 
 Descripciones en [06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md).
 
-| Imagen | Reliquia |
+| Imagen | Objeto / Reliquia |
 |---|---|
 | `01_cronometro-realidades.jpg` | Cronómetro de Realidades |
 | `02_perla-vacio-primordial.jpg` | Perla del Vacío Primordial |
@@ -116,6 +117,33 @@ Descripciones en [06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md](../06_Recu
 | `09_anillos-de-poder.jpg` | Anillos de Poder de los Lugartenientes |
 | `10_cronosellado.jpg` | El Cronosellado |
 | `11_balanza-chronosia.jpg` | Indicador del Equilibrio / Balanza de Chronosia |
+| `12_reloj-estabilizacion-temporal.jpg` | Reloj de Estabilización Temporal *(Anacronistas)* |
+| `13_gafas-percepcion-temporal.jpg` | Gafas de Percepción Temporal *(Anacronistas)* |
+| `14_brujula-tiempo-verdadero.jpg` | Brújula del Tiempo Verdadero *(Anacronistas)* |
+| `15_amuleto-respiracion-acuatica.jpg` | Amuleto de Respiración Acuática *(Oceánicos)* |
+| `16_tridente-del-vacio.jpg` | Tridente del Vacío *(Oceánicos)* |
+| `17_escama-de-oceanico.jpg` | Escama de Oceánico *(Oceánicos)* |
+| `18_cristal-estabilizador.jpg` | Cristal Estabilizador *(Oceánicos)* |
+| `19_rifle-antimagia.jpg` | Rifle Anti-Magia *(La Resistencia)* |
+| `20_granada-estabilidad.jpg` | Granada de Estabilidad *(La Resistencia)* |
+| `21_escudo-tecnologico.jpg` | Escudo Tecnológico *(La Resistencia)* |
+| `22_trampa-antimagia.jpg` | Trampa Mecánica Anti-Magia *(La Resistencia)* |
+| `23_detector-magia.jpg` | Detector de Magia *(La Resistencia)* |
+| `24_estabilizador-temporal.jpg` | Estabilizador Temporal — portátil *(La Resistencia)* |
+| `25_cerrador-portales.jpg` | Cerrador de Portales — portátil *(La Resistencia)* |
+| `26_neutralizador-campo.jpg` | Neutralizador de Campo — fijo *(La Resistencia)* |
+| `27_motor-viento-perpetuo.jpg` | Motor de Viento Perpetuo *(La Resistencia)* |
+| `28_protesis-balthar.jpg` | Prótesis Mecánica de Balthar *(La Resistencia)* |
+| `29_ferrocarril-universal.jpg` | Ferrocarril Universal *(La Resistencia, post-campaña)* |
+| `30_baston-mando-aethernus.jpg` | Bastón de Mando de Aethernus |
+| `31_corona-aethernus.jpg` | Corona de Aethernus |
+| `32_armadura-aethernus.jpg` | Armadura de Aethernus |
+| `33_espada-aethernus.jpg` | Espada de Aethernus |
+| `34_escudo-division.jpg` | Escudo de la División *(reliquia del clímax)* |
+| `35_fragmento-amaunator.jpg` | Fragmento de Amaunator *(reliquia divina)* |
+| `36_fragmento-voidar.jpg` | Fragmento de Voidar *(reliquia divina)* |
+| `37_cristal-de-poder.jpg` | Cristal de Poder *(dorado/púrpura/multicolor)* |
+| `38_cristal-batalla-eterna.jpg` | Cristal de la Batalla Eterna *(reliquia)* |
 
 ---
 

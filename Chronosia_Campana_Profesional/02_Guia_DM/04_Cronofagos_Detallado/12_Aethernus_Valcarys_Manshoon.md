@@ -72,9 +72,11 @@ La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgán
 
 ### **⚔️ En Combate:**
 - **Armadura**: Armadura de placas mágica que se adapta a su forma
-- **Armas**: Espada larga de acero mágico y daga de poder
-- **Escudo**: Escudo mágico que puede reflejar hechizos
+- **Implemento principal**: su **Bastón de Mando** — su verdadera arma es la magia; empuña el bastón (o la Espada de Poder Divino) **a una mano**, dejando siempre la otra libre para conjurar
+- **Arma secundaria**: Espada de Poder Divino, a una mano. **No usa escudo**: es un archimago, no un espadachín
 - **Efectos**: Aura de poder que afecta a todos los enemigos cercanos
+
+![Aethernus Valcarys en combate, con su regalía completa](../../assets/bestiario/lugartenientes/12b_aethernus-en-combate.jpg)
 
 ### **🌌 Poderes Divinos Robados:**
 - **Distorsión temporal**: El tiempo fluye diferente a su alrededor
@@ -106,7 +108,7 @@ La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgán
 
 ---
 
-**Clase de Armadura:** 19 (armadura de placas mágica + escudo + protección divina)  
+**Clase de Armadura:** 19 (armadura de placas mágica + protección divina)  
 **Puntos de Golpe:** 300 en total, repartidos en 3 fases (110 / 100 / 90 — ver más abajo)  
 **Velocidad:** 30 pies, vuelo 60 pies (mágico)
 
@@ -158,8 +160,10 @@ Al inicio de cada uno de sus turnos, Aethernus recupera 10 HP (regeneración por
 
 **Acciones**
 
+> **🧙 Estilo de combate — esencia de mago.** Aethernus es un **archimago**, no un espadachín: su daño de verdad son sus **conjuros y poderes** (Manipulación Temporal, Extracción de Poder, Combinación de Poderes, los poderes robados de sus lugartenientes…). Empuña el **Bastón de Mando** o la **Espada de Poder Divino** **a una mano** y mantiene la otra **libre para conjurar**; **nunca usa escudo**. Sus "multiataques" combinan un golpe de arma con un ataque de conjuro (*Descarga Divina*), no una ráfaga de espadazos.
+
 **Multiataque (Fase 1).**  
-Aethernus realiza dos ataques con *Espada de Poder Divino*.
+Aethernus hace dos ataques: uno con la *Espada de Poder Divino* (a una mano) y uno con *Descarga Divina* (conjuro).
 
 **Espada de Poder Divino.** *Ataque con Arma Cuerpo a Cuerpo:* +11 al ataque, alcance 5 pies, un objetivo.  
 *Impacto:* 16 (2d10 + 5) de daño cortante más 10 (3d6) de daño temporal/espacial (el DM elige).  
@@ -168,6 +172,9 @@ El objetivo debe hacer salvación de Constitución CD 18 o envejece 1d6 años (t
 **Bastón de Mando.** *Ataque con Arma Cuerpo a Cuerpo:* +11 al ataque, alcance 5 pies, un objetivo.  
 *Impacto:* 12 (2d6 + 5) de daño contundente más 10 (3d6) de daño mágico.  
 El objetivo debe hacer salvación de Sabiduría CD 18 o queda encantado hasta el final de su próximo turno.
+
+**Descarga Divina.** *Ataque de Conjuro a Distancia:* +11 al ataque, alcance 120 pies, un objetivo.  
+*Impacto:* 16 (2d10 + 5) de daño temporal/espacial (el DM elige). Es el "conjuro de guerra" de Aethernus: cuando hace un multiataque, sustituye a un mandoble por esta descarga para **dejar una mano libre y no dejar de ser un mago**.
 
 **Manipulación Temporal (3/día).**  
 Como acción, Aethernus manipula el tiempo en un radio de 60 pies. Todas las criaturas en el área deben hacer salvación de Sabiduría CD 18 o quedan afectadas por *lentitud* (enemigos) o *celeridad* (aliados).
@@ -191,7 +198,7 @@ Como acción, Aethernus llama a los lugartenientes que sigan vivos. Hasta 2 de e
 **Acciones**
 
 **Multiataque (Fase 2).**  
-Aethernus realiza tres ataques: dos con *Espada de Poder Divino* y uno con *Bastón de Mando*.
+Aethernus hace tres ataques repartidos entre **un** golpe de arma a una mano (Espada o Bastón) y **dos** *Descarga Divina* — mantiene una mano libre para conjurar.
 
 **Extracción de Poder (Recarga 5-6).**  
 Como acción, Aethernus drena a un enemigo a 30 pies. El enemigo hace salvación de Constitución CD 18 o sufre desventaja en sus tiradas de ataque hasta el final de su próximo turno, y Aethernus recupera 25 HP.
@@ -220,7 +227,7 @@ Al inicio de cada turno de Aethernus, un destello de energía sin control golpea
 **Acciones**
 
 **Multiataque (Fase 3).**  
-Aethernus realiza dos ataques con *Espada de Poder Divino* y, si está disponible, usa *Combinación de Poderes*.
+Aethernus hace dos ataques —uno con la *Espada de Poder Divino* potenciada (a una mano) y uno con *Descarga Divina*— y, si está disponible, usa *Combinación de Poderes*.
 
 **Espada de Poder Divino (potenciada).** Igual que antes, pero el daño temporal/espacial sube a 14 (4d6).
 

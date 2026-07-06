@@ -70,10 +70,10 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Trampas Mecánicas**: Dispositivos que capturan magos
 
 ### **Máquinas de Estabilización**
-- **Estabilizadores Temporales**: Máquinas que corrigen distorsiones temporales
-- **Compresores Dimensionales**: Dispositivos que cierran portales
-- **Detectores de Magia**: Sensores que localizan hechizos
-- **Neutralizadores de Campo**: Generadores que cancelan la magia
+- **Estabilizador Temporal** (portátil): dispositivo de campo que un PJ despliega; crea una burbuja que estabiliza distorsiones menores a su alrededor
+- **Cerrador de Portales** (portátil): aparato que sella portales dimensionales — la respuesta contra los lugartenientes que traen refuerzos por portales (Ymir, Ignis, Yrindra)
+- **Detectores de Magia**: sensores que localizan hechizos (la variante personal de Kaoros los "lee" por vibraciones)
+- **Neutralizador de Campo** (fijo): la instalación anclada en Cronópolis que proyecta la cúpula anti-magia; el escudo de la ciudad
 - **Motor de Viento Perpetuo**: Inventado después del asesinato de Thyra para navegar el mar en calma del Archipiélago de Barbanegra (requiere Rotor Infinito completo)
 
 ---

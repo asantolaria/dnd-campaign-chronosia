@@ -52,6 +52,8 @@ Una torre delgada y retorcida que se alza sola en el erial, envuelta en una espi
 2. **La advertencia clave:** "Sellar mal una puerta no la cierra: abre el *lado infernal*. Si os equivocáis con la caldera del este, no apagáis el fuego — invitáis a Avernus a entrar entero."
 3. **La pista de la debilidad de Ignis:** "El dragón se cree invencible porque siempre tiene una puerta a la espalda por la que escupir refuerzos. Quitadle las puertas — cerrad las bocas a su alrededor — y se queda solo, un dragón viejo sin su ejército de otro mundo. Es entonces, y solo entonces, cuando se puede matar."
 
+> **Dos formas de cerrar las bocas:** el *ritual de apagado* de Cendal (in-world), o el **Cerrador de Portales** portátil de La Resistencia —un PJ lo ancla frente a una boca y la sella; las bocas mayores piden 3 éxitos y un Cristal de Poder—. Cualquiera de las dos **anula las invocaciones de Ignis**. Ver [Motor de Campaña → las zonas de portales](../01_Como_Dirigir.md) y el [catálogo de objetos](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md).
+
 **Encuentros:** **Crías de Dragón Rojo de Caldera** patrullan el erial entre la Aguja y las montañas; pueden cruzar de una boca a otra como acción adicional, así que aparecen donde no las esperas.
 
 **Lleva a:** Cendal señala el Mausoleo, al pie de la caldera central. "Ahí está enterrado el primer dragón que reinó estas bocas, Fulgur. Y en su tumba, la historia de cómo empezó todo esto — y quizá cómo pararlo."
