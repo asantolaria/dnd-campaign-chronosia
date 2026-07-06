@@ -134,7 +134,7 @@
 - **Raza**: Humano
 - **Rol**: Guardián del Tiempo Natural
 - **Alineación**: Neutral Bueno
-- **Ubicación**: Taller de relojería en Cronosgate, una aldea en burbuja temporal estable
+- **Ubicación**: Taller de relojería en **Cronosgate**, el barrio relojero-artífice de Cronópolis (su sola presencia mantiene allí una burbuja de tiempo especialmente estable)
 
 **Descripción Física**: Un hombre de mediana edad, siempre vestido con un delantal de cuero manchado de aceite y herramientas de relojería colgando de su cinturón. Sus manos son firmes y precisas, sus ojos de un azul profundo que parece ver más allá del tiempo mismo. Su cabello gris plateado está siempre despeinado, como si hubiera pasado la noche trabajando.
 
@@ -160,7 +160,7 @@
 - **Clase**: Artífice (Nivel 9)
 - **Rol**: Mano Derecha de Cornelius "El Inmutable" y Maestro Ingeniero
 - **Alineación**: Neutral Bueno
-- **Ubicación**: Taller de Cornelius en Cronosgate / Taller de Ingeniería en Cronópolis
+- **Ubicación**: Taller de Cornelius, en el barrio de **Cronosgate** (el barrio relojero-artífice de Cronópolis)
 
 **Descripción Física**: Un gnomo joven con una pequeña barba bien cuidada, siempre vestido con un delantal de cuero manchado de aceite y herramientas de artífice colgando de su cinturón. Sus ojos brillan con curiosidad constante, y sus manos hábiles nunca están quietas, siempre ajustando, mejorando o inventando algo nuevo. Lleva gafas de aumento que se deslizan por su nariz cuando se concentra intensamente en su trabajo.
 
@@ -170,7 +170,7 @@
 
 **La Experiencia de Barovia - La Aventura que le Marcó**: La aventura que más profundamente marcó a Din fue su tiempo en **Barovia**, una región arrancada de su plano y atrapada en un limbo dimensional gobernada por el vampiro Strahd von Zarovich. Allí, Din experimentó de primera mano cómo una región completa puede ser arrancada de la realidad y quedar atrapada entre planos, aislada del resto del multiverso. Esta experiencia le dejó cicatrices emocionales profundas: vio cómo la corrupción temporal y espacial puede destruir todo lo que una vez fue hermoso, cómo la esperanza puede ser sistemáticamente aplastada, y cómo incluso los más brillantes pueden quedar atrapados en una prisión sin salida.
 
-**Llegada a Chronosia**: Hace aproximadamente **5-6 años**, Din estaba experimentando con un dispositivo de teletransportación experimental en Waterdeep. El dispositivo, diseñado para viajes cortos entre ubicaciones, falló catastróficamente cuando una distorsión temporal masiva lo arrastró accidentalmente a Chronosia. Su dispositivo se sobrecargó con la energía temporal distorsionada y lo transportó directamente a Cronosgate, donde aterrizó literalmente en el taller de Cornelius. Desde entonces, Din ha estado atrapado en Chronosia, incapaz de hacer funcionar correctamente su dispositivo para regresar a Faerún.
+**Llegada a Chronosia**: Hace aproximadamente **5-6 años**, Din estaba experimentando con un dispositivo de teletransportación experimental en Waterdeep. El dispositivo, diseñado para viajes cortos entre ubicaciones, falló catastróficamente cuando una distorsión temporal masiva lo arrastró accidentalmente a Chronosia. Su dispositivo se sobrecargó con la energía temporal distorsionada y lo transportó directamente a **Cronópolis** —al barrio de **Cronosgate**—, donde aterrizó literalmente en el taller de Cornelius. Desde entonces, Din ha estado atrapado en Chronosia, incapaz de hacer funcionar correctamente su dispositivo para regresar a Faerún.
 
 **El Dispositivo Fallido**: El dispositivo de teletransportación que trajo a Din a Chronosia sigue siendo un misterio para él. A pesar de años de trabajo con Cornelius y los ingenieros, no ha podido hacerlo funcionar correctamente para regresar. El dispositivo parece requerir una fuente de energía temporal estable que simplemente no existe en Chronosia, o tal vez necesita ser activado desde el lado de Faerún. Esta frustración técnica constante es una de las razones por las que Din se ha dedicado tan intensamente a entender las distorsiones temporales - no solo para ayudar a Chronosia, sino también para encontrar una forma de volver a casa.
 

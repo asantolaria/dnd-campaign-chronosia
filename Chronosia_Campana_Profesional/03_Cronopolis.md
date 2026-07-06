@@ -22,6 +22,22 @@ Pero es un refugio **asediado**. La ciudad rebosa de refugiados que han huido de
 
 ---
 
+## Los barrios de Cronópolis
+
+> Cronópolis es pequeña, pero **no homogénea**: sus gremios, sus facciones y sus refugiados se apiñan en barrios con carácter propio. Conocerlos ayuda a ubicar a los NPCs y a hacer **geográfica** la política de la ciudad. Las zonas numeradas del "Recorrido" (abajo) caen dentro de estos barrios.
+
+- **La Cúpula** *(barrio anacronista)* — en torno a la **Cámara del Tiempo** (zona 3). Túnicas azules, archivos y relojes de sol: los guardianes de la memoria. Aquí manda **Galen**.
+- **La Fortaleza de Acero** *(barrio de La Resistencia)* — el cuartel-fundición (zona 4) y las casas obreras a su sombra. Humo, pólvora y gente que desconfía de la magia. Aquí manda el **Capitán Marcus**.
+- **Cronosgate** *(barrio relojero-artífice)* — talleres, fraguas finas y relojerías apiñadas contra la muralla este (zona 5). Gremios gnomos; hogar de **Cornelius** y **Din**. El único sitio donde magia y máquina conviven —por eso las dos facciones se lo disputan— y, por la burbuja estable de Cornelius, el mejor lugar de la ciudad para descansar de verdad.
+- **La Plaza del Reloj y el Concejo** *(centro cívico neutral)* — el **Contador** (zona 2) y el **Palacio de la Síndica** (zona 8). Terreno de nadie donde **Maren** sostiene el equilibrio; el corazón político de la ciudad.
+- **El Fondeadero** *(barrio del muelle)* — el puerto (zona 9), con sus pescadores y marinos mirando un mar que no deja salir. Guarda viva, sin saberlo, la raíz común con los Oceánicos.
+- **La Ciudad de Tiendas** *(mercado y refugiados)* — el mercado y la posada **La Última Hora** (zona 6), desbordados por los **refugiados de las regiones caídas**: chabolas, hacinamiento, rumores y recelo hacia los recién llegados. Aquí llega cada "refugiado con nombre" cuando los PJ liberan una región.
+- **El Refugio sin Nombre** *(barrio del templo)* — alrededor del santuario de **Madre Yssa** (zona 7): los enfermos, los rotos y los que rezan a dioses que apenas oyen. Rincón amargo y semilla de un posible culto.
+
+> **La política, hecha mapa.** La fractura **Resistencia ↔ Anacronistas** también es geográfica: la **Fortaleza de Acero** y **La Cúpula** se dan la espalda en extremos opuestos, con **Cronosgate** (el puente) y el **Concejo** (el árbitro) entre medias. Cuando los PJ inclinan la balanza hacia una facción, se **nota** en qué barrio prospera y cuál se resiente.
+
+---
+
 ## Recorrido por la ciudad
 
 Las zonas siguen la **leyenda numerada del mapa**. No hace falta visitarlas en orden; son los sitios a los que los PJ vuelven una y otra vez.
@@ -61,7 +77,7 @@ Una fortaleza maciza, sin un solo adorno, que es a la vez cuartel, fundición y 
 
 ### 5 · El Taller de los Ingenieros gnomos
 
-Un nido de engranajes, poleas y cosas que silban, encajado contra la muralla este. Es el taller de artífices —corazón mecánico de la ciudad— donde se inventa, se repara y se calibra. Aquí trabaja **Din Goldgear**, mano derecha del relojero Cornelius.
+Un nido de engranajes, poleas y cosas que silban, encajado contra la muralla este. Es el taller de artífices —corazón mecánico de la ciudad— donde se inventa, se repara y se calibra. Aquí trabaja **Din Goldgear**, mano derecha del relojero Cornelius. Todo este rincón —talleres, fraguas finas y relojerías apiñadas contra la muralla este— es el barrio de **Cronosgate**, donde la sola presencia de Cornelius mantiene una burbuja de tiempo especialmente estable (el mejor sitio de la ciudad para descansar de verdad).
 
 **Para qué sirve al grupo:** **reparaciones y artefactos a medida**. Din construye dispositivos clave de la campaña, repara objetos mágicos dañados por las distorsiones y aporta los sensores que mantienen calibrado el Contador. Es el puente entre la magia (Anacronistas) y la máquina (Resistencia): donde otros se pelean, Din traduce.
 
