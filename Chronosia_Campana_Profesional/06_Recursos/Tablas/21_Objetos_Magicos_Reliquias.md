@@ -20,6 +20,7 @@
 - [Arena del Tiempo Estabilizada](#-arena-del-tiempo-estabilizada)
 - [Excavadora Dimensional](#-excavadora-dimensional)
 - [Rotor Infinito](#-rotor-infinito)
+- [La Llave Chroniana (las dos mitades)](#-la-llave-chroniana-las-dos-mitades)
 
 ### **💍 Anillos de Poder de los Lugartenientes**
 - [Sistema de Anillos de Poder](#-sistema-de-anillos-de-poder-de-los-lugartenientes)
@@ -635,6 +636,27 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 - Requiere Din Goldgear o un Artífice de nivel 9+ para ensamblar
 - Requiere 1 semana de trabajo continuo
 - Requiere materiales adicionales (5000 po en materiales)
+
+---
+
+### **🗝️ La Llave Chroniana (las dos mitades)**
+
+**Tipo:** Artefacto (reliquia chroniana, en dos mitades)  
+**Rareza:** Artefacto Único  
+**Creador:** los Chronianos, antes de la fractura  
+**Estado:** partida en dos; cada mitad la guarda un pueblo, y **ninguno recuerda ya qué es**
+
+**Qué es:** un *keystone* de cristal —el saber de **contener o liberar** a los dioses hecho objeto— que los Chronianos rompieron en dos al escindirse. Es la **verdadera llave** para abrir la Torre de la Eternidad y soltar las cadenas de Amaunator y Voidar. Reunir las dos mitades es la condición del **buen final**.
+
+**Las dos mitades:**
+- **Mitad del Tiempo (superficie):** una **piedra sagrada** en la Cámara del Tiempo de Cronópolis, más las **palabras de activación** que **Galen** custodia de memoria —sin entenderlas—. Se obtiene ganándose a los **Anacronistas**.
+- **Mitad del Espacio (fondo):** la otra piedra, en **Abysara**; la entregan los **Oceánicos** al sellar la alianza. **No es la Perla del Vacío** (ver aviso abajo).
+
+**Cómo se usa (clímax):** con un **portador de cada pueblo**, se **unen las dos mitades**, se **pronuncian las palabras** y se ejecuta el método chroniano sobre las cadenas divinas. Sin ambas mitades + las palabras, las cadenas no se sueltan (ver [Clímax, Paso 2](../../15_Climax_La_Torre.md)).
+
+**Cómo se descifra:** Galen guarda su mitad y sus palabras **sin saber qué abren**; el significado se reconstruye en **Las Ruinas del Tiempo Perdido** (el relieve de la llave entera) y en los archivos de **Abysara**.
+
+> **⚠️ No confundir con el Talismán de Interceptación (Perla + Cronómetro).** El Talismán es la llave **falsa y robada** que forja Teach; la Llave Chroniana es la **verdadera**. Que Teach robe la Perla y el Cronómetro **no** afecta a las dos mitades de la llave: son objetos distintos. Es un **espejo deliberado** — Teach ensambla una llave corrupta con dos reliquias robadas; los héroes, la verdadera reuniendo a dos pueblos.
 
 ---
 

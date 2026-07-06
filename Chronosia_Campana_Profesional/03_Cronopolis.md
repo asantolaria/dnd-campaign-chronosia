@@ -108,15 +108,15 @@ Humana, plebeya. Heredó el cargo cuando el síndico anterior murió en un asedi
 
 ### Galen — líder de los Anacronistas
 
-Humano anciano de túnica azul y ojos que brillan con sabiduría temporal. Guardián de la memoria verdadera y del Cronómetro. El **explicador principal del Reloj del Ritual** y el que conduce hacia la **media llave**.
+Humano anciano de túnica azul y ojos que brillan con sabiduría temporal. Guardián de la memoria verdadera y del Cronómetro, y **explicador principal del Reloj del Ritual**. Custodia además —**sin entenderla**— la **media llave chroniana de la superficie**: una piedra sagrada de la Cámara del Tiempo y unas palabras que su linaje tiene orden de retener intactas desde la fractura, sin saber ya qué abren.
 
 > "Aethernus no se limita a gobernar: completa un **ritual de ascensión**. Su poder se filtra por sus lugartenientes, y mientras tanto esa columna de ahí fuera —el Contador— sube. Ocho segmentos. Cuando se agote, los dioses serán llamados y la Torre se abrirá. Se frena cuando cortáis un canal: cuando matáis a un crítico, cuando saboteáis. No podéis hacerlo todo, jóvenes. Debéis **elegir** dónde lucháis. Lo que dejéis sin hacer, lo aprovecha el enemigo."
 
-Y, cuando ya se han ganado su confianza, la pieza dorada:
+Y, cuando ya se han ganado su confianza, la pieza dorada — **que él entrega sin comprenderla**:
 
-> "Hay algo que mi pueblo guarda desde que el mundo se rompió. Cuando los Chronianos nos partimos en dos, cada mitad se quedó con media verdad: nosotros, los de la superficie, conservamos el saber del **Tiempo**; los del mar, el del **Espacio**. El Cronómetro que os protege es uno de los antiguos Cristales de Estabilización, y nosotros sabemos *cómo* late… pero solo la mitad. La otra mitad la tienen los Oceánicos, en el fondo del mar. Esto es la **llave chroniana**, y está partida. Reunid las dos mitades, y no tendréis que *heredar* a los dioses encadenados: podréis **liberarlos**. Esa es la única salida buena de toda esta historia."
+> "Hay algo que mi pueblo guarda desde que el mundo se rompió, y os confieso que ni yo sé del todo qué es. Una **piedra** que veneramos en la Cámara del Tiempo, y unas **palabras** que me hicieron aprender de memoria mis mayores, como ellos de los suyos, con una sola orden: *no las perdáis jamás*. Nadie recuerda ya qué abren. Solo sé dos cosas, de las que nos susurramos entre nosotros: que es **media** de algo —la otra media se la llevaron *los del mar* el día en que nos partimos— y que la llamaban la **llave chroniana**. Si de verdad queréis *liberar* a los dioses en vez de heredarlos encadenados, quizá vosotros descifréis lo que nosotros solo hemos sabido guardar. Buscad la otra mitad en el fondo. Y buscad a alguien que sepa *leer* lo que yo solo sé repetir."
 
-**Ofrece:** lectura del Reloj, historia antigua, guía a través de distorsiones y —con confianza ganada— la **media llave chroniana de los Anacronistas**. Facción completa en [02_Guia_DM/02_Facciones/03_Anacronistas.md](02_Guia_DM/02_Facciones/03_Anacronistas.md).
+**Ofrece:** lectura del Reloj, historia antigua, guía a través de distorsiones y —con confianza ganada— la **media llave chroniana de la superficie** (la piedra + las palabras), aunque **sin saber descifrarla**: su significado lo reconstruyen los PJ en **Las Ruinas del Tiempo Perdido** (el relieve de la llave). Facción completa en [02_Guia_DM/02_Facciones/03_Anacronistas.md](02_Guia_DM/02_Facciones/03_Anacronistas.md).
 
 ### Capitán Marcus — líder de La Resistencia
 

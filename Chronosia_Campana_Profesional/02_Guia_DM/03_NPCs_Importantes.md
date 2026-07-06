@@ -15,6 +15,8 @@
 
 **Función**: Explicador principal del **Reloj del Ritual** (el Contador de los Anacronistas). Enseña a los PJ a leerlo y qué lo hace avanzar o frenarse.
 
+> **Custodio que no descifra.** Galen entiende el **Reloj** (el presente), pero **no** la **media llave chroniana de la superficie**: guarda una **piedra sagrada** (Cámara del Tiempo) y unas **palabras** que su linaje tiene orden de retener intactas desde la fractura, **sin saber qué abren**. Pasa la mitad a los PJ con confianza ganada; el **significado** lo descubren ellos en Las Ruinas del Tiempo Perdido y en Abysara. Detalle en [Cronópolis → Galen](../../03_Cronopolis.md) y [catálogo → La Llave Chroniana](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-la-llave-chroniana-las-dos-mitades).
+
 **Diálogos Clave**:
 
 #### **Primera Explicación del Reloj**

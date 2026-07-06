@@ -20,7 +20,9 @@ De aquel mundo roto quedó **Chronosia**: no un reino, sino un **semiplano fract
 
 Y los Chronianos, para sobrevivir, **se partieron en dos**. Una mitad bajó al mar, buscando refugio en las profundidades donde las distorsiones apenas llegaban: se convirtieron en los **Oceánicos de las Profundidades**, y reconstruyeron la ciudad sumergida de **Abysara**. La otra mitad se quedó en la superficie, aferrada a un Cristal de Estabilización con el que levantaron una última ciudad libre, **Cronópolis**: se convirtieron en los **Anacronistas**.
 
-Al separarse, **perdieron la mitad cada uno del saber**. Los Anacronistas conservaron el dominio del Tiempo; los Oceánicos, el del Espacio. Por separado, ninguno de los dos pueblos puede ya hacer lo que sus ancestros hacían: **contener a los dioses, o liberarlos**. Ese conocimiento partido —la **llave chroniana**— es la clave secreta de cómo termina esta historia.
+Al separarse, **partieron también su mayor obra**: la **llave chroniana**, un *keystone* de cristal —el saber de contener *o liberar* a los dioses hecho objeto— que **rompieron en dos mitades**, una para cada pueblo. Los Anacronistas se quedaron la mitad del **Tiempo**; los Oceánicos, la del **Espacio**. Con los siglos, ambos **olvidaron qué era**: la guardan como una piedra sagrada y unas palabras que ya nadie sabe leer. Por separado, ninguno de los dos pueblos puede hacer lo que hacían sus ancestros —**contener a los dioses, o liberarlos**—; solo **reunidas las dos mitades** vuelve a ser una llave. Ese es el secreto de cómo termina esta historia.
+
+> *(No confundir con el **Talismán** que forja Edward Teach —Perla del Vacío + Cronómetro de Realidades—: esa es una llave **falsa y robada**, su espejo corrupto. La chroniana es la **verdadera**, y sus dos mitades nunca pasaron por manos de Teach.)*
 
 ## III. El villano: Aethernus Valcarys
 

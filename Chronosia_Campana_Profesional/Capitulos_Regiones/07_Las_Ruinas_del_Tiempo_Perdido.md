@@ -49,6 +49,8 @@ Al noroeste del refugio, una biblioteca-bóveda hincada en la ladera, marcada en
 
 **Pista/secreto — el relieve de la llave entera.** Sobre el dintel del Archivo, gastado por los siglos, hay un **relieve tallado de antes de la fractura**: el pueblo chroniano *unido*, sin partir todavía, formando un círculo. Entre todas las manos sostienen en alto **una sola llave**, hecha de dos mitades engastadas que encajan perfectamente —una de cara al sol, otra de cara a un mar tallado bajo sus pies—. Bajo el círculo, un solo rostro mira hacia las olas, ya volviéndose para descender. Veturia, si está, lo lee: *"Mirad: aquí la llave era una. Tiempo y Espacio, las dos mitades en las mismas manos. Esto se talló antes de que la mitad del pueblo bajara al mar y se llevara su mitad consigo. Lo que veis no es solo memoria — es un plano. Quien junte otra vez las dos mitades, vuelve a tener la llave entera."* Presagio directo de la **llave chroniana partida** y de los **dos pueblos** que deben reunirse.
 
+> **Aquí los PJ *descifran* lo que Galen solo sabía guardar.** Si han oído a Galen (Cronópolis) recitar sus palabras y venerar su "piedra sagrada" sin entenderla, este relieve es la **piedra de Rosetta**: revela que esa piedra es **media llave**, que la otra media está en el mar (Oceánicos), y que **unir las dos mitades + un portador de cada pueblo + las palabras** abre la Torre y libera a los dioses. Sin pasar por aquí (o por los archivos de Abysara), tendrán las piezas pero no sabrán que encajan.
+
 **Lleva a:** el rastro de engranajes sube hacia el corazón mecánico de las ruinas, el Gran Engramaje Roto.
 
 ### 2 · El Gran Engramaje Roto
@@ -81,7 +83,7 @@ Al noreste, sobre el Engramaje, una fragua suspendida entre engranajes donde un 
 
 **Encuentro:** **Colosos de Engranajes** y **Fragmentos de Tiempo Animados** rondan la forja; el calor "que ordena" da, a quien repose junto al yunque, **ventaja en su próxima salvación contra efectos temporales** (sabor: te realineas con tu propio instante).
 
-**Pista/secreto / botín:** un PJ con herrería o arcanos puede **terminar de forjar el Cristal** (CD 15, requiere el calor de la forja): un **Cristal de Estabilización menor**, objeto que, una vez por descanso, estabiliza un área pequeña (anula un efecto temporal o espacial menor). Más importante: la Forja revela que el **Cronómetro de Realidades** que protege Cronópolis y el **Cristal sumergido** de Abysara **son dos de estos Cristales** — y que la **llave chroniana** no es una metáfora: es saber *hacer y usar* estos Cristales, saber que se partió entre los dos pueblos.
+**Pista/secreto / botín:** un PJ con herrería o arcanos puede **terminar de forjar el Cristal** (CD 15, requiere el calor de la forja): un **Cristal de Estabilización menor**, objeto que, una vez por descanso, estabiliza un área pequeña (anula un efecto temporal o espacial menor). Más importante: la Forja revela que el **Cronómetro de Realidades** que protege Cronópolis y el **Cristal sumergido** de Abysara salieron de esta misma tradición — y que la **llave chroniana** no es una metáfora: es un **objeto real, un *keystone* partido en dos**, que encarna el saber de *hacer y usar* estos Cristales; un saber (y una llave) que se partió entre los dos pueblos.
 
 **Lleva a:** sobre la forja, asomado al vacío estrellado, está el Observatorio.
 
