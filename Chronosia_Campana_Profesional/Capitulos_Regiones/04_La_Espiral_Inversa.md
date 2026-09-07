@@ -16,9 +16,32 @@ La Espiral Inversa es un valle con forma de caracola donde el ayer nunca termina
 
 ---
 
+## Viajar por la Espiral Inversa
+
+El valle es una caracola: un sendero principal desciende en espiral desde el borde (el Puesto) hasta el centro (el Ojo), y **el Reloj de Arena gigante se ve desde cualquier punto**, al este, con su fina grieta dorada sangrando luz encima. Distancias por el sendero: **Puesto → Aldea, 2 horas** (entre trigales que se siegan y rebrotan); **Aldea → Puente del Soldado, 1 hora** valle abajo; **Puente → Cementerio, media hora** por el camino de los cipreses; **Aldea → Templo, hora y media** de subida; **Templo → Ojo, 2 horas** — solo transitables con las dos anclas rotas (antes, la espiral rebobina a quien lo intenta). Salirse del sendero acorta… y desorienta: sin guía, tirada de Sabiduría (Supervivencia) CD 13 o el grupo aparece donde estaba **una hora antes**. En mesa: cruzar y resolver el valle es **un arco** (+1 al Reloj); los trayectos internos no se cuentan aparte. Encuentros de camino: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
+
+---
+
 ## Recorrido por la región
 
-**Flujo:** **Puesto de Avanzada** (1) → **La Aldea del Bucle** (2): descubren el bucle y a quién preguntar → **El Templo Reconstituido** (3): el fanático Cándano y la primera ancla mayor → **El Ojo del Tiempo** (4): Serapis y la ruptura de la espiral. Destruir las **anclas** por el camino debilita el bucle y la *Reversión* de Serapis en el combate final.
+**Flujo:** **Puesto de Avanzada** (1) → **La Aldea del Bucle** (2): descubren el bucle y a quién preguntar → **El Puente del Soldado Repetido** (2b): la **primera ancla** → **El Cementerio de los Despiertos** (2c, opcional): la pista hacia Cándano → **El Templo Reconstituido** (3): el fanático Cándano y el **ancla mayor** → **El Ojo del Tiempo** (4): Serapis y la ruptura de la espiral. Destruir las **anclas** por el camino debilita el bucle y la *Reversión* de Serapis en el combate final.
+
+### El día que se repite *(la herramienta del valle)*
+
+El mismo día, siempre. Para los aldeanos es una condena; para un grupo que **no se reinicia**, es un **horario de enemigo publicado**. Dales la tabla poco a poco (cada ciclo observado revela 2-3 filas) y premia cada plan que la explote: emboscadas con ventaja, rutas libres de testigos, coartadas perfectas.
+
+| Hora | Evento fijo del ciclo |
+|---|---|
+| **Alba** | El valle se reinicia. Cándano sale del templo y baja a la aldea; si tiene un cautivo, lo sube al altar **al alba siguiente** |
+| **Media mañana** | Los turnos de aldeanos suben al Ojo a "hacer subir la arena"; Maela traza su raya de tiza (ya borrada) |
+| **Mediodía** | El carro de grano vuelca en la plaza; el niño, la rueda, el grito — y el rebobinado |
+| **Primera tarde** | Berto "pierde" un cargamento en el camino del molino (su sabotaje diario a quien husmea) |
+| **Tarde** | El soldado del puente revive su última refriega, golpe a golpe (el mejor momento para estudiarlo) |
+| **Ocaso** | Los muertos del cementerio se incorporan, confundidos; la aldea atranca puertas y calla |
+| **Anochecer** | El Hombre que Cuenta añade su guijarro y lo canta en voz alta — **el único evento que cambia cada ciclo**: la cuenta crece. Es la prueba de que alguien recuerda |
+| **Medianoche** | La arena del Reloj gigante cae de golpe; quien esté en el corazón de la espiral sin protección es **rebobinado** al alba (pierde lo hecho esa noche) |
+
+> **Uso en mesa:** los eventos son *fijos mientras las anclas aguanten*. Cada ancla rota **desordena una fila** (elige cuál y descríbelo: el carro no vuelca, los muertos no se levantan) — así el grupo *ve* que el bucle se afloja.
 
 ### 1 · Puesto de Avanzada *(zona segura)*
 
@@ -59,7 +82,32 @@ Aquí los PJ recogen pistas y conocen a tres habitantes (statblocks de las besti
 
 **Encuentros:** un **Aldeano Vuelto Niño** deambula perdido (combate con peso moral); un **Rebobinador** anida en el pozo seco y "deshace" turnos.
 
-**Lleva a:** el rastro de los sacrificios sube al Templo Reconstituido. El Ojo del Tiempo se ve al este, pero mientras las anclas resistan, acercarse es suicida (la espiral rebobina a quien entra).
+**Lleva a:** el Hombre que Cuenta señala la primera ancla **bajo el puente**, valle abajo (zona 2b); el rastro de los sacrificios de Cándano sube al **Templo** (zona 3), y quien pregunte por los muertos que "se levantan raros" acabará en el **Cementerio** (zona 2c). El Ojo del Tiempo se ve al este, pero mientras las anclas resistan, acercarse es suicida (la espiral rebobina a quien entra).
+
+### 2b · El Puente del Soldado Repetido *(la primera ancla)*
+
+Un puente de piedra sobre el arroyo del valle, mordido por un combate que terminó hace siglos — y que no ha terminado nunca.
+
+> *Leído al acercarse:* "El puente está lleno de cicatrices de guerra frescas: astillas que saltan, chispas de aceros que no veis. Entonces lo veis a él: un soldado translúcido, con media armadura de un ejército que ya no existe, luchando **solo** contra nadie. Para, saluda a un oficial invisible, vuelve a formar y muere — despacio, de rodillas, protegiendo el puente. Y se levanta, y forma otra vez. Bajo el agua, clavada en el lecho del arroyo, algo emite un brillo oxidado: una **alabarda rota**."*
+
+- **El Alférez** *(usa el statblock del **Eco de Refriega**, abajo)*: no es hostil hasta que alguien pisa el puente o toca el arroyo — entonces "el enemigo ha llegado" y lucha hasta morir… y reaparece. Habla solo en órdenes militares de una guerra olvidada ("¡Sostened el vado! ¡Chronia no cae dos veces!" — siembra del mundo anterior a la fractura). En su fase de **tarde** (ver *El día que se repite*) revive la refriega completa: observarlo entonces revela sin combate dónde está el arma.
+- **El ancla:** su **alabarda oxidada**, clavada en el lecho (Fuerza CD 13 para arrancarla con el agua helada empujando; o romperla in situ: CA 15, 20 PG). Es el **arma-ancla** del Eco: destruirla lo libera — el Alférez se cuadra, saluda a los PJ como a sus relevos, y se deshace en arena dorada — y **afloja el bucle un grado** (la *Reversión* de Serapis pierde fuelle; ver zona 4).
+- **Alternativa sin acero:** convencerlo de que **la guerra terminó** (Carisma (Persuasión) CD 13, con ventaja si un PJ militar le rinde honores o le presenta una "orden de relevo" escrita): entrega la alabarda él mismo. Premia la escena — es la primera vez que el valle les deja *ganar con la cabeza*.
+- **Botín:** en el barro bajo el puente, una **placa de identificación chroniana** de bronce (vale como curiosidad para Vondrel o como regalo que gana al Hombre que Cuenta) y 40 po en monedas de un reino que no existe.
+
+**Lleva a:** con el ancla del puente rota, solo queda la del Templo (zona 3). El camino de cipreses de la orilla baja al Cementerio (2c).
+
+### 2c · El Cementerio de los Despiertos *(opcional — la pista)*
+
+Donde "los muertos se levantan confundidos": un camposanto pequeño en la ladera, con **todas las tumbas abiertas desde dentro**.
+
+> *Leído al entrar (al ocaso):* "Las lápidas están limpias y las fosas, vacías. Sentados sobre sus propias tumbas, una docena de muertos esperan — no os atacan: os **miran**, con la educación confusa de quien no recuerda si os conoce. Uno de ellos, un anciano con el sudario bien doblado sobre el brazo, se incorpora y pregunta, cortés: «Disculpad… ¿venís al entierro? Es que no consigo recordar… ¿de quién era?»"*
+
+- **Qué pasa aquí:** cada ocaso, el bucle devuelve a los muertos a medio camino — ni vivos ni descansando. No son hostiles salvo profanación; entre ellos deambulan 1d3 **Aldeanos Vueltos Niños** (statblock abajo) que sí atacan si se les acorrala (combate con peso moral: "no mueren de verdad salvo que se rompa el bucle").
+- **Ossian el Desenterrado** *(anciano muerto, lúcido a ratos)*: lleva incontables ciclos intentando recordar **cómo murió**. Si los PJ lo ayudan a reconstruirlo (dejarle sostener algo del templo, describirle el altar, una tirada de Sabiduría (Perspicacia) CD 12 para guiar sus lagunas), lo recuerda de golpe — y es la **pista** que faltaba: *"El sacristán. Cándano. Me dijo que el sol estaba preso y que mi sangre lo aliviaría… Me llevó al alba. Rezaba mientras lo hacía. Y os diré algo peor: **lloraba**. Ese hombre no disfruta — ese hombre está gastando días como quien achica agua."* (Confirma el camino al Templo y prepara el matiz trágico de Cándano.)
+- **El coste, dicho en voz baja:** si alguien pregunta qué pasará con ellos al romperse el bucle, Ossian sonríe: *"Descansar, espero. Ya iba siendo hora."* — la contracara amable del precio que pagan los Aldeanos Vueltos Niños. Úsalo: es la región enseñando su tema (*la liberación tiene precio*) antes del final.
+
+**Lleva a:** el testimonio de Ossian sube directo al **Templo Reconstituido** (zona 3).
 
 ### 3 · El Templo Reconstituido *(dominio de Cándano)*
 
