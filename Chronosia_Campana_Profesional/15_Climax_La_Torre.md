@@ -1,6 +1,6 @@
 # Capítulo 15 — El clímax: La Torre de la Eternidad
 
-![Corte vertical de la Torre de la Eternidad](assets/mapas/12_torre-eternidad.png)
+![Corte vertical de la Torre de la Eternidad](assets/mapas/12_torre-eternidad.jpg)
 
 > **El final de la campaña** · **Nivel:** 10 (techo de Chronosia) · **Reloj:** doom monótono, **8/8 = ascensión consumada (Final D, derrota)** · **Entrada:** se asalta cuando los PJ **reúnen la llave chroniana** (las dos mitades) **y conocen la entrada** (revelada por Teach o por la espía Matrona Yrindra) · **Lo que se decide:** si Aethernus asciende, si Teach lo usurpa, o si los héroes liberan a Amaunator y Voidar y devuelven el equilibrio.
 

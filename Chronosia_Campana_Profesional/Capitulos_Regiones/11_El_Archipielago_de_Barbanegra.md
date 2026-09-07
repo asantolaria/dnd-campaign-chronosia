@@ -149,6 +149,8 @@ La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un 
 - ***Multiataque:*** dos *Sables cronófagos* (+8, 1d8+5 cortante + 3d6 necrótico; CD 15 CON o desventaja en la próxima tirada). ***Marea detenida (rec. 5-6):*** 30 pies, CD 15 SAB o paralizado hasta el final de su próximo turno.
 
 ### Tholassa de la Corriente Honda — aliada (Oceánica)
+
+![Tholassa de la Corriente Honda](../assets/bestiario/npcs/tholassa-de-la-corriente-honda.jpg)
 *Mediana humanoide (oceánica), legal neutral* · **CR 5** (1.800 XP) · CA 16 · PG 95 · CD 15
 - Líder de los Oceánicos de las Profundidades. Lucha junto a los PJ si se sella la alianza. *Lanza de coral* +7, 1d8+4 perf. + 1d6 frío. ***Corriente Honda (rec. 5-6):*** línea de 30 pies de agua a presión, CD 15 FUE o derribado y empujado 15 pies. ***Bendición del Abismo (1/combate):*** otorga respiración acuática y vel. nadar 40 pies a 3 aliados durante el combate.
 

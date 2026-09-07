@@ -1,6 +1,6 @@
 # Capítulo 2 — Chronosia, el semiplano fracturado
 
-![Mapa general de Chronosia](assets/mapas/00_mapa-general-chronosia.png)
+![Mapa general de Chronosia](assets/mapas/00_mapa-general-chronosia.jpg)
 
 > *El Capítulo 1 contó la historia: dos dioses, una guerra, un mundo roto y un archimago que los encadenó para robarles lo divino. Este capítulo cuenta el **lugar**. Antes de que tus jugadores derroten a nadie, antes de que toquen el primer engranaje del Reloj, tienen que **creerse el sitio donde han caído**. Lo que sigue es Chronosia tal como se siente bajo los pies: el aire, la luz que llora, las reglas que ya no se cumplen. Léelo como leerías "Las Tierras de Barovia": no es un manual de mecánicas, es la descripción de un mundo que está mal, y que lo sabe.*
 
@@ -50,8 +50,6 @@ No necesitas tirar tablas constantemente. Basta con tener presentes cuatro verda
 ## El mapa y sus regiones
 
 Diez esquirlas y un centro. El mapa general las muestra todas, repartidas alrededor de Cronópolis como fragmentos en torno al único punto firme. Cada una es un mundo en miniatura con su propia ley rota, su propio villano, y su propia **pieza de la verdad** esperando a quien se atreva a entrar (la tabla de qué revela cada región está en el Capítulo 1).
-
-> ⚠️ **Nota sobre el mapa.** El PNG general conserva todavía algunos nombres antiguos. Hasta regenerarlo, fíate de la leyenda numerada de aquí abajo: la numeración 1–10 es la canónica y coincide con los mapas regionales (`assets/mapas/01..10`).
 
 > 🗺️ **Mapa de JUGADOR (sin spoilers):** entrega en mesa `assets/mapas/13_mapa-jugador-chronosia.jpg` — las 10 regiones numeradas y Cronópolis, **sin** la Torre, el Valle de la Aguja, Abysara ni la isla de Teach. Lleva escrita la advertencia de Galen: *"No todo está en este mapa."*
 

@@ -105,6 +105,8 @@ Un panteón de mármol tras una verja coronada de calaveras, donde duermen los V
 
 ### 6 · La Mansión *(guarida de Lord Vorthak)*
 
+![Battlemap — planta noble de la Mansión](../assets/mapas/battlemap-mansion-sed-eterna.jpg)
+
 El interior de la casa señorial: un comedor de mesa interminable puesta para una cena eterna, escaleras que envejecen bajo los pies, espejos que muestran a quien pasa diez años más viejo. En la cripta-salón principal aguarda el Sediento Eterno, rodeado de su corte de drenados.
 
 > *Leído al entrar en el salón:* "La mesa del comedor está puesta para un banquete que nunca acaba: copas llenas de un vino que parece sangre, platos servidos hace siglos. A la cabecera, en un trono de respaldo alto, un noble pálido y demacrado de ojos rojos os observa con la cortesía de quien recibe a la cena, no del que la teme. A su alrededor, de pie, una corte de siervos jóvenes y viejos a la vez — drenados a medias, cáscaras obedientes. «Bienvenidos», dice Lord Vorthak, y su voz es seda sobre hueso. «Hacía siglos que no probaba sangre con tantos *años* por delante. Sentaos. La cena es larga… y vosotros, el último plato.»"*
@@ -145,6 +147,8 @@ El interior de la casa señorial: un comedor de mesa interminable puesta para un
 
 ### Gorath el Gigante Mordido — villano menor *(trágico, manipulable)*
 *Gigante grande (gigante de las colinas vampirizado), neutral (leal a Vorthak)* · **CR 6** (2.300 XP)
+
+![Gorath el Gigante Mordido](../assets/bestiario/villanos_menores/11_gorath-gigante-mordido.jpg)
 
 La **reserva de sangre personal** de Vorthak: un gigante torpe y de mente simple, cubierto de cicatrices de mordiscos — frescas y rojas unas, blancas y viejas otras. Colmillos desafilados de no usarse, ojos rojos pero apagados. No entiende del todo el mal que sirve; solo sabe que "el señor lo necesita" y que sin el señor está muy solo.
 

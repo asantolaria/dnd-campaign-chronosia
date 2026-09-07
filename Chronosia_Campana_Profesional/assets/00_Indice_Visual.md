@@ -10,7 +10,7 @@
 
 | Archivo | Zona | Documento |
 |---|---|---|
-| `mapas/00_mapa-general-chronosia.png` | Mapa general | [03_Regiones/08_Geografia…](../02_El_Semiplano.md) |
+| `mapas/00_mapa-general-chronosia.jpg` | Mapa general | [Cap. 2 · El Semiplano](../02_El_Semiplano.md) |
 | `mapas/01_espiral-inversa.png` | La Espiral Inversa | [Bestiario 01](./bestiario/) · región de Serapis |
 | `mapas/02_jardin-tiempos-gemelos.png` | Jardín de los Tiempos Gemelos | región de Medusa + Gemelas |
 | `mapas/03_glacialis.png` | Glacialis | región de Ymir |

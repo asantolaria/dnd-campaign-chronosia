@@ -32,7 +32,7 @@ Deja espacio limpio en la parte superior para el título y en la inferior para e
 
 ---
 
-## 2 · Mapa general de Chronosia
+## 2 · Mapa general de Chronosia — ✅ **regenerado** (`00_mapa-general-chronosia.jpg`, nombres canónicos)
 
 > **Numeración canónica:** coincide con los 10 mapas regionales (§3) y los archivos `assets/mapas/01..10`. Úsala siempre. (El PNG antiguo del mapa general traía nombres obsoletos — «Colinas Remolino», «Ciudad de Hielo»…; este prompt lo corrige.)
 
@@ -747,7 +747,7 @@ Battlemap en VISTA EN PLANTA (plano de suelo arquitectónico visto desde arriba)
 Escenario: la cima abierta de una torre arcana, una plataforma circular expuesta a un cosmos roto. En el centro, un GRAN CÍRCULO RITUAL ZODIACAL grabado en el suelo con una esfera de luz flotante que es a la vez un sol diminuto y una estrella negra. A izquierda y derecha, DOS PILARES colosales con grilletes y cadenas: unas cadenas gotean luz dorada, las otras sombra violeta, y ambas convergen en el centro. Escalera de llegada al sur. Bordes de la plataforma rotos hacia el vacío estrellado. Sin criaturas.
 ```
 
-### 11.3 · Battlemap — La Mansión de la Sed Eterna *(interior por salas)* — ⏳ **PENDIENTE**
+### 11.3 · Battlemap — La Mansión de la Sed Eterna *(interior por salas)* — ✅ **generado**: `assets/mapas/battlemap-mansion-sed-eterna.jpg`
 ```
 Battlemap en VISTA EN PLANTA (plano de suelo arquitectónico visto desde arriba) para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), estilo pintado a mano de mapa de encuentro profesional, planta arquitectónica gótica, iluminación de candelabros, sin texto ni marcas de agua, proporción 4:3.
 Escenario: planta noble de una mansión vampírica: un GRAN COMEDOR central con una mesa interminable servida para un banquete eterno (copas llenas, platos antiguos) y un trono de respaldo alto en la cabecera; alrededor, galería de retratos, escalinata doble, biblioteca, capilla profanada y acceso a una cripta-salón. Espejos de cuerpo entero en los pasillos, relojes de pie por todas partes, rosales secos en jardineras interiores. Sin criaturas.
@@ -759,19 +759,19 @@ Battlemap en VISTA EN PLANTA (plano de suelo arquitectónico visto desde arriba)
 Escenario en dos partes conectadas por una escalera: ARRIBA, una galería subterránea estrecha forrada de espejos de todos los tamaños a ambos lados (algunos vacíos, sin reflejo), con una puerta de doble cerradura al fondo, baldosas alternas marcadas y dos palancas enfrentadas a ambos lados de un espejo grande. ABAJO, la orilla de un ESTANQUE NEGRO perfectamente liso como obsidiana pulida que refleja un cielo sin estrellas, rodeado de hierba viva en una mitad y escarcha en la otra. Sin criaturas.
 ```
 
-### 11.5 · Gorath el Gigante Mordido *(villano menor trágico · CR 6 · Mansión)* — ⏳ **PENDIENTE**
+### 11.5 · Gorath el Gigante Mordido *(villano menor trágico · CR 6 · Mansión)* — ✅ **generado**: `assets/bestiario/villanos_menores/11_gorath-gigante-mordido.jpg`
 ```
 Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico gótico brumoso, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
 Sujeto: Gorath el Gigante Mordido, un gigante de las colinas vampirizado de 12 pies, corpulento pero desnutrido, la piel pálida grisácea CUBIERTA DE CICATRICES DE MORDISCOS (frescas y rojas unas, blancas y viejas otras, superpuestas en cuello y brazos). Colmillos desafilados, ojos rojos pero apagados y tristes, expresión confundida y mansa — un ser trágico, no amenazante: la reserva de sangre de su amo. Ropa noble vieja que le queda pequeña. Cuerpo entero, proporción 3:4.
 ```
 
-### 11.6 · Tholassa de la Corriente Honda *(aliada oceánica · emisaria de la Reina Nereia)* — ⏳ **PENDIENTE**
+### 11.6 · Tholassa de la Corriente Honda *(aliada oceánica · emisaria de la Reina Nereia)* — ✅ **generado**: `assets/bestiario/npcs/tholassa-de-la-corriente-honda.jpg`
 ```
 Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica submarina, color rico, alto detalle, fondo pictórico de arrecife en penumbra, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
 Sujeto: Tholassa de la Corriente Honda, una oceánica noble y solemne del pueblo de las profundidades: humanoide acuática de piel nacarada iridiscente, OJOS LUMINOSOS SIN PÁRPADOS, aletas elegantes en antebrazos y sienes, vestiduras de coral y seda de anémona con una insignia real. Porte de embajadora en luto: digna, antigua, con una ira fría contenida. Empuña un bastón-tridente de coral. Cuerpo entero, proporción 3:4.
 ```
 
-### 11.7 · Prop — el pergamino de la profecía de Varrak *(opcional)* — ⏳ **PENDIENTE (opcional)**
+### 11.7 · Prop — el pergamino de la profecía de Varrak *(opcional)* — ✅ **generado**: `assets/handouts/prop-profecia-de-varrak.jpg`
 ```
 Fotografía cenital realista de un PROP de rol: un pergamino envejecido y manchado de círculos de taza de té, escrito a mano en tinta sepia con siete estrofas en caligrafía cuidada de escriba, sobre una mesa de madera oscura junto a una taza de té humeante. La TERCERA estrofa está QUEMADA: un agujero de bordes carbonizados se come el texto. Sin texto legible necesario (puede ser pseudoescritura); luz cálida de vela, proporción 3:4, sin marcas de agua.
 ```

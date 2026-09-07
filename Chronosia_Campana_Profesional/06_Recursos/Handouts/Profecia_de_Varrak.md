@@ -7,6 +7,8 @@
 
 ## 📄 PARTE DEL JUGADOR *(léase o entréguese impresa)*
 
+![Prop — el pergamino de Varrak con la estrofa quemada](../../assets/handouts/prop-profecia-de-varrak.jpg)
+
 *La letra es cuidadosa, de escriba paciente; al pie de cada estrofa hay una mancha circular de taza de té. La última línea de la estrofa III se deshace en trazos rotos.*
 
 ---

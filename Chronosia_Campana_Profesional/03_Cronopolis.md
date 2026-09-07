@@ -1,6 +1,6 @@
 # Capítulo 3 — Cronópolis, el último refugio
 
-![Mapa de Cronópolis](assets/mapas/11_cronopolis.png)
+![Mapa de Cronópolis](assets/mapas/11_cronopolis.jpg)
 
 > **Zona segura** · **Nivel:** cualquiera (3-10) · **Protegida por el Cronómetro de Realidades** · **Función:** el HUB de la campaña — el hogar al que los PJ vuelven entre regiones a descansar, comprar, oír rumores, leer el Contador del Ritual y tejer la diplomacia que conduce a la **media llave chroniana**.
 
