@@ -40,8 +40,9 @@ Estos lugartenientes tienen acceso directo a otros planos y traen criaturas de e
 El resto de los lugartenientes **entrenan y otorgan poderes** directamente a sus soldados. Cada lugarteniente infunde fragmentos de su poder temporal o dimensional en sus seguidores, creando soldados únicos con habilidades específicas de su región.
 
 **Lugartenientes que Crean Soldados:**
-- **Temporales**: Serapis, Varrak, Vorthak, Las Gemelas, Tempus, Ymir, Medusa
-- **Dimensionales**: Edward Teach, Dimensionalis, Las Gemelas (también pueden tener soldados dimensionales)
+- **Temporales**: Serapis, Varrak, Vorthak (drena vida), Las Gemelas, Tempus, Medusa
+- **Dimensionales**: Ymir, Dimensionalis, Yrindra, Ignis
+- **Aparte**: Edward Teach (híbrido de poder robado; sus soldados mezclan estasis y portales)
 
 ---
 
@@ -260,28 +261,6 @@ Los soldados dimensionales reciben fragmentos del poder espacial de su lugarteni
 
 ---
 
-#### **🪞 Soldados de Las Gemelas del Espejo - "Los Reflejados" (Versión Dimensional)**
-
-**Poder Otorgado:** Dimensiones Espejo
-
-**Habilidades Únicas:**
-- **Reflejos Dimensionales**: Pueden crear reflejos de sí mismos en dimensiones espejo (ataques adicionales desde reflejos)
-- **Intercambio Dimensional**: Pueden intercambiarse con sus reflejos (teletransporte, 1/día)
-- **Ataques desde Espejos**: Pueden atacar desde dimensiones espejo
-- **Disfunción**: Sus cuerpos muestran reflejos de sí mismos en diferentes dimensiones
-
-**Apariencia:**
-- Soldados que aparecen con reflejos dimensionales
-- Uniformes que reflejan dimensiones alternativas
-- Movimientos que se reflejan en múltiples dimensiones
-- Ojos que muestran múltiples realidades
-
-**Tácticas:**
-- Ataques coordinados desde dimensiones espejo
-- Formaciones que se reflejan en múltiples dimensiones
-- Defensas que usan reflejos para confundir
-
----
 
 ## 📊 **SOLDADOS POR REGIÓN**
 
@@ -294,16 +273,15 @@ Los soldados dimensionales reciben fragmentos del poder espacial de su lugarteni
 | **Vorthak** | Los Drenados | Drenaje Temporal | Drenaje de Vida |
 | **Las Gemelas** | Los Gemelos | Flujo Bidireccional | Aceleración/Reversión |
 | **Tempus** | Los Fragmentados | Fragmentación Temporal | Existencia en Múltiples Momentos |
-| **Ymir** | Los Congelados | Estasis Temporal | Congelación Parcial |
 | **Medusa** | Los Petrificados | Estasis Temporal | Petrificación Temporal |
 
 ### **🌌 Regiones Dimensionales**
 
 | **Lugarteniente** | **Nombre de los Soldados** | **Poder Otorgado** | **Habilidad Única Principal** |
 |-------------------|---------------------------|-------------------|------------------------------|
-| **Edward Teach** | Los Estancados | Estasis + Espacial | Estasis Parcial + Portales |
+| **Ymir** | Los Congelados | Umbrales Helados | Congelación Parcial + Portales |
+| **Edward Teach** *(híbrido)* | Los Estancados | Estasis + Espacial | Estasis Parcial + Portales |
 | **Dimensionalis** | Los Fracturados | Fracturación Dimensional | Existencia Fracturada |
-| **Las Gemelas** | Los Reflejados | Dimensiones Espejo | Reflejos Dimensionales |
 | **Yrindra** | **Invocados de Menzoberranzan** | **N/A (Criaturas Planares)** | **Guerreros Drow, Sacerdotisas, Demonios** |
 | **Ignis** | **Invocados del Plano de Fuego** | **N/A (Criaturas Planares)** | **Dragones Rojos, Elementales de Fuego** |
 

@@ -17,7 +17,7 @@
 
 ### **Cronófagos vs. La Resistencia**
 - **Naturaleza del Conflicto**: Los Cronófagos representan el abuso de la magia temporal y espacial; La Resistencia, la respuesta pragmática y brutal de quienes quieren preservar el flujo natural
-- **Tácticas**: Los La Resistencia usan tecnología anti-magia para combatir a los Cronófagos
+- **Tácticas**: La Resistencia usa tecnología anti-magia para combatir a los Cronófagos
 - **Resultado**: Guerra constante entre ambas facciones
 
 ### **Bregan D'aerthe vs. Todos**
@@ -99,7 +99,7 @@ El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de 
 - El chamán Harlim puede ser el único que recuerde algo crucial que ya no existe para nadie más
 - Una traición interna: ¿qué pasa si uno de los Anacronistas decide vender su secreto a los Cronófagos a cambio de poder?
 
-### **Los La Resistencia**
+### **La Resistencia**
 - Algunos miembros podrían tener agendas ocultas más allá de cazar magos
 - Podrían estar siendo manipulados por fuerzas externas
 - Una facción interna podría querer usar la tecnología para controlar el tiempo en lugar de solo cazarlo

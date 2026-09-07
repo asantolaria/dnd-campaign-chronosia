@@ -5,60 +5,30 @@
 
 ## 📋 **ÍNDICE DE NAVEGACIÓN**
 
-### **🌌 Eventos Aleatorios**
-- [Eventos Temporales y Espaciales Aleatorios](#-eventos-temporales-y-espaciales-aleatorios)
-- [Tabla Principal de Paradojas Menores (1d12)](#-tabla-principal-de-paradojas-menores-1d12)
-- [Eventos Espaciales Aleatorios](#-eventos-espaciales-aleatorios)
-- [Tabla de Distorsiones Espaciales (1d12)](#-tabla-de-distorsiones-espaciales-1d12)
-
-### **⏳ El Reloj del Ritual**
-- [Qué mueve el Reloj](#-qué-mueve-el-reloj-del-ritual)
-
-### **🌊 Los Gritos de los Dioses**
-- [Los Gritos de los Dioses en Conflicto](#-los-gritos-de-los-dioses-en-conflicto)
-- [Tabla de Gritos de Amaunator y Voidar (1d10)](#-tabla-de-gritos-de-amaunator-y-voidar-1d10)
-
-### **🎭 Eventos Narrativos Especiales**
-- [Encuentros con Personajes Importantes](#-encuentros-con-personajes-importantes)
-  - [Elminster](#-elminster)
-  - [Volo](#-volo)
-  - [Jarlaxle](#-jarlaxle)
-  - [Manshoon](#-manshoon)
-
-### **🔮 Eventos de Transición**
-- [Entre Regiones](#-entre-regiones)
-- [Cambios de Poder](#-cambios-de-poder)
-
-### **🎲 Uso de las Tablas**
-- [Cuándo Usar las Tablas](#-cuándo-usar-las-tablas)
-- [Adaptación a la Situación](#-adaptación-a-la-situación)
-- [Consecuencias Narrativas](#-consecuencias-narrativas)
-
-### **🌟 Eventos Épicos**
-- [Eventos de Clímax](#-eventos-de-clímax)
-- [Eventos de Resolución](#-eventos-de-resolución)
-
-### **🎯 Consejos para el DM**
-- [Uso Efectivo](#-uso-efectivo)
-- [Adaptación](#-adaptación)
-- [Narrativa](#-narrativa)
+- [Tabla Principal de Paradojas Menores (1d12)](#tabla-principal-de-paradojas-menores-1d12)
+- [Tabla de Distorsiones Espaciales (1d12)](#tabla-de-distorsiones-espaciales-1d12)
+- [Tabla de Gritos de Amaunator y Voidar (1d10)](#tabla-de-gritos-de-amaunator-y-voidar-1d10)
+- [Cambios de poder (guía narrativa)](#-cambios-de-poder-guía-narrativa)
+- [Cómo usar estas tablas](#-cómo-usar-estas-tablas)
+- [El Reloj del Ritual](#-el-reloj-del-ritual-fuente-única)
+- [Tormentas del Ritual (1d10, opcional)](#-tormentas-del-ritual-tabla-opcional-1d10)
 
 ---
 
 ## 🌌 **Eventos Temporales y Espaciales Aleatorios**
 
-Estos eventos pueden activarse al azar mientras los personajes viajan por Chronosia, especialmente en zonas aún bajo el control de un lugarteniente. Puedes hacer una tirada de 1d12 cuando quieras introducir un giro temporal o espacial.
+Estos eventos pueden activarse al azar mientras los personajes viajan por Chronosia, especialmente en zonas aún bajo el control de un lugarteniente. Puedes hacer una tirada de 1d12 cuando quieras introducir un giro temporal o espacial. *(Para detalles de pura atmósfera sin mecánica, usa la tabla 1d10 de paradojas ambientales de [Cómo Dirigir](../../01_Como_Dirigir.md).)*
 
 ### **Tabla Principal de Paradojas Menores (1d12)**
 
 | d12 | Evento Temporal/Espacial Aleatorio |
 |-----|-----------------------------------|
-| 1 | **Efecto Mariposa**: Una mariposa de alas de plata vuela entre los PJ. Al aplastarla accidentalmente, cambia el color del cielo y la memoria de un PNJ clave. |
+| 1 | **Efecto Mariposa**: Una mariposa de alas de plata vuela entre los PJ. Al aplastarla accidentalmente, cambia el color del cielo y **un PNJ clave olvida su último encuentro con los PJ** (deben re-ganarse su confianza o refrescarle la memoria con pruebas). |
 | 2 | **Reversión Espontánea**: Una criatura herida regresa a su estado previo al combate durante 1d4 turnos. Si había muerto, revive brevemente. |
 | 3 | **Reflejo del Futuro**: Cada PJ ve una escena breve de un posible futuro: una traición, una victoria, una muerte... Nadie puede asegurarse de que sea real. |
 | 4 | **Diluvio de Edades**: Una lluvia cae. Cada gota rejuvenece o envejece aleatoriamente 1 año cualquier cosa que toque. |
 | 5 | **Día que se Repite**: Un ciclo de tiempo menor se reinicia en la región. El grupo repite los últimos 10 minutos, pero mantienen la conciencia del bucle. |
-| 6 | **Desfase Personal**: Un PJ comienza a experimentar los efectos del tiempo con 3 segundos de retraso: ataques, reacciones, percepciones. Dura 1d6 rondas. |
+| 6 | **Desfase Personal**: Un PJ comienza a experimentar los efectos del tiempo con 3 segundos de retraso: ataques, reacciones, percepciones. Dura 1d6 rondas (desventaja en tiradas de ataque y de Destreza). |
 | 7 | **Reloj Viviente**: Un reloj aparece incrustado en el pecho de un personaje. El jugador debe declarar todas sus acciones con antelación o quedará paralizado. |
 | 8 | **Ecos del Pasado**: Un evento traumático del pasado de un PJ se manifiesta físicamente y debe enfrentarse (combate, diálogo, prueba moral). |
 | 9 | **Marcha Invertida**: Los enemigos comienzan a actuar en orden inverso. Las acciones que realizarán se revelan antes de que ocurran. |
@@ -84,8 +54,8 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 | 8 | **Compresión de Objetos**: Un objeto se comprime a la mitad de su tamaño pero mantiene su masa original. |
 | 9 | **Eco Dimensional**: Los sonidos se escuchan desde múltiples direcciones simultáneamente. |
 | 10 | **Inversión de Proporciones**: Un PJ se vuelve gigante o diminuto temporalmente. |
-| 11 | **Portal de Vacío**: Un portal al vacío se abre, succionando objetos hacia la nada. |
-| 12 | **Fusión Dimensional**: Dos ubicaciones se superponen, permitiendo ver ambas simultáneamente. |
+| 11 | **Portal de Vacío**: Un portal al vacío se abre, succionando objetos hacia la nada (los PJ pueden agarrarse: tirada de Fuerza CD 13). |
+| 12 | **Fusión Dimensional**: Dos ubicaciones cercanas se superponen durante 10 minutos: los PJ ven y pueden cruzar entre ambas (usa la ubicación superpuesta como atajo, revelación o emboscada). |
 
 ---
 
@@ -95,7 +65,7 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 
 | d10 | Grito de los Dioses |
 |----|-------------------|
-| 1 | **Grito de Agonía**: Todos los PJ sufren 2d6 daño psíquico y deben hacer una tirada de salvación de Sabiduría (CD 18) o quedar aturdidos por 1 minuto. |
+| 1 | **Grito de Agonía**: Todos los PJ sufren 2d6 daño psíquico y deben hacer una tirada de salvación de Sabiduría (CD 18) o quedar aturdidos por 1 minuto (repiten la salvación al final de cada turno). |
 | 2 | **Grito de Desesperación**: Un bucle temporal se activa en un radio de 1 milla. Todos los eventos se repiten exactamente igual por 1d4 horas. |
 | 3 | **Grito de Ira**: Una tormenta temporal y espacial se desata, causando efectos aleatorios de las tablas principales cada 10 minutos. |
 | 4 | **Grito de Pena**: Todos los PJ sienten una tristeza abrumadora y deben hacer una tirada de salvación de Carisma (CD 16) o sufrir desventaja en todas las tiradas por 1 hora. |
@@ -108,136 +78,32 @@ Estos eventos pueden activarse al azar mientras los personajes viajan por Chrono
 
 ---
 
-## 🎭 **Eventos Narrativos Especiales**
+## 🔮 **Cambios de poder (guía narrativa)**
 
-### **Encuentros con Personajes Importantes**
+Qué contar cuando el tablero se mueve sin los PJ:
 
-#### **Elminster**
-- **Aparición**: Se materializa en medio de una batalla temporal
-- **Acción**: Lanza un hechizo poderoso que estabiliza temporalmente la zona
-- **Desaparición**: Se pierde en un portal temporal, dejando pistas tras él
-- **Pistas**: Fragmentos de pergaminos con información crucial
-
-#### **Volo**
-- **Aparición**: Aparece esporádicamente con información importante
-- **Acción**: Siempre es descartado por los poderosos pero revela información crucial
-- **Desaparición**: Se va cuando los PJ más lo necesitan
-- **Pistas**: Notas y dibujos que contienen información valiosa
-
-#### **Jarlaxle**
-- **Aparición**: Tiene infiltrados en los Cronófagos
-- **Acción**: Puede ser sobornado para facilitar la derrota de enemigos
-- **Desaparición**: Se marcha cuando ya no es útil
-- **Pistas**: Información sobre las debilidades de los enemigos
-
-#### **Manshoon**
-- **Aparición**: Uno de sus clones podría ser un lugarteniente disfrazado
-- **Acción**: Podría traicionar a Aethernus por sus propios fines
-- **Desaparición**: Se escapa cuando se revela su verdadera identidad
-- **Pistas**: Información sobre los planes de Aethernus
+- **Estabilización**: Al caer un lugarteniente, su región se restaura gradualmente (su "Efecto al Morir") — salvo que Teach interceptara el poder, en cuyo caso la región **sigue rota** (firma de que Barbanegra la robó).
+- **Fractura**: Nuevas distorsiones aparecen donde el ritual de Aethernus avanza sin oposición.
+- **Convergencia**: Múltiples efectos temporales se combinan en una zona disputada por la guerra de lugartenientes.
 
 ---
 
-## 🔮 **Eventos de Transición**
+## 🎲 **Cómo usar estas tablas**
 
-### **Entre Regiones**
-- **Portal Temporal**: Un portal que permite viajar entre regiones
-- **Guía Temporal**: Un NPC que ayuda a navegar entre las distorsiones
-- **Ancla Temporal**: Un objeto que estabiliza el flujo temporal
-- **Nodo de Poder**: Un lugar donde se puede acceder a la Cámara del Tiempo
-
-### **Cambios de Poder**
-- **Debilitamiento**: Los efectos temporales se intensifican cuando un lugarteniente es derrotado
-- **Estabilización**: Al caer un lugarteniente, su región se restaura gradualmente (su "Efecto al Morir") — salvo que Teach interceptara el poder, en cuyo caso la región **sigue rota** (firma de que Barbanegra la robó)
-- **Fractura**: Nuevas distorsiones aparecen donde el ritual de Aethernus avanza sin oposición
-- **Convergencia**: Múltiples efectos temporales se combinan en una zona
+- **Cuándo:** al entrar en una región nueva, en viajes largos, o cuando la mesa necesita un giro. Cada 2-3 sesiones basta; no uses demasiados eventos seguidos — tensión, no frustración.
+- **Escala la dureza al nivel:** en niveles 3-5, reduce las CD listadas en 2 y el daño a la mitad; en niveles 8-10, úsalas tal cual. Las CD de las tablas están calibradas para el tramo medio-alto.
+- **Consecuencias:** cada evento debe dejar huella (una pista, una relación, un recurso gastado). Los efectos temporales deben ser consistentes con la región donde ocurren.
+- **Coste de oportunidad:** recuerda que explorar a fondo hace avanzar el Reloj del Ritual — los PJ no pueden con todo, y eso es el corazón de la campaña.
 
 ---
 
-## 🎲 **Uso de las Tablas**
+## ⏳ **El Reloj del Ritual (fuente única)**
 
-### **Cuándo Usar las Tablas**
-- Al entrar en una nueva región
-- Durante viajes largos
-- En momentos de tensión narrativa
-- Cuando los PJ necesitan un giro inesperado
-- Para mantener la atmósfera temporal
-
-### **Adaptación a la Situación**
-- Modifica los eventos según el contexto
-- Ajusta las dificultades según el nivel de los PJ
-- Usa los eventos para avanzar la trama
-- Permite que los PJ encuentren formas creativas de usar los efectos
-
-### **Consecuencias Narrativas**
-- Cada evento debe tener implicaciones para la historia
-- Los efectos temporales deben ser consistentes
-- Usa los eventos para desarrollar personajes
-- Permite que los PJ aprendan sobre el mundo temporal
-
----
-
-## 🌟 **Eventos Épicos**
-
-### **Eventos de Clímax**
-- **Convergencia Temporal y Espacial**: Todos los efectos temporales y espaciales se combinan
-- **Liberación Parcial**: Un fragmento de Amaunator o Voidar se libera
-- **Colapso de Realidad**: El semiplano comienza a desmoronarse
-- **Ascensión de Aethernus**: El villano alcanza su forma final
-- **Batalla Divina**: Los ecos de la batalla entre Amaunator y Voidar se intensifican
-
-### **Eventos de Resolución**
-- **Restauración del Tiempo y el Espacio**: El flujo temporal y espacial se normaliza
-- **Liberación de los Dioses**: Amaunator y Voidar son liberados de su conflicto
-- **Destrucción del Tiempo**: El tiempo se congela eternamente
-- **Destrucción del Espacio**: El espacio se colapsa en un punto
-- **Nuevo Equilibrio**: Se establece un nuevo orden temporal y espacial
-
----
-
-## 🎯 **Consejos para el DM**
-
-### **Uso Efectivo**
-- No uses demasiados eventos seguidos
-- Permite que los PJ se adapten a los efectos
-- Usa los eventos para crear tensión, no frustración
-- Mantén la coherencia interna del mundo
-- **Variedad**: Alterna entre eventos temporales y espaciales para mantener la atmósfera viva
-
-### **Adaptación**
-- Ajusta las dificultades según el nivel del grupo
-- Modifica los eventos según las preferencias de los jugadores
-- Usa los eventos para explorar los trasfondos de los PJ
-- Permite que los PJ encuentren formas creativas de resolver los problemas
-- **Efectos Combinados**: Algunos eventos pueden combinar elementos temporales y espaciales
-
-### **Narrativa**
-- Cada evento debe servir a la historia
-- Usa los eventos para desarrollar personajes
-- Permite que los PJ aprendan sobre el mundo
-- Mantén la atmósfera temporal y espacial consistente
-- **Coste de oportunidad**: Recuerda que cada región explorada hace avanzar el Reloj del Ritual — los PJ no pueden con todo, y eso es el corazón de la campaña
-
----
-
-## ⏳ **QUÉ MUEVE EL RELOJ DEL RITUAL**
-
-> **Recordatorio:** la única cuenta de presión de Chronosia es el **Reloj del Ritual** (8 segmentos, empieza en 2/8). No hay "balance" temporal/dimensional. Fuente única: [01_Como_Dirigir.md](../../01_Como_Dirigir.md).
-
-### **📊 Tracking de segmentos**
-
-| **Movimiento** | **Causa** |
-|----------------|-----------|
-| ⬆️ **+1** | Explorar una región a fondo (≈+1 por arco) |
-| ⬆️ **+1 / salto** | Hito de Teach (el asesinato de Thyra da un **salto**) · desatender a Teach (absorbe a otro lugarteniente y crece) |
-| ⏸️ **Se estanca** | Derrotar a un lugarteniente CRÍTICO (Vorthak, Ignis o Teach → corta un canal divino): el siguiente avance no cuenta |
-| ⏸️ **Congela 1** | Misión de sabotaje de los Anacronistas |
-| ⬇️ **−1** | Sacrificio de Varrak (con el reloj en zona crítica ≥6/8) |
-| 🔔 **8/8** | **Llamada de los Dioses** → se abre la Torre → Fase 4 (clímax) |
+> La mecánica completa del Reloj —qué lo sube, qué lo estanca, el −1 de Varrak y qué significa 8/8 (**la ascensión se consuma: derrota, Final D — la Torre NO se abre con el Reloj**)— vive en un solo sitio: **[Cómo Dirigir](../../01_Como_Dirigir.md)**. No la dupliques aquí; esta página solo aporta el sabor de la zona crítica.
 
 ### **🎲 Tormentas del Ritual (tabla opcional, 1d10)**
 
-A medida que el reloj se acerca a 8, el semiplano se vuelve más inestable. **Opcional:** cuando el Reloj entra en zona crítica (≥6/8), el DM puede lanzar 1 efecto al inicio de sesión para transmitir que el ritual aprieta. No es un segundo libro de cuentas: es sabor de urgencia.
+A medida que el Reloj se acerca a 8, el semiplano se vuelve más inestable. **Opcional:** cuando el Reloj entra en zona crítica (≥6/8), el DM puede lanzar 1 efecto al inicio de sesión para transmitir que el ritual aprieta. No es un segundo libro de cuentas: es sabor de urgencia.
 
 | d10 | Tormenta del Ritual | Duración | Tipo |
 |-----|----------------------|----------|------|
@@ -271,4 +137,4 @@ A medida que el reloj se acerca a 8, el semiplano se vuelve más inestable. **Op
 
 ---
 
-*Sistema de presión: Reloj del Ritual (8 segmentos). Las tormentas son sabor opcional de la zona crítica, no una mecánica de balance.*
+*Sistema de presión: Reloj del Ritual (8 segmentos, mecánica en el Cap. 1). Las tormentas son sabor opcional de la zona crítica, no una mecánica de balance.*

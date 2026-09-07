@@ -92,7 +92,7 @@ Tras el asesinato de Thyra la Suspendida por Edward Teach, los artefactos más s
 Junto con los **Anacronistas** (que aportan la lectura del ritual) y con los sensores de **Din Goldgear**, La Resistencia construye el **Contador del Ritual**: un marcador de 8 segmentos que mide la ascensión de Aethernus. El dispositivo no se queda en el taller: se instala un **monitor central** en Cronópolis (atrio de la Fortaleza de Acero) de modo que **la ciudad pueda ver cuánto le queda al ritual** desde un punto visible. Así, el estado de la cuenta atrás deja de depender solo de explicadores puntuales: al volver a la ciudad, los PJ y la ciudadanía ven el Contador.
 
 El Contador puede:
-- **Mostrar cuántos segmentos** le quedan al ritual antes de la Llamada de los Dioses
+- **Mostrar cuántos segmentos** le quedan al ritual antes de que la ascensión se consume (8/8 = Final D)
 - **Detectar los "hipos"** del flujo de poder divino cuando un lugarteniente cae (parpadeo / retroceso de medio segmento), aunque no fueran los PJ quienes lo mataron
 - **Servir de pista de investigación**: un hipo que los PJ no provocaron + una región que sigue rota = alguien (Teach) está cazando lugartenientes
 - **Avisar** cuando la cuenta atrás entra en zona crítica

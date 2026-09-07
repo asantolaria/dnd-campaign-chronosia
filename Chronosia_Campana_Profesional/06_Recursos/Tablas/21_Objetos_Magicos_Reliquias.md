@@ -268,7 +268,7 @@ Cuando se combina con el Cronómetro de Realidades, crea el Talismán de Interce
 **Ubicación:** Cronópolis (Taller de los Ingenieros o Santuario de los Anacronistas)  
 **Estado Actual:** ✅ Creado y activo desde Fase 1-2
 
-> **Reloj del Ritual:** este artefacto **ES** el Reloj del Ritual — un marcador de **8 segmentos** (0→8) que mide la ascensión de Aethernus. NO mide un % ni un "balance". Empieza ya avanzado en **2/8** y a **8/8** se produce la Llamada de los Dioses y se abre la Torre. Fuente única: [01_Como_Dirigir.md](../../01_Como_Dirigir.md).
+> **Reloj del Ritual:** este artefacto **ES** el Reloj del Ritual — un marcador de **8 segmentos** (0→8) que mide la ascensión de Aethernus. NO mide un % ni un "balance". Empieza ya avanzado en **2/8** y a **8/8 la ascensión se consuma (derrota, Final D)** — la Torre se abre con la llave chroniana, no con el Reloj. Fuente única: [01_Como_Dirigir.md](../../01_Como_Dirigir.md).
 
 #### **📍 Ubicación y Obtención:**
 
@@ -310,7 +310,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 **Indicador de Urgencia (Pasivo):**
 - **2-5/8:** Segmentos se encienden poco a poco, luz normal
 - **6-7/8 (zona crítica):** Luz roja de advertencia, el ritual aprieta
-- **8/8:** **Llamada de los Dioses** — se abre la Torre de la Eternidad (Fase 4)
+- **8/8:** **la ascensión se consuma** — derrota (Final D); la Torre solo se abre con la llave chroniana
 
 **El "hipo" del Contador (Pasivo):**
 - Toda muerte de lugarteniente corta un canal de poder divino y el Contador lo acusa con un parpadeo / retroceso de medio segmento
@@ -328,7 +328,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 | 2/8 | Estado inicial | Dos segmentos encendidos |
 | 3-5/8 | Avanzando | Segmentos se encienden poco a poco |
 | 6-7/8 | ⚠️ Zona crítica | Luz roja de advertencia; pueden lanzarse Tormentas del Ritual |
-| 8/8 | **Llamada de los Dioses** | Se abre la Torre de la Eternidad (Fase 4) |
+| 8/8 | **Ascensión consumada** | Derrota — Final D (la Torre se abre con la llave chroniana, no con el Reloj) |
 
 > El avance lo rige [Cómo Dirigir](../../01_Como_Dirigir.md): +1 por arco de región, salto con el asesinato de Thyra, se estanca al caer un crítico, −1 con el sacrificio de Varrak.
 
@@ -805,16 +805,16 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 |-------------------|----------|------------|------------|-----------|
 | **Serapis el Retroceso** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
 | **Varrak del Horizonte** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
-| **Vorthak el Devorador** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Lord Vorthak "el Sediento Eterno"** | Temporal (drena vida) | Activo | Anillo Temporal | Puede ser obtenido |
 | **Las Gemelas del Espejo** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
-| **Tempus el Inmutable** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
-| **Ymir el Eterno Invierno** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Tempus el Fragmentado** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Ymir el Eterno Invierno** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Thyra la Suspendida** | Temporal | ⚠️ Muerta | ❌ Desaparecido | Asesinada por Teach |
 | **Dimensionalis la Fracturada** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Ignis el Devorador Espacial** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Matrona Yrindra** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
-| **Edward Teach "Barbanegra"** | Dimensional | ⚠️ Derrotado | Anillo Robado | Preservado con Talismán |
-| **Medusa la Paralizante** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
+| **Edward Teach "Barbanegra"** | Híbrido (poder robado) | Activo (crítico) | Anillo Robado | + los anillos de los que absorba |
+| **Medusa la Eterna** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
 
 **⚠️ NOTA:** El estado de los lugartenientes es **dinámico** y depende de las decisiones de los PJ durante la campaña. A los lugartenientes que los PJ no alcancen, **Edward Teach puede cazarlos y absorberlos** con su Talismán (crece cuanto más absorba antes que los PJ); sus anillos quedan entonces fuera del alcance del grupo.
 
@@ -1146,7 +1146,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 ---
 
-## ⚙️ **INVENTOS DE LOS INGENIEROS (RELOJEROS NEGROS)**
+## ⚙️ **INVENTOS DE LOS INGENIEROS (LA RESISTENCIA)**
 
 > **📍 Ubicación y Obtención General:**
 > - **Ubicación:** Cronópolis (Taller de La Resistencia)
@@ -1162,7 +1162,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 8,000 po en el Taller de La Resistencia
-- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones importantes
+- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones importantes
 - **Requisito:** Buena relación con Balthar Herrumbra o Din Goldgear
 - **Munición:** Los proyectiles anti-magia deben comprarse por separado (1 po cada uno)
 
@@ -1183,7 +1183,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 1,500 po en el Taller de La Resistencia
-- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones menores
+- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones menores
 - **Requisito:** Buena relación con Lucienne Rietveldt
 - **Nota:** Puede comprarse en lotes (10 granadas por 1,200 po)
 
@@ -1204,7 +1204,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 3,000 po en el Taller de La Resistencia
-- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones de protección
+- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones de protección
 - **Requisito:** Buena relación con La Resistencia
 
 **Tipo:** Escudo (Tecnología)  
@@ -1222,7 +1222,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 2,500 po en el Taller de La Resistencia
-- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones de infiltración
+- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones de infiltración
 - **Requisito:** Buena relación con Kaoros el Sordo
 
 **Tipo:** Trampa (Tecnología)  
@@ -1291,7 +1291,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 **📍 Cómo Obtenerlo:**
 - **Compra:** Los PJ pueden comprarlo por 2,000 po en el Taller de La Resistencia
-- **Recompensa por Misión:** Los La Resistencia lo ofrecen como recompensa por misiones de detección
+- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones de detección
 - **Requisito:** Buena relación con Kaoros el Sordo
 
 **Tipo:** Dispositivo (Tecnología)  
@@ -1310,7 +1310,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 #### **🔧 Monitor Público del Contador del Ritual (Balanza de Chronosia)**
 ![Balanza de Chronosia](../../assets/objetos_magicos/11_balanza-chronosia.jpg)
 
-> **Nota:** es la cara pública del **Contador del Ritual** (ver arriba). No mide ningún "balance" entre tipos de lugartenientes: muestra a la ciudad cuántos segmentos quedan hasta la **Llamada de los Dioses**.
+> **Nota:** es la cara pública del **Contador del Ritual** (ver arriba). No mide ningún "balance" entre tipos de lugartenientes: muestra a la ciudad cuántos segmentos quedan hasta que **la ascensión sea irreversible**.
 
 **📍 Cómo Obtenerlo:**
 - **Creación:** Din Goldgear y los Ingenieros/Artífices de Cronópolis lo construyen junto a los Anacronistas como pantalla pública conectada al Contador del Ritual
@@ -1325,12 +1325,12 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 **Creador:** Din Goldgear + Ingenieros/Artífices de Cronópolis + Anacronistas
 
 **Historia:**
-Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din Goldgear añade una **pantalla pública** conectada a él: lo instalan de forma que toda Cronópolis pueda **ver cuánto le queda al ritual de Aethernus**. Una réplica en un lugar céntrico (Plaza del Reloj o Fortaleza de Acero) permite a cualquiera que vuelva a la ciudad —incluidos los PJ— ver de un vistazo en qué segmento está el Reloj y si la Llamada de los Dioses está cerca.
+Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din Goldgear añade una **pantalla pública** conectada a él: lo instalan de forma que toda Cronópolis pueda **ver cuánto le queda al ritual de Aethernus**. Una réplica en un lugar céntrico (Plaza del Reloj o Fortaleza de Acero) permite a cualquiera que vuelva a la ciudad —incluidos los PJ— ver de un vistazo en qué segmento está el Reloj y cuánto falta para que la ascensión se consume (a 8/8 = Final D).
 
 **Propiedades:**
 - **Lectura del Reloj:** Muestra el segmento actual del Reloj del Ritual (X/8) y su tendencia
 - **Detección de Fluctuaciones:** Acusa el "hipo del Contador" cuando cae un lugarteniente (parpadeo / retroceso de medio segmento); si la caída no la provocaron los PJ, lo señala como anomalía a investigar
-- **Alertas de Estado:** Avisa cuando el Reloj entra en zona crítica (≥6/8) y cuando se acerca a 8/8 (Llamada de los Dioses inminente)
+- **Alertas de Estado:** Avisa cuando el Reloj entra en zona crítica (≥6/8) y cuando se acerca a 8/8 (ascensión inminente — Final D)
 - **Visualización:** Muestra los 8 segmentos de forma legible para la ciudad (luces, agujas o símbolos)
 - **Uso:** Requiere una acción para consultar el detalle en el dispositivo principal; el monitor público es visible con solo acercarse
 

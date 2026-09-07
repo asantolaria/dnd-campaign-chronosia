@@ -1,42 +1,35 @@
 # 🐉 Monstruos y Enemigos de Chronosia
 ## *Criaturas del Reino del Tiempo Fracturado*
 
+> **Dónde está cada cosa:** este apéndice recoge la **tropa genérica** (Cronófagos rasos, criaturas temporales/dimensionales comunes y las fuerzas de las facciones aliadas). Los **lugartenientes** tienen ficha completa en [Cronófagos Detallado](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md); los **villanos menores y bestias firma de cada región**, en el [Bestiario Regional](Bestiario_Regional/00_Indice_Bestiario_Regional.md). No se duplican aquí.
+>
+> **⚙️ Regla: daño temporal y espacial.** A efectos de resistencias e inmunidades genéricas, el **daño temporal** se trata como **necrótico** y el **daño espacial** como de **fuerza**, salvo que una ficha diga otra cosa. La "inmunidad a efectos de tiempo/espacio" cubre los efectos así etiquetados en las fichas de este manual (envejecer, rebobinar, teletransporte forzoso, estasis…).
+
 ---
 
 ## 📋 **ÍNDICE DE NAVEGACIÓN**
 
-### **⚔️ Enemigos Principales**
-- [Cronófagos](#-cronófagos)
-- [Lugartenientes](#-lugartenientes)
-- [Aethernus Valcarys](#-aethernus-valcarys)
+### **⚔️ Cronófagos (tropa)**
+- [Tropa Cronófaga](#-tropa-cronófaga-soldados-rasos)
+- [Sargentos Cronófagos](#-sargentos-cronófagos-suboficiales)
+- [Lanzadores de Conjuros Cronófagos](#-lanzadores-de-conjuros-cronófagos-apoyo-arcano)
+- [Oficiales Cronófagos](#-oficiales-cronófagos-comandantes)
 
-### **🌌 Criaturas Temporales**
-- [Guardianes Temporales](#-guardianes-temporales)
-- [Ecos del Pasado](#-ecos-del-pasado)
-- [Caballeros Congelados](#-caballeros-congelados)
-- [Constructos Invertidos](#-constructos-invertidos)
+### **👑 Lugartenientes**
+- [Referencia y Thyra (caída)](#-lugartenientes)
 
-### **🌌 Criaturas Dimensionales**
-- [Guardianes Dimensionales](#-guardianes-dimensionales)
-- [Criaturas Fracturadas](#-criaturas-fracturadas)
-- [Ecos Espaciales](#-ecos-espaciales)
-- [Criaturas Comprimidas](#-criaturas-comprimidas)
+### **🌌 Criaturas Temporales y Dimensionales**
+- [Guardianes Temporales](#guardianes-temporales) · [Ecos del Pasado](#ecos-del-pasado)
+- [Guardianes Dimensionales](#guardianes-dimensionales) · [Criaturas Fracturadas](#criaturas-fracturadas)
 
-### **⚙️ La Resistencia**
-- [Maestros Armeros](#-maestros-armeros)
-- [Ingenieros](#-ingenieros)
-- [Constructores](#-constructores)
-- [Guardianes Tecnológicos](#-guardianes-tecnológicos)
+### **⚙️ La Resistencia** *(aliados — statblocks por si el trato se tuerce o luchan al lado de los PJ)*
+- [Maestros Armeros](#maestros-armeros) · [Ingenieros](#ingenieros)
 
 ### **🌿 Anacronistas**
-- [Chamanes](#-chamanes)
-- [Guardianes del Tiempo](#-guardianes-del-tiempo)
-- [Protectores](#-protectores)
+- [Chamanes](#chamanes) · [Guardianes del Tiempo](#guardianes-del-tiempo)
 
 ### **🗡️ Bregan D'aerthe**
-- [Agentes Infiltrados](#-agentes-infiltrados)
-- [Operaciones Especiales](#-operaciones-especiales)
-- [Guardianes de Manshoon](#-guardianes-de-manshoon)
+- [Agentes Infiltrados](#agentes-infiltrados) · [Operaciones Especiales](#operaciones-especiales)
 
 ---
 
@@ -49,7 +42,7 @@
 ![Tropa Cronófaga](../assets/bestiario/tropas/1_cronofago-tropa.jpg)
 
 #### **Estadísticas Básicas**
-- **Nivel**: 3
+- **CR**: 2 (450 XP)
 - **AC**: 14 (Armadura de placas)
 - **PV**: 45 (6d8 + 18)
 - **Velocidad**: 30 pies
@@ -81,7 +74,7 @@
 ![Sargento Cronófago](../assets/bestiario/tropas/2_cronofago-sargento.jpg)
 
 #### **Estadísticas Básicas**
-- **Nivel**: 6
+- **CR**: 4 (1.100 XP)
 - **AC**: 16 (Armadura de placas + escudo)
 - **PV**: 78 (12d8 + 24)
 - **Velocidad**: 30 pies
@@ -115,7 +108,26 @@
 
 ![Cronófago lanzador de conjuros](../assets/bestiario/tropas/cronofago-lanzador-conjuros.jpg)
 
-Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espaciales menores a distancia (ralentizar, desplazar, fragmentar). Frágiles en cuerpo a cuerpo pero peligrosos en grupo; suelen acompañar a sargentos y oficiales. CR orientativo entre el de un sargento y un oficial.
+Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espaciales menores a distancia. Frágiles en cuerpo a cuerpo pero peligrosos en grupo; suelen acompañar a sargentos y oficiales.
+
+#### **Estadísticas Básicas**
+- **CR**: 5 (1.800 XP)
+- **AC**: 13 (Armadura de cuero + cristal de guarda)
+- **PV**: 66 (12d8 + 12)
+- **Velocidad**: 30 pies
+- **Fuerza**: 10 (+0), Destreza: 14 (+2), Constitución: 12 (+1), Inteligencia: 18 (+4), Sabiduría: 14 (+2), Carisma: 12 (+1)
+- **Salvaciones**: INT +7, SAB +5 · **Arcano** +7 · **Percepción** +5
+
+#### **Resistencias**
+- **Daño temporal y espacial**: Resistencia
+
+#### **Acciones**
+- **Descarga de Distorsión**: +7 al ataque, alcance 60 pies, un objetivo. Impacto: 14 (3d6 + 4) daño temporal o espacial (a elección al atacar)
+- **Ralentizar (recarga 5-6)**: CD 15, rango 30 pies, hasta 3 objetivos. Tirada de salvación de Sabiduría o el objetivo actúa como bajo *slow* hasta el final de su siguiente turno
+- **Desplazar (1/día)**: CD 15, rango 60 pies, un objetivo. Tirada de salvación de Carisma o es teletransportado hasta 30 pies a un punto que el lanzador vea
+
+#### **Características Especiales**
+- **Cristal de Guarda**: Mientras conserve su cristal (AC 12, 10 PV, en su bastón), impone desventaja al primer ataque que reciba cada ronda. Romper el cristal anula el rasgo
 
 ---
 
@@ -124,7 +136,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ![Oficial Cronófago](../assets/bestiario/tropas/3_cronofago-oficial.jpg)
 
 #### **Estadísticas Básicas**
-- **Nivel**: 9
+- **CR**: 7 (2.900 XP)
 - **AC**: 18 (Armadura de placas + escudo)
 - **PV**: 117 (18d8 + 36)
 - **Velocidad**: 30 pies
@@ -156,63 +168,13 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 
 ## 👑 **LUGARTENIENTES**
 
-**📖 Ver información completa de poderes y acciones legendarias:** [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
+**📖 Poderes, acciones legendarias y visión de conjunto:** [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 
-**📖 Statblocks completos de cada lugarteniente:** cada uno tiene su ficha en [04_Cronofagos_Detallado/](../02_Guia_DM/04_Cronofagos_Detallado/) (fichas `01`–`12`). Para los **villanos menores y bestias firma de cada región**, ver el [Bestiario Regional](Bestiario_Regional/00_Indice_Bestiario_Regional.md) — no se duplican aquí. Esta entrada se mantiene como referencia histórica de Thyra (caída).
+**📖 Statblocks completos:** cada lugarteniente tiene su ficha en [04_Cronofagos_Detallado/](../02_Guia_DM/04_Cronofagos_Detallado/) (fichas `01`–`12`). Para los **villanos menores y bestias firma de cada región**, ver el [Bestiario Regional](Bestiario_Regional/00_Indice_Bestiario_Regional.md).
 
----
+### **⚰️ Thyra la Suspendida (caída — solo referencia histórica)**
 
-### **⚰️ Thyra la Suspendida (Lugarteniente Temporal - CAÍDA)**
-
-**⚠️ ESTADO:** Thyra fue asesinada por Edward Teach (Sesión 5-6). Su poder ahora pertenece a Edward Teach "Barbanegra".
-
-#### **Estadísticas Básicas**
-- **Nivel**: 15
-- **AC**: 20 (Armadura de placas + escudo)
-- **PV**: 195 (26d8 + 78)
-- **Velocidad**: 30 pies
-- **Fuerza**: 22 (+6), Destreza: 20 (+5), Constitución: 22 (+6), Inteligencia: 18 (+4), Sabiduría: 20 (+5), Carisma: 16 (+3)
-
-#### **Habilidades**
-- **Percepción**: +12
-- **Sigilo**: +13
-- **Arcano**: +11
-
-#### **Resistencias**
-- **Daño temporal**: Inmunidad
-- **Efectos de tiempo**: Inmunidad
-- **Efectos espaciales**: Resistencia
-
-#### **Acciones**
-- **Ataque múltiple**: Cinco ataques con arma temporal
-- **Arma Temporal**: +13 al ataque, alcance 5 pies, un objetivo. Impacto: 15 (2d8 + 6) daño perforante + 3d6 daño temporal
-- **Tiempo Detenido**: CD 20, rango 60 pies, todos los objetivos en el área. Los objetivos deben hacer una tirada de salvación de Constitución. Si fallan, quedan petrificados en el tiempo hasta el final de su siguiente turno
-- **Congelación Temporal**: CD 20, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Constitución. Si falla, queda congelado en el tiempo durante 1 minuto
-
-#### **Características Especiales**
-- **Poder Temporal**: Control total sobre el tiempo en su región
-- **Congelación**: Puede congelar el tiempo en un área de 60 pies
-- **Inmortalidad Temporal**: No envejece ni puede ser afectado por el tiempo
-
----
-
-### **📝 LUGARTENIENTES ACTIVOS (Statblocks Pendientes de Desarrollo)**
-
-**Los siguientes lugartenientes necesitan statblocks completos:**
-
-1. **Serapis el Retroceso** (Temporal - Principal)
-2. **Varrak el Oráculo** (Temporal - Principal/Neutral)
-3. **Lord Vorthak "El Sediento Eterno"** (Temporal - Principal/Líder)
-4. **Medusa la Eterna** (Temporal - Menor)
-5. **Tempus el Fragmentado** (Temporal - Menor)
-6. **Edward Teach "Barbanegra"** (Dimensional - Principal/Independiente/Híbrido)
-7. **Dimensionalis la Fracturada** (Dimensional - Principal/Independiente)
-8. **Ignis el Devorador Espacial** (Dimensional - Principal/Líder)
-9. **Matrona Yrindra "La Tejedora Dimensional"** (Dimensional - Principal)
-10. **Las Gemelas del Espejo - Lyra y Nyx** (Dimensional - Principales/Neutrales)
-11. **Ymir el Eterno Invierno** (Dimensional - Menor)
-
-**📖 Mientras tanto, consulta sus acciones legendarias en:** [00_Cronofagos_Detallado.md](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
+Thyra, lugarteniente temporal del **Valle de la Aguja**, muere asesinada por **Edward Teach** como hito fijo de la campaña (el SALTO del Reloj, [Cap. 14](../14_Arco_de_Barbanegra.md)). **Los PJ nunca la combaten**: su valle es inaccesible salvo para Teach con el Talismán. No necesita statblock — si tu mesa fuerza un flashback o una visión, trátala como un lugarteniente temporal de **CR ≤10** con estasis de área (tirada de salvación de Constitución CD 16 o quedar congelado en el tiempo 1 turno) y su poder de bloqueo regional. Su poder vive ahora en Teach.
 
 ---
 
@@ -221,7 +183,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Guardianes Temporales**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 4
+- **CR**: 2 (450 XP)
 - **AC**: 15 (Armadura natural)
 - **PV**: 52 (8d8 + 16)
 - **Velocidad**: 30 pies
@@ -249,7 +211,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Ecos del Pasado**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 3
+- **CR**: 2 (450 XP)
 - **AC**: 13 (Armadura natural)
 - **PV**: 39 (6d8 + 12)
 - **Velocidad**: 30 pies
@@ -267,7 +229,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 #### **Acciones**
 - **Ataque múltiple**: Dos ataques con garras fantasmales
 - **Garras Fantasmales**: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) daño necrótico
-- **Eco Temporal**: CD 13, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Sabiduría. Si falla, ve visiones del pasado que lo confunden
+- **Eco Temporal**: CD 13, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Sabiduría. Si falla, ve visiones del pasado que lo confunden (desventaja en su siguiente tirada de ataque)
 
 #### **Características Especiales**
 - **Manifestación Temporal**: Creados por ecos del pasado
@@ -281,7 +243,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Guardianes Dimensionales**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 5
+- **CR**: 3 (700 XP)
 - **AC**: 16 (Armadura natural)
 - **PV**: 65 (10d8 + 20)
 - **Velocidad**: 30 pies
@@ -310,7 +272,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Criaturas Fracturadas**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 6
+- **CR**: 4 (1.100 XP)
 - **AC**: 14 (Armadura natural)
 - **PV**: 78 (12d8 + 24)
 - **Velocidad**: 30 pies
@@ -328,7 +290,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 #### **Acciones**
 - **Ataque múltiple**: Tres ataques con garras fracturadas
 - **Garras Fracturadas**: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 3) daño cortante + 1d6 daño espacial
-- **Fractura**: CD 15, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, es enviado a otra dimensión durante 1 minuto
+- **Fractura**: CD 15, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, es enviado a otra dimensión durante 1 minuto (puede repetir la salvación al final de cada uno de sus turnos)
 
 #### **Características Especiales**
 - **Existencia Fracturada**: Existen en múltiples dimensiones
@@ -337,12 +299,14 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 
 ---
 
-## ⚙️ **RELOJEROS NEGROS**
+## ⚙️ **LA RESISTENCIA**
+
+> Aliados de los PJ en la mayoría de mesas. Estos statblocks sirven para cuando luchan **junto** al grupo — o contra él, si sus extremistas anti-magia se tuercen.
 
 ### **Maestros Armeros**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 7
+- **CR**: 5 (1.800 XP)
 - **AC**: 17 (Armadura de placas)
 - **PV**: 91 (14d8 + 28)
 - **Velocidad**: 25 pies
@@ -360,7 +324,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 #### **Acciones**
 - **Ataque múltiple**: Dos ataques con arma de fuego
 - **Arma de Fuego**: +7 al ataque, alcance 80/320 pies, un objetivo. Impacto: 12 (2d8 + 3) daño perforante
-- **Granada Anti-Magia**: CD 15, rango 20 pies, todos los objetivos en el área. Los objetivos deben hacer una tirada de salvación de Constitución. Si fallan, no pueden lanzar hechizos durante 1 minuto
+- **Granada Anti-Magia**: CD 15, rango 20 pies, todos los objetivos en el área. Los objetivos deben hacer una tirada de salvación de Constitución. Si fallan, no pueden lanzar hechizos durante 1 minuto (repiten la salvación al final de cada turno)
 
 #### **Características Especiales**
 - **Tecnología Anti-Magia**: Armas que neutralizan la magia
@@ -372,7 +336,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Ingenieros**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 6
+- **CR**: 4 (1.100 XP)
 - **AC**: 16 (Armadura de placas)
 - **PV**: 78 (12d8 + 24)
 - **Velocidad**: 25 pies
@@ -390,7 +354,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 #### **Acciones**
 - **Ataque múltiple**: Dos ataques con arma de fuego
 - **Arma de Fuego**: +6 al ataque, alcance 80/320 pies, un objetivo. Impacto: 10 (2d8 + 2) daño perforante
-- **Trampa Mecánica**: CD 15, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, queda atrapado en una trampa mecánica
+- **Trampa Mecánica**: CD 15, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, queda apresado (puede liberarse con una tirada de Fuerza CD 15 como acción)
 
 #### **Características Especiales**
 - **Tecnología Avanzada**: Pueden crear dispositivos complejos
@@ -404,7 +368,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Chamanes**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 8
+- **CR**: 6 (2.300 XP)
 - **AC**: 15 (Armadura de cuero)
 - **PV**: 104 (16d8 + 32)
 - **Velocidad**: 30 pies
@@ -423,8 +387,8 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 #### **Acciones**
 - **Ataque múltiple**: Dos ataques con bastón
 - **Bastón**: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 2) daño contundente
-- **Estabilización Temporal**: CD 16, rango 60 pies, todos los aliados en el área. Los aliados obtienen resistencia a efectos temporales durante 1 minuto
-- **Protección del Tiempo**: CD 16, rango 30 pies, un objetivo. El objetivo obtiene inmunidad a efectos temporales durante 1 minuto
+- **Estabilización Temporal**: rango 60 pies, todos los aliados en el área. Los aliados obtienen resistencia a efectos temporales durante 1 minuto
+- **Protección del Tiempo**: rango 30 pies, un objetivo. El objetivo obtiene inmunidad a efectos temporales durante 1 minuto
 
 #### **Características Especiales**
 - **Resistencia Temporal**: No son afectados por distorsiones temporales
@@ -436,7 +400,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Guardianes del Tiempo**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 5
+- **CR**: 3 (700 XP)
 - **AC**: 16 (Armadura de cuero)
 - **PV**: 65 (10d8 + 20)
 - **Velocidad**: 30 pies
@@ -454,7 +418,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 #### **Acciones**
 - **Ataque múltiple**: Dos ataques con arma
 - **Arma**: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 3) daño perforante
-- **Protección Temporal**: CD 14, rango 30 pies, un objetivo. El objetivo obtiene resistencia a efectos temporales durante 1 minuto
+- **Protección Temporal**: rango 30 pies, un objetivo. El objetivo obtiene resistencia a efectos temporales durante 1 minuto
 
 #### **Características Especiales**
 - **Protección**: Protegen a otros de efectos temporales
@@ -468,7 +432,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Agentes Infiltrados**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 6
+- **CR**: 4 (1.100 XP)
 - **AC**: 16 (Armadura de cuero)
 - **PV**: 78 (12d8 + 24)
 - **Velocidad**: 30 pies
@@ -499,7 +463,7 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 ### **Operaciones Especiales**
 
 #### **Estadísticas Básicas**
-- **Nivel**: 8
+- **CR**: 6 (2.300 XP)
 - **AC**: 17 (Armadura de placas)
 - **PV**: 104 (16d8 + 32)
 - **Velocidad**: 30 pies
@@ -527,4 +491,4 @@ Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espac
 
 ---
 
-*Estas criaturas representan la diversidad de enemigos que los jugadores enfrentarán en Chronosia, cada una con sus propias habilidades y características únicas.*
+*Estas criaturas representan la diversidad de enemigos que los jugadores enfrentarán en Chronosia, cada una con sus propias habilidades y características únicas. Los CR son aproximados: ajusta al alza o a la baja según el tamaño de tu mesa.*

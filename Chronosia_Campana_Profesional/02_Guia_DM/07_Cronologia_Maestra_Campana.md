@@ -1,359 +1,153 @@
 # 📅 Cronología Maestra de la Campaña
-## *Línea Temporal Completa de Chronosia*
 
----
-
-> **⚠️ DOCUMENTO MAESTRO (timing de eventos fijos).**
-> Para el **ritmo y la presión** (el Reloj del Ritual), el **gating de regiones** y el **timing de los hitos de Teach**, manda [⏳ Cómo Dirigir](../01_Como_Dirigir.md). Este documento detalla *cuándo* ocurren los eventos fijos.
+> **⚠️ Documento subordinado.** El **ritmo, el Reloj del Ritual, el gating de regiones y el timing de los hitos de Teach** los manda [⏳ Cómo Dirigir](../01_Como_Dirigir.md). Este apéndice solo reúne, en formato de consulta rápida: el **esqueleto de sesiones**, los **eventos fijos** ordenados, **qué entrega cada lugarteniente al caer** y las **revelaciones graduales**. Si algo de aquí parece contradecir al Capítulo 1, manda el Capítulo 1.
 >
-> **Estructura: 5 fases · nivel 3→10 · clímax en la Torre de la Eternidad.** Sistemas retirados: balance temporal/dimensional, Lugartenientes Supremos y viaje al pasado.
->
-> **📖 Recorrido fase a fase:** [Cómo Dirigir](../01_Como_Dirigir.md)
+> **Estructura: 5 fases · nivel 3→10 · ~14-15 sesiones · Reloj de 8 segmentos (empieza en 2/8) · clímax en la Torre de la Eternidad (4 niveles).**
+> Todos los eventos fijos se disparan **por el Reloj o por la trama, nunca por "tras el Nº lugarteniente derrotado"**.
 
 ---
 
-## 📋 **ÍNDICE DE NAVEGACIÓN**
-
-### **🎯 Por Fase**
-- [Fase 0: Railroad Inicial (Sesiones 1-3)](#fase-0-railroad-inicial-sesiones-1-3)
-- [Fase 1: Robos y Traición (Sesiones 4-6)](#fase-1-robos-y-traición-sesiones-4-6)
-- [Fase 2: Sandbox Inicial (Sesiones 6-9)](#fase-2-sandbox-inicial-sesiones-6-9)
-- [Fase 3: Sandbox Avanzado (Sesiones 9-12)](#fase-3-sandbox-avanzado-sesiones-9-12)
-- [Fase 4: Clímax — La Torre de la Eternidad (Sesiones 13-15)](#-fase-4-clímax-sesiones-13-15)
-
-### **📊 Por Sistema**
-- [Desbloqueo de Regiones](#-desbloqueo-de-regiones)
-- [Progresión de Niveles](#-progresión-de-niveles)
-- [Eventos Fijos vs Variables](#-eventos-fijos-vs-variables)
-
----
-
-## 🗺️ **VISIÓN GENERAL**
-
-### **Estructura de la Campaña:**
+## 🗺️ Visión general (por Reloj, no por sesión)
 
 ```
-SESIONES 1-3: Railroad (Establecer mundo y personajes)
+FASE 0 · Reloj 2/8      Waterdeep: asesinato de Thaddeus → Kaelthas → llegada a Cronópolis
     ↓
-SESIONES 3-6: Sandbox Inicial (Los PJ derrotan lugartenientes)
+FASE 1-2 · Reloj ~2-3   HITO 1 de Teach: robo de la Perla (masacre de Abysara)
+    ↓                    Arranca el sandbox: 4 regiones abiertas (Espiral, Glacialis, Jardín, Abismo)
+FASE 2 · Reloj ~3-4     HITO 2: robo del Cronómetro (los PJ, sospechosos) · se construye el Contador
     ↓
-DESPUÉS DEL 1er LUGARTENIENTE: ROBO DE LA PERLA (Masacre en Abysara)
+FASE 2-3 · Reloj ~4-5   HITO 3: forja del Talismán (única ventana presenciable)
     ↓
-DESPUÉS DEL 2do LUGARTENIENTE: ROBO DEL CRONÓMETRO (Teach encuentra relación con Anacronistas)
+SALTO del Reloj         HITO 4: asesinato de Thyra → guerra espontánea de lugartenientes
+    ↓                    Desde aquí, Teach caza a los lugartenientes que los PJ no alcanzan
+FASE 3 · Reloj 5-7      Revelaciones: conductos, dos dioses presos · Varrak elige bando
+    ↓                    LA TRAICIÓN DE SERAPIS cierra el sandbox (Cap. 14)
+FASE 4 · llave reunida  LLAMADA DE LOS DIOSES (llave chroniana + entrada conocida — NO el Reloj a 8)
     ↓
-DESPUÉS DEL 3er LUGARTENIENTE: CREACIÓN DEL TALISMÁN + ASESINATO DE THYRA (Evento catalizador #2)
-    ↓
-SESIÓN 6+: NOTICIA SE PROPAGA - Guerra espontánea comienza
-    ↓
-SESIONES 6-12: Sandbox (Los PJ enfrentan lugartenientes en guerra)
-    ↓
-SESIÓN 8+: Revelaciones sobre Manshoon (gradual)
-    ↓
-SESIÓN 13: LLAMADA DE LOS DIOSES (Clímax comienza)
-    ↓
-SESIONES 13-15: Torre de la Eternidad y Batalla Final
+TORRE (4 niveles)       Batalla final → uno de 4 finales · si el Reloj toca 8/8 antes → Final D
 ```
 
 ---
 
-## 🎬 **FASE 0: RAILROAD INICIAL (SESIONES 1-3)**
+## 📋 Esqueleto de sesiones (orientativo)
 
-### **Objetivo de esta Fase:**
-Establecer el mundo, presentar a los personajes clave, y enganchar a los PJ con la trama principal.
+El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesiones.
 
-**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
-
-### **Resumen de Sesiones:**
-
-| **Sesión** | **Evento Principal** | **Nivel** | **Ubicación** |
-|------------|----------------------|-----------|---------------|
-| **1** | Asesinato en Waterdeep, derrota de Kaelthas | 3 | Waterdeep |
-| **2** | Llegada a Chronosia, establecimiento de base | 3-4 | Cronópolis |
-| **3** | Primera misión, encuentro con lugarteniente | 4-5 | Región elegida |
-
-**Eventos Fijos:**
-- ✅ Sesión 1: Asesinato de Thaddeus, derrota de Kaelthas
-- ✅ Sesión 2: Llegada a Cronópolis, ver Cronómetro de Realidades (setup crítico)
-- ✅ Sesión 3: Primera misión asignada
+| Fase | Sesiones | Nivel | Reloj típico | Qué pasa |
+|---|---|---|---|---|
+| **0 · Railroad inicial** | 1-2 | 3-4 | 2/8 | Waterdeep, Kaelthas, llegada a Cronópolis, ven el Cronómetro |
+| **1 · Robos y traición** | 2-4 | 4-5 | 2-4/8 | Hitos 1-2 de Teach; Contador del Ritual en marcha |
+| **2 · Sandbox inicial** | 4-8 | 5-7 | 3-5/8 | Exploración libre; hito 3; SALTO (Thyra) y guerra espontánea |
+| **3 · Sandbox avanzado** | 8-12 | 7-8 | 5-7/8 | Revelaciones; Varrak elige bando; la Traición de Serapis |
+| **4 · Clímax: la Torre** | 12-15 | 8-10 | alto | Llamada de los Dioses, asalto, batalla final, epílogos |
 
 ---
 
-## 🔥 **FASE 1: ROBOS Y TRAICIÓN (EVENTOS PROGRESIVOS)**
+## ⚔️ Eventos fijos vs variables
 
-### **Objetivo de esta Fase:**
-Edward Teach ejecuta su plan maestro progresivamente: roba los artefactos después de que los PJ derroten lugartenientes, crea el Talismán, asesina a Thyra, y desencadena la guerra espontánea entre lugartenientes.
+### 📌 Eventos fijos (ocurren siempre; los PJ cambian el *cómo*, no el *si*)
 
-**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
+| Disparador | Evento | Impacto |
+|---|---|---|
+| Sesión 1 | Asesinato de Thaddeus en Waterdeep; derrota de Kaelthas | Inicio de la campaña |
+| Sesión 2 | Llegada a Cronópolis; los PJ **ven el Cronómetro** | Setup del robo futuro |
+| Reloj ~2-3/8 | **Hito 1 · Robo de la Perla** — masacre de Abysara (47 guerreros Oceánicos) | Nace la vendetta oceánica |
+| Reloj ~3-4/8 | **Hito 2 · Robo del Cronómetro** — Teach descubre el vínculo Anacronistas-Abysara | Los PJ, sospechosos; Cronópolis vulnerable |
+| Reloj ~4-5/8 | **Hito 3 · Forja del Talismán** — isla secreta del Archipiélago | Única ventana presenciable; aun así se completa |
+| **SALTO** | **Hito 4 · Asesinato de Thyra** — el Reloj SALTA | Guerra espontánea; Teach empieza a absorber lugartenientes |
+| Fase 3 (Reloj alto) | **Varrak elige bando** (Cap. 8); las Gemelas se posicionan | Posible aliado oracular; sacrificio disponible a Reloj ≥6/8 |
+| Cierre de Fase 3 | **La Traición de Serapis** (Cap. 14): juicio de Marcus, revelación de Kaoros, batalla | El único "rebobinado" de la campaña (sacrificio de Varrak) |
+| Llave + entrada | **Llamada de los Dioses** (Cap. 15) — la Torre se hace visible | Empieza el clímax; Teach parte el primero si vive |
+| Final | **Batalla en la Cámara de Ascensión** → Final A/B/C/D | El desenlace NO es fijo |
 
-### **Cronología de Eventos (Basada en Derrotas de Lugartenientes):**
+> **⚠️ Recordatorios clave:** el Talismán **siempre** se forja y Thyra **siempre** muere (su valle es inaccesible salvo para Teach). La Torre **no la abre el Reloj**: se entra con la **llave chroniana** (mitad anacronista + mitad oceánica + palabras de activación) y conociendo la entrada (la revela Teach o la Matrona Yrindra). **A 8/8 la ascensión se consuma: Final D.**
 
-| **Momento** | **Evento Principal** | **Nivel Aprox.** | **Ubicación** |
-|------------|----------------------|------------------|---------------|
-| **Después del 1er Lugarteniente** | ⚠️ Robo de la Perla del Vacío Primordial (Masacre en Abysara) | 5-6 | Abysara |
-| **Después del 2do Lugarteniente** | ⚠️ Robo del Cronómetro de Realidades (Teach encuentra relación con Anacronistas en textos) | 6-7 | Cronópolis |
-| **Después del 3er Lugarteniente** | ⚠️⚠️ Creación del Talismán + Asesinato de Thyra (evento fijo - SIEMPRE ocurre) | 7-8 | Isla secreta + Valle de la Aguja |
-| **Inmediatamente después** | ⚠️⚠️⚠️ Guerra espontánea comienza | 7-8 | Chronosia |
+### 🎲 Eventos variables (dependen de los PJ)
 
-**Eventos Fijos Críticos:**
-- ❗ Después del 1er Lugarteniente: Robo de la Perla (Masacre en Abysara - 47 guerreros Oceánicos mueren)
-- ❗ Después del 2do Lugarteniente: Robo del Cronómetro (Teach descubre relación Anacronistas-Abysara en textos antiguos)
-- ❗❗ Después del 3er Lugarteniente: Creación del Talismán + Asesinato de Thyra (SIEMPRE ocurre - evento fijo, Catalizador #2 - más importante)
-- ❗❗❗ Inmediatamente después: Guerra espontánea comienza (NO hay proclamación oficial)
-
-**⚠️ IMPORTANTE:**
-- **El Talismán SIEMPRE se crea** - Los PJ pueden intentar interrumpir, pero Teach lo completa de todas formas
-- **Thyra SIEMPRE muere** - Los PJ pueden intentar salvarla, pero el asesinato ocurre inevitablemente
-- **La región de Thyra es inaccesible** - Solo Teach con el Talismán puede entrar (Thyra tiene poder de bloqueo)
-- **La región de Edward Teach está bloqueada** - Hasta después de la muerte de Thyra
-- **Estos eventos son fijos** - Solo el timing del asalto final determina qué final ocurre
+- **Lugartenientes:** eligen a quién enfrentar, negociar o evitar; no hay que derrotarlos a todos. Los que no alcancen los absorbe Teach o caen en la guerra civil.
+- **Eventos del mundo:** tira en las [tablas de eventos](../06_Recursos/Tablas/19_Tablas_Eventos.md) cada 2-3 sesiones para que la guerra se sienta viva.
+- **Alianzas:** Anacronistas, La Resistencia, Oceánicos de Abysara, Varrak, las Gemelas, e incluso Bregan D'aerthe (si la oferta supera a la de sus pagadores).
+- **Revelaciones:** tienen momento natural (abajo), pero un grupo que investiga puede adelantarlas — premia eso.
 
 ---
 
-## 🎮 **FASE 2: SANDBOX INICIAL (SESIONES 6-9)**
+## 📋 Guía por derrota de lugarteniente
 
-### **Objetivo de esta Fase:**
-Los PJ exploran libremente, enfrentan a lugartenientes, y descubren alianzas/traiciones.
+> Qué entrega cada uno al caer y qué desbloquea. Las **piezas del Rotor son por tipo, no por individuo**: cualquier **temporal** deja un **Núcleo Temporal** y cualquier **dimensional** una **Carcasa Dimensional** ([Mapa de Puertas](../01_Como_Dirigir.md)). El botín detallado y la tirada de hallazgo están en [Reconocimiento e Inteligencia](../06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md) y el [catálogo de objetos](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md).
 
-**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
-
-### **Resumen de Sesiones:**
-
-| **Sesión** | **Evento Principal** | **Nivel** | **Ubicación** |
-|------------|----------------------|-----------|---------------|
-| **6-7** | Exploración libre (sandbox puro) | 6-7 → 7-8 | Regiones elegidas |
-| **8** | ⚠️ Revelación Gradual #1: Primera sospecha sobre Manshoon | 8-9 | Variable |
-| **9** | Exploración avanzada | 9-10 | Variable |
-
-**Eventos Fijos:**
-- ✅ Sesión 8: Revelación sobre reclusión de Manshoon
-
-**Eventos Variables:**
-- 🎲 Los PJ eligen qué lugartenientes enfrentar
-- 🎲 Eventos aleatorios (1d12 cada 2-3 sesiones)
+| Lugarteniente | Aspecto | Región (capítulo) | Al caer entrega | Además revela / desbloquea |
+|---|---|---|---|---|
+| **Kaelthas** | — | Waterdeep (Fase 0) | Reloj de bolsillo destrozado, mapa parcial, diario | Existencia de los Cronófagos; el rastro a Chronosia |
+| **Serapis** | Temporal | La Espiral Inversa (Cap. 4) | **Núcleo Temporal** (= Arena del Tiempo) | Los lugartenientes **canalizan** a un dios cautivo |
+| **Las Gemelas** | Temporal | El Jardín de los Tiempos Gemelos (Cap. 5) | Núcleo Temporal · objetos de espejo | Origen de las gemelas; posible alianza en vez de combate |
+| **Medusa** | Temporal | El Jardín de los Tiempos Gemelos (Cap. 5) | Núcleo Temporal · objetos de estasis | Secretos del Jardín |
+| **Ymir** | Dimensional | Glacialis (Cap. 6) | **Carcasa Dimensional** | Red de umbrales; reclutamiento interplanar |
+| **Tempus** | Temporal | Las Ruinas del Tiempo Perdido (Cap. 7) | Núcleo Temporal · tecnología chroniana | El mundo anterior a la fractura *(región pide una Arena del Tiempo)* |
+| **Varrak** | Temporal | El Abismo de los Posibles (Cap. 8) | *(su vía natural es la alianza, Cap. 8)* | Reclusión de Aethernus; **Teach es su punto ciego** |
+| **Dimensionalis** | Dimensional | Las Llanuras de la Compresión (Cap. 9) | Carcasa Dimensional | Secretos que vendía como mercader de información |
+| **Yrindra** | Dimensional | La Ciudad de Veldrisza (Cap. 10) | Carcasa Dimensional | **La entrada de la Torre** (vía alternativa a Teach); conexión con Menzoberranzan |
+| **Edward Teach** ⚠️ crítico | Híbrido (poder robado) | El Archipiélago de Barbanegra (Cap. 11) | El Talismán y lo absorbido | **La entrada de la Torre**; su derrota **estanca el Reloj 2 hitos** |
+| **Vorthak** ⚠️ crítico | Temporal (drena vida — sin pieza de Rotor) | La Mansión de la Sed Eterna (Cap. 12) | Botín de la Mansión | Su derrota **estanca el Reloj 2 hitos** |
+| **Ignis** ⚠️ crítico | Dimensional | Las Calderas Dimensionales (Cap. 13) | Carcasa Dimensional · tesoro de dragón | **Abre el ala profunda: Llanuras (Cap. 9) y Veldrisza (Cap. 10)**; estanca el Reloj 2 hitos |
+| *Thyra (caída)* | *Temporal* | *Valle de la Aguja — inaccesible* | *(la mata Teach: SALTO del Reloj)* | *Su valle devastado es el umbral de la Torre* |
 
 ---
 
-## 🌟 **FASE 3: SANDBOX AVANZADO (SESIONES 9-12)**
+## 🔧 Construcción de artefactos y desbloqueos
 
-### **Objetivo de esta Fase:**
-Revelaciones sobre Manshoon se aceleran, eventos críticos ocurren (Sesión 11), guerra entre lugartenientes se intensifica.
-
-**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
-
-### **Resumen de Sesiones:**
-
-| **Sesión** | **Evento Principal** | **Nivel** | **Ubicación** |
-|------------|----------------------|-----------|---------------|
-| **10** | ⚠️ Revelación Gradual #2: El ritual de ascensión | 10-11 | Variable |
-| **11** | ⚠️⚠️ Evento Fijo Crítico: Varrak elige bando | 11-12 | Abismo de los Posibles |
-| **12** | ⚠️ Urgencia máxima, ritual avanzando | 12-13 | Variable |
-
-**Eventos Fijos Críticos:**
-- ❗❗ Sesión 11: Varrak debe elegir bando (decisión crítica)
-- ❗❗ Sesión 11: Las Gemelas eligen bando
-- ❗❗ Sesión 11: Alianzas de bando se formalizan
-- ❗ Sesión 12: Urgencia máxima, ritual avanzando (revelación gradual #3)
+| Artefacto | Requisitos | Desbloquea |
+|---|---|---|
+| **Rotor Infinito** | Un **Núcleo Temporal** (cualquier temporal) + una **Carcasa Dimensional** (cualquier dimensional) | Componente del Motor de Viento |
+| **Motor de Viento Perpetuo** | Rotor Infinito + los Ingenieros de La Resistencia (~2 semanas de trabajo) | **El Archipiélago de Barbanegra** (Cap. 11): el mar en calma muerta se puede navegar |
+| **Contador del Ritual** | Colaboración Anacronistas + La Resistencia (Din calibra los sensores) | El Reloj **visible** en Cronópolis; el "hipo" al morir un lugarteniente (gancho de investigación) |
+| **Cerrador de Portales** | Din Goldgear + Ingenieros ([manejo en el catálogo](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md)) | Neutralizar las regiones de portales (Glacialis, Calderas, Veldrisza) |
 
 ---
 
-## ⚡ **FASE 4: CLÍMAX (SESIONES 13-15)**
+## 🔮 Revelaciones graduales sobre Aethernus/Manshoon
 
-### **Objetivo de esta Fase:**
-Revelar la ubicación de la Torre, asaltar la Torre de la Eternidad, y enfrentar al villano final.
-
-**📖 Para timeline detallado y desarrollo completo:** [Cómo Dirigir](../01_Como_Dirigir.md)
-
-### **Resumen de Sesiones:**
-
-| **Sesión** | **Evento Principal** | **Nivel** | **Ubicación** |
-|------------|----------------------|-----------|---------------|
-| **13** | ⚠️⚠️⚠️ Llamada de los dioses, ritual casi completo | 13 | Torre (exterior) |
-| **14** | Asalto a la Torre (5 niveles), determinación del final | 14 | Torre de la Eternidad |
-| **15** | Combate final (uno de 4 finales posibles) | 15 | Torre Nivel 5 |
-
-**Eventos Fijos:**
-- ❗❗❗ Sesión 13: Llamada de los dioses, ritual casi completo
-- ❗❗❗ Sesión 14: Asalto a la Torre, determinación del final
-- ❗❗❗ Sesión 15: Uno de los cuatro finales se desencadena
-
-**Los Cuatro Finales Posibles:**
-- **Final A:** Manshoon Ascendente (CR 13-14)
-- **Final B:** Blackbeard el Usurpador (CR 13-14) - Solo si Teach llega primero a la Torre (Talismán siempre existe)
-- **Final C:** La Carrera Divina (3 bandos)
-- **Final D:** Demasiado Tarde (imparable: fin de partida) - Si ritual se completa antes de que los PJ lleguen
+| Momento natural | Revelación | Cómo se descubre |
+|---|---|---|
+| Fase 2 (Reloj ~3-4) | **#1 · Algo no cuadra:** Manshoon nunca aparece; las órdenes "fluyen solas" | Interrogar Cronófagos (*"nunca he visto a Aethernus en persona"*); primeras piezas regionales |
+| Fase 2-3 (Reloj ~4-5) | **#2 · El ritual de ascensión:** hay **dos dioses presos** y los lugartenientes son **conductos** | Piezas de las regiones (Espiral, Glacialis, Ruinas…); el Contador sube solo |
+| Fase 3 (Reloj ~5-6) | **#3 · La reclusión y el punto ciego:** Varrak confirma que Aethernus ya ni mira; **Teach caza lugartenientes** | Elección de bando de Varrak (Cap. 8); el "hipo" del Contador sin causa propia |
+| Llave + entrada | **#4 · La Llamada de los Dioses:** la verdad completa; la Torre se hace visible | Reunir la llave chroniana y conocer la entrada (Cap. 15) |
 
 ---
 
-## 📋 **GUÍA COMPLETA DE EVENTOS POR DERROTA DE LUGARTENIENTE**
+## 🗺️ El tablero (resumen)
 
-> **⚠️ PROPÓSITO DE ESTA SECCIÓN:**
-> Esta sección detalla QUÉ ocurre cuando los PJ derrotan a cada lugarteniente específico, incluyendo desbloqueos, artefactos obtenidos, información revelada, y consecuencias. Úsala como guía de planificación para saber qué información dar a los PJ después de cada derrota.
+- **10 regiones** (Caps. 4-13) + **Cronópolis** (hub, Cap. 3) + el **Valle de la Aguja** (inaccesible) + la **Torre de la Eternidad** (clímax, Cap. 15).
+- **11 lugartenientes activos** + Thyra (caída): temporales **Serapis, Tempus, Medusa, las Gemelas, Varrak**; dimensionales **Ymir, Dimensionalis, Yrindra, Ignis**; **Teach** (híbrido, poder robado) y **Vorthak** (drena vida).
+- **Críticos** (su derrota estanca el Reloj 2 hitos): **Teach, Ignis, Vorthak**. El resto son opcionales o aliables.
+- Gating completo en el [Mapa de Puertas](../01_Como_Dirigir.md); estado vivo de regiones y Reloj en las [tablas de tracking](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md).
 
-### **📋 Eventos por Derrota de Lugarteniente Específico:**
+### 📊 Progresión de niveles
+- **3 (inicio) → 10 (techo de campaña).** Sube de nivel por arco de región completado (~1 nivel por arco, 2 en los arcos mayores).
+- Para *llegar* a Teach bastan **2 lugartenientes** (un temporal + un dimensional → Rotor → Motor de Viento); recomendables **3-4** antes de enfrentarlo.
 
-| **Lugarteniente Derrotado** | **Alineación** | **Desbloqueos** | **Artefactos Obtenidos** | **Información Revelada** | **Regiones Desbloqueadas** | **Notas** |
-|----------------------------|----------------|-----------------|--------------------------|--------------------------|----------------------------|-----------|
-| **Kaelthas** | Dimensional | Waterdeep | - Reloj de Bolsillo Destrozado<br>- Mapa Parcial de Chronosia<br>- Diario de Kaelthas | - Información sobre Cronófagos<br>- Confirmación de conspiración | Waterdeep | Primera misión |
-| **Serapis** | Temporal | La Espiral del Reloj de Arena | - **Núcleo Temporal** (parte 1 del Rotor Infinito)<br>- **Arena del Tiempo Estabilizada** | - Información sobre reversión temporal<br>- Secretos del pasado de Chronosia | La Espiral del Reloj de Arena | Componente del Rotor |
-| **Ymir** | Dimensional | Glacialis | - **Carcasa Helada** (parte 2 del Rotor Infinito) | - Información sobre reclutamiento interplanar<br>- Red de portales de Ymir<br>- Patrones de suministros | Glacialis | Componente del Rotor |
-| **Varrak** | Temporal | El Abismo de los Posibles | - Objetos temporales (si derrotado)<br>- Ayuda y visión del futuro (si aliado) | - Información sobre futuros posibles<br>- Confirmación de reclusión de Aethernus<br>- Edward Teach es punto ciego | El Abismo de los Posibles | Puede ser aliado o enemigo |
-| **Medusa** | Temporal | El Jardín Pétreo | - Objetos de estasis temporal | - Información sobre petrificación temporal<br>- Secretos del jardín | El Jardín Pétreo | Región compartida con Gemelas |
-| **Tempus** | Temporal | Las Ruinas del Tiempo Perdido | - Objetos de bucles temporales | - Información sobre bucles temporales<br>- Tecnología temporal antigua | Las Ruinas del Tiempo Perdido | Requiere Arena del Tiempo |
-| **Vorthak** | Temporal | La Mansión de la Sed Eterna | - Objetos de drenaje temporal | - Información sobre vampirismo temporal<br>- Secretos de la sed eterna<br>- Líder del Bando Temporal | La Mansión de la Sed Eterna | Líder temporal |
-| **Edward Teach** | Dimensional | Archipiélago de Barbanegra | - **Brújula de los Mares** O Cofre del Tesoro Pirata (elección destructiva)<br>- Poderes híbridos (temporal + dimensional) | - Información sobre el Talismán<br>- Plan de interceptación divina<br>- Confirmación de asesinato de Thyra | Archipiélago de Barbanegra | Requiere Motor de Viento |
-| **Dimensionalis** | Dimensional | Las Llanuras de la Compresión | - **Brújula Dimensional** O Fragmento de Realidad (elección destructiva) | - Información sobre compresión espacial<br>- Secretos dimensionales<br>- Triple agente revelada | Las Llanuras de la Compresión | Requiere derrotar a Ignis |
-| **Ignis** | Dimensional | Volcanis | - Tesoros de dragón rojo ancestral | - Información sobre portales de fuego<br>- Conexión con Plano Elemental del Fuego<br>- Líder del Bando Dimensional | Volcanis | Boss final antes de Manshoon |
-| **Yrindra** | Dimensional | Tela de Sombras | - **Hilo de Lolth** O Red de Captura (elección destructiva) | - Información sobre redes espaciales<br>- Conexión con Menzoberranzan<br>- Alianza con Ignis | Tela de Sombras | Requiere derrotar a Teach |
-| **Las Gemelas** | Dimensional | El Jardín de los Tiempos Gemelos | - Objetos relacionados con espejos y reflejos | - Información sobre dimensión espejo<br>- Origen de las gemelas<br>- Neutrales hasta Sesión 11 | El Jardín de los Tiempos Gemelos | Región compartida con Medusa |
+### ⏱️ Urgencia escalable (cómo se siente cada tramo)
+- **Reloj 2-3/8:** exploración tranquila; los hitos de Teach llegan como rumores.
+- **Reloj 3-5/8:** el golpe en casa (Cronómetro), el Talismán, el **SALTO** — la guerra civil estalla.
+- **Reloj 5-6/8:** revelaciones mayores; el grupo entiende el tablero; cortar críticos compra respiros.
+- **Reloj 6-7/8:** todo aprieta; posible sacrificio de Varrak (−1, el único retroceso); la Traición de Serapis.
+- **Reloj 8/8:** ⚠️ **la ascensión se consuma — Final D.** No es la apertura de nada: es la derrota.
 
 ---
 
-## 🔧 **CONSTRUCCIÓN DE ARTEFACTOS Y DESBLOQUEOS TECNOLÓGICOS**
+## 🔗 Referencias
 
-> **⚠️ PROPÓSITO DE ESTA SECCIÓN:**
-> Esta sección detalla los artefactos que se construyen durante la campaña, sus requisitos, y qué desbloquean. Úsala para saber cuándo los PJ pueden acceder a nuevas regiones o tecnologías.
-
-| **Artefacto/Construcción** | **Requisitos** | **Sesión Aprox.** | **Desbloquea** | **Información Revelada** | **Notas** |
-|----------------------------|----------------|-------------------|----------------|--------------------------|-----------|
-| **Rotor Infinito** | Derrotar a Serapis (Núcleo) + Ymir (Carcasa) | 3-7 | - | - Componentes fragmentados<br>- Propósito: conectar todas las regiones<br>- Portal a Faerún (post-campaña) | Quest de Ingenieros |
-| **Motor de Viento Perpetuo** | Rotor Infinito completo + 10,000 po + 2 semanas | 7-9 | Archipiélago de Barbanegra | - Permite navegar el mar en calma<br>- Tecnología de La Resistencia | Desbloqueo de región |
-| **Contador del Ritual** | Colaboración Anacronistas + La Resistencia | 8-9 | - | - Muestra urgencia del ritual (indicadores narrativos)<br>- Urgencia visible<br>- Manshoon está recluido | Revelación gradual |
-| **Contador del Ritual** | Anacronistas + La Resistencia lo construyen (Din calibra los sensores) | 8-9 | - | - Marcador de 8 segmentos de la ascensión de Aethernus<br>- "Hipo" al morir un lugarteniente (gancho de investigación)<br>- Sistema del Reloj explicado | Tecnología de La Resistencia |
-| **Excavadora Dimensional** | 5 Cristales Dimensionales Puros | Variable | - | - Permite excavar en espacios comprimidos<br>- Tecnología avanzada | Quest opcional |
-
----
-
-## 🔮 **REVELACIONES GRADUALES SOBRE MANSHOON**
-
-> **⚠️ PROPÓSITO DE ESTA SECCIÓN:**
-> Esta sección detalla las revelaciones graduales sobre Manshoon que los PJ descubren a lo largo de la campaña. Úsala para saber qué información dar en cada momento.
-
-| **Sesión** | **Revelación** | **Información Revelada** | **Cómo se Descubre** | **Notas** |
-|------------|----------------|--------------------------|----------------------|-----------|
-| **8** | ⚠️ Revelación Gradual #1: Primera sospecha | - Manshoon nunca aparece directamente<br>- Todas las órdenes vienen a través de lugartenientes<br>- Interrogan a un Cronófago: "Nunca he visto a Aethernus en persona" | - Investigación activa de los PJ<br>- Contador del Ritual creado (muestra urgencia creciente) | Los PJ sospechan que algo está mal |
-| **10** | ⚠️ Revelación Gradual #2: El ritual de ascensión | - Manshoon está ejecutando ritual de ascensión divina<br>- Contador muestra urgencia alta<br>- Urgencia creciente | - Descubrimiento del ritual<br>- Contador visible | Los PJ descubren el plan |
-| **11** | ⚠️ Revelación Gradual #3: Varrak confirma reclusión | - Varrak confirma que Manshoon está recluido<br>- Edward Teach es punto ciego para Varrak<br>- Información sobre futuros posibles | - Varrak elige bando<br>- Conversación con Varrak | Evento crítico de alineación |
-| **13** | ⚠️ Revelación Gradual #4: Llamada de los dioses | - Llamada pública de Amaunator y Voidar<br>- Contador muestra urgencia crítica<br>- Verdad completa revelada<br>- Manshoon tiene a los dioses capturados | - Llamada pública de los dioses<br>- Torre de la Eternidad desbloqueada | Punto sin retorno |
+| Documento | Qué contiene | Cuándo usarlo |
+|---|---|---|
+| [01_Como_Dirigir.md](../01_Como_Dirigir.md) | **La autoridad**: Reloj, Mapa de Puertas, fases, villanos críticos | Toda la campaña |
+| [14_Arco_de_Barbanegra.md](../14_Arco_de_Barbanegra.md) | Los 4 hitos de Teach + la Traición de Serapis | Fases 1-3 |
+| [15_Climax_La_Torre.md](../15_Climax_La_Torre.md) | Llamada de los Dioses, la Torre (4 niveles), batalla final, 4 finales, epílogos | Fase 4 |
+| [03_Cronopolis.md](../03_Cronopolis.md) | El hub, sus barrios y PNJs | Sesión 2 en adelante |
+| [02_Facciones](02_Facciones/00_Indice_Facciones.md) | Anacronistas, La Resistencia, Oceánicos, Cronófagos, Bregan D'aerthe | Sesiones 2+ |
+| [20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md) | Hojas de seguimiento (Reloj, regiones, PJs) | Actualizar tras cada sesión |
+| [23_Reconocimiento_e_Inteligencia.md](../06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md) | Qué suelta cada lugarteniente; tiradas de reconocimiento | Antes de cada asalto |
+| [21_Objetos_Magicos_Reliquias.md](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md) | Catálogo de objetos y reliquias | Al repartir botín |
 
 ---
 
-## 🗺️ **DESBLOQUEO DE REGIONES**
-
-> **📊 Para tabla completa de tracking de regiones:**
-> Consulta **[20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#4-desbloqueo-de-regiones)** para:
-> - Tabla de Desbloqueo de Regiones (completa y actualizable)
-> - Estado de cada región (desbloqueada/explorada/bloqueada)
-> - Cronología de desbloqueos
-
-**Resumen:**
-- **Total: 14 regiones** (12 con lugartenientes + 1 Material Plane + 1 centro seguro)
-- **Lugartenientes Totales: 12**
-  - **5 Temporales:** Serapis, Varrak, Vorthak, Medusa, Tempus
-  - **6 Dimensionales:** Edward Teach, Dimensionalis, Ignis, Yrindra, Las Gemelas, Ymir
-  - **1 Caído:** Thyra (muere en Sesión 5-6, era Temporal)
-
----
-
-## 📊 **PROGRESIÓN DE NIVELES**
-
-> **📊 Para tabla completa de tracking de niveles:**
-> Consulta **[20_Tablas_Tracking_Campana.md](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md#5-progresión-de-niveles-de-los-pj)** para:
-> - Tabla de Progresión de Niveles (completa)
-> - Tracking Individual de cada PJ
-> - Métodos de subida de nivel
-
-**Resumen:**
-- **Niveles:** 3 (inicio) → 10 (final)
-- **Lugartenientes a derrotar:** **no hay que derrotarlos a todos.** Críticos = Teach, Ignis, Vorthak (+ Aethernus). Para *llegar* a Teach bastan **2** (Serapis + Ymir → Motor de Viento); recomendable **3-4** en total antes de enfrentarlo. El resto son opcionales; los que el grupo no alcanza, los absorbe Teach. Ver [Cómo Dirigir](../01_Como_Dirigir.md).
-
----
-
-## ⚔️ **EVENTOS FIJOS VS VARIABLES**
-
-### **📌 EVENTOS FIJOS (Ocurren siempre en la sesión indicada):**
-
-| **Momento**                       | **Evento**                                               | **Impacto**                                                                          |
-| --------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| **1**                             | Asesinato en Waterdeep                                   | Inicio de la campaña                                                                 |
-| **2**                             | Llegada a Chronosia, conocer Anacronistas                | Establecer mundo                                                                     |
-| **2**                             | Los PJ ven el Cronómetro de Realidades                   | Setup para robo futuro                                                               |
-| **Después del 1er Lugarteniente** | ROBO DE LA PERLA (Masacre en Abysara)                    | Catalizador #1 - 47 guerreros Oceánicos mueren                                       |
-| **Después del 2do Lugarteniente** | ROBO DEL CRONÓMETRO (Teach encuentra relación en textos) | Catalizador #1.5                                                                     |
-| **Después del 3er Lugarteniente** | CREACIÓN DEL TALISMÁN + ASESINATO DE THYRA               | SIEMPRE ocurre (evento fijo) - Catalizador #2 - Final B depende de timing del asalto |
-| **Inmediatamente después**        | NOTICIA SE PROPAGA - Guerra espontánea                   | Los lugartenientes reaccionan (NO hay proclamación oficial)                          |
-| **11**                            | MOMENTO DE ELECCIÓN DE VARRAK                            | Varrak elige bando                                                                   |
-| **11**                            | LAS GEMELAS ELIGEN BANDO                                 | Gemelas eligen bando                                                                 |
-| **13**                            | LLAMADA DE LOS DIOSES                                    | Clímax comienza                                                                      |
-| **15**                            | UNO DE LOS CUATRO FINALES                                | Conclusión                                                                           |
-
----
-
-### **🎲 EVENTOS VARIABLES (Pueden o no ocurrir, depende de los PJ):**
-
-**Combates con Lugartenientes:**
-- Los PJ eligen cuándo y a quién enfrentar
-- Pueden derrotar, negociar, o evitar a cada lugarteniente
-
-**Eventos Aleatorios (1d12):**
-- Tira cada 2-3 sesiones para eventos del mundo
-- Ver `19_Tablas_Eventos.md` (Tabla de Eventos Aleatorios)
-
-**Alianzas:**
-- Los PJ pueden aliarse con Anacronistas, Oceánicos de las Profundidades, lugartenientes específicos
-- Depende de sus decisiones y acciones
-
-**Revelaciones sobre Manshoon:**
-- Ocurren en Sesiones 8, 10, 11, 12, 13
-- Pero los PJ pueden descubrir antes si investigan activamente
-
----
-
-## 📝 **CONSEJOS PARA EL DM**
-
-### **Flexibilidad dentro de la Estructura:**
-
-**Eventos Fijos son Anclas:**
-- Los eventos fijos (robos, asesinato de Thyra, Reacción Espontánea) anclan la narrativa
-- PERO los PJ pueden alterar las consecuencias (aunque el Talismán siempre se crea y Thyra siempre muere, sus acciones afectan el timing del asalto final)
-- Si los PJ alteran un evento fijo, improvisa consecuencias lógicas
-
-**Sandbox es Real:**
-- Entre las Sesiones 6-12, los PJ tienen libertad TOTAL
-- No fuerces un orden específico de lugartenientes
-- Los lugartenientes que los PJ no alcancen son absorbidos por Teach o caen en la guerra civil; eso **alimenta el Reloj** (ver Motor de Campaña)
-- Actualiza el **Reloj del Ritual** y el estado de regiones después de cada sesión
-
-**Timing del clímax (Fase 4):**
-- La Torre se abre cuando el **Reloj llega a 8** (Llamada de los Dioses), no en una sesión fija — cae hacia las Sesiones 13-15 según el ritmo de la mesa
-- El final depende del tablero: si los PJ llegan a tiempo (Final A/C), si Teach intercepta primero (Final B), o si el Reloj se agota sin ellos (Final D)
-- Ajusta cuándo cae cada segmento según el progreso narrativo
-
-### **Urgencia Escalable:**
-
-**Reloj 2-3/8 (Sesiones 1-3):** Sin urgencia, exploración tranquila  
-**Reloj 3-4/8 (Sesiones 4-6):** Urgencia moderada (robos, asesinato de Thyra → salto del Reloj)  
-**Reloj 4-6/8 (Sesiones 6-9):** Guerra entre lugartenientes; el "hipo del Contador" destapa a Teach  
-**Reloj 6-7/8 (Sesiones 10-12):** Urgencia creciente; revelaciones sobre Manshoon; posible sacrificio de Varrak  
-**Reloj 8/8 (Sesiones 13-15):** ⚠️⚠️⚠️ **LLAMADA DE LOS DIOSES** — se abre la Torre, clímax y uno de los 4 finales
-
----
-
-## 🔗 **REFERENCIAS A OTROS DOCUMENTOS**
-
-| **Documento** | **Qué Contiene** | **Cuándo Usarlo** |
-|--------------|------------------|-------------------|
-| **01_Como_Dirigir.md** | Recorrido fase a fase, Reloj y Puertas | Preparar cada fase |
-| **06_Facciones_Organizaciones.md** | Info sobre Anacronistas, Oceánicos de las Profundidades, Cronófagos | Sesiones 2+ |
-| **14_Arco_de_Barbanegra.md** | Robos y traiciones (Sesiones 4-6) | Preparar Sesiones 4-6 |
-| **21_Objetos_Magicos_Reliquias.md** | Sistema de Anillos de Poder | Sesiones 14+ |
-| **20_Tablas_Tracking_Campana.md** | Tablas completas de tracking + Resolución final | Toda la campaña (actualizar después de cada sesión) |
-| **02_El_Semiplano.md** | Tabla maestra de regiones | Toda la campaña |
-| **04_Escenas_de_Revelacion.md** (Fase_2_Sandbox_Inicial) | Revelaciones sobre Manshoon (Sesiones 8-13) | Preparar Sesiones 8-13 |
-| **05_Encuentro_Anacronistas_Relojeros.md** (Fase_2_Sandbox_Inicial) | Contador del Ritual (Sesión 8-9) | Preparar Sesión 8-9 |
-| **01_Como_Dirigir.md** (clímax) | Clímax: asalto a la Torre de la Eternidad | Preparar Sesiones 13-15 |
-| **00_Esquemas/03_Torre_Eternidad.md** | Niveles de la Torre y los 4 finales | Preparar el clímax |
-| **01_Como_Dirigir.md** | Reloj, puertas, villanos críticos, Teach, Varrak | Toda la campaña |
-
----
-
-*Este documento es la columna vertebral de tu campaña. Para información detallada de cada fase, consulta las Guías Generales correspondientes.* ⏰✨
+*Consulta rápida, no biblia: la campaña vive en el Capítulo 1. Aquí solo se ordenan sus fechas.* ⏰

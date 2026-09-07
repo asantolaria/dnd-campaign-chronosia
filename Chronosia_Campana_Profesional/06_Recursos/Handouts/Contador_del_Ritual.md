@@ -1,6 +1,6 @@
 # 🕰️ Contador del Ritual
 
-### *Aparato de medición anacronista — Plaza de los Engranajes, Cronópolis*
+### *Aparato de medición anacronista — Plaza del Reloj, Cronópolis*
 
 ---
 

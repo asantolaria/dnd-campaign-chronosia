@@ -5,7 +5,7 @@
 
 ## ⏳ **EXPLICADORES DEL RELOJ DEL RITUAL**
 
-> **Sistema vigente:** estos NPCs ya **no** explican un "balance temporal/dimensional" (sistema retirado). Explican el **Reloj del Ritual** — el Contador de 8 segmentos que mide la ascensión de Aethernus. Ver fuente única: [10_Motor_de_Campana_Reloj_y_Puertas.md](../01_Como_Dirigir.md).
+> **Sistema vigente:** estos NPCs ya **no** explican un "balance temporal/dimensional" (sistema retirado). Explican el **Reloj del Ritual** — el Contador de 8 segmentos que mide la ascensión de Aethernus. Ver fuente única: [Cómo Dirigir](../01_Como_Dirigir.md). **Recuerda: a 8/8 la ascensión se consuma (derrota, Final D); la Torre se abre con la llave chroniana, nunca con el Reloj.**
 
 ### **🔮 Galen (Anacronistas) - Explicador Principal**
 
@@ -20,17 +20,17 @@
 **Diálogos Clave**:
 
 #### **Primera Explicación del Reloj**
-*"Escuchad, jóvenes. Aethernus no se limita a gobernar: está completando un ritual de ascensión divina. Su poder se filtra a través de sus lugartenientes, y mientras tanto la cuenta atrás avanza. Mirad este Contador: ocho segmentos. Cuando se agote, los dioses serán llamados y se abrirá la Torre."*
+*"Escuchad, jóvenes. Aethernus no se limita a gobernar: está completando un ritual de ascensión divina. Su poder se filtra a través de sus lugartenientes, y mientras tanto la cuenta atrás avanza. Mirad este Contador: ocho segmentos. Cuando se agote, la ascensión se habrá consumado — y entonces ya no habrá nada que hacer."*
 
 *"El Contador avanza con el tiempo: cada región que exploráis a fondo consume semanas, y el ritual aprovecha cada una. También salta con los golpes de Barbanegra. Pero se frena cuando cortáis un canal de poder divino: matar a un crítico —Vorthak, Ignis, el propio Teach— estanca el ritual. Nuestros sabotajes lo congelan una temporada."*
 
 *"No podéis hacerlo todo. Debéis elegir dónde lucháis. Lo que dejéis sin hacer, lo aprovecha el enemigo."*
 
 #### **Advertencia: el Contador avanza**
-*"El Contador ha ganado otro segmento. La ascensión se acerca. Si seguís dejando que el tiempo corra sin cortar canales de poder, llegaremos a la Llamada de los Dioses sin estar preparados."*
+*"El Contador ha ganado otro segmento. La ascensión se acerca. Si seguís dejando que el tiempo corra sin cortar canales de poder, se consumará antes de que estéis preparados."*
 
 #### **Advertencia: zona crítica del Reloj**
-*"El Contador está casi lleno. Quedan apenas un par de segmentos antes de la Llamada de los Dioses y la apertura de la Torre. Lo que vayáis a hacer, hacedlo ya."*
+*"El Contador está casi lleno. Quedan apenas un par de segmentos antes de que la ascensión sea irreversible. Si aún no tenéis la llave completa, lo que vayáis a hacer, hacedlo ya."*
 
 ### **🔮 Varrak del Horizonte - Confirmación Visual**
 
@@ -41,10 +41,10 @@
 **Diálogos Clave**:
 
 #### **Visión del Futuro Catastrófico (el ritual se completa)**
-*"Veo el futuro donde no llegáis a tiempo. El Contador se agota, los dioses son llamados, la Torre se abre... y Aethernus asciende antes de que entréis. En ese futuro, todo lo que conocéis se disuelve en su eternidad."*
+*"Veo el futuro donde no llegáis a tiempo. El Contador se agota... y Aethernus asciende sin que nadie haya cruzado su puerta. En ese futuro, todo lo que conocéis se disuelve en su eternidad."*
 
 #### **Visión de Barbanegra (el usurpador)**
-*"Veo otro futuro: mientras vosotros os demoráis, un hombre de barba negra caza lugarteniente tras lugarteniente. Cuando la Torre se abre, es él quien entra primero, hinchado con poder robado. No sé deciros cuál de los dos es peor."*
+*"Veo otro futuro: mientras vosotros os demoráis, un hombre de barba negra caza lugarteniente tras lugarteniente. Cuando la Torre por fin se muestra, es él quien cruza el umbral primero, hinchado con poder robado. No sé deciros cuál de los dos es peor."*
 
 #### **Visión del Futuro Esperanzador**
 *"Pero hay un futuro donde cortáis los canales a tiempo, frenáis el ritual y llegáis a la Torre antes que él. Es estrecho. En casi todos los demás, perdemos. Ese es el que debéis elegir."*
@@ -72,7 +72,7 @@
 *"El Contador ha ganado otro segmento. La ascensión se acerca y nuestros dispositivos anti-distorsión empiezan a notar la tensión. Cada semana que pasa, el enemigo está más cerca."*
 
 #### **Lectura: zona crítica**
-*"¡CRÍTICO! El Contador está casi lleno. Cuando se complete, los dioses serán llamados y la Torre se abrirá. Si vais a cortar más canales de poder, es ahora o nunca."*
+*"¡CRÍTICO! El Contador está casi lleno. Cuando se complete, la ascensión se consuma y todo esto habrá sido para nada. Si vais a cortar más canales de poder, es ahora o nunca."*
 
 ---
 
@@ -85,12 +85,13 @@
 - **Muerte**: Asesinado por un cronófago durante el Festival del Reloj
 - **Legado**: Su torre contiene pistas cruciales sobre Chronosia
 
-### **⚔️ El Cronófago Asesino - La Amenaza Inmediata**
+### **⚔️ Kaelthas, el Cronófago Asesino - La Amenaza Inmediata**
 - **Descripción**: Humanoide distorsionado con partes del cuerpo de diferentes edades
-- **Profesión**: Asesino profesional de los cronófagos
-- **Importancia**: Representa la primera amenaza real de la campaña
+- **Profesión**: Asesino profesional de los Cronófagos, enviado a silenciar a Thaddeus
+- **Importancia**: El villano de la Sesión 1; su derrota y su rastro llevan a los PJ hasta Chronosia
 - **Objetivo**: Eliminar a cualquiera que investigue las distorsiones
 - **Poder**: Puede manipular el tiempo para sus ataques
+- **Al caer**: deja un reloj de bolsillo destrozado, un mapa parcial y su diario (ver [Cronología](07_Cronologia_Maestra_Campana.md))
 
 ### **📚 Volo - El Iniciador de la Misión**
 - **Descripción**: Humano gordo con sombrero de plumas y personalidad exuberante
@@ -99,12 +100,12 @@
 - **Motivación**: Quiere escribir sobre las distorsiones temporales
 - **Función**: Proporciona información y recursos iniciales
 
-### **🧙‍♂️ Elminster - El Aliado Poderoso**
+### **🧙‍♂️ Elminster - El Aliado Poderoso (solo Fase 0)**
 - **Descripción**: Humano anciano con barba blanca y personalidad sabia
 - **Profesión**: Archimago legendario de Faerûn
-- **Importancia**: Puede ayudar a los PJ con magia poderosa
+- **Importancia**: Cameo en Waterdeep; da contexto sobre Manshoon y los Zhentarim antes del cruce
 - **Motivación**: Quiere proteger Faerûn de las distorsiones
-- **Función**: Proporciona hechizos y consejos mágicos
+- **Límite**: **No puede seguir a los PJ a Chronosia ni ayudarlos allí** — el semiplano está aislado; solo el poder de un dios tiende puentes sobre las grietas
 
 ### **🗡️ Jarlaxle - El Aliado Ambiguo**
 
@@ -174,8 +175,6 @@
 
 **El Dispositivo Fallido**: El dispositivo de teletransportación que trajo a Din a Chronosia sigue siendo un misterio para él. A pesar de años de trabajo con Cornelius y los ingenieros, no ha podido hacerlo funcionar correctamente para regresar. El dispositivo parece requerir una fuente de energía temporal estable que simplemente no existe en Chronosia, o tal vez necesita ser activado desde el lado de Faerún. Esta frustración técnica constante es una de las razones por las que Din se ha dedicado tan intensamente a entender las distorsiones temporales - no solo para ayudar a Chronosia, sino también para encontrar una forma de volver a casa.
 
-**La Conexión con Thaddeus Ironwright - La Tragedia que Nunca Supo**: Din mantuvo correspondencia regular con Thaddeus Ironwright durante sus primeros años en Waterdeep, pero cuando fue arrastrado a Chronosia, esa comunicación se cortó abruptamente. Din no sabe que Thaddeus fue asesinado durante el Festival del Reloj Astronómico (Sesión 1 de la campaña). Si los PJ mencionan el asesinato de Thaddeus, Din reaccionará con shock y devastación, descubriendo que su amigo y mentor murió sin que él pudiera estar allí, sin que pudiera ayudar, sin siquiera saberlo. Esta revelación será profundamente dolorosa para Din, y puede convertirse en una motivación adicional para ayudar a los PJ a derrotar a los Cronófagos y encontrar una forma de regresar a Faerún.
-
 **El Reconocimiento de la Similitud con Barovia**: Cuando Din llegó a Chronosia y comenzó a entender su naturaleza, experimentó un escalofrío de reconocimiento terrible: **Chronosia es exactamente como Barovia**. Una región completa arrancada de su plano original, atrapada en un limbo entre planos, donde pocos pueden acceder y nadie puede escapar fácilmente. Esta similitud le causó una mezcla de terror y determinación: terror porque sabe lo que significa estar atrapado en un lugar así, y determinación porque esta vez, con su experiencia previa, puede hacer la diferencia.
 
 **Encuentro con Cornelius**: Cornelius, que había estado trabajando solo durante años, encontró a Din desorientado pero fascinado por los relojes y mecanismos que llenaban su taller. Lo que comenzó como una relación de maestro-aprendiz se convirtió rápidamente en una asociación de iguales. Din aportó conocimientos modernos de ingeniería gnomos y técnicas de artífice, mientras que Cornelius compartió su comprensión única del tiempo y su inmunidad a las distorsiones temporales.
@@ -209,7 +208,7 @@
 - **Sirviente Homúnculo**: Ha creado un homúnculo especial a partir de un cristal temporal estabilizado (valorado en al menos 100 po). El homúnculo puede detectar distorsiones temporales y alertar a Din.
 - **Anillo de Recarga de Conjuros**: Puede recuperar un espacio de conjuro gastado (nivel 3 o inferior) una vez por amanecer.
 - **Dispositivos de Estabilización Temporal**: Din ha desarrollado varios dispositivos únicos que ayudan a estabilizar pequeñas distorsiones temporales, trabajando en conjunto con los relojes de Cornelius.
-- **🔧 Calibrador del Contador del Ritual**: Din Goldgear aporta los sensores temporales que permiten calibrar el **Contador del Ritual** (el Reloj de 8 segmentos que los Anacronistas y La Resistencia montan en Cronópolis). Sus instrumentos detectan los "hipos" del Contador: cuando un lugarteniente cae ahí fuera, el flujo de poder divino parpadea y el Contador retrocede medio segmento antes de estabilizarse. Esto convierte el aparato en herramienta de pistas (saber que alguien —p. ej. Teach— ha matado a un lugarteniente) además de medidor de la cuenta atrás. Permite al Capitán Marcus dar lecturas precisas del estado del ritual. Ver [10_Motor_de_Campana_Reloj_y_Puertas.md](../01_Como_Dirigir.md).
+- **🔧 Calibrador del Contador del Ritual**: Din Goldgear aporta los sensores temporales que permiten calibrar el **Contador del Ritual** (el Reloj de 8 segmentos que los Anacronistas y La Resistencia montan en Cronópolis). Sus instrumentos detectan los "hipos" del Contador: cuando un lugarteniente cae ahí fuera, el flujo de poder divino **parpadea y el Contador se estanca un instante** (el Reloj nunca retrocede — la única excepción es el sacrificio de Varrak). Esto convierte el aparato en herramienta de pistas (saber que alguien —p. ej. Teach— ha matado a un lugarteniente) además de medidor de la cuenta atrás. Permite al Capitán Marcus dar lecturas precisas del estado del ritual. Ver [Cómo Dirigir](../01_Como_Dirigir.md).
 
 **Función en la Campaña - Mecenas y Creador de Artefactos**:
 - **Mecenas Importante**: Din se ha convertido en uno de los mecenas más importantes de la campaña, proporcionando recursos, información y apoyo logístico a los PJ
@@ -226,10 +225,9 @@
 Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es su "mano derecha", su relación es más profunda: Cornelius le ha dado un propósito y un hogar en un mundo fracturado. Din, a su vez, ha traído innovación y nuevas perspectivas al trabajo de Cornelius, permitiendo que ambos alcancen logros que no habrían sido posibles solos.
 
 **Momentos Narrativos Clave**:
-- **Primer Encuentro**: Los PJ pueden conocer a Din trabajando en el taller de Cornelius, ajustando un reloj complejo. Si mencionan el asesinato de Thaddeus Ironwright, Din reaccionará con shock y devastación - **no sabía que Thaddeus había muerto**. Esta será una revelación traumática para Din
-- **Revelación de su Historia**: Din comparte cómo llegó a Chronosia hace años, su conexión con Thaddeus (antes de quedar atrapado), y su experiencia en Barovia. Esta revelación puede ser un momento emocional poderoso, especialmente si los PJ también están atrapados en Chronosia
-- **Descubrimiento de la Muerte de Thaddeus**: Si los PJ mencionan el asesinato de Thaddeus, Din descubrirá que su amigo murió sin que él pudiera estar allí. Este momento puede ser extremadamente emocional y puede convertirse en una motivación adicional para ayudar a los PJ
-- **Reconocimiento de la Similitud**: Din puede advertir a los PJ sobre los paralelos entre Barovia y Chronosia, compartiendo lecciones aprendidas que pueden salvar vidas
+- **Primer Encuentro**: Los PJ pueden conocer a Din trabajando en el taller de Cornelius, ajustando un reloj complejo
+- **La muerte de Thaddeus**: Din mantuvo correspondencia con Thaddeus Ironwright hasta que quedó atrapado en Chronosia y **no sabe que fue asesinado** (Sesión 1). Si los PJ se lo cuentan, se derrumba — y esa herida se convierte en motivación férrea para ayudarlos. *(Úsalo una vez; es el gran momento emocional de Din.)*
+- **Revelación de su Historia**: Din comparte cómo llegó a Chronosia hace años y su experiencia en Barovia — puede advertir a los PJ sobre los paralelos entre ambas prisiones planares, compartiendo lecciones que salvan vidas
 - **Proyecto Conjunto**: Din y Cornelius pueden pedir ayuda a los PJ para un proyecto ambicioso de estabilización temporal, ofreciendo artefactos poderosos como recompensa
 - **Crisis Personal**: Si Cornelius está en peligro, Din hará cualquier cosa para protegerlo. Si los PJ mencionan a Thaddeus o a Barovia, puede tener reacciones emocionales intensas
 - **Creación de Artefactos Clave**: Din puede crear artefactos específicos necesarios para enfrentar a lugartenientes particulares o resolver problemas críticos de la campaña
@@ -283,12 +281,12 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 - **Mapas Interplanares**: Cartas que muestran conexiones entre diferentes realidades
 - **Objetos de Otros Planos**: Artefactos únicos de dimensiones exóticas
 
-### **🌿 Harlim "El Inalterado" - El Gran Chamán**
-- **Descripción**: Elfo anciano con tatuajes temporales y personalidad serena
-- **Profesión**: Gran chamán de los anacronistas
-- **Importancia**: Líder de la resistencia contra las distorsiones
+### **🌿 Harlim "El Inalterado" - El Gran Chamán de los Anacronistas**
+- **Descripción**: Chroniano anciano (a ojos foráneos pasa por semielfo) con tatuajes temporales y personalidad serena
+- **Profesión**: Gran chamán de los Anacronistas — la voz ritual del clan; **el líder es Galen**
+- **Importancia**: Oficia las Ceremonias del Amanecer y del Ocaso y custodia la memoria ceremonial del clan
 - **Poder**: Es inmune a todas las distorsiones temporales
-- **Función**: Proporciona rituales de estabilización y protección
+- **Función**: Proporciona rituales de estabilización y protección; segunda voz de exposición cuando Galen no está
 
 ### **⚙️ Capitán Marcus "El Inquebrantable" - Líder de La Resistencia**
 
@@ -298,7 +296,7 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 - **Edad**: 45 años, con cicatrices de batalla y ojos que han visto demasiado
 - **Profesión**: Capitán de La Resistencia en Chronosia
 - **Alineación**: Legal Neutral (con tendencia al Bien)
-- **Ubicación**: Fortaleza de Acero, bastión de seguridad en Chronópolis
+- **Ubicación**: Fortaleza de Acero, bastión de seguridad en Cronópolis
 
 **Descripción Física**: Un hombre de estatura media pero de constitución robusta, con brazos musculosos de años trabajando con metal y maquinaria. Su cabello castaño está salpicado de canas prematuras, y sus ojos grises tienen la mirada penetrante de quien ha visto la corrupción de la magia de cerca. Lleva siempre un delantal de cuero manchado de aceite y herramientas colgando de su cinturón. Su mano derecha es una prótesis mecánica compleja que él mismo diseñó.
 
@@ -366,10 +364,10 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 
 ---
 
-### **⚙️ Los Altos Oficiales de La Resistencia - Candidatos a Traidor**
+### **⚙️ Los Altos Oficiales de La Resistencia**
 
 **⚠️ IMPORTANTE PARA EL DM:**
-Uno de estos tres oficiales será **reemplazado por Serapis el Retroceso** durante la trama de "La Traición de Serapis". El DM debe elegir cuál según la narrativa y las interacciones previas con los PJ. El oficial elegido será asesinado por Serapis, quien se hará pasar por él durante la infiltración.
+Los tres altos oficiales dan cara y voz a La Resistencia en el día a día. **El topo de Serapis es Kaoros el Sordo — agente doble desde el principio** (ver su ficha y la NOTA CRÍTICA al final de esta sección; la trama completa está en *La Traición de Serapis*, [Cap. 14](../14_Arco_de_Barbanegra.md)). Balthar y Lucienne son leales: úsalos como pistas falsas naturales, no los conviertas en impostores.
 
 #### **🔧 Balthar Herrumbra - Maestro Ingeniero**
 
@@ -406,12 +404,6 @@ Uno de estos tres oficiales será **reemplazado por Serapis el Retroceso** duran
 - **Respeto Mutuo**: Balthar respeta las habilidades técnicas de Din, aunque desconfía de su uso de magia
 - **Colaboración Ocasional**: Trabajan juntos en proyectos que combinan ingeniería y artífice
 - **Tensión Filosófica**: Balthar cree que la tecnología pura es superior, mientras que Din combina magia y tecnología
-
-**Pistas de que es el Impostor (si Serapis se hace pasar por él)**:
-- **Conocimientos Técnicos Inconsistentes**: Puede no conocer detalles específicos de proyectos en los que Balthar trabajó
-- **Falta de Cicatrices**: Las manos del impostor no tendrán las cicatrices características de Balthar
-- **Comportamiento Temporal Extraño**: Sus movimientos pueden parecer "desfasados" temporalmente
-- **Notas o Documentos Desconocidos**: Balthar real puede haber dejado notas que el impostor no conoce
 
 ---
 
@@ -450,12 +442,6 @@ Uno de estos tres oficiales será **reemplazado por Serapis el Retroceso** duran
 - **Colaboración Científica**: Trabajan juntos frecuentemente, combinando ciencia y artífice
 - **Respeto Intelectual**: Se respetan mutuamente por sus conocimientos y métodos
 - **Debates Teóricos**: Tienen largas discusiones sobre la naturaleza de las distorsiones
-
-**Pistas de que es la Impostora (si Serapis se hace pasar por ella)**:
-- **Conocimientos Científicos Inconsistentes**: Puede no conocer detalles específicos de investigaciones en las que Lucienne trabajó
-- **Falta de Documentación Personal**: El impostor puede no tener acceso a los cuadernos personales de Lucienne
-- **Comportamiento Temporal Extraño**: Sus movimientos pueden parecer "desfasados" temporalmente
-- **Teorías Desconocidas**: Lucienne real puede haber desarrollado teorías que el impostor no conoce
 
 ---
 
@@ -510,19 +496,17 @@ Kaoros perdió su audición durante una misión contra cronófagos cuando una ex
 - **Conocimiento de Movimientos Enemigos**: Parece tener información sobre movimientos de Serapis que no debería tener (pero en realidad es porque se la pasa él mismo)
 - **Falta de Reacción a Distorsiones**: A veces no reacciona a distorsiones temporales que debería detectar (porque está ocupado comunicándose con Serapis)
 
-**⚠️ IMPORTANTE**: Los PJ NO deben descubrir esto hasta la revelación final. Las pistas deben ser extremadamente sutiles y solo evidentes en retrospectiva.
-
 ---
 
 **⚠️ NOTA CRÍTICA PARA EL DM:**
 
-**KAOROS ES EL TRAIDOR ELEGIDO** - No es un reemplazo, sino un agente doble desde el principio.
+**KAOROS ES EL TRAIDOR** — no es un reemplazo, sino un agente doble desde el principio.
 
 1. **Agente Doble desde el Principio**: Kaoros fue colocado por Serapis hace años, no es un reemplazo reciente
 2. **Comunicación Telepática**: Kaoros se comunica regularmente con Serapis usando su capacidad telepática
-3. **Fachada Perfecta**: Kaoros mantiene una fachada perfecta de lealtad mientras pasa información crucial
-4. **Pistas Extremadamente Sutiles**: Las pistas deben ser casi imperceptibles, solo evidentes en retrospectiva
-5. **Revelación Impactante**: Cuando se revele, debe ser un momento de shock total para los PJ
+3. **Fachada Perfecta**: Kaoros mantiene una fachada de lealtad mientras pasa información crucial
+4. **Pistas graduales, no imposibles**: siembra las pistas de arriba de forma que un grupo atento *pueda* cazarlas (una emboscada que solo se explica con filtración, el homúnculo de Din "vibrando" cerca de Kaoros, información que llega a Serapis antes de tiempo). Un misterio que no se puede ganar no es un giro: es una cinemática
+5. **Si los PJ lo destapan antes de tiempo**: prémialo. Serapis pierde a su topo — el juicio de Marcus (Cap. 14) se monta entonces sobre pruebas falsas plantadas *a la desesperada*, más fáciles de desmontar, y Kaoros huye o se convierte en prisionero-cebo. La trama no se rompe: cambia de forma
 
 ---
 
@@ -532,7 +516,7 @@ Kaoros perdió su audición durante una misión contra cronófagos cuando una ex
 
 Chronosia presenta un sistema único de mecenazgo donde los personajes pueden recibir apoyo de **tres fuentes complementarias**:
 
-#### **⏰ Maestro Relojero de Chronópolis - El Mecenas Místico**
+#### **⏰ Cornelius "El Inmutable" - El Mecenas Místico**
 - **Filosofía**: Acepta la magia como herramienta para restaurar el equilibrio
 - **Recursos**: Oro, equipo mágico, información arcana, artefactos temporales
 - **Método**: Recompensa el uso responsable de la magia y la restauración del tiempo natural
@@ -557,10 +541,10 @@ Chronosia presenta un sistema único de mecenazgo donde los personajes pueden re
 - **Objetivo Común**: Los tres quieren derrotar a los cronófagos y frenar la ascensión de Aethernus
 - **Información Compartida**: Pueden proporcionar inteligencia complementaria
 - **Recursos Combinados**: Los PJ pueden usar todos los tipos de equipamiento
-- **Din como Mediador**: Din puede ayudar a mediar entre Marcus (anti-magia) y el Maestro Relojero (pro-magia), ya que él combina ambos enfoques
+- **Din como Mediador**: Din puede ayudar a mediar entre Marcus (anti-magia) y Cornelius (pro-magia), ya que él combina ambos enfoques
 
 #### **⚔️ Momentos de Conflicto**
-- **Uso de Magia**: Marcus se opone al uso de magia, el Maestro Relojero la fomenta, Din la usa pragmáticamente
+- **Uso de Magia**: Marcus se opone al uso de magia, Cornelius la acepta como herramienta, Din la usa pragmáticamente
 - **Métodos Diferentes**: Enfoques opuestos para resolver los mismos problemas
 - **Lealtades Divididas**: Los PJ deben equilibrar las tres relaciones
 - **Din como Puente**: Din puede ayudar a los PJ a navegar estos conflictos, ofreciendo soluciones que combinen ambos enfoques
@@ -577,123 +561,25 @@ Chronosia presenta un sistema único de mecenazgo donde los personajes pueden re
 - **Equilibrio**: Mantener buenas relaciones con los tres mecenas
 - **Flexibilidad**: Adaptar métodos según la situación
 - **Diplomacia**: Explicar las decisiones difíciles a todos
-- **Din como Puente**: Usar a Din para mediar entre Marcus y el Maestro Relojero cuando haya conflictos
+- **Din como Puente**: Usar a Din para mediar entre Marcus y Cornelius cuando haya conflictos
 - **Aprovechar la Experiencia**: Escuchar los consejos de Din sobre Barovia - pueden salvar vidas
 - **Mencionar Thaddeus**: Si los PJ mencionan el asesinato de Thaddeus, Din será más generoso y accesible
 
 ---
 
-## 🎯 **CAMPAÑA DE LIBERACIÓN - MISIONES DEL CAPITÁN MARCUS**
+## 🎯 **MISIONES DE LA RESISTENCIA (Capitán Marcus)**
 
-### **🏰 Contexto Estratégico**
-Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estabilizados protegen a los ciudadanos de las distorsiones temporales y espaciales. Sin embargo, **cada región controlada por un lugarteniente** tiene poblados y ciudades pequeñas donde la gente vive **bajo el yugo de la magia distorsionada**. Marcus lidera la **campaña de liberación** para salvar estos territorios y neutralizar a los lugartenientes.
+Cronópolis es el único bastión seguro; en cada región hay poblados que viven bajo el yugo de la distorsión. Marcus quiere liberarlos — pero **las aventuras regionales viven en sus capítulos (Caps. 4-13)**: no dupliques misiones aquí. Lo que Marcus aporta al sandbox es:
 
-### **🗺️ Mapa de Liberación**
-- **Chronópolis**: Bastión seguro (Fortaleza de Acero)
-- **Regiones a Liberar**: 12 territorios controlados por lugartenientes
-- **Objetivo Final**: Llegar a la Torre de la Eternidad para enfrentar a Aethernus
-
----
-
-## 🌍 **MISIONES DE LIBERACIÓN POR REGIÓN**
-
-### **❄️ MISIÓN 1: "El Refugio Congelado" - Glacialis (Nivel 3-4)**
-**Lugarteniente**: Ymir el Eterno Invierno
-**Poblado**: Aldea de Hielo Eterno (población: 200 habitantes)
-**Problema**: Los aldeanos están congelados en el tiempo, viviendo el mismo día eternamente
-**Objetivo**: Liberar a los aldeanos de la estasis temporal y neutralizar a Ymir
-**Requisitos**: No usar magia temporal (Marcus se opone)
-**Recompensa**: Amuleto de Resistencia al Frío + acceso a tecnología de hielo
-**Desarrollo**: Los PJ deben usar tecnología para crear un campo de calor que rompa la estasis
-
-### **⏰ MISIÓN 2: "La Espiral de la Desesperación" - La Espiral Inversa (Nivel 4)**
-**Lugarteniente**: Serapis el Retroceso
-**Poblado**: Villa del Tiempo Perdido (población: 150 habitantes)
-**Problema**: Los aldeanos están atrapados en bucles temporales, repitiendo el mismo día
-**Objetivo**: Romper los bucles temporales y liberar a Serapis de su poder
-**Requisitos**: Demostrar que la tecnología puede superar la magia temporal
-**Recompensa**: Brújula de Tiempo Fracturado + información sobre otros lugartenientes
-**Desarrollo**: Los PJ deben construir un dispositivo que estabilice el flujo temporal
-
-### **🌌 MISIÓN 3: "El Valle Suspendido" - Valle de la Aguja Suspendida (Nivel 5)**
-**Lugarteniente**: Thyra la Suspendida
-**Poblado**: Ciudad de Cristal Temporal (población: 300 habitantes)
-**Problema**: Los ciudadanos están petrificados en cristal temporal, conscientes pero inmóviles
-**Objetivo**: Liberar a los ciudadanos de la petrificación temporal
-**Requisitos**: Liderar la operación sin usar magia temporal
-**Recompensa**: Lente de Tiempo Detenido + acceso a la base de los Relojeros
-**Desarrollo**: Los PJ deben usar tecnología para crear vibraciones que rompan el cristal temporal
-
-### **🔥 MISIÓN 4: "Las Calderas Ardientes" - Las Calderas Dimensionales (Nivel 6)**
-**Lugarteniente**: Ignis el Devorador Espacial
-**Poblado**: Ciudad de Fuego Eterno (población: 250 habitantes)
-**Problema**: Los ciudadanos están atrapados en portales de fuego dimensional
-**Objetivo**: Cerrar los portales dimensionales y rescatar a los ciudadanos
-**Requisitos**: Demostrar que la tecnología puede cerrar portales mágicos
-**Recompensa**: Amuleto de Inmunidad al Fuego + granadas de neutralización
-**Desarrollo**: Los PJ deben construir dispositivos que sellen los portales dimensionales
-
-### **🌙 MISIÓN 5: "La Ciudad Subterránea" - Ciudad Subterránea de Veldrisza (Nivel 6-7)**
-**Lugarteniente**: Matrona Yrindra "La Tejedora Dimensional"
-**Poblado**: Colonia de Refugiados (población: 400 habitantes)
-**Problema**: Los refugiados están atrapados en redes espaciales que los conectan con Menzoberranzan
-**Objetivo**: Cortar las conexiones dimensionales y liberar a los refugiados
-**Requisitos**: Liderar la operación sin usar magia espacial
-**Recompensa**: Llave de Tejido Dimensional + acceso a tecnología secreta
-**Desarrollo**: Los PJ deben usar tecnología para cortar las redes espaciales
-
-### **🪞 MISIÓN 6: "El Jardín de los Espejos" - Jardín de los Tiempos Gemelos (Nivel 7-8)**
-**Lugarteniente**: Las Gemelas del Espejo - Lyra y Nyx
-**Poblado**: Villa de los Reflejos (población: 180 habitantes)
-**Problema**: Los aldeanos están atrapados en dimensiones espejo, confundidos sobre qué es real
-**Objetivo**: Destruir la dimensión espejo y liberar a los aldeanos
-**Requisitos**: Demostrar que la tecnología puede superar la magia dimensional
-**Recompensa**: Corona de Identidad Única + detector de magia avanzado
-**Desarrollo**: Los PJ deben construir dispositivos que estabilicen la realidad
-
-### **🏴‍☠️ MISIÓN 7: "El Archipiélago del Vortex" - Islas del Suroeste (Nivel 8-9)**
-**Lugarteniente**: Edward Teach "Barbanegra"
-**Poblado**: Puerto de las Islas Perdidas (población: 350 habitantes)
-**Problema**: Los marineros están atrapados en vórtices dimensionales en el mar
-**Objetivo**: Estabilizar los vórtices y rescatar a los marineros
-**Requisitos**: Liderar la operación naval sin usar magia
-**Recompensa**: Prótesis mecánica personalizada + acceso total al arsenal
-**Desarrollo**: Los PJ deben usar tecnología naval para estabilizar los vórtices
-
-### **👑 MISIÓN FINAL: "La Torre de la Eternidad" - Montañas del Norte (Nivel 10)**
-**Lugarteniente**: Aethernus Valcarys (Manshoon Clone #47)
-**Ubicación**: Más allá del Valle de la Aguja Suspendida, en las profundidades de las montañas del norte (dimensión de bolsillo)
-**Objetivo**: Infiltrarse en la Torre de la Eternidad y enfrentar al origen de todo
-**Requisitos**: Haber liberado al menos 6 regiones para obtener acceso
-**Recompensa**: Acceso a la Torre de la Eternidad + confrontación final
-**Desarrollo**: Los PJ deben usar todo el conocimiento y tecnología adquirida. El camino comienza en el Valle de la Aguja Suspendida (accesible tras la muerte de Thyra) y continúa por un sendero montañoso hacia el portal dimensional
-
----
-
-## 🎯 **SISTEMA DE PROGRESIÓN DE LIBERACIÓN**
-
-### **📊 Puntos de Liberación**
-- **Cada región liberada**: +1 Punto de Liberación
-- **Poblados salvados**: +0.5 Puntos de Liberación
-- **Lugartenientes neutralizados**: +2 Puntos de Liberación
-
-### **🔓 Desbloqueos por Progresión**
-- **3 Puntos**: Acceso a tecnología avanzada de Marcus
-- **6 Puntos**: Información sobre la ubicación de la Torre de la Eternidad
-- **9 Puntos**: Acceso a la Torre de la Eternidad
-- **12 Puntos**: Confrontación final con Aethernus
-
-### **💡 Beneficios de Liberar Regiones**
-- **Poblados Liberados**: Proporcionan refugio, suministros e información
-- **Lugartenientes Neutralizados**: Desbloquean objetos y conocimiento únicos
-- **Territorios Estabilizados**: Reducen las distorsiones temporales/espaciales
-- **Apoyo Popular**: Los PJ ganan aliados en cada región liberada
+- **Misiones de sabotaje**: golpes quirúrgicos contra la infraestructura cronófaga. Completar una **estanca el Reloj 1 hito** (ver [Cómo Dirigir](../01_Como_Dirigir.md)). Diséñalas como incursiones de una escena: volar un depósito de cristales, reventar una línea de suministro, extraer a un informante.
+- **Apoyo logístico en región**: si los PJ van a una región a por su lugarteniente, Marcus puede aportar equipo anti-magia, un par de zapadores, o inteligencia de La Resistencia (tiradas de [reconocimiento](../06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md) con ventaja).
+- **Su condición**: desconfía de la magia. Los PJ lanzadores pagan un peaje social (ver su progresión de relación, arriba); demostrarle que la magia puede liberar en vez de romper es parte de su arco.
 
 ---
 
 ## ⚔️ Lugartenientes del Cónclave
 
-> La lista canónica de lugartenientes, sus poderes, regiones, CR y statblocks está en **[../04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](./04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** (fuente de verdad). No la dupliques aquí.
+> La lista canónica de lugartenientes, sus poderes, regiones, CR y statblocks está en **[Cronófagos Detallado](04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** (fuente de verdad). No la dupliques aquí.
 
 ---
 
@@ -714,10 +600,10 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 - **Relevancia**: Sus destellos de poder alimentan a Aethernus y sus lugartenientes dimensionales
 
 ### **⚔️ La Batalla Eterna**
-- **Origen**: Manipulada por Aethernus usando el Cronosellado
+- **Origen**: La Guerra de los Dioses estalló sola hace ~800 años y rompió el mundo (ver [La Historia de Chronosia](../00_La_Historia_de_Chronosia.md)). Lo que hace Aethernus es **perpetuarla**: el Cronosellado mantiene a los dos dioses agotados enfrentados y encadenados para drenarlos
 - **Efecto**: Genera destellos de poder divino que alimentan las distorsiones
 - **Consecuencias**: El sufrimiento de ambos dioses se manifiesta en Chronosia
-- **Solución**: Los PJ deben liberar a ambos dioses o encontrar una alternativa
+- **Solución**: Los PJ deben liberar a ambos dioses (la llave chroniana) o encontrar una alternativa
 
 ---
 
@@ -729,11 +615,11 @@ Chronópolis es el **único bastión seguro** en todo Chronosia. Sus muros estab
 - **Vestimenta**: Capa de hilos temporales que brillan con la luz de mil estrellas, corona de cristales que laten como corazones
 
 ### **Historia y Origen - LA REVELACIÓN**
-**El Eterno** es en realidad **Manshoon Clone #47**, uno de los clones supervivientes del archimago Manshoon. Solo en momentos de máxima revelación se conoce su nombre real: Manshoon. Tras décadas de investigación oculta, este clone específico descubrió el punto crítico en el ciclo de resurrección de **Amaunator**, el dios del sol y el tiempo.
+**El Eterno** es en realidad **Manshoon Clone #47**, uno de los clones supervivientes del archimago Manshoon. Solo en momentos de máxima revelación se conoce su nombre real: Manshoon. Este clon halló Chronosia siglos después de la fractura y, en su centro, lo impensable: **dos dioses heridos y agotados por su guerra sin fin** —Amaunator (Tiempo) y Voidar (Espacio)—, lo bastante débiles para ser atrapados. *(La guerra estalló sola; el clon no la provocó — ver [La Historia de Chronosia](../00_La_Historia_de_Chronosia.md).)*
 
-Con fondos secretos de los **Zhentarim** y la ayuda de **Bregan D'aerthe** (contratados por Manshoon), este clone creó un artilugio mágico llamado **El Cronosellado** que le permitió alterar la conducta de Amaunator durante su resurrección, forzándolo a enfrentarse contra **Voidar**, el dios del espacio y la dimensión.
+Con fondos secretos de los **Zhentarim** y la ayuda de **Bregan D'aerthe** (contratados por Manshoon), este clon creó un artilugio mágico llamado **El Cronosellado**, con el que **encadenó a ambos dioses y perpetúa su batalla** para drenarlos gota a gota.
 
-Los destellos de poder generados por esta batalla divina son capturados por el Cronosellado y almacenados en el cuerpo del clone. Sin embargo, su cuerpo mortal no puede tolerar tanto poder divino, por lo que debe repartirlo entre sus lugartenientes, creando las distorsiones temporales y espaciales que afectan a Chronosia.
+Los destellos de poder generados por esa batalla divina son capturados por el Cronosellado y almacenados en el cuerpo del clon. Sin embargo, su cuerpo mortal no puede tolerar tanto poder divino, por lo que debe repartirlo entre sus lugartenientes, creando las distorsiones temporales y espaciales que afectan a Chronosia.
 
 **El Plan Maestro de Manshoon:** Controlar tanto el tiempo como el espacio para dominar completamente Faerûn y el multiverso, usando el poder divino robado para eliminar a todos sus otros clones y convertirse en el único Manshoon.
 
@@ -749,7 +635,7 @@ Como clone de Manshoon, busca el dominio absoluto del multiverso. Su visión es 
 Se alimenta de los destellos de poder generados por la batalla entre Amaunator y Voidar. Cada pulso de poder divino le otorga energía inmortal. Puede manipular tanto el tiempo como el espacio de todas las maneras posibles, mientras que sus secuaces solo pueden hacerlo de una forma específica (temporal o espacial).
 
 ### **Poderes Únicos**
-- **Control Total**: Combina todos los poderes de sus 12 lugartenientes
+- **Control Total**: Combina todos los poderes de sus lugartenientes (pierde el de cada uno que muere)
 - **Poderes Temporales**: Estasis, Reversión, Aceleración, Fragmentación, Bucles Temporales, Pinza Temporal
 - **Poderes Dimensionales**: Distorsión Espacial, Compresión, Portales, Fracturación, Inversión, Conexión Dimensional
 - **Pérdida Progresiva**: A medida que sus lugartenientes mueren, pierde esos poderes específicos

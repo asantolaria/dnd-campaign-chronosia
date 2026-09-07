@@ -1,45 +1,33 @@
 # 🗺️ Mapas de Chronosia
-## *Recursos Cartográficos*
+## *Inventario cartográfico*
+
+Los mapas viven en **`assets/mapas/`**. Esta página es el inventario real y la lista de pendientes.
 
 ---
 
-*Esta carpeta contendrá todos los mapas de la campaña.*
+## ✅ **MAPAS EXISTENTES** (`assets/mapas/`)
 
-## 📋 **MAPAS PENDIENTES**
-
-### **Mapas Principales:**
-- [ ] Mapa general de Chronosia (regenerar: el PNG actual trae nombres antiguos)
-- [ ] Mapa de Cronópolis (hub)
-- [ ] Mapa de la Torre de la Eternidad (clímax)
-
-### **Mapas de Regiones (10 regiones canónicas):**
-- [ ] La Espiral Inversa (Serapis)
-- [ ] Glacialis (Ymir)
-- [ ] El Jardín de los Tiempos Gemelos (Medusa + Las Gemelas)
-- [ ] El Abismo de los Posibles (Varrak)
-- [ ] Las Ruinas del Tiempo Perdido (Tempus)
-- [ ] La Mansión de la Sed Eterna (Vorthak)
-- [ ] El Archipiélago de Barbanegra (Teach)
-- [ ] Las Calderas Dimensionales (Ignis)
-- [ ] Las Llanuras de la Compresión (Dimensionalis)
-- [ ] La Ciudad Subterránea de Veldrisza (Veldrisza)
-- [ ] Valle de la Aguja (Thyra, caída) — umbral de la Torre
-
-### **Mapas de Aventuras:**
-- [ ] Torre del Reloj Astronómico
-- [ ] Fortalezas de lugartenientes
-- [ ] Mazmorras especiales
+| Archivo | Qué es | Se usa en |
+|---|---|---|
+| `00_mapa-general-chronosia.png` | Mapa general del semiplano ⚠️ *trae algunos nombres antiguos: fíate de la leyenda del Cap. 2* | Cap. 2 |
+| `01_espiral-inversa.png` … `10_calderas-dimensionales.png` | Los 10 mapas regionales (arte de región) | Caps. 4-13 |
+| `11_cronopolis.png` | Cronópolis (hub) | Cap. 3 |
+| `12_torre-eternidad.png` | La Torre de la Eternidad (exterior) | Cap. 15 |
+| `battlemap-fuerte-negro.jpg` | Battlemap del Fuerte Negro de Teach | Cap. 11 |
 
 ---
 
+## 📋 **PENDIENTES REALES** (por impacto en mesa)
+
+1. [ ] **Plantas de la Torre de la Eternidad** (4 niveles: Sala de Ecos, Corazón del Tiempo, Eliminatoria, Cámara de Ascensión) — es el clímax garantizado y no tiene mapa jugable
+2. [ ] **Mapa de jugador** del semiplano (sin ubicaciones-spoiler: isla de Teach, Abysara) — para poner en la mesa desde la sesión 2
+3. [ ] **Regenerar el mapa general** (el PNG actual conserva nombres antiguos de regiones)
+4. [ ] Battlemap de **La Mansión de la Sed Eterna** (interior por salas)
+5. [ ] Battlemap de la **Galería de Azogue / Estanque de Lágrimas** (Cap. 5)
+
 ---
 
-## 📝 **NOTAS IMPORTANTES**
+## 📝 **NOTAS**
 
-- Los mapas (general + 10 regiones + Cronópolis + Torre) están en `assets/mapas/`
-- Los prompts para regenerarlos están en `assets/Prompts_Arte_Chronosia.md`
-- Las descripciones geográficas detalladas están en `03_Regiones/08_Geografia_y_Regiones_de_Chronosia.md`
-
----
-
-*Última actualización: Diciembre 2025*
+- Los prompts para regenerar arte están en `assets/Prompts_Arte_Chronosia.md`
+- Las descripciones geográficas viven en cada capítulo de región (Caps. 4-13) y en el Cap. 2

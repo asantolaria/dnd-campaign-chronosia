@@ -43,7 +43,7 @@ No necesitas tirar tablas constantemente. Basta con tener presentes cuatro verda
 - **El descanso depende del suelo que pisas.** En zonas seguras (un puesto de avanzada anclado, una aldea protegida, y sobre todo Cronópolis) descansar **no** alimenta la cuenta atrás del enemigo. En el corazón distorsionado de una región, en cambio, cada demora la nutre. Los PJ aprenderán pronto a elegir *dónde* paran.
 - **Las distorsiones tienen anclas.** El bucle de una región no es magia ambiental sin causa: se sostiene con **anclas** físicas —un arma oxidada que un fantasma repite, un cristal en una cripta, un reloj de arena tallado en la roca. Romperlas afloja la región. Esto da agencia a los jugadores: el mundo roto **se puede empujar**.
 
-> **El único reloj que de verdad corre.** Por encima de todas las distorsiones locales hay una cuenta atrás real: el **Reloj del Ritual**, un marcador de **8 segmentos** que mide cuánto le falta a Aethernus para completar su ascensión. Empieza ya avanzado y sube cuando los PJ exploran a fondo y cuando Barbanegra golpea; se frena cuando cortan un canal de poder divino (derrotar a un lugarteniente crítico) o con los sabotajes de los Anacronistas. Los PJ lo ven encarnado en el **Contador del Ritual** de Cronópolis. A 8/8 suena la **Llamada de los Dioses** y se abre la Torre. *Mecánica completa en el Capítulo 1 y en el Motor de Campaña; aquí solo importa que sepas que el tiempo, en Chronosia, no es decorado: es el enemigo silencioso.*
+> **El único reloj que de verdad corre.** Por encima de todas las distorsiones locales hay una cuenta atrás real: el **Reloj del Ritual**, un marcador de **8 segmentos** que mide cuánto le falta a Aethernus para completar su ascensión. Empieza ya avanzado y sube cuando los PJ exploran a fondo y cuando Barbanegra golpea; se frena cuando cortan un canal de poder divino (derrotar a un lugarteniente crítico) o con los sabotajes de los Anacronistas. Los PJ lo ven encarnado en el **Contador del Ritual** de Cronópolis. **A 8/8 la ascensión se consuma: es la derrota (Final D), no una puerta que se abre** — la Torre se asalta cuando los PJ reúnen la llave chroniana, corriendo contra ese reloj. *Mecánica completa en el Capítulo 1; aquí solo importa que sepas que el tiempo, en Chronosia, no es decorado: es el enemigo silencioso.*
 
 ---
 
@@ -73,7 +73,7 @@ Y, en el centro, anclando el espejo roto:
 Y dos lugares que **no** son destino del grupo, pero pesan sobre todo el mapa:
 
 - **El Valle de la Aguja** *(Thyra la Suspendida — inaccesible)* — Vedado por una barrera de estasis que solo Barbanegra puede cruzar. Cuando Teach asesina a Thyra para robarle el poder (evento fijo de su trama), la estasis cae y el valle queda devastado, convertido en el **umbral de la Torre**.
-- **La Torre de la Eternidad** *(Aethernus — el clímax)* — La fortaleza del archimago, recluida en una dimensión de bolsillo más allá del Valle de la Aguja, fuera del alcance del Cronómetro y de todo. Solo se abre cuando el Reloj llega a 8/8 y suena la Llamada de los Dioses.
+- **La Torre de la Eternidad** *(Aethernus — el clímax)* — La fortaleza del archimago, recluida en una dimensión de bolsillo más allá del Valle de la Aguja, fuera del alcance del Cronómetro y de todo. No la abre el Reloj: solo se entra reuniendo la **llave chroniana** (las dos mitades del pueblo partido) y conociendo la entrada. Si el Reloj llega a 8/8 antes, la ascensión se consuma (Final D).
 
 ### Leyenda del mapa: región → lugarteniente
 

@@ -23,7 +23,7 @@
 
 ## 1. **RELOJ DEL RITUAL**
 
-> Única cuenta de presión de la campaña. Marcador de **8 segmentos** (empieza en **2/8**) que mide la ascensión de Aethernus. A 8 → **Llamada de los Dioses** → se abre la Torre (Fase 4). Fuente: [01_Como_Dirigir.md](../../01_Como_Dirigir.md).
+> Única cuenta de presión de la campaña. Marcador de **8 segmentos** (empieza en **2/8**) que mide la ascensión de Aethernus. A **8/8 la ascensión se consuma (derrota, Final D)**; la Torre se abre con la llave chroniana (Cap. 15). Fuente: [01_Como_Dirigir.md](../../01_Como_Dirigir.md).
 
 ### **⏳ Marcador**
 
@@ -56,7 +56,7 @@
 | ⏸️ **Se estanca** | Derrotar a un lugarteniente **CRÍTICO** (Vorthak, Ignis o Teach → corta un canal divino): el siguiente avance no cuenta |
 | ⏸️ **Congela 1** | Misión de sabotaje de los Anacronistas |
 | ⬇️ **−1** | Sacrificio de Varrak (con el reloj en zona crítica ≥6/8) |
-| 🔔 **8/8** | Llamada de los Dioses → Torre de la Eternidad → Fase 4 |
+| 💀 **8/8** | La ascensión se consuma → **Final D** (la Torre NO se abre con el Reloj) |
 
 ### **🔎 El "hipo" del Contador:**
 Toda muerte de lugarteniente corta un canal divino y el Contador lo acusa con un parpadeo/retroceso de medio segmento. Si **no** la causaron los PJ, los Anacronistas detectan la anomalía → los PJ investigan. Si la región **sigue rota** (no se restaura) = Teach interceptó el poder. Es la forma principal de destapar la caza de lugartenientes de Barbanegra.
@@ -98,16 +98,16 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **Cronópolis** (hub) | — | Centro Seguro | — | Siempre abierta | | ✅ Desbloqueada | |
 | **La Espiral Inversa** | Serapis | Temporal | 5-7 | Entrada abierta · da el Núcleo del Rotor | | 🔓 Desbloqueada | |
 | **Glacialis** | Ymir | Dimensional | 5-7 | Entrada abierta · da la Carcasa del Rotor | | 🔓 Desbloqueada | |
-| **El Abismo de los Posibles** | Varrak | Temporal | 7-8 | Tras derrotar 1 lugarteniente | | 🔒 | |
-| **El Jardín de los Tiempos Gemelos** | Medusa + Las Gemelas | T/D | 5-10 | Tras derrotar 1 lugarteniente | | 🔒 | |
-| **El Archipiélago de Barbanegra** | Edward Teach | Independiente | 7-9 | Motor de Viento (Rotor = Serapis+Ymir); NO depende de Thyra | | 🔒 → 🔓 (Motor construido) | |
-| **Las Ruinas del Tiempo Perdido** | Tempus | Temporal | 8-10 | Requiere la Arena del Tiempo (de Serapis) | | 🔒 | |
+| **El Abismo de los Posibles** | Varrak | Temporal | 5-8 | Entrada abierta (más dura: entra con nivel) | | 🔓 Desbloqueada | |
+| **El Jardín de los Tiempos Gemelos** | Medusa + Las Gemelas | Temporal | 5-8 | Entrada abierta (más dura: entra con nivel) | | 🔓 Desbloqueada | |
+| **El Archipiélago de Barbanegra** | Edward Teach | Híbrido (crítico) | 7-9 | Motor de Viento (Rotor: cualquier temporal + cualquier dimensional) | | 🔒 → 🔓 (Motor construido) | |
+| **Las Ruinas del Tiempo Perdido** | Tempus | Temporal | 8-10 | Requiere una Arena del Tiempo (cualquier lugarteniente temporal) | | 🔒 | |
 | **La Mansión de la Sed Eterna** | Vorthak | Temporal | 8-10 | Alto nivel (ver Mapa de Puertas) | | 🔒 | |
-| **Las Calderas Dimensionales** | Ignis | Dimensional | 8-10 | Motor de Viento / red de portales | | 🔒 | |
+| **Las Calderas Dimensionales** | Ignis | Dimensional | 8-10 | Alto nivel (ver Mapa de Puertas) | | 🔒 | |
 | **Las Llanuras de la Compresión** | Dimensionalis | Dimensional | 9-10 | Derrotar a Ignis | | 🔒 | |
-| **La Ciudad Subterránea de Veldrisza** | Yrindra | Dimensional | 9-10 | Derrotar a Teach / entrada secreta de Varrak | | 🔒 | |
+| **La Ciudad Subterránea de Veldrisza** | Yrindra | Dimensional | 9-10 | Derrotar a Ignis (abre el ala profunda) | | 🔒 | |
 | **Valle de la Aguja** | Thyra (caída) | Temporal | ≤10 | Inaccesible para los PJ (solo Teach); umbral de la Torre tras su muerte | | ⚰️ | |
-| **Torre de la Eternidad** | Aethernus (Manshoon) | Clímax | 10 | Reloj a 8/8 (Llamada de los Dioses) | | 🔒 Hasta Reloj 8/8 | |
+| **Torre de la Eternidad** | Aethernus (Manshoon) | Clímax | 10 | Llave chroniana + entrada conocida (Cap. 15) | | 🔒 Hasta tener la llave | |
 
 ### **📝 Notas de Tracking:**
 - **Total de Regiones:** 11 con lugarteniente + Cronópolis (hub) + Torre de la Eternidad (clímax)
@@ -162,7 +162,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **Dimensionalis** | Dimensional | ✅ Activo   | —                    | Las Llanuras de la Compresión | Independiente             |
 | **Ignis**         | Dimensional | ✅ Activo   | —                    | Las Calderas Dimensionales | Líder Bando Dimensional (crítico) |
 | **Yrindra**     | Dimensional | ✅ Activo   | —                    | La Ciudad Subterránea de Veldrisza | Aliada de Ignis      |
-| **Las Gemelas**   | Dimensional | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos | Neutral; eligen en Fase 3 |
+| **Las Gemelas**   | Temporal    | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos | Neutral; eligen en Fase 3 |
 | **Medusa**        | Temporal              | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos |                        |
 | **Tempus**        | Temporal              | ✅ Activo   | —                    | Las Ruinas del Tiempo Perdido |                          |
 | **Ymir**          | Dimensional           | ✅ Activo   | —                    | Glacialis                 |                               |
@@ -281,7 +281,7 @@ Cada lugarteniente porta un **anillo de poder** (canalizador de Aethernus) y, en
    - Recuerda a los PJ qué regiones/lugartenientes han quedado sin tocar (alimentan a Teach)
 
 4. **Al llegar el Reloj a 8/8 (Fase 4: Clímax):**
-   - **Llamada de los Dioses** → se abre la Torre de la Eternidad
+   - **8/8: la ascensión se consuma → Final D** (la Llamada de los Dioses suena al reunir la llave, no a 8/8)
    - El final depende del estado del tablero: a quién derrotaron, si Teach llegó antes, si reunieron a Anacronistas + Oceánicos (ver finales en el Motor de Campaña)
 
 5. **Durante la Sesión:**

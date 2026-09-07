@@ -2,7 +2,7 @@
 
 ![Mapa de El Abismo de los Posibles](../../assets/mapas/05_abismo-de-los-posibles.png)
 
-## Lugarteniente: Varrak el Oráculo (realidades paralelas; predice futuros) · Tipo: Dimensional · Nivel PJ: 7-8
+## Lugarteniente: Varrak el Oráculo (visión de futuros posibles) · Tipo: Temporal · Nivel PJ: 7-8
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales. Aquí las realidades alternativas se superponen como cristales mal cortados: caminas y, sin querer, pisas la versión de ti que tomó otra decisión. La probabilidad gotea. Lo que pudo ser acecha junto a lo que es.
 

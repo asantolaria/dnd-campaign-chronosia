@@ -164,7 +164,25 @@ Un templo griego en la colina más alta del ala este, sin dios conocido. Sus col
 
 **Pista/secreto:** este es el punto donde los PJ pueden empezar a **negociar la alianza** (ver más abajo). Si convencen a las Gemelas de que ofrecen "un futuro mejor que el de Aethernus", el combate final puede convertirse en pacto.
 
-**Lleva a:** detrás del altar, una escalera baja al Estanque de Lágrimas, donde las Gemelas tienen su verdadero cuerpo.
+**Lleva a:** detrás del altar, una escalera baja al Estanque de Lágrimas, donde las Gemelas tienen su verdadero cuerpo. La escalera atraviesa la **Galería de Azogue** (zona 8b) — se puede cruzar a la carrera, o jugarla.
+
+### 8b · La Galería de Azogue *(mazmorra opcional de espejos)*
+
+Un pasadizo excavado bajo el templo, forrado de espejos de todos los tamaños: la antesala con la que las Gemelas **miden** a sus visitas. No hay monstruos aquí — hay reflejos.
+
+> *Leído al bajar:* "La escalera se abre a una galería donde vuestras antorchas se multiplican por cien. En el primer espejo no os reflejáis en absoluto: solo la piedra vacía. En el segundo, vuestro reflejo ya está ahí **antes de que lleguéis**, esperándoos con los brazos cruzados. Levanta una mano. No es un saludo: os está *pidiendo* algo."*
+
+**Cómo funciona:** los reflejos actúan por su cuenta, pero **no son hostiles**: son los "yos del otro lado", y la galería solo se cruza **colaborando con ellos**. La puerta del fondo tiene dos cerraduras — una a cada lado del cristal.
+
+- **La Llave Partida:** en este lado hay una llave sin dientes; en el reflejo, los dientes sin llave. Hay que *pasarla* a través del espejo apoyándola contra el cristal a la vez que el reflejo apoya la suya (Sabiduría (Perspicacia) CD 13 para sincronizarse leyendo los gestos del reflejo).
+- **Los Interruptores Gemelos:** dos palancas que deben bajarse **simultáneamente** a ambos lados. El reflejo imita con medio segundo de retraso: hay que aprender a "guiarlo" moviéndose despacio (Destreza (Juego de Manos) o Actuación CD 13; SelHe, si los acompaña, sabe el truco).
+- **El Paso Reflejado:** un tramo de baldosas donde solo es segura la casilla que el reflejo pisa *al revés*. Memorizar y espejar la secuencia (Inteligencia CD 13; el grupo que dominó el truco del Jardín Dormido tiene ventaja).
+
+**Fallar no mata:** cada fallo despierta 1 **Reflejo Hostil** (ver bestias firma) que sale de un espejo lateral — la galería castiga la impaciencia, no la torpeza.
+
+**Recompensa:** cruzar la galería colaborando (sin romper ningún espejo) cambia el tono del encuentro final: las Gemelas reciben a los PJ **como invitados** — ventaja en las tiradas sociales de la negociación de alianza, y Lyra y Nyx empiezan la conversación revelando cuál de las dos está en qué lado. Cruzarla a mandoble limpio también funciona… pero el Estanque recibirá a "los que rompen cosas".
+
+**Lleva a:** la orilla del Estanque de Lágrimas.
 
 ### 9 · El Estanque de Lágrimas *(guarida de las Gemelas del Espejo)*
 

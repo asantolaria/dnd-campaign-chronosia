@@ -242,7 +242,7 @@ Chronosia_Campana_Profesional/
 - **La guerra civil entre lugartenientes** surgió orgánicamente tras la muerte de Thyra; quien la escala de verdad es **Teach** (absorbe a los que los PJ no alcanzan)
 
 ### **Sistemas Críticos (vigentes — ver keystone `10_Motor_de_Campana_Reloj_y_Puertas.md`):**
-- **El Reloj del Ritual:** marcador de 8 segmentos (empieza en 2/8); mide la ascensión de Aethernus. Avanza al explorar regiones y con los hitos de Teach; se frena al matar a un crítico (Vorthak/Ignis/Teach), con sabotaje Anacronista o con el sacrificio de Varrak (−1). A 8 → Llamada de los Dioses → Torre
+- **El Reloj del Ritual:** marcador de 8 segmentos (empieza en 2/8); mide la ascensión de Aethernus. Avanza al explorar regiones y con los hitos de Teach; se frena al matar a un crítico (Vorthak/Ignis/Teach), con sabotaje Anacronista o con el sacrificio de Varrak (−1). A 8/8 la ascensión se consuma (derrota, Final D); la Torre se abre con la llave chroniana + entrada conocida (Llamada de los Dioses, Cap. 15)
 - **Escalada de villanos:** la encarna Teach, NO los "Lugartenientes Supremos" (retirado: poder ×3 + inmortalidad)
 - **Finales:** dependen del estado del tablero al abrirse la Torre (A/B/C/D)
 - ⚠️ **RETIRADO:** balance temporal/dimensional, sistema de "15 puntos = Supremo", viaje al pasado / mundo post-ritual

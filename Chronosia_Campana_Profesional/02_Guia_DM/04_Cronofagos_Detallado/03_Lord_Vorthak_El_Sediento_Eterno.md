@@ -181,7 +181,7 @@ Vorthak es el lugarteniente más despiadado de todos. Solo le importa **su plano
 Su único objetivo es **quedarse con toda Chronosia**. Ve a Aethernus únicamente como una fuente de poder, no como un líder al que servir. Si pudiera robar el poder de Aethernus, lo haría sin dudarlo.
 
 **Relación con Otros Lugartenientes:**
-- **Serapis:** NO puede aliarse con él (se van a realizar cambios en las dinámicas)
+- **Serapis:** NO puede aliarse con él — Serapis finge sumisión mientras conspira por su cuenta (Cap. 14)
 - **Varrak:** Lo ve como una amenaza potencial que debe ser eliminada
 - **Otros Temporales:** Los usa como herramientas, no como aliados verdaderos
 
@@ -196,7 +196,7 @@ Vorthak es principalmente un **enemigo a derrotar**. No tiene ganchos narrativos
 - **El más despiadado:** Es el lugarteniente más despiadado de todos
 - **Solo le importa su plano:** Su único objetivo es quedarse con toda Chronosia
 - **Solo le importa el poder de Aethernus:** Ve a Aethernus únicamente como fuente de poder, no como líder
-- **NO puede aliarse con Serapis:** Se van a realizar cambios en las dinámicas
+- **NO puede aliarse con Serapis:** lo cree un subordinado dócil; ignora que Serapis conspira a sus espaldas (Cap. 14)
 - **Líder del Bando Temporal:** Forma alianzas para protegerse, pero es despiadado con sus subordinados
 - **Poder único:** Drena tiempo de sus víctimas
 

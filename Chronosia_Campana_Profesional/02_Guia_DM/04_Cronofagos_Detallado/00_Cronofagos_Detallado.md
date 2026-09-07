@@ -36,7 +36,7 @@
 
 | Ficha | Personaje | Raza | CR | Nivel PJ | Región | Acceso |
 |---|---|---|---|---|---|---|
-| [12](./12_Aethernus_Valcarys_Manshoon.md) | **Aethernus Valcarys** (Manshoon Clon #47) | Humano | 13-14 (por fases) | 10 (Clímax) | Torre de la Eternidad | 🔒 Reloj a 8 → Llamada de los Dioses · **ULTRA-SECRETO** |
+| [12](./12_Aethernus_Valcarys_Manshoon.md) | **Aethernus Valcarys** (Manshoon Clon #47) | Humano | 13-14 (por fases) | 10 (Clímax) | Torre de la Eternidad | 🔒 Llave chroniana + entrada conocida (Cap. 15) · **ULTRA-SECRETO** |
 
 ### ⚰️ Caída
 

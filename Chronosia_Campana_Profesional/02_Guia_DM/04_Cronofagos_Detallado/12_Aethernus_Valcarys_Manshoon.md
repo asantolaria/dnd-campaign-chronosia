@@ -14,7 +14,7 @@
 - **Región:** Torre de la Eternidad
 - **Nivel Recomendado:** 10 (Clímax / Jefe Final)
 - **Bando:** BBEG (por encima de todos los bandos; los demás son sus lugartenientes)
-- **Estado de Acceso:** 🔒 Bloqueada hasta el **Reloj a 8 → Llamada de los Dioses** (se abre la Torre, Fase 4)
+- **Estado de Acceso:** 🔒 Bloqueada hasta reunir la **llave chroniana** y conocer la entrada — entonces suena la Llamada de los Dioses y empieza la Fase 4 (Cap. 15). *A 8/8 la ascensión se consuma: Final D.*
 
 ---
 

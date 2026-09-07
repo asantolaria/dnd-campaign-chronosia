@@ -1,50 +1,31 @@
 # 🌌 Chronosia - El Reino del Tiempo Fracturado
-## *Campaña Profesional de D&D 5e*
+## *Campaña de D&D 5e · nivel 3→10 · sandbox con Reloj y clímax en la Torre de la Eternidad*
 
 ---
 
-## 📑 **ÍNDICE MAESTRO**
+## 📑 **POR DÓNDE EMPEZAR**
 
-- **[00_Indice_Campana.md](./00_La_Historia_de_Chronosia.md)** – Navegación rápida: fases 0-6, sesiones, fuentes de verdad y herramientas del DM.
-
----
-
-## 📚 **ESTRUCTURA DE LA CAMPAÑA**
-
-Esta es la versión profesional de la campaña Chronosia, organizada siguiendo los estándares de las campañas oficiales de D&D.
-
-### **📖 PARTE I: INTRODUCCIÓN A LA CAMPAÑA**
-- **Capítulo 1**: Bienvenidos a Chronosia
-- **Capítulo 2**: Creación de Personajes  
-- **Capítulo 3**: El Mundo de Chronosia
-
-### **📖 PARTE II: GUÍA DEL DIRECTOR DE JUEGO**
-- **Capítulo 4**: Dirigir la Campaña
-- **Capítulo 5**: Facciones y Organizaciones
-- **Capítulo 6**: NPCs Importantes
-
-### **📖 PARTE III: LAS REGIONES DE CHRONOSIA**
-- **Capítulo 7**: Regiones Temporales
-- **Capítulo 8**: Regiones Dimensionales
-- **Capítulo 9**: El Corazón de Chronosia
-
-### **📖 PARTE IV: AVENTURAS**
-- **Capítulo 10**: La Misión Inicial
-- **Capítulo 11**: Misiones Sandbox
-- **Capítulo 12**: El Clímax
-
-### **📖 PARTE V: APÉNDICES**
-- **Apéndice A**: Mecánicas Temporales
-- **Apéndice B**: Mecánicas Dimensionales
-- **Apéndice C**: Monstruos y Enemigos
-- **📊 Tablas de Eventos**: Ver [19_Tablas_Eventos.md](./06_Recursos/Tablas/19_Tablas_Eventos.md) (eventos aleatorios, tormentas del ritual, gritos de los dioses)
+1. **[La Historia de Chronosia](00_La_Historia_de_Chronosia.md)** — el alma de la campaña; léela primero, entera.
+2. **[Capítulo 1 · Cómo dirigir](01_Como_Dirigir.md)** — el motor: el Reloj del Ritual, el Mapa de Puertas, las fases y los villanos críticos. **Es la fuente de verdad de las reglas de campaña.**
+3. **[index.md](index.md)** — la portada de la web/manual con la navegación completa.
 
 ---
 
-## 📋 **HERRAMIENTAS RÁPIDAS PARA EL DM**
+## 📚 **ESTRUCTURA REAL DEL PROYECTO**
 
-- **[02_Guia_DM/DM_Screen_Una_Pagina.md](./01_Como_Dirigir.md)** – Referencia de una página para mesa (balance, lugartenientes, frases clave).
-- **[02_Guia_DM/Eventos_Que_Siempre_Ocurren.md](./01_Como_Dirigir.md)** – Lista de hitos fijos de la trama y frase tipo para el DM.
+| Bloque | Dónde | Qué contiene |
+|---|---|---|
+| **Núcleo** | `00`–`03` | Historia, cómo dirigir, el semiplano, Cronópolis (hub) |
+| **Regiones** | `Capitulos_Regiones/` (Caps. 4-13) | Las 10 zonas del sandbox, cada una con su pieza de la verdad |
+| **Arcos** | `14`–`15` | El arco de Barbanegra + la Traición de Serapis, y el clímax en la Torre (4 finales) |
+| **Guía del DM** | `02_Guia_DM/` | Facciones, PNJs, fichas de los Cronófagos (01-13), cronología, nexo planar |
+| **Introducción** | `01_Introduccion/` | Creación de personajes |
+| **Apéndices** | `05_Apendices/` | Monstruos genéricos y Bestiario Regional |
+| **Recursos** | `06_Recursos/` | Tablas (eventos, tracking, objetos, encuentros, reconocimiento, rumores), handouts y mapas |
+| **Arte** | `assets/` | Mapas, bestiario ilustrado, prompts de arte |
+| **Semillas del DM** | `70_Ideas_Creativas_DM.md` | Ideas opcionales (no entra en el libro exportado) |
+
+---
 
 ### **📕 Libro de campaña (un solo archivo)**
 
@@ -56,12 +37,4 @@ El script **`build_libro_campana.py`** genera un único archivo con toda la camp
 
 ---
 
-## 🎯 **ESTADO DEL DESARROLLO**
-
-**Versión**: 1.0 (Estructura Base)  
-**Última Actualización**: [Fecha actual]  
-**Progreso**: 35% (Estructura completa, contenido parcial)
-
----
-
-*Esta es la versión profesional de Chronosia, diseñada para ser una campaña completa y pulida como las campañas oficiales de D&D.*
+*Campaña completa y jugable. Las reglas de campaña (Reloj, puertas, hitos) tienen una sola fuente de verdad: el Capítulo 1.*

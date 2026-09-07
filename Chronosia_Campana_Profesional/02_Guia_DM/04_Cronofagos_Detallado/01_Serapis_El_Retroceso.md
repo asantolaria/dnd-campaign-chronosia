@@ -13,7 +13,7 @@
 - **Rol:** Principal
 - **Región:** La Espiral Inversa
 - **Nivel Recomendado:** 4-5
-- **Bando:** Temporal (Bajo Lord Vorthak) → **⚠️ NO puede aliarse con Vorthak** (se van a realizar cambios)
+- **Bando:** Temporal (bajo Lord Vorthak) → **⚠️ NO puede aliarse con Vorthak**: Serapis lo desprecia y trama por su cuenta (su plan real pasa por Kaoros y el juicio de Marcus, Cap. 14)
 - **Estado de Acceso:** 🔓 Desbloqueada (accesible desde el inicio)
 
 ---
@@ -170,7 +170,7 @@ Serapis está involucrado en una de las tramas más complejas y emocionales de l
 - **Consecuencias:** La muerte de Varrak, la resurrección del Capitán Marcus, y el destino final de Serapis
 
 ### **⚠️ Características Especiales:**
-- **NO puede aliarse con Vorthak:** Se van a realizar cambios en las dinámicas de poder
+- **NO puede aliarse con Vorthak:** finge sumisión al "líder temporal" mientras conspira por su cuenta (Kaoros, el juicio de Marcus — Cap. 14)
 - **Vulnerable y aislado:** Sin la opción de aliarse con Vorthak, Serapis está más vulnerable
 - **Mecánica única:** Sistema del Reloj de Arena (ver región)
 - **Destino final:** Será asesinado por los Bregan Daerthe y resucitado como no-muerto bajo el control de Yrindra mediante el ritual Zin-Carla

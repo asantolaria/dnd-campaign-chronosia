@@ -85,7 +85,7 @@ Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organizaci
 
 ## ⚠️ **MECÁNICA CRÍTICA**
 
-Los PJ no pueden enfrentar a los 12 lugartenientes: el **Reloj del Ritual** (la cuenta atrás de la ascensión de Aethernus) avanza mientras exploran, así que tienen que elegir a quién derrotar. Matar a un crítico (Vorthak, Ignis o el propio Teach) corta un canal de poder divino y **frena** el ritual; los lugartenientes que dejen sin tocar serán **absorbidos por Edward Teach**, que crece con cada uno.
+Los PJ no pueden enfrentar a todos los lugartenientes: el **Reloj del Ritual** (la cuenta atrás de la ascensión de Aethernus) avanza mientras exploran, así que tienen que elegir a quién derrotar. Matar a un crítico (Vorthak, Ignis o el propio Teach) corta un canal de poder divino y **frena** el ritual; los lugartenientes que dejen sin tocar serán **absorbidos por Edward Teach**, que crece con cada uno.
 
 **📖 Para más detalles sobre el motor de campaña:**
 - [Motor de Campaña — El Reloj del Ritual y el Mapa de Puertas](../../01_Como_Dirigir.md) (fuente única)
@@ -95,7 +95,7 @@ Los PJ no pueden enfrentar a los 12 lugartenientes: el **Reloj del Ritual** (la 
 ## 📚 **INFORMACIÓN DETALLADA**
 
 Para información completa sobre los Cronófagos, incluyendo:
-- Los 12 lugartenientes con sus acciones legendarias
+- Los lugartenientes con sus acciones legendarias
 - Aethernus Valcarys y sus poderes únicos
 - Tácticas militares y equipamiento
 - Mecánicas de combate y escalado dinámico
