@@ -11,6 +11,7 @@
 - [x] **Carta Incriminatoria** — `Carta_Incriminatoria.md` — orden de busca y captura de la Guardia de Cronópolis que hace sospechosos a los PJ del robo en la Fase 1. ✅
 - [x] **Cronología de Barbanegra** — `Cronologia_de_Barbanegra.md` — dossier de 6 fragmentos revelables por hitos sobre el plan de Teach. ✅
 - [x] **El Relieve de la Llave Chroniana** — `Llave_Chroniana.md` — calco del relieve de Las Ruinas que revela que la llave son dos mitades (superficie + fondo) que hay que reunir; la "piedra de Rosetta" de la campaña. ✅
+- [x] **Los Futuros del Horizonte** — `Profecia_de_Varrak.md` — las 7 estrofas de Varrak con la estrofa de Teach quemada (su punto ciego hecho prop); tabla de decodificación para el DM y red de seguridad del juicio de Marcus. ✅
 
 ## 📋 **HANDOUTS PENDIENTES**
 

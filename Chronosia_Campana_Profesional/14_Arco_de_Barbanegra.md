@@ -60,7 +60,7 @@ Edward Teach ha comerciado veinte años con los Oceánicos de las Profundidades.
 
 En su primera visita a **Cronópolis**, los PJ ven el tesoro de los Anacronistas: el **Cronómetro de Realidades**, flotando sobre un pedestal de cristal, custodiado por un **Golem Temporal** que nunca duerme.
 
-> **Galen, líder Anacronista** *(orgulloso):* "Éste es nuestro tesoro más preciado: el Cronómetro de Realidades. Lo forjaron nuestros fundadores hace quinientos años. Detecta, mide y estabiliza las distorsiones del tiempo. Con él hemos mantenido Cronópolis a salvo durante décadas. Sólo los más fiables conocen su lugar. Confío en que guardaréis el secreto."
+> **Galen, líder Anacronista** *(orgulloso):* "Éste es nuestro tesoro más preciado: el Cronómetro de Realidades. Lo forjaron nuestros fundadores hace ochocientos años, con el único Cristal que salvaron de la fractura. Detecta, mide y estabiliza las distorsiones del tiempo. Con él hemos mantenido Cronópolis a salvo durante décadas. Sólo los más fiables conocen su lugar. Confío en que guardaréis el secreto."
 
 *(Si los PJ revelan la ubicación a alguien, el robo posterior será más fácil. Anótalo: tiene consecuencia.)*
 
@@ -185,6 +185,7 @@ Marcus **calla**, sabiendo que debe dejarse condenar. El pueblo vota: muerte. An
 
 > **🛠️ SI LOS PJ INTERVIENEN (lo harán — aquí están las ramas).** El juicio no es una cinemática: es una escena con CDs. La clave para dirigirla sin miedo: **lo que Serapis necesita no es la muerte de Marcus, sino el caos y la Resistencia descabezada** — su revelación (Escena 3) se dispara igual en cuanto su plan culmine *o se vea descubierto*. Ninguna rama rompe el capítulo.
 >
+> - **La profecía como red:** si los PJ tienen **[Los Futuros del Horizonte](06_Recursos/Handouts/Profecia_de_Varrak.md)**, la estrofa IV ("dejad que el embustero se corone ante todos") es la pista de que dejar correr el juicio *es* el plan — premia con inspiración a quien la conecte en mesa.
 > - **La válvula de Marcus (úsala pronto):** si un PJ trama abiertamente salvarlo, Marcus busca su mirada y susurra al pasar: *"Confiad en mí. Dejadlo correr."* No explica más. Los jugadores pueden **elegir** confiar (la escena duele, pero es *su* elección) o desobedecer — ambas son jugables.
 > - **Desmontar el testimonio de Kaoros:** Sabiduría (Perspicacia) **CD 16** nota que sus señas van medio segundo "desfasadas", como recitadas; Inteligencia (Investigación) **CD 15** sobre las pruebas plantadas revela que los "documentos de Marcus" usan tinta de los talleres drow (o que la letra imita la de Marcus *zurda*, y él perdió el brazo derecho — elige tu pista). **Cada éxito siembra duda**: con uno, el veredicto baja de muerte a destierro; con dos, el juicio **se aplaza**.
 > - **Si la duda cunde:** Serapis no espera. Sus infiltrados agitan a la turba para linchar a Marcus esa noche — o, si los PJ ya lo señalan a él, **precipita la Escena 3 con Marcus vivo**: se revela, ordena a los Bregan atacar, y el capítulo salta directo a la batalla (Escena 4).

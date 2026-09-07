@@ -123,7 +123,7 @@ El obelisco cronológico que gira en el centro del archipiélago, cubierto de ru
 - **El punto ciego de Teach** (la segunda mitad del secreto):
   > "Y hay algo más, y esto me asusta más que Aethernus. Veo todos los futuros… salvo uno. Hay un hombre —un pirata, barba como fuego— al que **no puedo ver**. Donde debería estar él, mis visiones son un agujero negro. ¿Entendéis lo que significa? Significa que ha hecho algo que rompe las reglas del juego. Que **puede interceptar lo que Aethernus roba**. Es el único capaz de descarrilar el ritual… o de robarlo para sí. No puedo predecirlo. Y lo que no puedo predecir, no puedo proteger. Vigiladlo. Es vuestra peor amenaza y vuestra única oportunidad — y no sé cuál de las dos."
 
-- **El Cristal Profético:** antes de que se vayan, Varrak imbuye su poder en un fragmento de tiempo puro que pulsa como un corazón dorado.
+- **El Cristal Profético:** antes de que se vayan, Varrak imbuye su poder en un fragmento de tiempo puro que pulsa como un corazón dorado. Junto al cristal, el Monje Manco tiende un pergamino sin decir palabra: el handout **[Los Futuros del Horizonte](../06_Recursos/Handouts/Profecia_de_Varrak.md)** — las siete estrofas de Varrak, con la estrofa de Teach quemada (su punto ciego hecho papel).
   > "Tomad este cristal. No es para vosotros. Dáselo a **Din Goldgear**; él sabrá qué hacer con él cuando llegue el momento. Es una advertencia. Y una oportunidad. El futuro depende de que este mensaje llegue a tiempo."
 
 - **El sembrado del sacrificio:** Varrak nunca lo dice del todo, pero deja el cabo:

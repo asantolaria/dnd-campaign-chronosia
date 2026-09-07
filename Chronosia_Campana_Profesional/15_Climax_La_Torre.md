@@ -104,7 +104,7 @@ La cima. El mapa la corona con todo lo que la campaña prometía: un **círculo 
 >
 > De espaldas, sobre ese punto, hay un anciano de coleta plateada y túnica negra bordada en oro. No se vuelve. Habla con el cosmos, no con vosotros:
 >
-> «Casi. *Casi.* Ochocientos años escondidos, dos dioses en mi puño, y solo me falta el último latido. Habéis subido muy lejos, pequeños. Os felicito. Pero llegáis para ver un nacimiento, no para impedirlo.»
+> «Casi. *Casi.* Este mundo llevaba ochocientos años desangrándose sin dueño — y yo llevo siglos con sus dos dioses en mi puño. Solo me falta el último latido. Habéis subido muy lejos, pequeños. Os felicito. Pero llegáis para ver un nacimiento, no para impedirlo.»
 >
 > Entonces sí se vuelve. Y veis que el medidor del ritual, flotando sobre el Cronosellado, marca un número que sube solo."
 

@@ -131,7 +131,7 @@ Al encajar las dos mitades por primera vez, el keystone **tira del otro extremo 
 > "Bien. *Muy* bien. Hacía décadas que nada me obligaba a soltar el ritual con las dos manos. Veamos qué opináis de mi colección: cada uno de mis lugartenientes me devuelve ahora lo prestado… con intereses. ¿No os parece justo? Todo el que me sirve acaba sirviéndome **entero**."
 
 **Transición a Fase 3** *(al agotar la segunda barra — el ritual se desestabiliza)*:
-> "No. **No.** ¿Sabéis lo que cuesta encadenar a un dios? ¿Dos? Ochocientos años escondido mientras copias baratas de mí paseaban mi cara por Faerûn — ¡y vais a arruinarlo unos mercenarios con una piedra rota! Se acabó la aritmética. Si no puedo ascender ordenadamente… ascenderé **ardiendo**."
+> "No. **No.** ¿Sabéis lo que cuesta encadenar a un dios? ¿Dos? Siglos escondido mientras copias baratas de mí paseaban mi cara por Faerûn — ¡y vais a arruinarlo unos mercenarios con una piedra rota! Se acabó la aritmética. Si no puedo ascender ordenadamente… ascenderé **ardiendo**."
 
 **Últimas palabras** *(al caer la Fase 3)*:
 > "Qué extraño… De todos los futuros que compré… en ninguno estabais… vosotros. Decidle al resto de *mí*… que estuve… tan cerca…"
