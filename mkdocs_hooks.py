@@ -53,8 +53,9 @@ def _beasts_to_headings(text: str) -> str:
 def on_page_markdown(markdown, **kwargs):
     md = markdown.replace("assets/bestiario/", "assets/web/bestiario/")
     md = md.replace("assets/objetos_magicos/", "assets/web/objetos_magicos/")
-    # los mapas pasan de .png (original) a .jpg (web)
-    md = re.sub(r"assets/mapas/([^)\s\"']+)\.png", r"assets/web/mapas/\1.jpg", md)
+    # los mapas pasan del original (.png o .jpg) a la copia web (.jpg)
+    md = re.sub(r"assets/mapas/([^)\s\"']+)\.(?:png|jpg)", r"assets/web/mapas/\1.jpg", md)
+    md = md.replace("assets/handouts/", "assets/web/handouts/")
     md = _beasts_to_headings(md)
     md = _clean_emojis(md)
     return md

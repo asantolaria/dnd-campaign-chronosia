@@ -51,7 +51,8 @@ for f in "${FILES[@]}"; do
   sed -E \
     -e 's#assets/bestiario/#assets/web/bestiario/#g' \
     -e 's#assets/objetos_magicos/#assets/web/objetos_magicos/#g' \
-    -e 's#assets/mapas/([A-Za-z0-9_-]+)\.png#assets/web/mapas/\1.jpg#g' \
+    -e 's#assets/mapas/([A-Za-z0-9_-]+)\.(png|jpg)#assets/web/mapas/\1.jpg#g' \
+    -e 's#assets/handouts/#assets/web/handouts/#g' \
     -e 's#assets/portada\.png#assets/web/portada.jpg#g' \
     "$f" \
   | sed -E "s#\]\((\.\./)*assets/#](${ROOT}/assets/#g" \
