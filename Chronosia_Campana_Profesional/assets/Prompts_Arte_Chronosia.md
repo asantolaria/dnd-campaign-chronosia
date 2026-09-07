@@ -496,10 +496,10 @@ Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 
 Objeto: los Anillos de Poder de los Lugartenientes, anillos de metal oscuro (hierro negro/adamantina) con forma de serpiente que se muerde la cola formando el símbolo del infinito (∞); escamas talladas con detalle y ojos que brillan con luz divina —dorada en los temporales, púrpura en los dimensionales—. Muestra dos o tres juntos (uno dorado, uno púrpura). Proporción 1:1.
 ```
 
-### El Cronosellado *(propuesta — sin descripción en el lore)*
+### El Cronosellado *(canon: Cap. 15, la Cámara de Ascensión)*
 ```
 Ilustración de objeto al estilo de los manuales actuales de Dungeons & Dragons 5e: lámina de catálogo de un artefacto mágico siniestro, render pictórico realista, iluminación dramática, resplandor mágico inquietante, fondo neutro oscuro, sin personajes, sin texto ni marcas de agua.
-Objeto: el Cronosellado, artefacto-prisión que captura y almacena el poder de una batalla divina. Propuesta: un dispositivo arcano-mecánico de metal negro y oro con dos cámaras enfrentadas (una dorada/solar = tiempo, otra púrpura/vacío = espacio) unidas por un sello central que contiene energía robada pulsante; cadenas rúnicas lo recorren. Es el corazón del ritual. Proporción 1:1. (Nota: aspecto interpretativo; el lore no lo describe.)
+Objeto: el Cronosellado, el núcleo del ritual de ascensión — una semilla de luz flotante que es a la vez UN SOL DIMINUTO y UNA ESTRELLA NEGRA: un eclipse imposible donde una luz dorada solar y un vacío púrpura estrellado se drenan el uno en el otro en espiral, latiendo como un corazón a punto de pararse. Flota sobre un círculo ritual zodiacal grabado en piedra, con finas cadenas de luz dorada y de sombra violeta que convergen en él desde fuera de plano. Proporción 1:1.
 ```
 
 ### Contador del Ritual (monitor de la ascensión) *(propuesta — sin descripción en el lore)*
@@ -710,7 +710,75 @@ Objeto: el Escudo de la División, un escudo antiguo partido literalmente por un
 
 ---
 
-## 11 · Flujo en Gemini (paso a paso)
+## 11 · Pendientes de la auditoría — mapas jugables y piezas nuevas *(NUEVO, sept 2026)*
+
+> Lo que falta por generar tras la auditoría editorial y las ampliaciones: **battlemaps de la Torre (el clímax no tiene mapa jugable), mapa de jugador sin spoilers, battlemaps de Mansión y Galería de Azogue, y los retratos de Gorath y Tholassa.** Además, **regenera el mapa general con el prompt del §2** (el PNG actual conserva nombres antiguos).
+
+### 11.1 · Mapa de JUGADOR del semiplano *(sin spoilers — para la mesa desde la sesión 2)*
+```
+Mapa dibujado a mano para entregar a JUGADORES de D&D, estilo cartografía imperfecta de refugiados: pergamino muy envejecido, tinta sepia desigual, trazos de varias manos, anotaciones toscas, bordes rasgados, alguna mancha. Vista cenital, proporción 4:3.
+Tema: el semiplano fracturado de Chronosia como lo conocen sus refugiados — diez regiones-esquirla flotando alrededor de una ciudad costera central, separadas por cortes negros (grietas) por donde no se puede viajar. MUY IMPORTANTE: marca las regiones SOLO con números 1-10 y la ciudad central con una estrella, y pon los nombres en UNA caja «Leyenda»: 1) La Espiral Inversa; 2) El Jardín de los Tiempos Gemelos; 3) Glacialis; 4) Las Ruinas del Tiempo Perdido; 5) El Abismo de los Posibles; 6) Las Llanuras de la Compresión; 7) La Ciudad de Veldrisza; 8) El Archipiélago (mar en calma muerta); 9) La Mansión de la Sed Eterna; 10) Las Calderas Dimensionales; ★ Cronópolis (refugio).
+PROHIBIDO incluir (son secretos de DM): ninguna torre, ningún valle sellado al norte del centro, ninguna ciudad submarina, ninguna isla-fortaleza pirata destacada. En una esquina, una nota manuscrita: «No todo está en este mapa. — G.» Etiquetas en español. Evita marcas de agua y estética de cómic.
+```
+
+### 11.2 · Battlemaps de la Torre de la Eternidad *(4 planos jugables — uno por nivel)*
+
+**Nivel 1 · Sala de Ecos**
+```
+Battlemap cenital para mesa de D&D con cuadrícula sutil de 5 pies, estilo pintado a mano de mapa de encuentro profesional (tipo mapas oficiales de WotC), iluminación dramática, sin texto ni marcas de agua, proporción 1:1.
+Escenario: cámara circular de piedra oscura en la base de una torre arcana, convertida en un BOSQUE DE ESPEJOS: decenas de espejos de pie con marcos dorados y carcomidos, apoyados unos contra otros, colgando torcidos, formando pasillos laberínticos; algunos rotos en el suelo. Una gran escalera de caracol arranca en el extremo norte. Luz fría azulada con reflejos dorados imposibles en algunos cristales. Sin criaturas.
+```
+
+**Nivel 2 · Corazón del Tiempo**
+```
+Battlemap cenital para mesa de D&D con cuadrícula sutil de 5 pies, estilo pintado a mano de mapa de encuentro profesional, iluminación cálida y engañosamente acogedora, sin texto ni marcas de agua, proporción 4:3.
+Escenario: planta de una mansión lujosa IMPOSIBLE incrustada dentro de una torre: salones opulentos con chimeneas encendidas, biblioteca, comedor servido, dormitorios perfectos — y entre las paredes, ENGRANAJES DORADOS GIGANTES que atraviesan habitaciones y pasillos, girando. Cada puerta está ligeramente desalineada con su marco. Escalera de caracol de subida al norte y de bajada al sur. Sin criaturas.
+```
+
+**Nivel 3 · Eliminatoria (el puente)**
+```
+Battlemap cenital para mesa de D&D con cuadrícula sutil de 5 pies, estilo pintado a mano de mapa de encuentro profesional, iluminación tenebrosa, sin texto ni marcas de agua, proporción 2:3 vertical.
+Escenario: un PUENTE DE PIEDRA EN ESPIRAL, estrecho (10 pies), que cruza un abismo negro sin fondo dentro de una torre; del vacío suben zarcillos y tentáculos de sombra translúcida que rozan el puente sin tocarlo. Grietas y tramos sin barandilla. Plataforma de entrada al sur y arco de salida al norte, ambos de piedra rúnica. Sin criaturas.
+```
+
+**Nivel 4 · Cámara de Ascensión**
+```
+Battlemap cenital para mesa de D&D con cuadrícula sutil de 5 pies, estilo pintado a mano de mapa de encuentro profesional, iluminación de eclipse (oro contra púrpura), sin texto ni marcas de agua, proporción 1:1.
+Escenario: la cima abierta de una torre arcana, una plataforma circular expuesta a un cosmos roto. En el centro, un GRAN CÍRCULO RITUAL ZODIACAL grabado en el suelo con una esfera de luz flotante que es a la vez un sol diminuto y una estrella negra. A izquierda y derecha, DOS PILARES colosales con grilletes y cadenas: unas cadenas gotean luz dorada, las otras sombra violeta, y ambas convergen en el centro. Escalera de llegada al sur. Bordes de la plataforma rotos hacia el vacío estrellado. Sin criaturas.
+```
+
+### 11.3 · Battlemap — La Mansión de la Sed Eterna *(interior por salas)*
+```
+Battlemap cenital para mesa de D&D con cuadrícula sutil de 5 pies, estilo pintado a mano de mapa de encuentro profesional, planta arquitectónica gótica, iluminación de candelabros, sin texto ni marcas de agua, proporción 4:3.
+Escenario: planta noble de una mansión vampírica: un GRAN COMEDOR central con una mesa interminable servida para un banquete eterno (copas llenas, platos antiguos) y un trono de respaldo alto en la cabecera; alrededor, galería de retratos, escalinata doble, biblioteca, capilla profanada y acceso a una cripta-salón. Espejos de cuerpo entero en los pasillos, relojes de pie por todas partes, rosales secos en jardineras interiores. Sin criaturas.
+```
+
+### 11.4 · Battlemap — La Galería de Azogue y el Estanque de Lágrimas *(Cap. 5)*
+```
+Battlemap cenital para mesa de D&D con cuadrícula sutil de 5 pies, estilo pintado a mano de mapa de encuentro profesional, iluminación plateada y espectral, sin texto ni marcas de agua, proporción 2:3 vertical.
+Escenario en dos partes conectadas por una escalera: ARRIBA, una galería subterránea estrecha forrada de espejos de todos los tamaños a ambos lados (algunos vacíos, sin reflejo), con una puerta de doble cerradura al fondo, baldosas alternas marcadas y dos palancas enfrentadas a ambos lados de un espejo grande. ABAJO, la orilla de un ESTANQUE NEGRO perfectamente liso como obsidiana pulida que refleja un cielo sin estrellas, rodeado de hierba viva en una mitad y escarcha en la otra. Sin criaturas.
+```
+
+### 11.5 · Gorath el Gigante Mordido *(villano menor trágico · CR 6 · Mansión)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico gótico brumoso, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Gorath el Gigante Mordido, un gigante de las colinas vampirizado de 12 pies, corpulento pero desnutrido, la piel pálida grisácea CUBIERTA DE CICATRICES DE MORDISCOS (frescas y rojas unas, blancas y viejas otras, superpuestas en cuello y brazos). Colmillos desafilados, ojos rojos pero apagados y tristes, expresión confundida y mansa — un ser trágico, no amenazante: la reserva de sangre de su amo. Ropa noble vieja que le queda pequeña. Cuerpo entero, proporción 3:4.
+```
+
+### 11.6 · Tholassa de la Corriente Honda *(aliada oceánica · emisaria de la Reina Nereia)*
+```
+Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Monster Manual 2024): semirrealista, pincelada pictórica, iluminación cinematográfica submarina, color rico, alto detalle, fondo pictórico de arrecife en penumbra, calidad de lámina de bestiario. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
+Sujeto: Tholassa de la Corriente Honda, una oceánica noble y solemne del pueblo de las profundidades: humanoide acuática de piel nacarada iridiscente, OJOS LUMINOSOS SIN PÁRPADOS, aletas elegantes en antebrazos y sienes, vestiduras de coral y seda de anémona con una insignia real. Porte de embajadora en luto: digna, antigua, con una ira fría contenida. Empuña un bastón-tridente de coral. Cuerpo entero, proporción 3:4.
+```
+
+### 11.7 · Prop — el pergamino de la profecía de Varrak *(opcional)*
+```
+Fotografía cenital realista de un PROP de rol: un pergamino envejecido y manchado de círculos de taza de té, escrito a mano en tinta sepia con siete estrofas en caligrafía cuidada de escriba, sobre una mesa de madera oscura junto a una taza de té humeante. La TERCERA estrofa está QUEMADA: un agujero de bordes carbonizados se come el texto. Sin texto legible necesario (puede ser pseudoescritura); luz cálida de vela, proporción 3:4, sin marcas de agua.
+```
+
+---
+
+## 12 · Flujo en Gemini (paso a paso)
 
 1. **Una pieza por conversación** (o reusa la misma para variaciones y correcciones).
 2. **Copia un bloque entero y pégalo.** Ya incluye estilo y proporción. Pide *"genera una sola imagen"*.

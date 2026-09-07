@@ -29,5 +29,5 @@ Los mapas viven en **`assets/mapas/`**. Esta página es el inventario real y la 
 
 ## 📝 **NOTAS**
 
-- Los prompts para regenerar arte están en `assets/Prompts_Arte_Chronosia.md`
+- Los prompts para regenerar arte están en `assets/Prompts_Arte_Chronosia.md` — **los de esta lista de pendientes están listos para copiar en su §11** (battlemaps de la Torre, mapa de jugador, Mansión, Galería de Azogue)
 - Las descripciones geográficas viven en cada capítulo de región (Caps. 4-13) y en el Cap. 2
