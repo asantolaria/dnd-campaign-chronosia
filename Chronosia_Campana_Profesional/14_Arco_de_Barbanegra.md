@@ -208,6 +208,14 @@ Din da el paso que nadie esperaba. Días antes implantó un "impuesto revolucion
 
 Los drow aceptan **temporalmente** (su lealtad real es de Yrindra, pero mantienen la fachada). **Resistencia + Bregan Daerthe + PJ vs Serapis.**
 
+> **🎬 EL PLAN, CON LOS PJ DENTRO (que no sean público).** El engranaje es de Din y Marcus, pero cada pieza puede pasar por las manos del grupo — reparte estos papeles y la Traición deja de ser una cinemática:
+>
+> - **El impuesto (días antes):** Din pide ayuda para el "impuesto revolucionario" — convencer al gremio de estibadores (Persuasión CD 14) o **escoltar la recaudación** de un asalto de matones "casuales" (en realidad, drow midiendo cuánto oro hay). Si los PJ participaron, la bolsa que compra a los Bregan **es su trabajo** — recuérdaselo en la batalla.
+> - **La compra (la noche del trato):** Din no se atreve a ir solo al campamento drow. Pide a un PJ como **garante** (los Bregan respetan el descaro): Persuasión o Intimidación CD 14 y, además del trato, los drow "pierden" un plano del despliegue de Serapis — **ventaja al grupo en la primera ronda** de la batalla.
+> - **En la batalla (el artilugio):** cada vez que Serapis reinicia el combate, queda **trabado un instante** con el artilugio ardiendo en la mano: un PJ adyacente puede intentar **arrancarle una carga** (acción; Atletismo o Juego de Manos CD 16). Con éxito, ese reinicio le cuesta **2 cargas** — los PJ aceleran el final con las manos, no mirando.
+> - **La custodia (Escena 5):** si Kaoros huyó vivo, intenta **sabotear el sacrificio de Varrak** en pleno funeral — y son los PJ quienes cierran el arco del topo, protegiendo el ritual.
+> - **Si ya destaparon a Kaoros** (ver [PNJs](02_Guia_DM/03_NPCs_Importantes.md)): Din los recluta como **conspiradores desde el diseño** — los cuatro papeles de arriba se convierten en misiones explícitas, y el "no deben saber la verdad" deja de aplicar: ahora el secreto es *suyo*.
+
 **Mecánica del artilugio de retroceso** *(en manos de Serapis):* tiene **3-5 cargas** (ajusta al nivel). Cuando va a morir, **reinicia el combate al estado inicial**: recupera todos sus PG (y restaura recursos de los aliados también — un bucle), pero **gasta una carga**. Los PJ deben **agotar las cargas** para poder matarlo. Al quedar en 0, Serapis cae — pero el artilugio queda **vacío**.
 
 > **Din** *(desolado):* "No… no puede ser. El artilugio está agotado. Yo creía que podría usarlo para revivir a mi compañero. He fallado. He fallado del todo."

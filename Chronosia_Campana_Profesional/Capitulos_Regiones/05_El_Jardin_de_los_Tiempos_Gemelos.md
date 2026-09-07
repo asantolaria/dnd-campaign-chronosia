@@ -119,7 +119,7 @@ Una torre baja y achaparrada en el centro del ala oeste, sin ventanas, solo tron
 - **Si la dejan hablar**, Medusa confiesa la pieza de la región sin pretenderlo:
   > "¿Creéis que detengo el tiempo? Pobres. Detengo el **lugar**. Os arranco de vuestro sitio en el mundo y os clavo aquí, donde nadie cambia de coordenada nunca más. Eso no me lo enseñó nadie: lo *bebo*. Hay algo más grande que yo, encadenado, que era el dueño de todas las distancias del mundo —el que ponía el espacio entre una estrella y otra—. Ahora gotea, y yo recojo las gotas. El de la arena bebe del sol. Yo bebo del **vacío**. Y los dos servimos al mismo carcelero, en su torre que no está en ningún sitio… porque a la torre le robó el sitio precisamente *Él*."
   *(Confirma el segundo dios y, de paso, que la Torre de Aethernus está "fuera del espacio" — siembra para Glacialis.)*
-- **Victoria:** la estasis cesa, el ala helada se deshiela en 1d4 horas, las estatuas-personas despiertan confundidas y suaves. Derrotar a Medusa **cuenta como "1 lugarteniente"** (igual que matar a las Gemelas: este jardín tiene *dos* lugartenientes, y abatir a cualquiera suma al recuento que abre otras puertas) y deja a las Gemelas, al otro lado, sabiéndose observadas. *(Recuerda el sabor de la Espiral: matar a un lugarteniente-conducto puede acelerar el Reloj del Ritual; Medusa "solo recoge".)*
+- **Victoria:** la estasis cesa y el ala helada **llora durante un día entero**: un deshielo de goteo constante, con las estatuas-personas despertando una a una al ritmo del agua — cada despertar, una pequeña escena. Derrotar a Medusa **cuenta como "1 lugarteniente"** (igual que matar a las Gemelas: este jardín tiene *dos* lugartenientes, y abatir a cualquiera suma al recuento que abre otras puertas) y deja a las Gemelas, al otro lado, sabiéndose observadas. *(Recuerda el sabor de la Espiral: matar a un lugarteniente-conducto puede acelerar el Reloj del Ritual; Medusa "solo recoge".)*
 
 ---
 
@@ -203,7 +203,7 @@ El estanque negro del ala este, de aguas tan quietas y oscuras que son un espejo
 - **Si los PJ negocian (recomendado):** en vez de matarlas, pueden ganárselas. Las Gemelas sueltan entonces la pieza más amarga y verdadera de la región:
   > "¿Sabéis qué nos hizo el carcelero? Lo mismo que a vosotros os parecemos: nos **partió**. Éramos una. Voidar separa las cosas —es su don, es bueno—; pero Aethernus le robó el don y lo usó para **rajarnos por la mitad**, y ahora ninguna de las dos sabe si es la persona o la sombra. Igual que partió a vuestro mundo en dos pueblos. Igual que tiene a dos dioses partiéndose la cara en su torre. Todo lo que toca, lo **divide**. Si queréis vencerle, no dividáis más: **reunid**. Reunid lo que él separó. Esa es la única llave."
   *(Esta es la siembra explícita de la **llave chroniana partida** y del tema central: reunir lo dividido. Si se alían, las Gemelas pueden reaparecer en el clímax de la Torre.)*
-- **Victoria (combate o pacto):** el jardín se reunifica —las dos alas vuelven a ser una sola, simétrica y viva—, los reflejados regresan suavemente a sus cuerpos, SelHe recupera su sombra (si rompieron su espejo). Las distorsiones se disipan en 1d4 horas.
+- **Victoria (combate o pacto):** el jardín se reunifica **de golpe, con un sonido de espejo recomponiéndose al revés** — las dos alas encajan en una sola, simétrica y viva, en el instante en que el pacto se sella (o la última gemela cae). Los reflejados regresan suavemente a sus cuerpos y SelHe recupera su sombra (si rompieron su espejo).
 
 ---
 
@@ -254,7 +254,8 @@ El estanque negro del ala este, de aguas tan quietas y oscuras que son un espejo
 
 ## NPCs locales
 - **SelHe, la Doble Liberada** (humana, exploradora/aliada). Escapó de la dimensión espejo dejando atrás su reflejo, que ahora la caza. Habla mezclando pasado y futuro. Guía por los laberintos y sabe qué espejos están "vivos"; pide que destruyan su reflejo (rompiendo su espejo de origen en el Estanque Helado) para recuperar su sombra.
-- **Vondrel Pétreocaña** (enano, anticuario neutral). Compra y vende "estatuas con expresión demasiado humana" —víctimas a medio petrificar de Caelith—. Vende polvo de *Liberar Estasis* (consumible: ventaja para salir de petrificación parcial) y la ubicación de la Torre del Observador, a cambio de oro o de "una estatua fresca". Su mercancía esconde a un aliado perdido.
+- **Vondrel Pétreocaña** (enano, anticuario neutral). Compra y vende "estatuas con expresión demasiado humana" —víctimas a medio petrificar de Caelith—. **Tienda:** polvo de *Liberar Estasis* (60 po; ventaja para salir de petrificación parcial), espejo de bolsillo *muerto* (35 po; no refleja nada — un Reflejo Hostil no puede usarlo como puerta), cincel de anticuario (15 po). Vende también la ubicación de la Torre del Observador. **Solo rebaja por:** "una estatua fresca" o una antigüedad petrificada con historia. Su mercancía esconde a un aliado perdido.
+  > "No las llaméis víctimas. Llamadlas *piezas*. Ellas ya no sufren — el que sufre es el coleccionista que no consigue la colección completa." 
 - **Hermano Quill** (mediano, monje petrificado a medias, neutral bueno). Lúcido tras décadas inmóvil; sereno hasta lo inquietante. Liberado (con *restablecimiento mayor* o derrotando a Caelith), revela el patrón de la mirada de Medusa y la debilidad de las Gemelas al alba. Su ojo inmóvil puede "sostener" un pasillo y congelar a las Estatuas Acechantes para cruzar el Jardín Dormido.
 
 ---

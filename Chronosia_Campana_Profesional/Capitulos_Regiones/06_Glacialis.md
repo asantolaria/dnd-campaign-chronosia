@@ -30,7 +30,7 @@ En mesa: cruzar y resolver Glacialis es **un arco** (+1 al Reloj). Encuentros de
 
 ## Recorrido por la región
 
-**Flujo:** **Entrada del Aventurero** (zona segura, sur) → **La Ciudad de Hielo** (1): refugio, NPCs, el primer portal "normal" → **Grietas de Otro Plano** (2): el desgarro que prueba que Chronosia toca *otros* planos → **Red de Umbrales Helados** (3): la maraña de portales y su guardiana Velka → **El Portal de las Estrellas** (4): el nodo central, guarida de Ymir, y el portal que no da a ningún plano. Sellar portales menores por el camino debilita la red de Ymir y sus refuerzos en el combate final.
+**Flujo:** **Entrada del Aventurero** (zona segura, sur) → **La Ciudad de Hielo** (1): refugio, NPCs, el primer portal "normal" → **Grietas de Otro Plano** (2): el desgarro que prueba que Chronosia toca *otros* planos → **La Ballena Umbral** (2b, opcional): el dilema del camino → **Red de Umbrales Helados** (3): los cinco umbrales con nombre y su guardiana Velka → **El Portal de las Estrellas** (4): el nodo central, guarida de Ymir, y el portal que no da a ningún plano. Sellar portales menores por el camino debilita la red de Ymir y sus refuerzos en el combate final.
 
 ### Entrada del Aventurero *(zona segura)*
 
@@ -50,6 +50,7 @@ Un asentamiento construido sobre y dentro de una formación de cristales de hiel
 **Qué hay:** el primer portal "domesticado". Que dé a **Faerûn (Waterdeep)** —el lugar de donde vinieron los PJ— es el primer mazazo: *desde Chronosia se puede ver el plano Material*. La ciudad es zona semisegura: hay calor (caro), curación menor y comercio.
 
 **Encuentro con NPC — Tovin el Fundidor** (enano comerciante; ver NPCs), con su fragua portátil alimentada por brasas robadas de las Calderas Dimensionales, el único calor estable de Glacialis.
+**Tienda:** antorcha planar (25 po; no se apaga ni bajo el agua, arde 24 h — anula la regla de frío en marcha), runa de fuego (75 po; un arma hace +1d4 de fuego durante 10 min, 3 usos), brasa de las Calderas (150 po; hoguera portátil: el campamento entero ignora la regla de frío una noche). **Solo rebaja por:** trueque en combustible raro… o **grasa de la Ballena Umbral** (zona 2b), que paga a precio de oro.
 > "¿Vais a meteros entre los portales? Llevaos fuego, o sois cadáveres. Lo que cruza desde el otro lado es **agua** —elementales de agua helada, criaturas del mar de Ymir— y el fuego es lo único que las disuelve. Aquí tenéis: antorcha planar que no se apaga ni bajo el agua, y runa de fuego para vuestras armas. Caro, sí. ¿Preferís ahorrar y congelaros?"
 
 **Encuentro con NPC — Madre Iskra** (sacerdotisa del culto del deshielo; ver NPCs) predica en una esquina:
@@ -80,7 +81,19 @@ Con sus últimas fuerzas, presiona en la palma de un PJ un fragmento de coral ca
 
 **Pista/secreto:** las Grietas confirman que Chronosia es **un recinto cerrado** — algo te devuelve cuando intentas salir. Hay paredes. Y donde hay paredes, hay un *afuera*. Siembra directa de la prisión.
 
-**Lleva a:** las grietas naturales no se pueden cruzar a salvo; para *viajar* entre planos hacen falta las puertas de Ymir. El rastro sube a la Red.
+**Lleva a:** las grietas naturales no se pueden cruzar a salvo; para *viajar* entre planos hacen falta las puertas de Ymir. El rastro sube a la Red — y de camino, en la hondonada del nordeste, asoma una silueta imposible: la **Ballena Umbral** (2b).
+
+### 2b · La Ballena Umbral *(opcional — el dilema del camino)*
+
+En una hondonada, congelado a medio cruzar un umbral, yace un **leviatán del Plano del Agua**: la mitad delantera en Glacialis, cristalizada en hielo azul; la mitad trasera todavía *al otro lado*, visible a través del arco como una sombra que respira despacio. **Está viva.** El umbral se congeló a medio tránsito hace décadas, y la ballena con él.
+
+> *Leído al llegar:* "Al principio creéis que es una colina de hielo. Luego veis el ojo — un ojo del tamaño de una rueda de carro, bajo un palmo de hielo claro, que **se mueve y os sigue**. Media ballena emerge del arco congelado como un barco varado en una puerta; la otra media ondula, lentísima, en el agua negra del otro lado. Cada pocos minutos, todo el hielo de la hondonada vibra: está intentando cantar."*
+
+- **Recurso:** la **grasa planar** que rezuma por las grietas del hielo arde sin humo y sin frío — **Tovin la paga a precio de oro** (25 po el odre, hasta 6; cada odre extraído exige 10 min y una tirada de Fuerza CD 12) y un odre equivale a una *brasa de las Calderas* para la regla de frío. Cosecharla **duele** a la ballena: el ojo se cierra, el canto vibra más fuerte. Que se note.
+- **El dilema (sin respuesta buena):** **liberarla** exige abrir el umbral de par en par (magia o el Cerrador invertido, 2 turnos) — la ballena pasa, viva, con un canto que se oye en toda Glacialis… y por el umbral abierto entran **2 Heraldos de Escarcha por ronda durante 3 rondas** antes de poder sellarlo. **Sellar el umbral** con ella dentro la mata a medias para siempre: el ojo se apaga, el hielo deja de vibrar, y los PJ cargan con ello. **Ignorarla** es gratis — hasta que el canto les persiga en los descansos.
+- **Recompensa oculta:** si la liberan, la ballena **canta una nota que estabiliza la Red entera durante un día**: todas las tiradas contra los umbrales de la zona 3 se hacen con ventaja, y Velka —que odia ese canto— pierde su descuento de peaje ("¡callad a ese pez!").
+
+**Lleva a:** el rastro de los cargamentos sube desde la hondonada a la Red de Umbrales (3).
 
 ### 3 · La Red de Umbrales Helados
 
@@ -89,6 +102,16 @@ Al norte, una maraña de portales de hielo —arcos de escarcha de distintos tam
 > *Leído al entrar:* "Decenas de arcos de hielo flotan en formación, conectados por puentes de escarcha tan finos que crujen. Por cada arco se ve un mundo distinto: aquí un mar negro vertical; allá un desierto de nubes; más allá una sala de piedra con estandartes que no reconocéis. De algunos arcos **sale carga** —cajones de hielo, jaulas, criaturas dormidas— deslizándose sola por los puentes hacia el corazón del páramo. Esto no es un fenómeno natural. Es un **puerto.**"*
 
 **Qué hay:** el sistema de reclutamiento interplanar de Ymir en funcionamiento. Los PJ ven *cómo* los Cronófagos se abastecen desde otros planos —prueba viva de que Chronosia conecta con el multiverso—. Cada **nodo (umbral) que sellen aquí debilita a Ymir**: menos refuerzos en el combate final.
+
+**Los cinco umbrales con nombre** (los que importan; el resto son arcos menores):
+
+| Umbral | A dónde da | Su rareza |
+|---|---|---|
+| **La Puerta que Llueve** | Plano Elemental del Agua | Mana un hilo constante de agua negra que congela al tocar suelo; de aquí salen los Heraldos. El más defendido |
+| **El Arco del Vals** | Plano Elemental del Aire | Quien lo cruza (o se acerca a 10 pies) vuelve hablando **en susurros durante un día** — el aire de allí se le queda en los pulmones |
+| **La Puerta Pequeña** | El armario de una posada de **Waterdeep** | El contrabando cómico de la red: por aquí entran vino, tabaco y cartas. Ymir la tolera porque los oficiales la usan. **Un PJ podría enviar un mensaje a casa…** si paga el peaje de Velka |
+| **La Boca de Sal** | El mar muerto del Archipiélago | Huele a salmuera quieta; los PJ pueden *ver* el mar en calma antes de conocerlo. Cruzar sin barco es caer al agua a leguas de toda costa |
+| **El Umbral Ciego** | *Nada visible* | Los cronófagos **no lo usan y no lo miran**. Al otro lado solo hay oscuridad y un punto de luz lejano. Da al **limbo entre planos** — la prueba muda de que Chronosia flota en un vacío cerrado (siembra de la prisión, como las Grietas) |
 
 > **Cómo sellar los umbrales (dos vías):** a la vieja usanza —derrotar a Velka congela su portal, sabotear los arcos uno a uno— o con el **Cerrador de Portales** portátil de La Resistencia (un PJ lo ancla frente a un umbral y lo clausura en un par de turnos mientras el grupo lo protege). Ambas valen. Ver [Motor de Campaña → las zonas de portales](../01_Como_Dirigir.md) y el [catálogo de objetos](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md).
 
@@ -114,7 +137,7 @@ El nodo central: un **maelström de hielo y vacío** —un embudo gigante girand
 - **Si lo dejan hablar**, Ymir entrega la pieza de la región sin pretenderlo:
   > "¿Creéis que mis puertas dan a *tierras*? No, hielo derretido. Dan a **planos**. A océanos que no son vuestros, a cielos que no son vuestros. ¿Y sabéis por qué puedo abrirlas todas desde aquí? Porque Chronosia no está *dentro* de ningún plano: cuelga en el **hueco entre todos**, como una araña en el centro de su tela, tocando cada hilo. Yo soy el portero de la tela. Y esa de ahí —" *(señala el portal negro)* "— es la única puerta que no quiero abrir. No da a ningún plano. Da al **agujero donde Él se esconde**, fuera de todo, con sus dos cautivos. El amo me prohibió tocarla. Ni siquiera Él recuerda ya que existe."
   *(Confirma: Chronosia = nexo/prisión entre planos; y el portal negro = la Torre, fuera de los planos. Encaja con "la Torre no está en ningún sitio" del Jardín.)*
-- **Victoria:** los portales de hielo se estabilizan, las distorsiones se disipan en 1d4 horas, los congelados se descongelan suaves. Los PJ **capturan la red de portales** (vía rápida al hub planar del clímax) y extraen de la esencia de Ymir la **Carcasa Dimensional** —la coraza de un conducto del Espacio, hielo planar prensado en forma de armazón—. El portal negro queda inerte pero **localizado**: ahora saben dónde está la puerta a la Torre. *(Sabor: Ymir era logística pura; matarlo asfixia el abastecimiento de los Cronófagos, pero acelera el Reloj como cualquier conducto caído.)*
+- **Victoria:** los umbrales de la Red **se apagan uno a uno durante toda la noche, como velas sopladas por algo enorme** — los PJ pueden contarlos desde el campamento. El deshielo, en cambio, tardará **una estación**: Glacialis no se cura, queda *convaleciente*; los congelados se descongelan suaves con los días. Los PJ **capturan la red de portales** (vía rápida al hub planar del clímax) y extraen de la esencia de Ymir la **Carcasa Dimensional** —la coraza de un conducto del Espacio, hielo planar prensado en forma de armazón—. El portal negro queda inerte pero **localizado**: ahora saben dónde está la puerta a la Torre. *(Sabor: Ymir era logística pura; matarlo asfixia el abastecimiento de los Cronófagos, pero acelera el Reloj como cualquier conducto caído.)*
   > **Fuente más accesible, no exclusiva.** Ymir es la vía más fácil de conseguir una Carcasa Dimensional (región de entrada, puerta abierta desde el inicio), pero **cualquier lugarteniente dimensional** —Dimensionalis, Yrindra o Ignis— suelta una Carcasa equivalente al caer. El Rotor Infinito no exige *a Ymir*: exige *un* conducto dimensional.
 
 ---

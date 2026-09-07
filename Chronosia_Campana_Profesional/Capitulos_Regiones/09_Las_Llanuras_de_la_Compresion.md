@@ -30,7 +30,7 @@ Aquí **las distancias no se miden: se tiran**. Entre dos zonas cualesquiera del
 
 ## Recorrido por la región
 
-**Flujo:** **Punto de Entrada Seguro** (1): el campamento de exploradores y la advertencia sobre los pliegues → **El Bosque de Árboles Encogidos** (2): primer terreno comprimido, Old Tessil y la lección de la geometría mentirosa → **El Mercado Retorcido** (3): Hossk, rumores, y el agrimensor Karkesh → **El Puente Infinito y el Páramo Encogido** (4): el sub-jefe Karkesh y su atlas → **La Grieta Temporal** (5): el desgarro hacia Avernus, prueba previa a la guarida → **La Atalaya Comprimida** (6): Dimensionalis, el laberinto dimensional y la negociación de la identidad. *(Los Picos Estirados son telón de fondo y rutas alternativas, no zona obligatoria.)*
+**Flujo:** **Punto de Entrada Seguro** (1): el campamento de exploradores y la advertencia sobre los pliegues → **El Bosque de Árboles Encogidos** (2): primer terreno comprimido, Old Tessil y la lección de la geometría mentirosa → **El Doblez de Marren** (2b, misión de Lirian): el tutorial de los pliegues → **El Mercado Retorcido** (3): Hossk, rumores, y el agrimensor Karkesh → **El Puente Infinito y el Páramo Encogido** (4): el sub-jefe Karkesh y su atlas → **La Grieta Temporal** (5): el desgarro hacia Avernus, prueba previa a la guarida → **La Atalaya Comprimida** (6): Dimensionalis, el laberinto dimensional y la negociación de la identidad. *(Los Picos Estirados son telón de fondo y rutas alternativas, no zona obligatoria.)*
 
 > **Nota de dirección.** El espacio es el enemigo aquí tanto como las criaturas. Usa terreno difícil que aparece y desaparece, distancias que cambian a media tirada de movimiento, y la sensación constante de que el mapa no es de fiar. La **brújula de Casiopea** (si vinieron del Abismo) o el **Mapa de Líneas Estables** y los objetos de Hossk son las únicas anclas. La última zona, de nuevo, **no es un jefe a matar**: Dimensionalis prefiere vender antes que morir, y huye si pierde. El combate es opcional; la negociación es el clímax.
 
@@ -59,7 +59,20 @@ Al sureste, un bosque entero comprimido al tamaño de un jardín: árboles de ci
 - **Qué hay:** un **Mastín Comprimido** (la mole plegada en cuerpo de perro) caza en el bosque; su *Masa Imposible* castiga a quien se le acerca. Bandadas de **Eco Cartográfico** —jirones de mapas viejos animados— susurran nombres de lugares que ya no existen y desorientan.
 - **Pista / secreto:** el mapa "que borra leguas" de Old Tessil es una pista doble: enseña que **Karkesh y su atlas reescriben la geometría** (3-4), y que la región se está *consumiendo* — el desgarro crece. Quien descifre cuál de los mapas de Tessil es el verdadero gana una ruta directa al Páramo.
 
-**Lleva a:** el sendero plegado lleva al Mercado, único punto de comercio de las Llanuras, donde se oye hablar del "agrimensor de la fractura".
+**Lleva a:** el sendero plegado lleva al Mercado, único punto de comercio de las Llanuras, donde se oye hablar del "agrimensor de la fractura". Y si aceptaron el trato de Lirian, ella se desvía antes: al **Doblez de Marren** (2b).
+
+### 2b · El Doblez de Marren *(la misión de Lirian — aprender los pliegues)*
+
+Una cabaña de pastor en mitad de la llanura. El problema: **está tres veces.** La misma cabaña, la misma puerta, el mismo humo — plegada sobre sí misma en tres versiones que ocupan casi el mismo sitio, cada una vista desde un ángulo levemente imposible. Dentro está **Marren**, el compañero de Lirian… en las tres a la vez.
+
+> *Leído al entrar en la primera:* "Dentro, un hombre de espaldas atiza el fuego. «¿Lirian? ¡Por fin! Llevo aquí… ¿horas? ¿días?» — y al girarse veis el problema: **le falta el brazo izquierdo**, sin herida, como si nunca lo hubiera tenido. Por la ventana, en la cabaña de al lado que es esta misma cabaña, otro Marren os saluda con ese brazo. Y en la tercera, un Marren sentado llora con los dos brazos… de momento."*
+
+- **Cómo funciona (mini-dungeon de 3 salas que son 1):** todo lo que se hace en una cabaña **repercute plegado** en las otras dos (apagar el fuego en una = las otras se llenan de humo; abrir la puerta de una = otra se atranca). Marren está **repartido** entre las tres versiones y no puede salir de ninguna: si una versión cruza la puerta, se deshace en niebla y reaparece dentro.
+- **La solución:** **sincronizar las tres cabañas** para que el pliegue se alise: tres acciones simultáneas (una por sala — el grupo debe dividirse, ¡en la región donde separarse asusta!): avivar los tres fuegos al mismo ritmo, abrir las tres puertas a la vez, y que las tres versiones de Marren se pongan **en el mismo punto de la habitación** (Inteligencia CD 14 para leer la geometría del pliegue; el atlas de Karkesh, si ya lo tienen, lo hace automático). Con la sincronía, las tres cabañas **se funden en una** con un chasquido de sábana — y Marren vuelve a ser uno, con sus dos brazos y una jaqueca histórica.
+- **Si fallan dos veces:** el pliegue se aprieta — una de las versiones de Marren **se borra** (elige cuál; que lo vean desvanecerse). Aún puede salvarse entero si aciertan a la tercera, pero recordará *haber sido borrado*. Material de pesadillas y de interpretación.
+- **Recompensa:** Lirian cumple — **guía al grupo hasta la Atalaya** (ignoran las tiradas de pliegue del viaje). Marren, agradecido y tembloroso, enseña lo que aprendió dentro: **cómo "leer" un pliegue desde dentro** — cada PJ gana **ventaja en su primera tirada contra los pliegues de Karkesh** (zona 4). La misión es el tutorial de la mecánica del jefe, pagado en carne.
+
+**Lleva a:** con Lirian de guía, el Mercado Retorcido (3) queda a un pliegue amable de distancia.
 
 ### 3 · El Mercado Retorcido
 
@@ -121,7 +134,7 @@ Una torre de vigía que el espacio ha plegado sobre sí misma: parece baja desde
 - **La advertencia (gratis, porque le divierte):**
   > "Os doy esto de regalo, para que volváis: yo vendo a todos. A vosotros hoy, a quien os busque mañana. No confiéis en mí. Lo único cierto de mí es que siempre miento *a alguien* — y hoy os toca ser a vosotros los favorecidos. Mañana, quién sabe."
 
-- **El combate (si lo fuerzan):** Dimensionalis **separa a los PJ** en habitaciones dimensionales cerradas (1-2 esbirros CR ≤4 por sala: doppelgängers fracturados, mephits, ogros desplazados, elementales menores), crea laberintos y fractura masiva para confundir. Mantiene distancia, teletransporta, y al perder ventaja **huye por un pliegue** (no se la "mata" fácilmente — es escurridiza por diseño). Si muere, las Llanuras se restauran en 1d4 horas.
+- **El combate (si lo fuerzan):** Dimensionalis **separa a los PJ** en habitaciones dimensionales cerradas (1-2 esbirros CR ≤4 por sala: doppelgängers fracturados, mephits, ogros desplazados, elementales menores), crea laberintos y fractura masiva para confundir. Mantiene distancia, teletransporta, y al perder ventaja **huye por un pliegue** (no se la "mata" fácilmente — es escurridiza por diseño). Si muere, el espacio **se desarruga como una sábana sacudida**: una ola visible de horizonte enderezándose recorre las Llanuras en un minuto, con temblores, pliegues que revientan y leguas enteras reapareciendo donde no había nada. Quien esté en campo abierto lo siente como un terremoto (CD 12 DES o derribado).
 - **El coste de la victoria:** si la matan en vez de negociar, pierden la fuente de información y ella se lleva los secretos. La región *premia el trato*, no la espada.
 
 ---
@@ -163,7 +176,8 @@ Una torre de vigía que el espacio ha plegado sobre sí misma: parece baja desde
 
 - **Lirian Vael** (humana, exploradora veterana, aliada). Práctica, lacónica, cicatriz "que no estaba ayer". Conoce rutas estables entre pliegues; guía al grupo a cambio de rescatar a su compañero, perdido dentro de un doblez.
 - **Old Tessil** (gnomo, cartógrafo enloquecido, neutral). Ríe dibujando mapas que se contradicen; uno marca la fractura real. Suplica que destruyan un mapa concreto que borra una legua cada vez que se lee.
-- **Hossk** (medio-orco, comerciante de baratijas dimensionales, neutral). Vende brújulas, cuerdas-ancla y piedras de retorno que "a veces funcionan". Cínico pero honesto; dador de rumores sobre Karkesh y su atlas.
+- **Hossk** (medio-orco, comerciante de baratijas dimensionales, neutral). Cínico pero honesto; dador de rumores sobre Karkesh y su atlas. **Tienda:** brújula estable (50 po; no señala el norte — señala **su Mercado**, "que es más útil"), cuerda-ancla (25 po; 60 pies que **no se pliegan** con el terreno), piedra de retorno (100 po; 1/día teletransporta al Mercado… con un 1-2 en 1d10 te deja a media legua, "por eso el descuento"). **Solo rebaja por:** mapas verificados de las Llanuras — "verificados" significa que quien lo dibujó sigue vivo.
+  > "¿Garantía? Estáis en el único sitio del mundo donde la palabra *distancia* miente. Mi garantía es que yo sigo aquí." 
 
 ---
 

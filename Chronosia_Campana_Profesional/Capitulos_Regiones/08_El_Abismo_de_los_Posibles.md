@@ -135,7 +135,7 @@ El obelisco cronológico que gira en el centro del archipiélago, cubierto de ru
 
 - **Si los PJ insisten en matarlo / lo traicionan:** Varrak no se defiende con saña; se entristece. *"Así que esta es la línea. La había visto. Esperaba que no fuera esta."* Su muerte aquí cierra la puerta al aliado y al retroceso del Reloj — y su arco de Fase 3 cambia a "mártir quebrado" o se cancela. Adviértelo en la mesa solo por consecuencias en ficción, nunca metajuego.
 
-- **Victoria (la real):** Varrak vive, aliado. El Abismo no se "limpia" (sigue siendo suyo, y benévolo); los PJ se llevan el Cristal, la verdad del futuro, el aviso sobre Teach y un amigo que reaparecerá. Si más adelante Varrak muere —por los PJ o por otro lugarteniente— el Abismo se restaura a la normalidad en 1d4 horas.
+- **Victoria (la real):** Varrak vive, aliado. El Abismo no se "limpia" (sigue siendo suyo, y benévolo); los PJ se llevan el Cristal, la verdad del futuro, el aviso sobre Teach y un amigo que reaparecerá. Si más adelante Varrak muere —por los PJ o por otro lugarteniente— las islas **dejan de ramificarse y ELIGEN**: en un suspiro, cada isla colapsa a una sola versión de sí misma, y el archipiélago pierde la mitad de sus puentes (los que llevaban a posibilidades que ya no existen). El Abismo queda quieto, definido… y más pequeño.
 
 ---
 
@@ -178,7 +178,8 @@ El obelisco cronológico que gira en el centro del archipiélago, cubierto de ru
 
 - **Maestro Oviran, el Que Ya Sabe** (humano, profeta menor enloquecido). Habla con varios futuros a la vez, lúcido a ráfagas, aterrado por lo que recuerda del mañana. Da una profecía verdadera por favor — pero nunca sabe si es de esta línea o de una vecina. Dador de misiones inestable.
 - **Casiopea Doblez** (semielfa, cartógrafa de realidades). Metódica, escéptica de toda "verdad"; confía solo en lo que dibuja dos veces igual. Da el **Mapa de Líneas Estables** a cambio de muestras de anomalías. El contrapeso fiable de Oviran.
-- **Bren-Que-Volvió** (mediano mercader, neutral). "Volvió por la puerta equivocada"; vende reliquias de futuros que no pasaron (fijan probabilidad, un uso) y rumores sobre los Ecos. Fatalista alegre.
+- **Bren-Que-Volvió** (mediano mercader, neutral). "Volvió por la puerta equivocada"; fatalista alegre. **Tienda:** reliquia de probabilidad (150 po; un uso: relanza un dado y quédate el mejor), moneda de dos caras iguales (50 po; ventaja en una tirada de iniciativa, luego se funde), mapa de un puente que "casi siempre existe" (40 po). **Solo rebaja por:** que le cuenten **una decisión de la que se arrepientan** — colecciona bifurcaciones ajenas ("en alguna línea, la tomasteis bien; me gusta saber cómo suena").
+  > "El oro no me importa: en otra vida ya soy rico. Pagadme en *caminos no tomados* y hablamos." 
 - **El Monje Manco** (humano, monje, subordinado leal de Varrak). Maestro de espada que golpea con un brazo etéreo de energía temporal. Lealtad absoluta. Ejecutor del futuro sacrificio de su maestro.
 
 ---
