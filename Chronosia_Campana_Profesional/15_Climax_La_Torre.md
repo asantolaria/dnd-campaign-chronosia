@@ -88,10 +88,12 @@ El mapa lo dibuja como un **puente de piedra en espiral** que cruza un abismo de
 > *Leído al entrar:*
 > "Ante vosotros, un puente de piedra se enrosca sobre un abismo sin fondo. Del vacío suben zarcillos de oscuridad que no tocan, solo *susurran*: os dicen vuestro peor recuerdo, vuestra peor culpa, la frase que más os duele. Cruzar no es cuestión de pies. Es cuestión de no escuchar."
 
-**Qué ocurre:** cada criatura que cruza hace una tirada de **salvación de Sabiduría CD 18**. Quien falla **no puede avanzar al Nivel 4** —el puente lo rechaza, lo deja atrás (no lo mata; lo aparta). Quien la supera, llega a la Cámara de Ascensión.
+**Qué ocurre:** cada criatura que cruza hace una tirada de **salvación de Sabiduría CD 18**. Quien falla se detiene a mitad del puente, ahogado en su peor recuerdo — **no puede avanzar… todavía**. Quien la supera, llega a la Cámara de Ascensión.
+
+> **🛠️ La válvula (ningún PJ se pierde el final por una tirada).** Un PJ atascado puede **reintentar la salvación al inicio de cada uno de sus turnos**, pagando el peaje del abismo por cada reintento: **2d10 de daño psíquico** (los susurros muerden más fuerte). Además, un aliado que ya cruzó puede **volver a por él**: al hacerlo se expone otra vez (salvación CD 13 al reentrar; si falla, también queda atascado un turno) y, si llega hasta el compañero, le presta su voz contra los susurros — el atascado **repite con ventaja**, y si el aliado invoca en voz alta un recuerdo compartido concreto (que el *jugador* lo diga en la mesa), **cruza automáticamente**. El puente solo retiene para siempre a quien **elige** quedarse a escuchar. Coste real de la escena: rondas y PG mientras el medidor de arriba sigue subiendo — no asientos vacíos en el clímax.
 
 - **Edward Teach cruza con ventaja:** el Talismán lo blinda contra la prueba. Si vive, casi siempre llega arriba. Esto *importa* para el Final B.
-- Es el momento de la verdad para los lugartenientes vivos y los aliados frágiles: algunos se quedan en el puente. Quien llegue a la cima es quien pelea el final.
+- Es el momento de la verdad para los lugartenientes vivos y los aliados frágiles: **los PNJ no tienen válvula** — algunos se quedan en el puente, y eso está bien: es el filtro dramático de quién pelea el final. *(Los lugartenientes que se queden aquí siguen disponibles para la *Llamada a Lugartenientes* de Aethernus: él no los invoca por el puente, sino por los canales divinos.)*
 
 ### Nivel 4 · Cámara de Ascensión — *los dos dioses encadenados + Aethernus*
 
@@ -114,14 +116,28 @@ A partir de aquí, todo es la batalla final. Si Teach llegó, está presente, co
 
 > **🗣️ Monólogos.** La apertura, las dos transiciones de fase y las últimas palabras de Aethernus están escritas en su [ficha → Voz y Monólogos](02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md). Léelos en voz alta en cada cambio de barra.
 
-> **Nivel 10 fijo** (no se sube de nivel durante el combate). El **medidor del ritual** —un contador PROPIO del combate final, como desactivar una bomba— está visible siempre y sube cada 2-3 turnos (narrativo, no estricto); dentro de la Cámara **sí puede subir y bajar** según lo que hagan los PJ. **No confundir con el Reloj del sandbox**, que es doom monótono y nunca retrocede. Si el medidor del ritual llega al 100% antes de que los PJ ganen → **Final D** (lo mismo que si el Reloj del sandbox toca 8/8). La estructura es de **tres pasos** (interrumpir → liberar → derrotar), entrelazados con las fases del statblock de Aethernus.
+> **Nivel 10 fijo** (no se sube de nivel durante el combate). El **medidor del ritual** —un contador PROPIO del combate final, como desactivar una bomba— está visible siempre; dentro de la Cámara **sí puede subir y bajar** según lo que hagan los PJ. **No confundir con el Reloj del sandbox**, que es doom monótono y nunca retrocede. Si el medidor llega al **100%** antes de que los PJ ganen → **Final D** (lo mismo que si el Reloj del sandbox toca 8/8). La estructura es de **tres pasos** (interrumpir → liberar → derrotar), entrelazados con las fases del statblock de Aethernus.
+
+> **📊 LA ESCALA DEL MEDIDOR (números concretos — apúntalo en una hoja a la vista):**
+>
+> | Reloj del sandbox al sonar la Llamada | El medidor arranca en… |
+> |---|---|
+> | ≤4/8 | **40%** |
+> | 5/8 | **50%** |
+> | 6/8 | **65%** |
+> | 7/8 | **80%** |
+>
+> - **Sube +5%** al final de cada ronda en la que el Cronosellado esté **activo**. *(Ejemplo: entrando con 80%, tienen 4 rondas si lo ignoran — de ahí la urgencia del Paso 1.)*
+> - **Interrumpirlo** (Paso 1) lo **apaga 1d4 rondas** y lo hace **retroceder 5%**. Se puede interrumpir tantas veces como haga falta.
+> - **Liberar a los dioses** (Paso 2) **congela el medidor definitivamente**: sin dioses que drenar, el ritual no puede completarse. *(Es la recompensa mecánica de la llave chroniana: con ella, el Final D deja de acechar; sin ella, la bomba sigue armada hasta el final.)*
+> - Anuncia el porcentaje **al final de cada ronda**, en voz de mundo: "el eclipse late más deprisa" (60%), "los dioses gimen" (80%), "la luz y el vacío empiezan a fundirse" (90%).
 
 ### Paso 1 — Interrumpir el ritual *(detener el reloj)*
 
 Mientras el Cronosellado lata, Aethernus se regenera y el medidor sube. Hay que **callar el núcleo** antes que nada.
 
-- **Acción:** atacar el **Cronosellado** (CA 20) o, como acción, **salvación de Sabiduría CD 18** para imponerle el propio espíritu.
-- **Efecto:** el ritual se **detiene temporalmente** y el medidor retrocede 1-2%. Aethernus pierde su regeneración de fase (entra en **Fase 2** de su statblock). Sin esto, los dioses no pueden liberarse y el medidor sigue trepando.
+- **Acción:** atacar el **Cronosellado** (CA 20; con 25 de daño acumulado en una ronda se interrumpe) o, como acción, **salvación de Sabiduría CD 18** para imponerle el propio espíritu.
+- **Efecto:** el ritual se **apaga 1d4 rondas** y el medidor **retrocede 5%** (ver la escala, arriba). Mientras esté apagado, Aethernus pierde su regeneración de fase (empújalo hacia la **Fase 2** de su statblock). Sin esto, los dioses no pueden liberarse y el medidor sigue trepando +5% por ronda.
 
 ### Paso 2 — Liberar a los dioses *= SOLO la llave chroniana*
 

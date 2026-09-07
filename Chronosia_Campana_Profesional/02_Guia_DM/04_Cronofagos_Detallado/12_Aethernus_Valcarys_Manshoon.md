@@ -231,7 +231,7 @@ Como acción, Aethernus manipula el tiempo en un radio de 60 pies. Todas las cri
 **Transición:** efecto gratuito. Aethernus pronuncia su monólogo (ver [Voz y Monólogos](#-voz-y-monólogos-la-torre-cap-15)) y, una sola vez, puede usar **Llamada a Lugartenientes**.
 
 **Llamada a Lugartenientes (1/combate).**  
-Como acción, Aethernus llama a los lugartenientes que sigan vivos. Hasta 2 de ellos (a elección del DM, usando sus statblocks ya reescalados) aparecen al inicio del siguiente turno y luchan por él.
+Como acción, Aethernus tira de los canales divinos y arrastra a la Cámara a lugartenientes que sigan vivos (no necesitan haber cruzado la Eliminatoria: los teletransporta el propio ritual). **Límites de seguridad:** hasta **2** lugartenientes de **CR 9 o menos** (con 4 PJ o menos, solo **1**); nunca a Teach (no es suyo) ni a un lugarteniente aliado de los PJ (el canal lo rechaza — gran momento si ocurre). Aparecen al inicio del siguiente turno, aturdidos su primera ronda si se resistieron, y luchan por él.
 
 **Acciones**
 
@@ -242,9 +242,23 @@ Aethernus hace tres ataques repartidos entre **un** golpe de arma a una mano (Es
 Como acción, Aethernus drena a un enemigo a 30 pies. El enemigo hace salvación de Constitución CD 18 o sufre desventaja en sus tiradas de ataque hasta el final de su próximo turno, y Aethernus recupera 25 HP.
 
 **Poderes de Lugartenientes (solo de los que sigan VIVOS — tacha los caídos):**
-- **Poder Temporal (si Vorthak vive):** una vez por ronda, como parte del multiataque, un ataque que envejece 1d4 años al objetivo (CD 18 Con).
-- **Poder Dimensional (si Ignis vive):** *Portal de Fuego* (recarga 5-6): cono de 60 pies, CD 18 Des, 42 (12d6) de daño de fuego, mitad si tiene éxito.
-- *(Añade aquí, con el mismo formato y CD 18 / daño ~10-12d6, el poder de cualquier otro lugarteniente vivo. Por cada lugarteniente derrotado antes del combate, elimina su poder de esta lista.)*
+
+> Esta tabla es el pago mecánico del sandbox: **por cada lugarteniente derrotado antes de la Torre, tacha su fila**. Anuncia cada tachón en mesa ("busca la reversión de Serapis… y no la encuentra: vosotros se la quitasteis"). **Tope de mesa:** aunque vivan más, Aethernus usa como máximo **3** de estos poderes en todo el combate — elige los más vistosos, no los acumules.
+
+| Si vive… | Poder robado |
+|---|---|
+| **Serapis** | ***Deshacer Robado*** (1/combate, reacción): un ataque o efecto contra Aethernus "nunca ocurrió" |
+| **Vorthak** | ***Sed Robada*** (1/ronda, parte del multiataque): un golpe envejece 1d4 años (CD 18 Con) y cura a Aethernus otro tanto en PG |
+| **Ignis** | ***Portal de Fuego*** (recarga 5-6): cono de 60 pies, CD 18 Des, 42 (12d6) de fuego, mitad si supera |
+| **Medusa** | ***Mirada de Estasis*** (recarga 6): un enemigo a 60 pies, CD 18 Sab o *paralizado* hasta el final de su siguiente turno |
+| **Tempus** | ***Bucle Robado*** (1/combate): un enemigo, CD 18 Int o **repite exactamente su último turno** (mismo movimiento y misma acción, resueltas por el DM) |
+| **Las Gemelas** | ***Reflejo Robado*** (1/combate): un clon debilitado (mitad PG, mitad daño) del PJ más peligroso; dura 3 turnos |
+| **Ymir** | ***Umbral Helado*** (recarga 5-6): línea de 30 pies, CD 18 Con, 21 (6d6) de frío y velocidad 0 hasta el final de su turno (mitad y sin freno si supera) |
+| **Dimensionalis** | ***Fractura Robada*** (1/combate): un enemigo, CD 18 Car o pasa 1 ronda desplazado a una dimensión adyacente (desaparece; vuelve al mismo sitio al inicio de su siguiente turno) |
+| **Yrindra** | ***Hilo de la Tejedora*** (recarga 5-6): un enemigo a 60 pies, CD 18 Fue o *apresado* por hilos dimensionales (escapar: Fue CD 18) |
+| **Varrak** *(solo si vive Y no es aliado)* | ***Presciencia Robada*** (pasivo): la primera tirada de ataque contra Aethernus cada ronda tiene desventaja |
+
+*(Edward Teach nunca presta poder: no es un conducto de Aethernus, es su rival.)*
 
 **Acciones Legendarias (Fase 2)** — 3 por ronda, mismas reglas:
 - **Ataque de Espada** (1 acción): un ataque con *Espada de Poder Divino*.

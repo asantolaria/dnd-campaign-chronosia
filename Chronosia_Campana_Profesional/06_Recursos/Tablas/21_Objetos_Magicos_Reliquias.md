@@ -158,22 +158,23 @@ Un reloj de bolsillo gnomo del tamaño de una mano. Su carcasa es de oro envejec
 - Ventaja en todas las tiradas de salvación contra efectos temporales
 - Puede ver "ecos" de eventos que sucedieron hace hasta 1 hora (como *Clairvoyance* pero del pasado)
 
-**Captura Temporal (Activo, 3 cargas/día):**
-- El portador puede "capturar" un fragmento de tiempo de 6 segundos
-- Durante ese tiempo, puede actuar libremente mientras todo lo demás está congelado
-- Efecto: *Time Stop* (hechizo de nivel 9)
+**Captura Temporal (Activo, 1/día):**
+- El portador "captura" un fragmento de tiempo: actúa durante **2 turnos completos** mientras todo lo demás está congelado (versión contenida de *Time Stop*)
 - **CD de Salvación:** N/A (no se puede resistir)
 - **Alcance:** Personal (solo afecta al portador)
 
 **Estabilización Temporal (Activo, 1/día):**
 - El portador puede revertir completamente 1 turno de combate
 - Todo vuelve a como estaba al inicio de ese turno (excepto la memoria del portador)
-- Efecto: Todos los HP, posiciones, estados, y efectos mágicos vuelven a como estaban al inicio del turno
-- **Limitación:** Solo puede usarse una vez por día, y el portador recuerda lo que ocurrió
+- **Coste real:** el esfuerzo agota el artefacto — **todas** sus propiedades (pasivas incluidas) quedan inertes hasta el próximo amanecer
 
 **Recarga de Cargas:**
-- Las 3 cargas de Captura Temporal se recuperan al amanecer
-- La carga de Estabilización Temporal se recupera al amanecer
+- Ambas cargas se recuperan al amanecer
+
+**⚖️ La cláusula del Cronómetro (importante):**
+- Este artefacto es **el corazón de la muralla de Cronópolis**: mientras esté lejos de la ciudad, la burbuja del Cronómetro se debilita — el Contador parpadea, las distorsiones muerden el perímetro y **los Anacronistas lo reclaman** con creciente urgencia
+- Un grupo que lo recupere de manos de Teach y **lo devuelva** gana el mayor favor posible de los Anacronistas (y de la Síndica Maren); un grupo que se lo quede carga con una ciudad cada día más expuesta — juega esa presión
+- No es un objeto de aventurero: es un órgano de la ciudad prestado a héroes
 
 #### **🔗 Uso en el Talismán de Interceptación:**
 Cuando se combina con la Perla del Vacío Primordial, crea el Talismán de Interceptación Divina, capaz de desviar el flujo de poder divino del ritual de Manshoon.
@@ -242,12 +243,12 @@ Una perla del tamaño de un puño humano, perfectamente esférica. Su superficie
 - **CD de Salvación:** N/A (afecta el espacio, no criaturas)
 
 **Portal al Vacío (Activo, 1/día):**
-- El portador abre un portal al Vacío Primordial
-- El portal tiene 10 pies de diámetro y dura 1 minuto
-- Cualquier criatura que entre es succionada y desaparece en la nada absoluta
-- **CD de Salvación:** CD 20 de Fuerza para resistir la succión
+- El portador abre un portal al Vacío Primordial de 10 pies de diámetro que dura 1 minuto
+- Cada criatura a 20 pies del portal al inicio de su turno hace **salvación de Fuerza CD 18** o es **arrastrada 20 pies** hacia él
+- Una criatura que entre en el portal (o empiece su turno dentro) es **tragada**: desaparece en el Vacío y **reaparece en el mismo punto al final de su siguiente turno**, con 22 (4d10) de daño de fuerza y *asustada* del portal 1 minuto
+- **Solo desaparecen para siempre** las criaturas de CR 2 o inferior, los objetos no fijados y las criaturas ya a 0 PG que sean tragadas
 - **Alcance:** 60 pies
-- **⚠️ ADVERTENCIA:** Este poder es extremadamente peligroso y puede matar permanentemente
+- **⚠️ ADVERTENCIA:** sigue siendo un agujero en la realidad — el Vacío no distingue amigos de enemigos
 
 **Recarga de Cargas:**
 - Las 3 cargas de Compresión Espacial se recuperan al amanecer
@@ -1595,19 +1596,19 @@ Un cristal de color azul profundo con matices turquesa que parece contener el oc
 - **Duración:** Permanente mientras se porta
 
 **Tamaño Mediano (Puño):**
-- **Inmunidad Temporal:** Otorga inmunidad completa a efectos temporales (ralentización, aceleración, bucles temporales, estasis)
-- **Inmunidad Dimensional:** Otorga inmunidad completa a efectos dimensionales (compresión, expansión, portales forzados)
+- **Guardia Temporal:** Ventaja en salvaciones contra todos los efectos temporales e inmunidad a los menores (ralentización y aceleración leves)
+- **Guardia Dimensional:** Ventaja en salvaciones contra todos los efectos dimensionales e inmunidad a los menores (compresión/expansión leve)
 - **Estabilización Avanzada:** Protege contra distorsiones temporales y dimensionales mayores
 - **Resistencia:** Resistencia a daño temporal y dimensional
 - **Duración:** Permanente mientras se porta
 
 **Tamaño Grande (Cabeza):**
-- **Inmunidad Absoluta:** Otorga inmunidad completa a TODOS los efectos temporales y dimensionales
-- **Inmunidad a Manipulación Espacial:** Protege contra teletransportación forzada, portales, y distorsiones espaciales
-- **Inmunidad a Manipulación Temporal:** Protege contra todos los efectos de tiempo, incluyendo envejecimiento mágico
-- **Estabilización Perfecta:** El portador es completamente inmune a las distorsiones de Chronosia
-- **Resistencia Mayor:** Resistencia a daño temporal, dimensional, y necrótico
+- **Guardia Mayor:** Ventaja en **todas** las salvaciones contra efectos temporales y dimensionales, e inmunidad al **envejecimiento mágico**
+- **Anclaje:** El portador no puede ser teletransportado ni desplazado de plano contra su voluntad
+- **Resistencia Mayor:** Resistencia a daño temporal, dimensional y necrótico
+- **Pulso de Estabilidad (1/día):** al pulsarlo, el portador y sus aliados a 10 pies son **completamente inmunes** a efectos temporales y dimensionales durante **1 minuto**; después, el cristal queda **inerte hasta el amanecer**
 - **Duración:** Permanente mientras se porta
+- *(Nota de diseño: la inmunidad total permanente apagaba el tema central de la campaña — los poderes de casi todos los lugartenientes. Como pulso de 1 minuto es un as en la manga, no un interruptor de apagado.)*
 
 **Uso en Combinación de Poderes (Edward Teach):**
 - Teach busca desesperadamente estos cristales para **estabilizar** la combinación de poderes robados
