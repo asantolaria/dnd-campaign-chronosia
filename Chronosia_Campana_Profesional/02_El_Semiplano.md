@@ -53,6 +53,8 @@ Diez esquirlas y un centro. El mapa general las muestra todas, repartidas alrede
 
 > ⚠️ **Nota sobre el mapa.** El PNG general conserva todavía algunos nombres antiguos. Hasta regenerarlo, fíate de la leyenda numerada de aquí abajo: la numeración 1–10 es la canónica y coincide con los mapas regionales (`assets/mapas/01..10`).
 
+> 🗺️ **Mapa de JUGADOR (sin spoilers):** entrega en mesa `assets/mapas/13_mapa-jugador-chronosia.jpg` — las 10 regiones numeradas y Cronópolis, **sin** la Torre, el Valle de la Aguja, Abysara ni la isla de Teach. Lleva escrita la advertencia de Galen: *"No todo está en este mapa."*
+
 Presentadas como se sienten al acercarse:
 
 1. **La Espiral Inversa** *(Cap. 4 · Serapis el Retroceso)* — Un valle con forma de caracola donde el mismo amanecer regresa cada noche y los muertos se levantan confundidos; doscientos aldeanos giran un reloj de arena gigante para que el ayer no se los trague otra vez.

@@ -174,6 +174,8 @@ Un templo griego en la colina más alta del ala este, sin dios conocido. Sus col
 
 ### 8b · La Galería de Azogue *(mazmorra opcional de espejos)*
 
+![Battlemap — la Galería de Azogue y el Estanque de Lágrimas](../assets/mapas/battlemap-galeria-azogue-estanque-lagrimas.jpg)
+
 Un pasadizo excavado bajo el templo, forrado de espejos de todos los tamaños: la antesala con la que las Gemelas **miden** a sus visitas. No hay monstruos aquí — hay reflejos.
 
 > *Leído al bajar:* "La escalera se abre a una galería donde vuestras antorchas se multiplican por cien. En el primer espejo no os reflejáis en absoluto: solo la piedra vacía. En el segundo, vuestro reflejo ya está ahí **antes de que lleguéis**, esperándoos con los brazos cruzados. Levanta una mano. No es un saludo: os está *pidiendo* algo."*

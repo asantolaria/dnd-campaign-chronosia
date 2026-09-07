@@ -50,6 +50,8 @@ La Torre se sube de abajo arriba, y el mapa lo dice todo: cuatro niveles encajad
 
 ### Nivel 1 · Sala de Ecos — *la revelación masiva*
 
+![Battlemap — Sala de Ecos](assets/mapas/battlemap-torre-nivel1-sala-de-ecos.jpg)
+
 En el plano del mapa, la base de la Torre: una cámara circular forrada de **espejos y marcos** de todos los tamaños, inclinados, cruzados, reflejándose entre sí hasta el infinito. Aquí no se combate: aquí se *comprende*. Los espejos no devuelven el reflejo de los PJ; devuelven la **verdad**.
 
 > *Leído al entrar:*
@@ -69,6 +71,8 @@ Resueltos los espejos, una escalera de caracol asciende. Las antesalas separan c
 
 ### Nivel 2 · Corazón del Tiempo — *la mansión-trampa de clones*
 
+![Battlemap — Corazón del Tiempo](assets/mapas/battlemap-torre-nivel2-corazon-del-tiempo.jpg)
+
 El mapa lo muestra partido en dos mitades que no deberían convivir: a un lado, los **salones lujosos** de una mansión —alfombras, candelabros, retratos—; al otro, una pared de **engranajes de reloj** girando, gigantescos. Era la casa donde Manshoon vivió antes de encerrarse en el ritual. El tiempo aquí es dulce, y por eso es una trampa.
 
 > *Leído al entrar:*
@@ -83,6 +87,8 @@ Es el **espejo amable** del villano: Manshoon también se quedó en su mansión,
 
 ### Nivel 3 · Eliminatoria — *la prueba*
 
+![Battlemap — la Eliminatoria](assets/mapas/battlemap-torre-nivel3-eliminatoria.jpg)
+
 El mapa lo dibuja como un **puente de piedra en espiral** que cruza un abismo del que suben tentáculos de sombra. No hay enemigos que matar: hay un vacío que cruzar con la sola fuerza de la voluntad. Es el filtro de la Torre: no todos los que empiezan el asalto llegan a la cima.
 
 > *Leído al entrar:*
@@ -96,6 +102,8 @@ El mapa lo dibuja como un **puente de piedra en espiral** que cruza un abismo de
 - Es el momento de la verdad para los lugartenientes vivos y los aliados frágiles: **los PNJ no tienen válvula** — algunos se quedan en el puente, y eso está bien: es el filtro dramático de quién pelea el final. *(Los lugartenientes que se queden aquí siguen disponibles para la *Llamada a Lugartenientes* de Aethernus: él no los invoca por el puente, sino por los canales divinos.)*
 
 ### Nivel 4 · Cámara de Ascensión — *los dos dioses encadenados + Aethernus*
+
+![Battlemap — Cámara de Ascensión](assets/mapas/battlemap-torre-nivel4-camara-de-ascension.jpg)
 
 La cima. El mapa la corona con todo lo que la campaña prometía: un **círculo ritual zodiacal** grabado en el suelo, dos **pilares** a los lados, y entre ellos, lo impensable. A la izquierda, una figura de **oro**, radiante y vencida, encadenada por cadenas de luz: **Amaunator**, el sol prisionero. A la derecha, una figura de **púrpura** envuelta en velos de vacío, encadenada igual: **Voidar**, el espacio prisionero. Y en el centro exacto, flotando entre ambos, una semilla de luz que es a la vez **un sol diminuto y una estrella negra** —el eclipse donde tiempo y espacio se drenan el uno en el otro. Ese es el **Cronosellado**, el núcleo del ritual. Sobre él, de espaldas, con los brazos abiertos, **Aethernus Valcarys**.
 
