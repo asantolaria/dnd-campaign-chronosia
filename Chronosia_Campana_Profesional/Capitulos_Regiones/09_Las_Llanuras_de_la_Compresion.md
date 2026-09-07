@@ -22,6 +22,12 @@ Hasta ahora los PJ sabían *qué* hace Aethernus (en el Abismo, si lo visitaron)
 
 ---
 
+## Viajar por las Llanuras de la Compresión
+
+Aquí **las distancias no se miden: se tiran**. Entre dos zonas cualesquiera del mapa, el trayecto real dura **1d4 horas** — tíralo delante de los jugadores y deja que vean la mentira: la misma ruta ayer duró una hora y hoy dura cuatro. Los únicos caminos fiables son las **líneas de mojones de los agrimensores** (hitos de piedra de Karkesh y sus predecesores): seguirlas evita la tirada de pliegue pero alarga (siempre 3 horas por tramo) y cruza sus dominios. Campo a través, cada tramo exige **Sabiduría (Supervivencia) CD 15**: con éxito, el pliegue juega a favor (la mitad del 1d4); con fallo, el horizonte se arruga y el grupo **despliega en su punto de partida**, con las provisiones gastadas. Los hitos visuales mienten con elegancia: los **Picos Estirados** parecen al alcance de la mano y están a días; el resplandor rojo de la Grieta de Avernus, al sur, parece lejano y de pronto calienta la cara. En mesa: las Llanuras son **un arco** (+1 al Reloj). Encuentros: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **Punto de Entrada Seguro** (1): el campamento de exploradores y la advertencia sobre los pliegues → **El Bosque de Árboles Encogidos** (2): primer terreno comprimido, Old Tessil y la lección de la geometría mentirosa → **El Mercado Retorcido** (3): Hossk, rumores, y el agrimensor Karkesh → **El Puente Infinito y el Páramo Encogido** (4): el sub-jefe Karkesh y su atlas → **La Grieta Temporal** (5): el desgarro hacia Avernus, prueba previa a la guarida → **La Atalaya Comprimida** (6): Dimensionalis, el laberinto dimensional y la negociación de la identidad. *(Los Picos Estirados son telón de fondo y rutas alternativas, no zona obligatoria.)*

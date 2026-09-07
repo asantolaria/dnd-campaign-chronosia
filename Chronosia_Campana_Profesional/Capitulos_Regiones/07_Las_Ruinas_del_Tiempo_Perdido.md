@@ -18,6 +18,12 @@ Es la pieza que cierra el arco de comprensión. La Espiral mostró *que* los lug
 
 ---
 
+## Viajar por las Ruinas del Tiempo Perdido
+
+La ciudad-reloj se recorre por las **calzadas de latón** que aún vibran con un tic-tac subterráneo — son los únicos caminos donde el tiempo fluye ordenado. Por ellas: **Refugio del Viajero → Archivo, 2 horas** entre engranajes-torre que giran sin engranar; Archivo → Gran Engramaje, 1 hora; Engramaje → Forja, 2 horas; Forja → Observatorio, 3 horas de rampas ascendentes; y desde allí, el **descenso por el Río de los Segundos Perdidos, 4 horas** hasta los Cañones de Tempus. El hito constante: el **Gran Engramaje**, cuya rueda mayor asoma sobre toda la ruina y marca el centro como una luna dentada. **Salirse de las calzadas** es pisar tiempo desordenado: Sabiduría CD 14 o el PJ vive 1d10 minutos *de otro siglo* (la ciudad intacta, una batalla antigua, un mañana en ruinas) y reaparece desorientado a 1d4×100 pies — sin daño, con información: cada extravío es una ventana al pasado (úsalo para sembrar la historia chroniana). En mesa: la región entera es **un arco** (+1 al Reloj). Encuentros: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **Refugio del Viajero** (zona segura, suroeste) → **1 · El Archivo del Tiempo Astillado**: leen el mundo que fue → **2 · El Gran Engramaje Roto**: el corazón mecánico y sus guardianes → **3 · La Forja del Éter Eterno**: forjan/recuperan el cómo del equilibrio (Cristales) → **4 · El Observatorio de las Estrellas Estáticas**: ven escrita la Guerra de los Dioses → **El Río de los Segundos Perdidos** y **Los Cañones del Eco Temporal**: el descenso al corazón roto, guarida de **Tempus**. El engranaje del Magistrado Cerografo es la llave de la cámara sellada de Tempus.

@@ -35,6 +35,12 @@ Pero el verdadero tesoro de esta región no es un objeto ni una ruta: es **lo qu
 
 ---
 
+## Viajar por la Ciudad de Veldrisza
+
+Veldrisza no se cruza: se **desciende**. Todo cuelga de las paredes de la sima, unido por pasarelas de piedra y puentes de telaraña, bajo la luz azul de los hongos-farol. Por las pasarelas seguras (las que usan los refugiados): **Túneles Superiores → Mercado, 1 hora de bajada**; Mercado → Gran Portal-Telaraña, 2 horas; Portal → Círculo de la Torsión, 1 hora; Círculo → Templo, 2 horas; Templo → Ciudadela, 1 hora final. El hito omnipresente es la **Ciudadela Distorsionada**, colgada del techo de la sima como una lámpara — desde cualquier punto de la ciudad, Yrindra está literalmente *encima*. El atajo evidente son las **hebras**: cada telaraña gruesa es *distancia tejida* y cruza kilómetros en un paso… hacia donde la Tejedora quiera. Tocar una hebra sin guía drow: **Destreza CD 15** o el PJ es tragado por el hilo y escupido **1d10×100 pies sima abajo, camino de Menzoberranzan** (rescatable: la hebra puede recorrerse de vuelta con una guía o con la CD repetida). En mesa: la Ciudad es **un arco** (+1 al Reloj); si entran por la ruta de Varrak, el arco no cambia. Encuentros: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **Entrada de los Túneles Superiores** (1), zona segura donde los refugiados drow informan → **Mercado de las Sombras Luminosas** (2): Vornan, comercio del Underdark y los primeros rumores de que la Tejedora todo lo ve → **El Gran Portal-Telaraña** (3): el umbral mayor a Menzoberranzan, peligro y la columna de asalto que pulsa → **Círculo de la Torsión Espacial** (4): el corazón distorsionado de la ciudad y los espectros del umbral → **Templo del Abrazo de la Araña** (5): la drider Zress'ynara y la primera muestra de lo que la Matrona sabe → **La Ciudadela Distorsionada** (6): la Matrona Yrindra, la espía maestra, y la **negociación** por el tablero entero del presente. *(Si entran por la ruta de Varrak, pueden saltarse 2-3 y caer cerca del Templo, esquivando defensas y el punto ciego de su red.)*

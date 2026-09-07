@@ -20,6 +20,12 @@ La otra clave está en el agua. La **media llave chroniana** —una **mitad fís
 
 ---
 
+## Viajar por el Archipiélago de Barbanegra
+
+Sin viento, el mar muerto **se rema** (o se cruza con el Motor de Viento montado en un casco). Horas de remo por la lámina de plomo: **Puerto Seco → Faro de Alma Oscura, 3 horas**; Faro → Naufragio de la *Eterna Perdición*, 2 horas; Naufragio → Ruinas de Xal'azar, 4 horas (más la inmersión); Xal'azar → Fuerte Negro, 5 horas — siempre a la vista de la **bandera de la calavera blanca**, que corona el peñón más alto y se ve desde todo el archipiélago (Teach lo quiso así). Los **vórtices de tinta negra** son los atajos del lugar: meterse en uno recorta cualquier trayecto a media hora, pero exige **una tirada de grupo de Fuerza (Atletismo) o herramientas de navegante CD 14**; con fallo, el remolino escupe la barca en una isla al azar con 2d6 de daño de fuerza para todos y el casco crujiendo. Remar de noche dobla los encuentros (la superficie quieta deja ver todo lo que se mueve… en ambos sentidos — y en las aguas del nordeste duerme **Krra'thn**). En mesa: el Archipiélago es **un arco** (+1 al Reloj); ir y volver a Xal'azar en visitas separadas no lo cuenta dos veces. Encuentros: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **El Puerto Seco** (1) → cruzar el mar muerto hasta **El Faro de Alma Oscura** (2): primera advertencia, primer Oceánico → **Naufragio de la 'Eterna Perdición'** (3): el bergantín de Móreve y la prueba de la vendetta → **Ruinas de Xal'azar** (4): el templo-arrecife profanado, la media llave y el pacto con los Oceánicos → **Fuerte Negro del Capitán Barbanegra** (5): guarida, cristales y confrontación con Teach. Las **Islas Calavera / de los Lamentos** y los **Restos de Naufragios** son material de relleno y rescate; los **Vórtices** y **Remolinos** son rutas (peligrosas) entre zonas y hacia el resto del hub, y en las aguas del nordeste acecha **Krra'thn**, la serpiente del mar en calma muerta.

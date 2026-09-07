@@ -20,6 +20,12 @@ Y hay una consecuencia mecánica de campaña: **Ignis es CRÍTICO** y es el **l�
 
 ---
 
+## Viajar por las Calderas Dimensionales
+
+El anfiteatro volcánico se cruza por el **Camino de los Peregrinos**, la única senda donde la roca aguanta fría: **Puesto del Amanecer → Aguja Temporal, 3 horas**; Aguja → Mausoleo de Fulgur, 2 horas; Mausoleo → Grieta Primigenia, 2 horas; y de allí, **media jornada de subida** hasta las Tres Calderas, jalonada de osamentas colosales que sirven de hitos (y de sombra, la única). El horizonte engaña doblemente: las **tres bocas ovales de llama** sobre las montañas parecen cerca por su tamaño, y el calor ondula el aire hasta hacer flotar espejismos de lava donde no la hay. **Salirse del Camino** cruza roca herida por el espacio: Sabiduría (Supervivencia) CD 14 o el tramo *se dobla* — el doble de tiempo, y un encuentro seguro (tira en la [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md)). El **calor planar** exige raciones de agua dobles y las tiradas que el recorrido pida en cada zona; el Camino de los Peregrinos existe porque los peregrinos que no lo usaron blanquean el paisaje. En mesa: las Calderas son **un arco** (+1 al Reloj).
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **Puesto de Guardia del Amanecer** (1, zona segura) → por el **Camino de los Peregrinos** hasta **La Aguja Temporal** (2): el faro de aviso y el primer aliado → **El Mausoleo de Fulgur** (3): la historia de la región y la pista de la debilidad → **La Grieta Primigenia** (4): la boca-nodo que no lleva al Plano del Fuego, sino al hub → **Las Tres Calderas** (5): la subida a las bocas planares, el ritual de Drazhûl y la confrontación con Ignis sobre la caldera mayor. Las osamentas colosales jalonan el camino como advertencias.

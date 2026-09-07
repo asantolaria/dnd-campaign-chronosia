@@ -18,6 +18,12 @@ Quien lo entienda aquí sabrá que el plan de Aethernus es el doble de grande de
 
 ---
 
+## Viajar por el Jardín de los Tiempos Gemelos
+
+El Jardín es un parque amurallado y **compacto**: de la Entrada del Reloj a la Fuente del Eco hay media hora entre setos; cada ala se recorre entera en **media jornada**, y de la Fuente sale el único paso franco entre ambas (cruzar de ala por cualquier otro punto exige saltar el seto-espejo: quien lo hace emerge en el punto *simétrico* del otro lado — útil si se domina, desastroso si no). El truco del viajero: **las dos alas son la misma geometría invertida** — el mapa que dibujéis de una sirve para la otra leída al revés (Inteligencia CD 13 para orientarse invirtiendo mentalmente; el grupo que lo logre nunca se pierde). El hito constante es el **Templo de la Eternidad** en su colina: se ve desde las dos alas… siempre en el lado "equivocado". Perderse entre setos tiene su precio propio: 1 hora dando vueltas y un encuentro con el propio reflejo en una hoja de cristal (tira en la [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md)). En mesa: explorar y resolver el Jardín es **un arco** (+1 al Reloj); los paseos internos no se cuentan aparte.
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **Entrada del Reloj** (zona segura) → la **Fuente del Eco** (1), bisagra entre las dos alas, donde eligen lado. Recomendado abrir por el **ala helada** —**Bosque de las Horas** (2) → **Jardín Dormido** (3) → **Estanque Helado** (4) → **Torre del Observador** (5), guarida de **Medusa**— y luego cruzar al **ala viva** —**Portal Astrolabio** (6) → **Jardín Reflejado** (7) → **Templo de la Eternidad** (8) → **Estanque de Lágrimas** (9), guarida de **las Gemelas**. El orden es libre; el mapa manda. Liberar a una víctima petrificada (Hermano Quill) y romper el espejo de origen de un Reflejo Hostil debilitan los encuentros finales.

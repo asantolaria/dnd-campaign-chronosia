@@ -18,6 +18,16 @@ Encaja con lo sembrado en el Jardín ("la Torre está fuera del espacio" — Voi
 
 ---
 
+## Viajar por Glacialis
+
+Un páramo blanco sin más referencias que los **portales colgados en el aire** y las auroras-grieta del norte. Distancias por la ruta de mojones de los tramperos: **Entrada del Aventurero → Ciudad de Hielo, media jornada**; Ciudad → Grietas de Otro Plano, 3 horas al norte; Grietas → Red de Umbrales, 4 horas entre esquirlas cada vez más densas; Red → Portal de las Estrellas, 2 horas finales en las que la brújula deja de servir (los umbrales tiran de ella). Salirse de la ruta de mojones acorta en línea recta… sobre hielo que **comprime las distancias a saltos**: Sabiduría (Supervivencia) CD 13 o el grupo avanza el doble de lo previsto — a veces hacia el lugar equivocado.
+
+> **❄️ Regla de frío (3 líneas):** cada tramo de viaje sin fuente de calor (antorchas de Tovin, refugio, magia), cada PJ hace **salvación de Constitución CD 12** o gana **1 nivel de agotamiento**. En la Red de Umbrales y el Portal de las Estrellas, CD 14. Esto es lo que vende Tovin — ahora su "o sois cadáveres" tiene números.
+
+En mesa: cruzar y resolver Glacialis es **un arco** (+1 al Reloj). Encuentros de camino: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **Entrada del Aventurero** (zona segura, sur) → **La Ciudad de Hielo** (1): refugio, NPCs, el primer portal "normal" → **Grietas de Otro Plano** (2): el desgarro que prueba que Chronosia toca *otros* planos → **Red de Umbrales Helados** (3): la maraña de portales y su guardiana Velka → **El Portal de las Estrellas** (4): el nodo central, guarida de Ymir, y el portal que no da a ningún plano. Sellar portales menores por el camino debilita la red de Ymir y sus refuerzos en el combate final.

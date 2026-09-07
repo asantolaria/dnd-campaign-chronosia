@@ -22,6 +22,12 @@ Y hay un segundo secreto, más operativo: **Edward Teach es un punto ciego**. Cu
 
 ---
 
+## Viajar por el Abismo de los Posibles
+
+No hay suelo: hay **islas flotantes y puentes de cuerda**, y todos los caminos son puentes. Del Campo de Luz al Puente de los Mil Ayeres, 1 hora; después, cada isla queda a **~2 horas de puentes** de la anterior, y la **Aguja Sin Fin** gira siempre visible en el centro de la sima — el único hito que no cambia entre realidades (los Tejedores enseñan a navegarla: "si la Aguja está a tu derecha, vas hacia el borde"). Los puentes cobran peaje al distraído: quien cruza uno en tensión (combate, huida, discusión) hace **salvación de Carisma CD 13** o llega al otro lado siendo *una versión con un detalle cambiado* — el color de la capa, una cicatriz nueva, un recuerdo pequeño que los demás no comparten (sabor puro, sin mecánica; anótalo y deja que la mesa lo descubra sola). Mirar la sima demasiado tiempo enseña posibles yos cayendo: no tires nada — descríbelo. En mesa: el Abismo es **un arco** (+1 al Reloj). Encuentros: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **Campo de Luz** (1), zona segura, donde la Orden de los Tejedores avisa de lo que el Abismo le hace a quien entra → **El Puente de los Mil Ayeres** (2): primer contacto con la probabilidad goteante y con el *Otro Tú* → **La Caída del Relojero** (3): el dirigible estrellado, rumores y reliquias de futuros que no pasaron → **El Templo del Olvido** (4): Tessaly Bifronte y las galerías donde Varrak ensaya sus profecías → **Las Fauces de lo Imposible** (5): la anomalía mayor, prueba de fe → **La Aguja Sin Fin** (6): Varrak. El combate dura pocas rondas; lo que importa es la conversación.

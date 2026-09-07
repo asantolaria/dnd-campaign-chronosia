@@ -18,6 +18,12 @@ Y hay una segunda verdad, más oscura aún: la **niebla es una puerta al Shadowf
 
 ---
 
+## Viajar por el dominio de la Sed Eterna
+
+El dominio es **compacto y cerrado**: de la verja a los Jardines Marchitos, 20 minutos; el recorrido completo hasta la puerta de la Mansión, **una hora escasa**. Aquí la distancia no mata — mata el **tiempo de estancia**: por cada **hora** dentro del dominio (la zona segura de la Entrada no cuenta), cada PJ hace **salvación de Constitución CD 14** o **envejece 1d4 meses** — canas nuevas, una arruga, un dolor de rodilla; acumulativo y visible. Es la región cobrándose la entrada, y la razón de que nadie acampe dentro: un descanso largo intramuros son 8 tiradas (los PJ listos salen a dormir tras la verja, o pagan el precio a sabiendas — genial: que se vean envejecer). El hito constante es la propia **Mansión**, cuyas vidrieras iluminadas se ven desde todo el dominio a cualquier hora — y la **niebla del este**, que no es paisaje: es la frontera del Shadowfell, y adentrarse en ella no es perderse, es *llegar a otro sitio*. En mesa: el dominio entero es **un arco** (+1 al Reloj). Encuentros: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
+
+---
+
 ## Recorrido por la región
 
 **Flujo:** **Entrada Principal** (1, verja y zona segura) → **Jardines Marchitos** (2): la primera mordida del lugar y el huésped que envejece → **Fuente de Lágrimas Heladas** (3): el corazón temático, el agua que no consuela → **El Observatorio Roto** (4): la historia de Vorthak y la pista de su debilidad → **Criptas Familiares** (5): la puerta al Shadowfell y la elección de Aurelius → **La Mansión** (6): guarida y confrontación con Vorthak. La niebla del este es siempre la frontera del Shadowfell: cruzarla no es perderse, es *llegar a otro sitio*.
