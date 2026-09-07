@@ -23,6 +23,7 @@ add(){ local g; for g in $1; do [ -f "$g" ] && FILES+=("$g"); done; }
 add "00_La_Historia_de_Chronosia.md"
 add "01_Como_Dirigir.md"
 add "02_El_Semiplano.md"
+add "01_Introduccion/04_Fase_0_Waterdeep.md"
 add "03_Cronopolis.md"
 add "Capitulos_Regiones/*.md"
 add "14_Arco_de_Barbanegra.md"
@@ -43,6 +44,9 @@ add "06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md"
 add "06_Recursos/Handouts/Contador_del_Ritual.md"
 add "06_Recursos/Handouts/Carta_Incriminatoria.md"
 add "06_Recursos/Handouts/Cronologia_de_Barbanegra.md"
+add "06_Recursos/Handouts/Llave_Chroniana.md"
+add "06_Recursos/Handouts/Profecia_de_Varrak.md"
+add "06_Recursos/Tablas/24_Rumores_Taberna.md"
 
 # --- Concatenar: imágenes -> copias web optimizadas + rutas absolutas + sin emojis ---
 # (mismo redirect que mkdocs_hooks.py: el PDF usa assets/web/ para no pesar 100+ MB)

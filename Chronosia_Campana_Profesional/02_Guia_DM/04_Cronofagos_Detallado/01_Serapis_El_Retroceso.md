@@ -153,11 +153,12 @@ Serapis **NO puede aliarse con Vorthak** debido a cambios en las dinámicas de p
 ### **Destino Final - La Traición de los Bregan Daerthe:**
 Después de la trama de la Traición de Serapis, cuando la Matrona Yrindra vea cómo los lugartenientes mueven sus casillas, los **Bregan Daerthe se revelarán contra Serapis** y lo matarán definitivamente. Los Bregan Daerthe llevarán su cuerpo a Yrindra, quien invocará el ritual **Zin-Carla** para resucitarlo como no-muerto bajo su control.
 
-**Serapis Resucitado:**
-- Conserva sus poderes temporales
-- Ahora está bajo el control de Yrindra
-- Combina poderes temporales y dimensionales de forma única
-- Sirve a Yrindra como guardián poderoso
+**Serapis Zin-Carla (statblock del resucitado):** usa el statblock base de Serapis (CR 5) con estos cambios — **CR 6** (2.300 XP):
+- **Tipo:** no-muerto · **Inmune** a *envenenado*, *encantado* y agotamiento · piel gris ceniza, arena **negra** en las capas
+- ***Hilo de la Matrona.*** Ya no es un conducto libre: Yrindra lo maneja. Pierde *Arena del Pasado* (el canal divino está cortado) y gana ***Paso de Telaraña*** (2/día): se teletransporta 30 pies dejando hilos de distancia tejida — la zona que abandona es terreno difícil 1 ronda
+- ***Deshacer* (1/combate)** se conserva — la muerte no le quitó su truco, solo su voluntad
+- **Voz:** habla con la suya… con medio segundo de retraso, como doblado. Si los PJ ya lo mataron una vez, reconoce al que le dio el golpe: "Tú. Ya me hiciste este favor una vez. La Matrona agradece la costumbre."
+- **Al destruirlo:** el Zin-Carla no se repite — Yrindra no gasta dos rituales en cenizas. Serapis descansa, y su Núcleo Temporal (si nadie lo extrajo en vida) cae ahora
 
 **📖 Referencia:** Ver [14_Arco_de_Barbanegra.md](../../14_Arco_de_Barbanegra.md) para la escena completa.
 

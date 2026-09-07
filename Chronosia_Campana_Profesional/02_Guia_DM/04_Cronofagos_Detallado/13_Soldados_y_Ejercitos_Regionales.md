@@ -71,10 +71,10 @@ Cada región tiene soldados únicos porque:
 
 **Tipo de Ejército:** Criaturas invocadas desde Menzoberranzan
 
-**Criaturas que Trae:**
+**Criaturas que Trae** *(reescaladas al techo de nivel 10 — fuente de verdad: su ficha)*:
 - **Guerreros Drow** (CR 3): Soldados élite de Menzoberranzan con armas envenenadas y tácticas de combate oscuro
-- **Sacerdotisas de Lolth** (CR 9): Clérigas poderosas que pueden lanzar hechizos de Lolth
-- **Demonios Drow (Yochlol)** (CR 10): Demonios araña que sirven a Lolth directamente
+- **Drider** (CR 6): el castigo de Lolth hecho centinela — su invocación mayor
+- **Demonios drow menores** (quasit/yochlol menor, CR 2-3): alimañas de la Reina Araña
 
 **Características:**
 - **NO son soldados entrenados** por Yrindra
@@ -83,10 +83,10 @@ Cada región tiene soldados únicos porque:
 - **Luchan por Yrindra** pero no reciben poderes dimensionales adicionales
 - **Regresan a Menzoberranzan** cuando son derrotados o cuando Yrindra cierra los portales
 
-**Poderes de Yrindra:**
-- **Portal a Menzoberranzan** (3/día): Trae 1d3 guerreros drow
-- **Portal de Ejército** (1/día): Trae 2d4 guerreros drow + 1 sacerdotisa de Lolth
-- **Portal de Lolth** (1/día): Trae 1d4 yochlol (demonios drow)
+**Poderes de Yrindra** *(idénticos a su ficha — no dupliques valores)*:
+- **Portal a Menzoberranzan** (3/día): trae 1d3 guerreros drow (CR 3)
+- **Portal de Ejército** (1/día): trae 1d3 guerreros drow (CR 3)
+- **Portal de Lolth** (1/combate): trae 1 drider (CR 6) **o** 1d2 demonios drow menores (CR 2-3)
 
 ---
 

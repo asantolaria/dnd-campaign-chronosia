@@ -181,7 +181,7 @@ Las tablas listas para usar —y un randomizador opcional de rejugabilidad— es
 Esto es cómo fluye una partida típica. Úsalo como hilo; el sandbox hará el resto.
 
 ### Fase 0 — Railroad inicial *(lineal)*
-Los PJ investigan un asesinato en **Waterdeep** (el relojero Thaddeus, muerto por el Cronófago Kaelthas), derrotan a Kaelthas y los **Anacronistas** (liderados por Galen) los llevan a **Chronosia**. Se establecen en **Cronópolis** (Cap. 3). *Sin elecciones de peso: es el enganche.* Al final, **ven el Cronómetro de Realidades** (setup del robo futuro).
+Los PJ investigan un asesinato en **Waterdeep** (el relojero Thaddeus, muerto por el Cronófago Kaelthas), derrotan a Kaelthas y los **Anacronistas** (liderados por Galen) los llevan a **Chronosia**. Se establecen en **Cronópolis** (Cap. 3). *Sin elecciones de peso: es el enganche.* Al final, **ven el Cronómetro de Realidades** (setup del robo futuro). **Texto dirigible completo** (escenas, pistas, statblock de Kaelthas y el cruce): [Fase 0 — El asesinato de Waterdeep](01_Introduccion/04_Fase_0_Waterdeep.md).
 
 ### Fase 1 — Robos y traición *(eventos fijos)*
 **Edward Teach** ejecuta su plan (detalle en Cap. 14): roba la Perla y el Cronómetro, forja el **Talismán** y **asesina a Thyra** (→ SALTO del Reloj). Estalla la **guerra espontánea** entre lugartenientes. Se construye el **Contador del Ritual**. Los PJ pueden investigar los robos y ser sospechosos.
@@ -229,6 +229,6 @@ Pase lo que pase, estos hitos suceden (los PJ cambian el *cómo* y el *desenlace
 ## Arranque rápido (checklist)
 - [ ] Lee [La Historia de Chronosia](00_La_Historia_de_Chronosia.md) entera una vez.
 - [ ] Ten claro el **Reloj** (qué lo sube y qué lo frena) y el **Mapa de Puertas**.
-- [ ] Prepara la Fase 0 (Cap. 14 cubre el arranque de Teach; Cap. 3 Cronópolis).
+- [ ] Prepara la Fase 0 con su [aventura de apertura](01_Introduccion/04_Fase_0_Waterdeep.md) (el Cap. 14 cubre el arranque de Teach; el Cap. 3, Cronópolis).
 - [ ] Repasa los capítulos de las **regiones de entrada** (Espiral Inversa y Glacialis), que serán las primeras.
 - [ ] Ten a mano la [Cronología de eventos fijos](02_Guia_DM/07_Cronologia_Maestra_Campana.md) y la [tabla de eventos](06_Recursos/Tablas/19_Tablas_Eventos.md).

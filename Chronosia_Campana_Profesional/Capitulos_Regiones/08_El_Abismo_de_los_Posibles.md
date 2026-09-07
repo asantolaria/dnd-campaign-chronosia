@@ -167,6 +167,17 @@ El obelisco cronológico que gira en el centro del archipiélago, cubierto de ru
 - ***Multiataque:*** dos *Daga de los Dos Filos* (+7, 1d6+5 perforante + 2d6 psíquico).
 - ***Colapso de Posibilidades (recarga 5-6):*** punto a 60 pies, radio 15; CD 15 SAB: al fallar 6d6 psíquico y *aturdido* hasta el final de su próximo turno; al superar, mitad y sin aturdir.
 
+### El Monje Manco — guardián de Varrak *(aliado condicional)*
+*Humanoide mediano (humano), legal neutral* · **CR 4** (1.100 XP)
+
+Perdió el brazo derecho "en un futuro que decidió no ocurrir"; en su lugar, **un brazo etéreo de luz temporal** que solo existe en el instante del impacto. No habla casi nunca. No ataca salvo que ataquen a su maestro — y entonces es el primero en moverse, siempre.
+
+**CA** 16 (defensa sin armadura) · **PG** 71 (11d8+22) · **Vel.** 45 pies · DES +4, SAB +3 · Salv. DES +6, SAB +5 · P. pasiva 15
+- ***Brazo del Instante.*** Sus golpes desarmados usan un brazo de energía que se manifiesta al impactar: +6 al ataque, 1d8+4 contundente **+ 1d6 temporal**; los objetivos no pueden usar reacciones contra sus ataques (el golpe llega *antes* de verse).
+- ***Multiataque:*** tres golpes desarmados. ***Palma del Después (recarga 5-6):*** un impacto no hace daño *ahora* — el objetivo recibe 4d10 de daño temporal **al final de su siguiente turno** (CD 14 CON para mitad). Avisa: "Ya estás golpeado. Espera."
+- ***Deflectar lo Posible (reacción):*** reduce en 1d10+6 el daño de un ataque contra él o contra Varrak adyacente.
+- **En el arco de Varrak:** es quien extrae la esencia de su maestro en el sacrificio (Cap. 14, Escena 5) — su brazo etéreo es el único que puede tocarla. Si Varrak muere de cualquier otro modo, el Monje se une a los PJ **en silencio absoluto** hasta la Torre: su duelo es la escolta.
+
 ### Bestias firma
 - ***El Otro Tú (Eco Adverso)*** — *Mediano aberración (eco de probabilidad)* · **CR 5** · CA 15 · PG 75. Copia resistencias, un rasgo de clase y el arma de **un PJ** (su "yo oscuro"); ventaja en salvaciones contra conjuros/rasgos de ese PJ. *Multiataque:* dos ataques con el arma copiada (+7, daño del PJ +1d6 necrótico). *Lo Que Pudiste Ser (1/día):* replica el rasgo más fuerte del PJ sin coste. *Personalízalo por personaje.*
 - ***Bestia Superpuesta*** — *Grande aberración* · **CR 4** · CA 14 · PG 60. *Existe en Varios Estados:* la primera vez que es impactada por ronda tira 1d4; con 1-2 el golpe "ocurrió en otra realidad" (sin daño). Resist. contundente/cortante/perforante no mágico. *Multiataque:* dos *Zarpas de Cuántos* (+6, 2d6+4 cortante). *Salto entre Líneas (rec. 5-6):* teletransporte 30 pies y ataca con ventaja.

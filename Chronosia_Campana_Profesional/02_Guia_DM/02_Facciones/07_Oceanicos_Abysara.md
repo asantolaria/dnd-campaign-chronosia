@@ -167,8 +167,8 @@ Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mo
 - **Vendetta contra Teach:** Los Oceánicos quieren venganza eterna
 - **Aliados Potenciales:** Si los PJ se oponen a Teach, pueden formar alianza
 - **Oferta de Ayuda:** Los Oceánicos ofrecen:
-  - **10 Guerreros Oceánicos CR 8** disponibles para combate
-  - **Acceso a Abysara** como base submarina
+  - Una **escolta de Guerreros Oceánicos (CR 3)** para el asalto al Fuerte Negro y **el Comandante Kael (CR 5)** como aliado en persona — apoyo que acompaña a los PJ, no un ejército que juegue por ellos (statblocks en el [Cap. 11 → Abysara](../../Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md))
+  - **Acceso a Abysara** como base submarina (la visita de estado: Cap. 11, zona 4b)
   - **Bendiciones del Vacío** (objetos mágicos únicos)
   - **Cristales de Estabilización** (solo conocidos en Abysara)
 

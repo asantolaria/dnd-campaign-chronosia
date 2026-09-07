@@ -49,7 +49,7 @@ El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesion
 
 | Disparador | Evento | Impacto |
 |---|---|---|
-| Sesión 1 | Asesinato de Thaddeus en Waterdeep; derrota de Kaelthas | Inicio de la campaña |
+| Sesión 1 | Asesinato de Thaddeus en Waterdeep; derrota de Kaelthas ([aventura de apertura](../01_Introduccion/04_Fase_0_Waterdeep.md)) | Inicio de la campaña |
 | Sesión 2 | Llegada a Cronópolis; los PJ **ven el Cronómetro** | Setup del robo futuro |
 | Reloj ~2-3/8 | **Hito 1 · Robo de la Perla** — masacre de Abysara (47 guerreros Oceánicos) | Nace la vendetta oceánica |
 | Reloj ~3-4/8 | **Hito 2 · Robo del Cronómetro** — Teach descubre el vínculo Anacronistas-Abysara | Los PJ, sospechosos; Cronópolis vulnerable |

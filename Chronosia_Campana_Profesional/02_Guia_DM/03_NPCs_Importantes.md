@@ -91,7 +91,8 @@
 - **Importancia**: El villano de la Sesión 1; su derrota y su rastro llevan a los PJ hasta Chronosia
 - **Objetivo**: Eliminar a cualquiera que investigue las distorsiones
 - **Poder**: Puede manipular el tiempo para sus ataques
-- **Al caer**: deja un reloj de bolsillo destrozado, un mapa parcial y su diario (ver [Cronología](07_Cronologia_Maestra_Campana.md))
+- **Al caer**: deja un reloj de bolsillo destrozado, un mapa parcial y su diario
+- **Escenas y statblock (CR 3)**: [Fase 0 — El asesinato de Waterdeep](../01_Introduccion/04_Fase_0_Waterdeep.md)
 
 ### **📚 Volo - El Iniciador de la Misión**
 - **Descripción**: Humano gordo con sombrero de plumas y personalidad exuberante
