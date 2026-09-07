@@ -113,6 +113,8 @@ El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesion
 | Fase 3 (Reloj ~5-6) | **#3 · La reclusión y el punto ciego:** Varrak confirma que Aethernus ya ni mira; **Teach caza lugartenientes** | Elección de bando de Varrak (Cap. 8); el "hipo" del Contador sin causa propia |
 | Llave + entrada | **#4 · La Llamada de los Dioses:** la verdad completa; la Torre se hace visible | Reunir la llave chroniana y conocer la entrada (Cap. 15) |
 
+> **🌫️ Los Tres Ecos de Aethernus.** Para que el BBEG tenga presencia antes de la Torre, su ficha incluye [tres escenas dirigibles](04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md) que acompañan estas revelaciones: el Eco 1 al morir su primer lugarteniente (Fases 1-2), el Eco 2 con el Reloj ≥5 (Fase 3) y el Eco 3 al reunir la llave (Cap. 15).
+
 ---
 
 ## 🗺️ El tablero (resumen)

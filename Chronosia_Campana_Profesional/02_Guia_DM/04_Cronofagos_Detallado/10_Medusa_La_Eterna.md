@@ -30,6 +30,18 @@ Una medusa gigante con serpientes de tiempo en lugar de cabello, ojos que brilla
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** serena hasta lo obsceno, con la ternura de una coleccionista. Habla a sus estatuas como a viejos amigos y a los PJ como a piezas aún sin catalogar. Nunca tiene prisa: la prisa es lo que ella *cura*.
+
+- **Presentación** *(su jardín de petrificados)*: "Bienvenidos a mi colección. Cada estatua es un instante que decidí conservar: una carcajada, un juramento, un último gesto de valor. El mundo los habría gastado. Yo los guardo."
+- **Giro de combate** *(al petrificar / paralizar)*: "Quieto. Así… *perfecto*. Ese gesto merece la eternidad; los demás no os harán justicia."
+- **Al usar Estasis Definitiva**: "El mundo corre demasiado deprisa para hablar con vosotros ahora. Esperadme aquí."
+- **La grieta** *(si un PJ le pregunta por ella misma)*: "¿Yo? Yo soy lo único de este jardín que no puede detenerse. ¿Entendéis ahora por qué colecciono?"
+- **Derrota**: "Ah… así que esto era… un momento que no puedo… guardar. Qué… *raro*… se siente… el final."
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **MEDUSA LA ETERNA**

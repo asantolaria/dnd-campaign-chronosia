@@ -33,6 +33,18 @@ No se sabe realmente si eran dos personas originalmente o si una surgió de la d
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** hablan en estéreo, media frase cada una, siempre en orden inverso la segunda vez. Cuando una miente, la otra parpadea. Su herida ("¿soy yo o soy el reflejo?") asoma en cada frase si se las escucha con atención.
+
+- **Presentación** *(el Estanque, Cap. 5)*: "—Bienvenidos al único sitio… —donde no sabréis cuál de nosotras es la real."
+- **Giro de combate** *(al usar Intercambio de Posición)*: "—¿Ibas a golpearme a mí? —¿O a mí? —Qué descortés… —…no saberlo."
+- **La herida** *(si un PJ pregunta cuál es la original)*: "—Yo nací primero. —Yo nací primero. —…¿Ves el problema?"
+- **El pacto** *(Cap. 5 — la pieza más amarga)*: "Aethernus le robó el don a Voidar y lo usó para **rajarnos por la mitad**. Todo lo que toca, lo divide. Si queréis vencerle, no dividáis más: **reunid**. Esa es la única llave."
+- **Derrota** *(solo si el grupo las mata)*: "—¿Ves? Al final solo quedaba… —…una. —¿Cuál…? —¿…de las dos?"
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **LYRA Y NYX - LAS GEMELAS DEL ESPEJO**

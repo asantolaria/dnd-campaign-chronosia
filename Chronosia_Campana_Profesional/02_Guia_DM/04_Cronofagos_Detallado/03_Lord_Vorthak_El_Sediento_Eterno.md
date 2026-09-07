@@ -30,6 +30,18 @@ Vorthak es un vampiro de aspecto noble pero demacrado, con ojos rojos que brilla
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** seda sobre hueso. Cortesía perfecta de anfitrión que no ha dejado de ser depredador ni un segundo; nunca amenaza — *invita*. Cuanto más furioso, más educado.
+
+- **Presentación** *(el salón, Cap. 12)*: "Bienvenidos. Hacía siglos que no probaba sangre con tantos *años* por delante. Sentaos. La cena es larga… y vosotros, el último plato."
+- **Giro de combate** *(al usar Transferencia de Daño)*: "Modales, criatura. En mi casa, los golpes los reciben los criados."
+- **Al alzarse con la Resurrección Temporal**: "¿De verdad creísteis que un noble muere *antes* que su servidumbre? Han dado sus años por mí. Brindemos por ellos."
+- **La confesión** *(Cap. 12 — el espejo del tema, déjalo respirar)*: "Yo solo robo décadas a mortales. *Él* roba la eternidad a la eternidad. Soy un aprendiz, gente."
+- **Muerte definitiva** *(sin secuaces al caer)*: "Qué… descortesía. Morir… con la copa… llena."
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **LORD VORTHAK "EL SEDIENTO ETERNO"**

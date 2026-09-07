@@ -30,6 +30,17 @@ El cuerpo de Dimensionalis muestra múltiples versiones de sí misma en diferent
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** varias voces casi idénticas hablando casi a la vez — sus versiones se corrigen, se interrumpen y a veces discrepan. En negociación es precisa y encantadora; nunca da un dato gratis y jamás dice para quién más trabaja.
+
+- **Presentación**: "Bienvenidos. Perdonad el eco: nunca vengo *entera* a una reunión. Alguna de mis versiones os habrá visto antes… decidme, ¿qué versión de vosotros ha venido hoy?"
+- **Como mercader de información**: "Todo dato tiene dos precios: lo que me pagáis… y no preguntar a quién se lo he vendido ya."
+- **Giro de combate** *(al usar Fractura Masiva / separar al grupo)*: "Cada uno a su realidad. Negociad con la versión de mí que os toque — alguna será razonable."
+- **Derrota** *(sus versiones discrepan al apagarse)*: "Esto no estaba— *sí lo estaba* — cállate — …¿en cuál de todas… estaba yo?"
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **DIMENSIONALIS LA FRACTURADA**

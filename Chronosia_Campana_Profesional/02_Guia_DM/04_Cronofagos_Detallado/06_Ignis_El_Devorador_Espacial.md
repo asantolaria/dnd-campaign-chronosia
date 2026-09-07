@@ -36,6 +36,17 @@ Un dragón rojo colosal con escamas que brillan como lava fundida. Sus ojos son 
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** desprecio geológico. Voz que hace vibrar la lava, pausas largas de quien no concibe la prisa. No odia a los PJ: no los considera. Habla de los Infiernos como de un socio comercial menor.
+
+- **Presentación** *(las Calderas, Cap. 13)*: "¿Habéis cruzado medio mundo roto… para *arder*? Los mortales sois la única mercancía que se entrega sola."
+- **Giro de combate** *(al abrir el Portal de Refuerzos)*: "Avernus me debe tributo. Cobradle vosotros… si podéis."
+- **Desprecio táctico** *(si le cierran portales)*: "¿Cerráis mis puertas? Cachorros. Yo no *uso* las puertas. Yo soy el incendio del que las puertas huyen."
+- **Derrota**: "Un dragón no muere… se apaga. Y las brasas… recuerdan vuestros nombres. Decidle al ladrón de dioses… que su fuego… también era prestado."
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **IGNIS EL DEVORADOR ESPACIAL**

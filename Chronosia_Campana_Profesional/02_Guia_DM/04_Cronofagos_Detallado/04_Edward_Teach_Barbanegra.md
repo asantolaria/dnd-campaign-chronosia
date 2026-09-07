@@ -63,6 +63,19 @@ Edward Teach NO es solo un oportunista que roba poder. Es el **único lugartenie
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** vozarrón de cubierta, alegre y terrible a la vez. Ríe de verdad, incluso —sobre todo— cuando pierde algo. Trata a los PJ de "muchachos" y a los dioses de mercancía. Nunca miente: le divierte más decir la verdad y que no le crean.
+
+- **Presentación** *(primer roce, Cap. 11/14)*: "¿Sabéis qué aprendí en cuarenta años de mar? Que no hay tesoro que no sea de quien llega primero. Y ahí arriba, muchachos, hay *dos* cofres del tamaño de un dios."
+- **El vistazo** *(cuando los PJ lo pillan cazando — se va, no huye)*: "Tengo un dios que atrapar; volved cuando hayáis crecido."
+- **Giro de combate** *(al activar el Campo de Estasis)*: "El tiempo es oro. Y yo… ¡yo soy el ladrón más rico del multiverso!"
+- **Oferta** *(siempre la hace una vez)*: "Podéis remar conmigo o hundiros con el capitán viejo. Mirad el cielo: ese barco se hunde, y yo soy el único bote."
+- **La carrera** *(Llamada de los Dioses, Cap. 15)*: "¡Una **carrera**, héroes! El primero en llegar a la cima se queda con el poder de un dios. ¡Que gane el mejor… o sea, yo!"
+- **Derrota**: "Ja… JA… Tan cerca que le he visto la cara al sol. ¿Sabéis lo peor, muchachos? Volvería a hacerlo. Entero. Todo. …Contádselo a los del mar: que Teach murió *rico*."
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **EDWARD TEACH "BARBANEGRA"**

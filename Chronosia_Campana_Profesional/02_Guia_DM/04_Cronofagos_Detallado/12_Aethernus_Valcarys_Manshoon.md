@@ -101,6 +101,44 @@ La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgán
 
 ---
 
+## 🌫️ **PRESENCIA EN LA CAMPAÑA: LOS TRES ECOS**
+
+> **El problema (y la solución).** Aethernus está recluido e *ignora* a los PJ — no puede aparecérseles a propósito sin romper su propia lógica. Pero su poder **se filtra por los conductos**: cada lugarteniente es un canal abierto hasta él. Estas tres escenas dirigibles hacen que el grupo conozca al BBEG **antes** de la Torre, sin que él mueva un dedo. Úsalas en orden, una por tramo de campaña. Sin ellas, los PJ matarán al final a un desconocido con buena ropa.
+
+### **Eco 1 · "El hombre al otro lado del canal"** *(Fases 1-2 — al morir su primer lugarteniente a manos de los PJ)*
+En el instante en que el lugarteniente muere, el canal divino queda abierto un latido antes de cerrarse. Léelo:
+> *"El poder no se apaga: se **desagua**. Por un instante, donde estaba vuestro enemigo hay un agujero en el aire — y al otro lado veis una sala que no está en ningún mapa: un vórtice de luz dorada y púrpura trenzándose, y ante él, de espaldas, un hombre alto de coleta plateada que canta bajo, con la paciencia de quien lleva años en la misma frase. No se gira. No sabe que existís. Antes de que el agujero se cierre, le oís murmurar, casi con ternura: «…gota a gota… ya falta menos…». Y de pronto entendéis que todo lo que acabáis de vencer no era más que el grifo. Eso de ahí es el mar."*
+
+### **Eco 2 · "El recuerdo encadenado"** *(Fase 3 — con el Reloj ≥5, en un descanso largo o en la Sala de Ecos de una ruina chroniana)*
+Un sueño compartido: los PJ presencian, como fantasmas, el recuerdo del día del Cronosellado.
+> *"Dos titanes agotados —uno de luz que sangra mediodía, otro de vacío que sangra distancia— yacen entre los escombros de su guerra. Y entre ellos camina un solo hombre, elegante, sin miedo, midiendo a los dioses caídos como un joyero mide gemas. Saca un artilugio de oro y ébano. Uno de los dioses alza la cabeza y ruge algo que hace temblar el sueño entero. El hombre ni se inmuta: «No os molestéis. Esto ya ocurrió; solo estáis tardando en aceptarlo». Cierra el artilugio. Las cadenas caen. Y os despertáis con la certeza de haber visto el momento exacto en que este mundo perdió."*
+*(Primera vez que le ven la cara. Un PJ que haya visto su retrato en Faerûn —o que interrogue a Bregan D'aerthe— puede reconocer a Manshoon: adelanta la revelación de identidad si el grupo se la ha ganado.)*
+
+### **Eco 3 · "Ah. Ahí estabais."** *(al reunir las dos mitades de la llave chroniana — justo antes o durante la Llamada de los Dioses, Cap. 15)*
+Al encajar las dos mitades por primera vez, el keystone **tira del otro extremo del hilo**. Por primera —y única— vez antes de la Torre, Aethernus los percibe.
+> *"La piedra se calienta en vuestras manos y, durante tres latidos, algo **mira por ella**. Una voz educada, casi curiosa, os habla desde el centro del mundo: «Ah. Ahí estabais. Una llave chroniana… así que las mitades se buscaban. Enhorabuena: sois lo más interesante que ha pasado en ochocientos años. Venid, venid a la Torre. El ritual necesita testigos… y a los dioses les vendrá bien despedirse de alguien.» La presencia se retira como una marea, sin prisa. No ha tenido miedo. Ni un instante."*
+
+---
+
+## 🗣️ **VOZ Y MONÓLOGOS** *(la Torre, Cap. 15)*
+
+**Cómo suena:** la cortesía de quien no considera a nadie su igual. Voz profunda, frases medidas, sin un solo grito hasta la Fase 3. Su obsesión asoma en todo: **dividir** (dioses, pueblos, gemelas) y **quedar solo uno** (los clones). Nunca insulta: *clasifica*.
+
+**Apertura** *(cuando los PJ irrumpen en la Cámara de Ascensión)*:
+> "Llegáis a tiempo — lo digo como experto. ¿Sabéis cuántos Manshoon hay ahora mismo en el multiverso? Demasiados. Copias discutiendo por un nombre. Cuando esto termine habrá **uno**, y será un dios, y toda esa vergüenza habrá sido… editada. Vosotros podéis quedaros a mirar. Los testigos también sirven."
+
+**Transición a Fase 2** *(al agotar la primera barra — invoca el Cónclave)*:
+> "Bien. *Muy* bien. Hacía décadas que nada me obligaba a soltar el ritual con las dos manos. Veamos qué opináis de mi colección: cada uno de mis lugartenientes me devuelve ahora lo prestado… con intereses. ¿No os parece justo? Todo el que me sirve acaba sirviéndome **entero**."
+
+**Transición a Fase 3** *(al agotar la segunda barra — el ritual se desestabiliza)*:
+> "No. **No.** ¿Sabéis lo que cuesta encadenar a un dios? ¿Dos? Ochocientos años escondido mientras copias baratas de mí paseaban mi cara por Faerûn — ¡y vais a arruinarlo unos mercenarios con una piedra rota! Se acabó la aritmética. Si no puedo ascender ordenadamente… ascenderé **ardiendo**."
+
+**Últimas palabras** *(al caer la Fase 3)*:
+> "Qué extraño… De todos los futuros que compré… en ninguno estabais… vosotros. Decidle al resto de *mí*… que estuve… tan cerca…"
+*(Si los PJ liberan después a los dioses con la llave, muere viéndolo: deja que el jugador que porta el keystone reciba su última mirada — no hay perdón en ella, solo un inventario final: está calculando, hasta el último segundo, qué salió mal.)*
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **AETHERNUS VALCARYS (MANSHOON CLONE #47)**
@@ -190,7 +228,7 @@ Como acción, Aethernus manipula el tiempo en un radio de 60 pies. Todas las cri
 
 *Al caer la primera barra, Aethernus invoca los fragmentos de poder de sus lugartenientes. Pierde la regeneración pero gana acceso a los poderes robados de los lugartenientes que sigan vivos.*
 
-**Transición:** efecto gratuito. Aethernus pronuncia su monólogo y, una sola vez, puede usar **Llamada a Lugartenientes**.
+**Transición:** efecto gratuito. Aethernus pronuncia su monólogo (ver [Voz y Monólogos](#-voz-y-monólogos-la-torre-cap-15)) y, una sola vez, puede usar **Llamada a Lugartenientes**.
 
 **Llamada a Lugartenientes (1/combate).**  
 Como acción, Aethernus llama a los lugartenientes que sigan vivos. Hasta 2 de ellos (a elección del DM, usando sus statblocks ya reescalados) aparecen al inicio del siguiente turno y luchan por él.
@@ -219,7 +257,7 @@ Como acción, Aethernus drena a un enemigo a 30 pies. El enemigo hace salvación
 
 *Con el ritual desestabilizándose, Aethernus vuelca todo el poder que le queda en un último arrebato. Ha perdido a sus lugartenientes y combina tiempo y espacio en estallidos desesperados.*
 
-**Transición:** efecto gratuito. Cualquier lugarteniente invocado que siga en pie es absorbido (desaparece) para alimentar esta fase; Aethernus recupera 20 HP de golpe (incluidos en los 90 de la barra) y pronuncia su último monólogo.
+**Transición:** efecto gratuito. Cualquier lugarteniente invocado que siga en pie es absorbido (desaparece) para alimentar esta fase; Aethernus recupera 20 HP de golpe (incluidos en los 90 de la barra) y pronuncia su monólogo de Fase 3 (ver [Voz y Monólogos](#-voz-y-monólogos-la-torre-cap-15)).
 
 **Rasgo de fase — Inestabilidad del Ritual.**  
 Al inicio de cada turno de Aethernus, un destello de energía sin control golpea a la criatura no aliada más cercana a él: salvación CD 18 de Destreza o 7 (2d6) de daño temporal/espacial.

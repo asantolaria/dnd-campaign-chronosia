@@ -10,6 +10,8 @@ Todo lo que los héroes han hecho —cada región explorada, cada lugarteniente 
 
 ## La Llamada de los Dioses
 
+> **🌫️ El Eco 3.** Si usas los *Tres Ecos* de Aethernus (su [ficha](02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md)), el tercero — «Ah. Ahí estabais.» — se dispara justo aquí, al encajar por primera vez las dos mitades de la llave. Es la única vez que el BBEG les habla antes de la Torre: no lo desperdicies.
+
 > **Cuándo se dispara.** La Llamada **no** la activa el Reloj llegando a 8/8 (eso sería ya la derrota, el Final D). Se activa cuando los PJ **reúnen la llave chroniana** —las dos mitades, Anacronistas + Oceánicos— **y conocen la entrada de la Torre** (revelada por Teach o por la espía Matrona Yrindra de Veldrisza). Ese es el momento en que el asalto es posible y los dioses, sintiendo que sus liberadores ya tienen lo que hace falta, encuentran el aliento para llamarlos. El Reloj sigue corriendo como doom de fondo: cuanto más alto esté cuando suene la Llamada, más cerca del 100% arrancará el medidor del ritual arriba.
 
 Cuando los PJ tienen la llave reunida y saben cómo entrar, el ritual de ascensión entra en su última fracción y el semiplano entero lo siente. No hay heraldos ni mensajeros: los propios dioses cautivos, exprimidos hasta el límite, encuentran el aliento para gritar una vez. Léelo en ese momento.
@@ -109,6 +111,8 @@ A partir de aquí, todo es la batalla final. Si Teach llegó, está presente, co
 ---
 
 ## La batalla final por fases
+
+> **🗣️ Monólogos.** La apertura, las dos transiciones de fase y las últimas palabras de Aethernus están escritas en su [ficha → Voz y Monólogos](02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md). Léelos en voz alta en cada cambio de barra.
 
 > **Nivel 10 fijo** (no se sube de nivel durante el combate). El **medidor del ritual** —un contador PROPIO del combate final, como desactivar una bomba— está visible siempre y sube cada 2-3 turnos (narrativo, no estricto); dentro de la Cámara **sí puede subir y bajar** según lo que hagan los PJ. **No confundir con el Reloj del sandbox**, que es doom monótono y nunca retrocede. Si el medidor del ritual llega al 100% antes de que los PJ ganen → **Final D** (lo mismo que si el Reloj del sandbox toca 8/8). La estructura es de **tres pasos** (interrumpir → liberar → derrotar), entrelazados con las fases del statblock de Aethernus.
 

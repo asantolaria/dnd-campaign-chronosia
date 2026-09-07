@@ -30,6 +30,18 @@ Una drow anciana de aspecto regio con vestiduras de seda negra que brillan con p
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** regia, sedosa, sin prisa — cada frase parece un favor que te concede. Trata la información como Lolth trata a sus hijos: todo tiene un lugar en la telaraña, incluidos los PJ. Nunca se sabe si te está recibiendo o envolviendo.
+
+- **Presentación** *(Veldrisza, Cap. 10)*: "Bienvenidos a mi telar. No os molestéis en contar las salidas: las tejí yo, y os aseguro que sobran hilos para todos."
+- **Como espía / oferta** *(puede vender la entrada de la Torre)*: "¿La puerta del carcelero? La conozco, sí. Yrindra lo sabe *todo*; la pregunta nunca es qué sé — es qué estáis dispuestos a colgar de mi red a cambio."
+- **Giro de combate** *(al abrir portales a Menzoberranzan)*: "Mis hijas llevan diez mil años esperando una guerra digna. Sed amables: dadles una."
+- **Sobre Zin-Carla** *(si los PJ descubren a Serapis resucitado)*: "¿Escandalizados? Le he dado a ese traidor lo que siempre quiso: no volver a morir. La Reina Araña es *generosa* con quien le sirve… de una pieza o de varias."
+- **Derrota**: "Cortar a la tejedora… no deshace… el tejido. Mirad bien la telaraña, pequeños… ¿de verdad creéis… que este hilo era el último?"
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **MATRONA VELDRISZA "LA TEJEDORA DIMENSIONAL"**

@@ -30,6 +30,18 @@ Serapis viste capas con arena que fluye hacia arriba, desafiando la gravedad. Su
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** cansado y sin sorpresa, como quien ha vivido esta conversación mil veces. Habla despacio, termina las frases de los demás, y jamás sube la voz — ¿para qué, si ya sabe cómo acaba?
+
+- **Presentación** *(el Ojo del Tiempo, Cap. 4)*: "Os he visto llegar mil veces. A veces gano. A veces ganáis. Hoy… veamos qué toca."
+- **Giro de combate** *(al usar Deshacer)*: "No. Esa hoja nunca me tocó. Volved a intentarlo… desde el principio."
+- **Bajo presión** *(al activar Arena del Pasado)*: "Envejecéis un año por cada segundo que me hacéis perder. Me parece un trato justo."
+- **Derrota** *(Cap. 4 — suéltala si lo dejan hablar)*: "¿Romper el bucle? Adelante. Pero sabed lo que liberáis: yo no hago girar nada. Solo bebo lo que gotea. Matadme, y la cuenta atrás de *Él* correrá un poco más rápido. Yo era vuestro freno, idiotas."
+- **La Traición** *(Cap. 14, al desenmascararse)*: "¿De verdad creísteis que un 'conducto' se conforma con gotear? Llevo años sentado a vuestra mesa, oyendo vuestros planes con los oídos de un sordo."
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **SERAPIS EL RETROCESO**

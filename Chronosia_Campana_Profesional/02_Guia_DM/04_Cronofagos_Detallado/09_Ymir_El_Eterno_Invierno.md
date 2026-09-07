@@ -52,6 +52,17 @@ Frío y calculador, habla con una voz que resuena como el crujido del hielo. Con
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** crujido de glaciar hecho palabra: lento, grave, con silencios largos en los que se oye el hielo asentarse. Habla del frío como de una ética. Jamás se enfada — el invierno no se enfada, *llega*.
+
+- **Presentación** *(Glacialis, Cap. 6)*: "Todo lo que entra en mi invierno… se ordena. El calor es ruido. El movimiento es error. Quedaos quietos… y seréis perfectos para siempre."
+- **Giro de combate** *(al abrir sus umbrales)*: "Contad mis puertas: Agua… Aire… Astral… Mis ejércitos no terminan. Vosotros sí."
+- **Si le cierran los umbrales**: "Cerráis puertas… como si el invierno… necesitara entrar por ellas."
+- **Derrota**: "El hielo… no muere. Se derrite… y espera. Decidle al de la Torre… que su próximo invierno… vendrá sin mí… y sin suministros." *(Su muerte corta de verdad la red logística cronófaga — ver arriba.)*
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **YMIR EL ETERNO INVIERNO**

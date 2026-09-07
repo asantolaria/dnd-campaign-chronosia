@@ -30,6 +30,17 @@ Un constructo de metal y cristal que pulsa con energía temporal, con engranajes
 
 ---
 
+## 🗣️ **VOZ** *(líneas citables)*
+
+**Cómo suena:** voz de maquinaria, sin ira y sin duda. **Truco de dirección:** Tempus solo habla con frases *ya pronunciadas* — recicla literalmente frases que los PJ y sus aliados han dicho en esta sesión o en anteriores (anótalas), y a veces cita frases que los PJ dirán dos rondas después. Es inquietante precisamente porque nada de lo que dice es suyo.
+
+- **Presentación** *(las Ruinas, Cap. 7 — con la voz del propio PJ que habló primero)*: "«¿Hola? ¿Hay alguien ahí?» …Registrado. Bucle 8.412 iniciado. «¿Hola? ¿Hay alguien ahí?»"
+- **Giro de combate** *(al programar un Bucle Forzado)*: "SECUENCIA: el escudo baja. El error se repite. Reproduciendo… reproduciendo… reproduciendo."
+- **La cita imposible** *(suéltala en la ronda 1; que se cumpla en la 3)*: "«¡Aguanta, ya casi lo tenemos!» — dirá el pequeño. Todos los bucles convergen ahí."
+- **Derrota** *(el único momento en que improvisa — y no sabe)*: "Fin de secuencia. Fin de… fin de… esta frase no está… registrada. ¿Qué se dice… cuando algo pasa… por primera vez?"
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **TEMPUS EL FRAGMENTADO**
