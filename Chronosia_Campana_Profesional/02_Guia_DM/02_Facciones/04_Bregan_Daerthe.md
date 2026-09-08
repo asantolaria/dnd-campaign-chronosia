@@ -39,6 +39,22 @@ Bregan D'aerthe es una organización mercenaria drow contratada por Manshoon (us
 - **Función**: Puede ser aliado ambiguo o enemigo, dependiendo de las circunstancias
 - **Características**: Drow elegante con sombrero de plumas, maestro del sigilo y la manipulación
 
+### **🎭 Agentes con nombre (los tres que los PJ conocerán)**
+
+- **Szordrin "Doblefilo"** — *el contacto de Cronópolis.* Drow afable de sonrisa fácil que bebe (poco) en *La Última Hora* y paga (bien) por escuchar. Es la **siembra canónica de la Tejedora** (Cap. 10): el que susurra que "en lo hondo hay una drow que lo ve todo y lo vende". Vende los servicios de la banda con tarifa a la vista y modales de sastre.
+- **Vezra Baenrret** — *la maestra del contrabando.* Gobierna los pasajes entre Faerûn y Chronosia (los resquicios que los Zhentarim pagaron por mapear). Fría, exacta, cobra por adelantado. Si los PJ necesitan mover algo o a alguien que "no existe", es ella — y es también quien más nota que **las rutas se están cerrando** (su miedo alimenta el procedimiento de traición de abajo).
+- **Ilvar "el Pálido"** — *el cuchillo.* Infiltrado como sirviente drenado en la corte de Vorthak (nadie mira dos veces a un criado gris). Ejecuta las "eliminaciones selectivas" del contrato… y será una de las hojas que rematen a Serapis para el Zin-Carla (Cap. 14). Si los PJ lo descubren antes, Jarlaxle paga *muy* bien el silencio.
+
+### **💰 Tarifario (Szordrin lo recita de memoria)**
+
+| Servicio | Precio |
+|---|---|
+| Rumor verificado / dato suelto | 50 po |
+| Dossier de una facción o lugarteniente (movimientos, números, humores) | 200 po |
+| Pasaje de contrabando (objeto o persona, un trayecto) | 100 po |
+| Un "accidente" (sin nombres, sin preguntas) | 500 po y subiendo |
+| Un favor mayor | **No se paga en oro: se debe.** La deuda con Bregan D'aerthe es su moneda favorita — y siempre la cobran en el peor momento |
+
 ### **🕵️ Agentes Infiltrados**
 - **En los Cronófagos**: Espías que reportan actividades y debilidades
 - **En La Resistencia**: Informantes que conocen sus planes y tecnología
@@ -59,7 +75,17 @@ Bregan D'aerthe es una organización mercenaria drow contratada por Manshoon (us
 - **Negociación**: Jarlaxle puede ser sobornado o chantajeado para cambiar de bando
 - **Traición**: Siempre hay una posibilidad de que traicionen a Manshoon por una mejor oferta
 
-**⚠️ ADVERTENCIA**: Su verdadera lealtad es con Manshoon, pero Jarlaxle puede ser convencido de cambiar de bando si la oferta es lo suficientemente atractiva.
+**⚠️ ADVERTENCIA**: Su lealtad *nominal* es con Manshoon; su lealtad *operativa* real es de la **Matrona Yrindra**, que los compró en secreto (Cap. 14) — comprar a los Bregan es **pujar contra la Matrona**, sépanlo o no los PJ.
+
+### **⚖️ EL PROCEDIMIENTO DE COMPRA (qué convence a Jarlaxle, con números)**
+
+"Si la oferta es atractiva" tiene tres condiciones — **sin las tres, no hay tirada que valga**; con las tres, Persuasión **CD 15** (CD 10 si los PJ ya le hicieron ganar dinero antes):
+
+1. **Que supere el contrato.** Algo material que valga más que el oro Zhentarim + lo que paga Yrindra: el Talismán, un Cristal de Estabilización, acceso comercial al hub planar post-campaña… Oro solo, no: "el oro es el empate, no la victoria".
+2. **Una salida.** El miedo real de Bregan D'aerthe es **quedarse atrapados en Chronosia** cuando esto acabe (Vezra lleva meses viendo cerrarse rutas). Garantizar el pasaje de vuelta —la grieta, el Nexo, un pacto con los Anacronistas— vale tanto como el pago.
+3. **Estilo.** A Jarlaxle hay que **divertirlo**. Una oferta aburrida se rechaza aunque sea buena; un plan audaz con un papel para él se escucha aunque sea peor. (Si el jugador hace reír a la mesa, dale ventaja: esa es la regla real.)
+
+**Y aun comprado:** Jarlaxle cumple **el trato exacto, palabra por palabra** — relee lo que pidieron. Traicionarlo a él, eso sí, convierte a la banda entera en enemiga permanente: los drow perdonan el fracaso, nunca la falta de estilo.
 
 ---
 

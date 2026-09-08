@@ -65,7 +65,7 @@ El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesion
 ### 🎲 Eventos variables (dependen de los PJ)
 
 - **Lugartenientes:** eligen a quién enfrentar, negociar o evitar; no hay que derrotarlos a todos. Los que no alcancen los absorbe Teach o caen en la guerra civil.
-- **Eventos del mundo:** tira en las [tablas de eventos](../06_Recursos/Tablas/19_Tablas_Eventos.md) cada 2-3 sesiones para que la guerra se sienta viva.
+- **Eventos del mundo:** tira en las [tablas de eventos](../06_Recursos/Tablas/19_Tablas_Eventos.md) cada 2-3 sesiones, y el **[Turno de Facciones](02_Facciones/06_Dinamicas_Entre_Facciones.md)** cada vez que suba el Reloj (la jugada del tablero: guerra civil, cacería de Teach o golpe a Cronópolis).
 - **Alianzas:** Anacronistas, La Resistencia, Oceánicos de Abysara, Varrak, las Gemelas, e incluso Bregan D'aerthe (si la oferta supera a la de sus pagadores).
 - **Revelaciones:** tienen momento natural (abajo), pero un grupo que investiga puede adelantarlas — premia eso.
 

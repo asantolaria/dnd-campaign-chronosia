@@ -191,7 +191,7 @@ Empieza el bucle de juego:
 1. En Cronópolis, los PJ **eligen** a qué región ir (consulta su capítulo).
 2. Viajan, exploran, enfrentan o negocian. **Cada arco de región avanza el Reloj** y entrega **una pieza de la verdad** (cada capítulo dice cuál).
 3. Vuelven, ven el Contador subir, deciden el siguiente objetivo.
-- Tira en la [tabla de eventos](06_Recursos/Tablas/19_Tablas_Eventos.md) cada 2-3 sesiones para que la guerra civil se sienta viva.
+- Tira en la [tabla de eventos](06_Recursos/Tablas/19_Tablas_Eventos.md) cada 2-3 sesiones, y consulta el **[Turno de Facciones](02_Guia_DM/02_Facciones/06_Dinamicas_Entre_Facciones.md)** cada vez que el Reloj suba: el tablero se mueve sin permiso de los PJ, y se nota en rumores, refugiados e hipos del Contador.
 - **Revelación #1:** empiezan a sospechar que Manshoon está recluido y que algo más grande lo mueve.
 
 ### Fase 3 — Sandbox avanzado *(revelaciones)*

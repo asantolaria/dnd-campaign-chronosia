@@ -131,25 +131,41 @@ El **Cronómetro de Realidades** fue creado por los primeros Anacronistas usando
 
 ## 🌅 **RITUALES Y CEREMONIAS**
 
-### **🌅 Ceremonia del Amanecer**
-- **Propósito**: Estabilizar el tiempo al amanecer
-- **Participantes**: Todos los anacronistas
-- **Efecto**: Reduce distorsiones temporales por 24 horas
-- **Requisito**: Debe realizarse al amanecer
+### **🌅 Ceremonia del Amanecer** *(diaria, pública, en Cronópolis)*
+- **Qué es**: el clan canta el día que empieza — literalmente: recitan la fecha, a coro, para que exista.
+- **Regla**: quien asista (PJ incluidos) queda **anclado** 24 horas: **ventaja en la primera tirada de salvación del día contra un efecto temporal**. Un vecino que asiste jamás olvida qué día es — por eso la ciudad entera madruga.
+- **En mesa**: es gratis y diaria; úsala también como escena social (todos los rumores del alba pasan por aquí).
 
-### **🌙 Ceremonia del Ocaso**
-- **Propósito**: Preparar el tiempo para la noche
-- **Participantes**: Chamanes experimentados
-- **Efecto**: Protege contra distorsiones nocturnas
-- **Requisito**: Debe realizarse al atardecer
+### **🌙 Ceremonia del Ocaso** *(chamanes; portátil)*
+- **Qué es**: un círculo de sal-de-tiempo y tres cantores que "cosen" un claro de calma en territorio roto.
+- **Regla**: permite **un descanso largo seguro en zona insegura** — la noche dentro del círculo cuenta como zona segura (no alimenta el Reloj ni expone a la distorsión local). **Límite: una vez por región** (la sal se agota) y exige que los PJ escolten a los cantores hasta allí.
+- **En mesa**: es la razón mecánica para llevarse Anacronistas de expedición — y para protegerlos cuando algo huele la calma y viene a mirar.
 
-### **🌿 Ceremonia del Equilibrio**
-- **Propósito**: Restaurar el equilibrio temporal
-- **Participantes**: Solo el Gran Chamán
-- **Efecto**: Neutraliza distorsiones temporales mayores
-- **Requisito**: Debe realizarse en un lugar de poder temporal
+### **🌿 Ceremonia del Equilibrio** *(solo Harlim, el Gran Chamán; mayor)*
+- **Qué es**: el ritual grande — neutralizar una distorsión mayor localizada (un bucle menor, una grieta que se ensancha, un nodo cronófago).
+- **Regla**: es la versión ritual de la **misión de sabotaje** del [Cap. 1](../../01_Como_Dirigir.md): completada, **estanca 1 hito del Reloj**. Requiere: un lugar de poder temporal en territorio hostil, **una hora de canto ininterrumpido** de Harlim, y a los PJ haciendo lo difícil — que nada lo interrumpa (oleadas, sabotajes, la distorsión defendiéndose).
+- **En mesa**: es una misión completa con nombre de ceremonia. Harlim canta; los PJ sangran; el Reloj respira.
 
 ---
+
+## 🪪 **RANGOS Y BENEFICIOS (la facción, jugable)**
+
+| Rango | Cómo se gana | Qué da |
+|---|---|---|
+| **Amigo del Clan** | Un servicio probado (la Fase 0 ya cuenta: cruzaron con Galen) | Acceso a las ceremonias y sus reglas; un guía anacronista para una región de entrada; techo y mesa en la Cámara del Tiempo |
+| **Guardián Jurado** | Completar una misión del clan (tabla de abajo) | El **tatuaje-ancla** (tinta de sal-de-tiempo): ventaja en salvaciones contra efectos que **borren o alteren la memoria**, y 1/día puede repetirse una salvación fallada contra un efecto temporal |
+| **Portador de la Piedra** | Confianza total (típicamente Fase 3, tras el segundo servicio mayor) | **Galen entrega la media llave chroniana y las palabras** (el momento canónico del Cap. 3) — y desde entonces el clan trata al portador como a un anciano más: voz en el consejo |
+
+**Misiones del clan (1d6 — o elige la que toque):**
+
+| 1d6 | Misión | Nota |
+|---|---|---|
+| 1 | **Escoltar la Ceremonia del Equilibrio** de Harlim a un lugar de poder | La misión de sabotaje hecha ritual (estanca 1 hito) |
+| 2 | **Recuperar una reliquia de memoria** (un diario, un retrato, una campana) de una región rota | "No es oro. Es que alguien recuerde" |
+| 3 | **Rescatar una patrulla** que no volvió de una región (elige la que los PJ aún no pisaron: gancho doble) | Los supervivientes son PNJ con nombre — futuros cantores |
+| 4 | **Cartografiar una grieta nueva** en el perímetro del Cronómetro | Siembra del asedio silencioso: la burbuja tiene bordes |
+| 5 | **Custodiar el Contador una noche** señalada | La noche que elijas para un hito de Teach o un sabotaje — que estén ahí cuando pase |
+| 6 | **Llevar un mensaje a Abysara** | La misión que Galen no se atreve a pedir — hasta que la Fase 3 lo obligue (ver el Turno de Facciones) |
 
 ## 🎯 **RELACIÓN CON LOS PJ**
 

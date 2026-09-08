@@ -40,11 +40,26 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 
 ## 👥 **LÍDERES DESTACADOS**
 
+### **⚖️ EL PEAJE DEL ACERO (la hostilidad anti-magos, con procedimiento)**
+
+"Hostiles si hay magos" no es un interruptor: es una **escalera de tolerancia** por PJ lanzador. Todos los lanzadores empiezan en *Sospechoso*.
+
+| Nivel | Trato | Cómo se sube |
+|---|---|---|
+| **Sospechoso** | Escolta armada dentro de la Fortaleza de Acero; los focos arcanos se **depositan en consigna** en la puerta (se devuelven al salir); nadie les vende armamento | Estado inicial de todo lanzador |
+| **Tolerado** | Acceso normal; compras a precio de forastero; los oficiales hablan con él | **Un acto**: un favor tecnológico, una misión anti-cronófaga cumplida, o salvar a un miembro del gremio |
+| **"De los nuestros"** | Papeles sellados por Marcus (vale en toda célula de La Resistencia); precio de hermano; acceso al taller | **Marcus en Fase 3+ de su progresión** (ver su [ficha](../03_NPCs_Importantes.md)) o un acto mayor a la vista de todos |
+
+**Reglas de fricción:**
+- **Lanzar magia visible en territorio de La Resistencia** baja un nivel en la escalera (mínimo *Sospechoso*) — salvo que fuera para salvar a uno de los suyos, en cuyo caso *sube* uno: el odio es a la magia, no a los milagros.
+- **Los extremistas:** cada vez que un PJ entre en la Fortaleza habiendo lanzado magia ese día, tira **1d6**: con un **1**, un extremista monta un incidente — no un combate: un sabotaje al equipo del mago, una acusación pública, una "inspección". Marcus lo corta si su relación con el grupo es Fase 2+… y toma nota de cómo responde el mago.
+- **El techo de cristal:** ni con papeles sellados venderán a un mago sus **granadas anti-magia** ni el acceso al Cerrador sin supervisión. Hay puertas que solo abre el arco completo de Marcus ("no toda la magia es corrupta") — y esa es la recompensa de rolearlo.
+
 ### **🔧 Balthar Herrumbra - Gran Maestro Armero**
 - **Raza**: Enano maestro armero
 - **Especialidad**: Diseña pistolas pesadas y martillos que disparan runas de acero
 - **Personalidad**: Obsesivo con la perfección mecánica, desprecia cualquier cosa que no sea "natural"
-- **Historia**: Perdió su brazo derecho en una explosión mágica, ahora usa una prótesis mecánica que puede disparar proyectiles anti-magia
+- **Historia**: Perdió a su esposa y a sus dos hijos cuando un portal dimensional se abrió en su taller (el brazo perdido es el del **Capitán Marcus**, su líder — ver [PNJs](../03_NPCs_Importantes.md)); desde entonces forja dispositivos que cierran portales para que a nadie más le pase
 
 ### **⚙️ Lucienne Rietveldt - Maestra Ingeniera**
 - **Raza**: Humana ingeniera

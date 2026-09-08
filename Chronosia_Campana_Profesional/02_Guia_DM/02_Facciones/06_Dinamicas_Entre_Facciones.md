@@ -42,6 +42,31 @@
 
 ---
 
+## ⏱️ **EL TURNO DE FACCIONES (qué hace el tablero si nadie lo toca)**
+
+> La guerra civil "se enuncia" en muchos sitios; aquí está su **procedimiento**. Consulta esta tabla **cada vez que el Reloj sube un segmento**: es el mundo moviéndose sin permiso de los PJ. No lo resuelvas en secreto — que las consecuencias lleguen como rumores ([tabla de la taberna](../../06_Recursos/Tablas/24_Rumores_Taberna.md)), refugiados nuevos en Cronópolis y "hipos" del Contador.
+
+**Al subir el Reloj (después del SALTO de Thyra), tira 1d6 — la jugada del tablero:**
+
+| 1d6 | Qué pasa ahí fuera | Cómo se enteran los PJ |
+|---|---|---|
+| 1-2 | **Guerra civil:** un lugarteniente ataca la región de otro (elige la pareja que más te sirva; los "líderes de bando" Vorthak e Ignis absorben regiones huérfanas) | Refugiados de esa región llegan a Cronópolis; la tabla de encuentros de esa región gana patrullas extranjeras |
+| 3-4 | **Teach caza:** Barbanegra absorbe al lugarteniente vivo más débil que los PJ hayan ignorado | **Hipo del Contador** — y la región de la víctima *sigue rota* (la firma de Teach) |
+| 5 | **Tregua tensa:** los bandos se rearman; Yrindra compra secretos del movimiento de todos | Vornan y los contactos drow suben los precios: "hay demanda" |
+| 6 | **Golpe contra Cronópolis:** sabotaje, infiltración o asedio sondeado contra la ciudad (los Cronófagos prueban la muralla) | Los PJ pueden intervenir en persona: es la jugada que sí se juega en mesa |
+
+**Los movimientos fijos de cada facción, por fase (si nadie interviene):**
+
+- **Cronófagos:** F1-2 consolidan y patrullan; tras el SALTO, la tabla de arriba manda. Sin Ignis, el bando dimensional se desangra; sin Vorthak, el temporal.
+- **Edward Teach:** su propio reloj (los 4 hitos del [Cap. 14](../../14_Arco_de_Barbanegra.md)) + la fila 3-4 de la tabla. Cada lugarteniente absorbido = un poder más para el [Usurpador](../04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md).
+- **La Resistencia:** F1-2 construye el Contador; F2-3 ofrece sabotajes (estancan 1 hito **si los PJ los ejecutan** — sin ellos, fracasan a las dos por una); tras la Traición, purga interna: una fase entera mirando hacia dentro.
+- **Anacronistas:** ceremonias diarias y vigilancia del Contador; en Fase 3, si los PJ aún no han contactado con Abysara, **Galen envía un emisario propio por mar… que no vuelve** (el caracol-llave del náufrago de Glacialis aparece en la playa: gancho y culpa).
+- **Oceánicos:** tras cada hito de Teach, una partida de caza sube a superficie; si en Fase 3 nadie los ha buscado, **Tholassa emerge ella misma** en el puerto de Cronópolis — la reconciliación llama dos veces, no infinitas.
+- **Bregan D'aerthe:** contrabando y espionaje (todo acaba en la red de Yrindra); tras la Traición, rematan a Serapis (Zin-Carla); en la Llamada, **venden su neutralidad al mejor postor** — subasta en mesa si los PJ pujan.
+- **Matrona Yrindra:** teje. Cada fase sabe más. Y si nadie ha negociado con ella antes de la Llamada, **vende la entrada de la Torre a Teach** — el Final B se financia solo.
+
+---
+
 ## 🎯 **LOS PJ EN MEDIO**
 
 ### **La Resistencia y Magos del Grupo**
