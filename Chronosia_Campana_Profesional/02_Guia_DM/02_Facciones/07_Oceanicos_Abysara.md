@@ -216,15 +216,6 @@ Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mo
 
 ---
 
-## 📚 **REFERENCIAS RELACIONADAS**
-
-- **Robo de la Perla:** [14_Arco_de_Barbanegra.md](../../14_Arco_de_Barbanegra.md)
-- **Cristales de Chronosia:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-cristal-estabilizador)
-- **Bendiciones del Vacío:** [21_Objetos_Magicos_Reliquias.md](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-bendiciones-del-vacío-océnicos-de-las-profundidades)
-- **Conexión con Anacronistas:** [03_Anacronistas.md](./03_Anacronistas.md#-la-gran-división-la-batalla-de-los-dioses)
-- **NPCs Importantes:** [03_NPCs_Importantes.md](../03_NPCs_Importantes.md)
-
----
 
 *Los Oceánicos de las Profundidades son guardianes de un legado antiguo, hermanos perdidos de los Anacronistas, y aliados poderosos para aquellos que comparten su vendetta contra Edward Teach.* 🌊✨
 

@@ -353,15 +353,7 @@ Edward Teach ha descubierto cómo usar **cristales especiales** para combinar po
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando Edward Teach muere (ya sea por los PJ o por otro lugarteniente), **El Archipiélago de Barbanegra se restaura a la normalidad**. Todas las distorsiones temporales y dimensionales causadas por su poder desaparecen gradualmente en un proceso que dura 1d4 horas:
-
-- **Los portales dimensionales se estabilizan** - No más portales inestables o peligrosos
-- **Los efectos de estasis temporal cesan** - El tiempo vuelve a fluir normalmente
-- **La región recupera su estado natural** - Sin las anomalías temporales y dimensionales que Teach había creado
-- **El poder robado de Thyra se libera suavemente** - Sin explosiones violentas, simplemente se disipa
-
-**Nota:** Este efecto de restauración aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-
+Al morir Edward Teach, **El Archipiélago de Barbanegra se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
 ---
 
 ## 🔮 **INFORMACIÓN ULTRA-SECRETA (Solo para el DM)**

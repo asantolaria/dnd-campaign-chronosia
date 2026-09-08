@@ -158,15 +158,7 @@ Medusa puede realizar **2 acciones legendarias por ronda**, eligiendo entre las 
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando Medusa muere (ya sea por los PJ o por otro lugarteniente), **El Jardín de los Tiempos Gemelos se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente en un proceso que dura 1d4 horas:
-
-- **La estasis temporal cesa** - El tiempo vuelve a fluir normalmente
-- **Los efectos de petrificación temporal se disipan** - Cualquier criatura petrificada temporalmente se libera suavemente
-- **La región recupera su estado natural** - Sin las anomalías temporales que Medusa había creado
-- **Los habitantes afectados se estabilizan** - Cualquier estasis temporal causada por Medusa se detiene suavemente
-
-**Nota:** Este efecto de restauración aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-
+Al morir Medusa, **El Jardín de los Tiempos Gemelos se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
 ---
 
 ## 🎣 **GANCHOS NARRATIVOS**

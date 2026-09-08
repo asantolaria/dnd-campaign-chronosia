@@ -145,15 +145,7 @@ Serapis **no tiene acciones legendarias**. Como primer lugarteniente y combate d
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando Serapis muere (ya sea por los PJ o por otro lugarteniente), **La Espiral Inversa se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente en un proceso que dura 1d4 horas:
-
-- **El tiempo vuelve a fluir normalmente** - No más reversiones temporales ni bucles
-- **Las distorsiones temporales se disipan** - Los efectos de envejecimiento/rejuvenecimiento cesan
-- **La región recupera su estado natural** - Sin las anomalías temporales que Serapis había creado
-- **Los habitantes afectados se estabilizan** - Cualquier envejecimiento o rejuvenecimiento causado por Serapis se detiene
-
-**Nota:** Este efecto de restauración aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-
+Al morir Serapis, **La Espiral Inversa se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
 ---
 
 ## ⚠️ **RELACIÓN CON VORTHAK Y DESTINO FINAL**

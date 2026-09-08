@@ -184,13 +184,6 @@ El **Cronómetro de Realidades** fue creado por los primeros Anacronistas usando
 
 ---
 
-## 🔗 **REFERENCIAS RELACIONADAS**
-
-- **NPCs Importantes**: [../03_NPCs_Importantes.md](../03_NPCs_Importantes.md) - Galen (líder Anacronista)
-- **Dinámicas con Otras Facciones**: [06_Dinamicas_Entre_Facciones.md](./06_Dinamicas_Entre_Facciones.md)
-- **Estrategias de Alianza**: [06_Dinamicas_Entre_Facciones.md#-estrategias-de-alianza](./06_Dinamicas_Entre_Facciones.md#-estrategias-de-alianza)
-
----
 
 *Los Anacronistas son los guardianes del tiempo verdadero, pero incluso su resistencia tiene límites.* 🌿⏰
 

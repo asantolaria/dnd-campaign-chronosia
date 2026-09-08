@@ -75,7 +75,7 @@ for f in "${FILES[@]}"; do
   | perl -CSD -pe '
       s/[\x{1F000}-\x{1FFFF}\x{2300}-\x{23FF}\x{2600}-\x{27BF}\x{2B00}-\x{2BFF}\x{FE00}-\x{FE0F}\x{2049}\x{203C}]//g;
       s/^(\#{1,6})\s+/$1 /;
-      s/\*\*\s+/**/g;
+      s/(^|\s)\*\* +/$1**/g;
       s/[ \t]+$//;
     ' >> "$OUT_MD"
   printf '\n\n---\n\n' >> "$OUT_MD"

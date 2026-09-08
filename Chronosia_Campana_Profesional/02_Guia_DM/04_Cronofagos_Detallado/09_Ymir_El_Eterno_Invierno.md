@@ -181,15 +181,7 @@ Ymir puede realizar **2 acciones legendarias** por ronda, eligiendo entre las op
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando Ymir muere (ya sea por los PJ o por otro lugarteniente), **Glacialis se restaura a la normalidad**. Todas las distorsiones dimensionales causadas por su poder desaparecen gradualmente en un proceso que dura 1d4 horas:
-
-- **Las estructuras de hielo dimensional se disipan** - No más hielo dimensional permanente ni trampas
-- **Los portales de hielo se cierran** - Los portales al Plano Elemental del Agua se estabilizan
-- **La región recupera su estado natural** - Sin las anomalías dimensionales que Ymir había creado
-- **Los habitantes congelados se liberan** - Cualquier criatura congelada dimensionalmente se descongela suavemente
-
-**Nota:** Este efecto de restauración aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-
+Al morir Ymir, **Glacialis se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
 ---
 
 ---

@@ -113,13 +113,6 @@ Para información completa sobre los Cronófagos, incluyendo:
 
 ---
 
-## 🔗 **REFERENCIAS RELACIONADAS**
-
-- **Lugartenientes Detallados**: [04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) (ver archivos individuales para statblocks completos)
-- **Motor de Campaña (Reloj del Ritual y escalada de Teach)**: [10_Motor_de_Campana_Reloj_y_Puertas.md](../../01_Como_Dirigir.md)
-- **Dinámicas con Otras Facciones**: [06_Dinamicas_Entre_Facciones.md](./06_Dinamicas_Entre_Facciones.md)
-
----
 
 *Los Cronófagos son el brazo armado de Manshoon, pero su lealtad está fracturada por la ambición y la traición.* ⚔️⏰
 

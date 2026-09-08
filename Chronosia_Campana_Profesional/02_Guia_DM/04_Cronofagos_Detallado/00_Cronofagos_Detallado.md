@@ -111,6 +111,12 @@ Los Cronófagos muestran signos visibles de su exposición a las distorsiones te
 
 ---
 
+## 💀 EFECTO AL MORIR (regla general)
+
+Cuando un lugarteniente muere —lo maten los PJ, Teach u otro lugarteniente—, **su región se restaura a la normalidad** en un proceso gradual de **1d4 horas**: las distorsiones se estabilizan, las anomalías que creó se disipan, y los habitantes atrapados por su poder quedan libres suavemente (nunca de forma violenta). Cada ficha indica solo el **matiz regional** de esa restauración. La restauración única de cada región —lo que los PJ *ven* al ganar— está descrita en su capítulo de región.
+
+---
+
 ## 🎁 RECOMPENSAS DE LOS LUGARTENIENTES
 
 Los lugartenientes premian a sus súbditos con fragmentos del poder divino:

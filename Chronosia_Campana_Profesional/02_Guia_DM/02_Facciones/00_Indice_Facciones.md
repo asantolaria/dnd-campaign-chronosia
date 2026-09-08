@@ -83,13 +83,6 @@
 
 ---
 
-## 📚 **REFERENCIAS RELACIONADAS**
-
-- **Lugartenientes Detallados**: [../04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../04_Cronofagos_Detallado/00_Cronofagos_Detallado.md) (ver archivos individuales para statblocks completos)
-- **NPCs Importantes**: [../03_NPCs_Importantes.md](../03_NPCs_Importantes.md)
-- **Sistema de Balance**: [../../01_Como_Dirigir.md)
-
----
 
 *Las facciones de Chronosia representan diferentes filosofías sobre el tiempo y el espacio. Elegir aliados sabiamente puede determinar el éxito o el fracaso de la misión.* 🎲✨
 

@@ -194,12 +194,6 @@ El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de 
 
 ---
 
-## 🔗 **REFERENCIAS RELACIONADAS**
-
-- **Motor de Campaña (Reloj del Ritual y Puertas)**: [../../01_Como_Dirigir.md](../../01_Como_Dirigir.md) — fuente única sobre estructura, ritmo y la escalada de Teach
-- **NPCs Importantes**: [../03_NPCs_Importantes.md](../03_NPCs_Importantes.md)
-
----
 
 *Las facciones de Chronosia representan diferentes filosofías sobre el tiempo y el espacio. Elegir aliados sabiamente puede determinar el éxito o el fracaso de la misión.* ⚔️🎲✨
 

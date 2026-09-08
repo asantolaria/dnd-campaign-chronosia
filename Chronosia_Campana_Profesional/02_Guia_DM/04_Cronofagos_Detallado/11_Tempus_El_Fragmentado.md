@@ -164,15 +164,7 @@ Tempus puede realizar **2 acciones legendarias por ronda**, eligiendo entre las 
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando Tempus muere (ya sea por los PJ o por otro lugarteniente), **Las Ruinas del Tiempo Perdido se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente en un proceso que dura 1d4 horas:
-
-- **Los bucles temporales se disipan** - No más repeticiones temporales ni bucles infinitos
-- **Las secuencias programadas cesan** - El tiempo vuelve a fluir normalmente
-- **La región recupera su estado natural** - Sin las anomalías temporales que Tempus había creado
-- **Los habitantes atrapados se liberan** - Cualquier criatura atrapada en bucles temporales se libera suavemente
-
-**Nota:** Este efecto de restauración aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-
+Al morir Tempus, **Las Ruinas del Tiempo Perdido se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
 ---
 
 ## 🎣 **GANCHOS NARRATIVOS**

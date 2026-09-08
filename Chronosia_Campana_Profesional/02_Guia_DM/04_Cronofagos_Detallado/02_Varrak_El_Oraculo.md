@@ -144,15 +144,7 @@ Varrak puede realizar **2 acciones legendarias** por ronda, eligiendo entre las 
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando Varrak muere (ya sea por los PJ o por otro lugarteniente), **El Abismo de los Posibles se restaura a la normalidad**. Todas las distorsiones temporales causadas por su poder desaparecen gradualmente en un proceso que dura 1d4 horas:
-
-- **Las fragmentaciones de realidad se estabilizan** - No más realidades alternativas superpuestas
-- **Las visiones de futuros múltiples cesan** - El tiempo vuelve a tener un solo flujo
-- **La región recupera su estado natural** - Sin las anomalías temporales que Varrak había creado
-- **Los habitantes fragmentados se estabilizan** - Cualquier fragmentación temporal causada por Varrak se resuelve
-
-**Nota:** Este efecto de restauración aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-
+Al morir Varrak, **El Abismo de los Posibles se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
 ---
 
 ## 🤝 **POTENCIAL COMO ALIADO**

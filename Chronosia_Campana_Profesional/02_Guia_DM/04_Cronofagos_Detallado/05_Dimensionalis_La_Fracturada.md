@@ -195,15 +195,7 @@ Diseñada para un grupo de **nivel 7-8**. Dimensionalis reparte a los PJ en habi
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando Dimensionalis muere (ya sea por los PJ o por otro lugarteniente), **Las Llanuras de la Compresión se restaura a la normalidad**. Todas las distorsiones dimensionales causadas por su poder desaparecen gradualmente en un proceso que dura 1d4 horas:
-
-- **Las fracturas dimensionales se estabilizan** - No más dimensiones superpuestas ni caos espacial
-- **Los laberintos espaciales se disipan** - El espacio vuelve a tener una geometría normal
-- **La región recupera su estado natural** - Sin las anomalías dimensionales que Dimensionalis había creado
-- **Los habitantes atrapados se liberan** - Cualquier criatura atrapada en dimensiones fracturadas regresa suavemente
-
-**Nota:** Este efecto de restauración aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-
+Al morir Dimensionalis, **Las Llanuras de la Compresión se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
 ---
 
 ## 🎣 **GANCHOS NARRATIVOS**

@@ -153,12 +153,6 @@ Se convierte en herramienta crucial para La Resistencia y en **referente visual*
 
 ---
 
-## 🔗 **REFERENCIAS RELACIONADAS**
-
-- **Dinámicas con Otras Facciones**: [06_Dinamicas_Entre_Facciones.md](./06_Dinamicas_Entre_Facciones.md)
-- **Estrategias de Alianza**: [06_Dinamicas_Entre_Facciones.md#-estrategias-de-alianza](./06_Dinamicas_Entre_Facciones.md#-estrategias-de-alianza)
-
----
 
 *La Resistencia lucha contra la magia con acero y vapor, pero su odio puede cegarlos hasta volverse tan peligrosos como lo que combaten.* ⚙️🔧
 

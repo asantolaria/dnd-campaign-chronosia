@@ -138,13 +138,6 @@ Bregan D'aerthe tiene mucha afinidad con la **Matrona Yrindra** debido a sus con
 
 ---
 
-## 🔗 **REFERENCIAS RELACIONADAS**
-
-- **NPCs Importantes**: [../03_NPCs_Importantes.md](../03_NPCs_Importantes.md) - Jarlaxle Baenre
-- **Dinámicas con Otras Facciones**: [06_Dinamicas_Entre_Facciones.md](./06_Dinamicas_Entre_Facciones.md)
-- **Estrategias de Alianza**: [06_Dinamicas_Entre_Facciones.md#-estrategias-de-alianza](./06_Dinamicas_Entre_Facciones.md#-estrategias-de-alianza)
-
----
 
 *Bregan D'aerthe opera en las sombras, pero su lealtad tiene un precio.* 🗡️💰
 

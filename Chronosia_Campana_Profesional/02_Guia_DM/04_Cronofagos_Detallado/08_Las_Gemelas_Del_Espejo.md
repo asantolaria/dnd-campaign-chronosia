@@ -189,15 +189,7 @@ Las Gemelas comparten **2 acciones legendarias** por ronda (un único bloque par
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando las Gemelas mueren (ya sea por los PJ o por otro lugarteniente), **El Jardín de los Tiempos Gemelos se restaura a la normalidad**. Todas las distorsiones dimensionales causadas por su poder desaparecen gradualmente en un proceso que dura 1d4 horas:
-
-- **La dimensión espejo se estabiliza** - No más dimensiones espejo ni reflejos invertidos
-- **Los reflejos se disipan** - El espacio vuelve a tener una geometría normal
-- **La región recupera su estado natural** - Sin las anomalías dimensionales que las Gemelas habían creado
-- **Los habitantes atrapados se liberan** - Cualquier criatura atrapada en la dimensión espejo regresa suavemente
-
-**Nota:** Este efecto de restauración aplica también cuando los lugartenientes se matan entre sí, ayudando a estabilizar Chronosia gradualmente.
-
+Al morir las Gemelas, **El Jardín de los Tiempos Gemelos se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
 ---
 
 ## 🤝 **POTENCIAL COMO ALIADAS**
