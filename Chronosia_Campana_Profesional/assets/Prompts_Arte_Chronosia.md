@@ -784,14 +784,14 @@ Tema: ABYSARA, ciudad chroniana sumergida a dos millas de profundidad — cúpul
 
 ### 11.9 · Battlemap — El Ojo del Tiempo *(guarida de Serapis, Cap. 4)* — ⏳ **PENDIENTE**
 ```
-Battlemap en VISTA EN PLANTA (plano de suelo arquitectónico visto desde arriba) para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), estilo pintado a mano de mapa de encuentro profesional, proporción 1:1.
-Escenario: el corazón de un valle en espiral — una plataforma de cristal circular en el centro de un DOBLE VÓRTICE DE ARENA DORADA que gira hacia atrás (la arena asciende en espiral hacia una fina grieta luminosa). Al fondo, tallado en la pared de roca, un RELOJ DE ARENA GIGANTE. Pasarelas de roca en espiral llegando a la plataforma, dunas de arena dorada, y dos o tres formaciones de cristal como cobertura. Sin criaturas.
+Plano de suelo 2D en vista cenital ORTOGRÁFICA (cámara a 90 grados, perpendicular al suelo, como un plano de arquitecto pintado a mano): battlemap para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), paleta dorada y cálida, proporción 1:1. PROHIBIDO el isométrico y cualquier perspectiva: ningún objeto muestra sus caras laterales, solo su huella sobre el suelo.
+Escenario: el corazón de un valle en espiral — una plataforma de cristal circular en el centro, con un RELOJ DE ARENA GIGANTE incrustado como mosaico en su suelo. Alrededor de la plataforma, BANDAS CONCÉNTRICAS EN ESPIRAL de arena dorada (remolinos y vetas de arena dibujando la espiral sobre el suelo, cada banda con la arena peinada en sentido contrario a la anterior). Pasarelas de roca curvas llegando a la plataforma desde los bordes, dunas bajas vistas como manchas onduladas, y dos o tres formaciones de cristal como cobertura, vistas por su punta. Sin criaturas, sin texto.
 ```
 
 ### 11.10 · Battlemap — El Portal de las Estrellas *(guarida de Ymir, Cap. 6)* — ⏳ **PENDIENTE**
 ```
-Battlemap en VISTA EN PLANTA (plano de suelo arquitectónico visto desde arriba) para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), estilo pintado a mano de mapa de encuentro profesional, iluminación azul glacial, proporción 4:3.
-Escenario: el nodo central de una red de portales de hielo — una explanada de hielo pulido con un ANILLO DE ARCOS DE ESCARCHA de distintos tamaños dispuestos en círculo (cada arco es un portal; que se insinúen paisajes distintos en dos o tres), puentes de escarcha finos conectándolos, grietas en el hielo que dejan ver un vacío estrellado debajo, y al norte un GRAN PORTAL NEGRO cerrado, distinto a todos. Cajones de carga y jaulas de hielo como cobertura. Sin criaturas.
+Plano de suelo 2D en vista cenital ORTOGRÁFICA (cámara a 90 grados, perpendicular al suelo, como un plano de arquitecto pintado a mano): battlemap para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), iluminación azul glacial, proporción 4:3. PROHIBIDO el isométrico y cualquier perspectiva: ningún objeto muestra sus caras laterales, solo su huella sobre el suelo.
+Escenario: el nodo central de una red de portales de hielo — una explanada de hielo pulido. Dispuestos en círculo, ocho PORTALES vistos desde arriba: cada uno es un par de BASES DE PILAR de hielo gemelas y, entre ellas, un CHARCO DE LUZ OVALADO proyectado sobre el suelo — cada charco de un color y textura distintos (uno verde con sombras de hojas, uno ámbar como arena de desierto, uno azul marino con ondas, el resto blanco glacial). Puentes de escarcha finos conectando las bases, grietas en el hielo que dejan ver un vacío estrellado debajo, y al norte dos bases de pilar mucho mayores con un charco NEGRO ABSOLUTO que no refleja nada, rodeado de cadenas congeladas tendidas por el suelo. Cajones de carga y jaulas de hielo como cobertura, todos vistos por su tapa superior. Sin criaturas, sin texto.
 ```
 
 ---
@@ -804,7 +804,8 @@ Escenario: el nodo central de una red de portales de hielo — una explanada de 
 4. **Restyle de criaturas:** sube el PNG actual (`cronófago …png`, `simbolo cronófagos.png`) y pega el bloque del §5 (ya trae la coletilla de conservar la pose).
 5. **Coherencia:** cuando una criatura te convenza, súbela como referencia para las siguientes (*"mismo estilo, paleta e iluminación que esta"*).
 6. **Reemplazo del PNG roto:** `Aethernus Valcarys - Manshoon.png` está corrupto (489 bytes, es un XML, no una imagen); sustitúyelo por el resultado del §4.
-7. **Mapa con texto perfecto garantizado:** si Gemini falla con alguna etiqueta, genera el mapa solo con números y usa/edita `mapa_general_chronosia.svg` (ya trae los nombres correctos).
+7. **Si un battlemap sale isométrico**, el culpable casi siempre es un elemento vertical en la descripción (un arco por el que "se ve" algo, un relieve "en la pared", algo que "asciende"): la cámara se inclina para poder enseñarlo. Reescribe ese elemento como su huella en el suelo (bases de pilar + charco de luz proyectado, mosaico en el pavimento, vetas en espiral) y abre el prompt con "vista cenital ORTOGRÁFICA a 90 grados... ningún objeto muestra sus caras laterales".
+8. **Mapa con texto perfecto garantizado:** si Gemini falla con alguna etiqueta, genera el mapa solo con números y usa/edita `mapa_general_chronosia.svg` (ya trae los nombres correctos).
 
 ---
 
