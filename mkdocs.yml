@@ -45,11 +45,11 @@ hooks:
 nav:
   - Portada: index.md
   - Parte I — Preparación:
-    - La Historia de Chronosia: 00_La_Historia_de_Chronosia.md
+    - Prólogo · La Historia de Chronosia: 00_La_Historia_de_Chronosia.md
     - 1 · Cómo dirigir Chronosia: 01_Como_Dirigir.md
     - 2 · El semiplano: 02_El_Semiplano.md
-    - Creación de personajes: 01_Introduccion/03_Creacion_Personajes.md
-    - Cronología de eventos fijos: 02_Guia_DM/07_Cronologia_Maestra_Campana.md
+    - Sesión 0 · Creación de personajes: 01_Introduccion/03_Creacion_Personajes.md
+    - Referencia · Cronología de eventos fijos: 02_Guia_DM/07_Cronologia_Maestra_Campana.md
   - Parte II — La campaña:
     - Fase 0 · El asesinato de Waterdeep: 01_Introduccion/04_Fase_0_Waterdeep.md
     - 3 · Cronópolis: 03_Cronopolis.md
@@ -122,7 +122,7 @@ nav:
       - La carta de Linna: 06_Recursos/Handouts/Carta_de_Linna.md
       - Diario de una refugiada: 06_Recursos/Handouts/Diario_de_un_Refugiado.md
       - El Aviso de Abysara: 06_Recursos/Handouts/Aviso_de_Abysara.md
-    - Nexo planar y continuaciones: 02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md
+    - F · Nexo planar y continuaciones: 02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md
 
 # Fuera del menú (material en bruto ya fundido en los capítulos, o meta).
 exclude_docs: |
