@@ -64,13 +64,15 @@ add "02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md"
 # (mismo redirect que mkdocs_hooks.py: el PDF usa assets/web/ para no pesar 100+ MB)
 : > "$OUT_MD"
 for f in "${FILES[@]}"; do
-  sed -E \
+  # En el PDF, el bestiario regional no repite el mapa de su región (ya está en el capítulo)
+  PRE=cat
+  case "$f" in 05_Apendices/Bestiario_Regional/*) PRE='grep -v ^!\[Mapa' ;; esac
+  $PRE "$f" | sed -E \
     -e 's#assets/bestiario/#assets/web/bestiario/#g' \
     -e 's#assets/objetos_magicos/#assets/web/objetos_magicos/#g' \
     -e 's#assets/mapas/([A-Za-z0-9_-]+)\.(png|jpg)#assets/web/mapas/\1.jpg#g' \
     -e 's#assets/handouts/#assets/web/handouts/#g' \
     -e 's#assets/portada\.png#assets/web/portada.jpg#g' \
-    "$f" \
   | sed -E "s#\]\((\.\./)*assets/#](${ROOT}/assets/#g" \
   | perl -CSD -pe '
       s/[\x{1F000}-\x{1FFFF}\x{2300}-\x{23FF}\x{2600}-\x{27BF}\x{2B00}-\x{2BFF}\x{FE00}-\x{FE0F}\x{2049}\x{203C}]//g;
