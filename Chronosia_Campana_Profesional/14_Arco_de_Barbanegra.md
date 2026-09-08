@@ -1,6 +1,6 @@
 # Capítulo 14 — El arco de Barbanegra y las traiciones
 
-> La espina dorsal del villano que rompe las reglas: cómo Edward Teach roba dos artefactos, forja el Talismán, asesina a un dios menor para probar que el robo funciona, y arrastra a todo Chronosia a la guerra — contado como una cadena de escenas fijas que los PJ vivirán desde dentro, sin poder evitarlas, solo entenderlas.
+> La espina dorsal del villano que rompe las reglas: cómo Edward Teach roba dos artefactos, forja el Talismán, asesina a una lugarteniente para probar que el robo funciona, y arrastra a todo Chronosia a la guerra — contado como una cadena de escenas fijas que los PJ vivirán desde dentro, sin poder evitarlas, solo entenderlas.
 
 ---
 
@@ -148,7 +148,7 @@ El golpe final la deshace en cristales de tiempo. Su poder de estasis, que deber
 **Si llegan después:** la fortaleza vacía, cristales de tiempo por el suelo, los habitantes congelados despertando.
 **Si llegan mucho después:** región abandonada, y el rumor frío de que "Teach ahora congela el tiempo como Thyra".
 
-> **⚠️ Evento fijo, el más importante.** El SALTO del Reloj ocurre pase lo que pase. Es el latido de la campaña: *algunos hechos son fijos; lo que se elige es qué se salva y a qué velocidad se corre hacia el final.* A partir de aquí, el cronómetro de la mesa aprieta de verdad.
+> **⚠️ Evento fijo, el más importante.** El SALTO es **+2 segmentos de golpe** — la única subida doble de la campaña (anúnciala con el Contador crujiendo: dos luces encendiéndose seguidas, y la ciudad entera callando). Haz la cuenta con tu mesa delante: de 2/8 a 8/8 hay 6 hitos; el SALTO consume 2, así que quedan ~4 arcos de región *más lo que recuperen*: **cada crítico cortado (Teach, Ignis, Vorthak) devuelve 2 respiros** — matar a los tres convierte la asfixia en margen. Esa aritmética ES la campaña. El SALTO del Reloj ocurre pase lo que pase. Es el latido de la campaña: *algunos hechos son fijos; lo que se elige es qué se salva y a qué velocidad se corre hacia el final.* A partir de aquí, el cronómetro de la mesa aprieta de verdad.
 
 ---
 
@@ -216,11 +216,15 @@ Los drow aceptan **temporalmente** (su lealtad real es de Yrindra, pero mantiene
 > - **La custodia (Escena 5):** si Kaoros huyó vivo, intenta **sabotear el sacrificio de Varrak** en pleno funeral — y son los PJ quienes cierran el arco del topo, protegiendo el ritual.
 > - **Si ya destaparon a Kaoros** (ver [PNJs](02_Guia_DM/03_NPCs_Importantes.md)): Din los recluta como **conspiradores desde el diseño** — los cuatro papeles de arriba se convierten en misiones explícitas, y el "no deben saber la verdad" deja de aplicar: ahora el secreto es *suyo*.
 
-**Mecánica del artilugio de retroceso** *(en manos de Serapis):* tiene **3-5 cargas** (ajusta al nivel). Cuando va a morir, **reinicia el combate al estado inicial**: recupera todos sus PG (y restaura recursos de los aliados también — un bucle), pero **gasta una carga**. Los PJ deben **agotar las cargas** para poder matarlo. Al quedar en 0, Serapis cae — pero el artilugio queda **vacío**.
+> **📍 DÓNDE Y CON QUÉ FUERZAS (el recuadro que faltaba).** Todo el arco ocurre **en Cronópolis** — y puede ocurrir porque la ciudad ya no tiene escudo entero (ver *La ciudad sin escudo*, Cap. 3: tras el robo del Cronómetro los poderes de lugarteniente funcionan a medias intramuros, CD −2). El **juicio y la ejecución**, en la **Plaza del Reloj**, bajo el Contador — que la cuenta atrás del mundo presida la injusticia. La **batalla**, allí mismo, entre andamios y bancos volcados. **Roster:** **Serapis de la Traición** (CR 8, con el artilugio — ver su [ficha](02_Guia_DM/04_Cronofagos_Detallado/01_Serapis_El_Retroceso.md)), **Kaoros** (usa el *Agente Infiltrado* CR 4 de [17_Monstruos](05_Apendices/17_Monstruos_Enemigos.md), con su telepatía), **6 Bregan D'aerthe** (*Agentes Infiltrados* CR 4) que con el soborno de Din **se apartan** en la ronda 1 (dramatízalo: envainan a una orden silbada), y **2d4 sargentos cronófagos** infiltrados que no se apartan. Del lado del grupo: la Resistencia acordonando civiles (no combaten: protegen la plaza) y Din, que **no puede** pelear — está contando cargas.
+
+**Mecánica del artilugio de retroceso:** las reglas completas (reinicio a ronda 1, cargas visibles, arrancarlas con CD 16) están en la [ficha de Serapis → Serapis de la Traición](02_Guia_DM/04_Cronofagos_Detallado/01_Serapis_El_Retroceso.md). Al quedar en 0 cargas, Serapis cae — y el artilugio queda **vacío**.
 
 > **Din** *(desolado):* "No… no puede ser. El artilugio está agotado. Yo creía que podría usarlo para revivir a mi compañero. He fallado. He fallado del todo."
 
 ### Escena 5 · El sacrificio de Varrak
+
+> **🛠️ ¿Y SI VARRAK NO ES ALIADO?** (El sandbox lo permite: quizá nunca pisaron el Abismo, o lo traicionaron.) **El capítulo no se rompe — se paga.** Sin Varrak no hay esencia que recargue el artilugio: la Escena 5 es un **funeral sin milagro**. Marcus queda muerto de verdad (salvo que las ramas del juicio lo salvaran), el Reloj **no** retrocede, y Din carga con un plan que costó a su amigo — dale la línea: *"Contaba con un oráculo que nunca vino. Contad vosotros mejor que yo."* La Resistencia elige nuevo capitán (Lucienne, la voz fría) y la campaña sigue, más oscura y más cara. Si Varrak vive pero es hostil/neutral, el Monje Manco aparece igual al funeral, en silencio, y deja sobre el féretro la [profecía](06_Recursos/Handouts/Profecia_de_Varrak.md): el futuro donde ganaban… pasaba por aquí. Que duela la puerta que no abrieron.
 
 > **⚠️ Condición del milagro.** El sacrificio de Varrak para **retroceder el Reloj y revivir a Marcus** sólo está disponible si **Varrak es aliado** (los PJ le entregaron su cristal a Din) **y el Reloj está ≥6/8**. Si el Reloj aún es bajo, Varrak guarda su vida para más adelante: revive a Marcus con su don, pero **no** gasta su esencia ni retrocede el Reloj. El precio máximo sólo se paga cuando la situación es máxima.
 

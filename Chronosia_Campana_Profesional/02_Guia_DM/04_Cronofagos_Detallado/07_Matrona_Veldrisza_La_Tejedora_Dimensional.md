@@ -105,7 +105,7 @@ Yrindra realiza tres ataques: dos con *Daga de Telaraña* y uno con *Red Espacia
 
 **Daga de Telaraña.** *Ataque con Arma Cuerpo a Cuerpo:* +10 al ataque, alcance 5 pies, un objetivo.  
 *Impacto:* 8 (1d6 + 4) de daño perforante más 10 (3d6) de daño espacial.  
-El objetivo debe hacer salvación de Destreza CD 17 o queda atrapado en una red espacial (paralizado por 1 turno).
+El objetivo debe hacer salvación de Destreza CD 17 o queda **apresado** por hilos de red espacial (escapar: acción, Fuerza CD 17; los hilos se cortan con 10 de daño cortante). *(Apresado, no paralizado: que los jugadores sigan jugando.)*
 
 **Red Espacial.** *Ataque con Conjuro:* +10 al ataque, alcance 60 pies, un objetivo.  
 Yrindra lanza una red de telarañas dimensionales que atrapa al enemigo.  
@@ -115,10 +115,10 @@ Yrindra lanza una red de telarañas dimensionales que atrapa al enemigo.
 Como acción, Yrindra abre un portal a Menzoberranzan que trae 1d3 drow guerreros (CR 3 cada uno) que luchan por Yrindra hasta ser derrotados.
 
 **Dimensión de Pesadilla (2/día).**  
-Como acción, Yrindra atrapa a un enemigo a hasta 60 pies de distancia en una dimensión de pesadilla. El enemigo debe hacer salvación de Sabiduría CD 17 o queda atrapado y debe superar una prueba de coraje (tirada de Carisma CD 17) para escapar. Mientras está atrapado, el enemigo no puede actuar y recibe 10 (3d6) de daño psíquico por turno.
+Como acción, Yrindra atrapa a un enemigo a hasta 60 pies en una dimensión de pesadilla. El enemigo hace salvación de Sabiduría CD 17 o desaparece en la telaraña del miedo: allí recibe 10 (3d6) de daño psíquico al inicio de cada uno de sus turnos y **repite la salvación (SAB o CAR, lo que prefiera) al final de cada turno**, escapando con un éxito — y escapa **automáticamente a los 3 turnos**: la pesadilla no retiene lo que no puede quebrar. Reaparece en su espacio (u adyacente). Sus aliados pueden ayudar desde fuera: dañar a Yrindra con 20+ en un turno sacude la telaraña (el atrapado repite la salvación al instante). *(Máximo una criatura a la vez en la pesadilla.)*
 
 **Red Masiva (1/día).**  
-Como acción, Yrindra crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies. Todos los enemigos en el área deben hacer salvación de Destreza CD 17 o quedan paralizados por 1 turno.
+Como acción, Yrindra teje una red de telarañas dimensionales sobre 60 pies. Todos los enemigos en el área hacen salvación de Destreza CD 17 o quedan **apresados** (escapar: acción, Fuerza CD 17, o 10 de daño cortante a los hilos). Terreno difícil en toda el área hasta el final de su siguiente turno.
 
 **Portal de Ejército (1/día).**  
 Como acción, Yrindra abre un portal que trae 1d3 guerreros drow (CR 3 cada uno) que luchan por Yrindra hasta ser derrotados.
@@ -136,9 +136,9 @@ Yrindra puede realizar **3 acciones legendarias por ronda**, eligiendo entre las
 | -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
 | **Red de Telaraña**        | 1 Acción   | Crea una red de telarañas dimensionales que atrapa a un enemigo, paralizándolo por 1 turno (DES CD 17)        |
 | **Portal a Menzoberranzan** | 1 Acción  | Abre un portal a Menzoberranzan que trae 1 drow guerrero (CR 3) que lucha por Yrindra                       |
-| **Dimensión de Pesadilla** | 2 Acciones | Atrapa a un enemigo en una dimensión de pesadilla donde debe superar una prueba de coraje para escapar (SAB CD 17) |
+| **Dimensión de Pesadilla** | 2 Acciones | Como su acción del mismo nombre (consume un uso diario; máx. 1 criatura dentro a la vez; escape automático a los 3 turnos) |
 | **Red Masiva**             | 2 Acciones | Crea una red de telarañas dimensionales que atrapa a todos los enemigos en 60 pies (DES CD 17)               |
-| **Dimensión Colectiva**    | 3 Acciones | Atrapa a todos los enemigos en 60 pies en una dimensión de pesadilla colectiva (SAB CD 17)                   |
+| **Dimensión Colectiva**    | 3 Acciones · **1/combate** | Un vistazo colectivo a la pesadilla: todos los enemigos a 60 pies, SAB CD 17 o *asustados* de Yrindra hasta el final de su siguiente turno (no pueden acercarse a ella). **No** los saca del combate — les enseña lo que hay al otro lado |
 | **Red Cósmica**            | 3 Acciones | Crea una red de telarañas que cubre 90 pies, ralentizando a los enemigos atrapados (DES CD 17 o velocidad reducida a la mitad y desventaja en ataques 1 turno) |
 
 ---

@@ -27,7 +27,7 @@
 
 ## 📋 **PENDIENTES**
 
-- [ ] Tabla de tesoros menores por nivel (oro y baratijas de zona; casi todo el botín actual es "pieza de trama")
+- [x] ~~Tabla de tesoros menores~~ ✅ añadida al final del [catálogo de objetos](21_Objetos_Magicos_Reliquias.md) (1d10 por zona saqueable)
 - [ ] Tablas de nombres (NPCs chronianos, oceánicos, lugares)
 
 ---

@@ -47,6 +47,11 @@ Edward Teach NO es solo un oportunista que roba poder. Es el **único lugartenie
 - Convertirse él mismo en dios, traicionando a Manshoon en el momento perfecto
 - **Fingir lealtad** mientras acumula poder en secreto
 
+**Las tres preguntas que hará la mesa (respuestas canónicas):**
+- **¿Cómo lo supo?** Nadie se lo contó entero: **lo compró y lo dedujo.** Veinte años cenando con los Oceánicos oyendo hablar de "el poder que los ancestros sabían encauzar"; los primeros hilos sueltos comprados a **Yrindra** (que vende a todos); y el golpe de genio propio: entender que la Perla y el Cronómetro no son reliquias ceremoniales sino **tecnología chroniana de manejo divino** — dos piezas que los propios pueblos ya no sabían leer. Teach no descubrió un secreto: **ensambló uno** con piezas que todos tenían delante.
+- **¿Por qué no robó la llave chroniana, si saqueó los dos sitios donde reposa?** Porque **Teach roba lo que late.** Su talento —el único del elenco— es *interceptar poder vivo*; la llave es saber de **contención**: dos piedras mudas y unas palabras que no contienen ni un vatio de poder que robar. Las tuvo al alcance y las descartó como baratijas de culto — el error de un genio del robo que no distingue valor de potencia. *(Cuando entienda su error, en la Torre, ya será tarde: esa es su tragedia.)*
+- **¿Cómo conoce la entrada de la Torre?** Se la **compró a Yrindra** — la Tejedora la descubrió espiando los canales y la vendió cara (por eso ambos pueden revelarla, Cap. 15). Yrindra, claro, se reservó una copia del recibo.
+
 **Consecuencias para la Campaña:**
 - Teach es el **único lugarteniente realmente peligroso** para el plan de Manshoon
 - Puede convertirse en **aliado temporal de los PJ** si descubren la verdad
@@ -168,7 +173,7 @@ Como acción, Teach abre un portal a otro mundo y trae 1d4 criaturas aleatorias 
 | **16-18** | **Elemental de Fuego** | 5 | Espíritu de fuego que quema todo |
 | **19-20** | **Demonio Mayor Menor (hezrou)** | 6 | Demonio robusto con múltiples ataques |
 
-**Nota**: Las criaturas invocadas permanecen en el campo de batalla hasta ser derrotadas o hasta que Edward Teach muera.
+**Nota**: Las criaturas invocadas permanecen en el campo de batalla hasta ser derrotadas o hasta que Edward Teach muera. **Statblocks:** usa los del Manual de Monstruos más cercanos; los marcados "menores" (vrock, hezrou) son la versión con la **mitad de PG** y sin sus habilidades de área (esporas/hedor), para respetar el CR listado.
 
 ---
 

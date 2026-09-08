@@ -131,7 +131,7 @@ Al encajar las dos mitades por primera vez, el keystone **tira del otro extremo 
 > "Bien. *Muy* bien. Hacía décadas que nada me obligaba a soltar el ritual con las dos manos. Veamos qué opináis de mi colección: cada uno de mis lugartenientes me devuelve ahora lo prestado… con intereses. ¿No os parece justo? Todo el que me sirve acaba sirviéndome **entero**."
 
 **Transición a Fase 3** *(al agotar la segunda barra — el ritual se desestabiliza)*:
-> "No. **No.** ¿Sabéis lo que cuesta encadenar a un dios? ¿Dos? Siglos escondido mientras copias baratas de mí paseaban mi cara por Faerûn — ¡y vais a arruinarlo unos mercenarios con una piedra rota! Se acabó la aritmética. Si no puedo ascender ordenadamente… ascenderé **ardiendo**."
+> "No. **No.** ¿Sabéis lo que cuesta encadenar a un dios? ¿Dos? Décadas escondido mientras copias baratas de mí paseaban mi cara por Faerûn — ¡y vais a arruinarlo unos mercenarios con una piedra rota! Se acabó la aritmética. Si no puedo ascender ordenadamente… ascenderé **ardiendo**."
 
 **Últimas palabras** *(al caer la Fase 3)*:
 > "Qué extraño… De todos los futuros que compré… en ninguno estabais… vosotros. Decidle al resto de *mí*… que estuve… tan cerca…"
@@ -224,7 +224,7 @@ Como acción, Aethernus manipula el tiempo en un radio de 60 pies. Todas las cri
 
 ---
 
-### **🟡 FASE 2 — "El Cónclave Encarnado" (130 HP)**
+### **🟡 FASE 2 — "Los Conductos Encarnados" (130 HP)**
 
 *Al caer la primera barra, Aethernus invoca los fragmentos de poder de sus lugartenientes. Pierde la regeneración pero gana acceso a los poderes robados de los lugartenientes que sigan vivos.*
 
@@ -302,7 +302,7 @@ Como acción, Aethernus crea un campo de 60 pies donde tiempo y espacio se disto
 2. Mantiene distancia y usa *Paso Dimensional* (legendaria) para no quedar arrinconado
 3. Castiga al melee con *Espada de Poder Divino* y la regeneración de 10 HP/turno
 
-### **Fase 2 — El Cónclave Encarnado (130 HP)**
+### **Fase 2 — Los Conductos Encarnados (130 HP)**
 - En la transición usa *Llamada a Lugartenientes* (1/combate) si quedan vivos
 - Combina sus ataques con los *Poderes de Lugartenientes* que aún conserve
 - Usa *Extracción de Poder* para debilitar al PJ más peligroso y recuperar HP

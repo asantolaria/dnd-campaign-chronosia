@@ -2,7 +2,7 @@
 
 ![Mapa de El Jardín de los Tiempos Gemelos](../assets/mapas/02_jardin-tiempos-gemelos.png)
 
-> **Región dimensional/temporal (compartida)** · **Lugartenientes:** Medusa la Eterna (estasis) y Las Gemelas del Espejo (dimensión espejo) · **Nivel:** 5-8 · **Puerta:** **abierta desde el inicio** (región de entrada, más dura) · **Aliables:** las Gemelas pueden cambiar de bando.
+> **Región dimensional (compartida — la lección de Voidar)** · **Lugartenientes:** Medusa la Eterna (estasis: espacio fijado) y Las Gemelas del Espejo (dimensión espejo) · **Nivel:** 5-8 · **Puerta:** **abierta desde el inicio** (región de entrada, más dura) · **Aliables:** las Gemelas pueden cambiar de bando.
 
 El Jardín de los Tiempos Gemelos es un parque amurallado partido en dos mitades que se reflejan como las dos hojas de un libro abierto. A poniente, el **ala helada**: setos blancos de escarcha, un estanque congelado y estatuas que solo se mueven cuando nadie las mira. A levante, el **ala viva**: la misma geometría exacta pero invertida —la izquierda donde debería ir la derecha—, un estanque negro que llora y un templo en la colina. Entre ambas, una fuente vierte un agua que devuelve voces que nadie ha dicho aún. Aquí el tiempo no avanza ni retrocede: se *detiene*. Una flor a medio abrir lleva ochocientos años a medio abrir. Y cada superficie pulida —cada espejo, cada charco, cada hoja de cristal— esconde un mundo idéntico y al revés, donde tu reflejo ha aprendido a odiarte.
 
@@ -64,7 +64,7 @@ Un bosquecillo de árboles sin hojas plantados entre menhires, en el borde norte
 
 > *Leído al entrar:* "Los árboles no tienen hojas: tienen *relojes* colgando de las ramas, cientos, parados todos a horas distintas. Bajo el más grande, un monje mediano sentado, petrificado de cintura para abajo, os mira girar la cabeza siguiéndoos con unos ojos demasiado vivos para una estatua. «No corráis», dice con voz de piedra. «Aquí el que corre, se queda.»"*
 
-**Encuentro con NPC — el Hermano Quill** (monje petrificado a medias; ver bestiario). Atrapado hace décadas, plenamente lúcido, sereno hasta lo inquietante. Es la **boca de la verdad** de esta ala y una **llave táctica**:
+**Encuentro con NPC — el Hermano Quill** (monje petrificado a medias; ver bestiario). Atrapado hace décadas, plenamente lúcido, sereno hasta lo inquietante. Es la memoria lúcida de esta ala y una **llave táctica**:
 
 > "Llevo aquí… no sé. Mucho. Lo bastante para entender lo que nadie quiere ver. ¿Sabéis por qué Medusa no me mató? Porque no *puede*. Ella no detiene la vida: detiene el **sitio**. Estoy fijo en este punto del mundo como un clavo en una tabla; el tiempo me pasa por encima, pero yo no puedo *moverme de aquí*, ni un dedo, ni un año. Eso no es poder sobre el tiempo, forasteros. Es poder sobre el **espacio**. Y no es suyo. Lo *bebe* de algo grande y encadenado, igual que el de la arena bebía del sol. Pero esto no es un sol. Es lo contrario de un sol."
 

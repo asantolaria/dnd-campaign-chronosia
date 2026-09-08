@@ -220,16 +220,17 @@ Ignis es **Caótico Malvado** en su esencia más pura. No sigue ningún código,
 
 ## 🎣 **GANCHOS NARRATIVOS**
 
-### **⚠️ Sin Ganchos Narrativos Especiales**
-Ignis es principalmente un **enemigo a derrotar**. No tiene ganchos narrativos que permitan alianzas o interacciones especiales más allá del combate.
+### **🎣 Ganchos narrativos (el dragón negociable)**
+- **Subirle el precio:** Ignis es un socio comercial, no un fanático (ver *El trato con Avernus*). Un grupo que le demuestre que **Aethernus ascendido no pagará tributo a nadie** ("¿para qué te quiere un dios, dragón? los dioses no pagan") puede comprarle neutralidad temporal — nunca lealtad.
+- **Chantaje:** si Aethernus supiera del **desvío de almas** que Ignis cobra a Avernus… Los PJ que descubran el trato (atlas de Karkesh, Cap. 9; el Mausoleo, Cap. 13) tienen una palanca que un dragón respeta: la avaricia ajena.
+- **El tesoro que no es oro:** su verdadero tesoro son **contratos infernales y almas embotelladas** — botín peligrosísimo y semilla directa del gancho de Avernus del [Nexo Planar](../06_Nexo_Planar_y_Continuaciones.md).
 
 ### **🎭 Características Relevantes:**
-- **Líder del Bando Dimensional:** Dragón rojo ancestral extremadamente poderoso
-- **Influencia en los Nueve Infiernos:** Abre portales a los Infiernos para traer criaturas sin razón aparente
-- **Sembrando el caos:** No tiene objetivo estratégico - simplemente disfruta del caos y la destrucción
-- **Cristales de Poder:** Su región tiene la mayor concentración de cristales de poder (importante para La Resistencia pero extremadamente peligrosa)
-- **Conexiones planares:** Trae criaturas del Plano Elemental del Fuego y los Nueve Infiernos
-- **Caótico Malvado:** Actúa por impulso y deseo destructivo, sin código ni estructura
+- **Líder del Bando Dimensional:** dragón rojo ancestral, la fuerza mayor entre los conductos de Voidar
+- **El trato con Avernus:** mantiene la puerta abierta **porque le pagan** — cada portal es una cláusula; cerrárselos es tocarle el negocio
+- **Cristales de Poder:** su región tiene la mayor concentración (vital para La Resistencia, letal de cosechar)
+- **Conexiones planares:** Plano Elemental del Fuego y los Nueve Infiernos
+- **Caótico Malvado, pero con contabilidad:** el caos es el producto; la avaricia, el motivo
 
 
 ---

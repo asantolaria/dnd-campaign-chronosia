@@ -55,6 +55,8 @@ Bregan D'aerthe es una organización mercenaria drow contratada por Manshoon (us
 | Un "accidente" (sin nombres, sin preguntas) | 500 po y subiendo |
 | Un favor mayor | **No se paga en oro: se debe.** La deuda con Bregan D'aerthe es su moneda favorita — y siempre la cobran en el peor momento |
 
+**En combate:** Szordrin y Vezra usan el statblock de *Agente Infiltrado* (CR 4) e Ilvar el de *Operaciones Especiales* (CR 6) — ambos en [17_Monstruos](../../05_Apendices/17_Monstruos_Enemigos.md).
+
 ### **🕵️ Agentes Infiltrados**
 - **En los Cronófagos**: Espías que reportan actividades y debilidades
 - **En La Resistencia**: Informantes que conocen sus planes y tecnología

@@ -33,7 +33,7 @@
 | 1d6 | Encuentro | CR aprox. | Descripción breve |
 |-----|-----------|-----------|-------------------|
 | 1 | **Portal inestable** | — | Un portal de hielo se abre brevemente: 1d4 **elementales de agua** (CR 5) o **mephits de hielo** (CR 1/2, 2d4) salen antes de que se cierre. Combate o evasión. |
-| 2 | **Guardianes de hielo** | 5 | Estatuas de hielo animadas (usar **gólem de hielo** reducido o **elemental de hielo** refloreado) que vigilan un paso. 1d2 guardianes; atacan si los PJ no tienen señal de Ymir o no evitan la zona. |
+| 2 | **Guardianes de hielo** | 5 | Estatuas de hielo animadas (usar **gólem de hielo** reducido o **elemental de hielo** re-tematizado) que vigilan un paso. 1d2 guardianes; atacan si los PJ no tienen señal de Ymir o no evitan la zona. |
 | 3 | **Caravana de suministros** | 6 | Grupo de criaturas (2-3 **ogros** o **trolls** de hielo) transportando suministros entre portales. Pueden combatir o los PJ pueden intentar sabotear/robar (Sigilo CD 14). |
 | 4 | **Aurora temporal** | — | La aurora boreal parpadea con colores extraños; todos hacen tirada de **Sabiduría CD 12** o quedan **aturdidos** 1 ronda (el espacio "vibra"). Sin combate; efecto atmosférico. |
 | 5 | **Navegantes del frío** | 5 | 1d3 humanoides envueltos en hielo dimensional (usar **asesino** o **guerrero** con resistencia al frío) que se desplazan entre portales. Hostiles si los PJ interfieren con un portal. |

@@ -66,7 +66,7 @@ Recompensas pequeñas y mayormente fungibles. El grupo debe **notar** que la mag
 Aparecen las recompensas de trama de gama media, ligadas a derrotar lugartenientes y a las primeras alianzas.
 - **Botín de lugartenientes (componentes de artefacto):** **Núcleo Temporal** (de Serapis, parte del Rotor Infinito) y **Carcasa Dimensional** (de Ymir, su coraza helada) — se obtienen aquí pero el Rotor completo se ensambla más tarde.
 - **Arena del Tiempo Estabilizada:** botín de derrotar a Serapis; aquí cumple sobre todo función de **llave/desbloqueo** (acceso a Las Ruinas del Tiempo Perdido).
-- **Primeros objetos de facción (gama Raro):** Reloj de Estabilización Temporal, Gafas de Percepción Temporal, Brújula del Tiempo Verdadero (Anacronistas); Amuleto de Respiración Acuática, Escama de Oceánico (Oceánicos). Preferentemente como **recompensa de alianza/quest**, no por compra plena (ver tope).
+- **Primeros objetos de facción (gama Raro):** Gafas de Percepción Temporal, Brújula del Tiempo Verdadero (Anacronistas); Amuleto de Respiración Acuática, Escama de Oceánico (Oceánicos). *(El Reloj de Estabilización Temporal es **Muy Raro**: banda 7-9, no aquí.)* Preferentemente como **recompensa de alianza/quest**, no por compra plena (ver tope).
 - **Tecnología de la Resistencia (gama Raro):** Escudo Tecnológico, Detector de Magia, Neutralizador de Campo.
 
 ### Nivel 7-9 — Ensamblaje y objetos de lugarteniente
@@ -369,7 +369,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 - **Nota:** Las Gemelas son neutrales, no necesariamente hostiles - pueden ser aliadas potenciales
 
 **Uso Post-Obtención:**
-- **Desbloquea:** Permite acceder a Las Llanuras de la Compresión (región de Dimensionalis)
+- **Uso narrativo:** ayuda a navegar los pliegues de Las Llanuras de la Compresión — pero la puerta de esa región la abre **derrotar a Ignis** (Mapa de Puertas, Cap. 1), no este objeto
 - **Alternativa:** Si los PJ derrotan a Ignis primero, pueden acceder a la región sin el Espejo
 
 #### **📜 Historia:**
@@ -511,7 +511,7 @@ Un reloj de arena de 2 pies de altura con estructura de bronce antiguo. La arena
 - **Conocimiento Técnico:** Din Goldgear o un Artífice de nivel 9+ debe dirigir la construcción
 
 **Uso Post-Obtención:**
-- **Desbloquea:** Permite acceder a La Ciudad Subterránea de Veldrisza
+- **Uso narrativo:** abre atajos de excavación en el descenso a Veldrisza — pero la puerta de esa región la abre **derrotar a Ignis** (Mapa de Puertas, Cap. 1), no este objeto
 - **Alternativa:** Si los PJ derrotan a Edward Teach o reciben ayuda de Varrak del Horizonte (aliado), pueden acceder sin la Excavadora
 
 #### **📜 Historia:**
@@ -678,7 +678,7 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 **Ubicación:**
 - **Poseedores:** Cada lugarteniente activo tiene un anillo
 - **Estado:** Los anillos están vinculados mágicamente a sus portadores
-- **Distribución:** 6 anillos temporales (lugartenientes temporales) + 6 anillos dimensionales (lugartenientes dimensionales)
+- **Distribución:** temporales (Serapis, Tempus, Varrak, Thyra†), dimensionales (Ymir, Medusa, las Gemelas, Dimensionalis, Yrindra, Ignis), más Vorthak (vital) y Teach (anillo robado)
 
 **Cómo Obtenerlos:**
 1. **Derrotar a un Lugarteniente:** Al derrotar a un lugarteniente, su anillo puede ser obtenido
@@ -807,7 +807,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 | **Serapis el Retroceso** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
 | **Varrak del Horizonte** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
 | **Lord Vorthak "el Sediento Eterno"** | Temporal (drena vida) | Activo | Anillo Temporal | Puede ser obtenido |
-| **Las Gemelas del Espejo** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Las Gemelas del Espejo** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Tempus el Fragmentado** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
 | **Ymir el Eterno Invierno** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Thyra la Suspendida** | Temporal | ⚠️ Muerta | ❌ Desaparecido | Asesinada por Teach |
@@ -815,7 +815,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 | **Ignis el Devorador Espacial** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Matrona Yrindra** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Edward Teach "Barbanegra"** | Híbrido (poder robado) | Activo (crítico) | Anillo Robado | + los anillos de los que absorba |
-| **Medusa la Eterna** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
+| **Medusa la Eterna** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 
 **⚠️ NOTA:** El estado de los lugartenientes es **dinámico** y depende de las decisiones de los PJ durante la campaña. A los lugartenientes que los PJ no alcancen, **Edward Teach puede cazarlos y absorberlos** con su Talismán (crece cuanto más absorba antes que los PJ); sus anillos quedan entonces fuera del alcance del grupo.
 
@@ -1214,9 +1214,10 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 **CA:** +2
 
 **Propiedades:**
-- **Resistencia a Magia:** Reduce daño mágico a la mitad
-- **Bloqueo de Hechizos:** Puede bloquear hechizos de nivel 3 o inferior (1/día)
-- **Durabilidad:** 50 puntos de durabilidad (se repara con herramientas de herrero)
+- **Deflector Arcano (3/día, reacción):** al recibir daño de un conjuro o efecto mágico, reduce ese daño a la mitad
+- **Bloqueo de Hechizos:** puede bloquear por completo un hechizo de nivel 3 o inferior dirigido al portador (1/día)
+- **Durabilidad:** 50 puntos (se repara con herramientas de herrero)
+- *(Nota de balance: la versión antigua daba mitad de TODO el daño mágico de forma permanente — a 3.000 po rompía la banda 5-7. Ahora es un escudo de reacción, no una resistencia pasiva.)*
 
 #### **Trampa Mecánica Anti-Magia**
 ![Trampa Mecánica Anti-Magia](../../assets/objetos_magicos/22_trampa-antimagia.jpg)
@@ -1311,7 +1312,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 #### **🔧 Monitor Público del Contador del Ritual (Balanza de Chronosia)**
 ![Balanza de Chronosia](../../assets/objetos_magicos/11_balanza-chronosia.jpg)
 
-> **Nota:** es la cara pública del **Contador del Ritual** (ver arriba). No mide ningún "balance" entre tipos de lugartenientes: muestra a la ciudad cuántos segmentos quedan hasta que **la ascensión sea irreversible**.
+> **Nota:** es la cara pública del **Contador del Ritual** (ver arriba). No mide ningún "balance" entre tipos de lugartenientes: muestra a la ciudad cuántos segmentos quedan hasta que **la ascensión sea irreversible**. *(No confundir con el **medidor en %** del combate final: ese es un aparato propio de la Cámara de Ascensión, y arranca según el Reloj — la conversión exacta está en la escala del [Cap. 15](../../15_Climax_La_Torre.md): Reloj ≤4 → 40%, 5 → 50%, 6 → 65%, 7 → 80%.)*
 
 **📍 Cómo Obtenerlo:**
 - **Creación:** Din Goldgear y los Ingenieros/Artífices de Cronópolis lo construyen junto a los Anacronistas como pantalla pública conectada al Contador del Ritual
@@ -1783,3 +1784,19 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 
 *Este catálogo contiene todos los objetos mágicos y reliquias de la campaña Chronosia. Actualiza este documento cuando se añadan nuevos objetos o se modifiquen los existentes.* 💎✨
 
+---
+
+## 💰 Tesoros menores (la tabla que faltaba)
+
+> Casi todo el botín escrito de la campaña es "pieza de trama". Esta tabla llena los bolsillos: tira **1d10 una vez por zona saqueable** (guaridas de villanos menores, criptas, pecios) — o dos veces en guaridas de lugarteniente.
+
+| 1d10 | Hallazgo |
+|---|---|
+| 1-2 | **2d6×10 po** en moneda muerta: acuñaciones de reinos que ya no existen (los coleccionistas de Cronópolis pagan cara la historia; Vondrel, más) |
+| 3-4 | **Una gema temporal menor** (75 po): ámbar con un insecto que aún se mueve dentro, perla que muestra el ayer al trasluz, azabache frío al tacto |
+| 5 | **Recuerdo embotellado** (50 po, o impagable para su dueño): un frasquito chroniano con un momento dentro — descorcharlo lo reproduce una vez (5 segundos, solo imagen y sonido) |
+| 6 | **Herramienta chroniana intacta** (100 po): un nivel de burbuja que siempre está en hora, un compás que dibuja círculos perfectos en el aire, una llave que engrasa cualquier cerradura mundana |
+| 7 | **1d4 vales de la ciudad** (25 po cada uno en Cronópolis; papel mojado fuera) y una carta sin entregar — decide de quién, o usa el [diario de refugiada](../Handouts/Diario_de_un_Refugiado.md) |
+| 8 | **Munición rara**: 1d6 balas de plata fría (+1d4 de daño temporal, un uso) o 2 dosis de aceite cronal de Quintilla |
+| 9 | **Un mapa parcial verificado** de una región no visitada (ventaja en la primera tirada de viaje allí) — "verificado" significa que su dibujante sobrevivió |
+| 10 | **Consumible mayor**: poción de curación superior, o una **esquirla de estabilización** (1 uso: ventaja en una salvación contra efecto temporal o dimensional, luego se apaga) |

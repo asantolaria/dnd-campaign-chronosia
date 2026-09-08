@@ -12,13 +12,13 @@
 ══════════════════════════════════════════════════════
 ```
 
-## SE BUSCA — POR EL ROBO DE LA PERLA Y EL CRONÓMETRO DE REALIDADES
+## SE BUSCA — POR EL ROBO DEL CRONÓMETRO DE REALIDADES
 
 A todos los puestos, custodios y ciudadanos honrados de Cronópolis:
 
-Por la presente se declara la **busca y captura** del grupo de forasteros descrito al pie, sospechosos del **robo de dos reliquias mayores** custodiadas en el Santuario Suspendido:
+Por la presente se declara la **busca y captura** del grupo de forasteros descrito al pie, sospechosos del **robo de la reliquia mayor** custodiada en la Cámara del Tiempo:
 
-1. La **Perla** *(reliquia primigenia, sellada bajo triple guardia).*
+— El **Cronómetro de Realidades** *(el corazón de la muralla; sellado bajo triple guardia).* Se investiga además su posible vinculación con el **saqueo del templo sumergido de los del mar**, del que hablan los muelles.
 2. El **Cronómetro de Realidades** *(instrumento prohibido).*
 
 Ambas piezas desaparecieron la misma noche. La única puerta que no quedó cerrada por dentro fue aquella por la que **se vio entrar a los acusados**.
@@ -27,7 +27,7 @@ Ambas piezas desaparecieron la misma noche. La única puerta que no quedó cerra
 
 ## DECLARACIÓN DEL TESTIGO
 
-> «Los vi rondar el Santuario al caer la última campana. No eran de aquí, eso se notaba. Hablaban raro, miraban las cerraduras como quien mide a un enemigo. Cuando volví a pasar, las guardas estaban frías y la Perla ya no estaba. ¿Quién más iba a ser? Forasteros, recién llegados, sin nadie que responda por ellos.»
+> «Los vi rondar la Cámara al caer la última campana. No eran de aquí, eso se notaba. Hablaban raro, miraban las cerraduras como quien mide a un enemigo. Cuando volví a pasar, las guardas estaban frías y el Cronómetro ya no estaba. ¿Quién más iba a ser? Forasteros, recién llegados, sin nadie que responda por ellos.»
 >
 > — Testigo cuyo nombre se reserva por su seguridad
 
@@ -37,7 +37,7 @@ Ambas piezas desaparecieron la misma noche. La única puerta que no quedó cerra
 
 - Llegaron a Cronópolis **poco antes** del robo.
 - No tienen padrino ni fiador conocido en la ciudad.
-- Se les vio cerca del Santuario Suspendido la noche de autos.
+- Se les vio cerca de la Cámara del Tiempo la noche de autos.
 - _(Descripción a completar por el DM con los nombres y rasgos del grupo.)_
 
 ```
@@ -79,4 +79,4 @@ Se ofrece recompensa y olvido de deudas menores a quien colabore.
 
 ---
 
-> **Nota para el DM:** Este documento es una acusación **falsa o circunstancial**. El verdadero ladrón es **Edward Teach "Barbanegra"**, que robó la Perla y el Cronómetro la misma noche. Usa esta orden para poner a los PJ en el punto de mira en la Fase 1 y empujarles a limpiar su nombre rastreando al auténtico culpable.
+> **Nota para el DM:** Este documento es una acusación **falsa o circunstancial**. El verdadero ladrón es **Edward Teach "Barbanegra"** — el Cronómetro esa noche en Cronópolis (Hito 2); la Perla, semanas antes y a dos millas bajo el mar, en Abysara (Hito 1): por eso la Guardia solo puede *insinuar* lo de la Perla por rumores de puerto. Usa esta orden para poner a los PJ en el punto de mira en la Fase 1 y empujarles a limpiar su nombre rastreando al auténtico culpable.

@@ -38,7 +38,7 @@ Statblocks en [02_Guia_DM/04_Cronofagos_Detallado/](../02_Guia_DM/04_Cronofagos_
 | `04_edward-teach-barbanegra.jpg` | Edward Teach «Barbanegra» | `04_Edward_Teach_Barbanegra.md` |
 | `05_dimensionalis-la-fracturada.jpg` | Dimensionalis la Fracturada | `05_Dimensionalis_La_Fracturada.md` |
 | `06_ignis-el-devorador-espacial.jpg` | Ignis el Devorador Espacial | `06_Ignis_El_Devorador_Espacial.md` |
-| `07_matrona-veldrisza.jpg` | Matrona Veldrisza | `07_Matrona_Veldrisza_La_Tejedora_Dimensional.md` |
+| `07_matrona-veldrisza.jpg` | Matrona **Yrindra** (la persona; *Veldrisza* es su ciudad) | `07_Matrona_Veldrisza_La_Tejedora_Dimensional.md` |
 | `08_gemelas-del-espejo-lyra-nyx.jpg` | Las Gemelas del Espejo | `08_Las_Gemelas_Del_Espejo.md` |
 | `09_ymir-el-eterno-invierno.jpg` | Ymir el Eterno Invierno | `09_Ymir_El_Eterno_Invierno.md` |
 | `10_medusa-la-eterna.jpg` | Medusa la Eterna | `10_Medusa_La_Eterna.md` |

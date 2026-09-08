@@ -43,7 +43,7 @@ Hace más de 800 años, antes de que la batalla de los dioses devastara Chronosi
 
 ### **⚔️ La Gran División: La Batalla de los Dioses**
 
-Cuando Aethernus (Manshoon) inició la batalla entre **Amaunator** (Dios del Tiempo) y **Voidar** (Dios del Espacio), las distorsiones se extendieron por todo Chronosia. Los Chronianos se dividieron en dos facciones con filosofías opuestas sobre cómo sobrevivir:
+Cuando estalló la **Guerra de los Dioses** entre **Amaunator** (Tiempo) y **Voidar** (Espacio) —una guerra que nadie provocó y que Aethernus, siglos más tarde, se limitaría a perpetuar—, las distorsiones se extendieron por todo Chronosia. Los Chronianos se dividieron en dos facciones con filosofías opuestas sobre cómo sobrevivir:
 
 #### **🌊 Los que Eligieron las Profundidades: Los Oceánicos**
 

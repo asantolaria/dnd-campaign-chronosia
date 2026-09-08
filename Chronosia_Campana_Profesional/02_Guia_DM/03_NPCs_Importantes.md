@@ -117,6 +117,7 @@
 - **Importancia**: Puede ser aliado o enemigo según las circunstancias
 - **Motivación**: Sirve a Manshoon pero puede cambiar de bando
 - **Función**: Proporciona información y recursos, pero con un precio
+- **En combate** (si alguien comete ese error): usa el statblock de **asesino** (MM) con CA 18, 110 PG, **Resistencia Legendaria (1/día)** y ***Parada Portentosa*** (reacción: +5 a la CA contra un ataque) — CR ~8. Pero Jarlaxle no desenvaina si puede hablar, y hablar se le da mejor
 
 ### **👑 Manshoon - El Antagonista Principal**
 - **Descripción**: Humano anciano con personalidad megalómana
@@ -264,7 +265,7 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 
 **Poderes Únicos**:
 - **Inmunidad Mágica Total**: Prácticamente inmune a todos los efectos mágicos, incluyendo distorsiones temporales
-- **Viaje Interplanar**: Puede saltar entre planos a voluntad con su carromato mágico
+- **Viaje Interplanar (con el LÍMITE que define al personaje)**: su carromato salta entre los planos que *rozan* Chronosia… pero **no puede llevar pasajeros a través**. El peaje del carromato es antiguo y no negociable: **solo cruza lo que es suyo**. Lo intentó una vez, hace décadas, por lástima — el pasajero llegó al otro lado… *como parte del carromato*. (Hay una cara serena en la madera de la trasera; Zephyr le acerca el té las mañanas frías y no habla de ello.) Cuando los PJ pregunten lo inevitable —"¿cuánto por sacarnos?"— esa es la respuesta: Zephyr trae cosas y noticias; **no es una salida**, y quien insista puede conocer a la cara de la madera
 - **Adaptación Plana**: Su apariencia y habilidades se adaptan automáticamente a cada plano
 - **Detección de Valor**: Puede identificar instantáneamente el valor y utilidad de cualquier objeto
 - **Idioma Universal**: Puede comunicarse con cualquier ser inteligente en su idioma nativo
@@ -380,7 +381,7 @@ Los tres altos oficiales dan cara y voz a La Resistencia en el día a día. **El
 
 **Descripción Física**: Un enano robusto con una barba castaña salpicada de canas y manchada de aceite. Sus manos están cubiertas de cicatrices de quemaduras y cortes de años trabajando con metal caliente. Lleva siempre un delantal de cuero grueso y gafas de protección que se deslizan por su nariz cuando se concentra. Su voz es ronca y profunda, y habla con un acento enano marcado.
 
-**Historia Personal**: Balthar proviene de una familia de herreros enanos que se estableció en Chronosia hace generaciones. Perdió a su esposa y a sus dos hijos cuando un portal dimensional se abrió en su taller, arrastrándolos a otro plano. Desde entonces, ha dedicado su vida a desarrollar tecnología que pueda cerrar portales y neutralizar distorsiones espaciales. Es uno de los ingenieros más respetados de La Resistencia.
+**Historia Personal**: Balthar proviene de una familia de herreros enanos que se estableció en Chronosia hace generaciones. Su esposa y sus dos hijos cruzaron un **umbral helado de la Red de Ymir** huyendo de una redada cronófaga — y el umbral se cerró tras ellos. **No sabe si viven** en algún plano al otro lado; por eso su tecnología no busca solo cerrar portales: busca poder **abrirlos donde él diga**. (Ese matiz lo separa de Marcus, que perdió a los suyos para siempre: Balthar aún guarda esperanza, y la esperanza lo hace comprable con la moneda adecuada.) Es uno de los ingenieros más respetados de La Resistencia.
 
 **Personalidad y Características**:
 - **Perfeccionista Obsesivo**: Balthar es extremadamente meticuloso y detallista, a veces hasta el punto de la obsesión
@@ -578,7 +579,7 @@ Cronópolis es el único bastión seguro; en cada región hay poblados que viven
 
 ---
 
-## ⚔️ Lugartenientes del Cónclave
+## ⚔️ Los lugartenientes
 
 > La lista canónica de lugartenientes, sus poderes, regiones, CR y statblocks está en **[Cronófagos Detallado](04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)** (fuente de verdad). No la dupliques aquí.
 
@@ -612,7 +613,7 @@ Cronópolis es el único bastión seguro; en cada región hay poblados que viven
 
 ### **Descripción Física**
 - **Raza**: Humano (aunque tras siglos de abuso del poder temporal su cuerpo se distorsionó)
-- **Apariencia**: Un lado de su rostro es joven y hermoso, el otro un anciano moribundo con piel arrugada y ojos hundidos
+- **Apariencia**: Anciano de 60-70 años con vitalidad sobrenatural — coleta plateada, barba en punta, ojos que cambian del azul frío al rojo (descripción canónica completa en su [ficha](04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md)). *(El rostro mitad-niño mitad-anciano es el estigma de los cronófagos MENORES —Kaelthas lo luce en la Fase 0—: Aethernus, que bebe de la fuente y no del goteo, no paga ese precio. Esa perfección es su vanidad.)*
 - **Vestimenta**: Capa de hilos temporales que brillan con la luz de mil estrellas, corona de cristales que laten como corazones
 
 ### **Historia y Origen - LA REVELACIÓN**

@@ -59,7 +59,7 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Raza**: Enano maestro armero
 - **Especialidad**: Diseña pistolas pesadas y martillos que disparan runas de acero
 - **Personalidad**: Obsesivo con la perfección mecánica, desprecia cualquier cosa que no sea "natural"
-- **Historia**: Perdió a su esposa y a sus dos hijos cuando un portal dimensional se abrió en su taller (el brazo perdido es el del **Capitán Marcus**, su líder — ver [PNJs](../03_NPCs_Importantes.md)); desde entonces forja dispositivos que cierran portales para que a nadie más le pase
+- **Historia**: Su familia cruzó un umbral de la Red de Ymir huyendo de una redada y el portal se cerró tras ellos — **no sabe si viven**; forja tecnología que cierre portales… y que algún día le abra el suyo (el brazo perdido es el del **Capitán Marcus**, su líder — ver [PNJs](../03_NPCs_Importantes.md))
 
 ### **⚙️ Lucienne Rietveldt - Maestra Ingeniera**
 - **Raza**: Humana ingeniera
@@ -68,11 +68,12 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Historia**: Su familia fue asesinada por cronófagos, ahora dedica su vida a crear armas que los destruyan
 - **🔍 Descubrimiento Crítico**: Lucienne ha descubierto cómo funciona el sistema de reclutamiento interplanar de Ymir el Eterno Invierno. A través de años de observación y análisis de los portales en Glacialis, ha documentado los patrones de activación, planos conectados, frecuencia de transporte, puntos débiles y rutas de suministro. Esta información es crucial para las misiones de La Resistencia destinadas a limitar los suministros de los Cronófagos.
 
-### **🔨 Kaoros el Sordo - Maestro Constructor**
-- **Raza**: Semi-orco veterano de guerra
-- **Historia**: Perdió el oído por un estallido mágico. Ahora caza magos con odio visceral
-- **Especialidad**: Combate cuerpo a cuerpo con armas de fuego
+### **🔇 Kaoros el Sordo - Maestro de Comunicaciones**
+- **Raza**: Humano (45 años, cicatriz en la mejilla izquierda)
+- **Historia**: Perdió el oído en una "explosión mágica" hace quince años. Coordina las comunicaciones y la inteligencia de todas las células
+- **Especialidad**: Lectura de labios, señas, sistemas de comunicación; estratega paciente
 - **Característica**: A pesar de su sordera, puede "sentir" la magia a través de vibraciones mecánicas
+- **⚠️ Ver su ficha completa en [PNJs importantes](../03_NPCs_Importantes.md)** — hay más de lo que La Resistencia sabe
 
 ---
 

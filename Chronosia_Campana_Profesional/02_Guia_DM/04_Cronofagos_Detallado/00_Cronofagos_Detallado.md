@@ -1,6 +1,9 @@
 # ⚔️ Los Cronófagos — Devoradores del Tiempo y el Espacio
 
-> **⚖️ Regla de mesa (todas las fichas):** cuando una habilidad existe como **acción con usos limitados** (X/día, 1/combate) *y también* como **acción legendaria**, usarla como legendaria **consume un uso** del límite. Sin usos restantes, la versión legendaria tampoco está disponible. *(Afecta a Vorthak, Yrindra, Medusa e Ignis, entre otros.)*
+> **⚖️ Reglas de mesa (todas las fichas):**
+> 1. **Legendaria consume uso:** cuando una habilidad existe como acción con usos limitados (X/día, 1/combate) *y también* como acción legendaria, usarla como legendaria **consume un uso** del límite. Sin usos, tampoco hay versión legendaria.
+> 2. **Envejecimiento mágico:** los años robados pesan — por cada **10 años acumulados** en una misma aventura, la criatura gana **1 nivel de agotamiento**, que no se elimina con descanso mientras los años no se recuperen (*restauración mayor* elimina años y agotamiento; la restauración de la región al caer su lugarteniente detiene el envejecimiento pero **no devuelve** los años). Las canas y arrugas son inmediatas: descríbelas siempre.
+> 3. **"Confundido":** salvo que la ficha diga otra cosa, una criatura *confundida* actúa bajo los efectos del conjuro *confusión* y **repite la salvación al final de cada uno de sus turnos**.
 ## *La Fuerza Militar de Aethernus Valcarys*
 
 > **Este archivo es el ÍNDICE MAESTRO de los lugartenientes.** Cada ficha individual (`01`–`12`) contiene el statblock completo, las acciones legendarias actualizadas, las tácticas y el efecto al morir. Aquí solo encontrarás el resumen y los enlaces; **no se reproducen statblocks** (vivían aquí desactualizados).

@@ -74,7 +74,7 @@ Serapis viste capas con arena que fluye hacia arriba, desafiando la gravedad. Su
 ### **Rasgos Especiales**
 
 **Reversión Temporal (Recarga 5-6).**  
-Al final de cada turno, Serapis puede revertir hasta 10 puntos de daño recibido en ese turno, restaurando HP igual al daño revertido. Este poder representa su capacidad de "deshacer" las heridas.
+Al final de su turno, si esta habilidad está cargada, Serapis puede gastarla para revertir hasta 10 puntos del daño recibido desde su turno anterior, restaurando esos HP. Representa su capacidad de "deshacer" las heridas.
 
 **Arena del Pasado (1/día).**  
 Como acción, Serapis crea un campo de 30 pies de radio donde el tiempo fluye hacia atrás. Las criaturas en el área envejecen 1d4 años por turno, pero Serapis se rejuvenece igual cantidad, recuperando 1d4 HP por turno.
@@ -110,6 +110,17 @@ Como reacción, justo después de que un ataque le impacte o un enemigo complete
 Serapis **no tiene acciones legendarias**. Como primer lugarteniente y combate de introducción (nivel 4-5), su desafío proviene de su buen statblock, su movilidad temporal a distancia y su habilidad *Deshacer*, no de actuar fuera de su turno.
 
 ---
+
+## ⏫ **SERAPIS DE LA TRAICIÓN (Cap. 14) — la versión de Fase 3**
+
+> El Serapis de la Espiral es CR 5: perfecto a nivel 4-5, papel mojado a nivel 7-8. Para la batalla de la Traición usa **esta versión** — el conspirador con meses de preparación y el artilugio robado a Din.
+
+**Cambios sobre el statblock base — CR 8 (3.900 XP):** PG **190** (los rituales de Kaoros le han trenzado poder extra) · ataques **+9** · CD **16** · *Reversión Temporal* revierte hasta **20** · Salvaciones DES +8, INT +8, SAB +7 · **Resistencia Legendaria (2/día)**.
+
+***EL ARTILUGIO DE RETROCESO (la mecánica prometida):*** Serapis lleva al pecho el artilugio de Din, robado y pervertido, con **3-5 cargas visibles** — esferas de arena dorada que orbitan el aparato.
+- **Reinicio (automático):** cuando Serapis caería a 0 PG, el artilugio **gasta una carga** y **rebobina el combate al inicio de la ronda 1**: todos vuelven a sus posiciones iniciales, PG y recursos gastados *en este combate* restaurados (los suyos y los vuestros), y **todos recuerdan todo**. Los PJ conservan lo aprendido; las anclas/preparaciones destruidas siguen destruidas. Es desconcertante la primera vez y una cuenta atrás después: **hay que matarlo tantas veces como cargas queden.**
+- **Arrancar cargas:** en cada rebobinado, Serapis queda **trabado un instante** con el artilugio ardiendo — un PJ adyacente puede arrancarle una esfera (acción; Atletismo o Juego de Manos CD 16): ese reinicio cuesta **2 cargas**.
+- **A 0 cargas:** el artilugio queda **vacío** (la desolación de Din, Escena 4) y Serapis muere de verdad… hasta el Zin-Carla.
 
 ## 🎯 **TÁCTICAS DE COMBATE**
 

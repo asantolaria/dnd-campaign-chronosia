@@ -294,10 +294,10 @@ Ilustración pintada digital, estilo de los manuales oficiales actuales de Dunge
 Sujeto: Ignis el Devorador Espacial, dragón rojo colosal y ancestral; escamas que brillan como lava fundida, ojos como pozos de fuego que reflejan otras dimensiones. Tras él se abren portales ardientes al Plano Elemental del Fuego. Pose imponente y amenazante. Cuerpo entero, lámina de criatura, proporción 4:3 horizontal.
 ```
 
-### 🌌 Matrona Veldrisza, la Tejedora Dimensional *(Dimensional · Drow Matrona — ápice)*
+### 🌌 Matrona Yrindra, la Tejedora Dimensional *(Dimensional · Drow Matrona — ápice; su ciudad es Veldrisza)*
 ```
 Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico oscuro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
-Sujeto: Matrona Veldrisza, drow anciana de porte regio. Vestiduras de seda negra con patrones de telaraña dimensional; cabello plateado que se extiende como hilos de telaraña. Iconografía de Lolth (arañas). Al fondo, un gran portal-telaraña hacia Menzoberranzan. Energía dimensional violeta. Medio cuerpo, autoridad imponente, proporción 3:4.
+Sujeto: Matrona Yrindra, drow anciana de porte regio. Vestiduras de seda negra con patrones de telaraña dimensional; cabello plateado que se extiende como hilos de telaraña. Iconografía de Lolth (arañas). Al fondo, un gran portal-telaraña hacia Menzoberranzan. Energía dimensional violeta. Medio cuerpo, autoridad imponente, proporción 3:4.
 ```
 
 ### 🌌 Las Gemelas del Espejo — Lyra y Nyx *(Dimensional · Humanas gemelas)*
@@ -774,6 +774,24 @@ Sujeto: Tholassa de la Corriente Honda, una oceánica noble y solemne del pueblo
 ### 11.7 · Prop — el pergamino de la profecía de Varrak *(opcional)* — ✅ **generado**: `assets/handouts/prop-profecia-de-varrak.jpg`
 ```
 Fotografía cenital realista de un PROP de rol: un pergamino envejecido y manchado de círculos de taza de té, escrito a mano en tinta sepia con siete estrofas en caligrafía cuidada de escriba, sobre una mesa de madera oscura junto a una taza de té humeante. La TERCERA estrofa está QUEMADA: un agujero de bordes carbonizados se come el texto. Sin texto legible necesario (puede ser pseudoescritura); luz cálida de vela, proporción 3:4, sin marcas de agua.
+```
+
+### 11.8 · Mapa de Abysara *(la ciudad sumergida — la ausencia más notable del inventario)* — ⏳ **PENDIENTE**
+```
+Mapa/ilustración cenital-isométrica dibujada a mano para mesa de D&D, estilo cartografía clásica de manual de rol adaptada a ciudad submarina: pergamino envejecido con tinta sepia y acentos azul-verdosos luminosos, proporción 4:3.
+Tema: ABYSARA, ciudad chroniana sumergida a dos millas de profundidad — cúpulas de cristal como burbujas detenidas, calles de nácar, torres de coral, y en el centro una torre de cristal puro con un CORAZÓN DE LUZ BLANCA latiendo (un Cristal de Estabilización). Marca SOLO con números: 1) la Fosa del Canto (el descenso, un cable con nudos luminosos); 2) el Palacio de la Reina; 3) el Templo del Vacío (altar vacío rodeado de 47 lanzas clavadas en círculo); 4) los Archivos de Coral; 5) el Cristal Mayor. Caja «Leyenda» en español. Bancos de peces luminosos, oscuridad total más allá del resplandor urbano. Evita marcas de agua y estética de cómic.
+```
+
+### 11.9 · Battlemap — El Ojo del Tiempo *(guarida de Serapis, Cap. 4)* — ⏳ **PENDIENTE**
+```
+Battlemap en VISTA EN PLANTA (plano de suelo arquitectónico visto desde arriba) para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), estilo pintado a mano de mapa de encuentro profesional, proporción 1:1.
+Escenario: el corazón de un valle en espiral — una plataforma de cristal circular en el centro de un DOBLE VÓRTICE DE ARENA DORADA que gira hacia atrás (la arena asciende en espiral hacia una fina grieta luminosa). Al fondo, tallado en la pared de roca, un RELOJ DE ARENA GIGANTE. Pasarelas de roca en espiral llegando a la plataforma, dunas de arena dorada, y dos o tres formaciones de cristal como cobertura. Sin criaturas.
+```
+
+### 11.10 · Battlemap — El Portal de las Estrellas *(guarida de Ymir, Cap. 6)* — ⏳ **PENDIENTE**
+```
+Battlemap en VISTA EN PLANTA (plano de suelo arquitectónico visto desde arriba) para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), estilo pintado a mano de mapa de encuentro profesional, iluminación azul glacial, proporción 4:3.
+Escenario: el nodo central de una red de portales de hielo — una explanada de hielo pulido con un ANILLO DE ARCOS DE ESCARCHA de distintos tamaños dispuestos en círculo (cada arco es un portal; que se insinúen paisajes distintos en dos o tres), puentes de escarcha finos conectándolos, grietas en el hielo que dejan ver un vacío estrellado debajo, y al norte un GRAN PORTAL NEGRO cerrado, distinto a todos. Cajones de carga y jaulas de hielo como cobertura. Sin criaturas.
 ```
 
 ---

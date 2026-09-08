@@ -96,10 +96,10 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **Región** | **Lugarteniente** | **Tipo** | **Nivel** | **Puerta (qué la abre)** | **Fecha** | **Estado** | **Explorada** |
 |-----------|------------------|----------|-----------|-------------------------|-----------|------------|---------------|
 | **Cronópolis** (hub) | — | Centro Seguro | — | Siempre abierta | | ✅ Desbloqueada | |
-| **La Espiral Inversa** | Serapis | Temporal | 5-7 | Entrada abierta · da el Núcleo del Rotor | | 🔓 Desbloqueada | |
-| **Glacialis** | Ymir | Dimensional | 5-7 | Entrada abierta · da la Carcasa del Rotor | | 🔓 Desbloqueada | |
+| **La Espiral Inversa** | Serapis | Temporal | 4-7 | Entrada abierta · da el Núcleo del Rotor | | 🔓 Desbloqueada | |
+| **Glacialis** | Ymir | Dimensional | 4-7 | Entrada abierta · da la Carcasa del Rotor | | 🔓 Desbloqueada | |
 | **El Abismo de los Posibles** | Varrak | Temporal | 5-8 | Entrada abierta (más dura: entra con nivel) | | 🔓 Desbloqueada | |
-| **El Jardín de los Tiempos Gemelos** | Medusa + Las Gemelas | Temporal | 5-8 | Entrada abierta (más dura: entra con nivel) | | 🔓 Desbloqueada | |
+| **El Jardín de los Tiempos Gemelos** | Medusa + Las Gemelas | Dimensional (×2) | 5-8 | Entrada abierta (más dura: entra con nivel) | | 🔓 Desbloqueada | |
 | **El Archipiélago de Barbanegra** | Edward Teach | Híbrido (crítico) | 7-9 | Motor de Viento (Rotor: cualquier temporal + cualquier dimensional) | | 🔒 → 🔓 (Motor construido) | |
 | **Las Ruinas del Tiempo Perdido** | Tempus | Temporal | 8-10 | Requiere una Arena del Tiempo (cualquier lugarteniente temporal) | | 🔒 | |
 | **La Mansión de la Sed Eterna** | Vorthak | Temporal | 8-10 | Alto nivel (ver Mapa de Puertas) | | 🔒 | |
@@ -162,8 +162,8 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **Dimensionalis** | Dimensional | ✅ Activo   | —                    | Las Llanuras de la Compresión | Independiente             |
 | **Ignis**         | Dimensional | ✅ Activo   | —                    | Las Calderas Dimensionales | Líder Bando Dimensional (crítico) |
 | **Yrindra**     | Dimensional | ✅ Activo   | —                    | La Ciudad Subterránea de Veldrisza | Aliada de Ignis      |
-| **Las Gemelas**   | Temporal    | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos | Neutral; eligen en Fase 3 |
-| **Medusa**        | Temporal              | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos |                        |
+| **Las Gemelas**   | Dimensional | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos | Neutral; eligen en Fase 3 |
+| **Medusa**        | Dimensional           | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos |                        |
 | **Tempus**        | Temporal              | ✅ Activo   | —                    | Las Ruinas del Tiempo Perdido |                          |
 | **Ymir**          | Dimensional           | ✅ Activo   | —                    | Glacialis                 |                               |
 | **Aethernus Valcarys (Manshoon)** | BBEG | ✅ Recluido → ⚔️ Clímax | —                    | Torre de la Eternidad     | Ejecutando el ritual; el clímax es el asalto a la Torre cuando el Reloj llega a 8/8 |
@@ -197,9 +197,9 @@ Cada lugarteniente porta un **anillo de poder** (canalizador de Aethernus) y, en
 | **Serapis** | Temporal | Activo / Muerto | Sí / No | Arena del Tiempo · Núcleo (Rotor) | | |
 | **Varrak** | Temporal | Activo / Muerto | Sí / No | — | | |
 | **Vorthak** | Temporal | Activo / Muerto | Sí / No | — | | Lugarteniente CRÍTICO |
-| **Las Gemelas** | Temporal | Activo / Muerto | Sí / No | Espejo de Realidad Fragmentada | | |
+| **Las Gemelas** | Dimensional | Activo / Muerto | Sí / No | Espejo de Realidad Fragmentada | | |
 | **Tempus** | Temporal | Activo / Muerto | Sí / No | — | | |
-| **Ymir** | Temporal | Activo / Muerto | Sí / No | Carcasa Helada (Rotor) | | |
+| **Ymir** | Dimensional | Activo / Muerto | Sí / No | Carcasa Dimensional (Rotor) | | |
 | **Dimensionalis** | Dimensional | Activo / Muerto | Sí / No | — | | |
 | **Ignis** | Dimensional | Activo / Muerto | Sí / No | — | | Lugarteniente CRÍTICO |
 | **Yrindra** | Dimensional | Activo / Muerto | Sí / No | — | | |

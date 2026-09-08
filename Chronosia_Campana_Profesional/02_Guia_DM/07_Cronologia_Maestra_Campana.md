@@ -54,7 +54,7 @@ El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesion
 | Reloj ~2-3/8 | **Hito 1 · Robo de la Perla** — masacre de Abysara (47 guerreros Oceánicos) | Nace la vendetta oceánica |
 | Reloj ~3-4/8 | **Hito 2 · Robo del Cronómetro** — Teach descubre el vínculo Anacronistas-Abysara | Los PJ, sospechosos; Cronópolis vulnerable |
 | Reloj ~4-5/8 | **Hito 3 · Forja del Talismán** — isla secreta del Archipiélago | Única ventana presenciable; aun así se completa |
-| **SALTO** | **Hito 4 · Asesinato de Thyra** — el Reloj SALTA | Guerra espontánea; Teach empieza a absorber lugartenientes |
+| **SALTO (+2)** | **Hito 4 · Asesinato de Thyra** — el Reloj sube **2 segmentos de golpe** | Guerra espontánea; Teach empieza a absorber lugartenientes |
 | Fase 3 (Reloj alto) | **Varrak elige bando** (Cap. 8); las Gemelas se posicionan | Posible aliado oracular; sacrificio disponible a Reloj ≥6/8 |
 | Cierre de Fase 3 | **La Traición de Serapis** (Cap. 14): juicio de Marcus, revelación de Kaoros, batalla | El único "rebobinado" de la campaña (sacrificio de Varrak) |
 | Llave + entrada | **Llamada de los Dioses** (Cap. 15) — la Torre se hace visible | Empieza el clímax; Teach parte el primero si vive |
@@ -79,11 +79,11 @@ El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesion
 |---|---|---|---|---|
 | **Kaelthas** | — | Waterdeep (Fase 0) | Reloj de bolsillo destrozado, mapa parcial, diario | Existencia de los Cronófagos; el rastro a Chronosia |
 | **Serapis** | Temporal | La Espiral Inversa (Cap. 4) | **Núcleo Temporal** (= Arena del Tiempo) | Los lugartenientes **canalizan** a un dios cautivo |
-| **Las Gemelas** | Temporal | El Jardín de los Tiempos Gemelos (Cap. 5) | Núcleo Temporal · objetos de espejo | Origen de las gemelas; posible alianza en vez de combate |
-| **Medusa** | Temporal | El Jardín de los Tiempos Gemelos (Cap. 5) | Núcleo Temporal · objetos de estasis | Secretos del Jardín |
+| **Las Gemelas** | Dimensional | El Jardín de los Tiempos Gemelos (Cap. 5) | Carcasa Dimensional · objetos de espejo | Origen de las gemelas; posible alianza en vez de combate |
+| **Medusa** | Dimensional *(su "estasis" fija coordenadas — Voidar con disfraz)* | El Jardín de los Tiempos Gemelos (Cap. 5) | Carcasa Dimensional · objetos de estasis | Secretos del Jardín; la Estatua Velada |
 | **Ymir** | Dimensional | Glacialis (Cap. 6) | **Carcasa Dimensional** | Red de umbrales; reclutamiento interplanar |
 | **Tempus** | Temporal | Las Ruinas del Tiempo Perdido (Cap. 7) | Núcleo Temporal · tecnología chroniana | El mundo anterior a la fractura *(región pide una Arena del Tiempo)* |
-| **Varrak** | Temporal | El Abismo de los Posibles (Cap. 8) | *(su vía natural es la alianza, Cap. 8)* | Reclusión de Aethernus; **Teach es su punto ciego** |
+| **Varrak** | Temporal | El Abismo de los Posibles (Cap. 8) | *(alianza: puede **destilar un Núcleo Temporal** sin morir; derrotado, lo suelta)* | Reclusión de Aethernus; **Teach es su punto ciego** |
 | **Dimensionalis** | Dimensional | Las Llanuras de la Compresión (Cap. 9) | Carcasa Dimensional | Secretos que vendía como mercader de información |
 | **Yrindra** | Dimensional | La Ciudad de Veldrisza (Cap. 10) | Carcasa Dimensional | **La entrada de la Torre** (vía alternativa a Teach); conexión con Menzoberranzan |
 | **Edward Teach** ⚠️ crítico | Híbrido (poder robado) | El Archipiélago de Barbanegra (Cap. 11) | El Talismán y lo absorbido | **La entrada de la Torre**; su derrota **estanca el Reloj 2 hitos** |
@@ -120,7 +120,7 @@ El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesion
 ## 🗺️ El tablero (resumen)
 
 - **10 regiones** (Caps. 4-13) + **Cronópolis** (hub, Cap. 3) + el **Valle de la Aguja** (inaccesible) + la **Torre de la Eternidad** (clímax, Cap. 15).
-- **11 lugartenientes activos** + Thyra (caída): temporales **Serapis, Tempus, Medusa, las Gemelas, Varrak**; dimensionales **Ymir, Dimensionalis, Yrindra, Ignis**; **Teach** (híbrido, poder robado) y **Vorthak** (drena vida).
+- **11 lugartenientes activos** + Thyra (caída): temporales **Serapis, Tempus, Varrak**; dimensionales **Ymir, Medusa, las Gemelas, Dimensionalis, Yrindra, Ignis**; **Teach** (híbrido, poder robado) y **Vorthak** (drena vida).
 - **Críticos** (su derrota estanca el Reloj 2 hitos): **Teach, Ignis, Vorthak**. El resto son opcionales o aliables.
 - Gating completo en el [Mapa de Puertas](../01_Como_Dirigir.md); estado vivo de regiones y Reloj en las [tablas de tracking](../06_Recursos/Tablas/20_Tablas_Tracking_Campana.md).
 

@@ -9,10 +9,10 @@
 ## 📊 **INFORMACIÓN GENERAL**
 
 - **Raza:** Medusa Ancestral
-- **Tipo:** Temporal (Poder de Amaunator)
-- **Rol:** Lugarteniente Temporal
+- **Tipo:** **Dimensional (Poder de Voidar)** — su "estasis temporal" es un disfraz: no congela instantes, **fija coordenadas** (la trampa didáctica del Jardín, Cap. 5). Sus rasgos conservan el nombre "temporal" porque así los llama ella; su pieza de Rotor es una **Carcasa Dimensional**
+- **Rol:** Lugarteniente Dimensional
 - **Región:** El Jardín de los Tiempos Gemelos
-- **Nivel Recomendado:** 5-6
+- **Nivel Recomendado:** 5-8 (como su región)
 - **Bando:** Variable (puede aliarse con Las Gemelas u otros según decisiones)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 2+ lugartenientes)
 

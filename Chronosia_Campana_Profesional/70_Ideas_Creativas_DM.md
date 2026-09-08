@@ -14,7 +14,6 @@
 - [Dinámicas Narrativas Especiales](#-dinámicas-narrativas-especiales)
 
 ### **🎭 NPCs y Personajes**
-- [Dimensionalis la Fracturada - El Drow Traicionero](#-dimensionalis-la-fracturada---el-drow-traicionero)
 
 ### **🗃️ Material movido o retirado**
 - [Ver la lista](#-material-movido-o-retirado)
@@ -154,117 +153,9 @@ Un habitante que ha presenciado crímenes horribles pero teme hablar:
 
 ---
 
-## 🎭 **Dimensionalis la Fracturada - El Drow Traicionero**
-
-### **Concepto Central**
-Un Drow lugarteniente espacial que juega doble juego entre los PJ y El Eterno, proporcionando información a ambos bandos mientras mantiene sus propias agendas ocultas.
-
-### **Personalidad y Motivaciones**
-**Características Principales**:
-- **Inteligencia Superior**: Maestro de la manipulación y el engaño
-- **Ambición Desmedida**: Busca posicionarse para beneficiarse independientemente del resultado final
-- **Desconfianza Profunda**: No confía completamente en nadie, incluyendo a sus propios aliados
-- **Adaptabilidad**: Cambia de estrategia según las circunstancias y el poder relativo de cada bando
-
-**Motivaciones Secretas**:
-- **Supervivencia**: Quiere asegurar su posición independientemente de quién gane
-- **Poder Personal**: Busca acumular información y recursos para su propio beneficio
-- **Venganza Oculta**: Puede tener razones personales para traicionar a Aethernus
-- **Liberación**: Podría estar buscando una manera de liberarse del control de El Eterno
-
-### **Mecánicas de Doble Juego**
-
-#### **Información Verdadera que Proporciona a los PJ**
-- **Ubicaciones de Lugartenientes**: Información real sobre dónde encontrar otros lugartenientes
-- **Debilidades de Aethernus**: Conocimiento genuino sobre las limitaciones del villano principal
-- **Artefactos Temporales**: Ubicación de objetos de poder que pueden ayudar a los PJ
-- **Alianzas Secretas**: Información sobre otros lugartenientes que podrían ser convencidos de traicionar
-
-#### **Información Falsa que Proporciona a los PJ**
-- **Trampas**: Información sobre "ataques sorpresa" que en realidad son emboscadas
-- **Objetivos Falsos**: Dirige a los PJ hacia objetivos que benefician a Aethernus
-- **Aliados Falsos**: Presenta a espías como aliados potenciales
-- **Timing Incorrecto**: Información sobre cuándo actuar que los pone en desventaja
-
-#### **Información que Proporciona a El Eterno**
-- **Movimientos de los PJ**: Ubicación y planes de los personajes
-- **Fortalezas del Grupo**: Análisis de las capacidades y debilidades de los PJ
-- **Alianzas Externas**: Información sobre otros grupos de resistencia
-- **Recursos**: Ubicación de suministros y refugios de los PJ
-
-### **Dinámicas Narrativas**
-
-#### **Primer Encuentro**
-- **Apariencia**: Se presenta como un aliado potencial, mostrando descontento con El Eterno
-- **Prueba de Confianza**: Solicita que los PJ demuestren su valor antes de compartir información
-- **Información Parcial**: Proporciona información útil pero incompleta para ganar confianza
-- **Advertencias**: Advierte sobre peligros reales pero también sobre trampas que él mismo ha preparado
-
-#### **Desarrollo de la Relación**
-- **Creciente Confianza**: A medida que los PJ demuestran éxito, proporciona información más valiosa
-- **Revelaciones Graduales**: Expone gradualmente su conocimiento sobre El Eterno
-- **Misiones de Confianza**: Envía a los PJ en misiones que benefician tanto a ellos como a él
-- **Momento de Decisión**: Eventualmente debe elegir un bando definitivamente
-
-#### **Momento de Traición**
-- **Revelación Dramática**: Los PJ descubren su doble juego
-- **Justificación**: Explica sus razones, que pueden ser comprensibles o egoístas
-- **Oportunidad de Redención**: Puede ofrecer una última oportunidad de alianza genuina
-- **Consecuencias**: Sus acciones pasadas tienen repercusiones en la trama
-
-### **Puntos de Interés en su Fortaleza**
-
-#### **El Salón de las Traiciones**
-- **Dos Entradas Secretas**: Una para los PJ, otra para los emisarios de Aethernus
-- **Espejos de Espionaje**: Permiten observar conversaciones sin ser detectado
-- **Archivos de Información**: Contiene datos sobre ambas facciones
-- **Trampas de Compresión**: Defensas que aprovechan su poder espacial
-
-#### **Las Cámaras de Espionaje**
-- **Red de Informantes**: Conexiones con espías en múltiples ubicaciones
-- **Mapas de Movimientos**: Seguimiento de las actividades de ambas facciones
-- **Comunicaciones Secretas**: Sistemas para comunicarse con ambos bandos
-- **Evidencia de Traición**: Documentos que podrían incriminarlo
-
-### **Mecánicas de Juego Específicas**
-
-#### **Tiradas de Percepción/Insight**
-- **CD Variable**: Dependiendo de qué tan bien esté actuando Dimensionalis
-- **Información Contradictoria**: Los PJ pueden recibir pistas que se contradicen entre sí
-- **Momento de Revelación**: Un momento específico donde su verdadera naturaleza se revela
-
-#### **Consecuencias de las Acciones**
-- **Información Correcta**: Si los PJ siguen sus consejos verdaderos, obtienen ventajas
-- **Información Falsa**: Si siguen sus consejos falsos, enfrentan peligros adicionales
-- **Desconfianza**: Si los PJ sospechan demasiado pronto, puede cambiar de estrategia
-- **Confianza Excesiva**: Si confían demasiado, puede explotar esa confianza
-
-### **Posibles Resoluciones**
-
-#### **Aliado Genuino**
-- Los PJ logran convencerlo de unirse completamente a su causa
-- Proporciona información crucial para la batalla final
-- Se sacrifica para proteger a los PJ o completar una misión crítica
-
-#### **Enemigo Declarado**
-- Su doble juego es expuesto y se convierte en enemigo abierto
-- Utiliza toda su información contra los PJ
-- Puede convertirse en un obstáculo mayor que otros lugartenientes
-
-#### **Neutralidad Forzada**
-- Los PJ lo neutralizan sin matarlo, pero tampoco lo convierten en aliado
-- Se retira de la guerra, pero su información puede ser útil más tarde
-- Mantiene la posibilidad de reaparecer en momentos críticos
-
-### **Hooks Narrativos**
-- **Familia en Peligro**: Puede tener seres queridos que Aethernus mantiene como rehenes
-- **Deuda de Honor**: Podría deberle algo a uno de los PJ o sus aliados
-- **Objetivo Personal**: Podría estar buscando venganza contra otro lugarteniente específico
-- **Liberación**: Podría estar buscando una manera de liberarse del control de El Eterno
-
----
-
 ## 🗃️ **Material movido o retirado**
+
+- **Retirado — "Dimensionalis, el Drow Traicionero":** sección pre-v2 que la describía como drow con fortaleza de espías al servicio de "El Eterno". En el canon vigente Dimensionalis es **tiefling**, gobierna las Llanuras de la Compresión y su juego doble está integrado en el [Cap. 9](Capitulos_Regiones/09_Las_Llanuras_de_la_Compresion.md) y su [ficha](02_Guia_DM/04_Cronofagos_Detallado/05_Dimensionalis_La_Fracturada.md); el material drow vive en Veldrisza/Yrindra/Bregan D'aerthe.
 
 - **Gorath el Gigante Mordido** → integrado como villano menor en el [Cap. 12 · La Mansión de la Sed Eterna](Capitulos_Regiones/12_La_Mansion_de_la_Sed_Eterna.md) (statblock CR 6 + reserva mayor de Vorthak).
 - **La mazmorra de espejos de las Gemelas** → integrada como zona opcional **8b · La Galería de Azogue** en el [Cap. 5 · El Jardín de los Tiempos Gemelos](Capitulos_Regiones/05_El_Jardin_de_los_Tiempos_Gemelos.md). El combate canónico de Lyra y Nyx es el de su statblock (PG compartidos, 1 clon nerfeado) — la vieja mecánica de "vidas ligadas" queda retirada.
@@ -400,7 +291,7 @@ Los Cronófagos no son solo una secta religiosa fanática, sino una **organizaci
 
 ### **⚔️ Cronófago Luchador - Imagen de Referencia**
 
-**Archivo**: `assets/cronofago luchador.png`
+**Archivo**: `assets/bestiario/tropas/1_cronofago-tropa.jpg` *(versión actual)*
 
 **Descripción Visual Completa:**
 - **🔴 Uniforme y Armadura**: Túnica militar color vino tinto inspirada en uniformes de principios del siglo XX, con correajes de cuero, botones dorados y bolsillos tácticos. Armadura de placas metálicas desgastadas que insinúan múltiples campañas bélicas a través del tiempo.
@@ -427,7 +318,7 @@ Los Cronófagos no son solo una secta religiosa fanática, sino una **organizaci
 
 ### **🔮 Cronófago Lanzador de Conjuros - Imagen de Referencia**
 
-**Archivo**: `assets/cronofago lanzador conjuros.png`
+**Archivo**: `assets/bestiario/tropas/cronofago-lanzador-conjuros.jpg` *(versión actual)*
 
 **Descripción Visual Completa:**
 - **🔴 Uniforme y Armadura**: Túnica militar color vino tinto con correajes de cuero cruzados. Armadura ligera de cuero reforzada con placas metálicas pequeñas. Guantes de cuero con anillos de poder temporal. Bolsillos de componentes para materiales arcanos.
@@ -461,42 +352,7 @@ Los Cronófagos no son solo una secta religiosa fanática, sino una **organizaci
 
 ## 🎨 **TAREAS PENDIENTES DE IMÁGENES**
 
-### **🛡️ Sargentos Cronófagos - Imagen Pendiente**
-
-**Descripción Visual Requerida:**
-- **🔵 Uniforme y Armadura**: Túnica militar color azul con correajes de cuero cruzados. Armadura de placas metálicas en los brazos y placa en la zona del corazón. Placas desgastadas que insinúan múltiples campañas bélicas.
-
-- **⚔️ Armamento**: Dos espadas cortas gemelas con empuñaduras de guardia recta. Hojas afiladas que cambian de era según el combate. Canalización arcana para energías temporales/espaciales.
-
-- **🎭 Máscara**: Máscara de pico dorada con detalles plateados. Lentes circulares oscuros que reflejan la luz. Expresión completamente oculta para inhumanidad deliberada.
-
-- **🛡️ Accesorios**: Bandera púrpura oscura con emblema de reloj de arena. Casco de acero mate sobrio y funcional. **Corona con un sello en la frente indicando tiempo o dimensión**. **Bastón de mando con reloj de arena en la empuñadura**. Insignias de sargento en los hombros.
-
-**Elementos Distintivos:**
-- **Corona con sello** en la frente (tiempo o dimensión)
-- **Bastón de mando** con reloj de arena
-- **Placa en el corazón** además de las placas en los brazos
-- **Insignias de sargento** en los hombros
-
-### **🎖️ Oficiales Cronófagos - Imagen Pendiente**
-
-**Descripción Visual Requerida:**
-- **🔴 Uniforme y Armadura**: Túnica militar color vino tinto con correajes de cuero cruzados. Armadura de placas metálicas que cubre torso, brazos y piernas. Placas desgastadas que insinúan múltiples campañas bélicas.
-
-- **⚔️ Armamento**: Dos espadas cortas gemelas con empuñaduras de guardia recta. Hojas afiladas que cambian de era según el combate. Canalización arcana para energías temporales/espaciales.
-
-- **🎭 Máscara**: Máscara de pico dorada con detalles de platino. Lentes circulares oscuros que reflejan la luz. Expresión completamente oculta para inhumanidad deliberada.
-
-- **🛡️ Accesorios**: Bandera púrpura oscura con emblema de reloj de arena. Casco de acero mate sobrio y funcional. **Corona de mando con gemas temporales o dimensionales**. **Bastón de poder con reloj de arena o cristal dimensional**. Insignias de oficial en los hombros.
-
-**Elementos Distintivos:**
-- **Corona de mando** con gemas especializadas
-- **Bastón de poder** con reloj de arena o cristal dimensional
-- **Armadura completa** que cubre torso, brazos y piernas
-- **Insignias de oficial** en los hombros
-- **Detalles de platino** en la máscara
-
----
+> ✅ **Ya no queda ninguna:** el sargento y el oficial cronófagos existen (`assets/bestiario/tropas/2_cronofago-sargento.jpg`, `3_cronofago-oficial.jpg`) y el resto del arte está inventariado en [`assets/00_Indice_Visual.md`](assets/00_Indice_Visual.md). Los prompts canónicos para regenerar cualquier pieza viven en [`assets/Prompts_Arte_Chronosia.md`](assets/Prompts_Arte_Chronosia.md) — las descripciones estéticas de abajo son la referencia de *diseño*, no una lista de tareas.
 
 ## 🎭 **ESTÉTICA JERÁRQUICA DE LOS CRONÓFAGOS**
 

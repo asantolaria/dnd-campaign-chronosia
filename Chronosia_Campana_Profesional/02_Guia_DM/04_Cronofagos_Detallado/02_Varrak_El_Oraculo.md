@@ -56,10 +56,10 @@ Varrak habita en una región salvaje de estilo oriental, que evoca los paisajes 
 ---
 
 **Salvaciones:** INT +8, SAB +8, CAR +6  
-**Habilidades:** Arcano +8, Historia +8, Percepción +12, Persuasión +6, Religión +8  
+**Habilidades:** Arcano +8, Historia +8, Percepción +8, Persuasión +6, Religión +8  
 **Resistencias al Daño:** Temporal, psíquico  
 **Inmunidades a Condiciones:** Asustado, efectos de predicción/divinación enemigos  
-**Sentidos:** Visión en la oscuridad 120 pies, Percepción pasiva 22  
+**Sentidos:** Visión en la oscuridad 120 pies, Percepción pasiva 18  
 **Idiomas:** Común, Orco, Abisal, Primordial, todos los idiomas (a través de vidas pasadas)  
 **CR:** 9 (5,000 XP)
 

@@ -22,6 +22,19 @@ Es la pieza que cierra el arco de comprensión. La Espiral mostró *que* los lug
 
 La ciudad-reloj se recorre por las **calzadas de latón** que aún vibran con un tic-tac subterráneo — son los únicos caminos donde el tiempo fluye ordenado. Por ellas: **Refugio del Viajero → Archivo, 2 horas** entre engranajes-torre que giran sin engranar; Archivo → Gran Engramaje, 1 hora; Engramaje → Forja, 2 horas; Forja → Observatorio, 3 horas de rampas ascendentes; y desde allí, el **descenso por el Río de los Segundos Perdidos, 4 horas** hasta los Cañones de Tempus. El hito constante: el **Gran Engramaje**, cuya rueda mayor asoma sobre toda la ruina y marca el centro como una luna dentada. **Salirse de las calzadas** es pisar tiempo desordenado: Sabiduría CD 14 o el PJ vive 1d10 minutos *de otro siglo* (la ciudad intacta, una batalla antigua, un mañana en ruinas) y reaparece desorientado a 1d4×100 pies — sin daño, con información: cada extravío es una ventana al pasado (úsalo para sembrar la historia chroniana). En mesa: la región entera es **un arco** (+1 al Reloj). Encuentros: [tabla 1d6 de la región](../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).
 
+**Tabla 1d8 — Ventanas al pasado** *(qué siglo vive el extraviado; el mejor vehículo del lore de la región — tira o elige la que toque)*:
+
+| 1d8 | El extraviado vive 1d10 minutos en… |
+|---|---|
+| 1 | **El mercado vivo:** la ciudad-reloj en su esplendor — torres que cantan la hora, chronianos riendo. Al volver, el PJ sabe cómo era *exactamente* lo que se perdió |
+| 2 | **La playa de la partición:** dos multitudes despidiéndose en una costa; la mitad entra al mar llorando y cantando. Alguien parte una piedra en dos ante los sacerdotes |
+| 3 | **La noche de la fractura:** el cielo rompiéndose como vidriera; dos vastedades —una de oro, una de vacío— chocando sobre el horizonte. No se ve quién empezó. *Nadie lo vio* |
+| 4 | **La forja de los Cristales:** artesanos cantando a un cristal que late; el PJ ve el método (ventaja en la primera tirada que haga en la Forja del Éter, zona 3) |
+| 5 | **Tempus entero:** el gran reloj central *cuidando* la hora — un constructo hermoso afinando el mediodía como un músico. Duele compararlo con lo que queda |
+| 6 | **La llegada del extranjero:** un hombre elegante de coleta plateada caminando entre ruinas aún humeantes, midiendo a los dioses caídos como un joyero. (= el Eco 2 de Aethernus, si aún no lo han visto) |
+| 7 | **Un instante futuro:** el propio PJ, de espaldas, haciendo algo que aún no ha hecho. Elige tú qué — y anótalo: cuando ocurra de verdad, la mesa se acordará |
+| 8 | **El último cronista:** un chroniano anciano tallando el relieve de la llave (el de la [piedra de Rosetta](../06_Recursos/Handouts/Llave_Chroniana.md)) mientras dicta a un niño las palabras que Galen recita hoy sin entender |
+
 ---
 
 ## Recorrido por la región
@@ -42,6 +55,8 @@ La gnoma es **Veturia la Cronista** (NPC; ver más abajo), archivista de las rui
 Al noroeste del refugio, una biblioteca-bóveda hincada en la ladera, marcada en el mapa con un reloj de arena. Sus estantes guardan no libros, sino **fragmentos de tiempo cristalizados** —astillas que, al tocarlas, proyectan en la mente del que las sostiene un recuerdo del mundo que fue.
 
 > *Leído al entrar:* "Una bóveda llena de anaqueles, y en los anaqueles no hay libros: hay **astillas de cristal**, miles, cada una latiendo con una luz distinta. Cogéis una al azar y, de golpe, *estáis allí*: un mercado bajo un sol entero y cálido, gente de orejas largas riendo, torres que cantan la hora. Soltáis la astilla y volvéis, mareados, al frío. La astilla os ha dejado una cana nueva en la sien."*
+
+**El Índice Vivo (el desafío del Archivo):** las astillas no se cogen — **se piden**. Un modrón bibliotecario único, esférico y abollado, patrulla los anaqueles desde hace ochocientos años, y solo entrega astillas *"a quien esté en hora"*: hay que **sincronizarse con el tictac de la ruina** — marcar su compás con el cuerpo un minuto entero (Interpretación o Inteligencia CD 14; el aceite cronal de Quintilla untado en las muñecas da ventaja; a Veturia la reconoce y no le pide nada). Quien falla no es castigado: el Índice le entrega **astillas al azar** (tira dos veces en la tabla de Ventanas al pasado en lugar de elegir tema). Atacarlo es inútil y grosero: se pliega en sí mismo y el Archivo entero se cierra 24 horas.
 
 **Qué hay:** el corazón documental de la pieza. Cada astilla es un recuerdo del **mundo anterior a la fractura**. Tocarlas envejece levemente (sabor; sin penalización mecánica seria salvo abuso) pero revela la historia por capas:
 - *Astilla del mercado:* los **Chronianos**, un pueblo próspero que vivía "entre las dos fuerzas".

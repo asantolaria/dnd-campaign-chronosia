@@ -123,7 +123,7 @@ Como acción, ambas gemelas atacan simultáneamente desde dimensiones opuestas. 
 Como acción, las Gemelas invierten completamente la realidad en 30 pies, confundiendo a todos los enemigos sobre qué es real. Todos los enemigos en el área deben hacer salvación de Sabiduría CD 15 o quedan confundidos hasta el final de su siguiente turno.
 
 **Colapso Dimensional (1/día).**  
-Como acción, las Gemelas colapsan la dimensión espejo, atrapando a los enemigos en un laberinto de reflejos. Todos los enemigos en 30 pies deben hacer salvación de Sabiduría CD 15 o quedan atrapados (incapacitados) hasta que usen su acción para superar una nueva salvación CD 15 y encontrar el camino de regreso (al final de cada uno de sus turnos repiten la salvación).
+Como acción, las Gemelas colapsan la dimensión espejo, atrapando a los enemigos en un laberinto de reflejos. Todos los enemigos en 30 pies deben hacer salvación de Sabiduría CD 15 o quedan atrapados (*incapacitados*); repiten la salvación al final de cada uno de sus turnos, liberándose con un éxito.
 
 ---
 

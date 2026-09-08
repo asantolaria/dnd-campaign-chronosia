@@ -91,7 +91,7 @@ RELOJ DEL RITUAL — Ascensión de Aethernus
 | Hacéis una **travesía larga** (un viaje que es un arco: cruzar el mar muerto, bajar al ala profunda) |
 | Pasa una **temporada de inactividad** en Cronópolis (descanso o investigación larga) |
 
-De 2 a 8 hay **~6 hitos** → caben **~5-6 regiones** en las ~14-15 sesiones. Que dejen zonas sin ver **es el punto**, no un fallo.
+De 2 a 8 hay **~6 hitos**, y el **SALTO de Thyra consume 2 de golpe** (Cap. 14) → sin frenar nada caben **~4 regiones**; cada crítico cortado devuelve 2 respiros, hasta las **~5-6 regiones** típicas en ~14-15 sesiones. Que dejen zonas sin ver **es el punto**, no un fallo.
 
 **Estancar (ganar tiempo, nunca rebobinar):**
 
@@ -133,12 +133,12 @@ Así, **cuatro regiones están abiertas desde el inicio** (Espiral, Glacialis, J
 ### El Motor de Viento (la puerta del Archipiélago)
 El mar que rodea el Archipiélago está en **calma muerta**: ningún barco avanza. Para cruzarlo, los Anacronistas montan el **Motor de Viento**, que necesita el **Rotor Infinito**. Y el Rotor se ensambla con **dos piezas que sueltan los lugartenientes al caer** —una de cada tipo de conducto divino—:
 
-- **Núcleo Temporal** — el corazón de un **conducto de Amaunator (Tiempo)**. Lo deja **cualquier lugarteniente temporal**: **Serapis** (Espiral), **las Gemelas** o **Medusa** (Jardín), **Tempus**…
-- **Carcasa Dimensional** — la coraza de un **conducto de Voidar (Espacio)**. La deja **cualquier lugarteniente dimensional**: **Ymir** (Glacialis), **Dimensionalis**, **Yrindra**, **Ignis**…
+- **Núcleo Temporal** — el corazón de un **conducto de Amaunator (Tiempo)**. Lo deja **cualquier lugarteniente temporal**: **Serapis** (Espiral, entrada abierta), **Tempus** (Ruinas)… y hay una vía **sin sangre**: **Varrak aliado** (Abismo, entrada abierta) puede **destilar un Núcleo de su propia esencia** para quien se gane su confianza — la recompensa del camino diplomático.
+- **Carcasa Dimensional** — la coraza de un **conducto de Voidar (Espacio)**. La deja **cualquier lugarteniente dimensional**: **Ymir** (Glacialis, entrada abierta), **Medusa** o **las Gemelas** (Jardín, entrada abierta), **Dimensionalis**, **Yrindra**, **Ignis**…
 
 Combina **uno de cada tipo** y tienes el Rotor. **Serapis e Ymir son los más accesibles** (regiones de entrada), pero **no obligatorios**: el grupo elige a quién cazar. La puerta premia derrotar lugartenientes, sin forzar dos en concreto.
 
-> **Lugartenientes por aspecto** (de qué dios son conducto): **Temporales (Amaunator)** — Serapis, Tempus, Medusa, las Gemelas. **Dimensionales (Voidar)** — Ymir, Dimensionalis, Yrindra, Ignis. *(Vorthak drena vida: no da pieza de Rotor.)*
+> **Lugartenientes por aspecto** (de qué dios son conducto): **Temporales (Amaunator)** — Serapis, Tempus y Varrak (el oráculo no suelta pieza al morir, pero **aliado puede destilarla**). **Dimensionales (Voidar)** — Ymir, **Medusa**, **las Gemelas**, Dimensionalis, Yrindra, Ignis. *(Vorthak drena vida: no da pieza de Rotor. Y ojo con Medusa: su "estasis temporal" es la trampa didáctica del Jardín — no congela instantes, **fija coordenadas**; es Voidar con disfraz, como enseña el Cap. 5.)*
 
 El **Valle de la Aguja** (Thyra) es **inaccesible** para los PJ: solo Teach, con el Talismán, puede entrar.
 

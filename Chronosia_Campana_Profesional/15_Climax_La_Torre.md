@@ -46,7 +46,7 @@ Y entonces los héroes echan a correr hacia una torre que existe en varias dimen
 
 ## El asalto, nivel a nivel
 
-La Torre se sube de abajo arriba, y el mapa lo dice todo: cuatro niveles encajados como las cámaras de un reloj de arena. Entre nivel y nivel hay **antesalas** donde todos los que entraron —PJ, Teach, lugartenientes vivos— se ven y se oyen pero **no pueden atacarse**, y donde el **medidor del ritual** cuelga del aire, visible, subiendo. La antesala es el respiro y la amenaza: nadie puede tocar a nadie, pero todos ven el porcentaje trepar, y nadie ha olvidado lo que viene arriba.
+La Torre se sube de abajo arriba, y el mapa lo dice todo: cuatro niveles encajados como las cámaras de un reloj de arena. Entre nivel y nivel hay **antesalas** donde todos los que entraron —PJ, Teach, lugartenientes vivos— se ven y se oyen pero **no pueden atacarse**: en las junturas de la Torre el tiempo está **embalsado** — el instante en que tu espada caería *aún no existe ahí* (los ataques simplemente no llegan a ocurrir; descríbelo una vez: la mano que se detiene sola a medio arco, como una palabra olvidada). Aethernus las talló así para que sus lugartenientes no se mataran camino de su trono. En cada antesala, el **medidor del ritual** cuelga del aire, visible, subiendo. La antesala es el respiro y la amenaza: nadie puede tocar a nadie, pero todos ven el porcentaje trepar, y nadie ha olvidado lo que viene arriba.
 
 ### Nivel 1 · Sala de Ecos — *la revelación masiva*
 
@@ -81,7 +81,7 @@ El mapa lo muestra partido en dos mitades que no deberían convivir: a un lado, 
 **Qué ocurre:** cada habitación guarda un **tesoro** (una poción, un objeto mágico —recursos reales para la batalla de arriba) y un **clon distorsionado de uno de los PJ**, que no ataca: *tienta*. Le ofrece al héroe exactamente lo que más desea y nunca tuvo. "Aquí no envejeces. Aquí nadie a quien quieres ha muerto. Aquí ya has ganado. Quédate."
 
 - No hay tirada que lo resuelva sola: es **interpretación**. El jugador decide si su personaje cede o se arranca de la fantasía. Pídele que diga en voz alta qué le ofrecen y por qué se va igualmente —ese es el peso.
-- El que cede *se queda* (queda fuera del clímax, atrapado en su día perfecto) salvo que un compañero lo saque a rastras. El que resiste se lleva el tesoro de su habitación.
+- El que cede *se queda* atrapado en su día perfecto — pero **sacarlo es una escena, no un adiós**: un compañero puede entrar a su habitación-tentación (exponiéndose: salvación SAB CD 15 o queda tentado también) y **romperle la ilusión desde dentro** — nombrando en voz alta un recuerdo compartido *real e imperfecto* (que el jugador lo diga en la mesa: cruzar la ilusión con verdad) o con Persuasión CD 15. Cada intento cuesta **1 ronda del medidor**. El que resiste solo se lleva el tesoro de su habitación.
 
 Es el **espejo amable** del villano: Manshoon también se quedó en su mansión, en su sueño de poder, mientras el mundo ardía afuera. Quien atraviesa el Corazón del Tiempo sin quedarse ha entendido —con el cuerpo, no con la cabeza— de qué va todo esto.
 
@@ -112,7 +112,7 @@ La cima. El mapa la corona con todo lo que la campaña prometía: un **círculo 
 >
 > De espaldas, sobre ese punto, hay un anciano de coleta plateada y túnica negra bordada en oro. No se vuelve. Habla con el cosmos, no con vosotros:
 >
-> «Casi. *Casi.* Este mundo llevaba ochocientos años desangrándose sin dueño — y yo llevo siglos con sus dos dioses en mi puño. Solo me falta el último latido. Habéis subido muy lejos, pequeños. Os felicito. Pero llegáis para ver un nacimiento, no para impedirlo.»
+> «Casi. *Casi.* Este mundo llevaba ochocientos años desangrándose sin dueño — y yo llevo casi un siglo con sus dos dioses en mi puño. Solo me falta el último latido. Habéis subido muy lejos, pequeños. Os felicito. Pero llegáis para ver un nacimiento, no para impedirlo.»
 >
 > Entonces sí se vuelve. Y veis que el medidor del ritual, flotando sobre el Cronosellado, marca un número que sube solo."
 
@@ -144,14 +144,14 @@ A partir de aquí, todo es la batalla final. Si Teach llegó, está presente, co
 
 Mientras el Cronosellado lata, Aethernus se regenera y el medidor sube. Hay que **callar el núcleo** antes que nada.
 
-- **Acción:** atacar el **Cronosellado** (CA 20; con 25 de daño acumulado en una ronda se interrumpe) o, como acción, **salvación de Sabiduría CD 18** para imponerle el propio espíritu.
+- **Acción:** atacar el **Cronosellado** (CA 20; con 25 de daño acumulado en una ronda se interrumpe) o, como acción, **salvación de Sabiduría CD 18** para imponerle el propio espíritu. **El núcleo se defiende:** quien lo ataque o fuerce (con éxito o sin él) recibe **10 (3d6) de daño temporal/espacial** — silenciarlo es un trabajo que quema, no una tarea de fondo. Y Aethernus **prioriza al interruptor**: sus legendarias van a por quien toca el núcleo.
 - **Efecto:** el ritual se **apaga 1d4 rondas** y el medidor **retrocede 5%** (ver la escala, arriba). Mientras esté apagado, Aethernus pierde su regeneración de fase (empújalo hacia la **Fase 2** de su statblock). Sin esto, los dioses no pueden liberarse y el medidor sigue trepando +5% por ronda.
 
 ### Paso 2 — Liberar a los dioses *= SOLO la llave chroniana*
 
 Esta es la decisión que se tomó hace muchas sesiones, no aquí. Las cadenas de Amaunator y Voidar están hechas de **tiempo y espacio combinados**: la herramienta que sabía contenerlas —y por tanto soltarlas con cuidado— es la **llave chroniana**, el *keystone* que los Chronianos partieron en dos al escindirse. Recomponerla es **unir sus dos mitades físicas** (Anacronistas + Oceánicos) y pronunciar las **palabras de activación** que Galen custodiaba sin entender.
 
-> **⚠️ ÚNICA VÍA.** Solo se liberan los dioses si los PJ **reunieron a los dos pueblos y sus dos mitades de la llave** durante el sandbox: **Anacronistas** (mitad del Tiempo + las palabras) **+ Oceánicos de Abysara** (mitad del Espacio). Con un **portador de cada pueblo**, unen las dos mitades, pronuncian las palabras y ejecutan el método chroniano sobre las cadenas: el lado temporal sujeta a Amaunator mientras el dimensional sujeta a Voidar, y por primera vez en ochocientos años las dos fuerzas dejan de drenarse. **No hay rutas alternativas.** Nada de persuadir a los dioses con CD 25; nada de usar el Talismán de Teach (esa es la llave falsa). Si no se reunieron las facciones, **las cadenas no se sueltan** —los héroes pueden seguir y matar a Aethernus, pero los dioses no se salvan (desenlace agridulce, ver finales y epílogo).
+> **⚠️ ÚNICA VÍA.** Solo se liberan los dioses si los PJ **reunieron a los dos pueblos y sus dos mitades de la llave** durante el sandbox: **Anacronistas** (mitad del Tiempo + las palabras) **+ Oceánicos de Abysara** (mitad del Espacio). **"Portador" puede ser un PJ:** lo que exige el método es una mitad **bendecida por su pueblo** en cada mano — un Portador de la Piedra jurado (rango Anacronista) y quien Nereia haya ungido (a menudo Kael… o el PJ que se ganó Abysara). Si los PNJ portadores caen en el puente o en la batalla, **los PJ pueden recoger las mitades y pronunciar las palabras** (Galen se las enseñó al Portador jurado): la reconciliación ya está hecha — la llave no pregunta qué manos, pregunta qué pueblos. Con las dos mitades unidas y las palabras dichas, ejecutan el método chroniano sobre las cadenas: el lado temporal sujeta a Amaunator mientras el dimensional sujeta a Voidar, y por primera vez en ochocientos años las dos fuerzas dejan de drenarse. **No hay rutas alternativas.** Nada de persuadir a los dioses con CD 25; nada de usar el Talismán de Teach (esa es la llave falsa). Si no se reunieron las facciones, **las cadenas no se sueltan** —los héroes pueden seguir y matar a Aethernus, pero los dioses no se salvan (desenlace agridulce, ver finales y epílogo).
 
 - **Con la llave:** las cadenas se abren, los dioses **cesan su lucha eterna** y vuelven sus rostros —uno de oro, otro de sombra— hacia Aethernus. A partir de aquí, **luchan con los PJ.**
 - **Sin la llave:** los héroes afrontan la fase final solos, y el destino de los dioses pende del modo en que caiga Aethernus.

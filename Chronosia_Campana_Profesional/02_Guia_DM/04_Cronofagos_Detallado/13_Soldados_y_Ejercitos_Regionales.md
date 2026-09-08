@@ -40,8 +40,8 @@ Estos lugartenientes tienen acceso directo a otros planos y traen criaturas de e
 El resto de los lugartenientes **entrenan y otorgan poderes** directamente a sus soldados. Cada lugarteniente infunde fragmentos de su poder temporal o dimensional en sus seguidores, creando soldados únicos con habilidades específicas de su región.
 
 **Lugartenientes que Crean Soldados:**
-- **Temporales**: Serapis, Varrak, Vorthak (drena vida), Las Gemelas, Tempus, Medusa
-- **Dimensionales**: Ymir, Dimensionalis, Yrindra, Ignis
+- **Temporales**: Serapis, Varrak, Tempus, Vorthak (drena vida)
+- **Dimensionales**: Ymir, Medusa, Las Gemelas, Dimensionalis, Yrindra, Ignis
 - **Aparte**: Edward Teach (híbrido de poder robado; sus soldados mezclan estasis y portales)
 
 ---
@@ -72,7 +72,7 @@ Cada región tiene soldados únicos porque:
 **Tipo de Ejército:** Criaturas invocadas desde Menzoberranzan
 
 **Criaturas que Trae** *(reescaladas al techo de nivel 10 — fuente de verdad: su ficha)*:
-- **Guerreros Drow** (CR 3): Soldados élite de Menzoberranzan con armas envenenadas y tácticas de combate oscuro
+- **Guerreros Drow** (CR 3): soldados élite de Menzoberranzan. **Statblock:** usa el *Agente Infiltrado* (CR 4) de [17_Monstruos](../../05_Apendices/17_Monstruos_Enemigos.md) con PG 49 y hojas envenenadas (al impactar: CD 13 CON o *envenenado* 1 minuto) — o el *drow elite warrior* del MM rebajado a 49 PG
 - **Drider** (CR 6): el castigo de Lolth hecho centinela — su invocación mayor
 - **Demonios drow menores** (quasit/yochlol menor, CR 2-3): alimañas de la Reina Araña
 
@@ -110,8 +110,7 @@ Cada región tiene soldados únicos porque:
 **Poderes de Ignis:**
 - **Portal de Crias** (3/día): Trae 1d2 crías de dragón rojo
 - **Portal de Elementales** (2/día): Trae 1d4 elementales de fuego
-- **Portal de Refuerzos** (1/día): Trae 1d3 dragones rojos adultos
-- **Portal de Devastación** (Acción Legendaria): Trae un ejército masivo de dragones y elementales
+- **Portal de Refuerzos** (1/día): tarda 1 ronda en abrirse (interrumpible); trae **1 dragón rojo joven (CR 10) + 1d4 crías (CR 4)** — como en su ficha, nunca la versión antigua de 1d3 dragones
 
 ---
 
@@ -271,15 +270,15 @@ Los soldados dimensionales reciben fragmentos del poder espacial de su lugarteni
 | **Serapis** | Los Retrocedentes | Reversión Temporal | Retroceso de Heridas |
 | **Varrak** | Los Videntes | Predicción Temporal | Visión del Futuro |
 | **Vorthak** | Los Drenados | Drenaje Temporal | Drenaje de Vida |
-| **Las Gemelas** | Los Gemelos | Flujo Bidireccional | Aceleración/Reversión |
 | **Tempus** | Los Fragmentados | Fragmentación Temporal | Existencia en Múltiples Momentos |
-| **Medusa** | Los Petrificados | Estasis Temporal | Petrificación Temporal |
 
 ### **🌌 Regiones Dimensionales**
 
 | **Lugarteniente** | **Nombre de los Soldados** | **Poder Otorgado** | **Habilidad Única Principal** |
 |-------------------|---------------------------|-------------------|------------------------------|
 | **Ymir** | Los Congelados | Umbrales Helados | Congelación Parcial + Portales |
+| **Medusa** | Los Petrificados | Coordenada Fijada | Petrificación (espacio fijado) |
+| **Las Gemelas** | Los Reflejados | Dimensión Espejo | Ataques desde el reflejo |
 | **Edward Teach** *(híbrido)* | Los Estancados | Estasis + Espacial | Estasis Parcial + Portales |
 | **Dimensionalis** | Los Fracturados | Fracturación Dimensional | Existencia Fracturada |
 | **Yrindra** | **Invocados de Menzoberranzan** | **N/A (Criaturas Planares)** | **Guerreros Drow, Sacerdotisas, Demonios** |
