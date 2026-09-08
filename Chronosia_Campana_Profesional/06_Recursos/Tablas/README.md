@@ -5,6 +5,9 @@
 
 ## 📋 **TABLAS DISPONIBLES**
 
+### **Pantalla del DM:**
+- [x] **[26_Chuleta_del_Reloj.md](26_Chuleta_del_Reloj.md)** — El motor de campaña en una página: Reloj, hitos de Teach, Mapa de Puertas mini, críticos y la escala del medidor del clímax ✅
+
 ### **Eventos:**
 - [x] **[19_Tablas_Eventos.md](19_Tablas_Eventos.md)** — Paradojas menores (1d12), distorsiones espaciales (1d12), gritos de los dioses (1d10) y Tormentas del Ritual (1d10, zona crítica) ✅
 

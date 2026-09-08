@@ -42,6 +42,15 @@ Serapis viste capas con arena que fluye hacia arriba, desafiando la gravedad. Su
 
 ---
 
+### **🎭 Personalidad — el que leyó la letra pequeña (solo DM)**
+Serapis es el único lugarteniente que ha hecho la cuenta hasta el final. Su poder es **deshacer errores** — y lleva años rebobinando pequeños experimentos con una sola pregunta: *¿qué pasa con los conductos cuando el ritual se complete?* La respuesta que encontró no se puede deshacer: **a 8/8, Aethernus no premia a sus conductos — se los bebe**. Un dios no necesita pajitas.
+
+Su conspiración entera (Kaoros, el juicio, descabezar la Resistencia) no es ambición: es un **plan de fuga con rehén**. Quiere llegar al final del ritual siendo dueño de Cronópolis — la única ciudad que a Aethernus le sirve intacta — para ser **demasiado útil para ser bebido**, o tener algo que canjear por su pellejo. Por eso finge sumisión ante Vorthak y por eso su traición es fría, quirúrgica, sin un gramo de odio: Marcus no le importa; el cadalso es solo la silla que quiere ocupar.
+
+**En mesa:** si los PJ lo desenmascaran vivo y le preguntan *por qué*, dales la línea — es la primera confirmación de qué significa de verdad 8/8: *"¿Creéis que sirvo a Aethernus? Nadie sirve a una boca. Yo solo quiero estar detrás de los dientes cuando se cierre."*
+
+---
+
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **SERAPIS EL RETROCESO**

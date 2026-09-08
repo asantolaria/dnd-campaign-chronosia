@@ -83,4 +83,30 @@ Thyra, lugarteniente temporal del **Valle de la Aguja**, muere asesinada por **E
 
 ---
 
+## 📖 **LOS STATBLOCKS BASE, REIMPRESOS** *(para no abrir el MM en mesa)*
+
+Versión compacta de las bases oficiales que este manual referencia, tomadas del **SRD 5.1**. Solo lo que se usa en juego; para el detalle completo, el manual oficial.
+
+- ***Guardia*** (CR 1/8) — CA 16 · PG 11 · Lanza +3, 1d6+1.
+- ***Bandido*** (CR 1/8) — CA 12 · PG 11 · Cimitarra +3, 1d6+1.
+- ***Matón*** (CR 1/2) — CA 11 · PG 32 · *Tácticas de manada.* **Multiataque:** 2 mazas +4, 1d6+2.
+- ***Mephit de hielo*** (CR 1/2) — CA 11 · PG 21 · vuela 30 · *Muerte explosiva* (escarcha 5 pies, DES CD 10, 2d4 frío). Garras +3, 1d4+1 + 1d4 frío. **Aliento de escarcha (rec. 6):** cono 15 pies, DES CD 10, 2d4 frío.
+- ***Espía*** (CR 1) — CA 12 · PG 27 · *Acción astuta* · *Ataque furtivo 2d6.* **Multiataque:** 2 espadas cortas +4, 1d6+2.
+- ***Lobo atroz*** (CR 1) — CA 14 · PG 37 · Vel. 50 · *Tácticas de manada.* Mordisco +5, 2d6+3 y FUE CD 13 o derribado.
+- ***Espectro*** (CR 1) — CA 12 · PG 22 · vuela 50 · *Incorpóreo* · resistente a daño físico no mágico · *Sensibilidad a la luz solar.* Drenaje de vida +4, 3d6 necrótico y CON CD 10 o el máximo de PG baja otro tanto.
+- ***Ogro*** (CR 2) — CA 11 · PG 59 · Garrote +6, 2d8+4 (o jabalina +6, 2d6+4).
+- ***Capitán de bandidos*** (CR 2) — CA 15 · PG 65 · *Parada* (reacción: +2 CA). **Multiataque:** 2 cimitarras +5 (1d6+3) y daga +5 (1d4+3).
+- ***Jabalí gigante*** (CR 2) — CA 12 · PG 42 · *Carga* (+2d6 y FUE CD 13 o derribado tras 20 pies) · *Implacable* (1/descanso: un golpe que lo dejaría a 0 con ≤10 de daño lo deja a 1). Colmillos +5, 2d6+3.
+- ***Veterano*** (CR 3) — CA 17 · PG 58. **Multiataque:** 2 espadas largas +5 (1d8+3; a dos manos 1d10+3), y espada corta +5 (1d6+3) si tiene la mano libre. Ballesta pesada +3, 2d10.
+- ***Araña de fase*** (CR 3) — CA 13 · PG 32 · trepa 30 · *Salto etéreo* (acción adicional: entra o sale del Plano Etéreo — en Chronosia, "se pliega por el espacio"). Mordisco +4, 1d10+2 y CON CD 11 o 4d8 de veneno (mitad con éxito; si lo reduce a 0, queda estable pero envenenado-paralizado 1 hora).
+- ***Gladiador*** (CR 5) — CA 16 · PG 112 · *Bravura* (ventaja vs miedo) · *Bruto* (+1 dado de arma, ya sumado) · *Parada* (reacción: +3 CA). **Multiataque:** 3 lanzas +7, 2d6+4.
+- ***Mago*** (CR 6) — CA 12 (15 con *armadura de mago*) · PG 40 · salv. INT +6, SAB +4. Conjuros (CD 14, +6): *rayo de fuego* (2d10) al gastar el turno; *proyectil mágico*, *escudo* (reacción), *paso brumoso*, *contraconjuro*, *bola de fuego* (8d6, DES CD 14), *invisibilidad mayor*, *cono de frío* (8d8, CON CD 14). Gestión rápida: 1 conjuro de nivel alto por ronda + *escudo/contraconjuro* de reacción.
+- ***Asesino*** (CR 8) — CA 15 · PG 78 · *Asesinar* (ventaja y crítico automático contra sorprendidos) · *Ataque furtivo 4d6* · *Evasión.* **Multiataque:** 2 espadas cortas +6, 1d6+3 **+ veneno**: CON CD 15 o 7d6 (mitad con éxito).
+
+> **No reimprimibles** (no están en el SRD — consulta el Manual de Monstruos): **bestia desplazadora** (base de la Criatura Fracturada) y **drow guerrero de élite** (base del Agente Infiltrado). Sus ajustes de este apéndice bastan para dirigirlos si recuerdas la idea: la bestia "está donde no parece estar" (los ataques contra ella tienen desventaja hasta acertarle) y el drow es un veterano ágil con *levitar* y ballesta envenenada.
+
+> *Esta sección incluye material del **System Reference Document 5.1** de Wizards of the Coast LLC, disponible bajo licencia **Creative Commons Attribution 4.0 International** (CC-BY-4.0).*
+
+---
+
 *Los CR son aproximados: ajusta cantidad antes que statblock, y al alza o a la baja según el tamaño de tu mesa.*

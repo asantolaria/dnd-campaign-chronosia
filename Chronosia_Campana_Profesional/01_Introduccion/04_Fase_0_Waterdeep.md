@@ -96,3 +96,18 @@ Usa el **matón** (*thug*) del Manual de Monstruos (CR 1/2). Llevan monedas de o
 - [ ] **Din Goldgear** es un nombre que los PJ quieren pronunciar al llegar a Cronópolis (las cartas de Thaddeus). Cuando lo encuentren, recuerda: **Din no sabe que Thaddeus ha muerto** — dales a ellos la escena de decírselo (ver su [ficha](../02_Guia_DM/03_NPCs_Importantes.md)).
 - [ ] El **mapa parcial** y el **diario cifrado** de Kaelthas: los abrepuertas narrativos del Cap. 3.
 - [ ] Sensación, no explicación: **el tiempo fue el arma**. La palabra "Aethernus" no debe sonar todavía.
+
+---
+
+## ⏱️ **LO QUE VIENE (las 3 próximas sesiones, sin viajar al Cap. 14)**
+
+Las sesiones 2-4 se dirigen con el **Cap. 3 (Cronópolis)** + la región que elija el grupo. El tercer ingrediente —la marea de fondo de **Teach**— vive en el Cap. 14, que en el libro queda lejos; aquí está lo que necesitas de él para arrancar, en media página:
+
+| Reloj | Hito de Teach | Lo que sienten los PJ |
+|---|---|---|
+| ~2-3/8 | **1 · El robo de la Perla** (masacre de Abysara) | Un rumor de mar: 47 muertos, una vendetta nace |
+| ~3-4/8 | **2 · El robo del Cronómetro** | El golpe en casa: *ellos* son los sospechosos |
+| ~4-5/8 | **3 · La forja del Talismán** | La única ventana para interrumpir — y aun así fracasa |
+| SALTO (+2) | **4 · El asesinato de Thyra** | El mundo se parte: estalla la guerra de lugartenientes |
+
+**Lo único que debes hacer al respecto en las sesiones 2-4:** sembrar el Hito 1 como rumor de taberna (Bram lo sirve solo) y dejar que el Contador dé su primer "hipo". El detalle completo de cada hito, con escenas, está en el [Cap. 14](../14_Arco_de_Barbanegra.md) — léelo antes de la sesión en que el Reloj toque 3/8, no antes. También tienes la [chuleta del Reloj](../06_Recursos/Tablas/26_Chuleta_del_Reloj.md) para la pantalla del DM.

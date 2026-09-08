@@ -44,6 +44,7 @@ add "exports/partes/parte_4.md"
 add "05_Apendices/17_Monstruos_Enemigos.md"
 add "05_Apendices/Bestiario_Regional/*.md"
 add "06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md"
+add "06_Recursos/Tablas/26_Chuleta_del_Reloj.md"
 add "06_Recursos/Tablas/19_Tablas_Eventos.md"
 add "06_Recursos/Tablas/20_Tablas_Tracking_Campana.md"
 add "06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md"
@@ -59,9 +60,11 @@ add "06_Recursos/Handouts/Carta_de_Linna.md"
 add "06_Recursos/Handouts/Diario_de_un_Refugiado.md"
 add "06_Recursos/Handouts/Aviso_de_Abysara.md"
 add "02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md"
+add "exports/partes/indice_alfabetico.md"
 
 # --- Concatenar: imágenes -> copias web optimizadas + rutas absolutas + sin emojis ---
 # (mismo redirect que mkdocs_hooks.py: el PDF usa assets/web/ para no pesar 100+ MB)
+build_md(){
 : > "$OUT_MD"
 for f in "${FILES[@]}"; do
   # En el PDF, el bestiario regional no repite el mapa de su región (ya está en el capítulo)
@@ -82,6 +85,17 @@ for f in "${FILES[@]}"; do
     ' >> "$OUT_MD"
   printf '\n\n---\n\n' >> "$OUT_MD"
 done
+}
+
+build_pdf(){
+  pandoc "$OUT_MD" -f markdown --pdf-engine=xelatex \
+    -H "$HERE/dnd-latex-header.tex" \
+    -V geometry:margin=1.6cm -V fontsize=10pt \
+    --toc --toc-depth=2 --metadata title="$TITLE" --metadata subtitle="$SUBTITLE" \
+    -o "$OUT_PDF"
+}
+
+build_md
 echo "Markdown del libro: $OUT_MD ($(wc -w < "$OUT_MD") palabras)"
 
 # --- HTML estilizado (a 2 columnas; imprime a PDF para el mejor acabado) ---
@@ -91,13 +105,16 @@ pandoc "$OUT_MD" -f markdown -t html5 -s --toc --toc-depth=2 \
   -o "$OUT_HTML"
 echo "HTML: $OUT_HTML  (ábrelo e 'Imprimir → Guardar como PDF' para 2 columnas)"
 
-# --- PDF (xelatex, 1 columna) ---
+# --- PDF (xelatex, 1 columna) — dos pasadas: la 2ª regenera el índice alfabético ---
 if command -v xelatex >/dev/null; then
-  pandoc "$OUT_MD" -f markdown --pdf-engine=xelatex \
-    -H "$HERE/dnd-latex-header.tex" \
-    -V geometry:margin=1.6cm -V fontsize=10pt \
-    --toc --toc-depth=2 --metadata title="$TITLE" --metadata subtitle="$SUBTITLE" \
-    -o "$OUT_PDF" && echo "PDF: $OUT_PDF"
+  build_pdf && echo "PDF (1ª pasada): $OUT_PDF"
+  if python3 -c 'import pypdf' 2>/dev/null; then
+    python3 "$HERE/gen_indice.py" "$OUT_PDF" > "$HERE/partes/indice_alfabetico.md" \
+      && echo "Índice alfabético regenerado" \
+      && build_md && build_pdf && echo "PDF (2ª pasada, con índice): $OUT_PDF"
+  else
+    echo "Sin pypdf: el índice alfabético se queda con la pasada anterior (pip install pypdf)"
+  fi
 else
   echo "Sin xelatex: usa el HTML e 'Imprimir → Guardar como PDF'."
 fi
