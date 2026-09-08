@@ -107,6 +107,8 @@ Esta zona es la **explicación** de la región: aquí los PJ *ven*, tallado en p
 
 ### 4b · Abysara, la ciudad que aguanta la respiración *(opcional — la visita de estado)*
 
+![Mapa de Abysara, la ciudad chroniana sumergida](../assets/mapas/14_abysara.jpg)
+
 Sellada la alianza en Xal'azar, Tholassa ofrece lo que ningún habitante de la superficie ha visto en ochocientos años: **bajar a Abysara**. No es turismo — es política: la Reina quiere **mirar a los ojos** a la gente de arriba antes de jurar su media llave.
 
 **El descenso (dos millas):** la *Bendición del Abismo* de Tholassa (o las perlas de Madame Coral) da respiración acuática y nado 40 al grupo. Se baja en silencio por la **Fosa del Canto**, siguiendo un cable de coral con nudos luminosos.

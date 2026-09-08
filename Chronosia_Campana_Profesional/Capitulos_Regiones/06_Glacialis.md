@@ -128,6 +128,8 @@ Si los PJ negocian, Velka puede **mantener abierto un portal** que necesiten (ga
 
 ### 4 · El Portal de las Estrellas *(guarida de Ymir el Eterno Invierno)*
 
+![Battlemap del Portal de las Estrellas — el nodo de la red de portales](../assets/mapas/battlemap-portal-de-las-estrellas.jpg)
+
 El nodo central: un **maelström de hielo y vacío** —un embudo gigante girando en el páramo, rodeado de agujas de hielo como dientes—, en cuyo fondo no hay agua sino **estrellas**. Es el tronco del árbol de portales, y el trono de Ymir.
 
 > *Leído al entrar:* "El suelo se hunde en un remolino colosal de hielo que no gira hacia el agua, sino hacia el **cielo**: en su fondo, a una profundidad imposible, late un campo de estrellas. Sobre una plataforma de hielo suspendida en el borde se yergue **Ymir**, veinte pies de cristal vivo, los ojos como pozos que reflejan paisajes de mil mundos congelados. A su espalda, sobre todos los demás portales, flota uno **negro y vacío** que no muestra ningún mundo. Ymir os habla, y su voz es el crujido de un glaciar: «Otra carga que clasificar. ¿De qué plano os reclutó la muerte, pequeños? No importa. Aquí todo converge. Y aquí todo se queda.»"*

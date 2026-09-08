@@ -126,6 +126,8 @@ Un templo que se levanta solo cada ciclo, rodeado de casas que nacen y caen.
 
 ### 4 · El Ojo del Tiempo *(guarida de Serapis)*
 
+![Battlemap del Ojo del Tiempo — la plataforma del reloj de arena](../assets/mapas/battlemap-ojo-del-tiempo.jpg)
+
 El centro de la espiral: un doble vórtice de arena dorada girando hacia atrás, coronado por el **Reloj de Arena gigante**. Aquí reside Serapis.
 
 > *Leído al entrar:* "La arena no cae: *asciende*, en espiral, hacia una fina grieta dorada suspendida en el aire de la que mana una luz que parece llorar. A su pie, sobre una plataforma de cristal, un elfo de capa de arena flotante os observa sin sorpresa. «Os he visto llegar mil veces», dice Serapis con voz cansada. «A veces gano. A veces ganáis. Hoy… veamos qué toca.»"*

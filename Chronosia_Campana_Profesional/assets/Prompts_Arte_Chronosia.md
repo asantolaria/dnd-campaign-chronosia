@@ -776,19 +776,19 @@ Sujeto: Tholassa de la Corriente Honda, una oceánica noble y solemne del pueblo
 Fotografía cenital realista de un PROP de rol: un pergamino envejecido y manchado de círculos de taza de té, escrito a mano en tinta sepia con siete estrofas en caligrafía cuidada de escriba, sobre una mesa de madera oscura junto a una taza de té humeante. La TERCERA estrofa está QUEMADA: un agujero de bordes carbonizados se come el texto. Sin texto legible necesario (puede ser pseudoescritura); luz cálida de vela, proporción 3:4, sin marcas de agua.
 ```
 
-### 11.8 · Mapa de Abysara *(la ciudad sumergida — la ausencia más notable del inventario)* — ⏳ **PENDIENTE**
+### 11.8 · Mapa de Abysara *(la ciudad sumergida)* — ✅ **HECHO** (`assets/mapas/14_abysara.jpg`)
 ```
 Mapa/ilustración cenital-isométrica dibujada a mano para mesa de D&D, estilo cartografía clásica de manual de rol adaptada a ciudad submarina: pergamino envejecido con tinta sepia y acentos azul-verdosos luminosos, proporción 4:3.
 Tema: ABYSARA, ciudad chroniana sumergida a dos millas de profundidad — cúpulas de cristal como burbujas detenidas, calles de nácar, torres de coral, y en el centro una torre de cristal puro con un CORAZÓN DE LUZ BLANCA latiendo (un Cristal de Estabilización). Marca SOLO con números: 1) la Fosa del Canto (el descenso, un cable con nudos luminosos); 2) el Palacio de la Reina; 3) el Templo del Vacío (altar vacío rodeado de 47 lanzas clavadas en círculo); 4) los Archivos de Coral; 5) el Cristal Mayor. Caja «Leyenda» en español. Bancos de peces luminosos, oscuridad total más allá del resplandor urbano. Evita marcas de agua y estética de cómic.
 ```
 
-### 11.9 · Battlemap — El Ojo del Tiempo *(guarida de Serapis, Cap. 4)* — ⏳ **PENDIENTE**
+### 11.9 · Battlemap — El Ojo del Tiempo *(guarida de Serapis, Cap. 4)* — ✅ **HECHO** (`assets/mapas/battlemap-ojo-del-tiempo.jpg`)
 ```
 Plano de suelo 2D en vista cenital ORTOGRÁFICA (cámara a 90 grados, perpendicular al suelo, como un plano de arquitecto pintado a mano): battlemap para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), paleta dorada y cálida, proporción 1:1. PROHIBIDO el isométrico y cualquier perspectiva: ningún objeto muestra sus caras laterales, solo su huella sobre el suelo.
 Escenario: el corazón de un valle en espiral — una plataforma de cristal circular en el centro, con un RELOJ DE ARENA GIGANTE incrustado como mosaico en su suelo. Alrededor de la plataforma, BANDAS CONCÉNTRICAS EN ESPIRAL de arena dorada (remolinos y vetas de arena dibujando la espiral sobre el suelo, cada banda con la arena peinada en sentido contrario a la anterior). Pasarelas de roca curvas llegando a la plataforma desde los bordes, dunas bajas vistas como manchas onduladas, y dos o tres formaciones de cristal como cobertura, vistas por su punta. Sin criaturas, sin texto.
 ```
 
-### 11.10 · Battlemap — El Portal de las Estrellas *(guarida de Ymir, Cap. 6)* — ⏳ **PENDIENTE**
+### 11.10 · Battlemap — El Portal de las Estrellas *(guarida de Ymir, Cap. 6)* — ✅ **HECHO** (`assets/mapas/battlemap-portal-de-las-estrellas.jpg`)
 ```
 Plano de suelo 2D en vista cenital ORTOGRÁFICA (cámara a 90 grados, perpendicular al suelo, como un plano de arquitecto pintado a mano): battlemap para mesa de D&D, SIN NINGUNA CUADRÍCULA (la rejilla se añade luego en el tablero virtual), iluminación azul glacial, proporción 4:3. PROHIBIDO el isométrico y cualquier perspectiva: ningún objeto muestra sus caras laterales, solo su huella sobre el suelo.
 Escenario: el nodo central de una red de portales de hielo — una explanada de hielo pulido. Dispuestos en círculo, ocho PORTALES vistos desde arriba: cada uno es un par de BASES DE PILAR de hielo gemelas y, entre ellas, un CHARCO DE LUZ OVALADO proyectado sobre el suelo — cada charco de un color y textura distintos (uno verde con sombras de hojas, uno ámbar como arena de desierto, uno azul marino con ondas, el resto blanco glacial). Puentes de escarcha finos conectando las bases, grietas en el hielo que dejan ver un vacío estrellado debajo, y al norte dos bases de pilar mucho mayores con un charco NEGRO ABSOLUTO que no refleja nada, rodeado de cadenas congeladas tendidas por el suelo. Cajones de carga y jaulas de hielo como cobertura, todos vistos por su tapa superior. Sin criaturas, sin texto.
