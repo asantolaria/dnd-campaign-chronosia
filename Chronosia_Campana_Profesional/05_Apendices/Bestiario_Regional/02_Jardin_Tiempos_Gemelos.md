@@ -2,7 +2,7 @@
 
 ![Mapa de El Jardín de los Tiempos Gemelos](../../assets/mapas/02_jardin-tiempos-gemelos.png)
 
-## Lugartenientes: Medusa la Eterna (estasis/petrificación temporal) Y Las Gemelas del Espejo (dimensión espejo) · Tipo: Temporal / Dimensional · Nivel PJ: 5-7
+## Lugartenientes: Medusa la Eterna (estasis/petrificación temporal) Y Las Gemelas del Espejo (dimensión espejo) · Tipo: Dimensional ×2 (la "estasis" de Medusa es disfraz de Voidar — Cap. 5) · Nivel PJ: 5-8
 
 > Da vida propia a la región más allá de los lugartenientes: un villano menor, bestias firma y NPCs locales. En este jardín el tiempo se detiene entre los setos y cada superficie pulida esconde un mundo invertido. Las estatuas avanzan cuando nadie las mira; los reflejos aprenden a odiar a su original.
 

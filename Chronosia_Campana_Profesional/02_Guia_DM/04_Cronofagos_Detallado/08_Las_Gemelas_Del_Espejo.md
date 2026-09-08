@@ -14,7 +14,7 @@
 - **Región:** El Jardín de los Tiempos Gemelos
 - **Nivel Recomendado:** 6-7
 - **Bando:** Neutral (deciden en Fase 3, según el estado del tablero)
-- **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 2+ lugartenientes + Espejo de Realidad)
+- **Estado de Acceso:** 🔓 El Jardín está **abierto desde el inicio** (región dura: nivel 5-8 — Mapa de Puertas, Cap. 1)
 
 ---
 

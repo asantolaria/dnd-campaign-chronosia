@@ -2,7 +2,7 @@
 
 ![Mapa de La Mansión de la Sed Eterna](../../assets/mapas/09_mansion-de-la-sed-eterna.png)
 
-## Lugarteniente: Lord Vorthak · Tipo: Temporal · Nivel PJ: 9
+## Lugarteniente: Lord Vorthak · Tipo: Temporal · Nivel PJ: 8-10
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

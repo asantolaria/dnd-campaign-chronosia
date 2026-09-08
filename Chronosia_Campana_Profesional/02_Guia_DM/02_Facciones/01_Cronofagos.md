@@ -44,13 +44,14 @@ Los Cronófagos son la fuerza militar más poderosa de Chronosia, una organizaci
 
 ## 📊 **ESTRUCTURA JERÁRQUICA**
 
-### **👑 LIDERAZGO SUPREMO**
-- **Aethernus Valcarys** (Manshoon Clone #47) - Líder Supremo del Cónclave
+### **👑 LIDERAZGO**
+- **Aethernus Valcarys** (Manshoon Clone #47) — el Eterno, recluido en la Torre (no existe ya ningún "Cónclave": esa estructura es pre-rediseño)
 
-### **👑 LUGARTENIENTES DEL CÓNCLAVE (ESTADO ACTUAL)**
-- **6 Lugartenientes Temporales** - Serapis, Varrak, Vorthak, Medusa, Tempus, Thyra
-- **6 Lugartenientes Dimensionales** - Edward Teach, Dimensionalis, Ignis, Veldrisza, Las Gemelas, Ymir
-- **1 Lugarteniente Caído** - Thyra la Suspendida (asesinada por Edward Teach)
+### **👑 LUGARTENIENTES (ESTADO ACTUAL: 11 ACTIVOS)**
+- **Temporales (conductos de Amaunator)** — Serapis, Tempus, Varrak (neutral/aliable)
+- **Dimensionales (conductos de Voidar)** — Ymir, Medusa *(su "estasis" es disfraz)*, Las Gemelas, Dimensionalis, Matrona **Yrindra**, Ignis
+- **Aparte** — Lord Vorthak (drena vida; líder del bando temporal) y Edward Teach (híbrido de poder robado)
+- **Caída** — Thyra la Suspendida (asesinada por Teach: el SALTO del Reloj, Cap. 14)
 
 ### **🎖️ OFICIALES CRONÓFAGOS**
 - **Oficiales Temporales** - Comandantes del Tiempo

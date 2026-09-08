@@ -31,8 +31,12 @@ Ymir mantiene la **red de portales** que conecta Chronosia con otros planos (Agu
 ### **👁️ Apariencia**
 Un gigante de hielo cristalino de 20 pies de altura, con un cuerpo formado por cristales de hielo que brillan con luz azulada. Sus ojos son pozos de hielo que reflejan paisajes congelados de múltiples dimensiones. Su respiración congela el aire creando esculturas de hielo que existen en múltiples planos simultáneamente.
 
-### **🎭 Personalidad**
+### **🎭 Personalidad — el portero que busca una puerta**
 Frío y calculador, habla con una voz que resuena como el crujido del hielo. Considera el frío como la forma más pura de orden espacial, donde todo se cristaliza en patrones perfectos y predecibles.
+
+**Lo que de verdad quiere (solo DM):** Ymir no nació en Chronosia — fue arrancado de un plano elemental que **ya no existe**: se enfrió hasta apagarse, como se apagan los planos viejos, mientras él estaba fuera. Mantiene la red de portales para Aethernus… y la usa, puerta a puerta, para **buscar un plano lo bastante frío para parecerse a su casa**. Ninguno lo es. Por eso "el invierno no se enfada, llega": no es filosofía — es un huérfano ordenando el universo a la temperatura del hogar que perdió.
+
+**La palanca:** no se le puede sobornar con poder ni asustar con fuego (lo respeta, no lo teme). Se le puede ofrecer **un dominio**: Glacialis restaurada seguiría siendo tundra estable — un invierno *legítimo*, no una herida. Un grupo que le proponga "quédate tu hielo, suelta los portales" tiene una negociación real entre manos (su "Bando: Variable" por fin significa algo). Y hay un espejo trágico servido: **Balthar Herrumbra** busca a su familia al otro lado de esos mismos umbrales — el enano y el glaciar buscan lo mismo en direcciones opuestas. Si se encuentran, dales la escena.
 
 > 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
@@ -206,7 +210,7 @@ Ymir es el lugarteniente encargado de **reclutar criaturas, recursos y suministr
 ### **⚔️ Oportunidad de Reclutamiento:**
 Los PJ pueden:
 - **Interrumpir el reclutamiento:** Cerrar portales, detener el flujo de suministros
-- **Usar los portales:** Si derrotan a Ymir, pueden usar sus portales para viajar a otros planos
+- **Capturar la red:** si derrotan a Ymir, la red queda **inerte pero cartografiada** (los umbrales se apagan esa noche — Cap. 6); reorientarla es trabajo de epílogo, la base del **Nexo Planar**. *(Nadie "viaja a otros planos" con ella mientras el Cronosellado siga activo: la lista negra del aislamiento manda.)*
 - **Aliarse temporalmente:** Ymir puede ofrecer acceso a portales a cambio de ayuda
 
 ### **💀 Consecuencia de su Muerte:**

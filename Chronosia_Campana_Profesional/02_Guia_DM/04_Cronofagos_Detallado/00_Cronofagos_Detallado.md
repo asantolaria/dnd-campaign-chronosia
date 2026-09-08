@@ -20,22 +20,22 @@
 
 | Ficha | Lugarteniente | Raza | CR | Nivel PJ | Región | Acceso |
 |---|---|---|---|---|---|---|
-| [01](./01_Serapis_El_Retroceso.md) | **Serapis el Retroceso** | Elfo Eterno | 5 | 4-5 | La Espiral Inversa | 🔓 |
-| [02](./02_Varrak_El_Oraculo.md) | **Varrak el Oráculo** | Orco | 9 | 7-8 | El Abismo de los Posibles | 🔒 · neutral/aliable |
-| [03](./03_Lord_Vorthak_El_Sediento_Eterno.md) | **Lord Vorthak** | Vampiro Ancestral | 12 | 9 | La Mansión de la Sed Eterna | 🔒 · **líder temporal** |
-| [10](./10_Medusa_La_Eterna.md) | **Medusa la Eterna** | Medusa Ancestral | 7 | 5-6 | El Jardín de los Tiempos Gemelos | 🔒 |
-| [11](./11_Tempus_El_Fragmentado.md) | **Tempus el Fragmentado** | Constructo Temporal | 8 | 6-7 | Las Ruinas del Tiempo Perdido | 🔒 |
+| [01](./01_Serapis_El_Retroceso.md) | **Serapis el Retroceso** | Elfo Eterno | 5 | 4-7 | La Espiral Inversa | 🔓 |
+| [02](./02_Varrak_El_Oraculo.md) | **Varrak el Oráculo** | Orco | 9 | 5-8 | El Abismo de los Posibles | 🔓 · neutral/aliable |
+| [03](./03_Lord_Vorthak_El_Sediento_Eterno.md) | **Lord Vorthak** | Vampiro Ancestral | 12 | 8-10 | La Mansión de la Sed Eterna | 🔒 · **líder temporal** |
+| [11](./11_Tempus_El_Fragmentado.md) | **Tempus el Fragmentado** | Constructo Temporal | 8 | 8-10 | Las Ruinas del Tiempo Perdido | 🔒 |
 
 ### 🌌 Lugartenientes Dimensionales (Poder de Voidar)
 
 | Ficha | Lugarteniente | Raza | CR | Nivel PJ | Región | Acceso |
 |---|---|---|---|---|---|---|
-| [04](./04_Edward_Teach_Barbanegra.md) | **Edward Teach "Barbanegra"** | Humano Pirata | 11 | 8-9 | Archipiélago de Barbanegra | 🔒 Motor de Viento · **villano final alternativo · ULTRA-SECRETO** |
-| [05](./05_Dimensionalis_La_Fracturada.md) | **Dimensionalis la Fracturada** | Tiefling | 9 | 7-8 | Las Llanuras de la Compresión | 🔒 |
-| [06](./06_Ignis_El_Devorador_Espacial.md) | **Ignis el Devorador** | Dragón Rojo Ancestral | 13 | 9-10 | Las Calderas Dimensionales | 🔒 · **líder dimensional** |
-| [07](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md) | **Matrona Yrindra** | Drow Matrona | 11 | 8-9 | La Ciudad Subterránea de Veldrisza | 🔒 |
-| [08](./08_Las_Gemelas_Del_Espejo.md) | **Las Gemelas del Espejo** (Lyra y Nyx) | Humanas Gemelas | 8 (juntas) | 6-7 | El Jardín de los Tiempos Gemelos | 🔒 · neutrales/aliables |
-| [09](./09_Ymir_El_Eterno_Invierno.md) | **Ymir el Eterno Invierno** | Elemental de Hielo Ancestral | 8 | 6-7 | Glacialis | 🔓 · **reclutador interplanar** |
+| [04](./04_Edward_Teach_Barbanegra.md) | **Edward Teach "Barbanegra"** | Humano Pirata | 11 | 7-9 | Archipiélago de Barbanegra | 🔒 Motor de Viento · **villano final alternativo · ULTRA-SECRETO** |
+| [05](./05_Dimensionalis_La_Fracturada.md) | **Dimensionalis la Fracturada** | Tiefling | 9 | 9-10 | Las Llanuras de la Compresión | 🔒 |
+| [06](./06_Ignis_El_Devorador_Espacial.md) | **Ignis el Devorador** | Dragón Rojo Ancestral | 13 | 8-10 | Las Calderas Dimensionales | 🔒 · **líder dimensional** |
+| [07](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md) | **Matrona Yrindra** | Drow Matrona | 11 | 9-10 | La Ciudad Subterránea de Veldrisza | 🔒 |
+| [08](./08_Las_Gemelas_Del_Espejo.md) | **Las Gemelas del Espejo** (Lyra y Nyx) | Humanas Gemelas | 8 (juntas) | 5-8 | El Jardín de los Tiempos Gemelos | 🔓 · neutrales/aliables |
+| [09](./09_Ymir_El_Eterno_Invierno.md) | **Ymir el Eterno Invierno** | Elemental de Hielo Ancestral | 8 | 4-7 | Glacialis | 🔓 · **reclutador interplanar** |
+| [10](./10_Medusa_La_Eterna.md) | **Medusa la Eterna** | Medusa Ancestral | 7 | 5-8 | El Jardín de los Tiempos Gemelos | 🔓 · *su "estasis temporal" es disfraz de Voidar* |
 
 ### 👑 BBEG
 
@@ -69,7 +69,7 @@
 
 ## 👑 AETHERNUS VALCARYS Y SUS LUGARTENIENTES
 
-**Aethernus Valcarys** (Manshoon Clon #47) es el **BBEG**, recluido en la Torre de la Eternidad ejecutando el ritual de ascensión divina. Sus **lugartenientes** —doce seres deformados por la exposición al poder de los dioses en conflicto: seis con fragmentos temporales de Amaunator y seis con fragmentos espaciales de Voidar— mantienen la expansión de los Cronófagos mientras él se aísla.
+**Aethernus Valcarys** (Manshoon Clon #47) es el **BBEG**, recluido en la Torre de la Eternidad ejecutando el ritual de ascensión divina. Sus **lugartenientes** —doce seres deformados por la exposición al poder de los dioses en conflicto: conductos temporales de Amaunator (Serapis, Tempus, Varrak y la caída Thyra), dimensionales de Voidar (Ymir, Medusa, las Gemelas, Dimensionalis, Yrindra, Ignis), más Vorthak (drena vida, no tiempo ni espacio) y Teach (híbrido de poder robado)— mantienen la expansión de los Cronófagos mientras él se aísla.
 
 > **⚠️ Estado actual:** tras el asesinato de Thyra por Edward Teach, quedan **11 lugartenientes activos**. La competencia entre ellos (cada uno descubre que puede robar el poder de otro, como hizo Teach) es sabor de sandbox; la **escalada real la encarna Teach**, que absorbe a los que los PJ no alcanzan. No existe ya un sistema de "Ascensión del Cónclave" ni de "Lugartenientes Supremos": esa función la cubre Teach y el Reloj.
 

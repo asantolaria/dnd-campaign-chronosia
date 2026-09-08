@@ -2,7 +2,7 @@
 
 ![Mapa del Archipiélago de Barbanegra](../../assets/mapas/08_archipielago-de-barbanegra.png)
 
-## Lugarteniente: Edward Teach "Barbanegra" · Tipo: Dimensional · Nivel PJ: 8-9
+## Lugarteniente: Edward Teach "Barbanegra" · Tipo: Dimensional · Nivel PJ: 7-9
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

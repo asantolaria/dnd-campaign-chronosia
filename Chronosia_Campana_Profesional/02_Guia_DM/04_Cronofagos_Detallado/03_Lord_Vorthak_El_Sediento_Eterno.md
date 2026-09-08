@@ -14,7 +14,7 @@
 - **Región:** La Mansión de la Sed Eterna
 - **Nivel Recomendado:** 9
 - **Bando:** Temporal (Líder del Bando Temporal)
-- **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 3+ lugartenientes)
+- **Estado de Acceso:** 🔒 Sin puerta mecánica: la Mansión es región de **alto nivel (8-10)** — el peligro es la puerta (Mapa de Puertas, Cap. 1)
 
 ---
 
@@ -101,6 +101,9 @@ Vorthak no es vulnerable a la luz solar, pero la luz solar directa reduce su reg
 
 **Sed Insaciable.**  
 Vorthak puede drenar vida temporal de múltiples enemigos simultáneamente. Cada vez que drena vida, se rejuvenece y recupera HP adicional.
+
+**⏳ Los años drenados PESAN.**  
+Regla global ([dosier 00](./00_Cronofagos_Detallado.md)): cada **10 años acumulados = 1 nivel de agotamiento** que no se cura descansando (solo *restablecimiento mayor* o las restauraciones de campaña). Anótalos por PJ: es la munición real de Vorthak — sus drenajes no son la fuente de daño (la espada domina siempre), son el **coste que se queda**.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ![Mapa de La Ciudad Subterránea de Veldrisza](../../assets/mapas/07_ciudad-subterranea-de-veldrisza.png)
 
-## Lugarteniente: Matrona Yrindra · Tipo: Dimensional · Nivel PJ: 8-9
+## Lugarteniente: Matrona Yrindra · Tipo: Dimensional · Nivel PJ: 9-10
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

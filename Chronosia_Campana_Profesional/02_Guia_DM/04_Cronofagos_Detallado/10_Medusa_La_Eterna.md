@@ -2,7 +2,7 @@
 
 ![Medusa la Eterna](../../assets/bestiario/lugartenientes/10_medusa-la-eterna.jpg)
 
-## *Lugarteniente Temporal - Medusa Ancestral*
+## *Lugarteniente Dimensional (con disfraz temporal) - Medusa Ancestral*
 
 ---
 
@@ -14,14 +14,14 @@
 - **Región:** El Jardín de los Tiempos Gemelos
 - **Nivel Recomendado:** 5-8 (como su región)
 - **Bando:** Variable (puede aliarse con Las Gemelas u otros según decisiones)
-- **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 2+ lugartenientes)
+- **Estado de Acceso:** 🔓 El Jardín está **abierto desde el inicio** (región dura: entra cuando el grupo se vea con nivel — Mapa de Puertas, Cap. 1)
 
 ---
 
 ## 🎭 **DESCRIPCIÓN NARRATIVA**
 
 ### **⚡ Poder**
-Medusa puede congelar el tiempo en estasis perfecta, petrificando no solo cuerpos sino también el flujo temporal. Sus víctimas quedan atrapadas en un momento eterno donde ni el tiempo ni la vida pueden avanzar. Su dominio sobre la estasis temporal es absoluto.
+Medusa "congela el tiempo en estasis perfecta" — o eso cree ella, y eso parece. La verdad (Cap. 5): no detiene instantes, **fija coordenadas** — clava a sus víctimas en un punto del espacio con poder de Voidar. La distinción no es pedantería: es la trampa didáctica del Jardín, y la razón de que su pieza de Rotor sea una **Carcasa Dimensional**. Su dominio sobre esa falsa estasis es, eso sí, absoluto.
 
 ### **👁️ Apariencia**
 Una medusa gigante con serpientes de tiempo en lugar de cabello, ojos que brillan con la luz de estrellas congeladas, y una mirada que congela el tiempo mismo. Sus movimientos parecen congelados en el aire, y su presencia detiene el flujo temporal a su alrededor.

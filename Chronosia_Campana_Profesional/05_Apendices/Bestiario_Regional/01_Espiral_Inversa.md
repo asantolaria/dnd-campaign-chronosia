@@ -2,7 +2,7 @@
 
 ![Mapa de La Espiral Inversa](../../assets/mapas/01_espiral-inversa.png)
 
-## Lugarteniente: Serapis el Retroceso · Tipo: Temporal · Nivel PJ: 4-5
+## Lugarteniente: Serapis el Retroceso · Tipo: Temporal · Nivel PJ: 4-7
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

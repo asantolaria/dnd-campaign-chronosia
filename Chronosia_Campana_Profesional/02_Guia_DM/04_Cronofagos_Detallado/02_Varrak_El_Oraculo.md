@@ -206,7 +206,7 @@ El monje manco es la mano derecha de Varrak, y su presencia añade profundidad e
 
 **⚠️ INFORMACIÓN CRÍTICA PARA EL DM:**
 
-> **Gatillo actualizado.** El sacrificio ya no se dispara por "desbalance crítico" (sistema retirado), sino por el **Reloj del Ritual en zona crítica (≥6/8)** más una **relación construida** con Varrak a lo largo del sandbox. Su arco completo en 4 beats está en [⏳ Motor de Campaña → El arco de Varrak](../../01_Como_Dirigir.md).
+> **Gatillo actualizado.** El sacrificio ya no se dispara por "desbalance crítico" (sistema retirado), sino por el **Reloj del Ritual en zona crítica (≥6/8)** más una **relación construida** con Varrak a lo largo del sandbox. Su arco completo vive repartido donde se juega: **beat 1** — el encuentro y el Cristal Profético ([Cap. 8, El Abismo](../../Capitulos_Regiones/08_El_Abismo_de_los_Posibles.md)); **beat 2** — la entrada secreta a Veldrisza y la confianza ganada (Cap. 10); **beat 3** — la Traición y el funeral de Marcus ([Cap. 14](../../14_Arco_de_Barbanegra.md)); **beat 4** — el sacrificio con el Reloj ≥6/8 (Cap. 14, Escena 5).
 
 ### **La Decisión de Varrak:**
 

@@ -14,7 +14,7 @@
 - **Región:** Archipiélago de Barbanegra
 - **Nivel Recomendado:** 8-9
 - **Bando:** Independiente
-- **Estado de Acceso:** 🔒 El Archipiélago se abre con el **Motor de Viento Perpetuo** (derrotar Serapis + Ymir); el mar está en calma muerta hasta entonces
+- **Estado de Acceso:** 🔒 El Archipiélago se abre con el **Motor de Viento Perpetuo** (Rotor Infinito: **un Núcleo Temporal + una Carcasa Dimensional, de cualquier lugarteniente de cada tipo** — Mapa de Puertas, Cap. 1); el mar está en calma muerta hasta entonces
 - **⚠️ Nota Especial:** Es un punto ciego para Varrak del Horizonte
 
 ---
@@ -125,7 +125,7 @@ El cuerpo de Teach muestra distorsión temporal: una mano envejece y rejuvenece 
 Teach puede crear portales dimensionales con facilidad. Tiene ventaja en tiradas relacionadas con portales y teletransporte.
 
 **Comandante Pirata.**  
-Teach está rodeado por 1d4+1 piratas élite (CR 2 cada uno) que luchan por él. Puede ordenarles que actúen como reacción.
+Teach está rodeado por **1d4+1 piratas élite** (CR 2 cada uno) que luchan por él; **en el asalto al Fuerte Negro son 6** (el set-piece del Cap. 11 manda). Puede ordenarles que actúen como reacción.
 
 **Resistencia Legendaria (1/día).**  
 Si Teach falla una tirada de salvación, puede elegir tener éxito en su lugar.
@@ -151,7 +151,7 @@ El objetivo debe hacer salvación de Constitución CD 17 o queda **paralizado**;
 Como acción, Teach intercambia posiciones con un enemigo a hasta 30 pies de distancia. El enemigo debe hacer salvación de Destreza CD 17 o es teletransportado a la posición de Teach.
 
 **Ataque de Cañón (3/día).**  
-Como acción, Teach dispara un cañón que causa daño de área en un radio de 20 pies. Todas las criaturas en el área deben hacer salvación de Destreza CD 17 o reciben 21 (6d6) de daño contundente y quedan aturdidas por 1 turno.
+Como acción, Teach dispara un cañón que causa daño de área en un radio de 20 pies. Todas las criaturas en el área deben hacer salvación de Destreza CD 17 o reciben 21 (6d6) de daño contundente y quedan **aturdidas** — repiten la salvación (esta vez de CON) al final de cada uno de sus turnos para sacudírselo. *(⚠️ Presupuesto de control: entre Pistola, Congelación, Campo y Cañón, no dejes a más de **un PJ** fuera de juego a la vez — el terror de Teach es la amenaza, no la parálisis en cadena.)*
 
 **Desplazamiento Masivo (2/día).**  
 Como acción, Teach teletransporta a todos los enemigos en un radio de 30 pies a ubicaciones aleatorias dentro de 120 pies. Cada enemigo debe hacer salvación de Destreza CD 17 o es teletransportado.
@@ -180,6 +180,12 @@ Como acción, Teach abre un portal a otro mundo y trae 1d4 criaturas aleatorias 
 ### **Acciones Legendarias**
 
 Teach puede realizar **3 acciones legendarias por ronda**, eligiendo entre las opciones de abajo. Solo puede usar una acción legendaria a la vez y solo al final del turno de otra criatura. Recupera las acciones legendarias gastadas al inicio de su turno. Tiene acceso a acciones DIMENSIONALES y TEMPORALES (robadas de Thyra).
+
+> **📋 CHULETA DEL DM (dirígelo desde aquí — el resto es despensa):**
+> **Cada ronda:** multiataque (2 sables + Pistola) en su turno · 3 legendarias entre turnos.
+> **Legendarias por defecto:** 1ª = *Sable* al que más pegue · 2ª = *Paso Dimensional* para romper el flanqueo · 3ª = guárdala para reaccionar a la escena.
+> **Sus limitados, en orden:** *Campo de Estasis* cuando haya 2+ PJ agrupados (1/combate) → *Congelación Temporal* al lanzador (2/combate) → *Cañón* si se atrincheran → *Portal de Invocación* solo si pierde la iniciativa del campo.
+> **Regla de oro:** máximo **un PJ** incapacitado a la vez, y con el **Cristal Estabilizador** roto pierde las legendarias temporales — deja que la mesa lo VEA fallar.
 
 #### **🌌 Acciones Legendarias Dimensionales:**
 

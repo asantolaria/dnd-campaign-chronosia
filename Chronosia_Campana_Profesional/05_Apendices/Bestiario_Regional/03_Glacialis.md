@@ -2,7 +2,7 @@
 
 ![Mapa de Glacialis](../../assets/mapas/03_glacialis.png)
 
-## Lugarteniente: Ymir el Eterno Invierno · Tipo: Dimensional · Nivel PJ: 6-7
+## Lugarteniente: Ymir el Eterno Invierno · Tipo: Dimensional · Nivel PJ: 4-7
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

@@ -160,6 +160,8 @@ El golpe final la deshace en cristales de tiempo. Su poder de estasis, que deber
 
 **El engranaje oculto:** Varrak previó todo y entregó a los PJ un cristal con un mensaje profético para Din. Din y Marcus prepararon un plan en el que **Marcus sabe que debe dejarse matar**. Los PJ **no deben saber la verdad hasta el final**: para ellos, es una traición interna que se desangra en directo.
 
+> **🛠️ ¿Y SI EL CRISTAL NUNCA LLEGÓ?** (Los PJ no pisaron el Abismo o no se ganaron a Varrak.) Entonces **no hay plan** — y el capítulo cambia de género sin romperse: Marcus **no** se deja condenar; lucha su juicio con uñas y dientes, desesperado y solo, y las ramas de la Escena 2 son la única red que tiene (los PJ pasan de espectadores de un sacrificio a **únicos abogados de un inocente**). Si pierden, Marcus muere *de verdad* — sin milagro pendiente — y enlaza con el "funeral sin milagro" de la Escena 5. Más oscuro, igual de jugable: quita la línea "Confiad en mí" y el asentimiento a Din, y deja que la injusticia duela sin doble fondo.
+
 > **⚠️ Contingencia: "¿Y si Serapis ya está muerto?"** Es el caso *probable* — la Espiral es región de entrada y muchos grupos lo matan en la sesión 4-5. **El capítulo no se rompe: se pone mejor.** La Matrona Yrindra, que vigila cada ficha del tablero, **adelanta el Zin-Carla** (el destino que este capítulo ya le reservaba): los Bregan Daerthe recuperaron el cuerpo y Yrindra lo alzó como no-muerto a su servicio. El traidor que se quita el disfraz en la Escena 3 es **Serapis Zin-Carla** — mismo statblock (CR 5, Cap. 4) con tipo *no-muerto* (inmune a *envenenado* y *encantado*, resistencia necrótica), la piel gris ceniza y arena *negra* en las capas. Ajustes de la trama: Kaoros lleva años reportando a Serapis y **ni sabe que su amo ha muerto** — la telepatía ahora la contesta el cadáver (o Yrindra a través de él); el soborno de Din a los drow funciona igual (su lealtad real es de Yrindra: ella les ordena "apartarse" para ver arder el plan de su marioneta… y medir a los PJ); y en la Escena 5, muerto el Zin-Carla, **no hay segunda resurrección** — Yrindra no gasta dos rituales en cenizas. El golpe en mesa es doble: los PJ descubren que su primera victoria *volvió*… y que en Chronosia ni matar es definitivo si la Reina Araña cobra. *(Un PJ que le viera morir reconoce la herida que ellos mismos le hicieron: regálale ese detalle.)*
 
 ### Escena 1 · El agente doble y la emboscada
@@ -168,7 +170,7 @@ Kaoros, "sordo" desde hace años, comunica en realidad por **telepatía** con Se
 
 > **Kaoros** *(por señas y lectura de labios, ante la Resistencia):* "¡Rápido! Hay civiles atrapados en territorio de los Bregan Daerthe. Debemos rescatarlos antes de que sea tarde."
 
-*(Siembra pistas sutiles, sólo evidentes en retrospectiva: Kaoros "se distrae" en momentos raros, sus gestos van "desfasados", Serapis siempre va un paso por delante de la Resistencia. No las reveles.)*
+*(Siembra pistas sutiles: Kaoros "se distrae" en momentos raros, sus gestos van "desfasados", Serapis siempre va un paso por delante de la Resistencia. **No las expliques — pero sí muéstralas**: un grupo atento debe poder cazarlas antes de tiempo, y si lo hace, prémialo — ver la nota crítica de su [ficha](02_Guia_DM/03_NPCs_Importantes.md). Un misterio que no se puede ganar no es un giro: es una cinemática.)*
 
 ### Escena 2 · El juicio injusto del Capitán Marcus
 

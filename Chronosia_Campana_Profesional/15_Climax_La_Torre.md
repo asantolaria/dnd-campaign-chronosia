@@ -162,7 +162,12 @@ Es el pago de todo el tema de la campaña: *los pueblos partidos se necesitan pa
 
 Con el núcleo interrumpido y (idealmente) los dioses sueltos, queda vencer al archimago antes de que el medidor toque el 100%. Aethernus pelea **por fases**: tres barras de vida consecutivas; al agotar una, transiciona a la siguiente con un nuevo monólogo. Sus poderes dependen de **qué lugartenientes seguían vivos** al empezar: por cada lugarteniente que el grupo ya derrotó en el sandbox, **tacha** un poder robado de su Fase 2. El trabajo previo del grupo se cobra aquí, mecánicamente.
 
-Si los dioses fueron liberados, intervienen entre fases: **Amaunator** lanza envejecimiento y bucles temporales, **Voidar** comprime y fragmenta el espacio bajo los pies de Aethernus. No ganan el combate por los PJ —lo hacen **ganable**.
+Si los dioses fueron liberados, intervienen — debilitados, pero divinos. **Regla:** al **final de cada ronda**, cada dios liberado hace **una** de estas dos cosas (elige tú, o deja que la mesa se lo pida en voz alta — es su momento):
+
+- **Golpear:** Aethernus sufre **3d10** de daño (radiante de Amaunator o de fuerza de Voidar) **sin tirada** — las cadenas conocían a su carcelero — y tiene **desventaja en su primera salvación** de la ronda siguiente.
+- **Amparar:** un PJ a elección **recupera 2d10 PG** *o* **repite una salvación fallida** esta ronda (la luz dorada lo sostiene; la sombra violeta aparta el golpe medio palmo).
+
+No actúan de otra forma —están exhaustos tras ochocientos años— y **no ganan el combate por los PJ: lo hacen ganable** (~6d10 de presión por ronda entre ambos, o su equivalente en sostén).
 
 > *Leído al caer la última barra (con la llave):*
 > "Aethernus se desploma sobre el círculo apagado. El sol diminuto y la estrella negra del Cronosellado parpadean… y se separan, por fin, en una luz dorada y una sombra violeta que ya no se drenan. El anciano levanta la vista hacia los dos dioses libres, y por primera vez en ochocientos años entiende lo que es ser pequeño. «…No estaba escrito», susurra. Y se apaga."
@@ -175,29 +180,29 @@ Si los dioses fueron liberados, intervienen entre fases: **Amaunator** lanza env
 
 ![Aethernus Valcarys](assets/bestiario/lugartenientes/12_aethernus-valcarys.jpg)
 
-**CA** 19 · **PG** 300 en **3 barras de fase** (110 / 100 / 90) · **Vel.** 30 pies, vuelo 60 pies
+**CA** 19 · **PG** 380 en **3 barras de fase** (140 / 130 / 110) · **Vel.** 30 pies, vuelo 60 pies *(con 3 PJ o mesas lentas: 110/100/90 — misma escala que su ficha)*
 **FUE** 18 (+4) · **DES** 16 (+3) · **CON** 16 (+3) · **INT** 22 (+6) · **SAB** 18 (+4) · **CAR** 20 (+5)
 **Salv.** DES +8, CON +8, INT +11, SAB +9, CAR +10 · **Resist.** temporal, espacial; daño no mágico
 **Inmune (estado):** encantado, agotado, envenenado, asustado · **V. verdadera** 120 pies · **P. pasiva** 19 · **Idiomas:** todos
 
-- ***Combate por fases.*** No es un saco de 300 PG: al vaciar una barra, transiciona (gratis, sin AdO), recupera el repertorio de la nueva barra y suelta un monólogo. Muere solo al vaciar la barra de Fase 3.
+- ***Combate por fases.*** No es un saco de 380 PG: al vaciar una barra, transiciona (gratis, sin AdO), recupera el repertorio de la nueva barra y suelta un monólogo. Muere solo al vaciar la barra de Fase 3.
 - ***Resistencia Legendaria (3/día).*** Convierte un fallo de salvación en éxito. **No se recarga** entre fases.
 - ***Inmunidad a Predicción.*** Inmune a *presagio* y efectos que adivinen sus acciones.
 - ***Acciones Legendarias (3/ronda):*** *Ataque de Espada* (1) · *Paso Dimensional* — teletransporte 60 pies (1) · *Estallido* — un enemigo a 60 pies, CD 18 (2).
 
 > **Esencia de mago.** Aethernus lucha como **archimago**: su daño principal son los conjuros y poderes de cada fase. Empuña la Espada **o** el Bastón **a una mano**, con la otra **libre para conjurar**, y **no usa escudo**. Sus multiataques mezclan un golpe de arma con **Descarga Divina** (*ataque de conjuro a distancia:* +11, 120 pies, 2d10+5 temporal/espacial).
 
-**🟢 Fase 1 — El Estratega Recluido (110 PG).** *Regeneración:* +10 PG al inicio de su turno (desaparece en Fase 2).
+**🟢 Fase 1 — El Estratega Recluido (140 PG).** *Regeneración:* +10 PG al inicio de su turno (desaparece en Fase 2).
 - ***Multiataque:*** una *Espada de Poder Divino* (+11, 2d10+5 cortante + 3d6 temporal/espacial; CD 18 CON o envejece 1d6 años / teleport 30 pies) + una *Descarga Divina* (conjuro; +11, 120 pies, 2d10+5 temporal/espacial).
 - ***Manipulación Temporal (3/día):*** radio 60 pies, CD 18 SAB o *lentitud* (enemigos) / *celeridad* (aliados).
 
-**🟡 Fase 2 — El Cónclave Encarnado (100 PG).** Pierde la regeneración; gana los poderes de los **lugartenientes que sigan vivos** (tacha los caídos).
+**🟡 Fase 2 — El Cónclave Encarnado (130 PG).** Pierde la regeneración; gana los poderes de los **lugartenientes que sigan vivos** (tacha los caídos).
 - ***Multiataque:*** tres ataques: un golpe de arma a una mano (Espada o *Bastón de Mando*: +11, 2d6+5 cont. + 3d6 mágico, CD 18 SAB o encantado 1 turno) + dos *Descarga Divina* (mano libre para conjurar).
 - ***Llamada a Lugartenientes (1/combate):*** hasta 2 lugartenientes vivos aparecen y luchan por él.
 - ***Extracción de Poder (rec. 5-6):*** enemigo a 30 pies, CD 18 CON o desventaja al ataque; Aethernus cura 25 PG.
 - ***Poderes robados (solo de lugartenientes VIVOS):*** p. ej. envejecimiento 1d4 años (CD 18 CON); *Portal de Fuego* cono 60 pies, CD 18 DES, 12d6 fuego. *Cada lugarteniente caído antes = un poder menos.*
 
-**🔴 Fase 3 — La Ascensión Truncada (90 PG).** Absorbe a cualquier lugarteniente invocado (cura 20 PG).
+**🔴 Fase 3 — La Ascensión Truncada (110 PG).** Absorbe a cualquier lugarteniente invocado (cura 20 PG).
 - ***Inestabilidad del Ritual:*** al inicio de su turno, la criatura no aliada más cercana hace CD 18 DES o 2d6 temporal/espacial.
 - ***Multiataque:*** una *Espada* potenciada (daño temporal/espacial sube a 4d6) + una *Descarga Divina*.
 - ***Combinación de Poderes (rec. 5-6):*** campo de 60 pies, CD 18 CON, 10d6 temporal/espacial (mitad si pasa) + aturdido 1 turno con fallo.

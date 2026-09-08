@@ -89,7 +89,7 @@ RELOJ DEL RITUAL — Ascensión de Aethernus
 |---|
 | Completáis el **arco de una región** (ir + resolver) |
 | Hacéis una **travesía larga** (un viaje que es un arco: cruzar el mar muerto, bajar al ala profunda) |
-| Pasa una **temporada de inactividad** en Cronópolis (descanso o investigación larga) |
+| Pasa una **temporada de inactividad** en Cronópolis — **una semana o más** de descanso, proyecto o investigación larga (los descansos largos normales entre misiones NO cuentan) |
 
 De 2 a 8 hay **~6 hitos**, y el **SALTO de Thyra consume 2 de golpe** (Cap. 14) → sin frenar nada caben **~4 regiones**; cada crítico cortado devuelve 2 respiros, hasta las **~5-6 regiones** típicas en ~14-15 sesiones. Que dejen zonas sin ver **es el punto**, no un fallo.
 

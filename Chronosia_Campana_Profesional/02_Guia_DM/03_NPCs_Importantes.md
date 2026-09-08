@@ -17,6 +17,8 @@
 
 > **Custodio que no descifra.** Galen entiende el **Reloj** (el presente), pero **no** la **media llave chroniana de la superficie**: guarda una **piedra sagrada** (Cámara del Tiempo) y unas **palabras** que su linaje tiene orden de retener intactas desde la fractura, **sin saber qué abren**. Pasa la mitad a los PJ con confianza ganada; el **significado** lo descubren ellos en Las Ruinas del Tiempo Perdido y en Abysara. Detalle en [Cronópolis → Galen](../03_Cronopolis.md) y [catálogo → La Llave Chroniana](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-la-llave-chroniana-las-dos-mitades).
 
+**Deseo, defecto y su escena** *(para que sea una persona, no un rol)*: Galen lleva sesenta años custodiando unas palabras que tiene **prohibido** intentar entender — y su deseo secreto, casi vergonzoso, es **oír qué abren antes de morir**. Su defecto es la otra cara: retiene información *por reflejo*, incluso cuando compartirla salvaría tiempo (sus silencios de "aún no estáis listos" son mandato hecho carne, y a veces se equivocan). **Su escena** (prográmala en el clímax o al reunir la llave): cuando las dos mitades se unen y las palabras suenan por fin, Galen no mira la llave — **cierra los ojos para escucharla**. Dale a un PJ el detalle: el custodio está llorando. Sesenta años de fidelidad a ciegas, pagados en un acorde.
+
 **Diálogos Clave**:
 
 #### **Primera Explicación del Reloj**
@@ -268,6 +270,8 @@
 - **Acciones**: Arriesga su vida por los PJ y proporciona acceso total a su arsenal
 
 **En mesa (mecenas tecnológico):** armas de fuego, armadura estabilizadora, granadas de neutralización, inteligencia militar y refugio en la Fortaleza de Acero — todo condicionado a la fase de relación de arriba. Su arco personal es la reconciliación con la magia: cada vez que un lanzador *libere* algo en vez de romperlo delante de él, sube un peldaño. Sus misiones concretas están al final de este capítulo.
+
+**La escena que paga el arco** *(prográmala en Fase 3-4 — la escalera de arriba dice CUÁNDO; esto es el CÓMO)*: una noche, Marcus lleva al lanzador del grupo a la fragua apagada de la Fortaleza. Saca el retrato quemado de su familia — lo único que el portal le dejó — y pide, sin mirar a nadie: *"Enciéndela tú. Con eso."* La fragua que su prótesis no puede sentir, encendida por la cosa que se los llevó. Si el lanzador lo hace con respeto, Marcus asiente una vez y no habla del tema nunca más — pero desde esa noche, la Resistencia deja de cachear a los magos en su puerta. Es todo su arco en un gesto: no aprende a amar la magia; aprende a **delegarla en manos que eligió**.
 
 ---
 

@@ -29,7 +29,7 @@ Los Oceánicos de las Profundidades son una raza humanoide acuática que vive en
 Hace más de 800 años, antes de que la batalla de los dioses devastara Chronosia, existía un pueblo unificado: **los Chronianos**. Eran una raza humanoide con afinidad natural tanto por el tiempo como por el espacio.
 
 **La Gran División:**
-Cuando Aethernus (Manshoon) inició la batalla entre **Amaunator** (Dios del Tiempo) y **Voidar** (Dios del Espacio), los Chronianos se dividieron en dos facciones con filosofías opuestas:
+Cuando la **Guerra de los Dioses estalló sola**, hace ~800 años (Aethernus llegaría siglos después: él no la provocó — la *perpetúa*; ver [La Historia de Chronosia](../../00_La_Historia_de_Chronosia.md)), los Chronianos se dividieron en dos facciones con filosofías opuestas:
 
 - **Los Oceánicos**: Eligieron refugiarse bajo el mar en las ruinas de **Abysara**
 - **Los Anacronistas**: Eligieron la superficie y fundaron **Cronópolis**
@@ -146,7 +146,7 @@ Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mo
 - Relación cordial que dura DOS DÉCADAS
 - Los Oceánicos lo consideran aliado confiable
 
-**Después del 1er Lugarteniente (Sesión 4-5):**
+**El robo de la Perla (pasado reciente — ~hito 1-2 del Reloj, ver Cap. 14):**
 - Teach visita Abysara usando portales dimensionales
 - **Roba la Perla del Vacío Primordial**
 - **MASACRE DE 47 GUERREROS OCEÁNICOS** que intentan detenerlo

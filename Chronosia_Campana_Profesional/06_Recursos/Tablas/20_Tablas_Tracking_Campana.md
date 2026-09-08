@@ -128,12 +128,12 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **2** | | 3 | 4 | Investigación completa | |
 | **3** | | 4 | 5 | Primer lugarteniente | |
 | **4-5** | | 5 | 6 | Eventos de robos (XP narrativo) | |
-| **6** | | 6 | 7 | Reacción Espontánea | |
+| **6** | | 6 | 7 | Hito narrativo (la Traición de Serapis, Cap. 14) | |
 | **7** | | 7 | 8 | Derrotar 1-2 lugartenientes | |
 | **8** | | 8 | 9 | Derrotar 1-2 lugartenientes | |
 | **9** | | 9 | 10 | Derrotar 1 lugarteniente (techo de nivel) | |
 | **10-12** | | 10 | 10 | Revelaciones, Varrak, lugartenientes restantes (sin subir de nivel) | |
-| **Clímax** | | 10 | 10 | Reloj a 8/8 → asalto a la Torre de la Eternidad (Fase 4) | |
+| **Clímax** | | 10 | 10 | Asalto a la Torre **cuando reúnan la llave chroniana y la entrada** — idealmente con el Reloj en 6-7/8. **A 8/8 la ascensión se consuma (Final D, derrota)**: la Torre nunca "se abre" por el Reloj | |
 
 ### **📝 Tracking Individual de PJ:**
 

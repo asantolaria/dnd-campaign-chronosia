@@ -47,6 +47,8 @@
 **Se revela:** al descubrir el destino del Talismán y la suerte de Thyra.
 
 > El Talismán ya se usó una vez. **Thyra la Suspendida ha sido asesinada.** Una diosa, interceptada y silenciada con su propio robo convertido en arma. Teach probó el filo. Funcionó.
+>
+> *(**Nota para el DM:** Thyra NO es una diosa — es una lugarteniente. La exageración es del cronista pirata que compiló el dossier, y puedes usarla: si un jugador la corrige con lo que sabe, dale inspiración; si se la creen, los Anacronistas los sacarán del error con sorna.)*
 
 ---
 

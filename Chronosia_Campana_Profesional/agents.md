@@ -70,13 +70,12 @@ Chronosia_Campana_Profesional/
 - **Información duplicada:** Eliminar duplicado y añadir referencia
 
 #### **Documentos Maestros (Fuentes de Verdad):**
-- **Motor de campaña (estructura, ritmo, Reloj del Ritual, puertas):** `02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md` ⭐ keystone
+- **Motor de campaña (estructura, ritmo, Reloj del Ritual, puertas):** `01_Como_Dirigir.md` ⭐ keystone
 - **Timeline:** `07_Cronologia_Maestra_Campana.md`
 - **Tracking:** `20_Tablas_Tracking_Campana.md`
 - **Lugartenientes:** `04_Cronofagos_Detallado.md`
 - **Regiones:** `08_Geografia_y_Regiones_de_Chronosia.md`
 
-> ⚠️ **Sistema RETIRADO:** `05_La_Ascension_del_Conclave.md` (Lugartenientes Supremos / Ascensión del Cónclave / poder ×3 + inmortalidad) y el "balance temporal/dimensional" ya **no son vigentes**. El stub sigue existiendo, pero para estructura, ritmo y la escalada de villanos manda el keystone `10_Motor_de_Campana_Reloj_y_Puertas.md`.
 
 ---
 
@@ -180,9 +179,8 @@ Chronosia_Campana_Profesional/
 - `02_Guia_DM/07_Cronologia_Maestra_Campana.md` - Timeline maestro
 
 #### **Sistemas de Juego:**
-- `02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md` - ⭐ keystone: Reloj del Ritual, mapa de puertas, escalada de Teach, finales
+- `01_Como_Dirigir.md` - ⭐ keystone: Reloj del Ritual, mapa de puertas, escalada de Teach, finales
 - `06_Recursos/Tablas/20_Tablas_Tracking_Campana.md` - Tablas de tracking
-- ~~`02_Guia_DM/05_La_Ascension_del_Conclave.md`~~ - **RETIRADO** (Ascensión del Cónclave / balance); usar el keystone
 
 #### **Contenido Narrativo:**
 - `02_Guia_DM/04_Cronofagos_Detallado.md` - Lugartenientes
@@ -252,11 +250,10 @@ Chronosia_Campana_Profesional/
 ## 🔗 **REFERENCIAS RÁPIDAS**
 
 ### **Documentos Maestros:**
-- Motor de campaña (keystone): `02_Guia_DM/10_Motor_de_Campana_Reloj_y_Puertas.md`
+- Motor de campaña (keystone): `01_Como_Dirigir.md`
 - Timeline: `02_Guia_DM/07_Cronologia_Maestra_Campana.md`
 - Tracking: `06_Recursos/Tablas/20_Tablas_Tracking_Campana.md`
 - Lugartenientes: `02_Guia_DM/04_Cronofagos_Detallado.md`
-- ⚠️ RETIRADO (usar keystone): `02_Guia_DM/05_La_Ascension_del_Conclave.md`
 
 ### **Guías de Fases:**
 - Fase 0: `04_Aventuras/Fase_0_Railroad_Inicial/00_Guia_General_Fase_0.md`

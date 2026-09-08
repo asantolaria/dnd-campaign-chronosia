@@ -2,7 +2,7 @@
 
 ![Mapa de Las Ruinas del Tiempo Perdido](../../assets/mapas/04_ruinas-del-tiempo-perdido.png)
 
-## Lugarteniente: Tempus el Fragmentado · Tipo: Temporal · Nivel PJ: 6-7
+## Lugarteniente: Tempus el Fragmentado · Tipo: Temporal · Nivel PJ: 8-10
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

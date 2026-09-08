@@ -26,11 +26,11 @@ Compara el **nivel recomendado** con el nivel del grupo para leer el riesgo:
 |---|---|---|---|---|---|
 | **Serapis** | Espiral Inversa | 🕓 Temporal | 4-7 | **Núcleo Temporal**; Arena del Tiempo | Revierte el tiempo: concéntralo todo en un asalto antes de que "rebobine" el daño. |
 | **Ymir** | Glacialis | 🌌 Dimensional | 4-7 | **Carcasa Dimensional** | El fuego rompe su invierno eterno; ciérrale los portales antes de que traiga refuerzos. |
-| **Medusa** | Jardín de los Tiempos Gemelos | 🕓 Temporal | 5-8 | **Núcleo Temporal** | No cruces su mirada: combate con espejos o a ciegas. |
-| **Las Gemelas** | Jardín de los Tiempos Gemelos | 🕓 Temporal | 5-8 *(aliables)* | **Núcleo Temporal** | Sepáralas: juntas se curan y "duplican" turnos. Pueden no ser enemigas. |
+| **Medusa** | Jardín de los Tiempos Gemelos | 🌌 Dimensional *(la "estasis" es disfraz)* | 5-8 | **Carcasa Dimensional** | No cruces su mirada: combate con espejos o a ciegas. |
+| **Las Gemelas** | Jardín de los Tiempos Gemelos | 🌌 Dimensional | 5-8 *(aliables)* | **Carcasa Dimensional** | Sepáralas: juntas se curan y "duplican" turnos. Pueden no ser enemigas. |
 | **Varrak** | Abismo de los Posibles | 🔮 Oráculo | 5-8 *(aliable)* | visiones del futuro; posible sacrificio | No es un enemigo natural: escúchalo antes de desenvainar. |
-| **Tempus** | (errante) | 🕓 Temporal | 7-8 | **Núcleo Temporal** | Fragmenta su propio tiempo: dispérsalo y pierde acciones. |
-| **Dimensionalis** | (ala profunda) | 🌌 Dimensional | 8-9 | **Carcasa Dimensional** | Anclar el espacio (p. ej. *zona antimagia*) la deja sin teletransportes. |
+| **Tempus** | Ruinas del Tiempo Perdido | 🕓 Temporal | 8-10 | **Núcleo Temporal** | Fragmenta su propio tiempo: dispérsalo y pierde acciones — o repárale el corazón (engranaje dorado). |
+| **Dimensionalis** | Llanuras de la Compresión | 🌌 Dimensional | 9-10 | **Carcasa Dimensional** | Anclar el espacio (p. ej. *zona antimagia*) la deja sin teletransportes. |
 | **Vorthak** *(crítico)* | Mansión de la Sed Eterna | 🩸 Vida | 8-10 | frena el Reloj | Luz solar y daño radiante cortan su regeneración. |
 | **Yrindra** | Ciudad de Veldrisza | 🌌 Dimensional | 9-10 | **Carcasa Dimensional** | Mueve los hilos desde la sombra: corta a sus marionetas primero. |
 | **Ignis** *(crítico)* | ala dimensional profunda | 🌌 Dimensional | 9-10 | **abre las Llanuras/Veldrisza**; frena el Reloj | Devora espacio: lucha en espacios cerrados donde no pueda "tragarse" el terreno. |
@@ -78,7 +78,7 @@ Para que **cada campaña sea distinta de verdad** (no solo "qué regiones ves"),
 | 1d4 | ¿Dónde aparece el primer **Núcleo/Carcasa** "fácil"? |
 |---|---|
 | 1 | Como está escrito: Serapis (Núcleo), Ymir (Carcasa). |
-| 2 | Núcleo en el Jardín (Medusa/Gemelas); Carcasa en Ymir. |
+| 2 | Carcasa en el Jardín (Medusa/Gemelas); Núcleo en Serapis. |
 | 3 | Núcleo en Serapis; Carcasa la tiene Yrindra (más tarde → puerta más dura). |
 | 4 | Ambas piezas las guardan lugartenientes de nivel medio: el Archipiélago se abre más tarde. |
 

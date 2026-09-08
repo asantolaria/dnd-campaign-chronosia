@@ -2,7 +2,7 @@
 
 ![Mapa de Las Llanuras de la Compresión](../../assets/mapas/06_llanuras-de-la-compresion.png)
 
-## Lugarteniente: Dimensionalis la Fracturada · Tipo: Dimensional · Nivel PJ: 7-8
+## Lugarteniente: Dimensionalis la Fracturada · Tipo: Dimensional · Nivel PJ: 9-10
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

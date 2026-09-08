@@ -426,7 +426,7 @@ Un espejo circular de 3 pies de diámetro con marco de plata ornamentada. La sup
 **Rareza:** Artefacto Único  
 **Peso:** 8 libras  
 **Creador:** Serapis el Retroceso  
-**Obtención:** Derrotar a Serapis el Retroceso  
+**Obtención:** la deja **cualquier lugarteniente temporal** al caer (Serapis es el más accesible)  
 **Función:** Permite entrar en bucles temporales sin quedar atrapado
 
 #### **📍 Ubicación y Obtención:**
@@ -437,18 +437,18 @@ Un espejo circular de 3 pies de diámetro con marco de plata ornamentada. La sup
 - **Estado:** Serapis lo usa para controlar los bucles temporales de su región
 
 **Cómo Obtenerlo:**
-1. **Derrotar a Serapis el Retroceso:** Al derrotarlo, la Arena puede ser obtenida como botín
+1. **Derrotar a cualquier conducto de Amaunator** (Serapis, Tempus…): la Arena cristaliza de su esencia al caer
 2. **Nivel Recomendado:** 5-7 (primera región recomendada)
 3. **Región:** La Espiral Inversa
 
 **Requisitos:**
-- **Derrotar a Serapis:** Los PJ deben enfrentar y derrotar a Serapis el Retroceso
+- **Un conducto temporal caído** (el que sea — el Mapa de Puertas no fuerza objetivos)
 - **Nivel Recomendado:** 5-7 (primera región recomendada)
 - **Nota:** Serapis es el primer lugarteniente recomendado para enfrentar
 
 **Uso Post-Obtención:**
 - **Desbloquea:** Permite acceder a Las Ruinas del Tiempo Perdido (región de Tempus)
-- **Alternativa:** Si los PJ derrotan 3+ lugartenientes temporales, pueden acceder sin la Arena
+- **Sin alternativa que valga la pena:** solo hay tres conductos temporales combatibles y uno vive dentro de las Ruinas — la Arena ES el camino
 - **Componente del Rotor:** El Núcleo Temporal de Serapis es parte del Rotor Infinito
 
 #### **📜 Historia:**
@@ -565,26 +565,23 @@ Una máquina de excavación del tamaño de un carro pequeño, con múltiples tal
 **Rareza:** Artefacto Único  
 **Peso:** 500 libras (completo)  
 **Creador:** Din Goldgear + Ingenieros de Cronópolis  
-**Componentes:** Núcleo Temporal (Serapis) + Carcasa Dimensional (Ymir)  
-**Estado Actual:** 🔄 Fragmentado (requiere ambas partes)
+**Componentes:** un **Núcleo Temporal** (lo deja *cualquier* lugarteniente temporal — o Varrak aliado lo destila sin morir) + una **Carcasa Dimensional** (la deja *cualquier* lugarteniente dimensional)  
+**Estado Actual:** 🔄 Fragmentado (requiere una pieza de cada tipo)
 
 #### **📍 Ubicación y Obtención:**
 
-**Ubicación de los Componentes:**
-- **Núcleo Temporal:** En posesión de Serapis el Retroceso (La Espiral Inversa)
-- **Carcasa Dimensional:** En posesión de Ymir el Eterno Invierno (Glacialis)
-- **Estado:** Fragmentado - cada componente está con un lugarteniente diferente
+**Ubicación de los Componentes** *(fuente de verdad: el Mapa de Puertas, Cap. 1)*:
+- **Núcleo Temporal:** lo suelta **cualquier conducto de Amaunator** — Serapis (Espiral, entrada abierta), Tempus (Ruinas)… o la vía **sin sangre**: **Varrak aliado destila uno de su propia esencia**.
+- **Carcasa Dimensional:** la suelta **cualquier conducto de Voidar** — Ymir (Glacialis, entrada abierta), Medusa o las Gemelas (Jardín), Dimensionalis, Yrindra, Ignis.
 
 **Cómo Obtenerlo:**
-1. **Derrotar a Serapis:** Obtener el Núcleo Temporal (parte 1)
-2. **Derrotar a Ymir:** Obtener la Carcasa Dimensional (parte 2)
-3. **Entregar a los Ingenieros:** Los Ingenieros de Cronópolis ensamblan el Rotor completo
-4. **Quest Giver:** Ingenieros de Cronópolis (Din Goldgear, Balthar Herrumbra, o Lucienne Rietveldt)
+1. **Conseguir una pieza de cada tipo** (Serapis e Ymir son los más accesibles, pero **no obligatorios** — el grupo elige a quién cazar o con quién pactar)
+2. **Entregar a los Ingenieros:** los Ingenieros de Cronópolis ensamblan el Rotor completo
+3. **Quest Giver:** Din Goldgear, Balthar Herrumbra o Lucienne Rietveldt
 
 **Requisitos:**
-- **Ambas Partes:** Necesitas derrotar a AMBOS lugartenientes (Serapis Y Ymir)
-- **Nivel Recomendado:** 5-7 (ambos son lugartenientes de nivel bajo, relativamente fáciles)
-- **Alianza con Ingenieros:** Los Ingenieros deben estar dispuestos a construir con el Rotor
+- **Una pieza de cada tipo** (nunca dos Núcleos ni dos Carcasas: el Rotor necesita ambos polos)
+- **Alianza con Ingenieros:** deben estar dispuestos a construir con el Rotor
 
 **Proceso de Ensamblaje:**
 - **Tiempo:** 1 semana de trabajo continuo
@@ -594,15 +591,13 @@ Una máquina de excavación del tamaño de un carro pequeño, con múltiples tal
 
 **Uso Inmediato:**
 - **Motor de Viento Perpetuo:** Los Ingenieros construyen un Motor de Viento Perpetuo usando el Rotor
-- **Desbloquea:** Archipiélago de Barbanegra (Mar en Calma) - Solo después de que Teach se desbloquee
+- **Desbloquea:** el Archipiélago de Barbanegra — el Motor **ES** la puerta del mar en calma (Mapa de Puertas, Cap. 1)
 
-**Uso Posterior (Post-campaña):**
-- **Ferrocarril Universal:** Conecta todas las regiones de Chronosia mediante vías
-- **Portal a Faerún:** Crea un portal permanente a Faerún al final de las vías
-- **Impacto:** Permite a los PJ volver a casa y a los habitantes viajar entre planos
+**Uso Posterior (post-campaña):**
+- **Ferrocarril Universal** (ver Artefactos de Ingeniería): un sueño de los gnomos para conectar las regiones por vías. *(El regreso a Faerûn canónico del epílogo pasa por el **Nexo Planar** —la red de Ymir reorientada, ver ese capítulo—; el Ferrocarril es la alternativa lenta y gloriosa para mesas que quieran construir en vez de reutilizar.)*
 
 #### **📜 Historia:**
-Artefacto gnomo diseñado para conectar TODAS las regiones de Chronosia mediante un Ferrocarril Universal. El objetivo final es conectar Chronosia con Faerún - el ferrocarril es la llave de regreso a casa para los PJs. Actualmente está fragmentado, con cada componente en posesión de un lugarteniente diferente.
+Artefacto gnomo anterior a la ocupación: el corazón de un sueño de ingeniería chroniano-gnomo que la fractura interrumpió. Aethernus repartió sus piezas entre sus conductos — no por entender lo que eran, sino porque todo lo que gira le parece suyo.
 
 #### **🎨 Descripción Física (Completo):**
 Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales temporales. El núcleo interno (de Serapis) pulsa con energía temporal dorada, mientras que la carcasa externa (de Ymir) está hecha de hielo eterno que nunca se derrite. Cuando está completo, el rotor gira infinitamente, generando energía temporal y espacial simultáneamente.
