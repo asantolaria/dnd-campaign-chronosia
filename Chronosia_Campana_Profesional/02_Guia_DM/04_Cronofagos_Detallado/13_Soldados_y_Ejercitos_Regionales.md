@@ -114,175 +114,23 @@ Cada región tiene soldados únicos porque:
 
 ---
 
-## ⏰🌌 **LUGARTENIENTES QUE CREAN SOLDADOS CON PODERES PROPIOS**
+## ⏰🌌 **LUGARTENIENTES QUE CREAN SOLDADOS — LA TABLA ÚNICA**
 
-### **⏰ Soldados Temporales**
+> **Cómo funciona:** todos los soldados infundidos usan la **misma base** según su rango — la Tropa, el Sargento, el Lanzador o el Oficial cronófago de [17_Monstruos](../../05_Apendices/17_Monstruos_Enemigos.md) (o un oficial equivalente del MM: guardia, veterano, mago) — y se distinguen por **un rasgo regional** y una **seña visual**. Regla de mesa: cada soldado lleva **un solo rasgo**, el de su región; el rasgo se usa **1/combate** salvo que se diga otra cosa.
 
-Los soldados temporales reciben fragmentos del poder temporal de su lugarteniente. Cada lugarteniente temporal otorga habilidades únicas basadas en su especialización específica.
+| Lugarteniente | Sus soldados | Rasgo regional | Seña visual |
+|---|---|---|---|
+| **Serapis** | Los Retrocedentes | **Retroceso de Heridas:** repite un ataque fallido, *o* recupera 1d6 PG al recibir daño ("la herida nunca ocurrió") | un brazo joven y otro anciano; armas que se oxidan y restauran en ciclo |
+| **Varrak** *(si cae en bando enemigo)* | Los Videntes | **Esquiva Profética:** impone desventaja a un ataque que le alcance — lo vio venir | ojos que reflejan cosas que aún no han pasado |
+| **Vorthak** | Los Drenados | **Mordida de Años:** al impactar, CON CD 13 o el objetivo envejece 1d4 años y el Drenado recupera 2 PG por año | demacrados y hambrientos; uniformes que beben la luz |
+| **Tempus** | Los Fragmentados | **Desfase:** como reacción a un ataque que le impactaría, reaparece a 10 pies y el ataque falla | parpadean entre dos posturas, como fotogramas saltados |
+| **Las Gemelas** | Los Gemelos | operan **en parejas**: uno con **Prisa** (una acción extra) y otro con **Anulación** (anula un ataque enemigo declarado) | parejas idénticas: cabello plateado (Lyra) y negro (Nyx), movimientos en espejo |
+| **Ymir** | La Guardia del Deshielo | **Paso Helado:** teletransporte de 30 pies entre dos superficies con hielo; resistencia al frío (permanente) | escarcha viva creciendo en las juntas de la armadura |
+| **Medusa** | Los Velados | **Mirada Prestada:** CON CD 13 o el objetivo queda apresado (piedra a medias) 1 ronda | vendas en los ojos; piel gris veteada de mármol |
+| **Dimensionalis** | Los Fracturados | **Ataque Multiplano:** su ataque ignora cobertura y escudos — llega "desde otra dimensión" | versiones de sí mismos superpuestas y desfasadas |
+| **Teach** | Los Estancados | **Ancla de Estasis** (CON CD 13 o velocidad 0 un turno) *o* **Portal Pirata** (teletransporte 30 pies) | piratas con partes del cuerpo congeladas a medio gesto |
 
-#### **🔄 Soldados de Serapis el Retroceso - "Los Retrocedentes"**
-
-**Poder Otorgado:** Reversión Temporal
-
-**Habilidades Únicas:**
-- **Retroceso de Heridas**: Pueden revertir heridas menores (1d6 HP restaurados) una vez por combate
-- **Repetición de Acción**: Pueden repetir una acción fallida una vez por combate (como si retrocedieran en el tiempo)
-- **Armas Regresivas**: Sus armas pueden revertir el daño causado, haciendo que las heridas "nunca ocurrieran" (reduce daño en 1d4)
-- **Disfunción**: Sus cuerpos muestran signos de envejecimiento y rejuvenecimiento simultáneos
-
-**Apariencia:**
-- Partes del cuerpo de diferentes edades (un brazo joven, otro anciano)
-- Uniformes que cambian de época constantemente
-- Armas que se oxidan y se restauran en un ciclo continuo
-
-**Tácticas:**
-- Formaciones que se mueven hacia atrás en el tiempo
-- Coordinación con versiones pasadas de sí mismos
-- Defensas que "nunca fueron heridas"
-
----
-
-#### **🔮 Soldados de Varrak del Horizonte - "Los Videntes"**
-
-**Poder Otorgado:** Predicción Temporal
-
-**Habilidades Únicas:**
-- **Visión del Futuro**: Pueden ver el próximo movimiento de un enemigo (ventaja en la primera tirada de ataque por combate)
-- **Esquiva Profética**: Pueden esquivar un ataque una vez por combate como si supieran que venía
-- **Ataque Anticipado**: Pueden atacar en la iniciativa del enemigo si predicen su movimiento
-- **Disfunción**: Sus ojos muestran múltiples futuros posibles, causando confusión ocasional
-
-**Apariencia:**
-- Ojos que brillan con visiones del futuro
-- Movimientos que parecen anticipar los ataques enemigos
-- Uniformes que muestran versiones futuras de sí mismos
-
-**Tácticas:**
-- Formaciones que se adaptan antes de que el enemigo ataque
-- Coordinación perfecta basada en predicciones
-- Emboscadas que parecen imposibles de evitar
-
----
-
-#### **🧛 Soldados de Lord Vorthak - "Los Drenados"**
-
-**Poder Otorgado:** Drenaje Temporal de Vida
-
-**Habilidades Únicas:**
-- **Drenaje de Vida**: Sus ataques pueden drenar vida temporal (1d4 años de vida) de los enemigos
-- **Transferencia de Vida**: Pueden transferir vida drenada a Vorthak o a otros soldados
-- **Reservas Temporales**: Pueden almacenar vida drenada para uso posterior
-- **Disfunción**: Muestran signos de envejecimiento prematuro y debilidad constante
-
-**Apariencia:**
-- Cuerpos demacrados y pálidos
-- Signos de envejecimiento prematuro
-- Uniformes oscuros que absorben la luz
-- Ojos que brillan con hambre insaciable
-
-**Tácticas:**
-- Ataques coordinados para drenar vida rápidamente
-- Formaciones que protegen a Vorthak mientras drenan
-- Sacrificio de soldados para alimentar a Vorthak
-
----
-
-#### **🪞 Soldados de Las Gemelas del Espejo - "Los Gemelos"**
-
-**Poder Otorgado:** Flujo Temporal Bidireccional
-
-**Habilidades Únicas:**
-- **Aceleración Temporal** (soldados de Lyra): Pueden acelerar sus acciones (acción adicional una vez por combate)
-- **Reversión Temporal** (soldados de Nyx): Pueden revertir una acción enemiga (anular un ataque una vez por combate)
-- **Coordinación Gemela**: Los soldados trabajan en parejas, uno acelerando y otro revirtiendo
-- **Disfunción**: Sus cuerpos muestran signos de envejecimiento y rejuvenecimiento simultáneos
-
-**Apariencia:**
-- Soldados que aparecen en parejas idénticas
-- Un soldado con cabello plateado (Lyra), otro con cabello negro (Nyx)
-- Movimientos sincronizados perfectamente
-- Uniformes que reflejan diferentes épocas
-
-**Tácticas:**
-- Ataques coordinados con aceleración y reversión
-- Formaciones que se mueven en ambas direcciones temporales
-- Defensas que combinan velocidad y reversión
-
----
-
-### **🌌 Soldados Dimensionales**
-
-Los soldados dimensionales reciben fragmentos del poder espacial de su lugarteniente. Cada lugarteniente dimensional otorga habilidades únicas basadas en su especialización específica.
-
-#### **🏴‍☠️ Soldados de Edward Teach "Barbanegra" - "Los Estancados"**
-
-**Poder Otorgado:** Estasis Temporal + Manipulación Espacial
-
-**Habilidades Únicas:**
-- **Estasis Parcial**: Pueden congelar parcialmente a los enemigos (reducir velocidad a la mitad una vez por combate)
-- **Portales Piratas**: Pueden crear pequeños portales para teletransportarse cortas distancias (30 pies, 1/día)
-- **Ataques desde Múltiples Direcciones**: Sus ataques pueden venir de direcciones imposibles
-- **Disfunción**: Sus cuerpos muestran signos de estasis temporal (movimientos congelados parcialmente)
-
-**Apariencia:**
-- Uniformes de pirata con elementos temporales congelados
-- Partes del cuerpo que parecen congeladas en el tiempo
-- Armas que se mueven a través del espacio de forma imposible
-- Ojos que brillan con poder temporal robado
-
-**Tácticas:**
-- Ataques desde portales dimensionales
-- Formaciones que se teletransportan
-- Combate naval con estasis temporal
-
----
-
-#### **🌌 Soldados de Dimensionalis la Fracturada - "Los Fracturados"**
-
-**Poder Otorgado:** Fracturación Dimensional
-
-**Habilidades Únicas:**
-- **Existencia Fracturada**: Pueden existir en múltiples dimensiones simultáneamente (ataques tienen ventaja contra enemigos que no pueden ver múltiples dimensiones)
-- **Teletransporte Fracturado**: Pueden teletransportarse a través de fracturas dimensionales (60 pies, 1/día)
-- **Ataques Multiplano**: Sus ataques pueden venir de múltiples dimensiones simultáneamente
-- **Disfunción**: Sus cuerpos muestran múltiples versiones de sí mismos superpuestas
-
-**Apariencia:**
-- Cuerpos que muestran múltiples versiones de sí mismos
-- Partes del cuerpo transparentes o en diferentes dimensiones
-- Uniformes que existen en múltiples planos simultáneamente
-- Movimientos imposibles que desafían la física
-
-**Tácticas:**
-- Ataques desde múltiples dimensiones
-- Formaciones que existen en planos paralelos
-- Defensas que son imposibles de alcanzar
-
----
-
-
-## 📊 **SOLDADOS POR REGIÓN**
-
-### **⏰ Regiones Temporales**
-
-| **Lugarteniente** | **Nombre de los Soldados** | **Poder Otorgado** | **Habilidad Única Principal** |
-|-------------------|---------------------------|-------------------|------------------------------|
-| **Serapis** | Los Retrocedentes | Reversión Temporal | Retroceso de Heridas |
-| **Varrak** | Los Videntes | Predicción Temporal | Visión del Futuro |
-| **Vorthak** | Los Drenados | Drenaje Temporal | Drenaje de Vida |
-| **Tempus** | Los Fragmentados | Fragmentación Temporal | Existencia en Múltiples Momentos |
-
-### **🌌 Regiones Dimensionales**
-
-| **Lugarteniente** | **Nombre de los Soldados** | **Poder Otorgado** | **Habilidad Única Principal** |
-|-------------------|---------------------------|-------------------|------------------------------|
-| **Ymir** | Los Congelados | Umbrales Helados | Congelación Parcial + Portales |
-| **Medusa** | Los Petrificados | Coordenada Fijada | Petrificación (espacio fijado) |
-| **Las Gemelas** | Los Reflejados | Dimensión Espejo | Ataques desde el reflejo |
-| **Edward Teach** *(híbrido)* | Los Estancados | Estasis + Espacial | Estasis Parcial + Portales |
-| **Dimensionalis** | Los Fracturados | Fracturación Dimensional | Existencia Fracturada |
-| **Yrindra** | **Invocados de Menzoberranzan** | **N/A (Criaturas Planares)** | **Guerreros Drow, Sacerdotisas, Demonios** |
-| **Ignis** | **Invocados del Plano de Fuego** | **N/A (Criaturas Planares)** | **Dragones Rojos, Elementales de Fuego** |
+*(Yrindra e Ignis no entrenan soldados: **invocan** — ver la sección de conexiones planares, arriba. Las cantidades y CR de cada región están en el [Bestiario Regional](../../05_Apendices/Bestiario_Regional/00_Indice_Bestiario_Regional.md) y las [tablas de encuentros](../../06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md).)*
 
 ---
 

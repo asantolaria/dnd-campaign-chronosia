@@ -4,165 +4,40 @@
 > **Dónde está cada cosa:** este apéndice recoge la **tropa genérica** (Cronófagos rasos, criaturas temporales/dimensionales comunes y las fuerzas de las facciones aliadas). Los **lugartenientes** tienen ficha completa en [Cronófagos Detallado](../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md); los **villanos menores y bestias firma de cada región**, en el [Bestiario Regional](Bestiario_Regional/00_Indice_Bestiario_Regional.md). No se duplican aquí.
 >
 > **⚙️ Regla: daño temporal y espacial.** A efectos de resistencias e inmunidades genéricas, el **daño temporal** se trata como **necrótico** y el **daño espacial** como de **fuerza**, salvo que una ficha diga otra cosa. La "inmunidad a efectos de tiempo/espacio" cubre los efectos así etiquetados en las fichas de este manual (envejecer, rebobinar, teletransporte forzoso, estasis…).
+>
+> **📖 Cómo leer este apéndice:** casi todo usa un **statblock oficial del Manual de Monstruos** más uno o dos rasgos añadidos ("**base: X (MM)**" = usa X tal cual y suma lo listado). Solo el ejército cronófago —la tropa firma de la campaña— conserva statblock propio, en formato compacto.
 
 ---
 
-## 📋 **ÍNDICE DE NAVEGACIÓN**
-
-### **⚔️ Cronófagos (tropa)**
-- [Tropa Cronófaga](#-tropa-cronófaga-soldados-rasos)
-- [Sargentos Cronófagos](#-sargentos-cronófagos-suboficiales)
-- [Lanzadores de Conjuros Cronófagos](#-lanzadores-de-conjuros-cronófagos-apoyo-arcano)
-- [Oficiales Cronófagos](#-oficiales-cronófagos-comandantes)
-
-### **👑 Lugartenientes**
-- [Referencia y Thyra (caída)](#-lugartenientes)
-
-### **🌌 Criaturas Temporales y Dimensionales**
-- [Guardianes Temporales](#guardianes-temporales) · [Ecos del Pasado](#ecos-del-pasado)
-- [Guardianes Dimensionales](#guardianes-dimensionales) · [Criaturas Fracturadas](#criaturas-fracturadas)
-
-### **⚙️ La Resistencia** *(aliados — statblocks por si el trato se tuerce o luchan al lado de los PJ)*
-- [Maestros Armeros](#maestros-armeros) · [Ingenieros](#ingenieros)
-
-### **🌿 Anacronistas**
-- [Chamanes](#chamanes) · [Guardianes del Tiempo](#guardianes-del-tiempo)
-
-### **🗡️ Bregan D'aerthe**
-- [Agentes Infiltrados](#agentes-infiltrados) · [Operaciones Especiales](#operaciones-especiales)
-
----
-
-## ⚔️ **CRONÓFAGOS**
+## ⚔️ **EL EJÉRCITO CRONÓFAGO** *(statblocks propios — la tropa firma)*
 
 ![Símbolo de los Cronófagos](../assets/bestiario/tropas/simbolo-cronofagos.jpg)
 
-### **⚡ Tropa Cronófaga (Soldados Rasos)**
+**Rasgo común — Bendición del Ritual:** toda la tropa cronófaga tiene **resistencia al daño temporal y espacial**.
+
+### **⚡ Tropa Cronófaga (soldado raso)**
 
 ![Tropa Cronófaga](../assets/bestiario/tropas/1_cronofago-tropa.jpg)
 
-#### **Estadísticas Básicas**
-- **CR**: 2 (450 XP)
-- **AC**: 14 (Armadura de placas)
-- **PV**: 45 (6d8 + 18)
-- **Velocidad**: 30 pies
-- **Fuerza**: 16 (+3), Destreza: 14 (+2), Constitución: 16 (+3), Inteligencia: 10 (+0), Sabiduría: 12 (+1), Carisma: 8 (-1)
+- ***Tropa Cronófaga*** — **CR 2** (450 XP) · CA 14 (placas ligeras) · PG 45 (6d8+18) · Vel. 30 pies · FUE +3, DES +2, CON +3 · Percepción +4, Sigilo +5. **Multiataque:** dos espadas cortas, +5, **1d6+3 perforante**. **Distorsión temporal:** un objetivo a 30 pies, CON CD 13 o su velocidad se reduce a la mitad hasta el final de su siguiente turno. *Seña:* máscara dorada de pico de peste con lentes oscuras; debajo, un rostro de niño en un cuerpo de guerrero adulto.
 
-#### **Habilidades**
-- **Percepción**: +4
-- **Sigilo**: +5
-- **Arcano**: +3
-
-#### **Resistencias**
-- **Daño temporal**: Resistencia
-- **Efectos de tiempo**: Inmunidad parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con espada corta
-- **Espada corta**: +5 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) daño perforante
-- **Distorsión temporal**: CD 13, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Constitución. Si falla, su velocidad se reduce a la mitad hasta el final de su siguiente turno
-
-#### **Características Especiales**
-- **Rostros Infantiles**: Cuerpos de guerreros adultos con rostros de niños ocultos tras la máscara
-- **Fuerza Descomunal**: Contraste inquietante entre apariencia infantil y fuerza física
-- **Máscara de pico (peste negra)**: Máscara dorada de médico de la peste con lentes circulares oscuros — seña de identidad de los Cronófagos rasos. Uniforme militar totalitario (túnica roja, correajes de cuero, casco de acero)
-
----
-
-### **🛡️ Sargentos Cronófagos (Suboficiales)**
+### **🛡️ Sargento Cronófago (suboficial)**
 
 ![Sargento Cronófago](../assets/bestiario/tropas/2_cronofago-sargento.jpg)
 
-#### **Estadísticas Básicas**
-- **CR**: 4 (1.100 XP)
-- **AC**: 16 (Armadura de placas + escudo)
-- **PV**: 78 (12d8 + 24)
-- **Velocidad**: 30 pies
-- **Fuerza**: 18 (+4), Destreza: 16 (+3), Constitución: 18 (+4), Inteligencia: 12 (+1), Sabiduría: 14 (+2), Carisma: 10 (+0)
+- ***Sargento Cronófago*** — **CR 4** (1.100 XP) · CA 16 (placas + escudo) · PG 78 (12d8+24) · Vel. 30 pies · FUE +4, DES +3, CON +4 · Percepción +6. **Multiataque:** tres espadas cortas, +7, **1d6+4 perforante**. **Distorsión temporal** (CON CD 15, velocidad a la mitad 1 turno) **o Distorsión espacial** (DES CD 15 o teletransportado 10 pies en dirección aleatoria), una por turno, a 30 pies. *Seña:* casco de pincho, bastón de mando con cabeza de serpiente y cristales.
 
-#### **Habilidades**
-- **Percepción**: +6
-- **Sigilo**: +7
-- **Arcano**: +5
-
-#### **Resistencias**
-- **Daño temporal**: Resistencia
-- **Efectos de tiempo**: Inmunidad parcial
-- **Efectos espaciales**: Resistencia parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Tres ataques con espada corta
-- **Espada corta**: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d6 + 4) daño perforante
-- **Distorsión temporal**: CD 15, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Constitución. Si falla, su velocidad se reduce a la mitad hasta el final de su siguiente turno
-- **Distorsión espacial**: CD 15, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, es teletransportado 10 pies en una dirección aleatoria
-
-#### **Características Especiales**
-- **Objetos Mágicos**: Cristales de poder temporal/dimensional en sus bastones
-- **Máscara de pico (peste negra)**: Dorada con detalles plateados y lentes oscuros; casco de acero tipo pickelhaube (con pincho). Uniforme militar totalitario azul
-- **Deformaciones**: Partes del cuerpo distorsionadas por la magia
-- **Bastón de Mando**: Con cabeza de serpiente y cristales de poder
-
----
-
-### **🔮 Lanzadores de Conjuros Cronófagos (Apoyo arcano)**
+### **🔮 Lanzador de Conjuros Cronófago (apoyo arcano)**
 
 ![Cronófago lanzador de conjuros](../assets/bestiario/tropas/cronofago-lanzador-conjuros.jpg)
 
-Apoyo arcano del ejército cronófago: canalizan distorsiones temporales y espaciales menores a distancia. Frágiles en cuerpo a cuerpo pero peligrosos en grupo; suelen acompañar a sargentos y oficiales.
+- ***Lanzador Cronófago*** — **CR 5** (1.800 XP) · CA 13 (cuero + cristal de guarda) · PG 66 (12d8+12) · Vel. 30 pies · INT +4 (salv. +7), SAB +2 (salv. +5) · Arcano +7. **Descarga de Distorsión:** +7, 60 pies, **3d6+4** de daño temporal o espacial (a elección). **Ralentizar (recarga 5-6):** hasta 3 objetivos a 30 pies, SAB CD 15 o como bajo *ralentizar* 1 turno. **Desplazar (1/día):** un objetivo a 60 pies, CAR CD 15 o teletransportado hasta 30 pies a un punto visible. *Cristal de Guarda:* mientras el cristal de su bastón esté intacto (CA 12, 10 PG), el primer ataque que reciba cada ronda tiene desventaja.
 
-#### **Estadísticas Básicas**
-- **CR**: 5 (1.800 XP)
-- **AC**: 13 (Armadura de cuero + cristal de guarda)
-- **PV**: 66 (12d8 + 12)
-- **Velocidad**: 30 pies
-- **Fuerza**: 10 (+0), Destreza: 14 (+2), Constitución: 12 (+1), Inteligencia: 18 (+4), Sabiduría: 14 (+2), Carisma: 12 (+1)
-- **Salvaciones**: INT +7, SAB +5 · **Arcano** +7 · **Percepción** +5
-
-#### **Resistencias**
-- **Daño temporal y espacial**: Resistencia
-
-#### **Acciones**
-- **Descarga de Distorsión**: +7 al ataque, alcance 60 pies, un objetivo. Impacto: 14 (3d6 + 4) daño temporal o espacial (a elección al atacar)
-- **Ralentizar (recarga 5-6)**: CD 15, rango 30 pies, hasta 3 objetivos. Tirada de salvación de Sabiduría o el objetivo actúa como bajo *slow* hasta el final de su siguiente turno
-- **Desplazar (1/día)**: CD 15, rango 60 pies, un objetivo. Tirada de salvación de Carisma o es teletransportado hasta 30 pies a un punto que el lanzador vea
-
-#### **Características Especiales**
-- **Cristal de Guarda**: Mientras conserve su cristal (AC 12, 10 PV, en su bastón), impone desventaja al primer ataque que reciba cada ronda. Romper el cristal anula el rasgo
-
----
-
-### **🎖️ Oficiales Cronófagos (Comandantes)**
+### **🎖️ Oficial Cronófago (comandante)**
 
 ![Oficial Cronófago](../assets/bestiario/tropas/3_cronofago-oficial.jpg)
 
-#### **Estadísticas Básicas**
-- **CR**: 7 (2.900 XP)
-- **AC**: 18 (Armadura de placas + escudo)
-- **PV**: 117 (18d8 + 36)
-- **Velocidad**: 30 pies
-- **Fuerza**: 20 (+5), Destreza: 18 (+4), Constitución: 20 (+5), Inteligencia: 14 (+2), Sabiduría: 16 (+3), Carisma: 12 (+1)
-
-#### **Habilidades**
-- **Percepción**: +8
-- **Sigilo**: +9
-- **Arcano**: +7
-
-#### **Resistencias**
-- **Daño temporal**: Resistencia
-- **Efectos de tiempo**: Inmunidad parcial
-- **Efectos espaciales**: Resistencia parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Cuatro ataques con bastón de duelo
-- **Bastón de Duelo**: +9 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8 + 5) daño contundente
-- **Distorsión temporal**: CD 17, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Constitución. Si falla, su velocidad se reduce a la mitad hasta el final de su siguiente turno
-- **Distorsión espacial**: CD 17, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, es teletransportado 10 pies en una dirección aleatoria
-- **Bastón de Poder**: Puede cambiar de espada larga a bastón mágico al instante
-
-#### **Características Especiales**
-- **Sin Máscara**: Muestran su rostro distorsionado
-- **Tatuaje de la Serpiente**: Símbolo de la serpiente con forma de infinito mordiéndose la cola
-- **Sombrero Distintivo**: Similar al de los soldados soviéticos
+- ***Oficial Cronófago*** — **CR 7** (2.900 XP) · CA 18 (placas + escudo) · PG 117 (18d8+36) · Vel. 30 pies · FUE +5, DES +4, CON +5 · Percepción +8. **Multiataque:** cuatro bastones de duelo, +9, **1d8+5 contundente**. **Distorsión temporal** (CON CD 17) **o espacial** (DES CD 17), como el sargento pero a su CD. *Seña:* sin máscara — el rostro distorsionado a la vista, y el tatuaje de la serpiente-infinito mordiéndose la cola.
 
 ---
 
@@ -178,317 +53,34 @@ Thyra, lugarteniente temporal del **Valle de la Aguja**, muere asesinada por **E
 
 ---
 
-## 🌌 **CRIATURAS TEMPORALES**
+## 🌌 **CRIATURAS TEMPORALES Y DIMENSIONALES** *(base oficial + rasgo)*
 
-### **Guardianes Temporales**
-
-#### **Estadísticas Básicas**
-- **CR**: 2 (450 XP)
-- **AC**: 15 (Armadura natural)
-- **PV**: 52 (8d8 + 16)
-- **Velocidad**: 30 pies
-- **Fuerza**: 16 (+3), Destreza: 14 (+2), Constitución: 18 (+4), Inteligencia: 8 (-1), Sabiduría: 12 (+1), Carisma: 10 (+0)
-
-#### **Habilidades**
-- **Percepción**: +4
-- **Sigilo**: +5
-
-#### **Resistencias**
-- **Daño temporal**: Resistencia
-- **Efectos de tiempo**: Inmunidad parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con garras temporales
-- **Garras Temporales**: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 3) daño cortante + 1d6 daño temporal
-- **Rugido Temporal**: CD 14, rango 30 pies, todos los objetivos en el área. Los objetivos deben hacer una tirada de salvación de Constitución. Si fallan, quedan aturdidos hasta el final de su siguiente turno
-
-#### **Características Especiales**
-- **Protección Temporal**: Protegen áreas de poder temporal
-- **Distorsión**: Creados por la magia temporal de los lugartenientes
+- ***Guardián Temporal*** (CR 2) — **base: ogro (MM)**, revestido de placas de cristal dorado (**CA 15**). Sus golpes hacen **+1d6 de daño temporal** y añade **Rugido Temporal** (1/combate, 30 pies: CON CD 14 o aturdido 1 ronda). Custodian los lugares de poder temporal.
+- ***Eco del Pasado*** (CR 1) — **base: espectro (MM)**. En vez de drenar vida, su toque provoca **visiones**: SAB CD 13 o desventaja en la siguiente tirada de ataque. Inmune al daño temporal — *es* pasado.
+- ***Guardián Dimensional*** (CR 3) — **base: araña de fase (MM)**, con forma de felino de cristal púrpura. Su *Salto de Fase* es "plegarse por el espacio"; sus garras hacen **+1d6 de daño espacial**.
+- ***Criatura Fracturada*** (CR 3) — **base: bestia desplazadora (MM)**. Su desplazamiento es superposición dimensional, y añade **Fractura** (1/combate: un objetivo a 30 pies, DES CD 15 o es enviado a una dimensión vecina 1 minuto — repite la salvación al final de cada uno de sus turnos).
 
 ---
 
-### **Ecos del Pasado**
+## ⚙️ **LA RESISTENCIA** *(aliados — por si luchan al lado de los PJ o el trato se tuerce)*
 
-#### **Estadísticas Básicas**
-- **CR**: 2 (450 XP)
-- **AC**: 13 (Armadura natural)
-- **PV**: 39 (6d8 + 12)
-- **Velocidad**: 30 pies
-- **Fuerza**: 12 (+1), Destreza: 16 (+3), Constitución: 14 (+2), Inteligencia: 10 (+0), Sabiduría: 14 (+2), Carisma: 8 (-1)
-
-#### **Habilidades**
-- **Percepción**: +5
-- **Sigilo**: +8
-
-#### **Resistencias**
-- **Daño temporal**: Inmunidad
-- **Efectos de tiempo**: Inmunidad
-- **Daño físico**: Resistencia
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con garras fantasmales
-- **Garras Fantasmales**: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 6 (1d6 + 3) daño necrótico
-- **Eco Temporal**: CD 13, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Sabiduría. Si falla, ve visiones del pasado que lo confunden (desventaja en su siguiente tirada de ataque)
-
-#### **Características Especiales**
-- **Manifestación Temporal**: Creados por ecos del pasado
-- **Incorpóreo**: Pueden atravesar objetos sólidos
-- **Confusión**: Sus ataques confunden a los objetivos
-
----
-
-## 🌌 **CRIATURAS DIMENSIONALES**
-
-### **Guardianes Dimensionales**
-
-#### **Estadísticas Básicas**
-- **CR**: 3 (700 XP)
-- **AC**: 16 (Armadura natural)
-- **PV**: 65 (10d8 + 20)
-- **Velocidad**: 30 pies
-- **Fuerza**: 18 (+4), Destreza: 16 (+3), Constitución: 18 (+4), Inteligencia: 10 (+0), Sabiduría: 14 (+2), Carisma: 12 (+1)
-
-#### **Habilidades**
-- **Percepción**: +5
-- **Sigilo**: +6
-
-#### **Resistencias**
-- **Daño espacial**: Resistencia
-- **Efectos espaciales**: Inmunidad parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con garras dimensionales
-- **Garras Dimensionales**: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8 + 4) daño cortante + 1d6 daño espacial
-- **Teletransporte**: Se teletransporta hasta 60 pies a una ubicación que puede ver
-
-#### **Características Especiales**
-- **Protección Dimensional**: Protegen áreas de poder espacial
-- **Teletransporte**: Pueden moverse instantáneamente
-- **Distorsión**: Creados por la magia espacial de los lugartenientes
-
----
-
-### **Criaturas Fracturadas**
-
-#### **Estadísticas Básicas**
-- **CR**: 4 (1.100 XP)
-- **AC**: 14 (Armadura natural)
-- **PV**: 78 (12d8 + 24)
-- **Velocidad**: 30 pies
-- **Fuerza**: 16 (+3), Destreza: 18 (+4), Constitución: 16 (+3), Inteligencia: 8 (-1), Sabiduría: 12 (+1), Carisma: 10 (+0)
-
-#### **Habilidades**
-- **Percepción**: +4
-- **Sigilo**: +7
-
-#### **Resistencias**
-- **Daño espacial**: Inmunidad
-- **Efectos espaciales**: Inmunidad
-- **Daño físico**: Resistencia
-
-#### **Acciones**
-- **Ataque múltiple**: Tres ataques con garras fracturadas
-- **Garras Fracturadas**: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 3) daño cortante + 1d6 daño espacial
-- **Fractura**: CD 15, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, es enviado a otra dimensión durante 1 minuto (puede repetir la salvación al final de cada uno de sus turnos)
-
-#### **Características Especiales**
-- **Existencia Fracturada**: Existen en múltiples dimensiones
-- **Teletransporte**: Pueden moverse entre dimensiones
-- **Distorsión**: Sus ataques distorsionan el espacio
-
----
-
-## ⚙️ **LA RESISTENCIA**
-
-> Aliados de los PJ en la mayoría de mesas. Estos statblocks sirven para cuando luchan **junto** al grupo — o contra él, si sus extremistas anti-magia se tuercen.
-
-### **Maestros Armeros**
-
-#### **Estadísticas Básicas**
-- **CR**: 5 (1.800 XP)
-- **AC**: 17 (Armadura de placas)
-- **PV**: 91 (14d8 + 28)
-- **Velocidad**: 25 pies
-- **Fuerza**: 18 (+4), Destreza: 14 (+2), Constitución: 18 (+4), Inteligencia: 16 (+3), Sabiduría: 14 (+2), Carisma: 12 (+1)
-
-#### **Habilidades**
-- **Percepción**: +5
-- **Sigilo**: +5
-- **Arcano**: +6
-
-#### **Resistencias**
-- **Daño mágico**: Resistencia
-- **Efectos mágicos**: Resistencia parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con arma de fuego
-- **Arma de Fuego**: +7 al ataque, alcance 80/320 pies, un objetivo. Impacto: 12 (2d8 + 3) daño perforante
-- **Granada Anti-Magia**: CD 15, rango 20 pies, todos los objetivos en el área. Los objetivos deben hacer una tirada de salvación de Constitución. Si fallan, no pueden lanzar hechizos durante 1 minuto (repiten la salvación al final de cada turno)
-
-#### **Características Especiales**
-- **Tecnología Anti-Magia**: Armas que neutralizan la magia
-- **Maestros Armeros**: Pueden crear armas personalizadas
-- **Odio a la Magia**: Hostilidad hacia todos los magos
-
----
-
-### **Ingenieros**
-
-#### **Estadísticas Básicas**
-- **CR**: 4 (1.100 XP)
-- **AC**: 16 (Armadura de placas)
-- **PV**: 78 (12d8 + 24)
-- **Velocidad**: 25 pies
-- **Fuerza**: 16 (+3), Destreza: 14 (+2), Constitución: 16 (+3), Inteligencia: 18 (+4), Sabiduría: 14 (+2), Carisma: 10 (+0)
-
-#### **Habilidades**
-- **Percepción**: +5
-- **Sigilo**: +5
-- **Arcano**: +7
-
-#### **Resistencias**
-- **Daño mágico**: Resistencia
-- **Efectos mágicos**: Resistencia parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con arma de fuego
-- **Arma de Fuego**: +6 al ataque, alcance 80/320 pies, un objetivo. Impacto: 10 (2d8 + 2) daño perforante
-- **Trampa Mecánica**: CD 15, rango 30 pies, un objetivo. El objetivo debe hacer una tirada de salvación de Destreza. Si falla, queda apresado (puede liberarse con una tirada de Fuerza CD 15 como acción)
-
-#### **Características Especiales**
-- **Tecnología Avanzada**: Pueden crear dispositivos complejos
-- **Trampas**: Especialistas en trampas mecánicas
-- **Sabotaje**: Pueden sabotear artefactos mágicos
+- ***Maestro Armero*** (CR 5) — **base: gladiador (MM)**, cambiando la lanza por un **rifle** (+7, alcance 80/320, **2d8+3 perforante**). Añade **Granada Anti-Magia** (1/combate, radio 20 pies: CON CD 15 o no puede lanzar conjuros 1 minuto, salvación repetida al final de cada turno).
+- ***Ingeniero*** (CR 3) — **base: veterano (MM)** con INT 18, espada por arma de fuego (+6, 80/320, **2d8+2**). Añade **Trampa Mecánica** (1/combate: un objetivo a 30 pies, DES CD 15 o apresado; FUE CD 15 para liberarse).
 
 ---
 
 ## 🌿 **ANACRONISTAS**
 
-### **Chamanes**
-
-#### **Estadísticas Básicas**
-- **CR**: 6 (2.300 XP)
-- **AC**: 15 (Armadura de cuero)
-- **PV**: 104 (16d8 + 32)
-- **Velocidad**: 30 pies
-- **Fuerza**: 14 (+2), Destreza: 16 (+3), Constitución: 18 (+4), Inteligencia: 16 (+3), Sabiduría: 20 (+5), Carisma: 18 (+4)
-
-#### **Habilidades**
-- **Percepción**: +8
-- **Sigilo**: +6
-- **Arcano**: +6
-
-#### **Resistencias**
-- **Daño temporal**: Inmunidad
-- **Efectos de tiempo**: Inmunidad
-- **Efectos espaciales**: Resistencia
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con bastón
-- **Bastón**: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 2) daño contundente
-- **Estabilización Temporal**: rango 60 pies, todos los aliados en el área. Los aliados obtienen resistencia a efectos temporales durante 1 minuto
-- **Protección del Tiempo**: rango 30 pies, un objetivo. El objetivo obtiene inmunidad a efectos temporales durante 1 minuto
-
-#### **Características Especiales**
-- **Resistencia Temporal**: No son afectados por distorsiones temporales
-- **Conocimiento del Tiempo**: Conocen el flujo natural del tiempo
-- **Protección**: Pueden proteger a otros de efectos temporales
-
----
-
-### **Guardianes del Tiempo**
-
-#### **Estadísticas Básicas**
-- **CR**: 3 (700 XP)
-- **AC**: 16 (Armadura de cuero)
-- **PV**: 65 (10d8 + 20)
-- **Velocidad**: 30 pies
-- **Fuerza**: 16 (+3), Destreza: 18 (+4), Constitución: 16 (+3), Inteligencia: 12 (+1), Sabiduría: 16 (+3), Carisma: 14 (+2)
-
-#### **Habilidades**
-- **Percepción**: +6
-- **Sigilo**: +7
-- **Arcano**: +4
-
-#### **Resistencias**
-- **Daño temporal**: Resistencia
-- **Efectos de tiempo**: Resistencia
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con arma
-- **Arma**: +6 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 3) daño perforante
-- **Protección Temporal**: rango 30 pies, un objetivo. El objetivo obtiene resistencia a efectos temporales durante 1 minuto
-
-#### **Características Especiales**
-- **Protección**: Protegen a otros de efectos temporales
-- **Conocimiento**: Conocen el flujo natural del tiempo
-- **Resistencia**: Resisten distorsiones temporales
+- ***Chamán Anacronista*** (CR 6) — **base: mago (MM)** con SAB 20 e **inmunidad a los efectos temporales**. Sus conjuros son los del mago retematizados: *acelerar* = "bendición del flujo", *ralentizar* = "marea de arena", *contraconjuro* = "deshacer el instante". Añade **Estabilización Temporal** (1/día, 60 pies: los aliados ganan resistencia a los efectos temporales 1 minuto).
+- ***Guardián del Tiempo*** (CR 3) — **base: veterano (MM)** con resistencia al daño temporal. Añade **Protección Temporal** (1/combate: un aliado a 30 pies gana resistencia a los efectos temporales 1 minuto).
 
 ---
 
 ## 🗡️ **BREGAN D'AERTHE**
 
-### **Agentes Infiltrados**
-
-#### **Estadísticas Básicas**
-- **CR**: 4 (1.100 XP)
-- **AC**: 16 (Armadura de cuero)
-- **PV**: 78 (12d8 + 24)
-- **Velocidad**: 30 pies
-- **Fuerza**: 14 (+2), Destreza: 18 (+4), Constitución: 16 (+3), Inteligencia: 16 (+3), Sabiduría: 14 (+2), Carisma: 18 (+4)
-
-#### **Habilidades**
-- **Percepción**: +5
-- **Sigilo**: +10
-- **Arcano**: +6
-
-#### **Resistencias**
-- **Daño mágico**: Resistencia
-- **Efectos mágicos**: Resistencia parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Dos ataques con arma
-- **Arma**: +7 al ataque, alcance 5 pies, un objetivo. Impacto: 8 (1d8 + 3) daño perforante
-- **Teletransporte**: Se teletransporta hasta 60 pies a una ubicación que puede ver
-- **Invisibilidad**: Se vuelve invisible hasta el final de su siguiente turno
-
-#### **Características Especiales**
-- **Infiltración**: Pueden infiltrarse en cualquier facción
-- **Sigilo**: Maestros del sigilo y la ocultación
-- **Manipulación**: Especialistas en manipulación y espionaje
+- ***Agente Infiltrado*** (CR 4) — **base: drow guerrero de élite (MM, CR 5)** con armadura ligera (**CA 16**) y **PG 78**. Añade *invisibilidad* 1/día y *puerta dimensional* 1/día — los "trucos de Jarlaxle". En Chronosia no sufre la Sensibilidad a la Luz Solar: aquí no hay sol.
+- ***Operaciones Especiales*** (CR 8) — **base: asesino (MM)** con CA 17 y los mismos trucos que el agente. Es el mismo statblock con el que se resuelve a **Jarlaxle** si alguien comete el error de desenvainar contra él (ver [PNJs](../02_Guia_DM/03_NPCs_Importantes.md)).
 
 ---
 
-### **Operaciones Especiales**
-
-#### **Estadísticas Básicas**
-- **CR**: 6 (2.300 XP)
-- **AC**: 17 (Armadura de placas)
-- **PV**: 104 (16d8 + 32)
-- **Velocidad**: 30 pies
-- **Fuerza**: 18 (+4), Destreza: 16 (+3), Constitución: 18 (+4), Inteligencia: 16 (+3), Sabiduría: 14 (+2), Carisma: 16 (+3)
-
-#### **Habilidades**
-- **Percepción**: +6
-- **Sigilo**: +9
-- **Arcano**: +6
-
-#### **Resistencias**
-- **Daño mágico**: Resistencia
-- **Efectos mágicos**: Resistencia parcial
-
-#### **Acciones**
-- **Ataque múltiple**: Tres ataques con arma
-- **Arma**: +8 al ataque, alcance 5 pies, un objetivo. Impacto: 10 (1d8 + 4) daño perforante
-- **Teletransporte**: Se teletransporta hasta 60 pies a una ubicación que puede ver
-- **Invisibilidad**: Se vuelve invisible hasta el final de su siguiente turno
-
-#### **Características Especiales**
-- **Operaciones Especiales**: Especialistas en misiones peligrosas
-- **Sigilo**: Maestros del sigilo y la ocultación
-- **Manipulación**: Especialistas en manipulación y espionaje
-
----
-
-*Estas criaturas representan la diversidad de enemigos que los jugadores enfrentarán en Chronosia, cada una con sus propias habilidades y características únicas. Los CR son aproximados: ajusta al alza o a la baja según el tamaño de tu mesa.*
+*Los CR son aproximados: ajusta cantidad antes que statblock, y al alza o a la baja según el tamaño de tu mesa.*
