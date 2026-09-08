@@ -166,6 +166,8 @@ Al encajar las dos mitades por primera vez, el keystone **tira del otro extremo 
 **Idiomas:** Todos los idiomas  
 **CR:** 13-14 (11.500 XP)  
 
+> **⏱️ EL COMBATE NO ES SOLO DAÑO.** Este statblock es un tercio de la batalla: los otros dos son el **medidor del ritual** (la bomba — arranca según el Reloj y sube +5%/ronda; interrumpir el **Cronosellado** es el Paso 1) y la **liberación de los dioses** (Paso 2, solo con la llave). Las reglas completas de los tres pasos, la escala del medidor y las válvulas están en el [Cap. 15](../../15_Climax_La_Torre.md) — dirige desde allí, con esta ficha al lado.
+
 > **🎮 COMBATE POR FASES (TIPO VIDEOJUEGO).** Aethernus no es un único saco de 300 HP, sino tres "barras de vida" consecutivas. Al agotar la barra de una fase, en lugar de morir transiciona a la siguiente (efecto gratuito, no provoca ataques de oportunidad): recupera la iniciativa de su barra de HP, cambia su repertorio de poderes y pronuncia un nuevo monólogo. Solo muere al agotar la barra de la **Fase 3**. La Resistencia Legendaria y los usos diarios **no se recargan** entre fases: se arrastran a lo largo de todo el combate.
 
 > **⚠️ Poderes de lugartenientes.** Aethernus solo dispone de los poderes de los lugartenientes que **sigan vivos** al iniciarse este combate. Por cada lugarteniente ya derrotado por el grupo, **tacha** el poder correspondiente de la Fase 2 (ver lista). Cuantos más lugartenientes hayan caído, más debilitado llega el jefe: esto recompensa mecánicamente el trabajo previo del grupo.
@@ -292,6 +294,14 @@ Como acción, Aethernus crea un campo de 60 pies donde tiempo y espacio se disto
 - **Estallido Divino** (2 acciones): un enemigo a 60 pies; CD 18 Con o 17 (5d6) de daño temporal/espacial (mitad si tiene éxito).
 
 ---
+
+## 🏰 **ACCIONES DE GUARIDA — La Cámara de Ascensión**
+
+En iniciativa 20 (perdiendo empates), **la Torre misma** interviene — es el ritual defendiendo a su oficiante. Una por ronda, sin repetir dos rondas seguidas:
+
+- **Marea del Ritual:** el Cronosellado late con fuerza — cada criatura no aliada de Aethernus a 20 pies del núcleo hace CD 15 CON o 2d10 de daño temporal/espacial. *(Castiga acampar sobre el Paso 1; no la uses la ronda siguiente a una interrupción: el núcleo apagado no late.)*
+- **Cadenas que Gotean:** un chorro de luz dorada o sombra púrpura barre la plataforma en línea de 60 pies — CD 15 DES o 3d6 (radiante o necrótico) y la criatura **envejece o rejuvenece 1d10 años** (visible). *(Si los dioses ya fueron liberados, esta acción desaparece: las cadenas están abiertas.)*
+- **El Suelo Recuerda:** el círculo zodiacal reproduce 6 segundos de hace instantes — cada criatura que se haya movido este asalto hace CD 15 SAB o es **devuelta a la casilla donde empezó su turno anterior** (sin daño; sin ataques de oportunidad). Aethernus es inmune: él marca el tiempo absoluto.
 
 ## 🎯 **TÁCTICAS DE COMBATE**
 

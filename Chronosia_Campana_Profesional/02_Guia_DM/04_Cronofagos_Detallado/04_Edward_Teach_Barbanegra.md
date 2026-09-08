@@ -407,7 +407,7 @@ Varrak **NO puede predecir** las acciones de Teach debido a su naturaleza híbri
 ### **BLACKBEARD EL USURPADOR** *(Edward Teach a medio ascender)*
 *Humanoide mediano (humano en transformación), caótico maligno* · **CR 13** (10.000 XP)
 
-**CA** 19 (el Talismán teje espacio a su alrededor) · **PG** 2 fases: **150 / 120** · **Vel.** 40 pies, vuelo 40 pies (el mar ya no lo sujeta) · FUE +4, DES +5, CON +4, INT +2, SAB +3, CAR +6 · Salv. DES +10, CON +9, CAR +11 · Resist. temporal, espacial, necrótico; contundente/cortante/perforante no mágico · Inmune a *paralizado*, *asustado*, predicción/divinación · P. pasiva 18 · **Resistencia Legendaria (2/día)**
+**CA** 19 (el Talismán teje espacio a su alrededor) · **PG** 2 fases: **150 / 120** *(con 3 PJ o mesas lentas: 120/90; con 6 PJ: 170/140)* · **Vel.** 40 pies, vuelo 40 pies (el mar ya no lo sujeta) · FUE +4, DES +5, CON +4, INT +2, SAB +3, CAR +6 · Salv. DES +10, CON +9, CAR +11 · Resist. temporal, espacial, necrótico; contundente/cortante/perforante no mágico · Inmune a *paralizado*, *asustado*, predicción/divinación · P. pasiva 18 · **Resistencia Legendaria (2/día)**
 
 **Rasgos**
 - ***El Talismán Encendido.*** Mientras el Cronosellado esté activo, Teach **intercepta**: recupera 10 PG al inicio de su turno y **el medidor del ritual no baja** (los PJ deben seguir interrumpiendo el núcleo — el Paso 1 del Cap. 15 sigue vigente contra él).
