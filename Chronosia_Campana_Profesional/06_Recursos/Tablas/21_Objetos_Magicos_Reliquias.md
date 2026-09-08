@@ -101,6 +101,14 @@ Para que la compra no rompa la escasez temprana, las opciones de "Compra (Altern
 
 ---
 
+## 🧭 **CÓMO USAR ESTE CATÁLOGO (y qué no entra en Chronosia)**
+
+> **La utilería es oficial.** Este catálogo solo detalla en ficha completa lo que no existe en los manuales: los artefactos de trama, los anillos de lugarteniente y un puñado de piezas-firma de la campaña. Todo lo demás son **objetos oficiales renombrados** — cada sección trae su tabla de equivalencias: usa el statblock del DMG con el nombre y el sabor de aquí. Para el botín suelto, la tabla de **tesoros menores** (al final) y las tablas por rareza del DMG funcionan tal cual.
+
+> **⛔ LISTA NEGRA — el aislamiento manda.** Mientras el Cronosellado esté activo, **no funcionan** (rebotan contra la burbuja del semiplano con un chispazo dramático): el **Amuleto de los Planos**, la **Puerta Cúbica**, los pergaminos de *desplazamiento entre planos* y *portal*, el viaje a Faerûn del **Yelmo de Teletransporte** y cualquier otro efecto de viaje interplanar. El teletransporte *dentro* de Chronosia funciona con normalidad. *(Las excepciones confirman la regla: los portales de los lugartenientes están alimentados por Voidar, y la niebla de la Mansión lleva a Barovia porque para una herida como Chronosia el Shadowfell no cuenta como "otro plano".)*
+
+---
+
 ## 🎯 **ARTEFACTOS PRINCIPALES**
 
 ### **⏰ Cronómetro de Realidades**
@@ -929,221 +937,44 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 ---
 
-### **⚔️ Objetos de Lugartenientes**
+### **⚔️ Objetos de Lugartenientes** *(botín-firma: cae con su dueño)*
 
-> **📍 Ubicación y Obtención General:**
-> - **Ubicación:** Cada objeto está en posesión de su lugarteniente correspondiente en su región
-> - **Cómo Obtenerlos:** Derrotar al lugarteniente correspondiente
-> - **Nivel Recomendado:** Varía según el lugarteniente (5-10; CR de los críticos rescalado: Teach 11-12, Ignis ~13, Aethernus 13-14)
-> - **Nota:** Algunos objetos pueden ser destruidos durante el combate
+> Además de su **anillo de poder** (arriba), cada lugarteniente suelta una pieza personal. Nivel recomendado: el de su región. Formato compacto:
 
-#### **⏰ Objetos de Serapis el Retroceso**
-
-**📍 Ubicación:**
-- **Lugar:** La Espiral Inversa (región de Serapis)
-- **Poseedor:** Serapis el Retroceso
-- **Cómo Obtenerlos:** Derrotar a Serapis (Nivel 5-7)
-
-**Espada del Retroceso:**
-- **Tipo:** Espada Larga +2
-- **Daño:** 1d8+2 + 1d6 temporal
-- **Poder:** Puede atacar a enemigos que estén a hasta 60 pies de distancia cortando a través del tiempo
-
-**Capa de Arena:**
-- **Tipo:** Capa (Objeto Mágico)
-- **Poder:** Arena que fluye hacia arriba, crea campo de envejecimiento de 30 pies
-
-#### **🌌 Objetos de Edward Teach "Barbanegra"**
-
-**📍 Ubicación:**
-- **Lugar:** Archipiélago de Barbanegra (isla secreta de Teach)
-- **Poseedor:** Edward Teach "Barbanegra"
-- **Cómo Obtenerlos:** Derrotar a Edward Teach (CR 11-12; región nivel 7-9) ⚠️ **MUY PELIGROSO**
-- **Nota Especial:** Teach tiene el Talismán de Interceptación Divina, que es extremadamente poderoso
-
-**Espada de Barbanegra:**
-- **Tipo:** Espada de Filo +2
-- **Daño:** 1d8+2 + 1d6 perforante
-- **Poder:** Puede congelar ataques en el aire (1/día)
-
-**Cañón Sobrenatural:**
-- **Tipo:** Arma de Fuego (Artefacto)
-- **Daño:** 3d10 de daño de área (radio 20 pies)
-- **Poder:** Puede explotar si está a 60 pies o menos
-
-#### **🌌 Objetos de Dimensionalis la Fracturada**
-
-**📍 Ubicación:**
-- **Lugar:** Las Llanuras de la Compresión (región de Dimensionalis)
-- **Poseedor:** Dimensionalis la Fracturada
-- **Cómo Obtenerlos:** Derrotar a Dimensionalis (Nivel 9-10)
-
-**Daga Fracturada:**
-- **Tipo:** Daga +2
-- **Daño:** 1d4+2 + 1d6 espacial
-- **Poder:** Puede fracturar la realidad, confundiendo a enemigos
-
-#### **🔥 Objetos de Ignis el Devorador Espacial**
-
-**📍 Ubicación:**
-- **Lugar:** Las Calderas Dimensionales (región de Ignis, líder del bando dimensional)
-- **Poseedor:** Ignis el Devorador Espacial
-- **Cómo Obtenerlos:** Derrotar a Ignis (CR ~13; región nivel 8-10)
-
-**Garras de Fuego Dimensional:**
-- **Tipo:** Arma Natural +3
-- **Daño:** 2d6+3 cortante + 2d6 fuego
-- **Poder:** Puede crear portales de fuego al atacar
-
-#### **🌙 Objetos de Matrona Yrindra**
-
-**📍 Ubicación:**
-- **Lugar:** La Ciudad Subterránea de Veldrisza (región de Veldrisza)
-- **Poseedor:** Matrona Yrindra
-- **Cómo Obtenerlos:** Derrotar a Yrindra (Nivel 9-10)
-- **Nota:** Requiere la Excavadora Dimensional o ayuda de Varrak del Horizonte (aliado) para acceder
-
-**Bastón de Telarañas Dimensionales:**
-- **Tipo:** Bastón +2
-- **Poder:** Puede crear redes espaciales que atrapan enemigos (3/día, CD 18)
-
-#### **🪞 Objetos de Las Gemelas del Espejo**
-
-**📍 Ubicación:**
-- **Lugar:** El Jardín de los Tiempos Gemelos (región de Las Gemelas)
-- **Poseedor:** Las Gemelas del Espejo (Lyra y Nyx)
-- **Cómo Obtenerlos:** Derrotar a Las Gemelas (Nivel 8-10)
-- **Nota:** Las Gemelas son neutrales - pueden ser aliadas potenciales, no necesariamente hostiles
-
-**Espejos Gemelos:**
-- **Tipo:** Objeto Mágico (Par)
-- **Poder:** Permiten intercambiar posiciones instantáneamente a través de la dimensión espejo
+| Lugarteniente | Objeto | Qué es |
+|---|---|---|
+| **Serapis** (Espiral Inversa) | *Espada del Retroceso* | Espada larga **+2** con 1d6 de daño temporal; 1/día golpea a un enemigo a hasta 60 pies "cortando a través del tiempo" |
+| **Serapis** | *Capa de Arena* | La arena fluye hacia arriba por ella; 1/día crea un campo de envejecimiento de 30 pies (CON CD 15 o 1d4 años — ver la regla global de envejecimiento) |
+| **Teach** (Archipiélago) | *Espada de Barbanegra* | Espada **+2**; 1/día congela en el aire un ataque de proyectil dirigido al portador (lo anula) |
+| **Teach** | *Cañón Sobrenatural* | Artefacto de asedio: 3d10 en radio de 20 pies; puede detonarse a distancia (≤60 pies) |
+| **Dimensionalis** (Llanuras) | *Daga Fracturada* | Daga **+2** con 1d6 de daño espacial; con un crítico, el objetivo queda confundido 1 ronda (regla global de confusión) |
+| **Ignis** (Calderas) | *Garras de Fuego Dimensional* | Componente de artesanía: la Maestra Ferrucha puede templar con ellas un arma (**+1d6 de fuego permanente**) |
+| **Yrindra** (Veldrisza) | *Bastón de Telarañas Dimensionales* | Bastón **+2**; lanza *telaraña* 3/día (CD 18) y sus hebras atraviesan paredes |
+| **Las Gemelas** (Jardín) | *Espejos Gemelos* | Par de espejos de mano: dos portadores sintonizados intercambian posiciones entre sí (1/descanso corto cada uno) |
 
 ---
 
-## 🎁 **RECOMPENSAS DE FACciones**
+## 🎁 **RECOMPENSAS DE FACCIONES**
 
-### **🔧 Artefactos Gnomos (Anacronistas)**
+> Se ganan por **alianza**, por recuperar el artefacto robado de cada pueblo (el Cronómetro / la Perla), o comprándolas con muy buena relación. Statblocks: **oficiales del DMG**, renombrados.
 
-> **📍 Ubicación y Obtención General:**
-> - **Ubicación:** Cronópolis (Santuario de los Anacronistas)
-> - **Quest Giver:** Maestro Relojero o líderes de los Anacronistas
-> - **Requisito:** Alianza con los Anacronistas o recuperar el Cronómetro de Realidades
-> - **Nivel Recomendado:** 5-9
+### **🔧 De los Anacronistas** *(Cronópolis, Santuario — quest giver: Galen)*
 
-#### **Reloj de Estabilización Temporal**
-![Reloj de Estabilización Temporal](../../assets/objetos_magicos/12_reloj-estabilizacion-temporal.jpg)
+**Reloj de Estabilización Temporal** — la única pieza plenamente chroniana de la lista, sin equivalente oficial:
+- **Muy raro (sintonización)** · 5.000 po con alianza · crea una **burbuja de tiempo normal de 30 pies** que neutraliza las distorsiones temporales menores · **1 hora, 1/día** (recarga al amanecer).
 
-**📍 Cómo Obtenerlo:**
-- **Recompensa por Alianza:** Los Anacronistas lo ofrecen como recompensa por formar alianza permanente
-- **Recompensa por Recuperar Cronómetro:** Si los PJ recuperan el Cronómetro de Realidades, pueden elegir este artefacto como recompensa
-- **Compra (Alternativa):** Los PJ pueden comprarlo por 5,000 po si tienen buena relación con los Anacronistas
+| Recompensa | Base oficial (DMG) | Sabor chroniano |
+|---|---|---|
+| *Gafas de Percepción Temporal* (3.000 po) | **Gema de Visión**, engarzada en unas gafas de relojero | en vez de atravesar ilusiones, ve el **flujo verdadero del tiempo**: ecos de hasta 1 hora y ventaja para detectar distorsiones |
+| *Brújula del Tiempo Verdadero* (3.000 po) | *(sin base — cabe en una línea)* | siempre apunta al "tiempo verdadero": ventaja en Supervivencia para orientarse en regiones distorsionadas |
 
-**Tipo:** Objeto Mágico (Requiere Sintonización)  
-**Rareza:** Muy Raro  
-**Peso:** 1 libra  
-**Creador:** Anacronistas
+### **🌊 De los Oceánicos** *(Abysara — quest giver: Tholassa / la Reina Nereia)*
 
-**Propiedades:**
-- Crea una burbuja de tiempo normal de 30 pies de radio
-- Las distorsiones temporales menores se neutralizan en esta área
-- **Duración:** 1 hora (1/día)
-- **Recarga:** Al amanecer
-
-#### **Gafas de Percepción Temporal**
-![Gafas de Percepción Temporal](../../assets/objetos_magicos/13_gafas-percepcion-temporal.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Recompensa por Alianza:** Los Anacronistas lo ofrecen como recompensa por formar alianza permanente
-- **Recompensa por Recuperar Cronómetro:** Si los PJ recuperan el Cronómetro de Realidades, pueden elegir este artefacto como recompensa
-- **Compra (Alternativa):** Los PJ pueden comprarlo por 3,000 po si tienen buena relación con los Anacronistas
-
-**Tipo:** Objeto Mágico (Requiere Sintonización)  
-**Rareza:** Raro  
-**Peso:** 0.5 libras
-
-**Propiedades:**
-- Permiten ver el flujo natural del tiempo incluso cuando está distorsionado
-- Ventaja en tiradas de Percepción para detectar distorsiones temporales
-- Pueden ver "ecos" de eventos pasados (hasta 1 hora)
-
-#### **Brújula del Tiempo Verdadero**
-![Brújula del Tiempo Verdadero](../../assets/objetos_magicos/14_brujula-tiempo-verdadero.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Recompensa por Alianza:** Los Anacronistas lo ofrecen como recompensa por formar alianza permanente
-- **Recompensa por Recuperar Cronómetro:** Si los PJ recuperan el Cronómetro de Realidades, pueden elegir este artefacto como recompensa
-- **Compra (Alternativa):** Los PJ pueden comprarlo por 3,000 po si tienen buena relación con los Anacronistas
-
-**Tipo:** Objeto Mágico (Requiere Sintonización)  
-**Rareza:** Raro  
-**Peso:** 1 libra
-
-**Propiedades:**
-- Siempre apunta hacia el "tiempo verdadero" (no distorsionado)
-- Permite navegar por regiones temporales sin perderse
-- Ventaja en tiradas de Supervivencia en regiones temporales
-
----
-
-### **🌊 Bendiciones del Vacío (Oceánicos de las Profundidades)**
-
-> **📍 Ubicación y Obtención General:**
-> - **Ubicación:** Abysara (Ciudad Sumergida de los Oceánicos de las Profundidades)
-> - **Quest Giver:** Reina Nereia o Comandante Kael
-> - **Requisito:** Alianza con los Oceánicos de las Profundidades o recuperar la Perla del Vacío Primordial
-> - **Nivel Recomendado:** 5-9
-
-#### **Amuleto de Respiración Acuática**
-![Amuleto de Respiración Acuática](../../assets/objetos_magicos/15_amuleto-respiracion-acuatica.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Recompensa por Alianza:** Los Oceánicos lo ofrecen como recompensa por formar alianza permanente
-- **Recompensa por Recuperar Perla:** Si los PJ recuperan la Perla del Vacío Primordial, pueden elegir este artefacto como recompensa
-- **Compra (Alternativa):** Los PJ pueden comprarlo por 3,000 po si tienen buena relación con los Oceánicos
-
-**Tipo:** Objeto Mágico (Requiere Sintonización)  
-**Rareza:** Raro  
-**Peso:** 0.5 libras
-
-**Propiedades:**
-- Permite respirar bajo el agua indefinidamente
-- Resistencia a daño por frío
-- Ventaja en tiradas de Atletismo para nadar
-
-#### **Tridente del Vacío**
-![Tridente del Vacío](../../assets/objetos_magicos/16_tridente-del-vacio.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Recompensa por Alianza:** Los Oceánicos lo ofrecen como recompensa por formar alianza permanente
-- **Recompensa por Recuperar Perla:** Si los PJ recuperan la Perla del Vacío Primordial, pueden elegir este artefacto como recompensa
-- **Compra (Alternativa):** Los PJ pueden comprarlo por 5,000 po si tienen buena relación con los Oceánicos
-
-**Tipo:** Tridente +2 (Objeto Mágico)  
-**Rareza:** Muy Raro  
-**Peso:** 4 libras
-
-**Propiedades:**
-- **+2 a ataques y daño**
-- **Daño:** 1d8+2 perforante + 1d6 frío
-- Puede crear portales al vacío (1/día, CD 18)
-
-#### **Escama de Oceánico**
-![Escama de Oceánico](../../assets/objetos_magicos/17_escama-de-oceanico.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Recompensa por Alianza:** Los Oceánicos lo ofrecen como recompensa por formar alianza permanente
-- **Recompensa por Recuperar Perla:** Si los PJ recuperan la Perla del Vacío Primordial, pueden elegir este artefacto como recompensa
-- **Compra (Alternativa):** Los PJ pueden comprarlo por 2,000 po si tienen buena relación con los Oceánicos
-
-**Tipo:** Objeto Mágico (Requiere Sintonización)  
-**Rareza:** Raro  
-**Peso:** 0.1 libras
-
-**Propiedades:**
-- Inmunidad a efectos de presión (profundidades oceánicas, vacío)
-- Resistencia a daño por frío
-- Puede comunicarse con criaturas acuáticas
+| Recompensa | Base oficial (DMG) | Sabor chroniano |
+|---|---|---|
+| *Amuleto de Respiración Acuática* (2.000 po) | **Casquete de respiración acuática** (una perla en diadema de coral) | otorga además nado 30 pies |
+| *Tridente del Vacío* (5.000 po) | **Filo de Escarcha** forjado como tridente | su frío es "el frío del vacío entre planos"; la punta brilla ante un portal abierto a 60 pies |
+| *Escama de Oceánico* (2.000 po) | **Collar de Adaptación** (una sola escama engarzada) | inmune a la presión de las profundidades y al vacío; permite hablar con criaturas acuáticas |
 
 ---
 
@@ -1179,68 +1010,18 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 - **Efecto Especial:** Si impacta a un lanzador de conjuros, cancela el hechizo que está lanzando (CD 15 + nivel del hechizo)
 - **Recarga:** Acción para recargar (1 proyectil por turno)
 
-#### **Granada de Estabilidad**
-![Granada de Estabilidad](../../assets/objetos_magicos/20_granada-estabilidad.jpg)
+#### **Los demás inventos de venta** *(equivalencias oficiales)*
 
-**📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 1,500 po en el Taller de La Resistencia
-- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones menores
-- **Requisito:** Buena relación con Lucienne Rietveldt
-- **Nota:** Puede comprarse en lotes (10 granadas por 1,200 po)
-
-**Tipo:** Arma Arrojadiza (Tecnología)  
-**Rareza:** Raro  
-**Peso:** 1 libra  
-**Creador:** Lucienne Rietveldt
-
-**Propiedades:**
-- **Daño:** 2d6 de fuerza (explosión)
-- **Área de Efecto:** Radio de 20 pies
-- **Efecto Especial:** Neutraliza distorsiones temporales y espaciales menores en el área
-- **Duración:** 1 minuto
-- **CD de Salvación:** CD 15 de Destreza para la mitad del daño
-
-#### **Escudo Tecnológico**
-![Escudo Tecnológico](../../assets/objetos_magicos/21_escudo-tecnologico.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 3,000 po en el Taller de La Resistencia
-- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones de protección
-- **Requisito:** Buena relación con La Resistencia
-
-**Tipo:** Escudo (Tecnología)  
-**Rareza:** Raro  
-**Peso:** 8 libras  
-**CA:** +2
-
-**Propiedades:**
-- **Deflector Arcano (3/día, reacción):** al recibir daño de un conjuro o efecto mágico, reduce ese daño a la mitad
-- **Bloqueo de Hechizos:** puede bloquear por completo un hechizo de nivel 3 o inferior dirigido al portador (1/día)
-- **Durabilidad:** 50 puntos (se repara con herramientas de herrero)
-- *(Nota de balance: la versión antigua daba mitad de TODO el daño mágico de forma permanente — a 3.000 po rompía la banda 5-7. Ahora es un escudo de reacción, no una resistencia pasiva.)*
-
-#### **Trampa Mecánica Anti-Magia**
-![Trampa Mecánica Anti-Magia](../../assets/objetos_magicos/22_trampa-antimagia.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 2,500 po en el Taller de La Resistencia
-- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones de infiltración
-- **Requisito:** Buena relación con Kaoros el Sordo
-
-**Tipo:** Trampa (Tecnología)  
-**Rareza:** Raro  
-**Peso:** 10 libras  
-**Creador:** Kaoros el Sordo
-
-**Propiedades:**
-- **Activación:** Se activa cuando detecta magia en 10 pies
-- **Efecto:** Captura a la criatura mágica en una jaula de acero
-- **CD de Salvación:** CD 18 de Destreza para evitar
-- **Escape:** CD 20 de Fuerza para romper la jaula
+| Invento | Base oficial (DMG) | Reskin tecnológico |
+|---|---|---|
+| *Granadas de Estabilidad* (1.500 po/granada) | **Collar de bolas de fuego** — cada "cuenta" es una granada | daño de **fuerza**, no fuego; además neutraliza las distorsiones menores del área durante 1 minuto |
+| *Escudo Tecnológico* (3.000 po) | **Escudo Guardaconjuros** | placas y condensadores en lugar de runas; su "Deflector Arcano" es la ventaja contra conjuros del original |
+| *Trampa Anti-Magia* (2.500 po) | *(sin base — cabe en una línea)* | jaula plegable que se dispara al detectar magia a 10 pies (DES CD 18 para evitarla; FUE CD 20 para romperla) |
+| *Detector de Magia* (2.000 po) | **Varita de detección de magia** en carcasa de latón | vibra en vez de brillar (diseño de Kaoros, que la lee al tacto); distingue magia temporal, espacial y arcana |
 
 ---
 
-### **🔧 Máquinas de Estabilización**
+### **🔧 Máquinas de Estabilización**### **🔧 Máquinas de Estabilización**
 
 > **📍 Nota:** Solo el **Neutralizador de Campo** es una **instalación fija** anclada en Cronópolis (el escudo de la ciudad). El **Cerrador de Portales** y el **Estabilizador Temporal** son **portátiles**: aparatos pequeños que un PJ lleva encima y despliega en el campo (sobre un trípode/patas plegables).
 
@@ -1287,27 +1068,6 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 - **Vulnerable:** si el operador cae o el aparato sufre daño grave durante el anclaje, el proceso se pierde y hay que reiniciarlo.
 
 **🎣 Gancho en la historia (cómo aprenden que lo necesitan):** ver la campaña de asalto a las zonas de portales en el [Motor de Campaña](../../01_Como_Dirigir.md). En resumen: los PJ descubren —a las malas o por aviso de La Resistencia— que a Ymir, Ignis y Yrindra **no se les mata a espada, sino cerrándoles las puertas**; cerrar los portales **anula sus invocaciones**. El Cerrador es la vía tecnológica; cada región tiene además su vía in-world (el *ritual de apagado* de Cendal en las Calderas, el sellado de umbrales de Aeryndra en Veldrisza, cerrar la Red de Ymir en Glacialis). Son intercambiables.
-
-#### **Detector de Magia**
-![Detector de Magia](../../assets/objetos_magicos/23_detector-magia.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Compra:** Los PJ pueden comprarlo por 2,000 po en el Taller de La Resistencia
-- **Recompensa por Misión:** La Resistencia lo ofrece como recompensa por misiones de detección
-- **Requisito:** Buena relación con Kaoros el Sordo
-
-**Tipo:** Dispositivo (Tecnología)  
-**Rareza:** Raro  
-**Peso:** 5 libras  
-**Creador:** Kaoros el Sordo
-
-**Propiedades:**
-- **Rango:** Detecta magia en 1 milla
-- **Precisión:** Identifica el tipo de magia (temporal, espacial, arcana)
-- **Mecánica:** Vibra cuando detecta magia, más fuerte cuanto más cerca
-- **Uso:** No requiere sintonización, funciona para cualquiera
-
-> **Nota (fusión):** el **Dispositivo de Detección de Kaoros** que aparece más abajo en «Objetos Personales de Líderes» es **el mismo aparato** en su variante personal —más pequeño (3 lb, alcance 500 pies), que Kaoros "lee" por vibraciones al ser sordo—. Mecánicamente son el mismo objeto: usa una ficha u otra, no las dupliques.
 
 #### **🔧 Monitor Público del Contador del Ritual (Balanza de Chronosia)**
 ![Balanza de Chronosia](../../assets/objetos_magicos/11_balanza-chronosia.jpg)
@@ -1410,51 +1170,13 @@ Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din 
 
 ---
 
-### **👤 Objetos Personales de Líderes**
+### **👤 Objetos Personales de Líderes** *(equipo de PNJ, no botín)*
 
-> **📍 Nota:** Estos objetos están en posesión de los líderes de La Resistencia. Los PJ pueden obtenerlos como recompensas por misiones muy importantes o por derrotar a los líderes (no recomendado).
+> Están cosidos a sus dueños: solo cambian de manos por una misión épica o un encargo carísimo. En una línea cada uno:
 
-#### **Prótesis Mecánica de Balthar**
-![Prótesis Mecánica de Balthar](../../assets/objetos_magicos/28_protesis-balthar.jpg)
-
-**📍 Cómo Obtenerlo:**
-- **Recompensa por Misión Épica:** Balthar podría ofrecerla como recompensa por una misión extremadamente importante
-- **Derrotar a Balthar:** Al derrotarlo, la prótesis puede ser obtenida (no recomendado - Balthar es aliado potencial)
-- **Compra (Alternativa):** Balthar podría construir una similar por 15,000 po (requiere 1 mes)
-
-**Tipo:** Prótesis + Arma (Tecnología)  
-**Rareza:** Muy Raro  
-**Peso:** 15 libras  
-**Creador:** Balthar Herrumbra
-
-**Propiedades:**
-- **Reemplaza:** Brazo derecho
-- **Arma Integrada:** Puede disparar proyectiles anti-magia
-- **Daño:** 2d6 perforante
-- **Efecto:** Cancela hechizos de nivel 3 o inferior al impactar (CD 15)
-- **Munición:** 10 proyectiles (recarga con acción, 1 po cada proyectil)
-
-#### **Brazo Mecánico de Lucienne**
-
-**📍 Cómo Obtenerlo:**
-- **Recompensa por Misión Épica:** Lucienne podría ofrecerlo como recompensa por una misión extremadamente importante
-- **Derrotar a Lucienne:** Al derrotarla, el brazo puede ser obtenido (no recomendado - Lucienne es aliada potencial)
-- **Compra (Alternativa):** Lucienne podría construir uno similar por 12,000 po (requiere 3 semanas)
-
-**Tipo:** Prótesis + Herramientas (Tecnología)  
-**Rareza:** Muy Raro  
-**Peso:** 12 libras  
-**Creador:** Lucienne Rietveldt
-
-**Propiedades:**
-- **Reemplaza:** Brazo izquierdo
-- **Herramientas Integradas:** Llaves, destornilladores, cuchillas
-- **Ventaja:** En todas las tiradas con herramientas de herrero y artífice
-- **Arma:** Cuchillas retráctiles (1d4 cortante)
-
-#### **Dispositivo de Detección de Kaoros** *(= Detector de Magia, variante personal)*
-
-Es **el mismo aparato** que el **Detector de Magia** (ver «Máquinas de Estabilización», arriba), en la versión personal que porta **Kaoros el Sordo**: más pequeño (3 libras, alcance 500 pies) y que "lee" la magia por **vibraciones** en lugar de por sonido, adaptado a su sordera. No es un objeto distinto; usa la ficha del Detector de Magia. Se mantiene aquí solo como referencia del equipo personal de Kaoros.
+- **Prótesis Mecánica de Balthar** *(muy raro)*: brazo derecho artificial con arma integrada — 2d6 perforante y cancela conjuros de nivel ≤3 al impactar (CD 15); 10 proyectiles (1 po/ud.). Encargo: 15.000 po y un mes.
+- **Brazo Mecánico de Lucienne** *(muy raro)*: herramientas integradas (ventaja con herramientas de herrero y de artífice) y cuchillas retráctiles (1d4). Encargo: 12.000 po y tres semanas.
+- **Dispositivo de Kaoros**: su *Detector de Magia* personal (ver la tabla de inventos), miniaturizado a 3 libras y leído por vibraciones.
 
 ---
 
@@ -1629,61 +1351,11 @@ Un cristal de color azul profundo con matices turquesa que parece contener el oc
 
 ---
 
-#### **🎯 Cómo se Crean los Cristales**
+#### **🎯 Origen de los cristales y el sistema de Teach (resumen)**
 
-**Cristal de Poder:**
-1. **Estallido de Poder:** Durante la batalla entre Amaunator y Voidar, los estallidos de poder divino crean ondas de energía
-2. **Cristalización:** Estas ondas de energía a veces se cristalizan en el espacio-tiempo fracturado
-3. **Tipo de Poder:** El color depende de la naturaleza del estallido:
-   - **Estallidos de Poder Temporal Puro** → Cristales de Poder Dorados (temporales)
-   - **Estallidos de Poder Dimensional Puro** → Cristales de Poder Púrpura (dimensionales)
-   - **Estallidos Simultáneos** (ambos dioses) → Cristales de Poder Multicolor (ambos poderes)
+Los **Cristales de Poder** cristalizan allí donde estallan los choques divinos (dorado = temporal, púrpura = dimensional, multicolor = ambos): sobre todo en el lecho marino de **Abysara**, y muy raramente en las regiones de alta actividad — donde recolectarlos sin el conocimiento oceánico es casi suicida. Los **Cristales Estabilizadores** no se encuentran: **se fabrican**, y solo los maestros artesanos oceánicos saben cómo (el único de los Anacronistas, usado en el Cronómetro, es anterior a la división de los dos pueblos).
 
-**Cristal Estabilizador:**
-1. **Tecnología Oceánica:** Los Oceánicos de las Profundidades han desarrollado técnicas únicas durante siglos
-2. **Proceso Secreto:** Combinan magia dimensional con la energía del océano profundo
-3. **Ubicación:** Solo se pueden crear en Abysara, usando recursos únicos del lecho marino
-4. **Conocimiento Guardado:** El proceso exacto es un secreto que solo los maestros artesanos Oceánicos conocen
-
-**Ubicaciones de Cristales de Poder:**
-- **Abysara (Principal):** La ciudad submarina de los Oceánicos de las Profundidades (2 millas bajo la superficie, 10 millas al sur del Archipiélago de Barbanegra). Se forman mágicamente en las profundidades del lecho marino cerca de la ciudad. Los Oceánicos tienen el conocimiento más completo sobre su existencia y cómo encontrarlos de forma segura.
-- **Regiones con Alta Actividad Dimensional:** Las regiones controladas por lugartenientes dimensionales (Las Llanuras de la Compresión, La Ciudad Subterránea, El Jardín de los Tiempos Gemelos, Glacialis, Las Calderas Dimensionales) pueden tener Cristales de Poder Púrpura (dimensionales) formándose espontáneamente, pero son extremadamente raros y peligrosos de recolectar sin conocimiento especializado.
-- **Regiones con Alta Actividad Temporal:** Las regiones controladas por lugartenientes temporales pueden tener Cristales de Poder Dorados (temporales) formándose espontáneamente, pero son extremadamente raros.
-- **⚠️ NOTA:** Aunque los cristales pueden formarse en otras regiones, solo los Oceánicos de Abysara tienen el conocimiento completo y seguro para identificarlos y recolectarlos. En otras regiones, encontrar estos cristales requiere exploración peligrosa y puede ser parte de misiones específicas (como la construcción de la Excavadora Dimensional).
-
-**Ubicaciones de Cristales Estabilizadores:**
-- **Abysara:** La ciudad submarina de los Oceánicos (donde se descubrió originalmente durante la reconstrucción de la ciudad)
-- **Cronópolis:** Los Anacronistas obtuvieron el único Cristal de Estabilización que tienen antes de la división, usado para crear el Cronómetro de Realidades
-- **Otras ubicaciones:** Pueden encontrarse ocasionalmente en vetas profundas bajo montañas antiguas, pero son extremadamente raros
-
-**Frecuencia:**
-- **Cristales de Poder Pequeños:** Extremadamente raros. Más comunes en Abysara (requieren alianza o comercio especial con Oceánicos). Pueden encontrarse ocasionalmente en regiones con alta actividad temporal/dimensional, pero son muy peligrosos de recolectar sin conocimiento especializado.
-- **Cristales de Poder Medianos:** Casi legendarios. Principalmente en Abysara (solo disponibles a través de misiones de alto valor para la Reina Nereia). Extremadamente raros en otras regiones.
-- **Cristales de Poder Grandes:** Legendarios únicos. Principalmente en Abysara (solo disponibles como recompensa por servicios excepcionales). Casi imposibles de encontrar en otras regiones.
-- **Cristales Estabilizadores:** Raros, principalmente en Abysara y Cronópolis (requieren alianza o comercio especial). Solo los Oceánicos saben cómo crearlos.
-
----
-
-#### **🏴‍☠️ Uso de Edward Teach - Combinación de Poderes**
-
-**El Sistema de Teach:**
-Edward Teach ha desarrollado un sistema único para combinar poderes usando estos cristales:
-
-1. **Cristal Estabilizador:** Usa estos cristales para **estabilizar** la combinación, evitando que los poderes robados entren en conflicto y protegiéndose de los efectos secundarios
-2. **Cristal de Poder:** Usa estos cristales para **amplificar y canalizar** los poderes, permitiendo que se fusionen en lugar de simplemente coexistir
-3. **Artefactos:** Combina los cristales con artefactos (Cronómetro, Perla) para crear objetos híbridos poderosos
-
-**El Talismán de Interceptación Divina:**
-- **Componentes:** Cronómetro + Perla + Cristales Estabilizadores + Cristales de Poder
-- **Proceso:** Los cristales estabilizadores protegen contra los efectos de la fusión, mientras que los cristales de poder amplifican y canalizan la energía
-- **Resultado:** Un artefacto que puede interceptar el poder divino antes de que llegue a Manshoon
-
-**Búsqueda Activa:**
-- Teach busca desesperadamente **Cristales de Poder** en Abysara (pero los Oceánicos lo rechazan después de su traición y solo ellos conocen cómo encontrarlos de forma segura)
-- Teach busca desesperadamente **Cristales Estabilizadores** en Abysara (pero los Oceánicos lo rechazan después de su traición)
-- Puede enviar a sus piratas a buscar cristales en regiones con alta actividad dimensional/temporal, pero sin el conocimiento de los Oceánicos, es extremadamente peligroso y raro encontrar Cristales de Poder
-- Los cristales son esenciales para su plan de interceptación divina
-- **⚠️ PROBLEMA DE TEACH:** Sin acceso a Abysara y sin el conocimiento especializado de los Oceánicos, Teach no puede obtener Cristales de Poder de forma segura. Aunque técnicamente pueden formarse en otras regiones, encontrarlos y recolectarlos sin el conocimiento de los Oceánicos es casi imposible y extremadamente peligroso. Esto puede ser un punto de presión narrativa importante.
+**El sistema de Teach** combina ambos tipos: el Estabilizador evita que dos poderes robados entren en conflicto, el de Poder los amplifica y fusiona, y los artefactos (Cronómetro + Perla) canalizan el resultado — así se construye el **Talismán de Interceptación Divina**. **Su punto débil:** tras la traición, Abysara le está vedada, y sin el saber oceánico apenas puede reponer cristales. Es un punto de presión narrativa que los PJ pueden explotar.
 
 ---
 
@@ -1744,8 +1416,8 @@ Edward Teach ha desarrollado un sistema único para combinar poderes usando esto
 | Excavadora Dimensional | Artefacto | Artefacto | 200 lbs | Quest Ingenieros |
 | Rotor Infinito | Artefacto | Artefacto | 500 lbs | Serapis + Ymir |
 | Rifle Anti-Magia | Muy Raro | Tecnología | 12 lbs | La Resistencia |
-| Granada de Estabilidad | Raro | Tecnología | 1 lb | La Resistencia |
-| Escudo Tecnológico | Raro | Tecnología | 8 lbs | La Resistencia |
+| Granadas de Estabilidad (= Collar de bolas de fuego) | Raro | Tecnología | 1 lb | La Resistencia |
+| Escudo Tecnológico (= Escudo Guardaconjuros) | Raro | Tecnología | 8 lbs | La Resistencia |
 | Estabilizador Temporal (portátil) | Muy Raro | Tecnología | 25 lbs | Din Goldgear |
 | Cerrador de Portales (portátil) | Muy Raro | Tecnología | 8 lbs | Din Goldgear (sella portales) |
 | Neutralizador de Campo (fijo) | Muy Raro | Tecnología | 500 lbs | Cronópolis (escudo de la ciudad) |
