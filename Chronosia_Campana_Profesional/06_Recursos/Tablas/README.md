@@ -22,13 +22,14 @@
 
 ### **Utilidad:**
 - [x] **[24_Rumores_Taberna.md](24_Rumores_Taberna.md)** — Rumores de *La Última Hora* (1d20, verdad/medias/bulo; los sirve Bram, 1d4 por visita) ✅
+- [x] **[25_Tablas_de_Nombres.md](25_Tablas_de_Nombres.md)** — Nombres chronianos, oceánicos, drow y piratas con epítetos; lugares improvisados y rasgo rápido de NPC (1d10) ✅
 
 ---
 
 ## 📋 **PENDIENTES**
 
 - [x] ~~Tabla de tesoros menores~~ ✅ añadida al final del [catálogo de objetos](21_Objetos_Magicos_Reliquias.md) (1d10 por zona saqueable)
-- [ ] Tablas de nombres (NPCs chronianos, oceánicos, lugares)
+- [x] ~~Tablas de nombres~~ ✅ [25_Tablas_de_Nombres.md](25_Tablas_de_Nombres.md)
 
 ---
 

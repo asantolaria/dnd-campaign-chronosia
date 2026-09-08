@@ -14,13 +14,15 @@
 **Nivel recomendado:** 5-7  
 **Lanzar:** 1d6 cuando los PJ se desplazan por la región o pasan tiempo fuera de la aldea.
 
+*Bestiario de referencia: [01_Espiral_Inversa.md](../../05_Apendices/Bestiario_Regional/01_Espiral_Inversa.md)*
+
 | 1d6 | Encuentro | CR aprox. | Descripción breve |
 |-----|-----------|-----------|-------------------|
-| 1 | **Eco temporal** | 4 | Una versión fantasmal de un evento pasado se repite: 2-3 "Retrocedentes" (soldados de Serapis) que repiten una patrulla anterior. Si los PJ no interfieren, se desvanecen; si atacan, combate (estadísticas tipo veterano con rasgo de repetición: una acción por ronda puede repetirse 1 vez). |
+| 1 | **Eco temporal** | 2 c/u | 2-3 **Ecos de Refriega** (CR 2, ver Bestiario Regional) repiten una escaramuza del pasado. Si los PJ no interfieren, se desvanecen al acabar su "escena"; si atacan, combate. |
 | 2 | **Aldeanos cargando arena** | — | Grupo de 4-6 Portadores de Arena transportando sacos de arena dorada al Reloj. Pueden dar información, pedir ayuda contra criaturas temporales o ofrecer descanso en la aldea. |
-| 3 | **Guardianes del Cristal** | 5 | 1d4+1 constructos o criaturas temporales custodiando un **Cristal de Arena**. Combate para defender el cristal o negociar (algunos hablan en fragmentos de frases del pasado). |
+| 3 | **Guardianes del Cristal** | 3 c/u | 1d2 **Rebobinadores** (CR 3, ver Bestiario Regional) anidan sobre un **Cristal de Arena** y lo defienden. Combate, o distraerlos con un objeto "con mucho pasado" (les gusta rebobinarlo). |
 | 4 | **Bucle local** | — | Una zona de 60 pies donde el tiempo se repite: los PJ reviven los últimos 30 segundos 1d3 veces (solo narrativo o una tirada de Sabiduría CD 14 para "salir" del bucle). No hay combate; sensación de desorientación. |
-| 5 | **Retrocedentes en patrulla** | 6 | Patrulla de 3-4 soldados de Serapis (Retrocedentes). Atacan si reconocen a los PJ como intrusos. Pueden usar 1 acción de "repetir ataque" por encuentro. |
+| 5 | **Retrocedentes en patrulla** | 3 c/u | 3-4 **Retrocedentes** — soldados de Serapis: usa **veterano** (MM, CR 3) con *Retroceso de Heridas* (1/combate, al fallar un ataque lo repite; ver [Soldados Regionales](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md)). Atacan si reconocen intrusos. |
 | 6 | **Relojero perdido** | — | Un anciano Maestro Relojero que ha salido a buscar componentes. Ofrece pista sobre la mecánica del Reloj o la ubicación de un Cristal de Arena a cambio de escolta hasta la aldea. |
 
 ---
@@ -28,15 +30,17 @@
 ## ❄️ **2. Glacialis (Ymir)**
 
 **Nivel recomendado:** 5-7  
-**Lanzar:** 1d6 al viajar por glaciares o acercarse a la Fortaleza de Hielo.
+**Lanzar:** 1d6 al viajar por glaciares o acercarse a la red de portales.
+
+*Bestiario de referencia: [03_Glacialis.md](../../05_Apendices/Bestiario_Regional/03_Glacialis.md)*
 
 | 1d6 | Encuentro | CR aprox. | Descripción breve |
 |-----|-----------|-----------|-------------------|
-| 1 | **Portal inestable** | — | Un portal de hielo se abre brevemente: 1d4 **elementales de agua** (CR 5) o **mephits de hielo** (CR 1/2, 2d4) salen antes de que se cierre. Combate o evasión. |
-| 2 | **Guardianes de hielo** | 5 | Estatuas de hielo animadas (usar **gólem de hielo** reducido o **elemental de hielo** re-tematizado) que vigilan un paso. 1d2 guardianes; atacan si los PJ no tienen señal de Ymir o no evitan la zona. |
-| 3 | **Caravana de suministros** | 6 | Grupo de criaturas (2-3 **ogros** o **trolls** de hielo) transportando suministros entre portales. Pueden combatir o los PJ pueden intentar sabotear/robar (Sigilo CD 14). |
+| 1 | **Portal inestable** | 3 c/u | Un portal de hielo se abre brevemente: 1d3 **Heraldos de Escarcha** (CR 3, ver Bestiario Regional) o 2d4 **mephits de hielo** (MM, CR 1/2) salen antes de que se cierre. Combate o evasión. |
+| 2 | **Guardianes de hielo** | 4 c/u | 1d2 **Centinelas de Hielo Vivo** (CR 4, ver Bestiario Regional) vigilan un paso, inmóviles como estatuas. Atacan a quien no lleve señal de Ymir; al morir explotan en esquirlas (10 pies, DES CD 14, 3d6). |
+| 3 | **Caravana de suministros** | 2-4 | 2-3 **ogros** (MM, CR 2) con abrigos de piel planar escoltados por 1 **Loba del Glaciar Distorsionada** (CR 2, ver Bestiario) transportan suministros entre portales. Combate, o sabotear/robar la carga (Sigilo CD 14). |
 | 4 | **Aurora temporal** | — | La aurora boreal parpadea con colores extraños; todos hacen tirada de **Sabiduría CD 12** o quedan **aturdidos** 1 ronda (el espacio "vibra"). Sin combate; efecto atmosférico. |
-| 5 | **Navegantes del frío** | 5 | 1d3 humanoides envueltos en hielo dimensional (usar **asesino** o **guerrero** con resistencia al frío) que se desplazan entre portales. Hostiles si los PJ interfieren con un portal. |
+| 5 | **Navegantes del frío** | 3 c/u | 1d3 humanoides envueltos en hielo dimensional — usa **veterano** (MM, CR 3) con resistencia al frío — que se desplazan entre portales. Hostiles solo si los PJ interfieren con un umbral. |
 | 6 | **Cristalización del espacio** | 4 | Una zona de 30 pies donde el aire se cristaliza: **Salvación de Destreza CD 13** cada ronda o velocidad reducida a 0 hasta el siguiente turno. 1d2 **mephits de hielo** aprovechan para atacar. |
 
 ---
@@ -50,9 +54,9 @@
 |-----|-----------|-----------|-------------------|
 | 1 | **Patrulla de la Resistencia** | — | 4-6 guardias o milicianos de Cronópolis. Amistosos; pueden dar noticias, advertir de zonas peligrosas o pedir ayuda con una bestia/bandido cercano (mini-quest opcional). |
 | 2 | **Refugiados** | — | Familia o pequeño grupo que huye de una región inestable. Pueden ofrecer rumores, pedir escolta hasta Cronópolis o dar pista de un lugarteniente (información que el DM quiera introducir). |
-| 3 | **Criaturas desorientadas** | 4 | 1d4 criaturas (lobos, jabalíes o **bestias distorsionadas**: mismo statblock con 1 rasgo menor temporal, p. ej. "repite un ataque fallido una vez") que han entrado por una distorsión. Combate o evasión. |
+| 3 | **Criaturas desorientadas** | 1 c/u | 1d4 **lobos atroces** o **jabalíes gigantes** (MM, CR 1-2) llegados por una distorsión, con 1 rasgo menor temporal (p. ej. 1/combate repiten un ataque fallido). Combate o evasión. |
 | 4 | **Mercader** | — | Mercader que viaja a o desde Cronópolis. Puede comerciar (objetos comunes o un objeto menor), dar rumores o pedir protección hasta la ciudad (1d2 encuentros de CR 3 en el camino). |
-| 5 | **Bandidos o espías** | 4 | 2-4 bandidos (o **espías** de Bregan D'aerthe / Cronófagos) que observan el camino. Combate si los PJ les confrontan; si no, pueden seguir a los PJ (el DM puede usarlos más tarde). |
+| 5 | **Bandidos o espías** | 2 | 1 **capitán bandido** (MM, CR 2) con 2-4 **bandidos** (CR 1/8) — o 1d2 **espías** (MM, CR 1) de Bregan D'aerthe / los Cronófagos — observan el camino. Combate si los confrontan; si no, siguen a los PJ (úsalos más tarde). |
 | 6 | **Distorsión menor** | — | Una pequeña zona donde el tiempo o el espacio "falla": relojes se atrasan 1 hora, 30 pies de camino se sienten como 60. Sin combate; el DM puede aplicar 1 efecto menor de la tabla de Tormentas del Ritual para recordar que el mundo está inestable. |
 
 ---
@@ -222,7 +226,7 @@
 - **Frecuencia:** Una tirada por "viaje significativo" (medio día o trayecto entre dos puntos de interés) evita saturar; en zonas muy peligrosas puedes lanzar 2 veces.
 - **Combinar con la trama:** Sustituye un resultado por un encuentro preparado (p. ej. mensajero de un lugarteniente, pista hacia un cristal) cuando convenga.
 - **Bestiario:** las entradas de combate citan criaturas del Bestiario Regional ([05_Apendices/Bestiario_Regional](../../05_Apendices/Bestiario_Regional/)) por nombre y CR. Consulta allí los statblocks completos y ajusta la cantidad de criaturas a la banda de nivel y al tamaño del grupo.
-- **CR acorde a la región:** las regiones 4-11 usan 1d8 y mezclan combate, encuentros con PNJ, hallazgos y paradojas ambientales sin combate. Sustituye un resultado por un encuentro preparado de la trama cuando convenga.
+- **CR acorde a la región:** todas las zonas citan statblocks concretos (Bestiario Regional o Manual de Monstruos) con su CR. Las zonas 1-3 usan 1d6 (más combate ligero, banda de nivel baja); las regiones 4-11 usan 1d8 y mezclan combate, PNJ, hallazgos y paradojas sin combate. Sustituye un resultado por un encuentro preparado de la trama cuando convenga.
 
 ---
 

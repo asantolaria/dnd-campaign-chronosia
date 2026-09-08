@@ -159,99 +159,30 @@
 
 ![Din Goldgear](../assets/bestiario/npcs/din-goldgear.jpg)
 
-- **Raza**: Gnomo de los Bosques
-- **Clase**: Artífice (Nivel 9)
-- **Rol**: Mano Derecha de Cornelius "El Inmutable" y Maestro Ingeniero
-- **Alineación**: Neutral Bueno
-- **Ubicación**: Taller de Cornelius, en el barrio de **Cronosgate** (el barrio relojero-artífice de Cronópolis)
+- **Raza**: Gnomo de los Bosques · **Clase**: Artífice (nivel 9) · **Alineación**: Neutral Bueno
+- **Rol**: Mano derecha de Cornelius y **mecenas artífice** de la campaña
+- **Ubicación**: Taller de Cornelius, barrio de **Cronosgate** (Cronópolis)
 
-**Descripción Física**: Un gnomo joven con una pequeña barba bien cuidada, siempre vestido con un delantal de cuero manchado de aceite y herramientas de artífice colgando de su cinturón. Sus ojos brillan con curiosidad constante, y sus manos hábiles nunca están quietas, siempre ajustando, mejorando o inventando algo nuevo. Lleva gafas de aumento que se deslizan por su nariz cuando se concentra intensamente en su trabajo.
+**En una frase:** un artífice brillante y ansioso, atrapado en Chronosia por su propio invento, que ya vivió una prisión planar (Barovia) y está decidido a que esta acabe distinto.
 
-**Historia y Origen**: Din Goldgear proviene de una honorable familia gnomos que durante generaciones se dedicó a la fabricación de herramientas y maquinarias en los Reinos Gnomos. Su familia financió su formación en la escuela del gran *Barnabas Goodwheels*, donde desarrolló sus habilidades como artífice. Sin embargo, la familia Goldgear cayó en bancarrota por mala gestión, lo que animó a Din a dejar el Reino de los Gnomos (que está bajo tierra) en busca de nuevas oportunidades.
+**Lo que hay que saber de su historia:**
+- **Thaddeus era su amigo.** Vivió años en Waterdeep como artífice; mantenía correspondencia con Thaddeus Ironwright sobre la naturaleza del tiempo. **No sabe que fue asesinado.**
+- **Barovia lo marcó.** Estuvo atrapado en el dominio de Strahd y escapó. Reconoció Chronosia al instante: *otra región arrancada de su plano*. Esa experiencia es su terror y su brújula — puede advertir a los PJ de patrones que ya ha visto fallar.
+- **Su dispositivo lo trajo aquí** hace 5-6 años: un teletransportador experimental que una distorsión sobrecargó, dejándolo caer literalmente en el taller de Cornelius. No ha logrado repararlo para volver; esa frustración alimenta su obsesión por entender las distorsiones.
+- **Cornelius es su padre adoptivo** en todo menos el nombre: el místico diseña, el gnomo construye.
 
-**Años en Waterdeep y Aventuras**: Tras dejar los Reinos Gnomos, Din se estableció en Waterdeep, donde vivió varios años trabajando como artífice independiente y participando en numerosas aventuras. Durante este tiempo, conoció y trabajó con el **Maestro Thaddeus Ironwright**, el relojero mayor de Waterdeep, con quien desarrolló una amistad basada en el respeto mutuo por la precisión y la artesanía. Thaddeus le enseñó técnicas avanzadas de relojería y le presentó a otros artesanos de la ciudad. Mantenían correspondencia regular, compartiendo descubrimientos técnicos y discutiendo teorías sobre la naturaleza del tiempo.
+**Personalidad (tres palancas):** meticuloso hasta la ansiedad (**teme el error de cálculo** más que a los monstruos) · charlatán técnico entrañable (datos precisos que no pedía nadie) · lealtad férrea con los pocos que lo aprecian.
 
-**La Experiencia de Barovia - La Aventura que le Marcó**: La aventura que más profundamente marcó a Din fue su tiempo en **Barovia**, una región arrancada de su plano y atrapada en un limbo dimensional gobernada por el vampiro Strahd von Zarovich. Allí, Din experimentó de primera mano cómo una región completa puede ser arrancada de la realidad y quedar atrapada entre planos, aislada del resto del multiverso. Esta experiencia le dejó cicatrices emocionales profundas: vio cómo la corrupción temporal y espacial puede destruir todo lo que una vez fue hermoso, cómo la esperanza puede ser sistemáticamente aplastada, y cómo incluso los más brillantes pueden quedar atrapados en una prisión sin salida.
+**En mesa (mecenas artífice):** crea y repara los artefactos clave de la campaña, financia misiones, y media entre Marcus (anti-magia) y Cornelius (pro-magia) porque él usa las dos cosas. Sus sensores son el **Calibrador del Contador del Ritual**: detectan los "hipos" del Contador — cuando un lugarteniente cae ahí fuera, el flujo divino **parpadea y el Contador se estanca un instante** (el Reloj nunca retrocede; la única excepción es el sacrificio de Varrak). Eso convierte el aparato en herramienta de pistas (saber que *alguien* —p. ej. Teach— ha matado a un lugarteniente) además de medidor. Ver [Cómo Dirigir](../01_Como_Dirigir.md).
 
-**Llegada a Chronosia**: Hace aproximadamente **5-6 años**, Din estaba experimentando con un dispositivo de teletransportación experimental en Waterdeep. El dispositivo, diseñado para viajes cortos entre ubicaciones, falló catastróficamente cuando una distorsión temporal masiva lo arrastró accidentalmente a Chronosia. Su dispositivo se sobrecargó con la energía temporal distorsionada y lo transportó directamente a **Cronópolis** —al barrio de **Cronosgate**—, donde aterrizó literalmente en el taller de Cornelius. Desde entonces, Din ha estado atrapado en Chronosia, incapaz de hacer funcionar correctamente su dispositivo para regresar a Faerún.
+**Cifras rápidas:** CA 19 · 57 PG · INT 19 (+4) · salvaciones CON +5, INT +8 · Historia/Investigación +8 · cañón sobrenatural mejorado (+1d8 daño), daga de adamantita, homúnculo de cristal temporal (detecta distorsiones), anillo de recarga de conjuros (1/amanecer, nivel ≤3).
 
-**El Dispositivo Fallido**: El dispositivo de teletransportación que trajo a Din a Chronosia sigue siendo un misterio para él. A pesar de años de trabajo con Cornelius y los ingenieros, no ha podido hacerlo funcionar correctamente para regresar. El dispositivo parece requerir una fuente de energía temporal estable que simplemente no existe en Chronosia, o tal vez necesita ser activado desde el lado de Faerún. Esta frustración técnica constante es una de las razones por las que Din se ha dedicado tan intensamente a entender las distorsiones temporales - no solo para ayudar a Chronosia, sino también para encontrar una forma de volver a casa.
+**El gran momento de Din** *(úsalo una vez)*: si los PJ le cuentan que Thaddeus fue asesinado, se derrumba — y esa herida se convierte en motivación férrea. A partir de ahí es el mecenas más generoso de los tres.
 
-**El Reconocimiento de la Similitud con Barovia**: Cuando Din llegó a Chronosia y comenzó a entender su naturaleza, experimentó un escalofrío de reconocimiento terrible: **Chronosia es exactamente como Barovia**. Una región completa arrancada de su plano original, atrapada en un limbo entre planos, donde pocos pueden acceder y nadie puede escapar fácilmente. Esta similitud le causó una mezcla de terror y determinación: terror porque sabe lo que significa estar atrapado en un lugar así, y determinación porque esta vez, con su experiencia previa, puede hacer la diferencia.
-
-**Encuentro con Cornelius**: Cornelius, que había estado trabajando solo durante años, encontró a Din desorientado pero fascinado por los relojes y mecanismos que llenaban su taller. Lo que comenzó como una relación de maestro-aprendiz se convirtió rápidamente en una asociación de iguales. Din aportó conocimientos modernos de ingeniería gnomos y técnicas de artífice, mientras que Cornelius compartió su comprensión única del tiempo y su inmunidad a las distorsiones temporales.
-
-**Rol como Mano Derecha**: Din se ha convertido en el asistente principal de Cornelius, manejando los aspectos más técnicos y mecánicos del taller mientras Cornelius se enfoca en la comprensión mística del tiempo. Din es quien construye los dispositivos que Cornelius diseña, quien mantiene los relojes complejos funcionando, y quien desarrolla nuevas tecnologías para estabilizar las distorsiones temporales.
-
-**Conexión con los Ingenieros de Cronópolis**: A través de Cornelius, Din ha establecido conexiones con La Resistencia en Cronópolis. Aunque inicialmente desconfiaban de él (por ser un artífice que usa magia), su enfoque práctico y su habilidad para crear dispositivos mecánicos que funcionan sin magia pura le ganaron su respeto. Ahora trabaja ocasionalmente con Balthar Herrumbra, Lucienne Rietveldt y Kaoros el Sordo en proyectos conjuntos de estabilización temporal.
-
-**Personalidad y Características**:
-- **Analítico y Frío**: Din es meticuloso y preciso en todo lo que hace, a veces pareciendo distante o desapegado emocionalmente
-- **Mente Despierta**: Su curiosidad es insaciable; quiere entender cómo funciona TODO, especialmente las distorsiones temporales y espaciales
-- **Charlatán Técnico**: Le encanta aportar datos técnicos a las conversaciones, aunque comúnmente no sirvan para nada práctico
-- **Noble Venido a Menos**: A pesar de su cuna noble, no se coloca por encima del resto; cree que todos tienen la misma sangre
-- **Lealtad Férrea**: No ha tenido muchos amigos, por lo que se desvivirá por los pocos que le aprecian (especialmente Cornelius)
-- **Miedo al Error**: Teme equivocarse, y si es en un cálculo, todavía más. Esta ansiedad lo impulsa a ser extremadamente cuidadoso
-
-**Estadísticas y Habilidades (Nivel 9 Artífice)**:
-- **Inteligencia**: 19 (+4) - Su característica mágica
-- **Puntos de Golpe**: 57
-- **Clase de Armadura**: 19 (Camisote de malla CA 13, Escudo CA 2)
-- **Bonificador de Competencia**: +4
-- **Tiradas de Salvación Competentes**: Constitución (+5) e Inteligencia (+8)
-- **Astucia de Gnomo**: Ventaja en todas las TS de Inteligencia, Sabiduría y Carisma contra magia
-- **Habilidades Destacadas**: Historia (+8), Investigación (+8), Medicina (+5)
-- **Competencias**: Armadura intermedia y ligera, Escudo, Armas de fuego y sencillas. Herramientas de artesano, ebanista, ladrón y manitas
-- **Habilidad de Gnomo**: Puede hablar con las bestias pequeñas a través de sonidos y gestos
-
-**Inventos y Equipamiento Especial**:
-- **Cañón Sobrenatural/Explosivo**: Din ha adaptado su cañón mágico para funcionar con energía temporal estabilizada. Sus cañones son más destructivos, y sus tiradas de daño aumentan en 1d8. Puede ordenar que el cañón explote si está a 60 pies o menos.
-- **Daga de Adamantita**: Lleva una daga crítica de adamantita (+6, 1d4 +2 perforante) que se confeccionó a partir de un pedazo de roca extraterrestre. En Chronosia, ha descubierto que la adamantita tiene propiedades únicas contra las distorsiones temporales.
-- **Sirviente Homúnculo**: Ha creado un homúnculo especial a partir de un cristal temporal estabilizado (valorado en al menos 100 po). El homúnculo puede detectar distorsiones temporales y alertar a Din.
-- **Anillo de Recarga de Conjuros**: Puede recuperar un espacio de conjuro gastado (nivel 3 o inferior) una vez por amanecer.
-- **Dispositivos de Estabilización Temporal**: Din ha desarrollado varios dispositivos únicos que ayudan a estabilizar pequeñas distorsiones temporales, trabajando en conjunto con los relojes de Cornelius.
-- **🔧 Calibrador del Contador del Ritual**: Din Goldgear aporta los sensores temporales que permiten calibrar el **Contador del Ritual** (el Reloj de 8 segmentos que los Anacronistas y La Resistencia montan en Cronópolis). Sus instrumentos detectan los "hipos" del Contador: cuando un lugarteniente cae ahí fuera, el flujo de poder divino **parpadea y el Contador se estanca un instante** (el Reloj nunca retrocede — la única excepción es el sacrificio de Varrak). Esto convierte el aparato en herramienta de pistas (saber que alguien —p. ej. Teach— ha matado a un lugarteniente) además de medidor de la cuenta atrás. Permite al Capitán Marcus dar lecturas precisas del estado del ritual. Ver [Cómo Dirigir](../01_Como_Dirigir.md).
-
-**Función en la Campaña - Mecenas y Creador de Artefactos**:
-- **Mecenas Importante**: Din se ha convertido en uno de los mecenas más importantes de la campaña, proporcionando recursos, información y apoyo logístico a los PJ
-- **Creador de Artefactos Clave**: Din es el creador de muchos de los artefactos que los PJ usarán durante la campaña, incluyendo dispositivos de estabilización temporal, herramientas anti-distorsión, y objetos únicos necesarios para enfrentar a los lugartenientes
-- **Proveedor de Tecnología**: Din puede crear y modificar dispositivos mecánicos y mágicos para los PJ, adaptándolos a las necesidades específicas de cada misión
-- **Reparación de Equipo**: Puede reparar objetos mágicos dañados por distorsiones temporales o espaciales, una habilidad crucial en un mundo donde la magia puede fallar
-- **Información Técnica y Estratégica**: Proporciona explicaciones técnicas sobre cómo funcionan las distorsiones y cómo contrarrestarlas, además de información estratégica basada en su experiencia en Barovia
-- **Puente entre Facciones**: Su conexión con Cornelius (místico) y La Resistencia (tecnológicos) lo convierte en un mediador natural
-- **Inventos Personalizados**: Puede crear dispositivos específicos para los PJ basados en sus necesidades, a menudo trabajando con Cornelius para combinar magia y tecnología
-- **Momento de Conexión Emocional**: Su historia de pérdida (Thaddeus), su experiencia traumática (Barovia), y su búsqueda de propósito puede resonar profundamente con los PJ que también están lejos de casa y atrapados en una situación similar
-- **Voz de Experiencia**: Su conocimiento de Barovia le permite advertir a los PJ sobre patrones similares que ve en Chronosia, ayudándolos a evitar errores que podrían ser fatales
-
-**Relación con Cornelius**:
-Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es su "mano derecha", su relación es más profunda: Cornelius le ha dado un propósito y un hogar en un mundo fracturado. Din, a su vez, ha traído innovación y nuevas perspectivas al trabajo de Cornelius, permitiendo que ambos alcancen logros que no habrían sido posibles solos.
-
-**Momentos Narrativos Clave**:
-- **Primer Encuentro**: Los PJ pueden conocer a Din trabajando en el taller de Cornelius, ajustando un reloj complejo
-- **La muerte de Thaddeus**: Din mantuvo correspondencia con Thaddeus Ironwright hasta que quedó atrapado en Chronosia y **no sabe que fue asesinado** (Sesión 1). Si los PJ se lo cuentan, se derrumba — y esa herida se convierte en motivación férrea para ayudarlos. *(Úsalo una vez; es el gran momento emocional de Din.)*
-- **Revelación de su Historia**: Din comparte cómo llegó a Chronosia hace años y su experiencia en Barovia — puede advertir a los PJ sobre los paralelos entre ambas prisiones planares, compartiendo lecciones que salvan vidas
-- **Proyecto Conjunto**: Din y Cornelius pueden pedir ayuda a los PJ para un proyecto ambicioso de estabilización temporal, ofreciendo artefactos poderosos como recompensa
-- **Crisis Personal**: Si Cornelius está en peligro, Din hará cualquier cosa para protegerlo. Si los PJ mencionan a Thaddeus o a Barovia, puede tener reacciones emocionales intensas
-- **Creación de Artefactos Clave**: Din puede crear artefactos específicos necesarios para enfrentar a lugartenientes particulares o resolver problemas críticos de la campaña
-- **Mecenazgo Activo**: Din puede financiar misiones, proporcionar recursos, y ofrecer recompensas significativas por completar objetivos importantes
-- **Reconciliación Final**: Din puede ayudar a los PJ a entender que la tecnología y la magia pueden coexistir para el bien común, y que incluso en lugares como Barovia o Chronosia, la esperanza puede triunfar
-
-**Objetos Únicos que Puede Proporcionar**:
-- **Reloj de Estabilización Temporal**: Dispositivo que crea una burbuja de tiempo normal de 30 pies de radio
-- **Cañón Anti-Distorsión**: Arma que dispara proyectiles que neutralizan distorsiones temporales menores
-- **Gafas de Percepción Temporal**: Permiten ver el flujo natural del tiempo incluso cuando está distorsionado
-- **Herramientas de Artífice Mejoradas**: Herramientas que otorgan ventaja en tiradas de reparación y creación
-- **Dispositivo de Comunicación Temporal**: Permite comunicarse a través de pequeñas distorsiones temporales
-
-**Diálogos Característicos**:
-- *"La precisión es fundamental. Un cálculo erróneo aquí podría desestabilizar toda la región. Permíteme verificar estos números una vez más..."*
-- *"Cornelius me enseñó que el tiempo tiene un ritmo natural, como los engranajes de un reloj. Las distorsiones son como dientes rotos en una rueda dentada - todo se desalinea."*
-- *"He trabajado con La Resistencia, pero su odio hacia la magia es... extremo. La magia es una herramienta, como cualquier otra. Lo que importa es cómo la usas."*
-- *"Mi familia perdió todo por mala gestión. No voy a cometer el mismo error. Cada cálculo, cada invento, cada decisión... debe ser perfecta."*
-- *"Thaddeus... Thaddeus era un buen hombre. Un maestro relojero sin igual. La última vez que hablamos, discutíamos teorías sobre la naturaleza del tiempo. Eso fue... hace años. Antes de que este maldito dispositivo me trajera aquí. No sé qué habrá sido de él..."* (Si los PJ le dicen que Thaddeus fue asesinado, Din se derrumbará emocionalmente)
-- *"He visto esto antes. Una región completa, arrancada de la realidad, atrapada en un limbo. En Barovia, no pudimos escapar hasta que derrotamos a Strahd. Aquí... aquí será diferente. Esta vez sé qué buscar, qué evitar, qué hacer."*
-- *"Chronosia es como Barovia, pero peor. Al menos en Barovia sabíamos quién era el enemigo. Aquí... aquí hay múltiples fuerzas trabajando, y algunas ni siquiera sabemos que existen."*
-- *"Si necesitáis algo construido, algo reparado, o algo inventado, venid a mí. Tengo los recursos y la experiencia. Y esta vez... esta vez no voy a fallar. No voy a permitir que otra región se convierta en una prisión eterna."*
+**Voz** *(líneas citables)*:
+- *"La precisión es fundamental. Un cálculo erróneo aquí podría desestabilizar toda la región. Permíteme verificar estos números una vez más…"*
+- *"He visto esto antes. Una región entera, arrancada de la realidad, atrapada en un limbo. En Barovia no pudimos salir hasta derrotar a Strahd. Aquí será diferente: esta vez sé qué buscar."*
+- *"¿Thaddeus? Un maestro sin igual. La última vez que hablamos discutíamos sobre la naturaleza del tiempo… eso fue antes de que este maldito dispositivo me trajera aquí. ¿Por qué me miráis así?"*
 
 ### **🌍 Zephyr "El Saltamundos" - El Comerciante Interplanar**
 - **Raza**: Genasi del Aire (apariencia cambiante)
@@ -336,33 +267,7 @@ Din ve a Cornelius como un mentor y un padre adoptivo. Aunque técnicamente es s
 - **Diálogo**: "Eres como el hijo que perdí. Lucharé a tu lado hasta el final."
 - **Acciones**: Arriesga su vida por los PJ y proporciona acceso total a su arsenal
 
-**Poderes y Habilidades**:
-- **Maestro Armero**: Puede crear y modificar armas de fuego personalizadas
-- **Tecnología Anti-Magia**: Conoce los secretos para neutralizar efectos mágicos
-- **Liderazgo Militar**: Comanda un ejército de La Resistencia
-- **Conocimiento Táctico**: Experto en estrategias contra criaturas mágicas
-- **Prótesis Mecánica**: Su brazo artificial tiene múltiples funciones útiles
-
-**Función como Mecenas**:
-- **Equipamiento**: Proporciona armas de fuego, armaduras reforzadas y tecnología anti-magia
-- **Información**: Comparte inteligencia sobre movimientos de cronófagos
-- **Apoyo Logístico**: Proporciona refugio, suministros y transporte
-- **Entrenamiento**: Puede entrenar a los PJ en el uso de tecnología anti-magia
-- **Misiones**: Asigna tareas específicas contra amenazas mágicas
-
-**Momentos Narrativos Clave**:
-- **Primer Encuentro**: Los PJ lo encuentran investigando una distorsión temporal
-- **Prueba de Fe**: Los PJ deben demostrar que no son corruptos por la magia
-- **Revelación Personal**: Marcus comparte la historia de su familia
-- **Sacrificio Heroico**: Marcus arriesga su vida para salvar a los PJ
-- **Reconciliación Final**: Marcus acepta que no toda la magia es corrupta
-
-**Objetos Únicos que Puede Proporcionar**:
-- **Rifle Anti-Magia**: Arma que cancela hechizos al impactar
-- **Armadura Estabilizadora**: Protege contra distorsiones temporales
-- **Granadas de Neutralización**: Explosivos que cancelan efectos mágicos
-- **Detector de Magia**: Dispositivo que localiza fuentes de poder mágico
-- **Prótesis Mecánica**: Brazo artificial con múltiples herramientas integradas
+**En mesa (mecenas tecnológico):** armas de fuego, armadura estabilizadora, granadas de neutralización, inteligencia militar y refugio en la Fortaleza de Acero — todo condicionado a la fase de relación de arriba. Su arco personal es la reconciliación con la magia: cada vez que un lanzador *libere* algo en vez de romperlo delante de él, sube un peldaño. Sus misiones concretas están al final de este capítulo.
 
 ---
 
@@ -460,12 +365,6 @@ Los tres altos oficiales dan cara y voz a La Resistencia en el día a día. **El
 **Historia Personal - LA VERDAD OCULTA**: 
 Kaoros perdió su audición durante una misión contra cronófagos cuando una explosión mágica destruyó sus tímpanos. Sin embargo, lo que nadie sabe es que **Serapis el Retroceso lo colocó desde el principio entre las filas de La Resistencia**. La "explosión mágica" fue en realidad un encuentro con Serapis, quien le otorgó una capacidad telepática especial para comunicarse a distancia. Desde entonces, Kaoros ha sido un agente doble, sirviendo a Serapis mientras aparenta lealtad a La Resistencia.
 
-**⚠️ SECRETO CRÍTICO - SOLO PARA EL DM:**
-- **Agente Doble desde el Principio**: Kaoros fue colocado por Serapis hace años, no es un reemplazo reciente
-- **Capacidad Telepática**: Kaoros puede comunicarse telepáticamente con Serapis a cierta distancia (hasta 10 millas)
-- **Falsa Adaptación**: Su "adaptación" a la sordera es real, pero también le permite ocultar sus comunicaciones telepáticas
-- **Doble Vida**: Kaoros mantiene una fachada perfecta de lealtad mientras pasa información crucial a Serapis
-
 **Personalidad y Características**:
 - **Observador Excepcional**: Su pérdida de audición ha agudizado sus otros sentidos
 - **Comunicador Hábil**: Domina el lenguaje de señas y la lectura de labios
@@ -504,11 +403,8 @@ Kaoros perdió su audición durante una misión contra cronófagos cuando una ex
 
 **KAOROS ES EL TRAIDOR** — no es un reemplazo, sino un agente doble desde el principio.
 
-1. **Agente Doble desde el Principio**: Kaoros fue colocado por Serapis hace años, no es un reemplazo reciente
-2. **Comunicación Telepática**: Kaoros se comunica regularmente con Serapis usando su capacidad telepática
-3. **Fachada Perfecta**: Kaoros mantiene una fachada de lealtad mientras pasa información crucial
-4. **Pistas graduales, no imposibles**: siembra las pistas de arriba de forma que un grupo atento *pueda* cazarlas (una emboscada que solo se explica con filtración, el homúnculo de Din "vibrando" cerca de Kaoros, información que llega a Serapis antes de tiempo). Un misterio que no se puede ganar no es un giro: es una cinemática
-5. **Si los PJ lo destapan antes de tiempo**: prémialo. Serapis pierde a su topo — el juicio de Marcus (Cap. 14) se monta entonces sobre pruebas falsas plantadas *a la desesperada*, más fáciles de desmontar, y Kaoros huye o se convierte en prisionero-cebo. La trama no se rompe: cambia de forma
+1. **Pistas graduales, no imposibles**: siembra las pistas de arriba de forma que un grupo atento *pueda* cazarlas (una emboscada que solo se explica con filtración, el homúnculo de Din "vibrando" cerca de Kaoros, información que llega a Serapis antes de tiempo). Un misterio que no se puede ganar no es un giro: es una cinemática
+2. **Si los PJ lo destapan antes de tiempo**: prémialo. Serapis pierde a su topo — el juicio de Marcus (Cap. 14) se monta entonces sobre pruebas falsas plantadas *a la desesperada*, más fáciles de desmontar, y Kaoros huye o se convierte en prisionero-cebo. La trama no se rompe: cambia de forma
 
 ---
 
@@ -671,40 +567,6 @@ Se alimenta de los destellos de poder generados por la batalla entre Amaunator y
 - **Función**: Proporcionan momentos emocionales profundos y pueden revelar información crucial sobre el pasado o futuro de los PJ
 - **Ubicación**: El Abismo de los Posibles (región de Varrak)
 - **Estado**: Manifestaciones temporales de recuerdos y emociones
-
----
-
-## 🎭 **CONEXIONES Y RELACIONES**
-
-### **Alianzas**
-- **Cronófagos**: Sirven a Aethernus como fuerza armada
-- **Lugartenientes**: Son leales a Aethernus por el poder que les otorga
-- **Manshoon**: Aethernus es su clone y sirve a sus objetivos
-
-### **Enemistades**
-- **La Resistencia**: Odian las distorsiones que Aethernus crea
-- **Anacronistas**: Resisten las distorsiones que Aethernus controla
-- **Jugadores**: Son la mayor amenaza para los planes de Aethernus
-
-### **Neutralidades**
-- **Bregan D'aerthe**: Sirven a Manshoon pero pueden cambiar de bando
-- **NPCs Menores**: Muchos son neutrales y pueden ser influenciados
-
----
-
-## 🎯 **NOTAS PARA EL DM**
-
-### **Uso Narrativo**
-- **Revelaciones**: Usa a los NPCs para revelar información gradualmente
-- **Conflictos**: Crea tensiones entre NPCs para generar drama
-- **Aliados**: Permite que los PJ formen alianzas con NPCs
-- **Enemigos**: Usa a los NPCs para crear obstáculos y desafíos
-
-### **Momentos Clave**
-- **Asesinato de Thaddeus**: Inicia toda la campaña
-- **Encuentro con Galen**: Transición a Chronosia
-- **Revelación de Manshoon**: Cambia completamente la comprensión
-- **Batalla Final**: Confrontación épica con Aethernus
 
 ---
 

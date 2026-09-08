@@ -26,21 +26,7 @@
 Ymir controla el espacio a través del hielo y el frío. Puede congelar dimensiones enteras, crear portales de hielo que conectan con múltiples planos, y manipular el espacio comprimiendo o expandiendo las distancias a través de cristales de hielo dimensionales.
 
 **🌌 Función de Reclutador Interplanar:**
-Ymir es el lugarteniente encargado de mantener una **red de portales interplanares** que conecta Chronosia con múltiples planos del multiverso. A través de estos portales, Ymir:
-- **Recluta criaturas** de otros planos para servir a los Cronófagos
-- **Transporta suministros** (armas, materiales, recursos) desde otros planos
-- **Establece bases de operaciones** en otros planos para expandir la influencia de los Cronófagos
-- **Mantiene comunicación** entre Chronosia y las operaciones de los Cronófagos en otros planos
-
-**Planos Conectados:**
-- **Plano Elemental del Agua**: Portales principales para elementales acuáticos
-- **Plano Elemental del Aire**: Portales secundarios para criaturas aéreas
-- **Plano Astral**: Conexiones para viaje rápido entre planos
-- **Plano Material (Faerûn)**: Portales menores para infiltración
-- **Otros Planos**: Conexiones variables según necesidades de los Cronófagos
-
-**Base de Operaciones:**
-Glacialis funciona como el **centro de distribución interplanar** de los Cronófagos. Los portales de Ymir son cruciales para mantener las operaciones de los Cronófagos, y su muerte interrumpe significativamente el flujo de suministros y reclutamiento.
+Ymir mantiene la **red de portales** que conecta Chronosia con otros planos (Agua y Aire como troncales, Astral para viaje rápido, Material para infiltración). Por ella entran criaturas reclutadas y suministros: Glacialis es el **centro de distribución** de los Cronófagos, y la muerte de Ymir corta ese flujo — su valor estratégico está en la logística, no solo en el combate.
 
 ### **👁️ Apariencia**
 Un gigante de hielo cristalino de 20 pies de altura, con un cuerpo formado por cristales de hielo que brillan con luz azulada. Sus ojos son pozos de hielo que reflejan paisajes congelados de múltiples dimensiones. Su respiración congela el aire creando esculturas de hielo que existen en múltiples planos simultáneamente.
@@ -133,11 +119,8 @@ Ymir exhala un cono de hielo de 30 pies. Todas las criaturas en el área deben h
 **Cristalización (3/día).**  
 Como acción, Ymir convierte el aire en cristales de hielo que crean obstáculos y trampas en el campo de batalla. El área de 30x30 pies se convierte en terreno difícil y las criaturas que se mueven a través de ella deben hacer salvación de Destreza CD 15 o reciben 7 (2d6) de daño cortante.
 
-**Compresión Espacial (2/día).**  
-Como acción, Ymir comprime el espacio en 60 pies, reduciendo las distancias y permitiendo ataques de área más efectivos. Todas las criaturas en el área se mueven 10 pies más cerca unas de otras.
-
-**Expansión Dimensional (2/día).**  
-Como acción, Ymir expande el espacio en 90 pies, aumentando las distancias y dificultando el movimiento enemigo. Todas las criaturas en el área se mueven 10 pies más lejos unas de otras.
+**Manipulación del Espacio (3/día).**  
+Como acción, Ymir **comprime o expande** (a su elección) el espacio en un radio de 60 pies: cada criatura del área que él elija es desplazada 10 pies hacia un punto que Ymir designe, o 10 pies en dirección contraria. Comprimir agrupa a los PJ para el *Aliento de Hielo*; expandir separa al sanador de los suyos.
 
 **Portal de Hielo (3/día).**  
 Como acción, Ymir crea un portal de hielo que conecta con un plano aleatorio de su red (Plano Elemental del Agua, Plano Elemental del Aire, Plano Astral, o Plano Material). El portal permite ataques a distancia, viaje instantáneo, o transporte de suministros.
@@ -145,14 +128,10 @@ Como acción, Ymir crea un portal de hielo que conecta con un plano aleatorio de
 **Portal de Elementales (2/día).**  
 Como acción, Ymir crea un portal que trae **1d3 elementales menores** de otro plano (elementales de agua o aire menores, CR 1-2 cada uno) que luchan por Ymir hasta ser derrotados. Como máximo puede tener 3 elementales invocados a la vez por este medio.
 
-**Portal de Reclutamiento (1/día, fuera de combate).**  
-Como acción narrativa (no destinada al combate directo contra los PJ), Ymir abre un portal de reclutamiento que trae refuerzos de otros planos que se unen a las fuerzas de los Cronófagos. En combate, usa *Portal de Elementales*; este portal representa su función logística entre escenas.
-
 **Congelación Masiva (1/día).**  
 Como acción, Ymir congela toda el área en 120 pies, creando un campo de hielo que reduce la velocidad y causa daño por frío. Todas las criaturas en el área deben hacer salvación de Constitución CD 15 o reciben 14 (4d6) de daño por frío (la mitad si la superan) y su velocidad se reduce a 0 hasta el final de su siguiente turno.
 
-**Portal Cósmico (1/día, narrativo).**  
-Acción de escala estratégica fuera del combate: Ymir crea un portal masivo a un plano de su red que inunda la región con criaturas y suministros interplanares. Representa el peso logístico de su red de portales, no un golpe de combate contra los PJ.
+> **🌌 Escala estratégica (nunca en combate):** entre escenas, la red de Ymir sigue trabajando — **Portal de Reclutamiento** (trae refuerzos de otros planos a las fuerzas cronófagas) y, si el DM quiere subir la presión regional, un **Portal Cósmico** que inunda una zona de criaturas y suministros. Son narrativa de campaña, no acciones contra los PJ: en combate, su invocación es *Portal de Elementales*.
 
 ---
 
@@ -167,50 +146,12 @@ Ymir puede realizar **2 acciones legendarias** por ronda, eligiendo entre las op
 | **Cristalización**         | 2 Acciones | Convierte el aire en cristales de hielo que crean obstáculos; un área de 15 pies se vuelve terreno difícil y la primera criatura que la cruce hace salvación de Destreza CD 15 o recibe 7 (2d6) de daño cortante. |
 | **Manipulación del Espacio** | 2 Acciones | Comprime o expande el espacio en 30 pies a su alrededor: arrastra a cada criatura del área 10 pies hacia Ymir o la aleja 10 pies de él (a su elección). |
 
-### **❄️ Mecánicas de Control Espacial a través del Hielo:**
+### **❄️ Cómo dirigirlo (resumen de una mirada)**
 
-#### **🧊 Manipulación del Espacio:**
-- **Compresión Espacial** (2/día): Reduce las distancias en 60 pies, permitiendo ataques de área más efectivos
-- **Expansión Dimensional** (2/día): Aumenta las distancias en 90 pies, dificultando el movimiento enemigo
-- **Manipulación del Espacio** (acción legendaria): Arrastra o aleja a las criaturas 10 pies en 30 pies a su alrededor
-- **Efecto**: Cambia la geometría del espacio para ventaja táctica
-
-#### **🌌 Red de Portales Interplanares:**
-- **Portal de Hielo** (3/día, acción) y **Paso de Hielo** (acción legendaria): portal planar de su red / teleportación corta entre puntos con hielo o agua
-- **Portal de Elementales** (2/día): Trae **1d3 elementales menores** (CR 1-2), máx. 3 a la vez
-- **Portal de Reclutamiento** (narrativo): Trae refuerzos entre escenas, no en combate directo
-- **Portal Cósmico** (narrativo): Portal masivo que inunda la región con criaturas y suministros (escala estratégica)
-- **Función Estratégica**: La red de portales es esencial para mantener las operaciones de los Cronófagos; **su derrota permite a los PJ capturar y reaprovechar la red de portales**
-
-#### **❄️ Efectos de Congelación:**
-- **Aliento de Hielo** (Recarga 5-6): Cono de 30 pies, 21 (6d6) de daño por frío y reduce velocidad a la mitad
-- **Cristalización** (3/día): Convierte el aire en cristales de hielo
-- **Congelación Masiva** (1/día): Campo de hielo de 120 pies
-- **Efectos**: Reducción de velocidad, daño por frío, obstáculos
-
-#### **🎯 Estrategia de Combate:**
-1. **Fase de Control**: Usar aliento de hielo para reducir velocidad enemiga
-2. **Fase de Obstáculos**: Crear cristales de hielo para controlar el campo
-3. **Fase de Manipulación**: Comprimir/expandir espacio para ventaja táctica
-4. **Fase de Inundación**: Usar portales para traer refuerzos acuáticos
-
-#### **🌌 Mecánicas Dimensionales:**
-- **Cristales Dimensionales**: Los cristales de hielo existen en múltiples planos
-- **Portales Transdimensionales**: Conectan con el Plano Elemental del Agua
-- **Manipulación Espacial**: Cambia la geometría del espacio de combate
-- **Control de Campo**: Usa hielo para controlar el movimiento
-
-#### **⚡ Mecánicas de Control de Campo:**
-- **Ventaja Táctica**: Manipulación del espacio para ventaja posicional
-- **Control de Campo**: Cristales de hielo como obstáculos
-- **Refuerzos**: Elementales de agua como aliados
-- **Escalabilidad**: Efectos más poderosos en niveles altos
-
-#### **🔮 Efectos Visuales:**
-- **Cristales Brillantes**: Cristales de hielo que brillan con luz azulada
-- **Portales Helados**: Círculos de hielo que se abren al Plano Elemental
-- **Manipulación Espacial**: El espacio se comprime y expande visiblemente
-- **Inundación Cósmica**: Agua elemental emergiendo de portales masivos
+- **Es un controlador, no un duelista:** su daño por ronda es modesto para CR 8; su amenaza es la geometría (manipular el espacio + terreno de hielo + elementales que llegan por detrás).
+- **Guion básico:** *Aliento* cuando haya 2+ PJ agrupados → *Cristalización* para cortar la ruta de carga → *Manipulación del Espacio* para deshacer la formación enemiga → *Portal de Elementales* cuando pierda la iniciativa del campo.
+- **Su debilidad es el fuego** (vulnerabilidad): un grupo que la descubra (los tramperos de la Ciudad de Hielo la venden como rumor) acorta el combate — es intencional, premia la preparación.
+- **Umbrales sellados = menos Ymir:** por cada umbral de la Red (zona 3) que los PJ sellaran antes del combate, quita 1 uso de *Portal de Elementales* o de *Portal de Hielo* (a tu elección). El trabajo previo se nota en la guarida.
 
 ---
 
@@ -222,17 +163,17 @@ Ymir puede realizar **2 acciones legendarias** por ronda, eligiendo entre las op
 3. Se posiciona estratégicamente
 
 ### **Fase 2: Manipulación (Rounds 3-5)**
-- Usa *Compresión Espacial* para agrupar enemigos
+- Usa *Manipulación del Espacio* (comprimir) para agrupar enemigos
 - Activa *Portal de Elementales* para traer refuerzos
 - Mantiene distancia mientras los elementales atacan
 
 ### **Fase 3: Devastación (Rounds 6+)**
-- Usa *Expansión Dimensional* para separar enemigos
+- Usa *Manipulación del Espacio* (expandir) para separar enemigos
 - Activa *Congelación Masiva* para paralizar a todos
 - Prioriza eliminar amenazas mayores
 
 ### **Estrategias Especiales:**
-- **Contra Múltiples Enemigos:** Usa *Compresión Espacial* + *Aliento de Hielo*
+- **Contra Múltiples Enemigos:** Usa *Manipulación del Espacio* (comprimir) + *Aliento de Hielo*
 - **Contra Tanques:** Usa *Congelación Masiva* para paralizarlos
 - **Contra Hechiceros:** Usa *Cristalización* para crear obstáculos
 
@@ -253,43 +194,9 @@ Cuando Ymir muere (ya sea por los PJ o por otro lugarteniente), **Glacialis se r
 
 ---
 
-## 🌌 **FUNCIÓN DE RECLUTADOR INTERPLANAR**
+## 🌌 **LA RED, VISTA DESDE LA RESISTENCIA**
 
-### **📋 Responsabilidades de Ymir**
-
-Ymir es el lugarteniente encargado de mantener la **red de reclutamiento interplanar** de los Cronófagos. Sus responsabilidades incluyen:
-
-1. **Mantenimiento de Portales:**
-   - Mantener portales activos a múltiples planos
-   - Estabilizar conexiones interplanares
-   - Reparar portales dañados o cerrados
-
-2. **Reclutamiento de Criaturas:**
-   - Identificar criaturas útiles en otros planos
-   - Negociar o forzar alianzas con criaturas planares
-   - Traer criaturas a Chronosia para servir a los Cronófagos
-
-3. **Transporte de Suministros:**
-   - Coordinar el transporte de materiales desde otros planos
-   - Mantener rutas de suministro interplanares
-   - Distribuir recursos a otros lugartenientes
-
-4. **Expansión Multidimensional:**
-   - Establecer bases de operaciones en otros planos
-   - Facilitar la expansión de los Cronófagos más allá de Chronosia
-   - Mantener comunicación entre operaciones en diferentes planos
-
-### **🔍 Descubrimiento de La Resistencia**
-
-**Lucienne Rietveldt**, la Maestra Ingeniera de La Resistencia, ha descubierto cómo funciona el sistema de reclutamiento de Ymir. A través de años de observación y análisis de los portales, ha documentado:
-
-- **Patrones de activación:** Cuándo y cómo se abren los portales
-- **Planos conectados:** Qué planos están conectados a la red
-- **Frecuencia de transporte:** Con qué frecuencia llegan suministros y criaturas
-- **Puntos débiles:** Cómo cerrar o sabotear los portales
-- **Rutas de suministro:** Dónde se transportan los recursos
-
-Esta información es crucial para las misiones de La Resistencia destinadas a limitar los suministros de los Cronófagos.
+**Lucienne Rietveldt** ha descifrado, tras años de observación, cómo funciona el sistema de portales de Ymir: **patrones de activación** (cuándo y cómo se abren), **planos conectados**, **frecuencia de los envíos**, **puntos débiles** (cómo cerrar o sabotear un umbral) y **rutas de suministro**. Esa documentación es la base de las misiones de sabotaje de La Resistencia en Glacialis — y el manual de instrucciones que los PJ heredan si derrotan a Ymir y **capturan la red** para sus propios fines.
 
 ---
 

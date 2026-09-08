@@ -50,6 +50,7 @@ add "06_Recursos/Handouts/Carta_de_Linna.md"
 add "06_Recursos/Handouts/Diario_de_un_Refugiado.md"
 add "06_Recursos/Handouts/Aviso_de_Abysara.md"
 add "06_Recursos/Tablas/24_Rumores_Taberna.md"
+add "06_Recursos/Tablas/25_Tablas_de_Nombres.md"
 
 # --- Concatenar: imágenes -> copias web optimizadas + rutas absolutas + sin emojis ---
 # (mismo redirect que mkdocs_hooks.py: el PDF usa assets/web/ para no pesar 100+ MB)

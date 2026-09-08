@@ -26,6 +26,11 @@ Dimensionalis puede fracturar la realidad en múltiples dimensiones superpuestas
 ### **👁️ Apariencia**
 El cuerpo de Dimensionalis muestra múltiples versiones de sí misma en diferentes planos, todas visibles simultáneamente. Sus movimientos parecen desfasar entre dimensiones, y partes de su cuerpo aparecen y desaparecen como si existieran en planos diferentes.
 
+### **🎭 Personalidad — la que busca a la original**
+Cuando Aethernus le infundió el poder de Voidar, Dimensionalis no lo recibió: se **rompió contra él**. Desde aquella noche existe como docenas de versiones desfasadas de sí misma, cada una convencida a medias de ser la original — y ninguna capaz de probarlo. Eso es lo que de verdad busca bajo el negocio de la información: **datos sobre sí misma**. Compra recuerdos de quienes la conocieron antes de la infusión, contrasta versiones, descarta candidatas. Vende secretos de todos los bandos porque la información es la única moneda que todas sus versiones comparten — y porque cada respuesta sobre los demás es una pregunta menos sobre ella.
+
+**Su miedo (solo DM):** que la respuesta sea *"ninguna"*. Sabe que si Voidar fuera liberado su fractura podría sanar… y no sabe si eso la **reunificaría** o la **colapsaría** en una sola versión al azar, matando a todas las demás. Esa duda es la única grieta en su pose de mercader: quien le ofrezca una respuesta verdadera —los Archivos de Coral de Abysara, el Índice Vivo de las Ruinas, una visión de Varrak— puede comprarle lo que el oro no compra.
+
 > 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
 ---
@@ -213,6 +218,11 @@ Dimensionalis es **independiente** y puede:
 - **Información Privilegiada:** Puede revelar planes de otros lugartenientes
 - **Favores por Favores:** Sistema de intercambio de información
 - **Dilema de Confianza:** Siempre hay riesgo de traición
+
+### **🔍 Lo que de verdad quiere:**
+- **Saber cuál de sus versiones es la original** (ver Personalidad). Paga información sobre sí misma a precio de artefacto — y una mentira convincente sobre ese tema es la única traición que jamás perdona.
+- **Palanca de los PJ:** llevarle una respuesta verídica (Abysara, el Índice Vivo, Varrak) vale más que cualquier soborno. Es la vía para convertirla de mercader neutral en informante comprometida.
+- **Postura ante el final:** es la única lugarteniente con un interés *personal* en la liberación de Voidar — puede ayudar a los PJ en secreto (si cree que la reunificará) o sabotearlos por puro pánico (si teme el colapso). Decide según cómo la hayan tratado… y según qué versión de ella firme el trato.
 
 ### **🎭 Naturaleza Única:**
 - Existe simultáneamente en múltiples dimensiones

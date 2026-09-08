@@ -28,6 +28,14 @@ Vorthak es un vampiro de aspecto noble pero demacrado, con ojos rojos que brilla
 
 > 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
 
+### **😨 El miedo íntimo (solo DM)**
+Vorthak fue convertido **la noche en que agonizaba de viejo**: un cuerpo de ochenta inviernos, medio ciego, las manos agarrotadas, mientras sus herederos cenaban en el piso de abajo esperando a que acabara de morirse. La sangre lo devolvió a la belleza — pero el vampirismo conserva el cuerpo *tal como muere*, y el suyo murió decrépito: su juventud no es suya, es **robada a diario**. Cuando pasa una semana sin drenar, **las manos son lo primero que envejece**; por eso jamás se quita los guantes, ni siquiera en la cena. Su cortesía perfecta es el muro contra el único terror que le queda: volver a ser el anciano que se moría solo oyendo los cubiertos de sus hijos.
+
+**Cómo explotarlo en mesa:**
+- **En la interacción:** mencionar su edad real, sus manos o "cómo era antes de la sangre" lo descoloca — sus tiradas sociales sufren −2 durante esa escena, pero también adelanta la violencia. (Las pistas están en la región: el Observatorio Roto guarda su historia, y Aurelius la conoce.)
+- **En combate:** la primera vez que un efecto lo **envejezca a él** (su propio poder reflejado, un efecto temporal de los PJ), debe superar **Sabiduría CD 15** o gasta su siguiente turno drenando al secuaz más cercano — el pánico le come la acción. Funciona **una sola vez**: el terror sorprende, no se repite.
+- **El eco temático:** Vorthak es el espejo pequeño de Aethernus (su "confesión", abajo). El miedo lo confirma: ambos roban tiempo ajeno porque no soportan el suyo.
+
 ---
 
 ## 🗣️ **VOZ** *(líneas citables)*
@@ -201,8 +209,8 @@ Su único objetivo es **quedarse con toda Chronosia**. Ve a Aethernus únicament
 
 ## 🎣 **GANCHOS NARRATIVOS**
 
-### **⚠️ Sin Ganchos Narrativos Especiales**
-Vorthak es principalmente un **enemigo a derrotar**. No tiene ganchos narrativos que permitan alianzas o interacciones especiales más allá del combate.
+### **⚠️ Enemigo a derrotar (con una sola grieta)**
+Vorthak no ofrece alianzas: es el combate-puzzle de secuaces de la campaña. Su única palanca social es su **miedo íntimo** (arriba, solo DM): los PJ que investiguen el Observatorio Roto o ganen a Aurelius pueden entrar a la cena sabiendo qué esconden esos guantes — y eso no evita el combate, pero lo inclina.
 
 ### **🎭 Características Relevantes:**
 - **El más despiadado:** Es el lugarteniente más despiadado de todos

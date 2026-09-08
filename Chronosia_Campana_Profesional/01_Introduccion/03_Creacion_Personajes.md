@@ -1,9 +1,5 @@
 # 👤 Creación de Personajes
-## *Forjando Héroes para Chronosia*
-
----
-
-> **⚠️ NOTA:** Esta es una guía resumida. Usa los trasfondos aquí como inspiración y ajústalos según tu mesa.
+## *Héroes de Waterdeep para un mundo que aún no saben que existe*
 
 ---
 
@@ -11,99 +7,63 @@
 
 | **Aspecto** | **Requisito** |
 |------------|--------------|
-| **Nivel Inicial** | 3-4 (recomendado: 3) |
-| **Origen** | Waterdeep o residentes temporales (min. 1 año) |
-| **Conexión** | Todos deben conocer o saber de Thaddeus Ironwright |
-| **Trasfondos** | Se recomiendan trasfondos personalizados de Waterdeep |
+| **Nivel inicial** | 3 |
+| **Techo de campaña** | Nivel **10** (los CR de todo el manual están calibrados a ese techo) |
+| **Origen** | Waterdeep o residentes (mín. 1 año en la ciudad) |
+| **Conexión** | Todos conocen —o saben de— **Thaddeus Ironwright**, el maestro relojero |
+| **Grupo** | 4-5 PJ (las fichas de jefes traen notas de escala para 3 o 6) |
 
-### **Progresión de Niveles:**
-- **Sesiones 1-3**: Niveles 3-4
-- **Sesiones 4-12**: Niveles 4-8  
-- **Sesiones 13-20**: Niveles 8-10
+**Progresión por fases:** Fase 0 en Waterdeep (nivel 3-4) → sandbox de regiones (4-8) → puertas finales y la Torre (8-10). El ritmo exacto lo marca el [Reloj del Ritual](../01_Como_Dirigir.md), no un calendario de sesiones.
 
 ---
 
-## 🎭 **TRASFONDOS PERSONALIZADOS**
+## 🤫 **QUÉ SABEN LOS JUGADORES (y qué no)**
 
-### **🕰️ Ayudante del Maestro Relojero**
-- **Habilidades**: Investigación, Percepción
-- **Equipamiento**: Herramientas de relojero, reloj de bolsillo
-- **Rasgo**: Conoces los secretos de la Torre del Reloj
-- **Ideal**: La precisión y el tiempo son sagrados
-- **Vínculo**: Thaddeus era tu mentor y amigo
-- **Defecto**: Te obsesionas con la precisión temporal
+> **Para la sesión 0 — léelo antes que nada.** Los PJ empiezan **sin saber que Chronosia existe**. La campaña arranca como una investigación de asesinato en Waterdeep: un relojero muerto, un asesino imposible, un rastro que no debería llevar a ninguna parte. Todo lo demás —el semiplano, los dioses encadenados, el hombre de la Torre— se **descubre jugando**.
+>
+> **Brief honesto para tus jugadores:** *"Campaña de nivel 3 a 10. Empieza como un misterio urbano en Waterdeep y no se queda ahí. Haced personajes curiosos, con una razón para perseguir a un asesino más allá del oro, y con algún lazo con el relojero Thaddeus Ironwright. Evitad lobos solitarios: esto va de elegir juntos."*
+>
+> No expliques conceptos de la campaña en la sesión 0 (ni "viaje planar", ni "dioses", ni "tiempo roto"). El gancho **d8** de más abajo se siembra sin contexto: el jugador sabrá *qué le pasa*, no *por qué* — ese porqué es la campaña.
 
-### **🏛️ Guardia de Waterdeep**
-- **Habilidades**: Intimidación, Percepción
-- **Equipamiento**: Insignia de guardia, arma de servicio
-- **Rasgo**: Conoces las calles y secretos de Waterdeep
-- **Ideal**: La justicia debe prevalecer sobre el caos
-- **Vínculo**: Tu juramento es proteger a los ciudadanos
-- **Defecto**: Desconfías de los forasteros
+---
 
-### **💰 Comerciante de Waterdeep**
-- **Habilidades**: Persuasión, Intuición
-- **Equipamiento**: Dinero de comercio, balanza
-- **Rasgo**: Conoces los mercados y contactos de la ciudad
-- **Ideal**: El comercio une a las personas
-- **Vínculo**: Tu negocio depende de la estabilidad de Waterdeep
-- **Defecto**: Ves todo en términos de ganancia y pérdida
+## ⚠️ **AVISOS DE REGLAS ANTES DE ELEGIR** *(para jugadores de sistema)*
 
-### **🎭 Artista de Waterdeep**
-- **Habilidades**: Interpretación, Persuasión
-- **Equipamiento**: Instrumento musical, disfraz
-- **Rasgo**: Conoces la vida cultural de Waterdeep
-- **Ideal**: El arte puede cambiar el mundo
-- **Vínculo**: Tu arte está inspirado en la belleza de Waterdeep
-- **Defecto**: Eres demasiado dramático en situaciones serias
+- **El viaje planar no funcionará.** Sin detallar por qué (spoiler), avisa: conjuros de viaje entre planos y de "volver a casa" (*desplazamiento entre planos*, *palabra de regreso*, círculos de teletransporte a Faerûn) van a fallar durante la mayor parte de la campaña. El teletransporte de corto alcance (*paso brumoso*, *puerta dimensional*) funciona siempre. Un mago que construya su concepto sobre "siempre puedo sacarnos de aquí" va a sufrir.
+- **La edad es un recurso.** Hay enemigos que roban **años**, y la campaña usa una regla global: cada 10 años drenados acumulados = 1 nivel de agotamiento que no se cura descansando. Las razas longevas sufren el agotamiento igual — los elfos no son inmunes, solo tienen más cuerda.
+- **La magia tendrá un precio social.** Una de las facciones aliadas más útiles desconfía profundamente de los lanzadores de conjuros. Un grupo entero de magos es viable, pero pagará ese peaje; un grupo mixto tiene más puertas abiertas.
 
-### **📚 Erudito de Waterdeep**
-- **Habilidades**: Historia, Investigación
-- **Equipamiento**: Libros de estudio, lupa
-- **Rasgo**: Conoces la historia y secretos de Waterdeep
-- **Ideal**: El conocimiento es poder
-- **Vínculo**: Tu investigación está relacionada con Thaddeus
-- **Defecto**: Te obsesionas con los detalles irrelevantes
+---
 
-### **⚔️ Mercenario de Waterdeep**
-- **Habilidades**: Intimidación, Atletismo
-- **Equipamiento**: Arma de combate, armadura
-- **Rasgo**: Conoces los peligros ocultos de Waterdeep
-- **Ideal**: La fuerza protege a los débiles
-- **Vínculo**: Tu reputación depende de completar trabajos
-- **Defecto**: Prefieres la acción a la planificación
+## 🎭 **TRASFONDOS: TU ESCENA PROMETIDA**
 
-### **⛓️ Convicto en Búsqueda de Redención**
-- **Habilidades**: Sigilo, Supervivencia
-- **Equipamiento**: Herramientas de supervivencia, ropa gastada
-- **Rasgo**: Conoces los bajos fondos y secretos ocultos de Waterdeep
-- **Ideal**: La redención es posible a través de acciones heroicas
-- **Vínculo**: Thaddeus te dio una segunda oportunidad cuando nadie más lo haría
-- **Defecto**: Tu pasado criminal siempre te persigue
+Usa los trasfondos estándar del *Player's Handbook*. Lo que Chronosia añade no son habilidades: es un **vínculo con Thaddeus** y una **escena prometida** — un foco personal que el DM se compromete a programar cuando la campaña pase por ahí. Elige la fila que mejor encaje con tu trasfondo (o pacta una equivalente):
 
-### **🍺 Tabernero Aventurero**
-- **Habilidades**: Persuasión, Intuición
-- **Equipamiento**: Dinero de la taberna, botella de licor especial
-- **Rasgo**: Conoces todos los rumores y secretos de Waterdeep a través de tus clientes
-- **Ideal**: La aventura es la mejor historia que se puede contar
-- **Vínculo**: Thaddeus era cliente regular y te contó sobre sus investigaciones
-- **Defecto**: Siempre buscas la próxima gran historia para contar
+| **Trasfondo (o equivalente)** | **Tu vínculo con Thaddeus** | **Tu escena prometida** *(DM: prográmala)* |
+|---|---|---|
+| **Artesano gremial** (relojero, herrero, joyero) | Fuiste su aprendiz o proveedor; conoces su factura como tu propia firma | Serás el primero en **reconocer la mano de Thaddeus donde no debería estar** — en un mecanismo construido en otro mundo (el taller de Cornelius, el Contador del Ritual) |
+| **Soldado / Guardia** | Investigaste el intento de robo en su torre hace años; el caso se cerró en falso | En el peor juicio de la campaña, tu instinto de procedimiento **olerá la prueba plantada** que todos los demás se tragan (Cap. 14) |
+| **Erudito / Sabio** | Manteníais correspondencia sobre teoría del tiempo; su última carta te pareció paranoica | Habrá una inscripción que **solo tú puedes traducir a medias** — y la mitad que falte la tendrán que ir a buscar (Ruinas del Tiempo Perdido, Abysara) |
+| **Criminal** | Te pilló robándole y, en vez de entregarte, te dio trabajo | La red mercenaria drow **te reconocerá como uno de los suyos**: Jarlaxle negociará contigo primero, con todo lo bueno y lo malo que eso trae |
+| **Artista / Charlatán** | Actuaste en el Festival del Reloj que él patrocinaba; te llamó "el único que entiende el compás" | En la corte de un monstruo cortés, comprarás tiempo —literal— **con una actuación** mientras el grupo trabaja (la cena de la Mansión, Cap. 12) |
+| **Acólito / Ermitaño** | Le confesaste tus sueños extraños; fue el único que no se rio | Tus sueños con **un sol encadenado** empezaron *antes* del asesinato — y llegará el día en que ese sol te mire de vuelta |
+| **Marinero** | Le traías piezas de ultramar; a cambio, él escuchaba tus historias de un "mar sin mareas" | Un viejo camarada tuyo **navega ahora para el enemigo** — y en el Archipiélago tendrás que decidir qué pesa más, la bandera o la memoria (Cap. 11) |
+| **Noble / Mercader rico** | Financiaste su taller; era tu inversión más rara y tu amigo más honesto | En la política de la última ciudad libre, **te tratarán como a un igual** — y descubrirás cuánto vale un apellido donde nadie lo ha oído nunca (Cronópolis) |
 
-### **🏛️ Aspirante a la Vara Negra**
-- **Habilidades**: Persuasión, Historia
-- **Equipamiento**: Documentos oficiales, insignia de candidato
-- **Rasgo**: Conoces la política interna y los secretos del gobierno de Waterdeep
-- **Ideal**: El poder debe usarse para el bien común
-- **Vínculo**: Thaddeus te apoyó en tu candidatura y te consideraba digno
-- **Defecto**: Te obsesionas con la imagen pública y la reputación
+---
 
-### **⚔️ Miembro de Facción**
-- **Habilidades**: Intimidación, Sigilo
-- **Equipamiento**: Insignia de facción, armas especializadas
-- **Rasgo**: Conoces los secretos y operaciones de tu facción en Waterdeep
-- **Ideal**: Tu facción es la única que puede salvar Waterdeep
-- **Vínculo**: Thaddeus descubrió información crucial sobre tu facción
-- **Defecto**: Tu lealtad a la facción puede entrar en conflicto con la misión
+## 🧙 **GANCHOS POR CLASE** *(por qué tu clase importa aquí)*
+
+Ninguna clase está prohibida ni penalizada. Pero Chronosia les habla distinto a cada una — usa esto como color de campaña y como palanca de DM:
+
+- **Clérigo / Paladín:** tus plegarias llegan… con eco, como por un pasillo demasiado largo. Y en el lugar al que vais hay **dos dioses a los que nadie reza** — lo que sientas al acercarte a ellos es material de las mejores escenas de la campaña.
+- **Mago / Hechicero:** aquí la magia del tiempo no es una escuela: es el clima. Los Anacronistas te querrán como a un hijo; La Resistencia te mirará como a una bomba con patas. Ambas cosas son oportunidades.
+- **Brujo:** tu patrón sigue respondiendo a través de las grietas… ¿verdad? Si el DM quiere susurrarte cosas que nadie más oye, tu clase es la puerta (úsalo con permiso del jugador).
+- **Artífice:** La Resistencia te acepta como a nadie más del grupo, y hay un gnomo llamado Din que va a adoptarte en cuanto te vea trabajar.
+- **Druida / Explorador:** la tierra misma está enferma, y tú lo notas antes que nadie. Cuando el grupo libere una región, **tú sentirás la diferencia física** — eres la confirmación sensorial de que ganar sirve de algo.
+- **Bardo:** los rumores son moneda (hay una taberna que funciona a base de ellos) y las canciones del pueblo chroniano son historia perdida que nadie ha catalogado. Un bardo curioso es un arqueólogo con mejor pinta.
+- **Pícaro:** una docena de facciones, un tarifario de favores y una ciudad donde todo el mundo vende algo. Bienvenido a casa.
+- **Guerrero / Bárbaro / Monje:** cuando el tiempo hace trampas —y las hará—, el acero, la furia y la disciplina siguen siendo verdad. Sois el ancla del grupo: lo que sigue funcionando cuando nada más lo hace.
 
 ---
 
@@ -126,56 +86,19 @@
 
 ---
 
-## ⚔️ **EQUIPAMIENTO INICIAL**
+## ⚔️ **EQUIPAJE Y RECUERDOS**
 
-### **🏙️ Objetos de Waterdeep:**
-- **Insignia de Ciudadano**: Prueba de tu origen en Waterdeep
-- **Mapa de Waterdeep**: Conocimiento detallado de la ciudad
-- **Moneda de Waterdeep**: Dinero local para comercio
-- **Reliquia Familiar**: Objeto con significado personal de Waterdeep
+Equipo inicial estándar por clase y trasfondo (PHB). Además, **cada PJ que conociera a Thaddeus en persona elige o tira 1d6** en esta tabla — un recuerdo del relojero que la campaña sabrá aprovechar:
 
-### **🔧 Herramientas Especializadas:**
-- **Herramientas de Oficio**: Según tu trasfondo en Waterdeep
-- **Instrumento Musical**: Si eres artista
-- **Libros de Estudio**: Si eres erudito
-- **Arma de Servicio**: Si eres guardia o mercenario
-
-### **📜 Equipamiento Narrativo:**
-- **Diario Personal**: Registra tus experiencias
-- **Carta de Recomendación**: De tu mentor o empleador
-- **Objeto de Thaddeus**: Un recuerdo del maestro relojero
-- **Reliquia de Waterdeep**: Objeto con historia de la ciudad
+| **1d6** | **Recuerdo de Thaddeus** | **Lo que vale de verdad** |
+|---------|--------------------------|---------------------------|
+| **1** | Un **reloj de bolsillo** que te regaló "por si algún día llegas tarde a lo importante" | En Chronosia no da la hora, pero **late más deprisa cerca de distorsiones fuertes**. Una vez por sesión, el DM puede avisarte a través de él. |
+| **2** | Una **carta a medio terminar** dirigida a "D.", que nunca llegó a enviar | "D." es **Din Goldgear**, su viejo colega atrapado en Chronosia. Entregársela abre de par en par al mecenas artífice de la campaña — y lo rompe por dentro. |
+| **3** | Su **lupa de relojero**, de cristal extrañamente frío | Mirando a través de ella se ven "hilos" tenues alrededor de lo muy distorsionado. Sin efecto mecánico: es **descripción privilegiada** — el DM te cuenta un detalle más. |
+| **4** | Una **llavecita de latón** que no abre nada de Waterdeep | Abre su **cajón secreto en la Torre del Reloj** (Fase 0, escena 3). Si nadie la tiene, el cajón exige forzarlo — la llave convierte un obstáculo en un momento. |
+| **5** | El **boceto de un mecanismo de ocho segmentos**, sin título ni escala | Los jugadores lo reconocerán solos el día que vean el **Contador del Ritual**. No lo expliques: deja que caigan. |
+| **6** | Una viruta de latón con su frase favorita grabada | *"Un reloj parado acierta dos veces al día; un relojero parado, ninguna."* Cuando un jugador la cite en el momento adecuado, dale inspiración. |
 
 ---
 
-## 🎯 **CONSEJOS PARA LA CREACIÓN**
-
-### **Para el DM:**
-- **Fomenta** la diversidad de trasfondos de Waterdeep
-- **Asegúrate** de que todos tengan conexión con Thaddeus
-- **Considera** cómo cada personaje se relaciona con la ciudad
-
-### **Para los Jugadores:**
-- **Elige** un trasfondo que te conecte con Waterdeep
-- **Considera** tu relación con Thaddeus Ironwright
-- **Piensa** en tu motivación para investigar su asesinato
-
----
-
-## 🌟 **CONEXIONES CON WATERDEEP**
-
-### **🏛️ Conocimiento de la Ciudad:**
-- **Calles y Callejones**: Conoces los atajos y secretos de Waterdeep
-- **Personajes Importantes**: Tienes contactos en la ciudad
-- **Historia Local**: Conoces los eventos importantes de Waterdeep
-- **Cultura Urbana**: Entiendes las costumbres y tradiciones
-
-### **🕰️ Conexión con Thaddeus:**
-- **Mentor**: Era tu maestro y amigo
-- **Colega**: Trabajaste con él en la Torre del Reloj
-- **Conocido**: Lo conocías de vista o reputación
-- **Admirador**: Admirabas su trabajo y dedicación
-
----
-
-*Tu personaje será la clave para restaurar el equilibrio en Chronosia. ¡Elige sabiamente!*
+*Tu personaje no viene a salvar Chronosia. Viene a atrapar a un asesino — y a descubrir quién es cuando el camino de vuelta desaparece.*
