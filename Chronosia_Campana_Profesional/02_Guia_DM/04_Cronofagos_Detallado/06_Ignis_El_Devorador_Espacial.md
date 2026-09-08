@@ -23,8 +23,8 @@
 ### **⚡ Poder**
 Ignis puede crear portales dimensionales que conectan con el **Plano Elemental del Fuego y los Nueve Infiernos**, absorbiendo la energía espacial de su entorno y convirtiéndola en poder destructivo. Su dominio sobre los portales de fuego le permite traer ejércitos de criaturas de fuego y demonios, y atacar desde múltiples dimensiones simultáneamente.
 
-**🌋 Influencia en los Nueve Infiernos:**
-Ignis se encarga de **influir su poder en los Nueve Infiernos** y abrir portales allí para traer criaturas a este plano, **sembrando el caos sin ninguna razón**. No tiene un objetivo estratégico - simplemente disfruta del caos y la destrucción que traen las criaturas infernales.
+**🌋 El trato con Avernus (su verdadera motivación):**
+Ignis no siembra el caos "porque sí" — **cobra por él**. Mantiene abierta la puerta entre Chronosia y Avernus, y **Avernus paga el peaje**: tributo en oro infernal, vasallaje de las criaturas que cruzan y —la parte que Ignis no cuenta a Aethernus— **almas condenadas** que los diablos le entregan como moneda (un dragón que atesora almas es un dragón que atesora *poder*). Es un socio comercial, no un fanático: eso lo hace **negociable** (subirle el precio, demostrarle que Aethernus lo dejará sin negocio al ascender) y **chantajeable** (si Aethernus supiera del desvío de tributo…). El atlas de Karkesh (Cap. 9) ya lo insinúa: *"Avernus paga bien por una puerta. ¿Quién compra las almas?"* — la respuesta duerme sobre la caldera mayor.
 
 **💎 Cristales de Poder:**
 Cerca de la región de Ignis (Las Calderas Dimensionales) es donde **más cristales de poder hay**. Esta es una fuente importante para La Resistencia, pero la zona es **extremadamente peligrosa** debido a los portales constantes a los Infiernos y las criaturas infernales que trae Ignis.
@@ -79,7 +79,7 @@ Un dragón rojo colosal con escamas que brillan como lava fundida. Sus ojos son 
 ### **Rasgos Especiales**
 
 **Maestro de Portales Dimensionales.**  
-Ignis puede crear portales dimensionales que conectan con el **Plano Elemental del Fuego y los Nueve Infiernos**. Todos sus portales traen criaturas o efectos de fuego, demonios, o criaturas infernales. Ignis abre estos portales **sin razón aparente**, simplemente para sembrar el caos.
+Ignis puede crear portales dimensionales que conectan con el **Plano Elemental del Fuego y los Nueve Infiernos**. Todos sus portales traen criaturas o efectos de fuego, demonios, o criaturas infernales. Ignis los abre porque **le pagan por abrirlos** (ver *El trato con Avernus*): cada portal es una cláusula de contrato, y cerrárselos es tocarle el negocio — lo único que enfurece de verdad a un dragón.
 
 **Portales Múltiples.**  
 Ignis puede mantener hasta 3 portales abiertos simultáneamente. Puede atacar a través de todos los portales en el mismo turno.
@@ -122,7 +122,7 @@ Como acción, Ignis crea un portal que lanza 1d2 crías de dragón rojo (CR 4 ca
 Como acción, Ignis crea un portal que trae 1d4 elementales de fuego (CR 5 cada uno) que luchan por Ignis hasta ser derrotados.
 
 **Portal de Refuerzos (1/día).**  
-Como acción, Ignis crea un portal que trae 1d3 dragones rojos jóvenes (CR 10 cada uno) que luchan por Ignis hasta ser derrotados.
+Como acción, Ignis empieza a abrir su portal mayor — **tarda 1 ronda entera en abrirse** (un óvalo de llama creciendo: anúncialo). Al completarse trae **1 dragón rojo joven (CR 10)** escoltado por **1d4 crías (CR 4)**. Mientras se abre puede interrumpirse: 25 de daño al portal (CA 14), un *disipar magia* (CD 17) o el Cerrador de Portales lo colapsan. *(Nunca uses la versión antigua de 1d3 dragones CR 10: sobre un CR 13 es un TPK, no un desafío.)*
 
 ---
 
@@ -140,6 +140,16 @@ Ignis puede realizar 3 acciones legendarias por ronda, gastándolas al final del
 | **Portal de Elementales** | 3 Acciones | Crea un portal que trae 1d4 elementales de fuego que luchan por Ignis                                         |
 
 ---
+
+## 🌋 **ACCIONES DE GUARIDA (Las Tres Calderas)**
+
+En iniciativa 20 (perdiendo empates), Ignis usa una de estas — es el único lugarteniente que lucha *dentro* de su órgano de poder, y debe sentirse:
+
+- **Géiser de Magma:** un punto de 10 pies que Ignis vea entra en erupción — CD 15 DES o 2d10 de fuego y *derribado*. La zona queda humeando (terreno difícil).
+- **Aliento de las Bocas:** una de las calderas exhala — todas las criaturas voladoras a 60 pies de esa boca hacen CD 15 FUE o son empujadas 20 pies y derribadas al suelo (la térmica es suya, no vuestra).
+- **Espejismo de Calor:** el aire ondula — un enemigo que Ignis vea hace CD 14 SAB o, hasta el final de su siguiente turno, **Ignis está donde no está** (los ataques de esa criatura contra él fallan con 1-3 en 1d6).
+
+*(Con las tres bocas cerradas, Ignis pierde las acciones de guarida además de sus invocaciones: la montaña se ha quedado sin aliento.)*
 
 ## 🎯 **TÁCTICAS DE COMBATE**
 

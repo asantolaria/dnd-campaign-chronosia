@@ -115,7 +115,7 @@ Como acción, Medusa crea un área de 30 pies donde el tiempo se congela. Todos 
 Como acción, Medusa congela el tiempo en un radio de 60 pies. Todos los enemigos en el área deben hacer salvación de Sabiduría CD 15 o quedan **paralizados**; al final de cada uno de sus turnos repiten la salvación, terminando el efecto sobre sí mismos si tienen éxito.
 
 **Estasis Definitiva (1/día).**  
-Como acción, Medusa se congela completamente, ganando inmunidad total y regenerando 2d10 HP por turno por 3 turnos. Mientras está en estasis definitiva, no puede actuar pero tampoco puede recibir daño.
+Como acción, Medusa se congela completamente: es inmune a todo daño, no puede actuar y regenera 2d10 HP al inicio de cada uno de sus turnos, durante un máximo de 3 turnos. **Pero la estasis no es gratis: se sostiene desde fuera.** Al activarla, sus tres **serpientes-reloj** se desprenden de su cabello y orbitan a 10 pies de ella (CA 15, 15 HP cada una, solo existen mientras dura la estasis): **destruir las tres revienta la estasis** — Medusa recibe 4d10 de daño de fuerza, queda *aturdida* hasta el final de su siguiente turno y pierde la regeneración restante. *(Diseño: los 3 turnos de jefe intocable son ahora un mini-objetivo jugable, no una pausa para mirar.)*
 
 ---
 
@@ -171,8 +171,11 @@ Cuando Medusa muere (ya sea por los PJ o por otro lugarteniente), **El Jardín d
 
 ## 🎣 **GANCHOS NARRATIVOS**
 
-### **⚠️ Sin Ganchos Narrativos Especiales**
-Medusa es principalmente un **enemigo opcional a derrotar**. No tiene ganchos narrativos que permitan alianzas o interacciones especiales más allá del combate.
+### **🗿 El gancho: La Estatua Velada**
+En el centro de su jardín, bajo un velo de seda que nadie más puede tocar, Medusa guarda **su pieza maestra**: una mujer petrificada **idéntica a Lyra y Nyx** — ¿la original de las Gemelas? ¿Una tercera hermana? Medusa no lo dice; la conserva como obra cumbre **y como seguro de vida** frente a las señoras del ala viva. Esto convierte al Jardín en un triángulo:
+- **Las Gemelas la quieren.** Si los PJ negocian con ellas (Cap. 5), Lyra y Nyx piden —a media frase cada una— que "recuperen lo que la coleccionista guarda". No explican qué es. Cuando la vean, lo entenderán.
+- **Medusa negocia con ella.** Es lo único que la sienta a una mesa: puede comprar su vida, una tregua o información a cambio de la Estatua… y mentirá sobre lo que es.
+- **Si Medusa muere**, la petrificación de la Estatua **no se deshace sola** (es su obra más antigua y profunda: requiere *restauración mayor* lanzada con la ayuda de las Gemelas). Llevársela a las hermanas es una escena grande: las dos se quedan mudas por primera vez en el capítulo — decide tú si la mujer despierta, y quién es. *(Herramienta de DM: es un espejo del tema — algo que fue UNO, partido — y una bomba de rejugabilidad deliberadamente sin respuesta canónica.)*
 
 ### **🎭 Características Relevantes:**
 - **Enemigo opcional:** Puede ser enfrentada o evitada según las decisiones de los PJ

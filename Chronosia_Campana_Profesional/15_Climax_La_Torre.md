@@ -218,6 +218,8 @@ Los héroes **interrumpen el ritual, llegan a tiempo y derrotan a Aethernus** en
 
 ### Final B · Blackbeard el Usurpador *(si Teach llega con el Talismán)*
 
+> **⚔️ Statblock del jefe:** [Blackbeard el Usurpador, CR 13](02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md) — dos fases, poderes absorbidos según a quién cazó, y el Talismán como escudo que obliga a seguir interrumpiendo el Cronosellado.
+
 Si **Edward Teach sobrevivió, cruzó la Eliminatoria (con ventaja del Talismán) y llega a la Cámara**, tiene su propia carta: en el instante en que el ritual se interrumpe y el poder divino queda suelto, **lo intercepta para sí**. No quiere matar a Aethernus por justicia: quiere *quedarse con lo que Aethernus robaba.*
 
 - Teach puede **ayudar a los PJ** a tumbar a Aethernus —y luego intentar **traicionarlos** en el último segundo, Talismán en alto, para drenar el poder él.

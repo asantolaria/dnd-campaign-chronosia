@@ -166,7 +166,7 @@ La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un 
 ## Reparto de la región (referencia de combate)
 
 ### Edward Teach "Barbanegra" — lugarteniente CRÍTICO
-*Humanoide mediano (humano pirata), caótico maligno* · **CR 11** (7.200 XP)
+*Humanoide mediano (humano pirata), caótico maligno* · **CR 11** (7.200 XP) — *para el jefe del Final B, ver [Blackbeard el Usurpador](../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md) (CR 13)*
 
 ![Edward Teach](../assets/bestiario/lugartenientes/04_edward-teach-barbanegra.jpg)
 
@@ -175,9 +175,9 @@ La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un 
 - ***Poder Robado de Thyra.*** Acceso a acciones legendarias temporales además de las dimensionales.
 - ***Comandante Pirata.*** Le acompañan **6 piratas élite** (CR 2); puede ordenarles actuar como reacción.
 - ***Resistencia Legendaria (1/día).***
-- ***Multiataque:*** dos *Sables* (+9, 1d8+3 cortante + 2d6 espacial) + *Pistola de Estasis* (+9, 80/320 pies, 2d8+3 perf. + 2d6 temporal; CD 17 CON o paralizado 1 turno) + *Portal de Ataque*.
+- ***Multiataque:*** dos *Sables* (+9, 1d8+3 cortante + 2d6 espacial) + *Pistola de Estasis* (+9, 80/320 pies, 2d8+3 perf. + 2d6 temporal; CD 17 CON o **paralizado** — repite la salvación al final de cada turno; quien se libere es inmune a la Pistola hasta el siguiente turno de Teach).
 - ***Portal de Intercambio (rec. 5-6):*** intercambia posición con un enemigo a 30 pies (CD 17 DES). ***Ataque de Cañón (3/día):*** radio 20 pies, CD 17 DES, 6d6 contundente + aturdido 1 turno. ***Desplazamiento Masivo (2/día):*** teletransporta a los enemigos a 30 pies a 120 pies aleatorios (CD 17 DES). ***Portal de Invocación (1/día):*** trae 1d4 criaturas (CR ≤ 6).
-- ***Acciones legendarias (3/ronda):*** *Ataque de Cañón* (1), *Portal de Intercambio* (1), *Suspensión de Ataque* (1, congela un ataque enemigo), *Desplazamiento Masivo* (2), *Estasis Pirata* (2, inmune a todo daño hasta su turno), *Campo de Estasis* (3, área 30 pies, CD 17 SAB o pierden turno).
+- ***Acciones legendarias (3/ronda):*** *Ataque de Cañón* (1), *Portal de Intercambio* (1), *Suspensión de Ataque* (1, congela un ataque enemigo), *Desplazamiento Masivo* (2), *Estasis Pirata* (2, **2/combate**, inmune a todo daño hasta su turno), *Campo de Estasis* (3, **1/combate**, área 30 pies, CD 17 SAB o pierden turno).
 - ***DEBILIDAD — Cristal Estabilizador roto:*** pierde el Punto Ciego, sus legendarias temporales fallan con 1-2 en 1d6, y sufre 2d6 al inicio de cada turno. *(Pista repartida en zonas 2-4.)*
 
 ### Capitán Móreve "el Mascahoras" — villano menor

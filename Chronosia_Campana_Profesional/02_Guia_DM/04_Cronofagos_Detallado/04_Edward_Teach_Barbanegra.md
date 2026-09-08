@@ -133,14 +133,14 @@ Teach es inmune a efectos que predigan sus acciones, incluyendo *presagio* y hab
 ### **Acciones**
 
 **Multiataque.**  
-Teach realiza cuatro ataques: dos con *Sable Pirata*, uno con *Pistola de Estasis* y uno con *Portal de Ataque*.
+Teach realiza tres ataques: dos con *Sable Pirata* y uno con *Pistola de Estasis*.
 
 **Sable Pirata.** *Ataque con Arma Cuerpo a Cuerpo:* +9 al ataque, alcance 5 pies, un objetivo.  
 *Impacto:* 8 (1d8 + 3) de daño cortante más 7 (2d6) de daño espacial.
 
 **Pistola de Estasis.** *Ataque con Arma a Distancia:* +9 al ataque, alcance 80/320 pies, un objetivo.  
 *Impacto:* 12 (2d8 + 3) de daño perforante más 7 (2d6) de daño temporal.  
-El objetivo debe hacer salvación de Constitución CD 17 o queda paralizado por 1 turno.
+El objetivo debe hacer salvación de Constitución CD 17 o queda **paralizado**; repite la salvación al final de cada uno de sus turnos, terminando el efecto con un éxito. Una criatura que supere la salvación (o se libere) es inmune a la parálisis de la Pistola hasta el final del siguiente turno de Teach.
 
 **Portal de Intercambio (Recarga 5-6).**  
 Como acción, Teach intercambia posiciones con un enemigo a hasta 30 pies de distancia. El enemigo debe hacer salvación de Destreza CD 17 o es teletransportado a la posición de Teach.
@@ -193,9 +193,9 @@ Teach puede realizar **3 acciones legendarias por ronda**, eligiendo entre las o
 | **Acción Legendaria** | **Costo** | **Descripción** |
 | -------------------- | --------- | --------------- |
 | **Suspensión de Ataque** | 1 Acción | Congela un ataque enemigo en el aire, evitando que cause daño hasta su siguiente turno |
-| **Estasis Pirata** | 2 Acciones | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
-| **Congelación Temporal** | 2 Acciones | Convierte a un enemigo en cristal temporal, paralizándolo por 1d4 turnos (CD 17 Sabiduría) |
-| **Campo de Estasis** | 3 Acciones | Crea un área de 30 pies donde todos los enemigos quedan suspendidos, perdiendo su turno (CD 17 Sabiduría) |
+| **Estasis Pirata** | 2 Acciones · **2/combate** | Se congela en el tiempo, ganando inmunidad a todo daño hasta su siguiente turno |
+| **Congelación Temporal** | 2 Acciones | Convierte a un enemigo en cristal temporal (CD 17 Sabiduría o *paralizado* hasta 1d4 turnos; repite la salvación al final de cada uno de sus turnos) |
+| **Campo de Estasis** | 3 Acciones · **1/combate** | Crea un área de 30 pies donde todos los enemigos quedan suspendidos, perdiendo su turno (CD 17 Sabiduría). Su gran momento — úsalo una vez y que cuente |
 
 #### **💀 Combinaciones Devastadoras:**
 
@@ -336,7 +336,7 @@ Edward Teach ha descubierto cómo usar **cristales especiales** para combinar po
 
 ### **Fase 3: Devastación (Rounds 7+)**
 - Usa combinaciones devastadoras (Portal Congelado, Cañón Suspendido)
-- Activa *Estasis de Batalla* para congelar a todos mientras actúa libremente
+- Activa *Campo de Estasis* (1/combate) para congelar al grupo mientras actúa libremente
 - Prioriza eliminar amenazas mayores
 
 ### **Estrategias Especiales:**
@@ -392,6 +392,35 @@ Varrak **NO puede predecir** las acciones de Teach debido a su naturaleza híbri
 
 
 ---
+
+---
+
+## 👑 **BLACKBEARD EL USURPADOR — el jefe del Final B**
+
+> **Cuándo se usa:** solo si Teach llega **vivo y con el Talismán** a la Cámara de Ascensión e **intercepta el poder divino** (Cap. 15, Final B). No es "Teach con más vida": es Teach a medio convertirse en dios — borracho de dos fuerzas que su cuerpo mortal apenas contiene. Cuanto más lo desatendió el grupo, más fuerte llega: **por cada lugarteniente que Teach absorbió durante la campaña, gana un poder de la tabla de la [ficha de Aethernus](12_Aethernus_Valcarys_Manshoon.md)** (la misma tabla, leída al revés: allí se tacha lo muerto, aquí se suma lo cazado). Tope: **3 poderes**.
+
+### **BLACKBEARD EL USURPADOR** *(Edward Teach a medio ascender)*
+*Humanoide mediano (humano en transformación), caótico maligno* · **CR 13** (10.000 XP)
+
+**CA** 19 (el Talismán teje espacio a su alrededor) · **PG** 2 fases: **150 / 120** · **Vel.** 40 pies, vuelo 40 pies (el mar ya no lo sujeta) · FUE +4, DES +5, CON +4, INT +2, SAB +3, CAR +6 · Salv. DES +10, CON +9, CAR +11 · Resist. temporal, espacial, necrótico; contundente/cortante/perforante no mágico · Inmune a *paralizado*, *asustado*, predicción/divinación · P. pasiva 18 · **Resistencia Legendaria (2/día)**
+
+**Rasgos**
+- ***El Talismán Encendido.*** Mientras el Cronosellado esté activo, Teach **intercepta**: recupera 10 PG al inicio de su turno y **el medidor del ritual no baja** (los PJ deben seguir interrumpiendo el núcleo — el Paso 1 del Cap. 15 sigue vigente contra él).
+- ***Carne Mortal (la grieta).*** Su cuerpo no aguanta: al final de cada ronda en la que haya usado un poder absorbido o una legendaria de 3 acciones, sufre **10 de daño interno** (visible: vetas doradas y púrpuras reventándole la piel). Los PJ que lo noten (Percepción pasiva 14) pueden **acelerar el colapso**: los críticos contra él le hacen +2d10 adicionales de ese daño interno.
+- ***Sin punto ciego que valga:*** ya no necesita el Cristal Estabilizador — el Talismán estabiliza por él. La debilidad del Fuerte Negro **no funciona aquí**.
+
+**Acciones**
+- ***Multiataque:*** tres ataques de ***Sable del Usurpador*** (+10, 1d8+5 cortante + 3d6 temporal **o** espacial, a su elección).
+- ***Andanada Divina (recarga 5-6):*** línea de 60 pies (el cañón ya no es de pólvora), CD 18 DES, 10d6 de fuerza, mitad con éxito; las criaturas que fallen son empujadas 15 pies.
+- ***Marea de Estasis (1/combate):*** 30 pies, CD 18 SAB o *incapacitado* hasta el final de su siguiente turno. *(La versión divina del Campo de Estasis — una vez, como en vida.)*
+- **+ Poderes absorbidos** (hasta 3, de la tabla de Aethernus, según a quién cazó).
+
+**Fase 2 — "El dios a medias" (al agotar los primeros 150 PG):** el Talismán **se agrieta**. Teach pierde *El Talismán Encendido* (ya no intercepta ni se cura), su CA baja a 17… y deja de reírse. Gana ***Desesperación del Casi-Dios:*** un ataque adicional en cada multiataque y sus sables hacen 4d6 elementales. Monólogo de transición:
+> "No… NO. ¿Sabéis lo que he pagado por esto? ¡Cuarenta y siete muertos que me despiertan cada noche, un dios asesinado, veinte años de sonrisas! ¡No pienso volver a ser SOLO UN HOMBRE!"
+
+**Acciones legendarias (3/ronda):** *Sable* (1) · *Paso de Vórtice* (1: teletransporte 40 pies dejando un remolino — terreno difícil) · *Andanada Divina* (3, si está cargada).
+
+**Al caer:** el poder robado **se desagua** hacia el Cronosellado (el medidor sube +10%: ¡el ritual de Aethernus aprovecha el reflujo!) — la batalla contra el archimago continúa sin pausa. El Talismán, agotado, se parte en sus dos reliquias: la **Perla** (devolvedla a Abysara) y el **Cronómetro** (devolvedlo a Cronópolis). Y Kael, si vive, se arrodilla — no ante Teach: ante los cuarenta y siete.
 
 *Edward Teach representa la traición y la ambición sin límites, combinando poderes dimensionales y temporales robados para crear un enemigo verdaderamente impredecible.* 🏴‍☠️
 

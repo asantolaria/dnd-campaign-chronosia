@@ -1,4 +1,6 @@
 # ⚔️ Los Cronófagos — Devoradores del Tiempo y el Espacio
+
+> **⚖️ Regla de mesa (todas las fichas):** cuando una habilidad existe como **acción con usos limitados** (X/día, 1/combate) *y también* como **acción legendaria**, usarla como legendaria **consume un uso** del límite. Sin usos restantes, la versión legendaria tampoco está disponible. *(Afecta a Vorthak, Yrindra, Medusa e Ignis, entre otros.)*
 ## *La Fuerza Militar de Aethernus Valcarys*
 
 > **Este archivo es el ÍNDICE MAESTRO de los lugartenientes.** Cada ficha individual (`01`–`12`) contiene el statblock completo, las acciones legendarias actualizadas, las tácticas y el efecto al morir. Aquí solo encontrarás el resumen y los enlaces; **no se reproducen statblocks** (vivían aquí desactualizados).

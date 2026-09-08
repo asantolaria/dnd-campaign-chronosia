@@ -147,7 +147,7 @@ Al encajar las dos mitades por primera vez, el keystone **tira del otro extremo 
 ---
 
 **Clase de Armadura:** 19 (armadura de placas mágica + protección divina)  
-**Puntos de Golpe:** 300 en total, repartidos en 3 fases (110 / 100 / 90 — ver más abajo)  
+**Puntos de Golpe:** 380 en total, repartidos en 3 fases (140 / 130 / 110 — ver más abajo; con 3 PJ o mesas lentas, usa 110/100/90)  
 **Velocidad:** 30 pies, vuelo 60 pies (mágico)
 
 ---
@@ -189,7 +189,7 @@ Aethernus marca el tiempo absoluto. Mientras esté en pie, las criaturas no pued
 
 ---
 
-### **🟢 FASE 1 — "El Estratega Recluido" (110 HP)**
+### **🟢 FASE 1 — "El Estratega Recluido" (140 HP)**
 
 *Aethernus pelea con maestría arcana y a distancia, midiendo al grupo. Aún no ha volcado el poder divino del ritual.*
 
@@ -224,7 +224,7 @@ Como acción, Aethernus manipula el tiempo en un radio de 60 pies. Todas las cri
 
 ---
 
-### **🟡 FASE 2 — "El Cónclave Encarnado" (100 HP)**
+### **🟡 FASE 2 — "El Cónclave Encarnado" (130 HP)**
 
 *Al caer la primera barra, Aethernus invoca los fragmentos de poder de sus lugartenientes. Pierde la regeneración pero gana acceso a los poderes robados de los lugartenientes que sigan vivos.*
 
@@ -267,11 +267,11 @@ Como acción, Aethernus drena a un enemigo a 30 pies. El enemigo hace salvación
 
 ---
 
-### **🔴 FASE 3 — "La Ascensión Truncada" (90 HP)**
+### **🔴 FASE 3 — "La Ascensión Truncada" (110 HP)**
 
 *Con el ritual desestabilizándose, Aethernus vuelca todo el poder que le queda en un último arrebato. Ha perdido a sus lugartenientes y combina tiempo y espacio en estallidos desesperados.*
 
-**Transición:** efecto gratuito. Cualquier lugarteniente invocado que siga en pie es absorbido (desaparece) para alimentar esta fase; Aethernus recupera 20 HP de golpe (incluidos en los 90 de la barra) y pronuncia su monólogo de Fase 3 (ver [Voz y Monólogos](#-voz-y-monólogos-la-torre-cap-15)).
+**Transición:** efecto gratuito. Cualquier lugarteniente invocado que siga en pie es absorbido (desaparece) para alimentar esta fase; Aethernus recupera 20 HP de golpe (incluidos en los 110 de la barra) y pronuncia su monólogo de Fase 3 (ver [Voz y Monólogos](#-voz-y-monólogos-la-torre-cap-15)).
 
 **Rasgo de fase — Inestabilidad del Ritual.**  
 Al inicio de cada turno de Aethernus, un destello de energía sin control golpea a la criatura no aliada más cercana a él: salvación CD 18 de Destreza o 7 (2d6) de daño temporal/espacial.
@@ -297,17 +297,17 @@ Como acción, Aethernus crea un campo de 60 pies donde tiempo y espacio se disto
 
 > Las tres fases siguientes se corresponden con las tres barras de HP de la sección "Estructura del Combate por Fases".
 
-### **Fase 1 — El Estratega Recluido (110 HP)**
+### **Fase 1 — El Estratega Recluido (140 HP)**
 1. Abre con *Manipulación Temporal* para ralentizar al grupo
 2. Mantiene distancia y usa *Paso Dimensional* (legendaria) para no quedar arrinconado
 3. Castiga al melee con *Espada de Poder Divino* y la regeneración de 10 HP/turno
 
-### **Fase 2 — El Cónclave Encarnado (100 HP)**
+### **Fase 2 — El Cónclave Encarnado (130 HP)**
 - En la transición usa *Llamada a Lugartenientes* (1/combate) si quedan vivos
 - Combina sus ataques con los *Poderes de Lugartenientes* que aún conserve
 - Usa *Extracción de Poder* para debilitar al PJ más peligroso y recuperar HP
 
-### **Fase 3 — La Ascensión Truncada (90 HP)**
+### **Fase 3 — La Ascensión Truncada (110 HP)**
 - Absorbe a cualquier aliado restante y va a por todas
 - *Inestabilidad del Ritual* castiga al que se le acerque cada turno
 - Usa *Combinación de Poderes* y *Estallido Divino* (legendaria) para maximizar daño antes de caer

@@ -163,7 +163,7 @@ Ymir puede realizar **2 acciones legendarias** por ronda, eligiendo entre las op
 | **Acción Legendaria**      | **Costo**  | **Descripción**                                                                                               |
 | -------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------- |
 | **Puño de Hielo**          | 1 Acción   | Ymir realiza un ataque de *Puño de Hielo* contra un objetivo a su alcance.                                    |
-| **Portal de Hielo**        | 1 Acción   | Ymir se teletransporta hasta 30 pies a un espacio donde haya hielo o agua, o abre un portal menor para que un aliado a su alcance lo haga. |
+| **Paso de Hielo**          | 1 Acción   | Ymir se teletransporta hasta 30 pies a un espacio donde haya hielo o agua, o abre un portal menor para que un aliado a su alcance lo haga. *(Distinto del* Portal de Hielo *3/día, que es su acción de viaje/ataque a distancia.)* |
 | **Cristalización**         | 2 Acciones | Convierte el aire en cristales de hielo que crean obstáculos; un área de 15 pies se vuelve terreno difícil y la primera criatura que la cruce hace salvación de Destreza CD 15 o recibe 7 (2d6) de daño cortante. |
 | **Manipulación del Espacio** | 2 Acciones | Comprime o expande el espacio en 30 pies a su alrededor: arrastra a cada criatura del área 10 pies hacia Ymir o la aleja 10 pies de él (a su elección). |
 
@@ -176,7 +176,7 @@ Ymir puede realizar **2 acciones legendarias** por ronda, eligiendo entre las op
 - **Efecto**: Cambia la geometría del espacio para ventaja táctica
 
 #### **🌌 Red de Portales Interplanares:**
-- **Portal de Hielo** (acción legendaria / 3 por día): Portal/teleportación corta entre puntos con hielo o agua
+- **Portal de Hielo** (3/día, acción) y **Paso de Hielo** (acción legendaria): portal planar de su red / teleportación corta entre puntos con hielo o agua
 - **Portal de Elementales** (2/día): Trae **1d3 elementales menores** (CR 1-2), máx. 3 a la vez
 - **Portal de Reclutamiento** (narrativo): Trae refuerzos entre escenas, no en combate directo
 - **Portal Cósmico** (narrativo): Portal masivo que inunda la región con criaturas y suministros (escala estratégica)

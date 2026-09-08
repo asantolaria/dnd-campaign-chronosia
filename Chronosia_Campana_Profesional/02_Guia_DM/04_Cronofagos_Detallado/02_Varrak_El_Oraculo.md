@@ -71,7 +71,7 @@ Varrak habita en una región salvaje de estilo oriental, que evoca los paisajes 
 Varrak ha vivido millones de vidas simultáneamente. Al inicio del combate puede manifestar como máximo 1 copia temporal de sí mismo (clon) que actúa en su propia iniciativa. El clon tiene CA 15, 30 PV y usa los ataques de Varrak con su mismo bono, pero no tiene acciones legendarias ni resistencia legendaria. Si el clon es destruido, Varrak puede manifestar otro al inicio de su siguiente turno (no más de 1 clon activo a la vez).
 
 **Predicción del Futuro - Estilo Mono Borracho.**  
-Varrak puede ver el futuro un turno antes, prediciendo todos los movimientos de sus enemigos. Sin embargo, su estilo de combate es único: **siempre ataca último en la iniciativa**, permitiendo que todos actúen primero. Esto le da la ventaja de reaccionar a todo con acciones legendarias. Tiene ventaja en todas las tiradas de salvación y los enemigos tienen desventaja en ataques contra él, ya que él ya sabe exactamente qué van a hacer antes de que lo hagan. Sus movimientos parecen descoordinados y caóticos (como un mono borracho), pero cada movimiento está perfectamente calculado para contrarrestar los ataques enemigos.
+Varrak puede ver el futuro un turno antes, prediciendo todos los movimientos de sus enemigos. Sin embargo, su estilo de combate es único: **siempre ataca último en la iniciativa**, permitiendo que todos actúen primero. Esto le da la ventaja de reaccionar a todo con acciones legendarias. Tiene ventaja en todas las tiradas de salvación, y **el primer ataque que cada enemigo le dirige en su turno** tiene desventaja (ya sabe qué van a hacer — pero ni un oráculo esquiva una lluvia entera). *(La desventaja en TODOS los ataques solo existe como estallido: su acción legendaria* Profecía de Combate*.)* Sus movimientos parecen descoordinados y caóticos (como un mono borracho), pero cada movimiento está perfectamente calculado para contrarrestar los ataques enemigos.
 
 **Resistencia Legendaria (1/día).**  
 Si Varrak falla una tirada de salvación, puede elegir tener éxito en su lugar.
@@ -100,9 +100,6 @@ La criatura objetivo debe hacer salvación de Sabiduría CD 16 o ve visiones de 
 Varrak invoca una versión de sí mismo de una vida anterior para atacar.  
 *Impacto:* 10 (3d6) de daño temporal. Varrak puede elegir que este ataque tenga ventaja.
 
-**Profecía de Combate (1/día).**  
-Como acción, Varrak ve todos los movimientos de los enemigos en el próximo turno. Hasta el inicio de su siguiente turno, tiene ventaja en todas sus tiradas y los enemigos tienen desventaja en los ataques contra él.
-
 **Convergencia de Vidas (1/día).**  
 **Último Recurso:** Varrak sacrifica todos sus clones existentes. Suma los HP actuales de todos los clones y se cura esa cantidad. **Efecto Permanente:** No puede crear más clones durante el resto del combate.
 
@@ -116,7 +113,7 @@ Varrak puede realizar **2 acciones legendarias** por ronda, eligiendo entre las 
 | -------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------- |
 | **Vida Pasada**            | 1 Acción   | Varrak realiza un ataque de *Vida Pasada* contra un objetivo a su alcance.                                                    |
 | **Predicción Simple**      | 1 Acción   | Varrak ve el próximo movimiento de un enemigo: hasta el inicio de su siguiente turno, ese enemigo tiene desventaja en su próximo ataque contra Varrak. |
-| **Profecía de Combate**    | 2 Acciones | Hasta el inicio de su siguiente turno, Varrak tiene ventaja en sus tiradas de salvación y los enemigos tienen desventaja en los ataques contra él. |
+| **Profecía de Combate**    | 2 Acciones · **2/combate** | Hasta el inicio de su siguiente turno, Varrak tiene ventaja en todas sus tiradas y **todos** los ataques contra él tienen desventaja. *(El estallido total: aquí, y solo aquí.)* |
 | **Realidad Fragmentada**   | 2 Acciones | Varrak crea un campo de realidades superpuestas en 15 pies a su alrededor; cada enemigo en el área debe superar una salvación de Sabiduría CD 16 o quedar confundido hasta el final de su siguiente turno (desventaja en su próximo ataque). |
 
 ---
@@ -125,7 +122,7 @@ Varrak puede realizar **2 acciones legendarias** por ronda, eligiendo entre las 
 
 ### **Fase 1: Preparación (Round 1)**
 1. Activa *Vidas Paralelas* para manifestar su clon (máx. 1)
-2. Usa *Profecía de Combate* para anticipar el próximo turno
+2. Usa *Profecía de Combate* (legendaria, 2/combate) para anticipar el próximo turno
 3. Posiciona el clon estratégicamente
 
 ### **Fase 2: Control (Rounds 2-5)**
