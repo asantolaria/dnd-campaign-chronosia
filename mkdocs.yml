@@ -44,12 +44,15 @@ hooks:
 # El libro: índice de capítulos. Lo no listado aquí no aparece en el menú.
 nav:
   - Portada: index.md
-  - La Historia de Chronosia: 00_La_Historia_de_Chronosia.md
-  - 1 · Cómo dirigir Chronosia: 01_Como_Dirigir.md
-  - 2 · El semiplano: 02_El_Semiplano.md
-  - Fase 0 · El asesinato de Waterdeep: 01_Introduccion/04_Fase_0_Waterdeep.md
-  - 3 · Cronópolis: 03_Cronopolis.md
-  - Las regiones:
+  - Parte I — Preparación:
+    - La Historia de Chronosia: 00_La_Historia_de_Chronosia.md
+    - 1 · Cómo dirigir Chronosia: 01_Como_Dirigir.md
+    - 2 · El semiplano: 02_El_Semiplano.md
+    - Creación de personajes: 01_Introduccion/03_Creacion_Personajes.md
+    - Cronología de eventos fijos: 02_Guia_DM/07_Cronologia_Maestra_Campana.md
+  - Parte II — La campaña:
+    - Fase 0 · El asesinato de Waterdeep: 01_Introduccion/04_Fase_0_Waterdeep.md
+    - 3 · Cronópolis: 03_Cronopolis.md
     - 4 · La Espiral Inversa: Capitulos_Regiones/04_La_Espiral_Inversa.md
     - 5 · El Jardín de los Tiempos Gemelos: Capitulos_Regiones/05_El_Jardin_de_los_Tiempos_Gemelos.md
     - 6 · Glacialis: Capitulos_Regiones/06_Glacialis.md
@@ -60,12 +63,10 @@ nav:
     - 11 · El Archipiélago de Barbanegra: Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md
     - 12 · La Mansión de la Sed Eterna: Capitulos_Regiones/12_La_Mansion_de_la_Sed_Eterna.md
     - 13 · Las Calderas Dimensionales: Capitulos_Regiones/13_Las_Calderas_Dimensionales.md
-  - 14 · El arco de Barbanegra y las traiciones: 14_Arco_de_Barbanegra.md
-  - 15 · El clímax — La Torre de la Eternidad: 15_Climax_La_Torre.md
-  - Apéndices:
-    - Creación de personajes: 01_Introduccion/03_Creacion_Personajes.md
-    - A · Cronología de eventos fijos: 02_Guia_DM/07_Cronologia_Maestra_Campana.md
-    - B · PNJs importantes: 02_Guia_DM/03_NPCs_Importantes.md
+    - 14 · El arco de Barbanegra y las traiciones: 14_Arco_de_Barbanegra.md
+    - 15 · El clímax — La Torre de la Eternidad: 15_Climax_La_Torre.md
+  - Parte III — Dramatis personae:
+    - PNJs importantes: 02_Guia_DM/03_NPCs_Importantes.md
     - Facciones:
       - Índice de facciones: 02_Guia_DM/02_Facciones/00_Indice_Facciones.md
       - Los Cronófagos: 02_Guia_DM/02_Facciones/01_Cronofagos.md
@@ -74,7 +75,7 @@ nav:
       - Bregan D'aerthe: 02_Guia_DM/02_Facciones/04_Bregan_Daerthe.md
       - Dinámicas entre facciones: 02_Guia_DM/02_Facciones/06_Dinamicas_Entre_Facciones.md
       - Oceánicos de Abysara: 02_Guia_DM/02_Facciones/07_Oceanicos_Abysara.md
-    - C · Bestiario (statblocks):
+    - Los cronófagos (fichas):
       - Lugartenientes (índice): 02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md
       - Serapis: 02_Guia_DM/04_Cronofagos_Detallado/01_Serapis_El_Retroceso.md
       - Varrak: 02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md
@@ -89,16 +90,29 @@ nav:
       - Tempus: 02_Guia_DM/04_Cronofagos_Detallado/11_Tempus_El_Fragmentado.md
       - Aethernus: 02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md
       - Soldados y ejércitos: 02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md
-      - Monstruos genéricos: 05_Apendices/17_Monstruos_Enemigos.md
-    - D · Objetos mágicos y reliquias: 06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md
-    - E · Tablas:
+  - Parte IV — Apéndices:
+    - A · Monstruos genéricos: 05_Apendices/17_Monstruos_Enemigos.md
+    - B · Bestiario regional:
+      - Índice: 05_Apendices/Bestiario_Regional/00_Indice_Bestiario_Regional.md
+      - Espiral Inversa: 05_Apendices/Bestiario_Regional/01_Espiral_Inversa.md
+      - Jardín de los Tiempos Gemelos: 05_Apendices/Bestiario_Regional/02_Jardin_Tiempos_Gemelos.md
+      - Glacialis: 05_Apendices/Bestiario_Regional/03_Glacialis.md
+      - Ruinas del Tiempo Perdido: 05_Apendices/Bestiario_Regional/04_Ruinas_Tiempo_Perdido.md
+      - Abismo de los Posibles: 05_Apendices/Bestiario_Regional/05_Abismo_Posibles.md
+      - Llanuras de la Compresión: 05_Apendices/Bestiario_Regional/06_Llanuras_Compresion.md
+      - Ciudad de Veldrisza: 05_Apendices/Bestiario_Regional/07_Ciudad_Veldrisza.md
+      - Archipiélago de Barbanegra: 05_Apendices/Bestiario_Regional/08_Archipielago_Barbanegra.md
+      - Mansión de la Sed Eterna: 05_Apendices/Bestiario_Regional/09_Mansion_Sed_Eterna.md
+      - Calderas Dimensionales: 05_Apendices/Bestiario_Regional/10_Calderas_Dimensionales.md
+    - C · Objetos mágicos y reliquias: 06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md
+    - D · Tablas:
       - Eventos aleatorios: 06_Recursos/Tablas/19_Tablas_Eventos.md
       - Tracking de campaña: 06_Recursos/Tablas/20_Tablas_Tracking_Campana.md
       - Encuentros por región: 06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md
       - Reconocimiento e inteligencia: 06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md
       - Rumores de taberna: 06_Recursos/Tablas/24_Rumores_Taberna.md
       - Tablas de nombres: 06_Recursos/Tablas/25_Tablas_de_Nombres.md
-    - F · Handouts:
+    - E · Handouts:
       - Sobre los handouts: 06_Recursos/Handouts/README.md
       - Contador del Ritual: 06_Recursos/Handouts/Contador_del_Ritual.md
       - Carta incriminatoria: 06_Recursos/Handouts/Carta_Incriminatoria.md

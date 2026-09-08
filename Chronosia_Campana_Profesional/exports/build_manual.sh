@@ -20,27 +20,36 @@ cd "$ROOT"
 # --- Orden del libro ---
 FILES=()
 add(){ local g; for g in $1; do [ -f "$g" ] && FILES+=("$g"); done; }
+# ── PARTE I — PREPARACIÓN ──
+add "exports/partes/parte_1.md"
 add "00_La_Historia_de_Chronosia.md"
 add "01_Como_Dirigir.md"
 add "02_El_Semiplano.md"
+add "01_Introduccion/03_Creacion_Personajes.md"
+add "02_Guia_DM/07_Cronologia_Maestra_Campana.md"
+# ── PARTE II — LA CAMPAÑA ──
+add "exports/partes/parte_2.md"
 add "01_Introduccion/04_Fase_0_Waterdeep.md"
 add "03_Cronopolis.md"
 add "Capitulos_Regiones/*.md"
 add "14_Arco_de_Barbanegra.md"
 add "15_Climax_La_Torre.md"
-# --- Apéndices ---
-add "01_Introduccion/03_Creacion_Personajes.md"
-add "02_Guia_DM/07_Cronologia_Maestra_Campana.md"
+# ── PARTE III — DRAMATIS PERSONAE ──
+add "exports/partes/parte_3.md"
 add "02_Guia_DM/03_NPCs_Importantes.md"
 add "02_Guia_DM/02_Facciones/*.md"
 add "02_Guia_DM/04_Cronofagos_Detallado/*.md"
-add "02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md"
+# ── PARTE IV — APÉNDICES ──
+add "exports/partes/parte_4.md"
 add "05_Apendices/17_Monstruos_Enemigos.md"
+add "05_Apendices/Bestiario_Regional/*.md"
 add "06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md"
 add "06_Recursos/Tablas/19_Tablas_Eventos.md"
 add "06_Recursos/Tablas/20_Tablas_Tracking_Campana.md"
 add "06_Recursos/Tablas/22_Encuentros_Aleatorios_por_Region.md"
 add "06_Recursos/Tablas/23_Reconocimiento_e_Inteligencia.md"
+add "06_Recursos/Tablas/24_Rumores_Taberna.md"
+add "06_Recursos/Tablas/25_Tablas_de_Nombres.md"
 add "06_Recursos/Handouts/Contador_del_Ritual.md"
 add "06_Recursos/Handouts/Carta_Incriminatoria.md"
 add "06_Recursos/Handouts/Cronologia_de_Barbanegra.md"
@@ -49,8 +58,7 @@ add "06_Recursos/Handouts/Profecia_de_Varrak.md"
 add "06_Recursos/Handouts/Carta_de_Linna.md"
 add "06_Recursos/Handouts/Diario_de_un_Refugiado.md"
 add "06_Recursos/Handouts/Aviso_de_Abysara.md"
-add "06_Recursos/Tablas/24_Rumores_Taberna.md"
-add "06_Recursos/Tablas/25_Tablas_de_Nombres.md"
+add "02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md"
 
 # --- Concatenar: imágenes -> copias web optimizadas + rutas absolutas + sin emojis ---
 # (mismo redirect que mkdocs_hooks.py: el PDF usa assets/web/ para no pesar 100+ MB)
