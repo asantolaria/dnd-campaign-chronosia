@@ -12,6 +12,9 @@
 - [x] **Cronología de Barbanegra** — `Cronologia_de_Barbanegra.md` — dossier de 6 fragmentos revelables por hitos sobre el plan de Teach. ✅
 - [x] **El Relieve de la Llave Chroniana** — `Llave_Chroniana.md` — calco del relieve de Las Ruinas que revela que la llave son dos mitades (superficie + fondo) que hay que reunir; la "piedra de Rosetta" de la campaña. ✅
 - [x] **Los Futuros del Horizonte** — `Profecia_de_Varrak.md` — las 7 estrofas de Varrak con la estrofa de Teach quemada (su punto ciego hecho prop); tabla de decodificación para el DM y red de seguridad del juicio de Marcus. ✅
+- [x] **La carta de Linna** — `Carta_de_Linna.md` — la carta sin enviar de la hija de Bram, atrapada en el Salón del Vals Eterno (paga el rumor 19 de la taberna). ✅
+- [x] **Diario de una refugiada** — `Diario_de_un_Refugiado.md` — el coste del Reloj hecho papel ("día del carro, otra vez"), con variantes por región. ✅
+- [x] **El Aviso de Abysara** — `Aviso_de_Abysara.md` — el canto fúnebre de los 47 en caracola grabada; la masacre hecha peso y la vara de medir de la alianza oceánica. ✅
 
 ## 📋 **HANDOUTS PENDIENTES**
 

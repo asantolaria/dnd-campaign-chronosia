@@ -60,7 +60,7 @@ Para variar el tono, decide *quién* cuenta el rumor:
 
 ## 🪝 Rumores-gancho recurrentes
 
-- **La hija de Bram** (rumor 19): reaparece cada pocas visitas; puede estar en una región de estasis/bucle.
+- **La hija de Bram** (rumor 19): reaparece cada pocas visitas. **Respuesta canónica:** Linna baila en el **Salón del Vals Eterno** de la Mansión (Cap. 12) — su [carta sin enviar](../Handouts/Carta_de_Linna.md) es el handout y el pago del gancho.
 - **Zephyr el Saltamundos** (si su carromato está en el mercado): trae rumores **de otros planos** — pistas del nexo planar y de la Torre "que no está en ningún sitio".
 - **El predicador del culto** (rumor 16): si los PJ lo siguen, destapan una célula que reza a los dioses cautivos — la inquietud de Madre Yssa hecha trama.
 

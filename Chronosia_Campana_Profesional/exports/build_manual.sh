@@ -46,6 +46,9 @@ add "06_Recursos/Handouts/Carta_Incriminatoria.md"
 add "06_Recursos/Handouts/Cronologia_de_Barbanegra.md"
 add "06_Recursos/Handouts/Llave_Chroniana.md"
 add "06_Recursos/Handouts/Profecia_de_Varrak.md"
+add "06_Recursos/Handouts/Carta_de_Linna.md"
+add "06_Recursos/Handouts/Diario_de_un_Refugiado.md"
+add "06_Recursos/Handouts/Aviso_de_Abysara.md"
 add "06_Recursos/Tablas/24_Rumores_Taberna.md"
 
 # --- Concatenar: imágenes -> copias web optimizadas + rutas absolutas + sin emojis ---

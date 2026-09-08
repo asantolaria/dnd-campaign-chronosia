@@ -50,7 +50,7 @@ Edward Teach ha comerciado veinte años con los Oceánicos de las Profundidades.
 
 > **⚠️ Evento fijo, sensación in-world.** No anuncies "esto va a pasar pase lo que pase". Deja que lo *sientan*: el portal siempre está un paso por delante, el agua siempre se traga a los guerreros. La inevitabilidad se narra, no se proclama.
 
-**Lo que se llevan de trama:** existe un lugarteniente que **roba a los suyos** por un plan más grande que el oro. Y que el plan necesita "joyas del fondo". Primera pieza.
+**Lo que se llevan de trama:** existe un lugarteniente que **roba a los suyos** por un plan más grande que el oro. Y que el plan necesita "joyas del fondo". Primera pieza. *(Handout: el [Aviso de Abysara](06_Recursos/Handouts/Aviso_de_Abysara.md) — el canto fúnebre de los 47 llega a cualquier costa tras este hito.)*
 
 ---
 

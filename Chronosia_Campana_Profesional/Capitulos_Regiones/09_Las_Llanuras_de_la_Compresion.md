@@ -58,6 +58,9 @@ Al sureste, un bosque entero comprimido al tamaño de un jardín: árboles de ci
 
 - **Qué hay:** un **Mastín Comprimido** (la mole plegada en cuerpo de perro) caza en el bosque; su *Masa Imposible* castiga a quien se le acerca. Bandadas de **Eco Cartográfico** —jirones de mapas viejos animados— susurran nombres de lugares que ya no existen y desorientan.
 - **Pista / secreto:** el mapa "que borra leguas" de Old Tessil es una pista doble: enseña que **Karkesh y su atlas reescriben la geometría** (3-4), y que la región se está *consumiendo* — el desgarro crece. Quien descifre cuál de los mapas de Tessil es el verdadero gana una ruta directa al Páramo.
+- **⏳ La Legua que Desaparece (reloj visible de la región):** el mapa maldito no es una amenaza abstracta — **funciona en pantalla**. Mientras el mapa exista, **cada vez que el Reloj del Ritual suba**, una localización menor de las Llanuras **que los PJ hayan visitado se borra para siempre** (empieza suave: el árbol-hito del Bosque, un mojón de Karkesh, el puesto de un vendedor del Mercado… escala hacia cosas con nombre). Y hazlo delante de ellos al menos una vez:
+  > *Leído (la primera vez que vean borrarse algo):* "El aire donde ayer estaba el puesto de tablones ondula como calor sobre piedra — y de pronto **no hay nada**. No ruinas: *nada*, hierba intacta, como si nunca. Old Tessil, detrás de vosotros, deja de reír por primera vez. «Otra legua», susurra, y tacha algo en uno de sus mapas. «¿Ahora me creéis?»"
+  **Destruir el mapa verdadero** (descifrarlo entre los de Tessil: Investigación CD 15 con su ayuda, o el atlas de Karkesh lo señala solo) detiene la sangría. Lo borrado **no vuelve** — salvo que la región entera se restaure al caer Dimensionalis, y aun entonces vuelve *mal doblado* (material de secuelas).
 
 **Lleva a:** el sendero plegado lleva al Mercado, único punto de comercio de las Llanuras, donde se oye hablar del "agrimensor de la fractura". Y si aceptaron el trato de Lirian, ella se desvía antes: al **Doblez de Marren** (2b).
 
@@ -102,6 +105,16 @@ Un puente de piedra que se extiende sin llegar nunca al otro lado, y más allá 
 - **Pista / botín:** al caer Karkesh, su **atlas comprimido** se desenrolla y la región a su alrededor se "endereza" un instante, revelando el **camino real a la Atalaya** (la guarida de Dimensionalis). Quien conserve el atlas puede **predecir o provocar los pliegues** del terreno — herramienta clave para el combate final y para no perderse. Entre las anotaciones del atlas hay una nota críptica: una "puerta caliente" marcada donde la llanura roza Avernus, y un nombre repetido al margen — *"Dimensionalis vende a Avernus. Avernus paga en almas. ¿Quién compra las almas?"* (primera hebra hacia los tratos de la Fracturada).
 
 **Lleva a:** con el atlas o el camino enderezado, la Atalaya Comprimida se vuelve alcanzable. Pero antes, el camino pasa rozando la Grieta.
+
+### 4b · Los Picos Estirados y la Aldea Colgante *(escena de paso — los Picos, por fin, existen)*
+
+Los Picos no son zona obligatoria: son el telón de fondo. Pero si los PJ toman las rutas alternativas (o persiguen a un eco), dales **una escena** que los haga inolvidables:
+
+> *Leído al acercarse:* "El pico no es alto: es **estirado**. Una montaña normal a la que el espacio agarró por la cima y tiró hacia arriba durante ochocientos años. Y en su cara sur, la prueba de que aquí vivía gente: **una calle mayor vertical de dos kilómetros**, con sus casas, su fuente y su horno, cada edificio anclado donde el estirón lo dejó. Entre balcón y balcón — a veinte, a cien, a quinientos pies — los vecinos se gritan las noticias con **cuernos de latón**, y una red de cuerdas con poleas sube y baja cestas, cartas y niños pequeños. Desde el balcón más alto, un anciano con el cuerno más largo os ha visto llegar hace una hora: toda la aldea lo sabe ya."*
+
+- **Qué hay:** la **Aldea Colgante de Vantazo** — 60 vecinos que se negaron a irse cuando la calle se estiró ("la casa es la casa"). El alcalde, **Barto el de Arriba**, no ha bajado en nueve años: gobierna a cuerno y polea. El correo de cestas funciona mejor que ningún camino de las Llanuras: por 5 po, los vantazanos **suben o bajan cualquier cosa** (incluidos PJ) por la cara del pico — el único "ascensor" fiable de la región.
+- **Lo que saben:** desde arriba **se ve la geometría de los pliegues** (el mapa vivo de la región): Barto puede señalar dónde está *hoy* la Atalaya de Dimensionalis y por dónde anda la cuadrilla de Karkesh — a cambio de noticias de abajo, que aquí valen más que el oro.
+- **El peligro (una tirada, no una mazmorra):** a media subida, el pliegue "re-estira" sin avisar: tirada de grupo de Fuerza (Atletismo) CD 13 agarrados a las cuerdas, o 2d6 de contundente contra el granito y una cesta de coles perdida que Barto les descontará.
 
 ### 5 · La Grieta Temporal *(el desgarro hacia Avernus)*
 

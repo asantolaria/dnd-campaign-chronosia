@@ -8,7 +8,7 @@
 
 ## 🎯 Concepto central
 
-Chronosia **no es un plano más**: es un **limbo fracturado anclado entre planos**. Cuando Aethernus capturó a Amaunator (tiempo) y Voidar (espacio), su pugna desgarró la realidad local y la convirtió en un **cruce de caminos** donde otros planos "rozan" y se filtran.
+Chronosia **no es un plano más**: es un **limbo fracturado anclado entre planos**. Cuando Amaunator (tiempo) y Voidar (espacio) guerrearon, su pugna desgarró la realidad local y la convirtió en un **cruce de caminos** donde otros planos "rozan" y se filtran; al encadenarlos siglos después, Aethernus **fijó la herida** en vez de dejarla sanar (cosmogonía canónica: [La Historia de Chronosia](../00_La_Historia_de_Chronosia.md)).
 
 Por eso cada región del mapa **se parece a otro plano**: no es casualidad estética, es que el tejido está roto y deja pasar a sus vecinos. Y por eso varios lugartenientes pueden **abrir portales** a mundos concretos: están explotando grietas que ya existían.
 
@@ -44,7 +44,7 @@ Ymir el Eterno Invierno está descrito como **"Reclutador Interplanar — mantie
 - Al derrotarlo, los PJ pueden **capturar el control de la red** (con ayuda de los Anacronistas / Din Goldgear) en lugar de destruirla.
 - Esa red, reorientada, es **el panel de control del hub final**: lo que permite elegir destino al terminar la campaña.
 
-**Recomendación:** que Ymir sea de los **últimos** que los PJ enfrenten, o que su derrota se reserve narrativamente para la antesala del clímax, porque su red es el mecanismo del epílogo-hub.
+**Nota de canon (importante):** Ymir es **región de entrada** y suele caer pronto — y no pasa nada: al morir, su red queda **inerte pero localizada** (así lo dice su Victoria en el [Cap. 6](../Capitulos_Regiones/06_Glacialis.md)). El hub no necesita a Ymir vivo: necesita su red **capturada**, y reorientarla es trabajo de epílogo para Din y los Anacronistas. No lo reserves para el final; deja que el sandbox sea sandbox.
 
 ---
 
@@ -93,6 +93,7 @@ Pensados para que el DM pueda **encadenar** con una campaña publicada o propia.
 
 ## 🧭 Notas de coherencia para el DM
 
+0. **El epílogo A dice "las heridas se cierran" — y es compatible:** lo que sana son las **grietas caóticas** (las que hacían de Chronosia una trampa). El Atrio de los Portales es lo contrario: **puertas controladas**, abiertas a voluntad sobre cicatriz estable. Si tu mesa prefiere el cierre total, el hub entero es opcional y las puertas quedan selladas: ambas lecturas son canon.
 1. **No todos los portales tienen que abrirse.** El DM activa solo los destinos que piense usar; el resto quedan como "puertas selladas, para otro día".
 2. **La campaña es completa en sí misma.** El hub es un *bonus de continuidad*, no un final colgando. Derrotar a Aethernus y estabilizar el limbo **cierra** la historia de Chronosia; los portales son el epílogo, no un cliffhanger forzado.
 3. **Mismos PJ u otros nuevos.** El hub permite continuar con el grupo a nivel 10 (entran en la siguiente campaña ya rodados) o rearrancar con PJ nuevos que "llegan a Cronópolis por un portal".

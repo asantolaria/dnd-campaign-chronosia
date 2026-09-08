@@ -50,7 +50,7 @@
 
 | 1d6 | Qué pasa ahí fuera | Cómo se enteran los PJ |
 |---|---|---|
-| 1-2 | **Guerra civil:** un lugarteniente ataca la región de otro (elige la pareja que más te sirva; los "líderes de bando" Vorthak e Ignis absorben regiones huérfanas) | Refugiados de esa región llegan a Cronópolis; la tabla de encuentros de esa región gana patrullas extranjeras |
+| 1-2 | **Guerra civil:** un lugarteniente ataca la región de otro (elige la pareja que más te sirva; los "líderes de bando" Vorthak e Ignis absorben regiones huérfanas) | Refugiados de esa región llegan a Cronópolis (entrega el [diario de una refugiada](../../06_Recursos/Handouts/Diario_de_un_Refugiado.md) con la variante de esa región); la tabla de encuentros gana patrullas extranjeras |
 | 3-4 | **Teach caza:** Barbanegra absorbe al lugarteniente vivo más débil que los PJ hayan ignorado | **Hipo del Contador** — y la región de la víctima *sigue rota* (la firma de Teach) |
 | 5 | **Tregua tensa:** los bandos se rearman; Yrindra compra secretos del movimiento de todos | Vornan y los contactos drow suben los precios: "hay demanda" |
 | 6 | **Golpe contra Cronópolis:** sabotaje, infiltración o asedio sondeado contra la ciudad (los Cronófagos prueban la muralla) | Los PJ pueden intervenir en persona: es la jugada que sí se juega en mesa |
