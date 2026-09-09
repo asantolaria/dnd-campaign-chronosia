@@ -22,20 +22,25 @@
 |---|---|---|---|---|---|---|
 | [01](./01_Serapis_El_Retroceso.md) | **Serapis el Retroceso** | Elfo Eterno | 5 | 4-7 | La Espiral Inversa | 🔓 |
 | [02](./02_Varrak_El_Oraculo.md) | **Varrak el Oráculo** | Orco | 9 | 5-8 | El Abismo de los Posibles | 🔓 · neutral/aliable |
-| [03](./03_Lord_Vorthak_El_Sediento_Eterno.md) | **Lord Vorthak** | Vampiro Ancestral | 12 | 8-10 | La Mansión de la Sed Eterna | 🔒 · **líder temporal** |
 | [11](./11_Tempus_El_Fragmentado.md) | **Tempus el Fragmentado** | Constructo Temporal | 8 | 8-10 | Las Ruinas del Tiempo Perdido | 🔒 |
 
 ### 🌌 Lugartenientes Dimensionales (Poder de Voidar)
 
 | Ficha | Lugarteniente | Raza | CR | Nivel PJ | Región | Acceso |
 |---|---|---|---|---|---|---|
-| [04](./04_Edward_Teach_Barbanegra.md) | **Edward Teach "Barbanegra"** | Humano Pirata | 11 | 7-9 | Archipiélago de Barbanegra | 🔒 Motor de Viento · **villano final alternativo · ULTRA-SECRETO** |
 | [05](./05_Dimensionalis_La_Fracturada.md) | **Dimensionalis la Fracturada** | Tiefling | 9 | 9-10 | Las Llanuras de la Compresión | 🔒 |
 | [06](./06_Ignis_El_Devorador_Espacial.md) | **Ignis el Devorador** | Dragón Rojo Ancestral | 13 | 8-10 | Las Calderas Dimensionales | 🔒 · **líder dimensional** |
 | [07](./07_Matrona_Veldrisza_La_Tejedora_Dimensional.md) | **Matrona Yrindra** | Drow Matrona | 11 | 9-10 | La Ciudad Subterránea de Veldrisza | 🔒 |
 | [08](./08_Las_Gemelas_Del_Espejo.md) | **Las Gemelas del Espejo** (Lyra y Nyx) | Humanas Gemelas | 8 (juntas) | 5-8 | El Jardín de los Tiempos Gemelos | 🔓 · neutrales/aliables |
 | [09](./09_Ymir_El_Eterno_Invierno.md) | **Ymir el Eterno Invierno** | Elemental de Hielo Ancestral | 8 | 4-7 | Glacialis | 🔓 · **reclutador interplanar** |
 | [10](./10_Medusa_La_Eterna.md) | **Medusa la Eterna** | Medusa Ancestral | 7 | 5-8 | El Jardín de los Tiempos Gemelos | 🔓 · *su "estasis temporal" es disfraz de Voidar* |
+
+### 🩸⚓ Aparte — ni Amaunator ni Voidar (no sueltan pieza de Rotor)
+
+| Ficha | Lugarteniente | Raza | CR | Nivel PJ | Región | Acceso |
+|---|---|---|---|---|---|---|
+| [03](./03_Lord_Vorthak_El_Sediento_Eterno.md) | **Lord Vorthak** | Vampiro Ancestral | 12 | 8-10 | La Mansión de la Sed Eterna | 🔒 · **crítico · drena VIDA · líder del bando temporal (política, no conducto)** |
+| [04](./04_Edward_Teach_Barbanegra.md) | **Edward Teach "Barbanegra"** | Humano Pirata | 11 | 7-9 | Archipiélago de Barbanegra | 🔒 Motor de Viento · **crítico · HÍBRIDO de poder robado · villano final alternativo · ULTRA-SECRETO** |
 
 ### 👑 BBEG
 

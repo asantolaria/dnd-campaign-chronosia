@@ -12,9 +12,9 @@
 - **Tipo:** Temporal (Poder de Amaunator)
 - **Rol:** Lugarteniente Temporal
 - **Región:** Las Ruinas del Tiempo Perdido
-- **Nivel Recomendado:** 6-7
+- **Nivel Recomendado:** 8-10 (como su región)
 - **Bando:** Variable (puede aliarse o actuar independientemente según decisiones)
-- **Estado de Acceso:** 🔒 Bloqueada (requiere Arena del Tiempo o derrotar 3+ lugartenientes temporales)
+- **Estado de Acceso:** 🔒 Las Ruinas piden la **Arena del Tiempo** (la deja cualquier lugarteniente temporal — Mapa de Puertas, Cap. 1)
 
 ---
 
@@ -169,7 +169,7 @@ Al morir Tempus, **Las Ruinas del Tiempo Perdido se restaura** — proceso gradu
 
 ## 🎣 **GANCHOS NARRATIVOS**
 
-### **⚠️ Sin Ganchos Narrativos Especiales**
+### **⚙️ Su gancho ES la Reprogramación**
 Tempus es principalmente un **enemigo opcional a derrotar**. No tiene ganchos narrativos que permitan alianzas o interacciones especiales más allá del combate.
 
 ### **🎭 Características Relevantes:**

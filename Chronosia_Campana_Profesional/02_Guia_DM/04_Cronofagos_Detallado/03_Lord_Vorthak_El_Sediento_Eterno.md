@@ -2,14 +2,14 @@
 
 ![Lord Vorthak](../../assets/bestiario/lugartenientes/03_lord-vorthak-el-sediento-eterno.jpg)
 
-## *Lugarteniente Temporal - Vampiro Ancestral - Líder del Bando Temporal*
+## *Lugarteniente aparte (drena VIDA, no tiempo) - Vampiro Ancestral - Líder del Bando Temporal*
 
 ---
 
 ## 📊 **INFORMACIÓN GENERAL**
 
 - **Raza:** Vampiro Ancestral
-- **Tipo:** Temporal (Poder de Amaunator)
+- **Tipo:** **Vida** — drena años, no canaliza a ningún dios (ni Amaunator ni Voidar): **no suelta pieza de Rotor ni Arena del Tiempo** (Cap. 1). Lidera el *bando* temporal por política, no por conducto
 - **Rol:** Principal/Líder
 - **Región:** La Mansión de la Sed Eterna
 - **Nivel Recomendado:** 9
@@ -58,7 +58,7 @@ Vorthak fue convertido **la noche en que agonizaba de viejo**: un cuerpo de oche
 ---
 
 **Clase de Armadura:** 18 (armadura de placas mágica + escudo)  
-**Puntos de Golpe:** 250 (33d8 + 99)  
+**Puntos de Golpe:** 250 (33d8 + 99) *(con 3 PJ o mesas lentas: 190 y 1d4 secuaces; con 6 PJ: 290 y 2d4+2)*  
 **Velocidad:** 30 pies, escalada 30 pies
 
 ---
@@ -82,7 +82,7 @@ Vorthak fue convertido **la noche en que agonizaba de viejo**: un cuerpo de oche
 ### **Rasgos Especiales**
 
 **Reservas Temporales.**  
-Vorthak está rodeado constantemente por 2d4 secuaces (vampiros menores o humanos drenados). Puede almacenar "reservas temporales" de vida drenada en estos secuaces. Cada secuaz puede almacenar hasta 30 HP de reserva temporal.
+Vorthak está rodeado constantemente por 2d4 secuaces — usa el statblock de **Esclavo de Sangre** (CR 3, [Bestiario Regional 09](../../05_Apendices/Bestiario_Regional/09_Mansion_Sed_Eterna.md)). Puede almacenar "reservas temporales" de vida drenada en ellos: **cada secuaz empieza el combate con 15 PG de reserva** (Vorthak lleva décadas cebándolos) y puede almacenar hasta 30.
 
 **Transferencia de Daño (Protección Divina) (1/ronda).**  
 Una vez por ronda, como reacción cuando recibe daño, Vorthak puede transferir todo el daño de ese único ataque o efecto a un secuaz que tenga reserva temporal. El secuaz muere si el daño excede su HP máximo. Si no le quedan secuaces, no puede usar esta reacción.

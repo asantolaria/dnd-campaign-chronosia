@@ -186,6 +186,14 @@ La **reserva de sangre personal** de Vorthak: un gigante torpe y de mente simple
 - **Gravold el Sepulturero** (enano, enterrador, neutral). Cava tumbas que amanecen vacías. Sabe qué noches la niebla "se traga" a la gente y advierte de la puerta gris.
 - **Madame Sevrin** (medio-elfa, vidente errante, neutral ambigua). Lee el futuro en relojes detenidos; dice el tema del espejo en clave de acertijo e insinúa que el grupo "ya está invitado" a Barovia.
 
+## Botín de la Mansión
+
+- **El Anillo de Vorthak** (anillo de poder de lugarteniente — ver el [catálogo](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)): cae con él. Es la pieza gorda.
+- **La Bodega:** dos tiradas en la tabla de **tesoros menores** (final del catálogo) + 12 botellas del "vino del amo" — décadas robadas embotelladas (25 po/botella a coleccionistas de Cronópolis; beberla envejece 1 año y cura 2d4: los catadores discuten si compensa).
+- **El Observatorio Roto:** el *Libro de las Horas de la Casa* — la historia de Vorthak y su debilidad (ya usada como pista), vendible a los Anacronistas por 150 po o canjeable por favor.
+- **Los huéspedes:** los supervivientes que salgan por su pie son el botín que la región recuerda — cada uno es un testigo, un contacto o una deuda de gratitud en Cronópolis (elige: un gremial, una cartógrafa, un desertor cronófago).
+- **Aurelius:** si pactaron, su "pago" es narrativo — los pasadizos, los horarios de los secuaces y el descanso eterno que pidió.
+
 ## Cómo encaja en la campaña
 - **Puerta:** región de **alto nivel (8-10)**. Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
 - **Pieza de trama que se llevan:** el **espejo** — Vorthak drena vidas como Aethernus drena dioses. Es el anticipo *emocional* de las apuestas del clímax: vencerlo es comprender, en la carne, qué pasa si una sed crece sin freno.

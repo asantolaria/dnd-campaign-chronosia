@@ -10,7 +10,7 @@
 | El Reloj **sube +1** cuando… | El Reloj **se estanca** cuando… |
 |---|---|
 | Resolvéis el **arco de una región** (matar o pactar — es el tiempo, no la sangre) | Cae un **crítico** — **Teach, Ignis o Vorthak** — (estanca **2 hitos**) |
-| Hacéis una **travesía larga** (un viaje que es un arco) | Completáis una **misión de sabotaje** de Marcus (estanca **1 hito**) |
+| Hacéis una **travesía larga** (un viaje que es un arco) | Completáis una **misión de sabotaje** — de los Anacronistas o de Marcus (estanca **1 hito**) |
 | Pasa una **temporada de inactividad** en Cronópolis (una semana+ de downtime; los descansos normales NO cuentan) | |
 
 - **SALTO de Thyra** (Cap. 14, hito 4 de Teach): **+2 de golpe** — la única subida doble.
@@ -28,7 +28,7 @@
 |---|---|---|
 | 4-7 | Espiral · Glacialis | **Abiertas** |
 | 5-8 | Jardín · Abismo | **Abiertas** (duras: entrad con nivel) |
-| 7-9 | Archipiélago | **Motor de Viento** = Rotor: 1 Núcleo Temporal (cualquier temporal, o Varrak aliado lo destila) + 1 Carcasa Dimensional (cualquier dimensional) |
+| 7-9 | Archipiélago | **Motor de Viento** = Rotor: 1 Núcleo Temporal (cualquier temporal, o Varrak aliado lo destila) + 1 Carcasa Dimensional (cualquier dimensional, o el pacto con Ymir) |
 | 8-10 | Ruinas · Mansión · Calderas | Ruinas piden **Arena del Tiempo** (la deja cualquier temporal) |
 | 9-10 | Llanuras · Veldrisza | Derrotar a **Ignis** |
 | Clímax | La Torre | **Llave chroniana** (2 mitades + palabras) **+ conocer la entrada** (Teach o Yrindra la revelan) — *nunca el Reloj* |

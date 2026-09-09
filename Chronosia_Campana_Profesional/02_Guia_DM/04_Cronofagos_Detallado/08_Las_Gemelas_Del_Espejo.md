@@ -12,7 +12,7 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Principales/Neutrales
 - **Región:** El Jardín de los Tiempos Gemelos
-- **Nivel Recomendado:** 6-7
+- **Nivel Recomendado:** 5-8 (como su región)
 - **Bando:** Neutral (deciden en Fase 3, según el estado del tablero)
 - **Estado de Acceso:** 🔓 El Jardín está **abierto desde el inicio** (región dura: nivel 5-8 — Mapa de Puertas, Cap. 1)
 

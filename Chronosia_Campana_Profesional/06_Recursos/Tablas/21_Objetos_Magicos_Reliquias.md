@@ -372,7 +372,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 3. **Robo (Difícil):** Los PJ podrían intentar robarlo, pero las Gemelas son muy poderosas y tienen múltiples dimensiones espejo
 
 **Requisitos:**
-- **Nivel Recomendado:** 8-10
+- **Nivel Recomendado:** 5-8 (la banda del Jardín)
 - **Región:** El Jardín de los Tiempos Gemelos (región compartida con Medusa)
 - **Nota:** Las Gemelas son neutrales, no necesariamente hostiles - pueden ser aliadas potenciales
 
@@ -438,12 +438,12 @@ Un espejo circular de 3 pies de diámetro con marco de plata ornamentada. La sup
 
 **Cómo Obtenerlo:**
 1. **Derrotar a cualquier conducto de Amaunator** (Serapis, Tempus…): la Arena cristaliza de su esencia al caer
-2. **Nivel Recomendado:** 5-7 (primera región recomendada)
+2. **Nivel Recomendado:** 4-7 (la banda de la Espiral)
 3. **Región:** La Espiral Inversa
 
 **Requisitos:**
 - **Un conducto temporal caído** (el que sea — el Mapa de Puertas no fuerza objetivos)
-- **Nivel Recomendado:** 5-7 (primera región recomendada)
+- **Nivel Recomendado:** 4-7 (la banda de la Espiral)
 - **Nota:** Serapis es el primer lugarteniente recomendado para enfrentar
 
 **Uso Post-Obtención:**
@@ -509,7 +509,7 @@ Un reloj de arena de 2 pies de altura con estructura de bronce antiguo. La arena
 2. **Quest Giver:** Din Goldgear o Balthar Herrumbra (La Resistencia)
 3. **Materiales Necesarios:**
    - **5,000 po** en materiales (acero reforzado, engranajes de mithril)
-   - **5 Cristales de Poder Púrpura (Dimensionales):** Se requieren cristales de poder dimensionales específicos de 5 regiones diferentes (ver misión "Cristales Dimensionales para la Excavadora" en Misiones_Sandbox.md)
+   - **5 Cristales de Poder Púrpura (Dimensionales):** Se requieren cristales de poder dimensionales específicos de 5 regiones diferentes (la caza de cristales por región es sandbox puro: ancla cada uno a una zona con nombre — ver el [Motor de Campaña](../../01_Como_Dirigir.md))
    - **⚠️ NOTA:** Los "Cristales Dimensionales Puros" mencionados en la misión son en realidad **Cristales de Poder Púrpura (dimensionales)** que se forman en regiones con alta actividad dimensional. Cada región dimensional puede tener un cristal único con propiedades específicas de esa región.
 4. **Tiempo de Construcción:** 1-2 semanas de trabajo (puede acelerarse si los PJ ayudan)
 

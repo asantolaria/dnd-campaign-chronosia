@@ -31,7 +31,7 @@
 
 ![Cronófago lanzador de conjuros](../assets/bestiario/tropas/cronofago-lanzador-conjuros.jpg)
 
-- ***Lanzador Cronófago*** — **CR 5** (1.800 XP) · CA 13 (cuero + cristal de guarda) · PG 66 (12d8+12) · Vel. 30 pies · INT +4 (salv. +7), SAB +2 (salv. +5) · Arcano +7. **Descarga de Distorsión:** +7, 60 pies, **3d6+4** de daño temporal o espacial (a elección). **Ralentizar (recarga 5-6):** hasta 3 objetivos a 30 pies, SAB CD 15 o como bajo *ralentizar* 1 turno. **Desplazar (1/día):** un objetivo a 60 pies, CAR CD 15 o teletransportado hasta 30 pies a un punto visible. *Cristal de Guarda:* mientras el cristal de su bastón esté intacto (CA 12, 10 PG), el primer ataque que reciba cada ronda tiene desventaja.
+- ***Lanzador Cronófago*** — **CR 3** (700 XP) · CA 13 (cuero + cristal de guarda) · PG 66 (12d8+12) · Vel. 30 pies · INT +4 (salv. +7), SAB +2 (salv. +5) · Arcano +7. **Descarga de Distorsión:** +7, 60 pies, **3d6+4** de daño temporal o espacial (a elección). **Ralentizar (recarga 5-6):** hasta 3 objetivos a 30 pies, SAB CD 15 o como bajo *ralentizar* 1 turno. **Desplazar (1/día):** un objetivo a 60 pies, CAR CD 15 o teletransportado hasta 30 pies a un punto visible. *Cristal de Guarda:* mientras el cristal de su bastón esté intacto (CA 12, 10 PG), el primer ataque que reciba cada ronda tiene desventaja.
 
 ### **🎖️ Oficial Cronófago (comandante)**
 
@@ -90,14 +90,14 @@ Versión compacta de las bases oficiales que este manual referencia, tomadas del
 - ***Guardia*** (CR 1/8) — CA 16 · PG 11 · Lanza +3, 1d6+1.
 - ***Bandido*** (CR 1/8) — CA 12 · PG 11 · Cimitarra +3, 1d6+1.
 - ***Matón*** (CR 1/2) — CA 11 · PG 32 · *Tácticas de manada.* **Multiataque:** 2 mazas +4, 1d6+2.
-- ***Mephit de hielo*** (CR 1/2) — CA 11 · PG 21 · vuela 30 · *Muerte explosiva* (escarcha 5 pies, DES CD 10, 2d4 frío). Garras +3, 1d4+1 + 1d4 frío. **Aliento de escarcha (rec. 6):** cono 15 pies, DES CD 10, 2d4 frío.
+- ***Mephit de hielo*** (CR 1/2) — CA 11 · PG 21 · vuela 30 · *Muerte explosiva* (esquirlas de hielo 5 pies, DES CD 10, 1d8 cortante). Garras +3, 1d4+1 + 1d4 frío. **Aliento de escarcha (rec. 6):** cono 15 pies, DES CD 10, 2d4 frío.
 - ***Espía*** (CR 1) — CA 12 · PG 27 · *Acción astuta* · *Ataque furtivo 2d6.* **Multiataque:** 2 espadas cortas +4, 1d6+2.
 - ***Lobo atroz*** (CR 1) — CA 14 · PG 37 · Vel. 50 · *Tácticas de manada.* Mordisco +5, 2d6+3 y FUE CD 13 o derribado.
 - ***Espectro*** (CR 1) — CA 12 · PG 22 · vuela 50 · *Incorpóreo* · resistente a daño físico no mágico · *Sensibilidad a la luz solar.* Drenaje de vida +4, 3d6 necrótico y CON CD 10 o el máximo de PG baja otro tanto.
 - ***Ogro*** (CR 2) — CA 11 · PG 59 · Garrote +6, 2d8+4 (o jabalina +6, 2d6+4).
 - ***Capitán de bandidos*** (CR 2) — CA 15 · PG 65 · *Parada* (reacción: +2 CA). **Multiataque:** 2 cimitarras +5 (1d6+3) y daga +5 (1d4+3).
 - ***Jabalí gigante*** (CR 2) — CA 12 · PG 42 · *Carga* (+2d6 y FUE CD 13 o derribado tras 20 pies) · *Implacable* (1/descanso: un golpe que lo dejaría a 0 con ≤10 de daño lo deja a 1). Colmillos +5, 2d6+3.
-- ***Veterano*** (CR 3) — CA 17 · PG 58. **Multiataque:** 2 espadas largas +5 (1d8+3; a dos manos 1d10+3), y espada corta +5 (1d6+3) si tiene la mano libre. Ballesta pesada +3, 2d10.
+- ***Veterano*** (CR 3) — CA 17 · PG 58. **Multiataque:** 2 espadas largas +5 (1d8+3; a dos manos 1d10+3), y espada corta +5 (1d6+3) si tiene la mano libre. Ballesta pesada +3, 1d10+1.
 - ***Araña de fase*** (CR 3) — CA 13 · PG 32 · trepa 30 · *Salto etéreo* (acción adicional: entra o sale del Plano Etéreo — en Chronosia, "se pliega por el espacio"). Mordisco +4, 1d10+2 y CON CD 11 o 4d8 de veneno (mitad con éxito; si lo reduce a 0, queda estable pero envenenado-paralizado 1 hora).
 - ***Gladiador*** (CR 5) — CA 16 · PG 112 · *Bravura* (ventaja vs miedo) · *Bruto* (+1 dado de arma, ya sumado) · *Parada* (reacción: +3 CA). **Multiataque:** 3 lanzas +7, 2d6+4.
 - ***Mago*** (CR 6) — CA 12 (15 con *armadura de mago*) · PG 40 · salv. INT +6, SAB +4. Conjuros (CD 14, +6): *rayo de fuego* (2d10) al gastar el turno; *proyectil mágico*, *escudo* (reacción), *paso brumoso*, *contraconjuro*, *bola de fuego* (8d6, DES CD 14), *invisibilidad mayor*, *cono de frío* (8d8, CON CD 14). Gestión rápida: 1 conjuro de nivel alto por ronda + *escudo/contraconjuro* de reacción.

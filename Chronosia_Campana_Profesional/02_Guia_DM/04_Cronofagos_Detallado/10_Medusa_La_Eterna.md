@@ -81,6 +81,11 @@ Medusa puede congelar el tiempo con su mirada, no solo petrificando cuerpos sino
 **Estasis Temporal.**  
 Medusa puede congelarse en el tiempo, ganando inmunidad a todo daño. Mientras está en estasis, no puede actuar pero tampoco puede recibir daño.
 
+**Apartar la Mirada (el contrajuego clásico).**  
+Una criatura puede **evitar los ojos de Medusa** al empezar su turno: hasta su siguiente turno es **inmune a la *Mirada Temporal*** y a la *Petrificación Temporal*, pero ataca a Medusa **con desventaja** (los espejos pulidos, el agua quieta o pelear "a ciegas" con Percepción ciega anulan la desventaja — el rumor de la tabla 23 es literal). Medusa lo sabe y castiga a quien la mira de frente.
+
+> **⚠️ Presupuesto de control (DM):** entre Mirada, Petrificación, Campo y Congelación, no dejes **más de un PJ fijado a la vez** — su terror es la galería de estatuas, no un grupo espectador. Todas sus fijaciones repiten salvación cada turno: úsalo.
+
 **Serpientes de Tiempo.**  
 En lugar de serpientes normales, Medusa tiene serpientes de tiempo en su cabello. Cada serpiente puede atacar independientemente y causa daño temporal.
 

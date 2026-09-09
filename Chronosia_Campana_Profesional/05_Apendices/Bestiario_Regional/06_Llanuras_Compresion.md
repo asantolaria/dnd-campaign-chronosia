@@ -16,7 +16,7 @@ Cultista infernal que sirvió de zapador a Dimensionalis: traza "mapas vivos" en
 
 **Statblock** (compacto):
 - ***Karkesh el Cartógrafo de Cenizas*** — *humanoide mediano (tiefling pactado), legal malvado* · **CR** 6 (2300 XP)
-- **CA** 16 (armadura de tinta endurecida) · **PG** 95 (13d8+39) · **Vel.** 30 pies, teleportación de paso (ver Rasgos)
+- **CA** 16 (armadura de tinta endurecida) · **PG** 97 (13d8+39) · **Vel.** 30 pies, teleportación de paso (ver Rasgos)
 - **INT 18 (CD de conjuro 15, +7 al ataque mágico)** · **Resistencia** al fuego · **Sentidos** visión en la oscuridad 60 pies, percepción pasiva 13
 - **Rasgos:**
   - *Geometría Reescrita:* como reacción al ser objetivo de un ataque a distancia, Karkesh intercambia su posición con la de un aliado o criatura a 30 pies; el atacante hace tirada de nuevo contra el sustituto.

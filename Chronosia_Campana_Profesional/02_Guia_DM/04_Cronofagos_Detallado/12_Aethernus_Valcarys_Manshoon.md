@@ -105,9 +105,9 @@ La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgán
 
 Aethernus no teme a los PJ, ni a los dioses, ni a Teach. Teme **una pregunta**: *¿y si el original no soy yo?* Es el Clon #47 de una campaña cuyo tema es "lo que fue UNO, partido" — las Gemelas, la llave, los dos pueblos. Él es el eco oscuro de ese tema, y sus monólogos de la Torre ("Cuando esto termine habrá **uno**") solo golpean si la mesa ya olió la herida. Tres semillas, una por fase:
 
-- **El decreto de los espejos** *(cualquier región, Fase 1-2)*: los cronófagos destruyen los espejos de cuerpo entero allá donde mandan — orden del Eterno, sin explicación. Los soldados lo cumplen sin entenderlo ("al Amo no le gustan los reflejos"). Los PJ lo notarán como rareza mucho antes de entenderlo.
-- **Las Gemelas lo nombran** *(Cap. 5, si negocian)*: "Nos odia. No por poderosas — somos las únicas de sus filas que somos **dos** y no nos hemos matado. Cada vez que nos mira, hace una cuenta que no le sale."
-- **El encargo a Dimensionalis** *(Cap. 9, si comercian)*: Dimensionalis busca cuál de sus versiones es la original — y Aethernus **le paga por no encontrar la respuesta**. Ella no sabe por qué; el DM sí: si una fractura puede *probar* quién es la original, alguien podría probar que él no lo es.
+- **El decreto de los espejos** *(plantada en la Aldea del Bucle, Cap. 4 — repítela en cualquier territorio cronófago)*: los cronófagos destruyen los espejos allá donde mandan — orden del Eterno, sin explicación. Los soldados lo cumplen sin entenderlo ("al Amo no le gustan los reflejos").
+- **Las Gemelas lo nombran** *(plantada en el Estanque de Lágrimas, Cap. 5, si negocian)*: "Nos odia. No por poderosas — somos las únicas de sus filas que somos **dos** y no nos hemos matado. Cada vez que nos mira, hace una cuenta que no le sale."
+- **El encargo a Dimensionalis** *(plantada en la Atalaya Comprimida, Cap. 9, si comercian)*: Dimensionalis busca cuál de sus versiones es la original — y Aethernus **le paga por no encontrar la respuesta**. Ella no sabe por qué; el DM sí: si una fractura puede *probar* quién es la original, alguien podría probar que él no lo es.
 
 **El pago:** en la Torre, cuando suelte "no estaba escrito… habrá uno", la mesa ya no oye a un megalómano — oye a una copia aterrada comprándose un espejo en el que ser el único reflejo.
 

@@ -12,7 +12,7 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Principal/Independiente
 - **Región:** Las Llanuras de la Compresión
-- **Nivel Recomendado:** 7-8
+- **Nivel Recomendado:** 9-10 (como su región)
 - **Bando:** Independiente
 - **Estado de Acceso:** 🔒 Bloqueada (requiere Espejo de Realidad Fragmentada o derrotar a Ignis)
 
@@ -54,7 +54,7 @@ Cuando Aethernus le infundió el poder de Voidar, Dimensionalis no lo recibió: 
 ---
 
 **Clase de Armadura:** 17 (armadura natural + destreza + superposición dimensional)  
-**Puntos de Golpe:** 190 (20d10 + 80)  
+**Puntos de Golpe:** 170 (20d8 + 80)  
 **Velocidad:** 30 pies, teletransporte 60 pies (como acción de bonificación)
 
 ---
@@ -138,7 +138,7 @@ Dimensionalis puede realizar **3 acciones legendarias por ronda**, eligiendo ent
 
 ### **🏠 Mecánicas de Separación Dimensional:**
 
-Diseñada para un grupo de **nivel 7-8**. Dimensionalis reparte a los PJ en habitaciones dimensionales cerradas y enfrenta a cada bolsa de jugadores con esbirros **CR ≤ 4**, de modo que el conjunto siga siendo un combate manejable de nivel 7-8 (nunca un encuentro letal en solitario).
+Diseñada para un grupo de **nivel 7-8**. Dimensionalis reparte a los PJ en habitaciones dimensionales cerradas y enfrenta a cada bolsa de jugadores con esbirros **CR ≤ 4**, de modo que el conjunto siga siendo un combate manejable para su banda de nivel 9-10 (nunca un encuentro letal en solitario; con grupos de 9-10, sube los esbirros a CR ≤5).
 
 #### **📊 Separación en Parejas (recomendado)**
 - **Habitaciones**: 2-3 habitaciones cerradas (según el número de jugadores)

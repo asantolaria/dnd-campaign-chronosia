@@ -157,6 +157,12 @@
 - **Objetos Únicos**: Sus relojes pueden ser artefactos que ayuden a los PJ a navegar por el semiplano
 - **Momento Emocional**: Su estabilidad contrasta con el caos del mundo, creando momentos de paz y reflexión
 
+**Voz** *(líneas citables — para que no sea solo una lista)*:
+- *"¿Oyes eso? Ese tic-tac. Es el único de la ciudad que nunca se ha saltado un segundo. No porque el reloj sea bueno — porque alguien le da cuerda todos los días, pase lo que pase. La estabilidad no es un don, muchacho. Es una costumbre."*
+- *(Cuando el Reloj del Ritual sube, sin levantar la vista del banco)*: "Lo he notado. Todo el barrio lo nota — los relojes se adelantan medio latido, como caballos que huelen el lobo. Los vuelvo a poner en hora. Es lo que hay que hacer con el miedo."
+
+**Su escena** *(prográmala en una visita cualquiera, mejor tras una derrota)*: Cornelius sienta al PJ más golpeado en su banco, le pone un reloj a medio montar delante y le enseña, pieza a pieza, **a darle cuerda y ajustarlo** — diez minutos reales de conversación tranquila mientras fuera el mundo se deshace. Al terminar, le regala el reloj: *"Cada mañana, dale cuerda. No por el reloj. Por ti."* Sin mecánica, sin tirada: es la burbuja de calma de Cronosgate hecha escena — y si el jugador le da cuerda en mesa cada mañana desde entonces, dale inspiración la primera vez que lo haga sin que se lo recuerdes.
+
 ### **⚙️ Din Goldgear - La Mano Derecha de Cornelius**
 
 ![Din Goldgear](../assets/bestiario/npcs/din-goldgear.jpg)

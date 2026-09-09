@@ -11,7 +11,7 @@
 
 ## 🔄 **1. La Espiral Inversa (Serapis)**
 
-**Nivel recomendado:** 5-7  
+**Nivel recomendado:** 4-7  
 **Lanzar:** 1d6 cuando los PJ se desplazan por la región o pasan tiempo fuera de la aldea.
 
 *Bestiario de referencia: [01_Espiral_Inversa.md](../../05_Apendices/Bestiario_Regional/01_Espiral_Inversa.md)*
@@ -29,7 +29,7 @@
 
 ## ❄️ **2. Glacialis (Ymir)**
 
-**Nivel recomendado:** 5-7  
+**Nivel recomendado:** 4-7  
 **Lanzar:** 1d6 al viajar por glaciares o acercarse a la red de portales.
 
 *Bestiario de referencia: [03_Glacialis.md](../../05_Apendices/Bestiario_Regional/03_Glacialis.md)*

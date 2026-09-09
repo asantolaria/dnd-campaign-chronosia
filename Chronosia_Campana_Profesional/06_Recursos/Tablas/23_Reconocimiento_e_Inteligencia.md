@@ -33,9 +33,9 @@ Compara el **nivel recomendado** con el nivel del grupo para leer el riesgo:
 | **Dimensionalis** | Llanuras de la Compresión | 🌌 Dimensional | 9-10 | **Carcasa Dimensional** | Anclar el espacio (p. ej. *zona antimagia*) la deja sin teletransportes. |
 | **Vorthak** *(crítico)* | Mansión de la Sed Eterna | 🩸 Vida | 8-10 | frena el Reloj | Luz solar y daño radiante cortan su regeneración. |
 | **Yrindra** | Ciudad de Veldrisza | 🌌 Dimensional | 9-10 | **Carcasa Dimensional** | Mueve los hilos desde la sombra: corta a sus marionetas primero. |
-| **Ignis** *(crítico)* | ala dimensional profunda | 🌌 Dimensional | 9-10 | **abre las Llanuras/Veldrisza**; frena el Reloj | Devora espacio: lucha en espacios cerrados donde no pueda "tragarse" el terreno. |
+| **Ignis** *(crítico)* | Calderas Dimensionales | 🌌 Dimensional | 8-10 | **abre las Llanuras/Veldrisza**; frena el Reloj | Devora espacio: lucha en espacios cerrados donde no pueda "tragarse" el terreno. |
 | **Edward Teach** *(crítico)* | Archipiélago de Barbanegra | ⚓ Usurpador | 7-9 *(crece)* | el Talismán + **la entrada de la Torre**; frena el Reloj *(la media llave la dan los Oceánicos por alianza, no Teach)* | **Cuanto antes, mejor**: cada lugarteniente que absorbe lo sube de CR. |
-| **Aethernus** *(BBEG)* | Torre de la Eternidad | ☀️🌑 Ambos | 8-10 *(fin de partida)* | el clímax | Solo es vulnerable con la **llave chroniana** completa (Anacronistas + Oceánicos). |
+| **Aethernus** *(BBEG)* | Torre de la Eternidad | ☀️🌑 Ambos | 10 *(clímax)* | el clímax | Solo es vulnerable con la **llave chroniana** completa (Anacronistas + Oceánicos). |
 
 > **Para el DM:** estos "rumores de punto débil" son **inteligencia in-world** — pueden ser incompletos o estar deformados por la fuente. Dáselos como pistas, no como hojas de trucos. La ficha del statblock manda.
 

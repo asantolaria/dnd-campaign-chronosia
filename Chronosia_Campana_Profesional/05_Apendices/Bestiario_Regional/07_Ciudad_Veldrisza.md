@@ -15,7 +15,7 @@ Veldrisza no es solo una caverna: es una herida en la roca por la que se filtra 
 Sacerdotisa drow caída en desgracia ante la Matrona, Zress'ynara fue *bendecida* por Lolth con la maldición de la transformación: medio drow, medio araña, una **drider** que ya no distingue dónde acaba la caverna y dónde empieza Menzoberranzan. Custodia los nudos de telaraña dimensional como una carcelera devota, y cobra peaje en sangre o en almas. Gancho: ofrece a los PJ una ruta segura por el Underdark... a cambio de entregarle a uno de los refugiados que protegen.
 
 **Statblock** (compacto):
-- ***Zress'ynara, la Tejedora de Umbrales*** — *Mediana monstruosidad (drider), neutral maligno* · **CR** 7 (2.900 XP)
+- ***Zress'ynara, la Tejedora de Umbrales*** — *Gran monstruosidad (drider), neutral maligno* · **CR** 7 (2.900 XP)
 - **CA** 19 (armadura natural) · **PG** 123 (13d10+52) · **Vel.** 30 pies, trepar 30 pies (puede moverse por techos y telarañas dimensionales sin gasto)
 - **DES** +5, **SAB** +4 · **CD de conjuro** 16 (lanzadora innata: *oscuridad*, *telaraña*, *paso brumoso* a voluntad) · **Visión en la oscuridad** 120 pies, percepción telaraña (siente cualquier criatura en contacto con una red en 120 pies)
 - **Rasgos:** *Telaraña umbral* — Las redes que teje son anclas dimensionales; una criatura apresada por su *telaraña* puede ser arrastrada (acción) hacia un punto a 1.000 pies en el Underdark (TS Carisma CD 16 niega). *Caminante de dos mundos* — Es inmune a quedar restringida por terreno de telaraña y tiene ventaja contra ser desterrada.

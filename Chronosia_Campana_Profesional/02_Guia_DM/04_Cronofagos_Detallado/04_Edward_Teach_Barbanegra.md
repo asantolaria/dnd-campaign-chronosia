@@ -12,7 +12,7 @@
 - **Tipo:** Dimensional (Poder de Voidar) + Temporal Robado (de Thyra)
 - **Rol:** Principal/Independiente/Híbrido
 - **Región:** Archipiélago de Barbanegra
-- **Nivel Recomendado:** 8-9
+- **Nivel Recomendado:** 7-9 (como su región; a nivel 7, evitar es estrategia)
 - **Bando:** Independiente
 - **Estado de Acceso:** 🔒 El Archipiélago se abre con el **Motor de Viento Perpetuo** (Rotor Infinito: **un Núcleo Temporal + una Carcasa Dimensional, de cualquier lugarteniente de cada tipo** — Mapa de Puertas, Cap. 1); el mar está en calma muerta hasta entonces
 - **⚠️ Nota Especial:** Es un punto ciego para Varrak del Horizonte

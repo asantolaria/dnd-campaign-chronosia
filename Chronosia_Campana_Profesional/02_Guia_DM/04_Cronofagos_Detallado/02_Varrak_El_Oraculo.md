@@ -28,9 +28,21 @@ Varrak ha vivido millones de vidas a la vez: anciano y niño simultáneamente. P
 Varrak es un orco muy anciano, con la sabiduría de mil vidas grabada en cada arruga de su rostro. Su cuerpo, aunque fragmentado temporalmente, muestra la elegancia de un monje maestro que ha perfeccionado el arte del combate durante siglos. Viste túnicas simples de estilo oriental, con colores terrosos que se mezclan con el paisaje salvaje de su región. Sus movimientos son fluidos y despreocupados, como los de un mono borracho que baila entre los árboles - aparentemente caóticos, pero perfectamente calculados. Sus ojos brillan con la luz de múltiples futuros posibles, y cuando se mueve, parece que ya sabe exactamente dónde estará cada gota de lluvia antes de que caiga.
 
 ### **🌏 La Región: Zona Salvaje Oriental**
-Varrak habita en una región salvaje de estilo oriental, que evoca los paisajes de Tailandia y China. Montañas cubiertas de bambú, templos antiguos medio derruidos, cascadas que caen entre rocas musgosas, y senderos serpenteantes que se pierden en la niebla matutina. Los animales de la región son normales, salvo los osos: aquí habitan osos gigantes pero pandas, criaturas majestuosas de pelaje blanco y negro que se mueven con gracia entre los bosques de bambú. Estos pandas gigantes son guardianes naturales de la región, y Varrak ha aprendido a coexistir con ellos en armonía.
+Varrak habita en una región salvaje de estilo oriental, que evoca los paisajes de Tailandia y China. Montañas cubiertas de bambú, templos antiguos medio derruidos, cascadas que caen entre rocas musgosas, y senderos serpenteantes que se pierden en la niebla matutina. Los animales de la región son normales — salvo los osos: aquí son **pandas gigantes**, guardianes tranquilos de los bosques de bambú con los que Varrak coexiste en silencio. (Sí, pandas. El Abismo muestra futuros posibles: estos vinieron de uno amable, y Varrak no tuvo corazón para devolverlos.)
 
 > 💀 **Efecto al Morir:** ver sección [Efecto al Morir](#-efecto-al-morir) más abajo.
+
+---
+
+## 🗣️ **VOZ** *(líneas citables — la única ficha que no la tenía)*
+
+**Cómo suena:** habla despacio y **en pasado de cosas que aún no han ocurrido** ("cuando dijisteis eso — lo diréis en un momento —…"). Nunca pregunta: confirma. Su calma no es serenidad — es el cansancio de quien ya vivió esta conversación mil veces.
+
+- **Presentación** *(al detener el combate, Cap. 8)*: "Bajad las armas. Ya luchamos, en trescientos futuros. En doscientos ochenta moristeis. En diecinueve me matasteis. Solo en uno… hablamos. Elijamos ese."
+- **Al entregar el Cristal Profético**: "No es un regalo. Es una carta que ya leísteis y aún no sabéis leer. Dádsela al gnomo cuando el mundo se rompa — sabréis cuándo, porque yo lo supe."
+- **Si le preguntan por su bando**: "¿Bando? He visto ganar a todos. Perder es lo único que hacen igual."
+- **La despedida del beat 3** *(antes de la Traición)*: "La próxima vez que me veáis, no me saludéis. Estaré contando. No me hagáis perder la cuenta."
+
 
 ---
 
@@ -270,20 +282,9 @@ Varrak muere, pero su sacrificio no es en vano. Su poder temporal se ha transfer
 
 Si Varrak es aliado de los PJ, este será un momento emocionalmente devastador pero necesario. Varrak explicará que ha visto este futuro y que es la única forma de evitar la catástrofe cósmica.
 
-**Diálogo Sugerido:**
-```
-VARRAK:
-"He visto millones de futuros, y en todos donde el Reloj llega a este punto... 
-Chronosia se destruye. Pero hay un futuro donde yo me sacrifico, donde estabilizo 
-el flujo del Reloj con mi muerte. Es el único futuro donde vosotros tenéis una oportunidad 
-real de detener a Aethernus."
+**Si los PJ intentan detenerlo** *(el diálogo del ritual ya está arriba — no lo repitas)*:
+> **Varrak:** "No podéis detenerme. He visto este momento miles de veces. Si no lo hago ahora, todos moriremos. Al menos así… al menos así vosotros tenéis una oportunidad."
 
-[Si los PJ intentan detenerlo]
-
-VARRAK:
-"No podéis detenerme. He visto este momento miles de veces. Si no lo hago ahora, 
-todos moriremos. Al menos así... al menos así vosotros tenéis una oportunidad."
-```
 
 ### **Consecuencias:**
 

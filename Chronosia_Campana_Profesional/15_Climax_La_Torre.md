@@ -196,7 +196,7 @@ No actúan de otra forma —están exhaustos tras ochocientos años— y **no ga
 - ***Multiataque:*** una *Espada de Poder Divino* (+11, 2d10+5 cortante + 3d6 temporal/espacial; CD 18 CON o envejece 1d6 años / teleport 30 pies) + una *Descarga Divina* (conjuro; +11, 120 pies, 2d10+5 temporal/espacial).
 - ***Manipulación Temporal (3/día):*** radio 60 pies, CD 18 SAB o *lentitud* (enemigos) / *celeridad* (aliados).
 
-**🟡 Fase 2 — El Cónclave Encarnado (130 PG).** Pierde la regeneración; gana los poderes de los **lugartenientes que sigan vivos** (tacha los caídos).
+**🟡 Fase 2 — Los Conductos Encarnados (130 PG).** Pierde la regeneración; gana los poderes de los **lugartenientes que sigan vivos** (tacha los caídos).
 - ***Multiataque:*** tres ataques: un golpe de arma a una mano (Espada o *Bastón de Mando*: +11, 2d6+5 cont. + 3d6 mágico, CD 18 SAB o encantado 1 turno) + dos *Descarga Divina* (mano libre para conjurar).
 - ***Llamada a Lugartenientes (1/combate):*** hasta 2 lugartenientes vivos aparecen y luchan por él.
 - ***Extracción de Poder (rec. 5-6):*** enemigo a 30 pies, CD 18 CON o desventaja al ataque; Aethernus cura 25 PG.

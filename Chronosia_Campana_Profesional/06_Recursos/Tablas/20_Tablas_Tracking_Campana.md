@@ -29,7 +29,7 @@
 
 ```
 [▓][▓][░][░][░][░][░][░]   ← empieza en 2/8
- 0  1  2  3  4  5  6  7  8 → LLAMADA DE LOS DIOSES
+ 0  1  2  3  4  5  6  7  8 → LA ASCENSIÓN SE CONSUMA (Final D — derrota)
 ```
 
 ### **⏳ Tracking por Sesión**
@@ -53,13 +53,13 @@
 |----------------|-----------|
 | ⬆️ **+1** | Explorar una región a fondo (≈+1 por arco resuelto) |
 | ⬆️ **+1 / salto** | Hito de Teach (el asesinato de Thyra da un **salto**) · desatender a Teach (caza y absorbe otro lugarteniente → crece) |
-| ⏸️ **Se estanca** | Derrotar a un lugarteniente **CRÍTICO** (Vorthak, Ignis o Teach → corta un canal divino): el siguiente avance no cuenta |
+| ⏸️ **Se estanca 2** | Derrotar a un lugarteniente **CRÍTICO** (Vorthak, Ignis o Teach → corta un canal divino): los **2 siguientes avances** no cuentan (Cap. 1) |
 | ⏸️ **Congela 1** | Misión de sabotaje de los Anacronistas |
 | ⬇️ **−1** | Sacrificio de Varrak (con el reloj en zona crítica ≥6/8) |
 | 💀 **8/8** | La ascensión se consuma → **Final D** (la Torre NO se abre con el Reloj) |
 
 ### **🔎 El "hipo" del Contador:**
-Toda muerte de lugarteniente corta un canal divino y el Contador lo acusa con un parpadeo/retroceso de medio segmento. Si **no** la causaron los PJ, los Anacronistas detectan la anomalía → los PJ investigan. Si la región **sigue rota** (no se restaura) = Teach interceptó el poder. Es la forma principal de destapar la caza de lugartenientes de Barbanegra.
+Toda muerte de lugarteniente corta un canal divino y el Contador lo acusa con un **parpadeo y un estancamiento momentáneo** (el Reloj nunca retrocede — la única excepción es el sacrificio de Varrak). Si **no** la causaron los PJ, los Anacronistas detectan la anomalía → los PJ investigan. Si la región **sigue rota** (no se restaura) = Teach interceptó el poder. Es la forma principal de destapar la caza de lugartenientes de Barbanegra.
 
 ### **🔮 ACCIÓN ESPECIAL: SACRIFICIO DE VARRAK**
 
@@ -166,7 +166,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **Medusa**        | Dimensional           | ✅ Activo   | —                    | El Jardín de los Tiempos Gemelos |                        |
 | **Tempus**        | Temporal              | ✅ Activo   | —                    | Las Ruinas del Tiempo Perdido |                          |
 | **Ymir**          | Dimensional           | ✅ Activo   | —                    | Glacialis                 |                               |
-| **Aethernus Valcarys (Manshoon)** | BBEG | ✅ Recluido → ⚔️ Clímax | —                    | Torre de la Eternidad     | Ejecutando el ritual; el clímax es el asalto a la Torre cuando el Reloj llega a 8/8 |
+| **Aethernus Valcarys (Manshoon)** | BBEG | ✅ Recluido → ⚔️ Clímax | —                    | Torre de la Eternidad     | Ejecutando el ritual; el asalto llega **cuando los PJ reúnen la llave y la entrada** (a 8/8 ya es tarde: Final D) |
 
 ### **📝 Estados:**
 - **✅ Activo:** Lugarteniente está vivo y activo
@@ -204,7 +204,7 @@ Cada lugarteniente porta un **anillo de poder** (canalizador de Aethernus) y, en
 | **Ignis** | Dimensional | Activo / Muerto | Sí / No | — | | Lugarteniente CRÍTICO |
 | **Yrindra** | Dimensional | Activo / Muerto | Sí / No | — | | |
 | **Medusa** | Dimensional | Activo / Muerto | Sí / No | — | | |
-| **Edward Teach** | Dimensional | Activo / Muerto | Sí / No | Talismán de Interceptación (Cronómetro + Perla) | | Lugarteniente CRÍTICO; recupera Cronómetro y Perla |
+| **Edward Teach** | Híbrido (poder robado) | Activo / Muerto | Sí / No | Talismán de Interceptación (Cronómetro + Perla) | | Lugarteniente CRÍTICO; recupera Cronómetro y Perla |
 
 > Detalle de cada objeto: [21_Objetos_Magicos_Reliquias.md](./21_Objetos_Magicos_Reliquias.md).
 

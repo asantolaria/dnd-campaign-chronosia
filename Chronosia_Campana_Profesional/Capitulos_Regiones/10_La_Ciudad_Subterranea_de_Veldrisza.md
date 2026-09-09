@@ -158,7 +158,7 @@ Un castillo drow colgado de las telarañas en lo más alto de la sima, conectado
 - ***Acciones legendarias (3/ronda):*** *Red de Telaraña* (1), *Portal a Menzoberranzan* (1), *Dimensión de Pesadilla* (2), *Red Masiva* (2), *Dimensión Colectiva* (3), *Red Cósmica* (3).
 
 ### Zress'ynara, la Tejedora de Umbrales — villana menor
-*Mediana monstruosidad (drider), neutral maligno* · **CR 7** (2.900 XP)
+*Gran monstruosidad (drider), neutral maligno* · **CR 7** (2.900 XP)
 
 ![Zress'ynara, la Tejedora de Umbrales](../assets/bestiario/villanos_menores/07_zressynara-tejedora-de-umbrales.jpg)
 

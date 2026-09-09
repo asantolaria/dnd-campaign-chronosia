@@ -2,7 +2,7 @@
 
 ![Mapa de Las Calderas Dimensionales](../../assets/mapas/10_calderas-dimensionales.png)
 
-## Lugarteniente: Ignis el Devorador Espacial · Tipo: Dimensional · Nivel PJ: 9-10
+## Lugarteniente: Ignis el Devorador Espacial · Tipo: Dimensional · Nivel PJ: 8-10
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

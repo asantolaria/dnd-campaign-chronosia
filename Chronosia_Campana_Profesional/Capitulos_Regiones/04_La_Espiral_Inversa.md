@@ -59,6 +59,8 @@ Si los PJ preguntan por qué los Anacronistas no actúan, Vell baja la voz y sue
 
 ### 2 · La Aldea del Bucle
 
+> **🕳️ Detalle ambiental (siémbralo de pasada):** en toda la aldea **no queda un solo espejo entero** — ni un cristal de ventana pulido, ni un cubo de agua sin remover. Los Retrocedentes los rompen en cada patrulla, por decreto y sin explicación ("al Amo no le gustan los reflejos"). Los aldeanos lo dan por una manía más del ocupante. No lo es. *(Primera semilla de la herida del clon — repítela en cualquier territorio cronófago; ver la [ficha de Aethernus](../02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md).)*
+
 Pueblo en círculos concéntricos en torno a una plaza, espejo del propio reloj.
 
 > *Leído al entrar:* "En la plaza, un carro cargado de grano vuelca de golpe; una rueda atrapa a un niño y la madre grita un alarido que os hiela la sangre. Y entonces —entre un parpadeo y el siguiente— el grano vuelve al carro, la rueda gira hacia atrás, el niño se incorpora riendo y la madre sonríe como si nada. Nadie a vuestro alrededor ha pestañeado."*

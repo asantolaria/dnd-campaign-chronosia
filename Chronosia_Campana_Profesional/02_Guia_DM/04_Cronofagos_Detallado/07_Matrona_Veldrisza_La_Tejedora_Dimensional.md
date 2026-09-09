@@ -12,7 +12,7 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Principal
 - **Región:** La Ciudad Subterránea de Veldrisza
-- **Nivel Recomendado:** 8-9
+- **Nivel Recomendado:** 9-10 (como su región)
 - **Bando:** Dimensional (Bajo Ignis)
 - **Estado de Acceso:** 🔒 Bloqueada (requiere Edward Teach, Artefacto Gnomo o Varrak)
 
@@ -44,7 +44,7 @@ Una drow anciana de aspecto regio con vestiduras de seda negra que brillan con p
 
 ## ⚔️ **STATBLOCK COMPLETO**
 
-### **MATRONA VELDRISZA "LA TEJEDORA DIMENSIONAL"**
+### **MATRONA YRINDRA "LA TEJEDORA DIMENSIONAL"**
 *Humanoide Mediano (Drow), Legal Malvado*
 
 ---
@@ -215,6 +215,10 @@ Yrindra puede invocar el ritual **Zin-Carla**, un ritual drow de resurrección q
 ---
 
 ## 🎣 **GANCHOS NARRATIVOS**
+
+### **🕷️ Lo que teme y lo que quiere (solo DM — la que faltaba)**
+Yrindra fue **matrona caída** en Menzoberranzan: perdió el favor de Lolth y la Casa entera en una sola noche de cuchillos, y cruzó un umbral con lo puesto. Chronosia es su tela de repuesto — un dominio donde ella vuelve a ser reina — pero no su ambición final: **quiere que Lolth vuelva a mirarla**, y volver a Menzoberranzan con algo que ninguna matrona ha ofrecido jamás. Su terror tiene forma concreta: **si Aethernus asciende, cierra todos los umbrales** — y ella queda coronada para siempre en un sótano muerto, cortada de su diosa. Por eso, y no por oro, **vende la entrada de la Torre** (a Teach, a los PJ, a quien pueda usarla): necesita que *alguien* pare la ascensión **sin que su firma aparezca en el intento**. Cada hilo que mueve —los Bregan, el Zin-Carla, la Traición que deja arder— es una apuesta con las manos limpias.
+**En mesa:** los PJ nunca negocian con una mercader; negocian con una exiliada que juega a dos barajas contra su propio amo. Quien lo entienda (Perspicacia CD 17, o inteligencia de los refugiados de Aeryndra) tiene la única palanca real: *"ayúdanos y nadie sabrá nunca que ayudaste"*.
 
 ### **🎯 Gancho Principal: Manipuladora Maestra (Gancho Indirecto)**
 Yrindra tiene un gancho narrativo **indirecto pero crucial** a través de su control sobre los Bregan Daerthe y su participación en la trama de Serapis.

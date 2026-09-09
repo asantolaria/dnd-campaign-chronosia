@@ -8,7 +8,7 @@
 
 Chronosia es un **sandbox con cuenta atrás**. Los jugadores eligen libremente qué regiones explorar y a qué villanos enfrentar, **pero el ritual de ascensión de Aethernus avanza mientras tanto**. No da tiempo a todo: hay que **escoger**, y cada elección deja secretos sin descubrir. Eso obliga a priorizar, da peso a las decisiones y hace la campaña **rejugable**.
 
-- **Nivel:** 3 → 10. **Duración:** ~14-15 sesiones.
+- **Nivel:** 3 → 10. **Duración:** ~13-15 sesiones.
 - **Forma:** railroad breve de apertura → **sandbox con Reloj** (el grueso) → **clímax guiado** en la Torre.
 - **Cinco fases:**
 
@@ -91,14 +91,14 @@ RELOJ DEL RITUAL — Ascensión de Aethernus
 | Hacéis una **travesía larga** (un viaje que es un arco: cruzar el mar muerto, bajar al ala profunda) |
 | Pasa una **temporada de inactividad** en Cronópolis — **una semana o más** de descanso, proyecto o investigación larga (los descansos largos normales entre misiones NO cuentan) |
 
-De 2 a 8 hay **~6 hitos**, y el **SALTO de Thyra consume 2 de golpe** (Cap. 14) → sin frenar nada caben **~4 regiones**; cada crítico cortado devuelve 2 respiros, hasta las **~5-6 regiones** típicas en ~14-15 sesiones. Que dejen zonas sin ver **es el punto**, no un fallo.
+De 2 a 8 hay **~6 hitos**, y el **SALTO de Thyra consume 2 de golpe** (Cap. 14) → sin frenar nada caben **~4 regiones**; cada crítico cortado devuelve 2 respiros, hasta las **~5-6 regiones** típicas en ~13-15 sesiones. Que dejen zonas sin ver **es el punto**, no un fallo.
 
 **Estancar (ganar tiempo, nunca rebobinar):**
 
 | Frena el ritual |
 |---|
 | **Cortar un crítico** (Teach · Ignis · Vorthak) → corta un canal divino: el ritual **se estanca 2 hitos** (los próximos 2 no suben) |
-| **Misión de sabotaje** de los Anacronistas → estanca **1 hito** |
+| **Misión de sabotaje** (de los Anacronistas **o** de La Resistencia — Marcus) → estanca **1 hito** |
 | **El sacrificio de Varrak** → **−1 segmento** (lo ÚNICO que hace retroceder el Reloj) |
 
 Cortar críticos **compra tiempo** para reunir la llave y prepararse; el doom nunca se deshace, solo se contiene. Frase para la mesa: *"Cada trozo grande de tiempo os cuesta un segmento; tenéis unos seis. Cada crítico que cortéis os regala un par de respiros."*
@@ -134,7 +134,7 @@ Así, **cuatro regiones están abiertas desde el inicio** (Espiral, Glacialis, J
 El mar que rodea el Archipiélago está en **calma muerta**: ningún barco avanza. Para cruzarlo, los Anacronistas montan el **Motor de Viento**, que necesita el **Rotor Infinito**. Y el Rotor se ensambla con **dos piezas que sueltan los lugartenientes al caer** —una de cada tipo de conducto divino—:
 
 - **Núcleo Temporal** — el corazón de un **conducto de Amaunator (Tiempo)**. Lo deja **cualquier lugarteniente temporal**: **Serapis** (Espiral, entrada abierta), **Tempus** (Ruinas)… y hay una vía **sin sangre**: **Varrak aliado** (Abismo, entrada abierta) puede **destilar un Núcleo de su propia esencia** para quien se gane su confianza — la recompensa del camino diplomático.
-- **Carcasa Dimensional** — la coraza de un **conducto de Voidar (Espacio)**. La deja **cualquier lugarteniente dimensional**: **Ymir** (Glacialis, entrada abierta), **Medusa** o **las Gemelas** (Jardín, entrada abierta), **Dimensionalis**, **Yrindra**, **Ignis**…
+- **Carcasa Dimensional** — la coraza de un **conducto de Voidar (Espacio)**. La deja **cualquier lugarteniente dimensional**: **Ymir** (Glacialis, entrada abierta), **Medusa** o **las Gemelas** (Jardín, entrada abierta), **Dimensionalis**, **Yrindra**, **Ignis**… Y también aquí hay vía **sin sangre**: **el pacto con Ymir** (ver su ficha) — el glaciar entrega una placa de su propio pecho.
 
 Combina **uno de cada tipo** y tienes el Rotor. **Serapis e Ymir son los más accesibles** (regiones de entrada), pero **no obligatorios**: el grupo elige a quién cazar. La puerta premia derrotar lugartenientes, sin forzar dos en concreto.
 

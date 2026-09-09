@@ -154,12 +154,14 @@ Una torre de vigía que el espacio ha plegado sobre sí misma: parece baja desde
 
 ## Reparto de la región (referencia de combate)
 
+> **🕳️ La semilla del Amo** *(suéltala si el trato se alarga o si los PJ compran información sobre Aethernus)*: hay UNA pregunta que Dimensionalis no vende — la suya. *"El Eterno me paga bien. No por informes: me paga por **no encontrar** una respuesta. ¿Cuál de mis versiones es la original? Cada vez que me acerco, llega oro con la condición de dejar de buscar. Preguntaos qué clase de hombre paga por que una pregunta así siga sin respuesta."* No sabe por qué; el DM sí. *(Segunda semilla de la herida del clon: ver la [ficha de Aethernus](../02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md).)*
+
 ### Dimensionalis la Fracturada — lugarteniente *(prefiere vender; huye al perder)*
 *Humanoide mediano (tiefling), caótico neutral* · **CR 9** (5.000 XP)
 
 ![Dimensionalis la Fracturada](../assets/bestiario/lugartenientes/05_dimensionalis-la-fracturada.jpg)
 
-**CA** 17 (superposición dimensional) · **PG** 190 (20d10+80) · **Vel.** 30 pies, teletransporte 60 pies (acción bonus) · DES +4, CON +4, INT +3, SAB +3, CAR +2 · Salv. DES +8, INT +7, SAB +7 · Resist. fuego/espacial/psíquico · Inmune a *confundido* dimensional y a efectos que alteran el espacio · P. pasiva 17 · Visión en la oscuridad 120 pies
+**CA** 17 (superposición dimensional) · **PG** 170 (20d8+80) · **Vel.** 30 pies, teletransporte 60 pies (acción bonus) · DES +4, CON +4, INT +3, SAB +3, CAR +2 · Salv. DES +8, INT +7, SAB +7 · Resist. fuego/espacial/psíquico · Inmune a *confundido* dimensional y a efectos que alteran el espacio · P. pasiva 17 · Visión en la oscuridad 120 pies
 - ***Fragmentación de Realidad.*** Al recibir daño tira 1d6; con 5-6 afecta a una "versión dimensional" y se reduce a la mitad. ***Superposición Dimensional (bonus):*** +2 CA y +2 a todas las tiradas 1 turno.
 - ***Inmunidad Dimensional.*** Inmune a *puerta dimensional* y a compresión/expansión espacial. ***Laberinto Dimensional:*** los enemigos en su laberinto tienen desventaja en navegación y percepción.
 - ***Resistencia Legendaria (1/día).***
@@ -172,7 +174,7 @@ Una torre de vigía que el espacio ha plegado sobre sí misma: parece baja desde
 
 ![Karkesh el Cartógrafo de Cenizas](../assets/bestiario/villanos_menores/06_karkesh-cartografo-de-cenizas.jpg)
 
-**CA** 16 (tinta endurecida) · **PG** 95 (13d8+39) · **Vel.** 30 pies · **INT** 18 (CD de conjuro 15, +7 al ataque mágico) · Resist. fuego · Visión en la oscuridad 60 pies · P. pasiva 13
+**CA** 16 (tinta endurecida) · **PG** 97 (13d8+39) · **Vel.** 30 pies · **INT** 18 (CD de conjuro 15, +7 al ataque mágico) · Resist. fuego · Visión en la oscuridad 60 pies · P. pasiva 13
 - ***Geometría Reescrita (reacción).*** Al ser objetivo de un ataque a distancia, intercambia posición con un aliado/criatura a 30 pies; el atacante tira de nuevo contra el sustituto.
 - ***Atlas Comprimido.*** Mientras sostiene su mapa, todo terreno difícil a 60 pies es normal para él y enemigos (pliega distancias a voluntad).
 - ***Multiataque:*** dos *Punzones de Tinta* (+7, 120 pies, 3d6+4 perforante + 2d6 fuego).
