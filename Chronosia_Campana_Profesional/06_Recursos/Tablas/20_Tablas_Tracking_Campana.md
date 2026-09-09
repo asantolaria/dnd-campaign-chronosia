@@ -181,7 +181,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 |------------|-----------|-------------------|------------|-----------|-----------|
 | Fase 1 | | Thyra | ⚰️ Muerta | Asesinada por Teach (hito fijo) | Poder robado |
 | Fase 3 | | Varrak | Cambio de bando | Decisión de PJ | |
-| Fase 3 | | Las Gemelas | Cambio de bando | Según bando ganador | |
+| Fase 3 | | Las Gemelas | Su decisión | Según el trato de los PJ (pacto→aliadas para la Torre; agravio→responden a la Llamada) | |
 | X | | Varrak | ⚰️ Muerto (Sacrificio) | Aliado + reloj ≥6/8 | 🔮 **Sacrificio voluntario: revive a Marcus y retrocede el Reloj −1** |
 
 ---

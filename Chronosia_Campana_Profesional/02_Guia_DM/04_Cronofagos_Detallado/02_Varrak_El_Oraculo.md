@@ -92,7 +92,7 @@ Si Varrak falla una tirada de salvación, puede elegir tener éxito en su lugar.
 Varrak puede acceder a conocimientos de vidas pasadas. Una vez por combate, puede ganar +3 a todas las tiradas por 1 turno completo.
 
 **Punto Ciego: Edward Teach.**  
-Varrak NO puede predecir las acciones de Edward Teach debido al poder robado de Thyra. No tiene ventaja contra Teach y no puede usar predicción contra él.
+Varrak NO puede predecir las acciones de Edward Teach: el pirata lleva **décadas** portando un **Cristal Estabilizador** oceánico (de sus veinte años de trato con Abysara — ver su ficha: el rasgo se pierde si el cristal se rompe), y la estabilización lo borra de los futuros. Varrak no tiene ventaja contra Teach ni puede usar predicción contra él. *(Por eso el agujero existe desde ANTES del asesinato de Thyra — el poder robado solo lo hizo más profundo.)*
 
 **Fragmentación Temporal.**  
 Varrak existe en múltiples momentos temporales simultáneamente. Cuando recibe daño, tira 1d6. Con un 5-6, el daño afecta a un "clon temporal" y se reduce a la mitad.
@@ -325,7 +325,7 @@ Varrak es **neutral** y puede aliarse con los PJ si:
 Varrak debe elegir bando. Los PJ determinan el resultado:
 - **Aliado Reticente:** Si le dan esperanza → Se une a los PJ
 - **Servidor Fiel:** Si lo traicionan/desilusionan → Se une a Vorthak
-- **Mártir Quebrado:** Si lo destruyen → Se sacrifica, los PJ reciben poder épico
+- **Mártir Quebrado:** si los PJ lo tratan como enemigo hasta el final, muere como cualquier conducto — sin pieza, sin milagro: el sacrificio voluntario (arriba) exige la alianza que no construyeron
 
 ### **💀 Sacrificio Heroico:**
 Si el **Reloj del Ritual entra en zona crítica (≥6/8)** y Varrak es aliado, puede **sacrificarse voluntariamente** para retroceder el Reloj y darles a los PJ una última oportunidad. Ver su arco completo en el [Motor de Campaña](../../01_Como_Dirigir.md).

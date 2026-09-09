@@ -175,6 +175,7 @@ La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un 
 
 **CA** 18 (cuero mágico + DES + escudo) · **PG** 225 (30d8+90) · **Vel.** 30 pies, nadar 30 pies · FUE +3, DES +4, CON +3, INT +2, SAB +2, CAR +4 · Salv. DES +9, CON +8, CAR +9 · Resist. temporal/espacial/necrótico · Inmune a paralización por efectos temporales y a predicción/divinación · P. pasiva 17
 - ***Punto Ciego para Varrak / Inmunidad a Predicción.*** Ventaja contra todo efecto de predicción y divinación; inmune a que se prevean sus acciones. *(Se pierde si se rompe el Cristal Estabilizador.)*
+- **⏱️ ¿Y si el grupo llega ANTES del Hito 3?** Entonces Teach tiene los componentes (Cronómetro + Perla + cristales) pero **no el Talismán forjado**: usa su versión base **sin** el *Poder Robado de Thyra* (sin legendarias temporales) — sigue siendo CR 11 por su tripulación y su terreno, y su prioridad es HUIR con los componentes, no ganar.
 - ***Poder Robado de Thyra.*** Acceso a acciones legendarias temporales además de las dimensionales.
 - ***Comandante Pirata.*** Le acompañan **6 piratas élite** (CR 2); puede ordenarles actuar como reacción.
 - ***Resistencia Legendaria (1/día).***

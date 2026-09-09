@@ -104,7 +104,7 @@ Yrindra puede lanzar los siguientes hechizos innatamente (CD de salvación 16):
 Yrindra realiza tres ataques: dos con *Daga de Telaraña* y uno con *Red Espacial*.
 
 **Daga de Telaraña.** *Ataque con Arma Cuerpo a Cuerpo:* +8 al ataque, alcance 5 pies, un objetivo.  
-*Impacto:* 8 (1d6 + 4) de daño perforante más 10 (3d6) de daño espacial.  
+*Impacto:* 7 (1d6 + 4) de daño perforante más 10 (3d6) de daño espacial.  
 El objetivo debe hacer salvación de Destreza CD 17 o queda **apresado** por hilos de red espacial (escapar: acción, Fuerza CD 17; los hilos se cortan con 10 de daño cortante). *(Apresado, no paralizado: que los jugadores sigan jugando.)*
 
 **Red Espacial.** *Ataque con Conjuro:* +8 al ataque, alcance 60 pies, un objetivo.  

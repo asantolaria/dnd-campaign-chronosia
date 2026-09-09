@@ -61,7 +61,7 @@ Cerografo fue el "magistrado del orden" de la ciudad-reloj: un constructo admini
 
 ## 👥 NPCs Locales
 
-- **Veturia la Cronista** — gnoma autómata (mente viva en cuerpo de relojería), archivista de las ruinas. Habla con tics y pausas como un reloj viejo; ha catalogado cada instante perdido de la ciudad. **Ofrece:** un mapa de los "instantes seguros" donde el tiempo aún fluye normal, a cambio de que los PJ recuperen su engranaje-corazón robado por un Coloso.
+- **Veturia la Cronista** — gnoma autómata (mente viva en cuerpo de relojería), archivista de las ruinas. Habla con tics y pausas como un reloj viejo; ha catalogado cada instante perdido de la ciudad. **Ofrece:** un mapa de los "instantes seguros" donde el tiempo aún fluye normal **y la apertura del Archivo** (el Índice Vivo la reconoce), a cambio de que los PJ recuperen su engranaje-corazón robado por un Coloso.
 - **El Errante de Bronce** — humano desincronizado, sobreviviente que entró en las ruinas hace "un minuto"... o hace cien años, no lo sabe. Envejece y rejuvenece a saltos. **Ofrece:** advertencias crípticas sobre Tempus y la ruta hasta Cerografo; teme que "arreglar" el reloj lo borre a él, atrapado entre tiempos.
 - **Maestra Quintilla** — enana ingeniera mercenaria que acampa en el borde de las ruinas vendiendo herramientas y aceite cronal. Pragmática y mordaz. **Ofrece:** kits para desactivar guardianes sin combate y comprar engranajes intactos a buen precio (dadora de misiones de "recadero mecánico").
 

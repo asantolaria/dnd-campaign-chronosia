@@ -227,13 +227,10 @@ Teach puede combinar sus poderes piratas originales con los robados de Thyra:
 - **Dimensionalis la Fracturada** → Poderes de fractura dimensional
 - **Aethernus Valcarys (Manshoon)** → Poderes de control absoluto
 
-#### **🚫 Lugartenientes que NO puede haber robado:**
-- **Serapis el Retroceso** → Poderes de tiempo invertido
-- **Lord Vorthak "El Sediento Eterno"** → Poderes de drenaje temporal
-- **Medusa la Eterna** → Poderes de petrificación temporal
-- **Ignis el Devorador Espacial** → Poderes de portales de fuego
-- **Matrona Yrindra** → Poderes de redes espaciales
-- **Las Gemelas del Espejo** → Poderes de dimensión espejo
+#### **🚫 A quién NO puede robar (regla vigente — Cap. 14):**
+- **A los que matan los PJ**: si el grupo derrota a un lugarteniente, su canal se corta limpio (restauración) y **no queda nada que interceptar** — cada caza del grupo es un poder MENOS para el Usurpador.
+- **A Aethernus directamente**: el Talismán intercepta el goteo de los conductos, no la fuente — para la fuente necesita el ritual del Final B.
+- Todo lo demás es coto de caza: **cualquier lugarteniente que caiga fuera del alcance de los PJ puede haberlo absorbido Teach** (el "hipo" del Contador lo delata). La tabla de poderes robados del Usurpador (abajo) se llena con lo que TU mesa le dejó cazar.
 
 #### **🎭 Mecánica Narrativa:**
 - **Flexibilidad del DM**: El DM puede elegir a quién le robó el poder según la narrativa

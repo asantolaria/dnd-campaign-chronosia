@@ -49,17 +49,19 @@ CONTEXTOS_OK = (
 
 # Fósiles prohibidos: (regex, excepción-si-la-línea-contiene, mensaje)
 FOSILES = [
-    (r"C[oó]nclave", ("retirad", "no existe", "pre-", "sustituye", "como sistema"), "'Cónclave' es sistema retirado"),
-    (r"Lugartenientes? Supremos?", ("retirad", "no existe", "no hay", "ni lugartenientes"), "'Supremos' es sistema retirado"),
-    (r"8/8[^.\n]{0,60}(asalto|se abre|abre la Torre)", ("Final D", "derrota", "NO se abre", "no se abre", "ya es tarde", "nunca"), "8/8 nunca abre la Torre (8/8 = Final D)"),
+    (r"conclave", ("retirad", "no existe", "pre-", "sustituye", "como sistema"), "'Cónclave' es sistema retirado"),
+    (r"lugartenientes? supremos?", ("retirad", "no existe", "no hay", "ni lugartenientes"), "'Supremos' es sistema retirado"),
+    (r"8/8[^.\n]{0,60}(asalto|se abre|abre la torre)", ("Final D", "derrota", "NO se abre", "no se abre", "ya es tarde", "nunca"), "8/8 nunca abre la Torre (8/8 = Final D)"),
     (r"asalt[oa][^.\n]{0,50}8/8", ("Final D", "derrota", "ya es tarde", "nunca", "NO"), "el asalto no se dispara por el Reloj"),
     (r"balance (temporal|de poder)[ /-]", ("retirad", "ya no"), "'balance temporal/dimensional' es sistema retirado"),
-    (r"Matrona Veldrisza", ("archivo", "\\.md", "se llama"), "la matrona es YRINDRA (Veldrisza es la ciudad)"),
+    (r"matrona veldrisza", ("archivo", "\\.md", "se llama"), "la matrona es YRINDRA (Veldrisza es la ciudad)"),
     (r"derrotar \d\+? ?lugartenientes", (), "gating por nº de lugartenientes: retirado (Mapa de Puertas)"),
-    (r"retroced\w+ (de )?medio segmento", (), "el Reloj nunca retrocede (salvo Varrak, −1)"),
-    (r"la misma noche[^.\n]{0,60}(Perla|piezas)", ("exager", "falso"), "Perla (Hito 1, Abysara) y Cronómetro (Hito 2, Cronópolis) no cayeron juntos"),
-    (r"Santuario Suspendido", (), "lugar inexistente (fósil de la Carta/dossier)"),
+    (r"retroce\w+ (de )?medio segmento", (), "el Reloj nunca retrocede (salvo Varrak, −1)"),
+    (r"la misma noche[^.\n]{0,60}(perla|piezas)", ("exager", "falso"), "Perla (Hito 1, Abysara) y Cronómetro (Hito 2, Cronópolis) no cayeron juntos"),
+    (r"santuario suspendido", (), "lugar inexistente (fósil de la Carta/dossier)"),
     (r"ocup[éo] (el hueco|su lugar)", (), "nadie fue suplantado: Kaoros es agente doble, Serapis opera a distancia"),
+    (r"bando (\w+ )?esta ganando|segun (el )?bando ganador", ("no hay", "no segun", "no existe"), "no hay sistema de 'bando ganador' (Cap. 1)"),
+    (r"recuento que abre", (), "las puertas se abren con piezas, no con recuentos de lugartenientes"),
 ]
 
 # Invariantes del Reloj: si una línea habla del efecto de matar a un crítico, debe decir 2.
@@ -134,9 +136,9 @@ def main():
                         continue
                     warn(rel, i, f"{nombre} etiquetado '{t}' (canon: {d['tipo']})", linea)
 
-            # 2 · Fósiles
+            # 2 · Fósiles (sobre texto normalizado: sin negritas ni acentos)
             for rx, exc, msg in FOSILES:
-                if re.search(rx, linea, re.I) and not any(norm(e) in lnorm for e in exc):
+                if re.search(rx, lnorm, re.I) and not any(norm(e) in lnorm for e in exc):
                     warn(rel, i, f"FÓSIL: {msg}", linea)
 
             # 3 · Crítico estanca 2

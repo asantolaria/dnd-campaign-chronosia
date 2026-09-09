@@ -169,11 +169,11 @@ El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de 
 - **Desventajas**: Lealtad cuestionable, pueden traicionar en cualquier momento, métodos poco éticos
 - **Cuándo Aliarse**: Cuando necesiten información sobre Manshoon, cuando busquen recursos de Faerûn, cuando quieran infiltrar otras facciones
 - **🤝 Afinidad Especial**: Tienen mucha afinidad con la Matrona Yrindra debido a sus conexiones con Menzoberranzan y la cultura drow
-- **⚠️ ADVERTENCIA**: Su verdadera lealtad es con Manshoon, pero Jarlaxle puede ser convencido de cambiar de bando
+- **⚠️ ADVERTENCIA — la doble cadena (es diseño, no errata)**: la casa madre de Jarlaxle sirve a **Manshoon** (el cliente original, en Faerûn); el destacamento de Chronosia cobra de **Yrindra** (el contrato local — su ficha). Dos amos que no saben cuánto sabe el otro: Jarlaxle vive en esa grieta, y puede ser convencido de venderlos a ambos
 - **📖 Documento completo:** [04_Bregan_Daerthe.md](./04_Bregan_Daerthe.md)
 
 ### **Con los Oceánicos de las Profundidades**
-- **Ventajas**: 10 Guerreros Oceánicos CR 8, acceso a Abysara como base submarina, Bendiciones del Vacío, Cristales de Estabilización (únicos en Abysara), conocimiento antiguo sobre los Chronianos
+- **Ventajas**: una escolta de **Guerreros Oceánicos (CR 3)** con el **Comandante Kael (CR 5)** al frente (Cap. 11), acceso a Abysara como base submarina, Bendiciones del Vacío, Cristales de Estabilización (únicos en Abysara), conocimiento antiguo sobre los Chronianos
 - **Desventajas**: Aislamiento inicial, desconfianza hacia los de la superficie, acceso difícil (requiere magia o ayuda de los Oceánicos)
 - **Cuándo Aliarse**: Después del robo de la Perla, cuando se opongan a Edward Teach, cuando necesiten recursos submarinos o protección contra distorsiones
 - **🤝 Afinidad Especial**: Conexión ancestral con los Anacronistas (ambos eran los Chronianos), relación compleja pero respetuosa

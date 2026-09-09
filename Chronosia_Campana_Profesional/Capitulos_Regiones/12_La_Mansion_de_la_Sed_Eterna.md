@@ -2,7 +2,7 @@
 
 ![Mapa de La Mansión de la Sed Eterna](../assets/mapas/09_mansion-de-la-sed-eterna.png)
 
-> **Región temporal** · **Lugarteniente:** Lord Vorthak "el Sediento Eterno" · **Nivel:** 8-10 · **Puerta:** región de alto nivel (8-10) · **Recompensa:** el **espejo de la verdad final** — comprender qué es drenar una vida sin freno — y un umbral velado al Shadowfell.
+> **Región de la Sed (Vida — Vorthak no canaliza a ningún dios)** · **Lugarteniente:** Lord Vorthak "el Sediento Eterno" · **Nivel:** 8-10 · **Puerta:** región de alto nivel (8-10) · **Recompensa:** el **espejo de la verdad final** — comprender qué es drenar una vida sin freno — y un umbral velado al Shadowfell.
 
 La Mansión de la Sed Eterna se alza tras una niebla que no obedece al viento. Es una casa señorial de torres puntiagudas y vidrieras altas, hermosa de lejos y enferma de cerca: sus relojes adelantan, sus espejos envejecen el rostro que reflejan, y las rosas de sus jardines se marchitan en el tallo sin haber florecido. Aquí no se roba la sangre primero: se roban los **años**. Los huéspedes que cruzan la verja encanecen en una sola noche, y al amanecer son ancianos que apenas recuerdan haber sido jóvenes. Pero la Mansión es más que la guarida de un vampiro. Es **una puerta**. La bruma que la abraza no nació en Chronosia: se **filtra del Shadowfell**, y al otro lado de esa gasa gris aguarda un valle del que pocos vuelven, gobernado por un señor mucho más antiguo y mucho más paciente que Vorthak. Todo lo que el grupo haga aquí puede ser el umbral de una segunda y más oscura historia.
 
@@ -105,6 +105,8 @@ Un panteón de mármol tras una verja coronada de calaveras, donde duermen los V
 
 ### 6 · La Mansión *(guarida de Lord Vorthak)*
 
+> **⚠️ Semáforo de dificultad:** el asalto completo (Vorthak CR 12 + 2d4 Esclavos + Gorath de reserva) ronda **×2,3-2,8 Deadly a nivel 8** — la misma liga que los combates con ⚠️ de otras regiones, y aquí el puzle no es opcional: **es la diferencia entre 5 rondas y un TPK lento**. Señales: Maelis lo dice ("no entréis sin saber a quién matar primero") y el Observatorio lo enseña. Válvulas: Gorath fuera de la mesa ANTES (social/bodega), 3 estantes de la Bodega = 3 secuaces menos, o volver a nivel 9-10, donde es un clímax duro y justo.
+
 ![Battlemap — planta noble de la Mansión](../assets/mapas/battlemap-mansion-sed-eterna.jpg)
 
 El interior de la casa señorial: un comedor de mesa interminable puesta para una cena eterna, escaleras que envejecen bajo los pies, espejos que muestran a quien pasa diez años más viejo. En la cripta-salón principal aguarda el Sediento Eterno, rodeado de su corte de drenados.
@@ -122,7 +124,7 @@ El interior de la casa señorial: un comedor de mesa interminable puesta para un
 - **Biblioteca y capilla profanada:** los diarios de la casa (la historia de Vorthak, pista de la debilidad si no la sacaron del Observatorio) y el altar donde ya no se reza — la niebla del este se cuela por su vitral roto: es el rincón donde el Shadowfell respira más cerca.
 
 - **Aproximación:** la corte de **Esclavos de Sangre** (vivos, drenados, que se interponen sin instinto de supervivencia) y **Ghouls Cronófagos** defienden el salón. Liberar a los Esclavos de su dominio es una victoria moral además de táctica.
-- **El puzzle del combate (¡clave!):** Vorthak **no es un muro de PG, es un combate de prioridad de objetivos**. Mientras conserve un solo secuaz con **reserva temporal**, puede transferirle el golpe mortal (reacción, 1/ronda) y, si cae a 0 PG, **resucitar una vez** consumiendo a sus siervos para alzarse con 125 PG. La solución —telegrafiada en el Observatorio (zona 4) y por Maelis— es **matar primero a los secuaces**: sin reserva ni siervos en el momento de caer, Vorthak muere de verdad. *Premia al grupo que investigó.* Su **mayor reserva andante es Gorath** (ver villanos menores): quitárselo de la mesa *antes* del asalto — emborrachándolo, engañándolo o ganándoselo — es la jugada elegante.
+- **El puzzle del combate (¡clave!):** Vorthak **no es un muro de PG, es un combate de prioridad de objetivos**. Mientras conserve un solo secuaz con **reserva temporal**, puede transferirle el golpe mortal (reacción, 1/ronda) y, si cae a 0 PG, **resucitar una vez** consumiendo a sus siervos para alzarse con 123 PG. La solución —telegrafiada en el Observatorio (zona 4) y por Maelis— es **matar primero a los secuaces**: sin reserva ni siervos en el momento de caer, Vorthak muere de verdad. *Premia al grupo que investigó.* Su **mayor reserva andante es Gorath** (ver villanos menores): quitárselo de la mesa *antes* del asalto — emborrachándolo, engañándolo o ganándoselo — es la jugada elegante.
 - **Diálogo / el espejo:** si lo dejan hablar, Vorthak suelta la pieza más amarga — sin querer, revela el tema:
   > "¿Me juzgáis monstruo por beberme sus años? Decidme entonces qué nombre dais a lo que vive en la Torre, que ahora mismo le bebe el tiempo y el espacio a dos *dioses* atados, gota a gota, para hacerse uno. Yo solo robo décadas a mortales. *Él* roba la eternidad a la eternidad. Soy un aprendiz, gente. Si os horroriza lo que veis aquí — multiplicadlo por infinito, y tendréis lo que os espera al final del camino. Quizá por eso bebo: para no pensar en el día en que sea yo el plato."
   *(No es una oferta — es una confesión. Es el momento en que el horror cósmico se vuelve íntimo. Déjalo respirar.)*
@@ -139,14 +141,14 @@ El interior de la casa señorial: un comedor de mesa interminable puesta para un
 ![Lord Vorthak](../assets/bestiario/lugartenientes/03_lord-vorthak-el-sediento-eterno.jpg)
 
 **CA** 18 (placas + escudo) · **PG** 247 (33d8+99) · **Vel.** 30 pies, escalar 30 pies · FUE +5, DES +3, CON +3, INT +3, SAB +4, CAR +4 · Salv. DES +8, SAB +9, CAR +9 · Resist. necrótico y no mágico contundente/cortante/perforante · Inmune a encantado/agotamiento/envenenado/asustado · P. pasiva 19 · visión en la oscuridad 120 pies
-- ***Reservas Temporales.*** Rodeado de 2d4 secuaces; cada uno almacena hasta 30 PG de reserva.
+- ***Reservas Temporales.*** Rodeado de 2d4 secuaces (usa el *Esclavo de Sangre*, abajo); cada uno **empieza con 15 PG de reserva** (máx. 30) — el daño transferido quema primero la reserva y el exceso, sus PG.
 - ***Transferencia de Daño (1/ronda, reacción):*** desvía todo el daño de un ataque/efecto a un secuaz con reserva (el secuaz muere si excede su PG). Sin secuaces, no puede usarla.
 - ***Regeneración:*** 15 PG al inicio de cada turno (10 bajo luz solar directa) si tiene ≥1 PG.
 - ***Resistencia Legendaria (3/día).*** ***Forma de Niebla (2/día).***
 - ***Multiataque:*** dos *Espadas de la Sed* (+10, 2d8+5 cortante + 2d6 necrótico; cura la mitad del necrótico) + *Mordisco Temporal* (+10, solo contra agarrado/incapacitado/paralizado, 2d6+5 perf. + 3d6 necrótico; CD 17 CON o envejece 1d4 años).
 - ***Drenaje Temporal (rec. 5-6):*** un enemigo a 30 pies envejece 1d4 años; Vorthak cura 1d4 PG por año. ***Sed Insaciable (3/día):*** todos a 30 pies, CD 17 CON o envejecen 2d4 años; cura 2d4 PG por afectado. ***Drenaje de Secuaz (1/día):*** consume un secuaz, cura hasta 30 PG.
 - ***Acciones legendarias (3/ronda):*** *Drenaje Temporal* (1), *Reserva de Vida* (1), *Ataque de Espada* (1), *Sed Insaciable* (2), *Envejecimiento Acelerado* (2, CD 17 CON o 1d6 años/turno x3), *Drenaje de Secuaz* (3).
-- ***RESURRECCIÓN TEMPORAL (1/combate):*** si cae a 0 PG **y le queda un secuaz/reserva vivo**, los consume y se alza con 125 PG. **Sin secuaces al caer, muere definitivamente.** *(El puzzle: matar primero a los secuaces — pista en zona 4.)*
+- ***RESURRECCIÓN TEMPORAL (1/combate):*** si cae a 0 PG **y le queda un secuaz/reserva vivo**, los consume y se alza con 123 PG. **Sin secuaces al caer, muere definitivamente.** *(El puzzle: matar primero a los secuaces — pista en zona 4.)*
 
 ### Mayordomo Aurelius Crane — villano menor
 *No-muerto mediano (vampiro noble), legal maligno* · **CR 7** (2.900 XP) · CA 17 · PG 120 (16d8+48) · CD 14

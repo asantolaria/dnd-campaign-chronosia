@@ -149,7 +149,7 @@ Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de 
 Región: Archipiélago de Barbanegra (Chronosia), con distorsión ESPACIAL. Islas dispersas en un mar antinaturalmente en calma, con vórtices y remolinos dimensionales, restos de naufragios, un fuerte pirata y faros, todo bajo una niebla baja. Etiquetas en español opcionales (revisa la ortografía). Evita marcas de agua y estética de cómic.
 ```
 
-### 9 · La Mansión de la Sed Eterna *(Vorthak — temporal · nv 9 · → Barovia)*
+### 9 · La Mansión de la Sed Eterna *(Vorthak — Vida · nv 8-10 · → Barovia)*
 ```
 Mapa regional dibujado a mano para mesa de D&D, estilo cartografía clásica de manual de rol: pergamino envejecido, tinta sepia, relieve a plumilla, retícula sutil, una "zona segura" de entrada y 3-5 puntos de interés marcados con iconos. Vista cenital, tono horror cósmico + épica, proporción 4:3.
 Región: La Mansión de la Sed Eterna (Chronosia), con distorsión TEMPORAL (drenaje de vida). Finca gótica solitaria envuelta en niebla espesa, con jardines marchitos, criptas y verja de hierro; la niebla se espesa hacia un borde que lleva a otro lugar (presagio de Barovia / Shadowfell). MUY IMPORTANTE para el texto: en el MAPA marca los puntos SOLO con los números 1 a 6, y pon los nombres en una caja aparte cuyo encabezado sea la palabra «Leyenda» en español (no «Map Key» ni nada en inglés). Una SOLA caja de leyenda, no dos. Lista: 1) Entrada Principal (zona segura, la verja); 2) Jardines Marchitos; 3) Fuente de Lágrimas Heladas; 4) El Observatorio Roto; 5) Criptas Familiares; 6) La Mansión (el edificio gótico central). En el borde, sin número, rotula «Niebla Eterna — Hacia Otro Lugar». Etiquetas en español. Evita marcas de agua y estética de cómic.
@@ -258,7 +258,7 @@ Ilustración pintada digital, estilo de los manuales oficiales actuales de Dunge
 Sujeto: Varrak el Oráculo ANCIANO, orco muy viejo de piel verde-grisácea apergaminada, colmillos desgastados y la misma cicatriz vertical sobre la ceja izquierda; vestiduras de oráculo de motivos astrales. Rostro surcado por mil vidas, ojos que arden en dorado, cargado de futuros vistos. Energía temporal dorada. Medio cuerpo, proporción 3:4. (Mismo individuo que el niño y el adulto.)
 ```
 
-### ⏰ Lord Vorthak, el Sediento Eterno *(Temporal · Vampiro Ancestral — ápice)*
+### 🩸 Lord Vorthak, el Sediento Eterno *(Vida · Vampiro Ancestral — ápice)*
 ```
 Ilustración pintada digital, estilo de los manuales oficiales actuales de Dungeons & Dragons 5e (Player's Handbook / Monster Manual 2024): fantasía heroica semirrealista, pincelada pictórica, iluminación cinematográfica con luz volumétrica, color rico, alto detalle, fondo pictórico oscuro/atmosférico, calidad de lámina de sourcebook. Evita texto, logotipos, marcas de agua, cómic/anime y aspecto 3D plastificado.
 Sujeto: Lord Vorthak, vampiro ancestral de aspecto noble pero demacrado, piel cérea, ojos rojos de hambre insaciable, vestiduras señoriales oscuras. A sus pies, secuaces prematuramente envejecidos y débiles. Ambiente gótico con niebla. Energía temporal dorada con tinte sanguíneo. Presencia de jefe poderoso. Medio cuerpo, proporción 3:4.

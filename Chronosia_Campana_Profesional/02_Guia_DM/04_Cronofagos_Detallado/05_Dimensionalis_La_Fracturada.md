@@ -14,7 +14,7 @@
 - **Región:** Las Llanuras de la Compresión
 - **Nivel Recomendado:** 9-10 (como su región)
 - **Bando:** Independiente
-- **Estado de Acceso:** 🔒 Bloqueada (requiere Espejo de Realidad Fragmentada o derrotar a Ignis)
+- **Estado de Acceso:** 🔒 El ala profunda se abre **derrotando a Ignis** (Mapa de Puertas, Cap. 1)
 
 ---
 

@@ -61,6 +61,8 @@
 
 ## 🎯 CÓMO USAR ESTE DOSIER
 
+> **⚙️ Nota de matemática de jefes:** los bonos de ataque y las CD de los lugartenientes llevan **+1 a +2 por encima** de lo que sugerirían sus características — es el **vínculo con su conducto divino**, y es intencional: son monstruos calibrados por CR, no PNJ construidos con reglas de personaje. No los "corrijas" a la baja.
+
 - **Statblocks de combate** (AC, PV, atributos, acciones, **acciones legendarias**, tácticas, efecto al morir): en cada ficha individual. **Es la fuente actualizada; no la dupliques.**
 - **Acciones legendarias:** cada lugarteniente tiene un número FIJO por ronda definido en su ficha (estándar 5e: ápice 3/ronda, medios 2/ronda, menores 0-2). No hay escalado dinámico por nivel de PJ.
 - **Efecto al morir:** cuando un lugarteniente muere (por los PJ o por otro lugarteniente), su región se restaura: las distorsiones desaparecen gradualmente (1d4 horas). Detalle por región en cada ficha. **Excepción forense:** si fue **Teach** quien lo interceptó con el Talismán, el poder NO se dispersa y la región NO se restaura (ver "el hipo del Contador" en el [motor de campaña](../../01_Como_Dirigir.md)).

@@ -85,13 +85,13 @@ Vorthak fue convertido **la noche en que agonizaba de viejo**: un cuerpo de oche
 Vorthak está rodeado constantemente por 2d4 secuaces — usa el statblock de **Esclavo de Sangre** (CR 3, [Bestiario Regional 09](../../05_Apendices/Bestiario_Regional/09_Mansion_Sed_Eterna.md)). Puede almacenar "reservas temporales" de vida drenada en ellos: **cada secuaz empieza el combate con 15 PG de reserva** (Vorthak lleva décadas cebándolos) y puede almacenar hasta 30.
 
 **Transferencia de Daño (Protección Divina) (1/ronda).**  
-Una vez por ronda, como reacción cuando recibe daño, Vorthak puede transferir todo el daño de ese único ataque o efecto a un secuaz que tenga reserva temporal. El secuaz muere si el daño excede su HP máximo. Si no le quedan secuaces, no puede usar esta reacción.
+Una vez por ronda, como reacción cuando recibe daño, Vorthak puede transferir todo el daño de ese único ataque o efecto a un secuaz que tenga reserva temporal. **Orden de consumo:** el daño quema primero la **reserva** del secuaz (empieza con 15 PG de reserva; máx. 30) y el exceso pasa a sus **PG propios**; el secuaz muere si el total lo deja a 0. Sin secuaces con reserva, no hay reacción.
 
 **Resistencia Legendaria (3/día).**  
 Si Vorthak falla una tirada de salvación, puede elegir tener éxito en su lugar.
 
 **Regeneración.**  
-Vorthak recupera 15 HP al inicio de cada turno si tiene al menos 1 HP y no está expuesto a la luz solar directa.
+Vorthak recupera 15 HP al inicio de cada turno si tiene al menos 1 HP (**10 HP** si está expuesto a luz solar directa — ver *Resistencia a la Luz Solar*: la luz lo frena, no lo apaga).
 
 **Forma de Niebla (2/día).**  
 Como acción, Vorthak se transforma en una nube de niebla o vuelve a su forma normal. En forma de niebla, es resistente a todo daño excepto fuerza radiante, no puede tomar acciones, hablar o manipular objetos, y puede moverse a través de espacios de 1 pulgada sin apretarse.
@@ -148,7 +148,7 @@ Vorthak puede realizar 3 acciones legendarias por ronda, gastándolas al final d
 
 ### **Resurrección Temporal (1/combate, especial)**
 
-Si Vorthak es reducido a 0 HP **y le queda al menos un secuaz o reserva temporal vivo**, puede, una vez por combate, drenar de golpe toda su reserva: sus secuaces restantes mueren instantáneamente y Vorthak se levanta con **la mitad de sus HP máximos** (125 HP). Si no le quedan secuaces ni reservas temporales en el momento de caer, **no puede revivir** y muere definitivamente.
+Si Vorthak es reducido a 0 HP **y le queda al menos un secuaz o reserva temporal vivo**, puede, una vez por combate, drenar de golpe toda su reserva: sus secuaces restantes mueren instantáneamente y Vorthak se levanta con **la mitad de sus HP máximos** (123 HP). Si no le quedan secuaces ni reservas temporales en el momento de caer, **no puede revivir** y muere definitivamente.
 
 > **Nota de diseño (puzzle):** Vorthak es un combate de prioridad de objetivos, no un muro de HP. El grupo debe matar primero a sus secuaces para impedir que reviva. Mientras le quede un solo secuaz con reserva, levantarlo a 0 HP solo gasta su resurrección y lo deja sin red de seguridad.
 

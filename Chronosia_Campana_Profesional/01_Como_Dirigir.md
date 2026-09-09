@@ -15,7 +15,7 @@ Chronosia es un **sandbox con cuenta atrás**. Los jugadores eligen libremente q
 | Fase | Qué es | Nivel |
 |---|---|---|
 | **0 · Railroad inicial** | Gancho en Waterdeep → llegada a Cronópolis | 3-4 |
-| **1 · Robos y traición** | Edward Teach desata los catalizadores (Talismán, muerte de Thyra) | 4-5 |
+| **1 · Robos y traición** | Edward Teach empieza su escalada (hitos 1-2: la Perla y el Cronómetro); la forja y Thyra llegan en las fases 2-3, al ritmo del Reloj (Cap. 14) | 4-5 |
 | **2 · Sandbox inicial** | Exploración libre; el Reloj corre | 5-7 |
 | **3 · Sandbox avanzado** | Revelaciones, elecciones, "La Traición de Serapis" | 7-8 |
 | **4 · Clímax: la Torre** | Asalto, batalla final, uno de 4 finales | 8-10 |
@@ -111,7 +111,7 @@ Cada muerte de lugarteniente corta un canal y el Contador **parpadea y se estanc
 > **El vistazo a Teach.** Tarde o temprano, siguiendo un parpadeo, los PJ **pillan a Teach en plena cacería** (o justo después). Es un **roce claramente perdedor**: suelta su oferta y **se marcha porque tiene una presa que cazar** (*"Tengo un dios que atrapar; volved cuando hayáis crecido"*). No huye por guion — tiene agenda. Siembra su amenaza y las ganas de pararlo, sin arriesgar su muerte antes de tiempo.
 
 ### Cómo lo ven los jugadores (feedback en mesa)
-El Contador es un **aparato físico** en Cronópolis (lo montan los Anacronistas leyendo el Cristal). **Se enciende** en la Fase 1-2 mostrando ya 2/8. **Avanza:** un segmento se ilumina y los Anacronistas lo anuncian. **Se estanca:** al cortar un crítico, el segmento actual **se agrieta y se congela** a la vista, y los Anacronistas lo confirman (*"has cortado un canal — el ritual se ha atascado; has ganado tiempo"*). El avance y el estancamiento **siempre se comunican**.
+El Contador es un **aparato físico** en Cronópolis (lo montan **juntos** Anacronistas —la lectura del Cristal— y La Resistencia con los sensores de Din). **Se enciende** en la Fase 1-2 mostrando ya 2/8. **Avanza:** un segmento se ilumina y los Anacronistas lo anuncian. **Se estanca:** al cortar un crítico, el segmento actual **se agrieta y se congela** a la vista, y los Anacronistas lo confirman (*"has cortado un canal — el ritual se ha atascado; has ganado tiempo"*). El avance y el estancamiento **siempre se comunican**.
 
 ---
 
@@ -131,7 +131,7 @@ Cada región tiene una **razón in-world** para estar cerrada hasta conseguir ci
 Así, **cuatro regiones están abiertas desde el inicio** (Espiral, Glacialis, Jardín, Abismo): el sandbox arranca de verdad libre.
 
 ### El Motor de Viento (la puerta del Archipiélago)
-El mar que rodea el Archipiélago está en **calma muerta**: ningún barco avanza. Para cruzarlo, los Anacronistas montan el **Motor de Viento**, que necesita el **Rotor Infinito**. Y el Rotor se ensambla con **dos piezas que sueltan los lugartenientes al caer** —una de cada tipo de conducto divino—:
+El mar que rodea el Archipiélago está en **calma muerta**: ningún barco avanza. Para cruzarlo, los **Ingenieros de Cronópolis** (La Resistencia + Din, por encargo de los Anacronistas) montan el **Motor de Viento**, que necesita el **Rotor Infinito**. Y el Rotor se ensambla con **dos piezas que sueltan los lugartenientes al caer** —una de cada tipo de conducto divino—:
 
 - **Núcleo Temporal** — el corazón de un **conducto de Amaunator (Tiempo)**. Lo deja **cualquier lugarteniente temporal**: **Serapis** (Espiral, entrada abierta), **Tempus** (Ruinas)… y hay una vía **sin sangre**: **Varrak aliado** (Abismo, entrada abierta) puede **destilar un Núcleo de su propia esencia** para quien se gane su confianza — la recompensa del camino diplomático.
 - **Carcasa Dimensional** — la coraza de un **conducto de Voidar (Espacio)**. La deja **cualquier lugarteniente dimensional**: **Ymir** (Glacialis, entrada abierta), **Medusa** o **las Gemelas** (Jardín, entrada abierta), **Dimensionalis**, **Yrindra**, **Ignis**… Y también aquí hay vía **sin sangre**: **el pacto con Ymir** (ver su ficha) — el glaciar entrega una placa de su propio pecho.
@@ -184,7 +184,7 @@ Esto es cómo fluye una partida típica. Úsalo como hilo; el sandbox hará el r
 Los PJ investigan un asesinato en **Waterdeep** (el relojero Thaddeus, muerto por el Cronófago Kaelthas), derrotan a Kaelthas y los **Anacronistas** (liderados por Galen) los llevan a **Chronosia**. Se establecen en **Cronópolis** (Cap. 3). *Sin elecciones de peso: es el enganche.* Al final, **ven el Cronómetro de Realidades** (setup del robo futuro). **Texto dirigible completo** (escenas, pistas, statblock de Kaelthas y el cruce): [Fase 0 — El asesinato de Waterdeep](01_Introduccion/04_Fase_0_Waterdeep.md).
 
 ### Fase 1 — Robos y traición *(eventos fijos)*
-**Edward Teach** ejecuta su plan (detalle en Cap. 14): roba la Perla y el Cronómetro, forja el **Talismán** y **asesina a Thyra** (→ SALTO del Reloj). Estalla la **guerra espontánea** entre lugartenientes. Se construye el **Contador del Ritual**. Los PJ pueden investigar los robos y ser sospechosos.
+**Edward Teach** arranca su plan (detalle en Cap. 14): roba la Perla y el Cronómetro (hitos 1-2). La forja del **Talismán** y el **asesinato de Thyra** (→ SALTO) caen más tarde, cuando el Reloj los dispara (~4-5/8 y después). Estalla la **guerra espontánea** entre lugartenientes. Se construye el **Contador del Ritual**. Los PJ pueden investigar los robos y ser sospechosos.
 
 ### Fase 2 — Sandbox inicial *(libertad total)*
 Empieza el bucle de juego:
@@ -210,7 +210,7 @@ Cuando los PJ reúnen la **llave chroniana** y conocen la entrada, **asaltan la 
 Pase lo que pase, estos hitos suceden (los PJ cambian el *cómo* y el *desenlace*, no el *si*):
 
 - **Fase 0:** asesinato de Thaddeus en Waterdeep; derrota de Kaelthas; llegada a Cronópolis.
-- **Fase 1:** robo de la Perla y del Cronómetro; **creación del Talismán**; **muerte de Thyra**; guerra espontánea.
+- **Fase 1:** robo de la Perla y del Cronómetro (hitos 1-2). *(La forja del Talismán, la muerte de Thyra y la guerra espontánea pertenecen a las fases 2-3 — el Reloj manda.)*
 - **Fase 4:** el **enfrentamiento final** en la Torre (lo provocan los PJ al estar listos —llave chroniana + entrada conocida—, o el **Reloj a 8** precipita el **Final D**). El desenlace NO es fijo: ver los 4 finales.
 
 > **Sensación in-world, no "el DM dice no":** Thyra muere porque su valle es **inaccesible** salvo para Teach con el Talismán; el Talismán se forja porque Teach tiene medios que los PJ no. Preséntalo como **lógica del mundo**, no como un muro.

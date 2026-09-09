@@ -5,7 +5,7 @@
 > (Llanuras de la Marchitez, Vacío Fracturado, Laberinto de Dimensiones, Torre de la
 > Inversión, etc.) y 12 lugartenientes. Usa en su lugar **[Prompts_Arte_Chronosia.md](./Prompts_Arte_Chronosia.md)**
 > (mapa general + 10 regiones + retratos + restyle de criaturas, optimizado para Gemini)
-> y el mapa ya rotulado **[mapa_general_chronosia.svg](./mapa_general_chronosia.svg)**.
+> y el mapa ya rotulado **[el mapa general ya generado](./web/mapas/00_mapa-general-chronosia.jpg)**.
 
 ---
 

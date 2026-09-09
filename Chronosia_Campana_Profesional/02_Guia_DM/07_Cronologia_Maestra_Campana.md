@@ -78,12 +78,12 @@ El Reloj manda; las sesiones son solo una previsión de ritmo para ~13-15 sesion
 | Lugarteniente | Aspecto | Región (capítulo) | Al caer entrega | Además revela / desbloquea |
 |---|---|---|---|---|
 | **Kaelthas** | — | Waterdeep (Fase 0) | Reloj de bolsillo destrozado, mapa parcial, diario | Existencia de los Cronófagos; el rastro a Chronosia |
-| **Serapis** | Temporal | La Espiral Inversa (Cap. 4) | **Núcleo Temporal** (= Arena del Tiempo) | Los lugartenientes **canalizan** a un dios cautivo |
+| **Serapis** | Temporal | La Espiral Inversa (Cap. 4) | **Núcleo Temporal** y **Arena del Tiempo** (dos cristalizaciones hermanas de la misma esencia — Cap. 4) | Los lugartenientes **canalizan** a un dios cautivo |
 | **Las Gemelas** | Dimensional | El Jardín de los Tiempos Gemelos (Cap. 5) | Carcasa Dimensional · objetos de espejo | Origen de las gemelas; posible alianza en vez de combate |
 | **Medusa** | Dimensional *(su "estasis" fija coordenadas — Voidar con disfraz)* | El Jardín de los Tiempos Gemelos (Cap. 5) | Carcasa Dimensional · objetos de estasis | Secretos del Jardín; la Estatua Velada |
 | **Ymir** | Dimensional | Glacialis (Cap. 6) | **Carcasa Dimensional** | Red de umbrales; reclutamiento interplanar |
 | **Tempus** | Temporal | Las Ruinas del Tiempo Perdido (Cap. 7) | Núcleo Temporal · tecnología chroniana | El mundo anterior a la fractura *(región pide una Arena del Tiempo)* |
-| **Varrak** | Temporal | El Abismo de los Posibles (Cap. 8) | *(alianza: puede **destilar un Núcleo Temporal** sin morir; derrotado, lo suelta)* | Reclusión de Aethernus; **Teach es su punto ciego** |
+| **Varrak** | Temporal | El Abismo de los Posibles (Cap. 8) | *(alianza: puede **destilar un Núcleo Temporal** sin morir; **derrotado NO suelta pieza** — el oráculo se dispersa en futuros, no en cristal: Cap. 1)* | Reclusión de Aethernus; **Teach es su punto ciego** |
 | **Dimensionalis** | Dimensional | Las Llanuras de la Compresión (Cap. 9) | Carcasa Dimensional | Secretos que vendía como mercader de información |
 | **Yrindra** | Dimensional | La Ciudad de Veldrisza (Cap. 10) | Carcasa Dimensional | **La entrada de la Torre** (vía alternativa a Teach); conexión con Menzoberranzan |
 | **Edward Teach** ⚠️ crítico | Híbrido (poder robado) | El Archipiélago de Barbanegra (Cap. 11) | El Talismán y lo absorbido | **La entrada de la Torre**; su derrota **estanca el Reloj 2 hitos** |

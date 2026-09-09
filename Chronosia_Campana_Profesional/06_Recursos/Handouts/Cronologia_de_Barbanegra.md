@@ -55,14 +55,14 @@
 ### `[ ]` FRAGMENTO 5 — *Las manos detrás*
 **Se revela:** cuando el grupo conecta a Teach con la trama mayor del ritual.
 
-> Teach no actúa en el vacío. El asesinato de Thyra y el avance del **Contador del Ritual** marchan al mismo paso. Alguien drena a los dioses para **una ascensión**, y el Talismán de Teach es la llave que abre las gargantas divinas. La pregunta deja de ser "¿quién robó la Perla?" y pasa a ser **"¿quién se beneficia de un dios muerto?"**.
+> Teach no actúa en el vacío. El asesinato de Thyra y el **Contador del Ritual** marchan al mismo paso — pero al revés de lo que parece: cada vez que Teach caza, el Contador **tose** (el hipo). Alguien drena a los dioses para **una ascensión**… y el Talismán de Teach es una **sangría en la tubería**: lo que un conducto muerto debía devolver al ritual, el pirata lo **intercepta** y se lo queda. No sirve al de la torre. Le está **robando el caudal**.
 
 ---
 
 ### `[ ]` FRAGMENTO 6 — *El propósito*
 **Se revela:** clímax de la investigación / antesala del enfrentamiento.
 
-> El plan completo, por fin legible: el robo fue el primer paso de un esquema para **desarmar a los dioses uno a uno** y entregar lo drenado al ritual de ascensión. Teach es el ladrón y el verdugo; el Talismán, su cuchillo. Lo que viene después de la octava campana no es un robo. Es una coronación. *(El DM conoce el nombre que falta al pie de este informe.)*
+> El plan completo, por fin legible: el robo fue el primer paso de un esquema para **desarmar a los conductos uno a uno** y quedarse con lo drenado ANTES de que llegue al ritual. Teach es el ladrón y el verdugo; el Talismán, su sifón. No quiere servir a la ascensión: quiere **llegar primero al trono** con lo robado a cuestas. Lo único que este dossier no puede darle a la Resistencia es el nombre del que espera en la torre — el que, si Teach falla, se lo beberá todo.
 
 ---
 

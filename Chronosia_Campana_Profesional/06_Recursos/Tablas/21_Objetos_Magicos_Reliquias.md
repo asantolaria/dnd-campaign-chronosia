@@ -59,6 +59,8 @@ Recompensas pequeñas y mayormente fungibles. El grupo debe **notar** que la mag
 - **Aún NO:** artefactos, anillos de lugarteniente, reliquias divinas ni piezas del Rotor.
 
 ### Nivel 5-7 — Primeras piezas de trama mid
+
+> **⚔️ La primera arma mágica del grupo** no depende del azar: el **encargo +1** de Din/Balthar existe desde la Fase 1 (500 po + 1 semana; la primera la subvenciona la facción aliada a 250 po — Cap. 3), y la **Maestra Ferrucha** (Calderas, Cap. 13) templa un arma con fuego planar. Está puesto a propósito: la banda 8-10 concentra resistencias al daño no mágico, y ningún marcial debería llegar allí con acero mudo.
 Aparecen las recompensas de trama de gama media, ligadas a derrotar lugartenientes y a las primeras alianzas.
 - **Botín de lugartenientes (componentes de artefacto):** **Núcleo Temporal** (de Serapis, parte del Rotor Infinito) y **Carcasa Dimensional** (de Ymir, su coraza helada) — se obtienen aquí pero el Rotor completo se ensambla más tarde.
 - **Arena del Tiempo Estabilizada:** botín de derrotar a Serapis; aquí cumple sobre todo función de **llave/desbloqueo** (acceso a Las Ruinas del Tiempo Perdido).
@@ -300,7 +302,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 
 **Efectos Visuales:**
 - Los segmentos se encienden de uno en uno conforme el ritual avanza
-- Cuando cae un lugarteniente, el Contador acusa un **"hipo"** (parpadeo / retroceso de medio segmento)
+- Cuando cae un lugarteniente, el Contador acusa un **"hipo"** (parpadeo y estancamiento momentáneo — el Reloj nunca retrocede)
 - Los fragmentos de aionita pulsan en sintonía con el pulso del tiempo
 - En zona crítica (≥6/8), el artefacto emite una luz roja de advertencia
 
@@ -318,7 +320,7 @@ Un reloj circular de 2 pies de diámetro con múltiples esferas superpuestas (co
 - **8/8:** **la ascensión se consuma** — derrota (Final D); la Torre solo se abre con la llave chroniana
 
 **El "hipo" del Contador (Pasivo):**
-- Toda muerte de lugarteniente corta un canal de poder divino y el Contador lo acusa con un parpadeo / retroceso de medio segmento
+- Toda muerte de lugarteniente corta un canal de poder divino y el Contador lo acusa con un parpadeo y un estancamiento momentáneo (nunca retrocede)
 - Si la caída **no** la provocaron los PJ, los Anacronistas la señalan como anomalía a investigar (firma de que Teach caza lugartenientes)
 
 **Ancla Temporal (Pasivo):**
@@ -928,7 +930,9 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 ---
 
-### **⚔️ Objetos de Lugartenientes** *(botín-firma: cae con su dueño)*
+### **⚔️ Objetos de Lugartenientes**
+
+*(Botín-firma: cae con su dueño.)*
 
 > Además de su **anillo de poder** (arriba), cada lugarteniente suelta una pieza personal. Nivel recomendado: el de su región. Formato compacto:
 
@@ -1082,7 +1086,7 @@ Cuando los Anacronistas y La Resistencia construyen el Contador del Ritual, Din 
 
 **Propiedades:**
 - **Lectura del Reloj:** Muestra el segmento actual del Reloj del Ritual (X/8) y su tendencia
-- **Detección de Fluctuaciones:** Acusa el "hipo del Contador" cuando cae un lugarteniente (parpadeo / retroceso de medio segmento); si la caída no la provocaron los PJ, lo señala como anomalía a investigar
+- **Detección de Fluctuaciones:** Acusa el "hipo del Contador" cuando cae un lugarteniente (parpadeo y estancamiento momentáneo — nunca retrocede); si la caída no la provocaron los PJ, lo señala como anomalía a investigar
 - **Alertas de Estado:** Avisa cuando el Reloj entra en zona crítica (≥6/8) y cuando se acerca a 8/8 (ascensión inminente — Final D)
 - **Visualización:** Muestra los 8 segmentos de forma legible para la ciudad (luces, agujas o símbolos)
 - **Uso:** Requiere una acción para consultar el detalle en el dispositivo principal; el monitor público es visible con solo acercarse

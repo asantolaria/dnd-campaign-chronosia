@@ -82,10 +82,10 @@ No se sabe realmente si eran dos personas originalmente o si una surgió de la d
 Las Gemelas tienen acceso a una dimensión espejo que existe al otro lado de cualquier superficie reflectante. Pueden intercambiar posiciones instantáneamente a través de esta dimensión.
 
 **Intercambio de Posición.**  
-Como acción de bonificación, Lyra y Nyx pueden intercambiar posiciones instantáneamente a través de la dimensión espejo. No provoca ataques de oportunidad.
+Como acción de bonificación, Lyra y Nyx pueden intercambiar posiciones instantáneamente a través de la dimensión espejo. No provoca ataques de oportunidad. **Y aquí está el juego:** solo la gemela *original* puede iniciar el **Refugio Espejo** — identificar cuál es tras un intercambio (Sabiduría (Perspicacia) CD 16, o CD 12 con un espejo en la mano) permite **enfocarla y negarles el próximo Refugio**. Saber cuál es cuál importa.
 
 **Refugio Espejo.**  
-Como acción, ambas gemelas pueden refugiarse en la dimensión espejo, volviéndose inmunes a ataques por 1 turno. Mientras están en el refugio, no pueden atacar pero pueden observar.
+Como acción (que debe iniciar la gemela original — ver *Intercambio*), ambas se refugian en la dimensión espejo 1 turno: **inmunes a ataques**, pero **no a salvaciones ni áreas** (una *bola de fuego* las alcanza a medias: mitad de daño). No pueden atacar desde dentro. **Palancas de mesa** (las mismas del Cap. 5): al **alba** el refugio no funciona (los espejos amanecen ciegos 1 asalto), y **romper el estanque** (acción, CA 12, 25 PG) les corta los intercambios.
 
 **Clones de Enemigos.**  
 Las Gemelas pueden crear clones espejo de enemigos que luchan por ellas. Como máximo puede haber **1 clon activo a la vez**, dura un máximo de 3 turnos, y desaparece si las Gemelas son reducidas a la mitad de sus PV. El clon es una copia espejo debilitada: tiene la mitad de los PV del original y hace la mitad del daño.
@@ -211,11 +211,11 @@ Las Gemelas son **neutrales** y pueden aliarse con los PJ si:
 - Los PJ les ofrecen una visión del futuro mejor que la de Aethernus
 - Los PJ les ayudan a entender su propia naturaleza fragmentada
 
-### **⚔️ Decisión Crítica (Fase 3, Reloj en zona crítica):**
-Las Gemelas eligen bando según el estado de la campaña:
-- **Si Bando Dimensional está ganando:** Se unen a Ignis
-- **Si Bando Temporal está ganando:** Se unen a Vorthak
-- **Si hay empate:** Permanecen neutrales (por ahora)
+### **⚔️ Decisión (Fase 3 — según cómo las trataron los PJ, no según "bandos"):**
+No hay ningún sistema de "bando ganador" (Cap. 1): las Gemelas eligen **por su herida**, no por el marcador.
+- **Si los PJ pactaron** (les devolvieron o prometieron la **Estatua Velada** — ver la [ficha de Medusa](./10_Medusa_La_Eterna.md) — y les ofrecieron un futuro donde no haya que saber cuál nació primero): son **aliadas para la Torre** — la única invocación que la *Llamada* de Aethernus no puede usar contra el grupo.
+- **Si los PJ las ignoraron:** se repliegan a su estanque y no intervienen — ni por él ni por nadie.
+- **Si los PJ las agraviaron** (rompieron espejos a mansalva, mataron a Medusa delante de ellas sin palabra): responden a la Llamada de Aethernus en el clímax, y esa es su tragedia.
 
 ### **🎭 Naturaleza Única:**
 - Existen simultáneamente en múltiples realidades

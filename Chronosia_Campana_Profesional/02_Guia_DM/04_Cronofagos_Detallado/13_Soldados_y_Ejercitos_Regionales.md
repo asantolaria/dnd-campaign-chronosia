@@ -35,9 +35,9 @@ Estos lugartenientes tienen acceso directo a otros planos y traen criaturas de e
 El resto de los lugartenientes **entrenan y otorgan poderes** directamente a sus soldados. Cada lugarteniente infunde fragmentos de su poder temporal o dimensional en sus seguidores, creando soldados únicos con habilidades específicas de su región.
 
 **Lugartenientes que Crean Soldados:**
-- **Temporales**: Serapis, Varrak, Tempus, Vorthak (drena vida)
+- **Temporales**: Serapis, Varrak, Tempus
 - **Dimensionales**: Ymir, Medusa, Las Gemelas, Dimensionalis, Yrindra, Ignis
-- **Aparte**: Edward Teach (híbrido de poder robado; sus soldados mezclan estasis y portales)
+- **Aparte**: Edward Teach (híbrido de poder robado; sus soldados mezclan estasis y portales) y Lord Vorthak (drena vida — sus Drenados no canalizan a ningún dios)
 
 ---
 

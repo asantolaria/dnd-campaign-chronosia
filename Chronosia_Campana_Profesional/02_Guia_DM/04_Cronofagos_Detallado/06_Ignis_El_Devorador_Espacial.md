@@ -196,17 +196,17 @@ Ignis es **Caótico Malvado**, pero no un incendiario sin plan: es un **acreedor
 - **Atesora, no arrasa:** oro infernal, vasallaje y almas (la cuota que paga a Szarrak) — un dragón con balanza
 - **Impulsivo:** Actúa según sus caprichos, sin planificación a largo plazo
 - **Desprecio por el orden:** Rechaza cualquier estructura, jerarquía o regla
-- **Caos por el caos:** La destrucción y el caos son fines en sí mismos, no medios para otro objetivo
+- **El caos es el escaparate:** deja que el mundo lo lea como destrucción sin motivo — los deudores negocian peor cuando creen que tratas con un loco
 
 **Motivaciones:**
-- **Ninguna estrategia:** No tiene planes complejos ni objetivos a largo plazo
-- **Diversión destructiva:** Abre portales y trae demonios porque le divierte ver el caos que causan
+- **Una sola estrategia:** mantener las puertas abiertas y las cuentas al día (el trato con Avernus, arriba, es SU plan a largo plazo)
+- **Diversión con margen:** disfruta el fuego de verdad — pero nunca quema lo que aún puede cobrarse
 - **Poder por poder:** Aunque es líder del Bando Dimensional, no lidera por ambición - simplemente es el más poderoso y los demás lo siguen por miedo
 
 **Relación con Otros:**
 - **Yrindra:** La tolera porque es útil, pero no tiene lealtad real hacia ella
 - **Otros Lugartenientes:** Los ve como herramientas o juguetes para su diversión
-- **Aethernus:** No le importa el plan de Aethernus - solo sigue órdenes porque le permiten causar más caos
+- **Aethernus:** no le importa el plan del Amo — le importa que la ascensión **cerraría su negocio** (los dioses no pagan peajes): la palanca de negociación de los PJ
 
 ---
 
@@ -227,5 +227,5 @@ Ignis es **Caótico Malvado**, pero no un incendiario sin plan: es un **acreedor
 
 ---
 
-*Ignis representa el poder destructivo del fuego combinado con la manipulación del espacio, creando portales que traen devastación desde el Plano Elemental del Fuego y los Nueve Infiernos. Es la encarnación del caos puro - destructivo, impulsivo y sin propósito más allá de la destrucción misma.* 🔥
+*Ignis representa el poder destructivo del fuego combinado con la manipulación del espacio — y la avaricia con libro de cuentas: un dragón que convirtió el fin del mundo en un negocio de peajes, y que arderá antes que admitir que su socio infernal le da más miedo que su Amo.* 🔥
 

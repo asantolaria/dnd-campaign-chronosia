@@ -343,10 +343,9 @@ En iniciativa 20 (perdiendo empates), **la Torre misma** interviene — es el ri
 
 ## 💀 **EFECTO AL MORIR**
 
-Cuando Aethernus muere, **Chronosia comienza a restaurarse completamente a la normalidad**. El ritual de ascensión divina se interrumpe, liberando a los dioses Amaunator y Voidar, y todas las distorsiones temporales y dimensionales causadas por su poder y el de sus lugartenientes desaparecen gradualmente en un proceso que dura 1d6 días:
+Cuando Aethernus muere, **el ritual de ascensión se interrumpe** y Chronosia comienza a restaurarse en un proceso de 1d6 días. **El destino de los dioses NO depende de esta muerte, sino de la llave** (⚠️ la única vía — Cap. 15): **con la llave chroniana usada**, Amaunator y Voidar quedan libres y sanan; **sin ella, las cadenas no se sueltan** — los dioses se apagan lentamente y el final es agridulce (los epílogos del Cap. 15 mandan; esta ficha no libera dioses por su cuenta).
 
 - **El ritual de ascensión se interrumpe** - El poder divino acumulado se disipa suavemente sin explosiones
-- **Los dioses Amaunator y Voidar son liberados** - Recuperan su libertad y poder
 - **Todas las distorsiones temporales y dimensionales se estabilizan** - Chronosia vuelve a tener un flujo temporal y espacial normal
 - **Las regiones afectadas se restauran** - Todas las anomalías causadas por los lugartenientes desaparecen gradualmente
 - **El mundo recupera su estado natural** - Sin las distorsiones masivas que Aethernus había creado

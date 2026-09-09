@@ -120,7 +120,7 @@ Una torre baja y achaparrada en el centro del ala oeste, sin ventanas, solo tron
 - **Si la dejan hablar**, Medusa confiesa la pieza de la región sin pretenderlo:
   > "¿Creéis que detengo el tiempo? Pobres. Detengo el **lugar**. Os arranco de vuestro sitio en el mundo y os clavo aquí, donde nadie cambia de coordenada nunca más. Eso no me lo enseñó nadie: lo *bebo*. Hay algo más grande que yo, encadenado, que era el dueño de todas las distancias del mundo —el que ponía el espacio entre una estrella y otra—. Ahora gotea, y yo recojo las gotas. El de la arena bebe del sol. Yo bebo del **vacío**. Y los dos servimos al mismo carcelero, en su torre que no está en ningún sitio… porque a la torre le robó el sitio precisamente *Él*."
   *(Confirma el segundo dios y, de paso, que la Torre de Aethernus está "fuera del espacio" — siembra para Glacialis.)*
-- **Victoria:** la estasis cesa y el ala helada **llora durante un día entero**: un deshielo de goteo constante, con las estatuas-personas despertando una a una al ritmo del agua — cada despertar, una pequeña escena. Derrotar a Medusa **cuenta como "1 lugarteniente"** (igual que matar a las Gemelas: este jardín tiene *dos* lugartenientes, y abatir a cualquiera suma al recuento que abre otras puertas) y deja a las Gemelas, al otro lado, sabiéndose observadas. *(Recuerda el sabor de la Espiral: matar a un lugarteniente-conducto puede acelerar el Reloj del Ritual; Medusa "solo recoge".)*
+- **Victoria:** la estasis cesa y el ala helada **llora durante un día entero**: un deshielo de goteo constante, con las estatuas-personas despertando una a una al ritmo del agua — cada despertar, una pequeña escena. Derrotar a Medusa entrega su **Carcasa Dimensional** (el jardín tiene *dos* lugartenientes: cada uno suelta la suya — las puertas se abren con piezas, no con recuentos) y deja a las Gemelas, al otro lado, sabiéndose observadas. *(Recuerda el sabor de la Espiral: matar a un lugarteniente-conducto puede acelerar el Reloj del Ritual; Medusa "solo recoge".)*
 
 ---
 
@@ -169,7 +169,10 @@ Un templo griego en la colina más alta del ala este, sin dios conocido. Sus col
 **Encuentro:** **Reflejos Hostiles** salen de los espejos de pared en oleadas cortas; romper los espejos (CA 12, 10 PG) reduce el flujo. Aquí las Gemelas, desde el otro lado del cristal, **prueban a los PJ** sin atacar aún: les hablan a través de los reflejos.
 > *(Lyra y Nyx, en estéreo, una desde cada pared):* "Os hemos mirado cruzar el hielo. Matasteis a la serpiente. ¿Sois de los que rompen cosas… o de los que las arreglan? Decidlo bien. De vuestra respuesta depende si os recibimos como invitados o como reflejos."
 
-**Pista/secreto:** este es el punto donde los PJ pueden empezar a **negociar la alianza** (ver más abajo). Si convencen a las Gemelas de que ofrecen "un futuro mejor que el de Aethernus", el combate final puede convertirse en pacto.
+**Pista/secreto:** este es el punto donde los PJ pueden empezar a **negociar la alianza**. **El procedimiento** (no es una tirada: son tres pruebas, en el orden que surjan):
+  1. **Responder bien a su pregunta** ("¿rompéis o arregláis?") — sin tirada: cuenta lo hecho en la región (la Galería colaborativa, SelHe liberada, espejos intactos).
+  2. **La Estatua Velada** — su exigencia real, aunque les cueste nombrarla: que los PJ recuperen (o juren recuperar) a la mujer del velo del jardín de Medusa (ver la [ficha de Medusa](../02_Guia_DM/04_Cronofagos_Detallado/10_Medusa_La_Eterna.md): quién es, es el corazón del triángulo). Persuasión CD 13 si traen la promesa; automático si traen la estatua.
+  3. **El futuro mejor** — Persuasión o Perspicacia inversa CD 15: convencerlas de que en el mundo de los PJ nadie les preguntará cuál nació primero. Con las tres: **pacto** (aliadas para la Torre). Con dos: neutralidad amistosa. Con una o ninguna: el combate, y lo saben dirigir ellas.
 
 **Lleva a:** detrás del altar, una escalera baja al Estanque de Lágrimas, donde las Gemelas tienen su verdadero cuerpo. La escalera atraviesa la **Galería de Azogue** (zona 8b) — se puede cruzar a la carrera, o jugarla.
 
@@ -263,7 +266,7 @@ El estanque negro del ala este, de aguas tan quietas y oscuras que son un espejo
 ---
 
 ## Cómo encaja en la campaña
-- **Puerta:** **abierta desde el inicio** — región de entrada, pero **más dura** (nivel 5-8). Tiene **dos lugartenientes**: matar a Medusa **o** a las Gemelas cuenta como "1 lugarteniente" para el recuento que abre otras puertas (las Gemelas pueden quedar como pacto en vez de combate, en cuyo caso no suman). Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
+- **Puerta:** **abierta desde el inicio** — región de entrada, pero **más dura** (nivel 5-8). Tiene **dos lugartenientes**: cada uno suelta su **Carcasa Dimensional** al caer (las puertas se abren con piezas — Mapa de Puertas; las Gemelas pueden quedar como pacto en vez de combate, en cuyo caso no sueltan pieza… pero son aliadas para la Torre). Ver [Cómo dirigir Chronosia](../01_Como_Dirigir.md).
 - **Pieza de trama que se llevan:** existe un **segundo dios cautivo, Voidar (Espacio)**, reflejo y contrapeso de Amaunator (Tiempo). El plan de Aethernus drena a **dos** dioses, no a uno, y vive de enfrentarlos —de ahí que todo en Chronosia esté *partido en dos*—. Aquí se siembran también la **llave chroniana partida** ("reunir lo que él separó") y que la **Torre está fuera del espacio**.
 - **Aliadas:** las Gemelas son neutrales y pueden cambiar de bando; ganárselas (Templo/Estanque) las suma como aliadas en el clímax de la Torre. Matarlas cierra esa puerta.
 - **Lo que se pierden si la saltan:** sin esta región, captarán tarde —o nunca— que hay *dos* dioses y dos fuerzas (Tiempo/Espacio); les costará entender por qué unos lugartenientes doblan el espacio y otros el tiempo, y perderán a dos posibles aliadas para el final.

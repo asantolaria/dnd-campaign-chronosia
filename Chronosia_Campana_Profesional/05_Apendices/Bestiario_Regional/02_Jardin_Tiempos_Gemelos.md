@@ -66,6 +66,6 @@ Caelith fue el horticultor que cuidó el jardín antes de la distorsión. La est
 
 ## 🔗 Ganchos de la región
 
-- **El reflejo que sobrevive a su dueño:** el Reflejo Hostil de SelHe no morirá mientras ella viva; matarlo exige romper su espejo de origen, escondido en el ala del jardín que vigila Caelith. Liberar a uno expone al otro.
+- **El reflejo que sobrevive a su dueño:** el Reflejo Hostil de SelHe no morirá mientras ella viva; matarlo exige romper su espejo de origen, en el **Estanque Helado** del ala fría (zona 4 del Cap. 5 — donde poda el Jardinero Caelith). Liberar a uno expone al otro.
 - **La cosecha de Vondrel:** las "estatuas" que el enano vende son víctimas a medio petrificar de Caelith. Si los PJ investigan su mercancía, descubren a un aliado perdido entre ellas — y la pista de que el Jardinero rinde cuentas directamente a Medusa la Eterna.
 - **Cuando dejas de mirar:** los PJ aprenden por las malas que las Estatuas Acechantes solo avanzan fuera de su campo visual. El Hermano Quill, inmóvil y observador eterno, puede "sostener la mirada" sobre un pasillo entero — convirtiéndose en la llave para cruzar el corazón del jardín hacia las Gemelas del Espejo.

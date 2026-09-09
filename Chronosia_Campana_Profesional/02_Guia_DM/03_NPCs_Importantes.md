@@ -387,7 +387,7 @@ Kaoros perdió su audición durante una misión contra cronófagos cuando una ex
 - **Inteligencia y Espionaje**: Recolecta y analiza información sobre movimientos enemigos (y la pasa a Serapis)
 - **Detección de Distorsiones**: Puede "ver" distorsiones temporales y espaciales a través de vibraciones
 - **Estrategia Militar**: Desarrolla planes tácticos complejos para misiones de La Resistencia
-- **⚠️ COMUNICACIÓN TELEPÁTICA**: Puede comunicarse telepáticamente con Serapis el Retroceso a distancia (hasta 10 millas)
+- **⚠️ COMUNICACIÓN TELEPÁTICA**: puede comunicarse telepáticamente con Serapis a distancia (hasta 10 millas). Como la Espiral queda más lejos, Kaoros **peregrina cada pocas semanas "por suministros" a un puesto de escucha** en el borde de la región (Cap. 14) — el patrón de viajes es una pista cazable si alguien lo sigue
 
 **Función en La Resistencia**:
 - **Coordinador de Comunicaciones**: Mantiene contacto con todas las células de La Resistencia

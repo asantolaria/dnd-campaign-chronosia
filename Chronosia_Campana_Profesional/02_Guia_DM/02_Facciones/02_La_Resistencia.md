@@ -109,7 +109,7 @@ Junto con los **Anacronistas** (que aportan la lectura del ritual) y con los sen
 
 El Contador puede:
 - **Mostrar cuántos segmentos** le quedan al ritual antes de que la ascensión se consume (8/8 = Final D)
-- **Detectar los "hipos"** del flujo de poder divino cuando un lugarteniente cae (parpadeo / retroceso de medio segmento), aunque no fueran los PJ quienes lo mataron
+- **Detectar los "hipos"** del flujo de poder divino cuando un lugarteniente cae (parpadeo y estancamiento momentáneo — el Reloj nunca retrocede), aunque no fueran los PJ quienes lo mataron
 - **Servir de pista de investigación**: un hipo que los PJ no provocaron + una región que sigue rota = alguien (Teach) está cazando lugartenientes
 - **Avisar** cuando la cuenta atrás entra en zona crítica
 

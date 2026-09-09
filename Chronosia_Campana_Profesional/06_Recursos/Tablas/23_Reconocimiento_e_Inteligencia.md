@@ -31,7 +31,7 @@ Compara el **nivel recomendado** con el nivel del grupo para leer el riesgo:
 | **Varrak** | Abismo de los Posibles | 🔮 Oráculo | 5-8 *(aliable)* | visiones del futuro; posible sacrificio | No es un enemigo natural: escúchalo antes de desenvainar. |
 | **Tempus** | Ruinas del Tiempo Perdido | 🕓 Temporal | 8-10 | **Núcleo Temporal** | Fragmenta su propio tiempo: dispérsalo y pierde acciones — o repárale el corazón (engranaje dorado). |
 | **Dimensionalis** | Llanuras de la Compresión | 🌌 Dimensional | 9-10 | **Carcasa Dimensional** | Anclar el espacio (p. ej. *zona antimagia*) la deja sin teletransportes. |
-| **Vorthak** *(crítico)* | Mansión de la Sed Eterna | 🩸 Vida | 8-10 | frena el Reloj | Luz solar y daño radiante cortan su regeneración. |
+| **Vorthak** *(crítico)* | Mansión de la Sed Eterna | 🩸 Vida | 8-10 | frena el Reloj | Mata primero a sus siervos (su red de seguridad); la luz del sol **frena** su regeneración — y su bodega guarda la reserva. |
 | **Yrindra** | Ciudad de Veldrisza | 🌌 Dimensional | 9-10 | **Carcasa Dimensional** | Mueve los hilos desde la sombra: corta a sus marionetas primero. |
 | **Ignis** *(crítico)* | Calderas Dimensionales | 🌌 Dimensional | 8-10 | **abre las Llanuras/Veldrisza**; frena el Reloj | Devora espacio: lucha en espacios cerrados donde no pueda "tragarse" el terreno. |
 | **Edward Teach** *(crítico)* | Archipiélago de Barbanegra | ⚓ Usurpador | 7-9 *(crece)* | el Talismán + **la entrada de la Torre**; frena el Reloj *(la media llave la dan los Oceánicos por alianza, no Teach)* | **Cuanto antes, mejor**: cada lugarteniente que absorbe lo sube de CR. |
