@@ -54,6 +54,12 @@ El único acceso por tierra: un portón de hierro y madera entre dos torres, y u
 
 ### 2 · La Plaza del Reloj y el Contador del Ritual
 
+> **🎙️ LA CHARLA DEL CONTADOR** *(rompe la cuarta pared UNA vez — al final de la primera visita, cuando Galen les haya enseñado la columna)*. En un sandbox con cuenta atrás, los jugadores deben conocer el contrato **como jugadores**, no solo como personajes — o descubrirán a mitad de campaña que "se dejaron" media historia y lo vivirán como un fallo. Cinco minutos, fuera de la ficción, con estas palabras o las tuyas:
+>
+> *"Antes de seguir, dejadme enseñaros el tablero. Ese Contador es real y es la mecánica central: **ocho segmentos, empieza en dos, solo sube o se frena — nunca baja**. Sube sobre todo cuando resolvéis una región (es el tiempo que gastáis, no un castigo). Echad la cuenta: **os caben unas cuatro a seis regiones de las diez que existen**. No es un error ni una amenaza: es el juego. Vais a elegir, y lo que no hagáis pasará sin vosotros — algunas puertas se cerrarán, algunas historias no las veréis, y al final os contaré las que os perdisteis. Hay formas de ganar tiempo (las iréis descubriendo) y una sola cosa segura: si esa columna llega a ocho, hemos perdido. No os pido optimizar. Os pido elegir juntos y con ganas. ¿Preguntas?"*
+>
+> A partir de aquí, el Contador vuelve a ser diegético y no se vuelve a explicar. *(La recalibración de mitad de campaña llega con el SALTO — Cap. 14.)*
+
 El corazón de la ciudad. Bajo el Gran Reloj se alza el **Contador del Ritual**: una columna con **ocho segmentos** que mide cuánto le falta a la ascensión de Aethernus. Lo construyeron juntos los Anacronistas (que aportan la lectura del ritual) y La Resistencia (que aportó los sensores, calibrados con los instrumentos de Din Goldgear). Toda Cronópolis sigue la cuenta atrás desde aquí.
 
 > *En la plaza:* "La gente pasa y mira de reojo la columna, como quien mira una herida que no sana. Cada cierto tiempo, uno de los segmentos se enciende con una luz dorada y enferma, y un murmullo recorre el mercado: el ritual ha ganado terreno. A veces —raro— un segmento **parpadea hacia atrás** medio dedo, y entonces alguien sonríe sin saber por qué: ahí fuera ha caído un lugarteniente."*

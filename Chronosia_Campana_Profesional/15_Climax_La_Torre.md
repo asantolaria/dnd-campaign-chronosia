@@ -342,4 +342,19 @@ No hay epílogo luminoso, pero sí hay **cierre**. Cuenta qué fue del multivers
 
 ---
 
+## La historia que no visteis *(el ritual de cierre — léelo la última noche, con el telón ya bajado)*
+
+La campaña está diseñada para que **nadie la vea entera**: eso fue el sandbox. Lo no jugado no debe quedarse en agujero — se convierte en el **último regalo**. Cuando los epílogos terminen y antes de recoger los dados, di algo como *"¿Queréis saber lo que nunca encontrasteis?"* — y recorre esta checklist contando SOLO lo que tu mesa no descubrió:
+
+- **Las regiones que no pisaron:** una frase por región — quién vivía allí, qué pieza guardaba, qué fue de ella en vuestro final (los epílogos por rama del "Qué fue de…" te dan el estado).
+- **La verdad de Teach**, si nunca lo desenmascararon: que era el punto ciego de Varrak, que descartó la llave por baratija, que estuvo a un cristal de coronarse.
+- **La herida del clon**, si no cazaron las semillas: los espejos prohibidos, la cuenta que no le salía con las Gemelas, el oro que pagaba a Dimensionalis por no encontrar su respuesta — y qué significaba de verdad "habrá uno".
+- **Los traidores y los hilos:** cuánto llevaba Kaoros plantado; que los Bregan cobraron dos veces; por qué Yrindra vendía la entrada de la Torre; el miedo de Serapis al 8/8 — y si alguno de esos miedos era el suyo propio.
+- **Los "y si":** el milagro de Varrak si no lo ganaron, el pacto de las Gemelas si no negociaron, la Carcasa sin sangre de Ymir, la reprogramación de Tempus, la vía que no tomaron en el juicio de Marcus.
+- **Cierra con su historia, no con la tuya:** *"Todo eso pasó alrededor de lo que hicisteis. Y lo que hicisteis vosotros, nadie más lo habría hecho así."*
+
+*(Bonus de rejugabilidad: esta charla es el mejor tráiler posible para una segunda campaña — otra mesa, otras regiones, otro final. Y el [Nexo Planar](02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md) queda abierto para continuar con estos mismos PJ.)*
+
+---
+
 > *La Torre se deshace en el cielo fracturado, ladrillo a ladrillo, hasta que no queda más que el doblez de espacio del que salió. Lo que los héroes hicieron dentro de ella nunca se contará dos veces igual —porque cada partida llegó con sus propias piezas de la verdad, sus propios muertos y su propia llave. Esa fue siempre la promesa de Chronosia.*

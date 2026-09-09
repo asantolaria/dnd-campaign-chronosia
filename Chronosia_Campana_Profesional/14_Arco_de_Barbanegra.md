@@ -159,6 +159,12 @@ El golpe final la deshace en cristales de tiempo. Su poder de estasis, que deber
 
 ---
 
+> **🎙️ LA CHARLA DEL SALTO** *(la segunda y última vez que rompes la cuarta pared — la sesión siguiente al asesinato de Thyra, con las dos luces nuevas aún ardiendo en el Contador)*. La mesa acaba de ver el peor golpe de la campaña; es el momento de recalibrar expectativas como jugadores:
+>
+> *"Pausa de tablero, la última. El Contador acaba de saltar dos luces: haced la cuenta de lo que queda — probablemente os caben **una o dos regiones más**, quizá tres si cortáis un crítico. Esto significa que la fase de explorar se acaba y empieza la de **rematar**: la llave, la entrada de la Torre, y a quién queréis tener al lado ese día. Todo lo que dejéis atrás desde hoy, quedará atrás — y está bien. Tenéis permiso explícito para ir a por el final: la campaña está diseñada para ganarse sin ver la mitad del mapa. ¿Qué queréis hacer con el tiempo que os queda?"*
+>
+> Deja que respondan. Esa conversación —qué sueltan, qué rematan— suele ser una de las mejores escenas de la campaña, y no tiene ni una tirada.
+
 ## La Traición de Serapis *(set-piece de cierre de Fase 3)*
 
 > Si el arco de Teach es una marea que no se puede parar, **esto** es lo contrario: el momento en que los PJ y sus aliados, por una vez, **roban una jugada al tiempo**. Una traición dentro de la Resistencia, un juicio injusto, un mártir, un sacrificio — y, si el Reloj ya pesa, un milagro que devuelve a un muerto a la vida. Es la prueba de que la inevitabilidad tiene grietas si alguien está dispuesto a pagar el precio.
