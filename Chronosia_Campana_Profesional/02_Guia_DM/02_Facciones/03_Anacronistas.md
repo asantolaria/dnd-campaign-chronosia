@@ -16,7 +16,7 @@ Los Anacronistas son un pequeño clan o hermandad que resiste las distorsiones d
 **🎯 Concepto**: Guardianes del tiempo verdadero  
 **🌿 Actitud**: Amigables hacia los PJ  
 **⏰ Especialidad**: Resistencia a distorsiones temporales  
-**🗝️ Secreto**: Tres posibles explicaciones para su resistencia
+**🗝️ Secreto**: Dos posibles explicaciones para su resistencia
 
 ---
 

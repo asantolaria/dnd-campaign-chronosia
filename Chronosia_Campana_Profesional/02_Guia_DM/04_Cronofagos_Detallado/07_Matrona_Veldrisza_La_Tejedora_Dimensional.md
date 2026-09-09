@@ -14,7 +14,7 @@
 - **Región:** La Ciudad Subterránea de Veldrisza
 - **Nivel Recomendado:** 9-10 (como su región)
 - **Bando:** Dimensional (Bajo Ignis)
-- **Estado de Acceso:** 🔒 Bloqueada (requiere Edward Teach, Artefacto Gnomo o Varrak)
+- **Estado de Acceso:** 🔒 El ala profunda se abre **derrotando a Ignis** (Mapa de Puertas, Cap. 1); Varrak aliado conoce además una **entrada secreta** (atajo, no puerta — Cap. 10)
 
 ---
 
@@ -103,11 +103,11 @@ Yrindra puede lanzar los siguientes hechizos innatamente (CD de salvación 16):
 **Multiataque.**  
 Yrindra realiza tres ataques: dos con *Daga de Telaraña* y uno con *Red Espacial*.
 
-**Daga de Telaraña.** *Ataque con Arma Cuerpo a Cuerpo:* +10 al ataque, alcance 5 pies, un objetivo.  
+**Daga de Telaraña.** *Ataque con Arma Cuerpo a Cuerpo:* +8 al ataque, alcance 5 pies, un objetivo.  
 *Impacto:* 8 (1d6 + 4) de daño perforante más 10 (3d6) de daño espacial.  
 El objetivo debe hacer salvación de Destreza CD 17 o queda **apresado** por hilos de red espacial (escapar: acción, Fuerza CD 17; los hilos se cortan con 10 de daño cortante). *(Apresado, no paralizado: que los jugadores sigan jugando.)*
 
-**Red Espacial.** *Ataque con Conjuro:* +10 al ataque, alcance 60 pies, un objetivo.  
+**Red Espacial.** *Ataque con Conjuro:* +8 al ataque, alcance 60 pies, un objetivo.  
 Yrindra lanza una red de telarañas dimensionales que atrapa al enemigo.  
 *Impacto:* El objetivo debe hacer salvación de Destreza CD 17 o queda paralizado por 1 turno y recibe 14 (4d6) de daño espacial.
 
@@ -217,7 +217,7 @@ Yrindra puede invocar el ritual **Zin-Carla**, un ritual drow de resurrección q
 ## 🎣 **GANCHOS NARRATIVOS**
 
 ### **🕷️ Lo que teme y lo que quiere (solo DM — la que faltaba)**
-Yrindra fue **matrona caída** en Menzoberranzan: perdió el favor de Lolth y la Casa entera en una sola noche de cuchillos, y cruzó un umbral con lo puesto. Chronosia es su tela de repuesto — un dominio donde ella vuelve a ser reina — pero no su ambición final: **quiere que Lolth vuelva a mirarla**, y volver a Menzoberranzan con algo que ninguna matrona ha ofrecido jamás. Su terror tiene forma concreta: **si Aethernus asciende, cierra todos los umbrales** — y ella queda coronada para siempre en un sótano muerto, cortada de su diosa. Por eso, y no por oro, **vende la entrada de la Torre** (a Teach, a los PJ, a quien pueda usarla): necesita que *alguien* pare la ascensión **sin que su firma aparezca en el intento**. Cada hilo que mueve —los Bregan, el Zin-Carla, la Traición que deja arder— es una apuesta con las manos limpias.
+Yrindra fue **matrona sin Casa**: perdió su Casa entera en una sola noche de cuchillos en Menzoberranzan — la política, no la diosa. **El favor de Lolth sigue con ella** (su *Protección*, el Zin-Carla que le fue concedido: la Reina Araña premia la audacia de la que apuesta sola) — pero ese favor **fluye por los umbrales**: cada don suyo es un hilo que cruza hacia el Underdark. Chronosia es su tela de repuesto y su prueba ante la diosa; su ambición: volver a Menzoberranzan a fundar una Casa nueva con poder que ninguna matrona ha ofrecido jamás. Su terror tiene forma concreta: **si Aethernus asciende, sella el semiplano y corta todos los hilos** — y ella queda coronada para siempre en un sótano muerto, muda para su diosa, viendo apagarse sus dones uno a uno. Por eso, y no por oro, **vende la entrada de la Torre** (a Teach, a los PJ, a quien pueda usarla): necesita que *alguien* pare la ascensión **sin que su firma aparezca en el intento**. Cada hilo que mueve —los Bregan, el Zin-Carla, la Traición que deja arder— es una apuesta con las manos limpias.
 **En mesa:** los PJ nunca negocian con una mercader; negocian con una exiliada que juega a dos barajas contra su propio amo. Quien lo entienda (Perspicacia CD 17, o inteligencia de los refugiados de Aeryndra) tiene la única palanca real: *"ayúdanos y nadie sabrá nunca que ayudaste"*.
 
 ### **🎯 Gancho Principal: Manipuladora Maestra (Gancho Indirecto)**

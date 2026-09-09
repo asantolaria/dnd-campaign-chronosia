@@ -217,7 +217,7 @@ El estanque negro del ala este, de aguas tan quietas y oscuras que son un espejo
 ![Medusa la Eterna](../assets/bestiario/lugartenientes/10_medusa-la-eterna.jpg)
 
 **CA** 16 (natural) · **PG** 150 (20d8+60) · **Vel.** 30 pies · FUE +3, DES +2, CON +3, SAB +3 · Salv. DES +5, CON +6, SAB +6 · Resist. temporal/necrótico · Inmune a *petrificado* y a efectos que alteran el tiempo · Visión en oscuridad 60 pies · P. pasiva 13 · **Resistencia Legendaria 1/día**.
-- ***Multiataque:*** dos *Serpientes de Tiempo* (+8, 1d4+3 perf. + 2d6 temporal; CD 15 CON o velocidad a la mitad) + una *Mirada Temporal* (+8, 30 pies, 2d8 temporal; CD 15 SAB o *paralizado*, repite salvación al final de cada turno).
+- ***Multiataque:*** dos *Serpientes de Tiempo* (+6, 1d4+3 perf. + 2d6 temporal; CD 15 CON o velocidad a la mitad) + una *Mirada Temporal* (+6, 30 pies, 2d8 temporal; CD 15 SAB o *paralizado*, repite salvación al final de cada turno).
 - ***Petrificación Temporal (3/día).*** CD 15 CON o *petrificado* — **siempre temporal**, máx. 1 minuto, repite salvación cada turno.
 - ***Campo de Estasis (2/día):*** 30 pies, CD 15 SAB o *paralizado* (repite cada turno). ***Congelación Masiva (1/día):*** 60 pies, ídem.
 - ***Estasis Definitiva (1/día):*** inmune a daño y regenera 2d10 PG/turno durante máx. 3 turnos (no puede actuar) — la sostienen sus **3 serpientes-reloj** orbitando (CA 15, 15 PG): destruir las tres la revienta (4d10 y *aturdida* 1 turno).

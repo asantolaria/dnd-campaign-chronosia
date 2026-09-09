@@ -2,7 +2,7 @@
 
 ![Mapa del Archipiélago de Barbanegra](../../assets/mapas/08_archipielago-de-barbanegra.png)
 
-## Lugarteniente: Edward Teach "Barbanegra" · Tipo: Dimensional · Nivel PJ: 7-9
+## Lugarteniente: Edward Teach "Barbanegra" · Tipo: Híbrido (poder robado) · Nivel PJ: 7-9
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 
@@ -12,7 +12,7 @@ El mar del Archipiélago no se mueve. Lleva calmo desde que Barbanegra ancló su
 
 ![Capitán Móreve "el Mascahoras"](../../assets/bestiario/villanos_menores/08_capitan-moreve-mascahoras.jpg)
 
-Antiguo subordinado de Barbanegra, Móreve cayó en un vórtice y volvió cambiado: ahora *come tiempo*. Su tripulación no envejece; ellos roban los años de quien abordan. Navega el bergantín *Reloj Roto*, persiguiendo presas no por su oro sino por las décadas que aún les quedan. Gancho: ofrece a un PJ moribundo "más años" a cambio de servir en su tripulación eterna — y mantiene su palabra de un modo monstruoso.
+Antiguo subordinado de Barbanegra, Móreve cayó en un vórtice y volvió cambiado: ahora *come tiempo*. Su tripulación no envejece; ellos roban los años de quien abordan. Encalló con el galeón *Eterna Perdición* (Cap. 11, zona del naufragio) y desde su casco varado caza: persigue presas no por su oro sino por las décadas que aún les quedan. Gancho: ofrece a un PJ moribundo "más años" a cambio de servir en su tripulación eterna — y mantiene su palabra de un modo monstruoso.
 
 **Statblock** (compacto):
 - ***Capitán Móreve, el Mascahoras*** — *Mediano no-muerto (cronófago), neutral maligno* · **CR** 7 (2.900 XP)
@@ -20,7 +20,7 @@ Antiguo subordinado de Barbanegra, Móreve cayó en un vórtice y volvió cambia
 - **FUE** +3, **DES** +5, **CON** +5 · **CD de poder** 15 · **Visión en la oscuridad** 60 pies, percibe la edad/tiempo restante de cualquier criatura a la vista
 - **Rasgos:** *Hambre de horas* — Cuando un crítico golpea o reduce a una criatura a 0 PG, Móreve le roba 1d10 años: la víctima sufre fatiga (nivel 1) y él recupera 20 PG. *Calma antinatural* — Dentro de 60 pies, los efectos basados en velocidad y los conjuros de aceleración tienen probabilidad de fallar (lanzador TS CON CD 15 o el conjuro se "atasca" 1 asalto).
 - **Acciones:** *Multiataque:* dos ataques de sable cronófago. *Sable cronófago.* +8 al ataque, alcance 5 pies, 1d8+5 cortante + 3d6 necrótico (la herida envejece: TS CON CD 15 o desventaja en la próxima tirada por el peso de los años). *Marea detenida* (recarga 5-6). Congela un instante en 30 pies: las criaturas deben TS SAB CD 15 o quedar *paralizadas* hasta el final del siguiente turno de Móreve, atrapadas fuera del tiempo.
-- **Tácticas / Al ser derrotado:** Aísla a la presa más joven y la desgasta a años robados. Al morir, los años robados se liberan de golpe: su tripulación envejece a polvo en segundos y el *Reloj Roto* se hunde, abriendo brevemente un vórtice hacia el mundo de donde vino.
+- **Tácticas / Al ser derrotado:** Aísla a la presa más joven y la desgasta a años robados. Al morir, los años robados se liberan de golpe: su tripulación envejece a polvo en segundos y el casco de la *Eterna Perdición* **se asienta** con un gemido — el mar a su alrededor vuelve a moverse un instante, como un suspiro.
 
 ## 🐾 Bestias Firma
 

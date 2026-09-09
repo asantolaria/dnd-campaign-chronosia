@@ -1,6 +1,6 @@
 # 🐉 Bestiario Regional — Índice
 
-> Cada región de Chronosia tiene vida propia más allá de su lugarteniente: un **villano menor** (sub-jefe), **bestias firma** y **NPCs locales** con gancho. Statblocks compactos, CR ajustado al tramo de nivel de la zona.
+> Cada región de Chronosia tiene vida propia más allá de su lugarteniente: un **villano menor** (sub-jefe), **bestias firma** y **NPCs locales** con gancho. Statblocks compactos, con el CR ajustado al tramo de la zona **o marcado como pieza social/puzle** (Cerografo es puerta, no muro: su engranaje vale más que su espada).
 >
 > - Lugartenientes (jefes de región): [../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md](../../02_Guia_DM/04_Cronofagos_Detallado/00_Cronofagos_Detallado.md)
 > - Conexiones planares de cada región: [../../02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md](../../02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md)
@@ -18,8 +18,8 @@
 | [05](./05_Abismo_Posibles.md) | El Abismo de los Posibles | Varrak (Temporal) | 5-8 | Tessaly Bifronte (CR 6) | El Otro Tú · Bestia Superpuesta · Larva de Bifurcación | — |
 | [06](./06_Llanuras_Compresion.md) | Las Llanuras de la Compresión | Dimensionalis (Dimensional) | 9-10 | Karkesh, Cartógrafo de Cenizas (CR 6) | Mastín Comprimido · Acechante del Pliegue · Eco Cartográfico | 🔥 Avernus |
 | [07](./07_Ciudad_Veldrisza.md) | La Ciudad Subterránea de Veldrisza | Yrindra (Dimensional) | 9-10 | Zress'ynara, Tejedora de Umbrales (CR 7) | Araña del Intersticio · Acechador de la Penumbra · Espectro de Menzoberranzan | 🕸️ Underdark |
-| [08](./08_Archipielago_Barbanegra.md) | Archipiélago de Barbanegra | Edward Teach (Dimensional) | 7-9 | Capitán Móreve "el Mascahoras" (CR 7) | Kraken Menor del Vórtice · Marinero Distorsionado · Heraldo de la Sal Negra | 🌊 Mares del hub |
-| [09](./09_Mansion_Sed_Eterna.md) | La Mansión de la Sed Eterna | Vorthak (Temporal) | 8-10 | Mayordomo Aurelius Crane (CR 7) | Velo Famélico · Ghoul Cronófago · Esclavo de Sangre | 🧛 Barovia / Shadowfell |
+| [08](./08_Archipielago_Barbanegra.md) | Archipiélago de Barbanegra | Edward Teach (Híbrido) | 7-9 | Capitán Móreve "el Mascahoras" (CR 7) | Kraken Menor del Vórtice · Marinero Distorsionado · Heraldo de la Sal Negra | 🌊 Mares del hub |
+| [09](./09_Mansion_Sed_Eterna.md) | La Mansión de la Sed Eterna | Vorthak (Vida) | 8-10 | Aurelius Crane (CR 7) · Gorath (CR 6) | Velo Famélico · Ghoul Cronófago · Esclavo de Sangre | 🧛 Barovia / Shadowfell |
 | [10](./10_Calderas_Dimensionales.md) | Las Calderas Dimensionales | Ignis (Dimensional) | 8-10 | Capataz Drazhûl (CR 7) | Cría de Dragón Rojo · Salamandra de Frontera · Coloso de Magma | 🔥 Plano del Fuego |
 
 ---

@@ -22,7 +22,7 @@
 | 2 | **Aldeanos cargando arena** | — | Grupo de 4-6 Portadores de Arena transportando sacos de arena dorada al Reloj. Pueden dar información, pedir ayuda contra criaturas temporales o ofrecer descanso en la aldea. |
 | 3 | **Guardianes del Cristal** | 3 c/u | 1d2 **Rebobinadores** (CR 3, ver Bestiario Regional) anidan sobre un **Cristal de Arena** y lo defienden. Combate, o distraerlos con un objeto "con mucho pasado" (les gusta rebobinarlo). |
 | 4 | **Bucle local** | — | Una zona de 60 pies donde el tiempo se repite: los PJ reviven los últimos 30 segundos 1d3 veces (solo narrativo o una tirada de Sabiduría CD 14 para "salir" del bucle). No hay combate; sensación de desorientación. |
-| 5 | **Retrocedentes en patrulla** | 3 c/u | 3-4 **Retrocedentes** — soldados de Serapis: usa **veterano** (MM, CR 3) con *Retroceso de Heridas* (1/combate, al fallar un ataque lo repite; ver [Soldados Regionales](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md)). Atacan si reconocen intrusos. |
+| 5 | **Retrocedentes en patrulla** | 3 c/u | 3-4 **Retrocedentes** (a **nivel 4**, usa solo 2 — la patrulla completa supera Deadly) — soldados de Serapis: usa **veterano** (MM, CR 3) con *Retroceso de Heridas* (1/combate, al fallar un ataque lo repite; ver [Soldados Regionales](../../02_Guia_DM/04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md)). Atacan si reconocen intrusos. |
 | 6 | **Relojero perdido** | — | Un anciano Maestro Relojero que ha salido a buscar componentes. Ofrece pista sobre la mecánica del Reloj o la ubicación de un Cristal de Arena a cambio de escolta hasta la aldea. |
 
 ---

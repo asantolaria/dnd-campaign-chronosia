@@ -14,12 +14,7 @@
 - [Ignis el Devorador Espacial - Portales al Plano Elemental del Fuego](#-ignis-el-devorador-espacial---portales-al-plano-elemental-del-fuego)
 
 ### **⏰🌌 Lugartenientes que Crean Soldados con Poderes Propios**
-- [Soldados Temporales](#-soldados-temporales)
-- [Soldados Dimensionales](#-soldados-dimensionales)
-
-### **📊 Soldados por Región**
-- [Regiones Temporales](#-regiones-temporales)
-- [Regiones Dimensionales](#-regiones-dimensionales)
+- [La tabla única de soldados](#-lugartenientes-que-crean-soldados--la-tabla-única)
 
 ---
 

@@ -174,6 +174,16 @@ Clériga de Ilmater (el dios del sufrimiento soportado), apropiada para un puebl
 
 ---
 
+## El mercado de Cronópolis (reglas rápidas)
+
+> El oro de fuera vale poco en un limbo sitiado; la ciudad funciona con **vales de la ciudad** y trueque. Para no improvisar cada compra:
+>
+> - **Cambio:** 1 vale ≈ **25 po** de valor. Los mercaderes aceptan oro de forasteros **a la mitad** de su valor nominal (Zephyr y Korrin, viajeros, lo aceptan a la par). Los precios "en po" del catálogo y las tiendas regionales son valor de mercado: paga en vales, trueque u oro-a-mitad.
+> - **Vender botín** (a Oda, a Vondrel o al gremio): **la mitad del valor** en vales. La ciudad compra bien tres cosas: **cristales temporales/dimensionales** (a valor entero — son munición de guerra), **metal o tela cronófaga** (25-50 po/pieza: los ingenieros los estudian), y **noticias verificadas de las regiones** (5-20 vales por informe útil — el reconocimiento se paga).
+> - **Qué hay en las tiendas a nivel 3-5** (lo que el catálogo no lista): pociones de curación (50 po), antitoxina, aceite cronal de Quintilla (vía Oda, 40 po), munición, equipo mundano y reparaciones. Un **arma o armadura +1 se encarga** (500 po + 1 semana, Din o Balthar) — no hay estante de objetos mágicos: hay artesanos con lista de espera.
+> - **Los "artefactos a medida" de Din** (para PJ que sueñan): precio = el del objeto equivalente del catálogo +25%, en materiales raros que suelen exigir **una misión** ("tráeme un cristal del Jardín y hablamos"). Din no cobra su tiempo a los amigos; cobra los materiales.
+> - **El refugiado con nombre** (uno por región liberada — la promesa del capítulo): elige o tira 1d6 — 1 un gremial de Oda, 2 una cartógrafa para Maren, 3 un desertor cronófago (interrogable), 4 un chamán menor para Harlim, 5 un chaval que idolatra a los PJ, 6 alguien del pasado de un PJ (pacta con el jugador).
+
 ## Qué se hace en Cronópolis
 
 Es el HUB: el sitio al que se vuelve entre regiones. Las actividades nucleares son cuatro.

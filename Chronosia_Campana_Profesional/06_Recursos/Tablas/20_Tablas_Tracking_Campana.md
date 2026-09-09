@@ -102,7 +102,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **El Jardín de los Tiempos Gemelos** | Medusa + Las Gemelas | Dimensional (×2) | 5-8 | Entrada abierta (más dura: entra con nivel) | | 🔓 Desbloqueada | |
 | **El Archipiélago de Barbanegra** | Edward Teach | Híbrido (crítico) | 7-9 | Motor de Viento (Rotor: cualquier temporal + cualquier dimensional) | | 🔒 → 🔓 (Motor construido) | |
 | **Las Ruinas del Tiempo Perdido** | Tempus | Temporal | 8-10 | Requiere una Arena del Tiempo (cualquier lugarteniente temporal) | | 🔒 | |
-| **La Mansión de la Sed Eterna** | Vorthak | Temporal | 8-10 | Alto nivel (ver Mapa de Puertas) | | 🔒 | |
+| **La Mansión de la Sed Eterna** | Vorthak | 🩸 Vida | 8-10 | Alto nivel (ver Mapa de Puertas) | | 🔒 | |
 | **Las Calderas Dimensionales** | Ignis | Dimensional | 8-10 | Alto nivel (ver Mapa de Puertas) | | 🔒 | |
 | **Las Llanuras de la Compresión** | Dimensionalis | Dimensional | 9-10 | Derrotar a Ignis | | 🔒 | |
 | **La Ciudad Subterránea de Veldrisza** | Yrindra | Dimensional | 9-10 | Derrotar a Ignis (abre el ala profunda) | | 🔒 | |
@@ -157,8 +157,8 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **Thyra**         | Temporal (caída)      | ⚰️ Muerta  | Fase 1               | Valle de la Aguja         | Asesinada por Teach (hito fijo) |
 | **Serapis**       | Temporal    | ✅ Activo   | —                    | La Espiral Inversa        | Bando Temporal                |
 | **Varrak**        | Temporal    | ✅ Activo   | —                    | El Abismo de los Posibles | Neutral; elige en Fase 3, 🔮 puede sacrificarse si es aliado y el reloj ≥6/8 |
-| **Vorthak**       | Temporal    | ✅ Activo   | —                    | La Mansión de la Sed Eterna | Líder Bando Temporal (crítico) |
-| **Edward Teach**  | Independiente | ✅ Activo   | —                    | El Archipiélago de Barbanegra | Crítico, tiene Talismán |
+| **Vorthak**       | 🩸 Vida (drena años) | ✅ Activo   | —                    | La Mansión de la Sed Eterna | Líder del bando temporal por política, no conducto (crítico) |
+| **Edward Teach**  | ⚓ Híbrido (poder robado) | ✅ Activo   | —                    | El Archipiélago de Barbanegra | Crítico, tiene Talismán; bando propio |
 | **Dimensionalis** | Dimensional | ✅ Activo   | —                    | Las Llanuras de la Compresión | Independiente             |
 | **Ignis**         | Dimensional | ✅ Activo   | —                    | Las Calderas Dimensionales | Líder Bando Dimensional (crítico) |
 | **Yrindra**     | Dimensional | ✅ Activo   | —                    | La Ciudad Subterránea de Veldrisza | Aliada de Ignis      |
@@ -195,15 +195,15 @@ Cada lugarteniente porta un **anillo de poder** (canalizador de Aethernus) y, en
 | **Lugarteniente** | **Tipo** | **Estado** | **Anillo Obtenido** | **Artefacto regional** | **Sesión** | **Notas** |
 |-------------------|----------|------------|---------------------|------------------------|------------|-----------|
 | **Serapis** | Temporal | Activo / Muerto | Sí / No | Arena del Tiempo · Núcleo (Rotor) | | |
-| **Varrak** | Temporal | Activo / Muerto | Sí / No | — | | |
-| **Vorthak** | Temporal | Activo / Muerto | Sí / No | — | | Lugarteniente CRÍTICO |
-| **Las Gemelas** | Dimensional | Activo / Muerto | Sí / No | Espejo de Realidad Fragmentada | | |
-| **Tempus** | Temporal | Activo / Muerto | Sí / No | — | | |
+| **Varrak** | Temporal | Activo / Muerto | Sí / No | Cristal Profético · Núcleo (destilable, aliado) | | Neutral/aliable |
+| **Vorthak** | 🩸 Vida | Activo / Muerto | Sí / No | — (sin pieza de Rotor) | | Lugarteniente CRÍTICO |
+| **Las Gemelas** | Dimensional | Activo / Muerto | Sí / No | Espejo de Realidad Fragmentada · Carcasa (Rotor) | | Neutrales/aliables |
+| **Tempus** | Temporal | Activo / Muerto | Sí / No | Núcleo (Rotor) · Arena del Tiempo | | Reprogramable (vía pacífica) |
 | **Ymir** | Dimensional | Activo / Muerto | Sí / No | Carcasa Dimensional (Rotor) | | |
-| **Dimensionalis** | Dimensional | Activo / Muerto | Sí / No | — | | |
-| **Ignis** | Dimensional | Activo / Muerto | Sí / No | — | | Lugarteniente CRÍTICO |
-| **Yrindra** | Dimensional | Activo / Muerto | Sí / No | — | | |
-| **Medusa** | Dimensional | Activo / Muerto | Sí / No | — | | |
+| **Dimensionalis** | Dimensional | Activo / Muerto | Sí / No | Carcasa (Rotor) | | Independiente; vende información |
+| **Ignis** | Dimensional | Activo / Muerto | Sí / No | Carcasa (Rotor) | | Lugarteniente CRÍTICO |
+| **Yrindra** | Dimensional | Activo / Muerto | Sí / No | Carcasa (Rotor) · vende la entrada de la Torre | | |
+| **Medusa** | Dimensional | Activo / Muerto | Sí / No | Carcasa (Rotor) | | Su "estasis" es disfraz de Voidar |
 | **Edward Teach** | Híbrido (poder robado) | Activo / Muerto | Sí / No | Talismán de Interceptación (Cronómetro + Perla) | | Lugarteniente CRÍTICO; recupera Cronómetro y Perla |
 
 > Detalle de cada objeto: [21_Objetos_Magicos_Reliquias.md](./21_Objetos_Magicos_Reliquias.md).
@@ -285,7 +285,7 @@ Cada lugarteniente porta un **anillo de poder** (canalizador de Aethernus) y, en
    - El final depende del estado del tablero: a quién derrotaron, si Teach llegó antes, si reunieron a Anacronistas + Oceánicos (ver finales en el Motor de Campaña)
 
 5. **Durante la Sesión:**
-   - Si derrotan a un lugarteniente, actualiza estado y el Reloj (¿era crítico? → se estanca)
+   - Si derrotan a un lugarteniente, actualiza estado y el Reloj (¿era crítico? → se estanca **2 hitos**)
    - Si detectan un "hipo del Contador" que no provocaron, lánzalos a investigar (firma de Teach)
    - Si hay eventos aleatorios, úsalos narrativamente
 

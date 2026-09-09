@@ -18,10 +18,9 @@ A todos los puestos, custodios y ciudadanos honrados de Cronópolis:
 
 Por la presente se declara la **busca y captura** del grupo de forasteros descrito al pie, sospechosos del **robo de la reliquia mayor** custodiada en la Cámara del Tiempo:
 
-— El **Cronómetro de Realidades** *(el corazón de la muralla; sellado bajo triple guardia).* Se investiga además su posible vinculación con el **saqueo del templo sumergido de los del mar**, del que hablan los muelles.
-2. El **Cronómetro de Realidades** *(instrumento prohibido).*
+— El **Cronómetro de Realidades** *(el corazón de la muralla; sellado bajo triple guardia).* Se investiga además su posible vinculación con el **saqueo del templo sumergido de los del mar**, del que hablan los muelles desde hace semanas.
 
-Ambas piezas desaparecieron la misma noche. La única puerta que no quedó cerrada por dentro fue aquella por la que **se vio entrar a los acusados**.
+La reliquia desapareció en una sola noche. La única puerta que no quedó cerrada por dentro fue aquella por la que **se vio entrar a los acusados**.
 
 ---
 

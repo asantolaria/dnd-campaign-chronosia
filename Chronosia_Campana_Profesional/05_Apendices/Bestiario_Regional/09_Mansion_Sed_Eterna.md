@@ -2,7 +2,7 @@
 
 ![Mapa de La Mansión de la Sed Eterna](../../assets/mapas/09_mansion-de-la-sed-eterna.png)
 
-## Lugarteniente: Lord Vorthak · Tipo: Temporal · Nivel PJ: 8-10
+## Lugarteniente: Lord Vorthak · Tipo: Vida (drena años — ni Amaunator ni Voidar) · Nivel PJ: 8-10
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 
@@ -26,6 +26,10 @@ El mayordomo no-muerto de Vorthak, atado por un pacto de servidumbre que la muer
   - *Garra Drenante:* ataque c. cuerpo, +8, alcance 5 pies, 12 (2d6+5) cortante + 10 (3d6) necrótico; el objetivo reduce su máximo de PG en una cantidad igual al necrótico (años robados) hasta un descanso largo.
   - *Convocar la Niebla (1/día):* invoca un *Velo Famélico* (ver Bestias Firma) que lo cubre y le otorga ocultación total un turno.
 - **Tácticas / Al ser derrotado:** Separa al grupo por pasillos, drena al más débil y desaparece en la bruma para volver "a servir el siguiente plato". Al caer, susurra que el verdadero peligro nunca estuvo en la mansión, sino "al otro lado de la niebla", y señala una puerta que da al gris infinito del Shadowfell.
+
+## 😈 Villano menor bis — Gorath el Gigante Mordido *(trágico, manipulable)*
+
+- ***Gorath el Gigante Mordido*** — *Grande gigante (semivampírico), neutral* · **CR** 6 (2.300 XP) — statblock completo y su tragedia en el [Cap. 12](../../Capitulos_Regiones/12_La_Mansion_de_la_Sed_Eterna.md) (zona 6): el guardián de la puerta que puede sacarse de la mesa **socialmente** (o con la bodega). Vorthak lo mordió a medias para tenerlo dócil; Gorath sueña con el sol.
 
 ## 🐾 Bestias Firma
 

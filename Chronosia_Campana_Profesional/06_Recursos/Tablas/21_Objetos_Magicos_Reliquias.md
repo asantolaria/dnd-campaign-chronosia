@@ -33,14 +33,10 @@
 - [Objetos de Lugartenientes](#-objetos-de-lugartenientes)
 
 ### **🎁 Recompensas de Facciones**
-- [Artefactos Gnomos (Anacronistas)](#-artefactos-gnomos-anacronistas)
-- [Bendiciones del Vacío (Oceánicos de las Profundidades)](#-bendiciones-del-vacío-océnicos-de-las-profundidades)
+- [De los Anacronistas](#-de-los-anacronistas-cronópolis-santuario--quest-giver-galen) · [De los Oceánicos](#-de-los-oceánicos-abysara--quest-giver-tholassa--la-reina-nereia)
 
 ### **⚙️ Inventos de los Ingenieros (La Resistencia)**
-- [Armas de Neutralización](#-armas-de-neutralización)
-- [Máquinas de Estabilización](#-máquinas-de-estabilización)
-- [Artefactos de Ingeniería](#-artefactos-de-ingeniería)
-- [Objetos Personales de Líderes](#-objetos-personales-de-líderes)
+- [Armas de Neutralización](#-armas-de-neutralización) · [Máquinas de Estabilización](#-máquinas-de-estabilización) · [Artefactos de Ingeniería](#-artefactos-de-ingeniería) · [Objetos Personales de Líderes](#-objetos-personales-de-líderes-equipo-de-pnj-no-botín)
 
 ### **🔮 Reliquias Divinas**
 - [Fragmentos de Poder Divino](#-fragmentos-de-poder-divino)
@@ -809,7 +805,7 @@ Un anillo de metal oscuro (hierro negro o adamantina) con un diseño único: una
 |-------------------|----------|------------|------------|-----------|
 | **Serapis el Retroceso** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
 | **Varrak del Horizonte** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
-| **Lord Vorthak "el Sediento Eterno"** | Temporal (drena vida) | Activo | Anillo Temporal | Puede ser obtenido |
+| **Lord Vorthak "el Sediento Eterno"** | 🩸 Vida (drena años) | Activo | Anillo Temporal | Puede ser obtenido |
 | **Las Gemelas del Espejo** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
 | **Tempus el Fragmentado** | Temporal | Activo | Anillo Temporal | Puede ser obtenido |
 | **Ymir el Eterno Invierno** | Dimensional | Activo | Anillo Dimensional | Puede ser obtenido |
@@ -1016,7 +1012,7 @@ Aethernus **no porta escudo** —es un archimago y necesita las manos para conju
 
 ---
 
-### **🔧 Máquinas de Estabilización**### **🔧 Máquinas de Estabilización**
+### **🔧 Máquinas de Estabilización**
 
 > **📍 Nota:** Solo el **Neutralizador de Campo** es una **instalación fija** anclada en Cronópolis (el escudo de la ciudad). El **Cerrador de Portales** y el **Estabilizador Temporal** son **portátiles**: aparatos pequeños que un PJ lleva encima y despliega en el campo (sobre un trípode/patas plegables).
 

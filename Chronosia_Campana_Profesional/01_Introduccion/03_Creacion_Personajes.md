@@ -69,7 +69,9 @@ Ninguna clase está prohibida ni penalizada. Pero Chronosia les habla distinto a
 
 ## 🌀 **POR QUÉ CHRONOSIA TE MARCA**
 
-> Los trasfondos anteriores te atan a **Waterdeep** y a **Thaddeus**, pero llegas a Chronosia persiguiendo a un asesino: por accidente, no por elección. Estos ganchos son **OPCIONALES** y existen para darte una razón *propia* por la que el destino de un semiplano fracturado —y de sus dos dioses cautivos— debería importarte. Tira en la d8 o elige uno con tu DM. Puedes combinar dos si encajan con tu concepto.
+> Los trasfondos anteriores te atan a **Waterdeep** y a **Thaddeus**, pero llegas a Chronosia persiguiendo a un asesino: por accidente, no por elección. Estos ganchos son **OPCIONALES** y existen para darte una razón *propia* por la que el destino del lugar al que irás a parar debería importarte. Tira en la d8 o elige uno con tu DM. Puedes combinar dos si encajan con tu concepto.
+>
+> **⚠️ SOLO DM — no entregues esta tabla impresa.** Los ganchos nombran cosas que la sesión 0 no debe revelar (el semiplano, los dioses, la llave). **Léelos en voz alta parafraseando**: "Chronosia" → *"un lugar del que nadie vuelve"*; "la llave chroniana" → *"algo que quedó partido"*; "Amaunator / el Sol encadenado" → *"ese sueño que se repite"*; "Varrak" → *"un mendigo ciego"*. La columna **"Conecta con"** es solo tuya. El jugador debe saber *qué le pasa*, no *por qué* — el porqué es la campaña.
 
 | **d8** | **Gancho** | **Conecta con** |
 |--------|-----------|-----------------|

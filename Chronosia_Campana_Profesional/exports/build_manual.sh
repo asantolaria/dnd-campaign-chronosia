@@ -17,6 +17,9 @@ OUT_HTML="$HERE/Chronosia_Manual.html"
 OUT_PDF="$HERE/Chronosia_Manual.pdf"
 cd "$ROOT"
 
+# --- Verificador de canon (informativo; usa --strict en CI) ---
+python3 "$HERE/check_canon.py" || true
+
 # --- Orden del libro ---
 FILES=()
 add(){ local g; for g in $1; do [ -f "$g" ] && FILES+=("$g"); done; }

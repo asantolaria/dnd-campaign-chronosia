@@ -12,7 +12,7 @@
 - **Tipo:** **Vida** — drena años, no canaliza a ningún dios (ni Amaunator ni Voidar): **no suelta pieza de Rotor ni Arena del Tiempo** (Cap. 1). Lidera el *bando* temporal por política, no por conducto
 - **Rol:** Principal/Líder
 - **Región:** La Mansión de la Sed Eterna
-- **Nivel Recomendado:** 9
+- **Nivel Recomendado:** 8-10 (como su región)
 - **Bando:** Temporal (Líder del Bando Temporal)
 - **Estado de Acceso:** 🔒 Sin puerta mecánica: la Mansión es región de **alto nivel (8-10)** — el peligro es la puerta (Mapa de Puertas, Cap. 1)
 
@@ -58,7 +58,7 @@ Vorthak fue convertido **la noche en que agonizaba de viejo**: un cuerpo de oche
 ---
 
 **Clase de Armadura:** 18 (armadura de placas mágica + escudo)  
-**Puntos de Golpe:** 250 (33d8 + 99) *(con 3 PJ o mesas lentas: 190 y 1d4 secuaces; con 6 PJ: 290 y 2d4+2)*  
+**Puntos de Golpe:** 247 (33d8 + 99) *(con 3 PJ o mesas lentas: 190 y 1d4 secuaces; con 6 PJ: 290 y 2d4+2)*  
 **Velocidad:** 30 pies, escalada 30 pies
 
 ---

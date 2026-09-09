@@ -2,7 +2,7 @@
 
 > **⚠️ Documento subordinado.** El **ritmo, el Reloj del Ritual, el gating de regiones y el timing de los hitos de Teach** los manda [⏳ Cómo Dirigir](../01_Como_Dirigir.md). Este apéndice solo reúne, en formato de consulta rápida: el **esqueleto de sesiones**, los **eventos fijos** ordenados, **qué entrega cada lugarteniente al caer** y las **revelaciones graduales**. Si algo de aquí parece contradecir al Capítulo 1, manda el Capítulo 1.
 >
-> **Estructura: 5 fases · nivel 3→10 · ~14-15 sesiones · Reloj de 8 segmentos (empieza en 2/8) · clímax en la Torre de la Eternidad (4 niveles).**
+> **Estructura: 5 fases · nivel 3→10 · ~13-15 sesiones · Reloj de 8 segmentos (empieza en 2/8) · clímax en la Torre de la Eternidad (4 niveles).**
 > Todos los eventos fijos se disparan **por el Reloj o por la trama, nunca por "tras el Nº lugarteniente derrotado"**.
 
 ---
@@ -31,7 +31,7 @@ TORRE (4 niveles)       Batalla final → uno de 4 finales · si el Reloj toca 8
 
 ## 📋 Esqueleto de sesiones (orientativo)
 
-El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesiones.
+El Reloj manda; las sesiones son solo una previsión de ritmo para ~13-15 sesiones.
 
 | Fase | Sesiones | Nivel | Reloj típico | Qué pasa |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ El Reloj manda; las sesiones son solo una previsión de ritmo para ~14-15 sesion
 | **Dimensionalis** | Dimensional | Las Llanuras de la Compresión (Cap. 9) | Carcasa Dimensional | Secretos que vendía como mercader de información |
 | **Yrindra** | Dimensional | La Ciudad de Veldrisza (Cap. 10) | Carcasa Dimensional | **La entrada de la Torre** (vía alternativa a Teach); conexión con Menzoberranzan |
 | **Edward Teach** ⚠️ crítico | Híbrido (poder robado) | El Archipiélago de Barbanegra (Cap. 11) | El Talismán y lo absorbido | **La entrada de la Torre**; su derrota **estanca el Reloj 2 hitos** |
-| **Vorthak** ⚠️ crítico | Temporal (drena vida — sin pieza de Rotor) | La Mansión de la Sed Eterna (Cap. 12) | Botín de la Mansión | Su derrota **estanca el Reloj 2 hitos** |
+| **Vorthak** ⚠️ crítico | 🩸 Vida (drena años — sin pieza de Rotor) | La Mansión de la Sed Eterna (Cap. 12) | Botín de la Mansión | Su derrota **estanca el Reloj 2 hitos** |
 | **Ignis** ⚠️ crítico | Dimensional | Las Calderas Dimensionales (Cap. 13) | Carcasa Dimensional · tesoro de dragón | **Abre el ala profunda: Llanuras (Cap. 9) y Veldrisza (Cap. 10)**; estanca el Reloj 2 hitos |
 | *Thyra (caída)* | *Temporal* | *Valle de la Aguja — inaccesible* | *(la mata Teach: SALTO del Reloj)* | *Su valle devastado es el umbral de la Torre* |
 

@@ -15,7 +15,7 @@
 - **Región:** El Abismo de los Posibles
 - **Nivel Recomendado:** 7-8
 - **Bando:** Neutral (decide en Fase 3, según cómo lo trataron los PJ)
-- **Estado de Acceso:** 🔒 Bloqueada (requiere derrotar 1+ lugarteniente)
+- **Estado de Acceso:** 🔓 El Abismo está **abierto desde el inicio** (región de entrada dura, nivel 5-8 — Mapa de Puertas, Cap. 1)
 
 ---
 

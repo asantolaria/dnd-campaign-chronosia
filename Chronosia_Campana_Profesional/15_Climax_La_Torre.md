@@ -198,7 +198,7 @@ No actúan de otra forma —están exhaustos tras ochocientos años— y **no ga
 
 **🟡 Fase 2 — Los Conductos Encarnados (130 PG).** Pierde la regeneración; gana los poderes de los **lugartenientes que sigan vivos** (tacha los caídos).
 - ***Multiataque:*** tres ataques: un golpe de arma a una mano (Espada o *Bastón de Mando*: +11, 2d6+5 cont. + 3d6 mágico, CD 18 SAB o encantado 1 turno) + dos *Descarga Divina* (mano libre para conjurar).
-- ***Llamada a Lugartenientes (1/combate):*** hasta 2 lugartenientes vivos aparecen y luchan por él.
+- ***Llamada a Lugartenientes (1/combate):*** hasta 2 lugartenientes vivos de **CR 9 o menos** aparecen y luchan por él *(con 4 PJ o menos, solo 1; nunca críticos CR 11+ — el tope es de la ficha y es de seguridad)*.
 - ***Extracción de Poder (rec. 5-6):*** enemigo a 30 pies, CD 18 CON o desventaja al ataque; Aethernus cura 25 PG.
 - ***Poderes robados (solo de lugartenientes VIVOS):*** p. ej. envejecimiento 1d4 años (CD 18 CON); *Portal de Fuego* cono 60 pies, CD 18 DES, 12d6 fuego. *Cada lugarteniente caído antes = un poder menos.*
 
@@ -233,7 +233,7 @@ Si **Edward Teach sobrevivió, cruzó la Eliminatoria (con ventaja del Talismán
 
 > *Leído (si Teach usurpa):* "Teach alza el Talismán justo cuando el poder de los dioses queda suelto. «Lo siento, héroes —ríe—, pero un buen pirata no devuelve el botín.» La luz dorada y la sombra violeta no vuelven a sus dueños: se enroscan en el pirata, que crece, que ríe más fuerte, que ya no os mira como a iguales. **Habéis derrocado a un dios para coronar a otro.**"
 
-### Final C · Carrera Divina *(el filo de la navaja)*
+### Final C · Carrera Divina *(no es un cuarto final: es el DIAL de tensión de los finales A/B)*
 
 Cuando el medidor del ritual está **muy alto** (Teach corriendo, PJ rezagados, ritual cerca del 100%) el final se convierte en una **carrera literal contra el porcentaje**. Cada turno cuenta; interrumpir el Cronosellado **retrocede el medidor**, perder turnos lo dispara. Es el Final A o B comprimido en una cuenta atrás visible: los héroes ganan **por los pelos**, o lo ven completarse ante sus ojos (→ Final D). Úsalo para tensar al máximo cuando el grupo llegó tarde pero no *demasiado* tarde. La emoción está en el medidor subiendo mientras ruedan los dados.
 >

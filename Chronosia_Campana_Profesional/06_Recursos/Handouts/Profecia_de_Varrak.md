@@ -69,7 +69,7 @@
 | Estrofa | Qué profetiza | La moneda cae cuando… |
 |---|---|---|
 | **I** | El Reloj del Ritual (8 segmentos, empieza en 2/8) y el Final D | Ven el Contador por primera vez — o cuando marque 6 |
-| **II** | Los lugartenientes son conductos; cortar críticos **estanca** pero no cura; el enemigo es la Torre | Cae su primer lugarteniente y el Contador solo "se atasca" |
+| **II** | Los lugartenientes son conductos; cortar críticos **estanca 2 hitos** pero no cura; el enemigo es la Torre | Cae su primer lugarteniente y el Contador solo "se atasca" |
 | **III** | **Edward Teach, el punto ciego** — ni el oráculo puede verlo | El "hipo" del Contador destapa la cacería de Teach |
 | **IV** | El juicio y ejecución de Marcus — y la instrucción de **no detenerlo a espada** | En pleno juicio (Cap. 14) — el jugador que la relea a tiempo entenderá el "confiad en mí" de Marcus |
 | **V** | La **llave chroniana**: mitad oceánica (bajo el mar) + mitad anacronista (Cronópolis) | Al ver el relieve de las Ruinas o al oír a Galen y Tholassa |

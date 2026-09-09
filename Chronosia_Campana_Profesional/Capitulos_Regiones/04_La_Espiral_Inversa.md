@@ -121,7 +121,8 @@ Un templo que se levanta solo cada ciclo, rodeado de casas que nacen y caen.
 
 **Cándano el Penitente Eterno** (ver statblock) cree que ofrendando sangre "gasta" el día hasta romperlo. Es un fanático local, no un aliado de Serapis por lealtad sino por desesperación.
 
-- **Qué ocurre:** los PJ pueden **salvar al cautivo** (combate contra Cándano + 1-2 **Ecos de Refriega**) o llegar tarde y verlo reiniciarse. Si lo capturan vivo, Cándano delira pero confirma la verdad de la región:
+- **Qué ocurre:** los PJ pueden **salvar al cautivo** (combate contra Cándano + 1-2 **Ecos de Refriega**) o llegar tarde y verlo reiniciarse.
+- **⚠️ Semáforo de dificultad:** a **nivel 4**, Cándano con dos Ecos ronda **el doble del umbral Deadly** (y su *Presciencia* anula tres impactos). Señales: el Hombre que Cuenta lo dice claro ("al sacristán no se le interrumpe: se le madruga"). Válvulas: **atacar al alba** durante su ritual (los Ecos aún no se han "repetido": llega solo), usar el horario del bucle para separarlo del altar, o subir antes a nivel 5 rompiendo el ancla del puente. A nivel 5 es duro y justo. Si lo capturan vivo, Cándano delira pero confirma la verdad de la región:
   > "¿Creéis que lo hago por crueldad? ¡Lo hago para que PARE! El sol está prisionero, ¿no lo veis? Cada día le arrancan un poco más, y mientras él sangre, nosotros giraremos. Yo solo intento… gastar el día antes de que él lo gaste a él."
 - **Pista / botín:** en la cripta, Cándano guarda un **Cristal de Arena** (ancla mayor) y, grabada en la pared con uñas, una verdad que no entendía del todo: *"La arena no es del reloj. Es de Él. Y Él está en el centro, encadenado al Ojo, y otro le sostiene la correa desde una torre que no se ve."* (Primera mención velada de **Aethernus** y la **Torre**.) Destruir el Cristal **afloja el bucle un grado más**.
 - **Lleva a:** con dos anclas rotas (puente + templo), el sendero al Ojo del Tiempo se vuelve transitable.

@@ -12,7 +12,7 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Principal/Líder
 - **Región:** Las Calderas Dimensionales
-- **Nivel Recomendado:** 9-10
+- **Nivel Recomendado:** 8-10 (como su región)
 - **Bando:** Dimensional (Líder del Bando Dimensional)
 - **Estado de Acceso:** 🔒 Bloqueada (accesible desde inicio pero extremadamente peligrosa)
 
@@ -24,7 +24,7 @@
 Ignis puede crear portales dimensionales que conectan con el **Plano Elemental del Fuego y los Nueve Infiernos**, absorbiendo la energía espacial de su entorno y convirtiéndola en poder destructivo. Su dominio sobre los portales de fuego le permite traer ejércitos de criaturas de fuego y demonios, y atacar desde múltiples dimensiones simultáneamente.
 
 **🌋 El trato con Avernus (su verdadera motivación):**
-Ignis no siembra el caos "porque sí" — **cobra por él**. Mantiene abierta la puerta entre Chronosia y Avernus, y **Avernus paga el peaje**: tributo en oro infernal, vasallaje de las criaturas que cruzan y —la parte que Ignis no cuenta a Aethernus— **almas condenadas** que los diablos le entregan como moneda (un dragón que atesora almas es un dragón que atesora *poder*). Es un socio comercial, no un fanático: eso lo hace **negociable** (subirle el precio, demostrarle que Aethernus lo dejará sin negocio al ascender) y **chantajeable** (si Aethernus supiera del desvío de tributo…). El atlas de Karkesh (Cap. 9) ya lo insinúa: *"Avernus paga bien por una puerta. ¿Quién compra las almas?"* — la respuesta duerme sobre la caldera mayor.
+Ignis no siembra el caos "porque sí" — **comercia con él**. El contrato con Avernus tiene **dos flujos** (y cada bando cree que el otro paga más): **Avernus paga la puerta** — oro infernal, vasallaje y las tropas que cruzan (por eso su "Avernus me debe tributo") — e **Ignis paga la cuota en almas**, la única mercancía que un dragón no produce solo. Esa cuota es la que **Szarrak el Cobrador** viene a cobrar y la que llena el **cofre del tributo** del Vado (Cap. 13): cuando el capítulo dice *"quien debe, tiembla"*, habla de esta deuda — un dragón acreedor en oro y deudor en almas. Es un socio comercial, no un fanático: eso lo hace **negociable** (subirle el precio, demostrarle que Aethernus lo dejará sin negocio al ascender) y **chantajeable** (si Aethernus supiera del desvío de tributo…). El atlas de Karkesh (Cap. 9) ya lo insinúa: *"Avernus paga bien por una puerta — oro y colmillos. Pero el peaje de verdad corre al revés: se cobra en **almas**. ¿Quién paga tantas?"* — la respuesta duerme sobre la caldera mayor.
 
 **💎 Cristales de Poder:**
 Cerca de la región de Ignis (Las Calderas Dimensionales) es donde **más cristales de poder hay**. Esta es una fuente importante para La Resistencia, pero la zona es **extremadamente peligrosa** debido a los portales constantes a los Infiernos y las criaturas infernales que trae Ignis.
@@ -55,7 +55,7 @@ Un dragón rojo colosal con escamas que brillan como lava fundida. Sus ojos son 
 ---
 
 **Clase de Armadura:** 18 (armadura natural)  
-**Puntos de Golpe:** 270 (20d20 + 60)  
+**Puntos de Golpe:** 270 (20d20 + 60) *(con 3 PJ o mesas lentas: 210; con 6 PJ: 330)*  
 **Velocidad:** 40 pies, escalada 40 pies, vuelo 80 pies
 
 ---
@@ -116,13 +116,13 @@ Cada criatura elegida por Ignis dentro de 120 pies y que sea consciente de él d
 Como acción, Ignis crea un portal detrás de un enemigo y ataca a través de él, ganando ventaja en el ataque. El portal permanece abierto por 1 turno.
 
 **Portal de Crias (3/día).**  
-Como acción, Ignis crea un portal que lanza 1d2 crías de dragón rojo (CR 4 cada una) que atacan a los enemigos. Las crías permanecen hasta ser derrotadas.
+Como acción, Ignis crea un portal que lanza 1d2 crías de dragón rojo de caldera (CR 5 cada una — statblock en el [Bestiario Regional](../../05_Apendices/Bestiario_Regional/10_Calderas_Dimensionales.md)) que atacan a los enemigos. Las crías permanecen hasta ser derrotadas.
 
 **Portal de Elementales (2/día).**  
 Como acción, Ignis crea un portal que trae 1d4 elementales de fuego (CR 5 cada uno) que luchan por Ignis hasta ser derrotados.
 
 **Portal de Refuerzos (1/día).**  
-Como acción, Ignis empieza a abrir su portal mayor — **tarda 1 ronda entera en abrirse** (un óvalo de llama creciendo: anúncialo). Al completarse trae **1 dragón rojo joven (CR 10)** escoltado por **1d4 crías (CR 4)**. Mientras se abre puede interrumpirse: 25 de daño al portal (CA 14), un *disipar magia* (CD 17) o el Cerrador de Portales lo colapsan. *(Nunca uses la versión antigua de 1d3 dragones CR 10: sobre un CR 13 es un TPK, no un desafío.)*
+Como acción, Ignis empieza a abrir su portal mayor — **tarda 1 ronda entera en abrirse** (un óvalo de llama creciendo: anúncialo). Al completarse trae **1 dragón rojo joven (CR 10)** escoltado por **1d4 crías (CR 5)**. Mientras se abre puede interrumpirse: 25 de daño al portal (CA 14), un *disipar magia* (CD 17) o el Cerrador de Portales lo colapsan. *(Nunca uses la versión antigua de 1d3 dragones CR 10: sobre un CR 13 es un TPK, no un desafío.)*
 
 ---
 
@@ -177,7 +177,7 @@ En iniciativa 20 (perdiendo empates), Ignis usa una de estas — es el único lu
 
 ## 💀 **EFECTO AL MORIR**
 
-Al morir Ignis, **Las Calderas Dimensionales se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). La restauración única de la región está en su capítulo.
+Al morir Ignis, **Las Calderas Dimensionales se restaura** — proceso gradual de 1d4 horas ([regla general](./00_Cronofagos_Detallado.md#-efecto-al-morir-regla-general)). **Matiz regional (Cap. 13):** las bocas que los PJ **cerraron** quedan selladas con tres truenos al caer él; las que **dejaron abiertas** no se cierran solas — tardan **días** y escupen ceniza y rezagados (el "Coste" del capítulo). La restauración única está en su capítulo.
 ---
 
 ## 👑 **COMO LÍDER DEL BANDO DIMENSIONAL**
@@ -188,12 +188,12 @@ Ignis lidera el Bando Dimensional junto con Yrindra y potencialmente Las Gemelas
 
 ## 🎭 **PERSONALIDAD Y ALINEACIÓN**
 
-### **Caótico Malvado:**
-Ignis es **Caótico Malvado** en su esencia más pura. No sigue ningún código, ley o estructura - actúa por impulso y deseo destructivo.
+### **Caótico Malvado — con contabilidad:**
+Ignis es **Caótico Malvado**, pero no un incendiario sin plan: es un **acreedor**. Su caos tiene libro de cuentas (ver *El trato con Avernus*, arriba — la única sección canónica de su motivación): abre portales porque **la puerta es su negocio**, y disfruta la destrucción como un usurero disfruta los intereses.
 
-**Características de su Caos:**
-- **Sin razón aparente:** Abre portales a los Nueve Infiernos simplemente para sembrar el caos, sin objetivo estratégico
-- **Disfruta la destrucción:** No busca poder, control o riqueza - solo disfruta ver el mundo arder
+**Características de su caos con contrato:**
+- **El fuego es el producto:** siembra caos donde el caos cotiza — Avernus paga la puerta, y los incendios "gratuitos" son publicidad
+- **Atesora, no arrasa:** oro infernal, vasallaje y almas (la cuota que paga a Szarrak) — un dragón con balanza
 - **Impulsivo:** Actúa según sus caprichos, sin planificación a largo plazo
 - **Desprecio por el orden:** Rechaza cualquier estructura, jerarquía o regla
 - **Caos por el caos:** La destrucción y el caos son fines en sí mismos, no medios para otro objetivo
@@ -214,7 +214,7 @@ Ignis es **Caótico Malvado** en su esencia más pura. No sigue ningún código,
 
 ### **🎣 Ganchos narrativos (el dragón negociable)**
 - **Subirle el precio:** Ignis es un socio comercial, no un fanático (ver *El trato con Avernus*). Un grupo que le demuestre que **Aethernus ascendido no pagará tributo a nadie** ("¿para qué te quiere un dios, dragón? los dioses no pagan") puede comprarle neutralidad temporal — nunca lealtad.
-- **Chantaje:** si Aethernus supiera del **desvío de almas** que Ignis cobra a Avernus… Los PJ que descubran el trato (atlas de Karkesh, Cap. 9; el Mausoleo, Cap. 13) tienen una palanca que un dragón respeta: la avaricia ajena.
+- **Chantaje:** si Aethernus supiera del **comercio de almas** que Ignis mantiene con Avernus a sus espaldas… Los PJ que descubran el trato (atlas de Karkesh, Cap. 9; el Mausoleo, Cap. 13) tienen una palanca que un dragón respeta: la avaricia ajena.
 - **El tesoro que no es oro:** su verdadero tesoro son **contratos infernales y almas embotelladas** — botín peligrosísimo y semilla directa del gancho de Avernus del [Nexo Planar](../06_Nexo_Planar_y_Continuaciones.md).
 
 ### **🎭 Características Relevantes:**

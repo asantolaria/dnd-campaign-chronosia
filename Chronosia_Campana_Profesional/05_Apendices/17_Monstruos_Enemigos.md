@@ -78,7 +78,7 @@ Thyra, lugarteniente temporal del **Valle de la Aguja**, muere asesinada por **E
 
 ## 🗡️ **BREGAN D'AERTHE**
 
-- ***Agente Infiltrado*** (CR 4) — **base: drow guerrero de élite (MM, CR 5)** con armadura ligera (**CA 16**) y **PG 78**. Añade *invisibilidad* 1/día y *puerta dimensional* 1/día — los "trucos de Jarlaxle". En Chronosia no sufre la Sensibilidad a la Luz Solar: aquí no hay sol.
+- ***Agente Infiltrado*** (CR 4) — **base: drow guerrero de élite (MM, CR 5)** con armadura ligera (**CA 16**) y **PG 71** (los del MM: el CR baja por la defensa, no sube nada). Añade *invisibilidad* 1/día y *puerta dimensional* 1/día — los "trucos de Jarlaxle". En Chronosia no sufre la Sensibilidad a la Luz Solar: aquí no hay sol.
 - ***Operaciones Especiales*** (CR 8) — **base: asesino (MM)** con CA 17 y los mismos trucos que el agente. Es el mismo statblock con el que se resuelve a **Jarlaxle** si alguien comete el error de desenvainar contra él (ver [PNJs](../02_Guia_DM/03_NPCs_Importantes.md)).
 
 ---

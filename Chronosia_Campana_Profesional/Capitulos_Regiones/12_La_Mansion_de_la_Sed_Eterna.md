@@ -138,7 +138,7 @@ El interior de la casa señorial: un comedor de mesa interminable puesta para un
 
 ![Lord Vorthak](../assets/bestiario/lugartenientes/03_lord-vorthak-el-sediento-eterno.jpg)
 
-**CA** 18 (placas + escudo) · **PG** 250 (33d8+99) · **Vel.** 30 pies, escalar 30 pies · FUE +5, DES +3, CON +3, INT +3, SAB +4, CAR +4 · Salv. DES +8, SAB +9, CAR +9 · Resist. necrótico y no mágico contundente/cortante/perforante · Inmune a encantado/agotamiento/envenenado/asustado · P. pasiva 19 · visión en la oscuridad 120 pies
+**CA** 18 (placas + escudo) · **PG** 247 (33d8+99) · **Vel.** 30 pies, escalar 30 pies · FUE +5, DES +3, CON +3, INT +3, SAB +4, CAR +4 · Salv. DES +8, SAB +9, CAR +9 · Resist. necrótico y no mágico contundente/cortante/perforante · Inmune a encantado/agotamiento/envenenado/asustado · P. pasiva 19 · visión en la oscuridad 120 pies
 - ***Reservas Temporales.*** Rodeado de 2d4 secuaces; cada uno almacena hasta 30 PG de reserva.
 - ***Transferencia de Daño (1/ronda, reacción):*** desvía todo el daño de un ataque/efecto a un secuaz con reserva (el secuaz muere si excede su PG). Sin secuaces, no puede usarla.
 - ***Regeneración:*** 15 PG al inicio de cada turno (10 bajo luz solar directa) si tiene ≥1 PG.
@@ -160,7 +160,7 @@ El interior de la casa señorial: un comedor de mesa interminable puesta para un
 
 La **reserva de sangre personal** de Vorthak: un gigante torpe y de mente simple, cubierto de cicatrices de mordiscos — frescas y rojas unas, blancas y viejas otras. Colmillos desafilados de no usarse, ojos rojos pero apagados. No entiende del todo el mal que sirve; solo sabe que "el señor lo necesita" y que sin el señor está muy solo.
 
-**CA** 15 (natural) · **PG** 135 (13d10+64) · **Vel.** 40 pies · FUE +5, DES +1, CON +4, **INT −2**, SAB +0, CAR −1 · Resist. contundente/cortante/perforante no mágico · P. pasiva 10
+**CA** 15 (natural) · **PG** 136 (13d10+65) · **Vel.** 40 pies · FUE +5, DES +1, CON +4, **INT −2**, SAB +0, CAR −1 · Resist. contundente/cortante/perforante no mágico · P. pasiva 10
 - ***Reserva Mayor:*** cuenta como secuaz con reserva temporal de **60 PG** para la *Transferencia de Daño* y la *Resurrección Temporal* de Vorthak. Si Gorath no está en el salón, Vorthak pierde su mejor red.
 - ***Regeneración vampírica:*** 10 PG al inicio de su turno si tiene ≥1 PG y no ha recibido daño radiante ese asalto.
 - ***Multiataque:*** dos *Garrotazos* (+8, 2d8+5 contundente). ***Abrazo del Guardián (reacción, 1/ronda):*** se interpone en un ataque dirigido a Vorthak y lo recibe entero.
@@ -188,7 +188,7 @@ La **reserva de sangre personal** de Vorthak: un gigante torpe y de mente simple
 
 ## Botín de la Mansión
 
-- **El Anillo de Vorthak** (anillo de poder de lugarteniente — ver el [catálogo](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes)): cae con él. Es la pieza gorda.
+- **El Anillo de Vorthak** (anillo de poder de lugarteniente): cae con él… y **se deshace en 1-2 minutos**, como todos los anillos de lugarteniente (la regla vive en el [catálogo](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-sistema-de-anillos-de-poder-de-los-lugartenientes); solo el Talismán de Teach sabe retenerlos). Lo que queda es su **engaste de plata fría** — trofeo, prueba de la muerte del crítico, y componente que Din paga a 200 po. La pieza gorda de verdad es narrativa: el crítico caído **estanca el Reloj 2 hitos**.
 - **La Bodega:** dos tiradas en la tabla de **tesoros menores** (final del catálogo) + 12 botellas del "vino del amo" — décadas robadas embotelladas (25 po/botella a coleccionistas de Cronópolis; beberla envejece 1 año y cura 2d4: los catadores discuten si compensa).
 - **El Observatorio Roto:** el *Libro de las Horas de la Casa* — la historia de Vorthak y su debilidad (ya usada como pista), vendible a los Anacronistas por 150 po o canjeable por favor.
 - **Los huéspedes:** los supervivientes que salgan por su pie son el botín que la región recuerda — cada uno es un testigo, un contacto o una deuda de gratitud en Cronópolis (elige: un gremial, una cartógrafa, un desertor cronófago).

@@ -159,7 +159,7 @@ El grupo descubre que algunos Relojeros fabrican armas con partes del cuerpo de 
 - **📖 Documento completo:** [02_La_Resistencia.md](./02_La_Resistencia.md)
 
 ### **Con los Cronófagos**
-- **Ventajas**: Poder temporal y/o espacial, conocimiento de los secretos del Cónclave
+- **Ventajas**: Poder temporal y/o espacial, y los secretos de la corte de Aethernus (quién odia a quién — munición de sandbox)
 - **Desventajas**: Corrupción moral, efectos secundarios temporales y/o espaciales
 - **Cuándo Aliarse**: Nunca (son los antagonistas principales), pero podrían ser manipulados o infiltrados
 - **📖 Documento completo:** [01_Cronofagos.md](./01_Cronofagos.md)

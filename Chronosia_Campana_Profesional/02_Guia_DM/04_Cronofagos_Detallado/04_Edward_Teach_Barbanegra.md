@@ -9,7 +9,7 @@
 ## 📊 **INFORMACIÓN GENERAL**
 
 - **Raza:** Humano Pirata
-- **Tipo:** Dimensional (Poder de Voidar) + Temporal Robado (de Thyra)
+- **Tipo:** **Híbrido de poder robado** — base dimensional (Voidar) + lo temporal arrancado a Thyra: el único que bebe de los dos caños, y por eso no es conducto de nadie
 - **Rol:** Principal/Independiente/Híbrido
 - **Región:** Archipiélago de Barbanegra
 - **Nivel Recomendado:** 7-9 (como su región; a nivel 7, evitar es estrategia)
@@ -364,7 +364,7 @@ Al morir Edward Teach, **El Archipiélago de Barbanegra se restaura** — proces
 
 ## 🔮 **INFORMACIÓN ULTRA-SECRETA (Solo para el DM)**
 
-Edward Teach NO es solo un oportunista. Es el **único lugarteniente que SOSPECHA el verdadero plan de Manshoon**. Ver detalles completos en [00_Cronofagos_Detallado.md](./00_Cronofagos_Detallado.md#-la-verdadera-motivación-de-edward-teach-información-ultra-secreta).
+Edward Teach NO es solo un oportunista. Es el **único lugarteniente que SOSPECHA el verdadero plan de Manshoon** — la motivación completa está en esta misma ficha (secciones de plan y lore, arriba) y en el [Cap. 14](../../14_Arco_de_Barbanegra.md).
 
 **Puntos Clave:**
 - Sabe que Manshoon está recluido ejecutando un ritual de ascensión divina

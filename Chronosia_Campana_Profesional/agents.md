@@ -42,6 +42,11 @@ Chronosia_Campana_Profesional/
 - **Documentos del DM:** `XX_[Nombre_Descriptivo].md`
 - **Tablas:** `XX_Tablas_[Nombre].md`
 
+#### **⚖️ EL VERIFICADOR DE CANON (obligatorio tras editar):**
+- Ejecuta `python3 exports/check_canon.py` después de CUALQUIER edición de contenido y corrige hasta **0 avisos** (el build también lo lanza).
+- El **manifiesto** dentro del script (tipos, CR, bandas, fósiles prohibidos) es la lista de datos con dueño único: si cambias un dato canónico, cámbialo PRIMERO en su dueño (01_Como_Dirigir.md o la ficha) y DESPUÉS en el manifiesto.
+- Regla de oro que motivó este script: **cada mejora que toque un dato compartido debe grep-ear el dato en todo el corpus** — las auditorías demostraron que coser sin releer a los vecinos crea más deuda de la que paga.
+
 #### **Referencias entre Documentos:**
 - **SIEMPRE** usa rutas relativas desde el archivo actual
 - **SIEMPRE** verifica que los enlaces apunten a archivos existentes

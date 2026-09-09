@@ -24,7 +24,7 @@
 #### **Primera Explicación del Reloj**
 *"Escuchad, jóvenes. Aethernus no se limita a gobernar: está completando un ritual de ascensión divina. Su poder se filtra a través de sus lugartenientes, y mientras tanto la cuenta atrás avanza. Mirad este Contador: ocho segmentos. Cuando se agote, la ascensión se habrá consumado — y entonces ya no habrá nada que hacer."*
 
-*"El Contador avanza con el tiempo: cada región que exploráis a fondo consume semanas, y el ritual aprovecha cada una. También salta con los golpes de Barbanegra. Pero se frena cuando cortáis un canal de poder divino: matar a un crítico —Vorthak, Ignis, el propio Teach— estanca el ritual. Nuestros sabotajes lo congelan una temporada."*
+*"El Contador avanza con el tiempo: cada región que exploráis a fondo consume semanas, y el ritual aprovecha cada una. También salta con los golpes de Barbanegra. Pero se frena cuando cortáis un canal de poder divino: matar a un crítico —Vorthak, Ignis, el propio Teach— estanca el ritual **dos temporadas enteras**. Nuestros sabotajes lo congelan una."*
 
 *"No podéis hacerlo todo. Debéis elegir dónde lucháis. Lo que dejéis sin hacer, lo aprovecha el enemigo."*
 

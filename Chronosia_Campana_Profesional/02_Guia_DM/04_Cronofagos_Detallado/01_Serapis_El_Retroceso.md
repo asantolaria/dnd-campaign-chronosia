@@ -12,7 +12,7 @@
 - **Tipo:** Temporal (Poder de Amaunator)
 - **Rol:** Principal
 - **Región:** La Espiral Inversa
-- **Nivel Recomendado:** 4-5
+- **Nivel Recomendado:** 4-7 (como su región; él es el jefe amable de la banda: CR 5)
 - **Bando:** Temporal (bajo Lord Vorthak) → **⚠️ NO puede aliarse con Vorthak**: Serapis lo desprecia y trama por su cuenta (su plan real pasa por Kaoros y el juicio de Marcus, Cap. 14)
 - **Estado de Acceso:** 🔓 Desbloqueada (accesible desde el inicio)
 
@@ -130,6 +130,7 @@ Serapis **no tiene acciones legendarias**. Como primer lugarteniente y combate d
 - **Reinicio (automático):** cuando Serapis caería a 0 PG, el artilugio **gasta una carga** y **rebobina el combate al inicio de la ronda 1**: todos vuelven a sus posiciones iniciales, PG y recursos gastados *en este combate* restaurados (los suyos y los vuestros), y **todos recuerdan todo**. Los PJ conservan lo aprendido; las anclas/preparaciones destruidas siguen destruidas. Es desconcertante la primera vez y una cuenta atrás después: **hay que matarlo tantas veces como cargas queden.**
 - **Arrancar cargas:** en cada rebobinado, Serapis queda **trabado un instante** con el artilugio ardiendo — un PJ adyacente puede arrancarle una esfera (acción; Atletismo o Juego de Manos CD 16): ese reinicio cuesta **2 cargas**.
 - **A 0 cargas:** el artilugio queda **vacío** (la desolación de Din, Escena 4) y Serapis muere de verdad… hasta el Zin-Carla.
+- **Letra pequeña (las preguntas que hará la mesa):** los **esbirros muertos NO vuelven** con el reinicio (el artilugio protege a su portador, no a su bando — ralear sargentos ES progreso entre bucles); un **PJ a 0 PG** se rebobina **estable a 1 PG** (el aparato no distingue a quién rebobina — otra razón para que la mesa lo odie y lo agradezca a la vez); **capturarlo no lo esquiva**: si Serapis termina una ronda apresado, paralizado o desterrado, el artilugio dispara el reinicio igual que si cayera a 0 (lee "caería a 0 PG" como "está perdido"); el aparato está **fundido a su esternón** — no se le puede quitar entero hasta que se vacíe (después, es la pieza que recoge Din); y las esferas orbitan **dentro de su campo**: robarlas a distancia (*mano de mago*, telequinesis) no funciona — solo la ventana del rebobinado, mano contra mano, CD 16.
 
 ## 🎯 **TÁCTICAS DE COMBATE**
 

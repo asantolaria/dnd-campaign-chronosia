@@ -134,7 +134,7 @@ Sellada la alianza en Xal'azar, Tholassa ofrece lo que ningún habitante de la s
 
 ### 5 · Fuerte Negro del Capitán Barbanegra *(guarida de Edward Teach)*
 
-![Battlemap del Fuerte Negro — la guarida pirata de Teach](../assets/mapas/battlemap-fuerte-negro.png)
+![Battlemap del Fuerte Negro — la guarida pirata de Teach](../assets/mapas/battlemap-fuerte-negro.jpg)
 
 > *Battlemap para el asalto final (cuadrícula lista para VTT o impresión). Mapa: «Pirate Lair» de [Forgotten Adventures](https://www.forgotten-adventures.net/) — CC BY 4.0.*
 
@@ -199,7 +199,7 @@ La fortaleza-isla más alta del archipiélago: torres de basalto negro sobre un 
 - ***Heraldo de la Sal Negra*** — *grande elemental, caótico neutral* · **CR 5** · CA 15 · PG 85. Embate +7, 3d8+4 contundente + empuja; *Quietud sofocante (rec. 6):* envuelve a una criatura que se ahoga en agua inmóvil (CD 15 FUE para liberarse).
 - ***Marinero Distorsionado*** — *mediano no-muerto, neutral maligno* · **CR 4** · CA 13 · PG 58. Alfanje +6, 2d6+3 cortante. Muere y reaparece al inicio de su próximo turno (3 veces antes de disolverse).
 - ***Pirata Élite*** — *mediano humanoide, caótico maligno* · **CR 2** · CA 15 · PG 45. Dos alfanjes +5, 1d6+3 cortante; pistola +5, 1d10+3 perf.
-- ***Krra'thn, la Serpiente del Mar Quieto*** — *gargantuesca monstruosidad, sin alineamiento* · **CR 9** (5.000 XP) · CA 16 (escamas de sal) · PG 190 (13d20+52) · Vel. 10 pies, nadar 60 pies · FUE +7, CON +4 · Salv. FUE +11, CON +8 · P. pasiva 14.
+- ***Krra'thn, la Serpiente del Mar Quieto*** — *gargantuesca monstruosidad, sin alineamiento* · **CR 9** (5.000 XP) · CA 16 (escamas de sal) · PG 188 (13d20+52) · Vel. 10 pies, nadar 60 pies · FUE +7, CON +4 · Salv. FUE +11, CON +8 · P. pasiva 14.
   ***Dormida mientras el mar duerma:*** en el mar en calma muerta, Krra'thn yace inerte en las aguas del nordeste — solo despierta si algo la golpea, si un barco cruza su lomo (Percepción pasiva de la mesa: parece un arrecife negro)… **o cuando el mar despierta** (muerte de Teach). ***Multiataque:*** *Mordisco* (+11, alcance 15 pies, 3d10+7 perf.; CD 17 FUE o agarrado) y *Coletazo* (+11, alcance 20 pies, 2d12+7 contundente; CD 17 FUE o derribado y empujado 20 pies — en el agua, hacia el fondo). ***Tragar:*** contra un agarrado Mediano o menor (CD 16 DES o tragado: 4d6 ácido/turno dentro; salir = 25 de daño interno o que caiga a 0 PG). ***Ola del Despertar (1/día, al despertar):*** todas las embarcaciones a 300 pies, tirada de navegante CD 15 o vuelco. **No es malvada — es enorme:** se la puede *esquivar* (los náufragos de los Lamentos saben por dónde), distraer con carga viva, o guiar contra el Fuerte Negro si alguien muy valiente rema haciendo ruido.
 
 ---

@@ -59,7 +59,7 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Raza**: Enano maestro armero
 - **Especialidad**: Diseña pistolas pesadas y martillos que disparan runas de acero
 - **Personalidad**: Obsesivo con la perfección mecánica, desprecia cualquier cosa que no sea "natural"
-- **Historia**: Su familia cruzó un umbral de la Red de Ymir huyendo de una redada y el portal se cerró tras ellos — **no sabe si viven**; forja tecnología que cierre portales… y que algún día le abra el suyo (el brazo perdido es el del **Capitán Marcus**, su líder — ver [PNJs](../03_NPCs_Importantes.md))
+- **Historia**: Su familia cruzó un umbral de la Red de Ymir huyendo de una redada y el portal se cerró tras ellos — **no sabe si viven**; forja tecnología que cierre portales… y que algún día le abra el suyo (la prótesis del **Capitán Marcus** la diseñó el propio Marcus y la forjó Balthar — ver [PNJs](../03_NPCs_Importantes.md))
 
 ### **⚙️ Lucienne Rietveldt - Maestra Ingeniera**
 - **Raza**: Humana ingeniera
@@ -90,7 +90,7 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Cerrador de Portales** (portátil): aparato que sella portales dimensionales — la respuesta contra los lugartenientes que traen refuerzos por portales (Ymir, Ignis, Yrindra)
 - **Detectores de Magia**: sensores que localizan hechizos (la variante personal de Kaoros los "lee" por vibraciones)
 - **Neutralizador de Campo** (fijo): la instalación anclada en Cronópolis que proyecta la cúpula anti-magia; el escudo de la ciudad
-- **Motor de Viento Perpetuo**: Inventado después del asesinato de Thyra para navegar el mar en calma del Archipiélago de Barbanegra (requiere Rotor Infinito completo)
+- **Motor de Viento Perpetuo**: lo construyen **en cuanto los PJ entregan el Rotor Infinito completo** (una pieza de cada tipo de conducto — Cap. 1); abre el mar en calma del Archipiélago. Cronológicamente suele llegar ANTES del asesinato de Thyra: el Hito 3 de Teach (la forja del Talismán) solo es presenciable si el Motor ya navega (Cap. 14)
 
 ---
 
@@ -98,11 +98,11 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 
 > **Sistema vigente:** La Resistencia ya no monitoriza un "balance temporal/dimensional" (retirado). Co-construye y mantiene el **Contador del Ritual** — el Reloj de 8 segmentos que mide la ascensión de Aethernus. Fuente única: [../../01_Como_Dirigir.md](../../01_Como_Dirigir.md).
 
-### **Estado Inicial (Fase 0-1)**
+### **Estado Inicial (antes del Contador)**
 La Resistencia ha vivido durante años con las distorsiones como parte de su realidad cotidiana. Sus dispositivos funcionaban con normalidad y las distorsiones, aunque constantes, se mantenían estables. No tenían forma de medir cuánto le quedaba al ritual de Aethernus.
 
-### **Primera Señal: Muerte de Thyra (Sesión 5-6)**
-Tras el asesinato de Thyra la Suspendida por Edward Teach, los artefactos más sensibles a lo temporal sufrieron un **pico brutal**: la cuenta atrás del ritual dio un **salto** detectable. Los ingenieros notaron anomalías serias en dispositivos que dependían de la estabilidad temporal y comprendieron que algo había trastocado el ritual a gran escala.
+### **El Contador se construye en Fase 1-2** *(canon: Cap. 1)*
+Junto a los Anacronistas y los sensores de Din, La Resistencia levanta el Contador **poco después de la llegada de los PJ** — se enciende mostrando ya 2/8. Desde entonces, cada hito lo hace crujir… y ninguno como el **SALTO de Thyra** (Cap. 14): cuando Teach la asesina, los artefactos sufren un **pico brutal** y el Contador salta **dos luces seguidas** ante la ciudad entera — la prueba pública de que alguien ha trastocado el ritual a gran escala.
 
 ### **El Contador instalado: la cuenta atrás se hace visible**
 Junto con los **Anacronistas** (que aportan la lectura del ritual) y con los sensores de **Din Goldgear**, La Resistencia construye el **Contador del Ritual**: un marcador de 8 segmentos que mide la ascensión de Aethernus. El dispositivo no se queda en el taller: se instala un **monitor central** en Cronópolis (atrio de la Fortaleza de Acero) de modo que **la ciudad pueda ver cuánto le queda al ritual** desde un punto visible. Así, el estado de la cuenta atrás deja de depender solo de explicadores puntuales: al volver a la ciudad, los PJ y la ciudadanía ven el Contador.
@@ -140,7 +140,7 @@ Se convierte en herramienta crucial para La Resistencia y en **referente visual*
 - **Desventajas**: Hostilidad hacia magos, métodos brutales
 - **Cuándo Aliarse**: Contra enemigos puramente mágicos, cuando necesiten tecnología específica
 
-**⚠️ ADVERTENCIA**: Si hay lanzadores de conjuros en el grupo, La Resistencia los verá como objetivo. Su visión extrema (matar a todos los magos, incluidos los jugadores) los convierte en enemigos potenciales.
+**⚠️ ADVERTENCIA**: si hay lanzadores en el grupo, La Resistencia los tratará como **sospechosos por defecto** — cacheos, focos, escolta (ver el *Peaje del Acero*, arriba). Su ala extremista sí querría ir más lejos; Marcus la contiene. Un lanzador que *libere* en vez de romper sube peldaños (su arco, en [PNJs](../03_NPCs_Importantes.md)).
 
 ---
 

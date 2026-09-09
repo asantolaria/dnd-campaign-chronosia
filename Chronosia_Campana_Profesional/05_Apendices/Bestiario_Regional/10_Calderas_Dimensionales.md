@@ -18,7 +18,7 @@ Drazhûl es un cultista del fuego ascendido a **capataz de las calderas**: dirig
 
 **Statblock** (compacto):
 - ***Capataz Drazhûl*** — *humanoide mediano (cultista transmutado), legal malvado* · **CR** 7 (2900 XP)
-- **CA** 17 (escamas de ceniza) · **PG** 138 (16d8+64) · **Vel.** 30 pies, escalada 20 pies
+- **CA** 17 (escamas de ceniza) · **PG** 136 (16d8+64) · **Vel.** 30 pies, escalada 20 pies
 - **CON 18 (+4), CAR 16 (+3), FUE 16 (+3)** · **CD de conjuro 15** (CAR) · **Sentidos:** visión en la oscuridad 60 pies; **Inmune** a fuego; **Vulnerable** a frío
 - **Rasgos:** *Comunión con la Puerta* — mientras esté a 30 pies de una boca planar de fuego, recupera 10 PG al inicio de cada turno. *Calor Irradiado* — toda criatura que termine su turno a 5 pies de él sufre **1d6 fuego**.
 - **Acciones:** *Multiataque* — un *Látigo de Escoria* y un *Verbo Ígneo*. ***Látigo de Escoria:*** ataque cuerpo a cuerpo +7, alcance 15 pies, **2d8+3 cortante + 2d6 fuego** y atrae al objetivo 10 pies hacia él. ***Verbo Ígneo:*** ataque de conjuro +6, alcance 60 pies, **4d6 fuego**, CD 15 DES para mitad. *Acción temática — **Avivar la Puerta***: una boca planar a la vista escupe fuego (cono 20 pies, CD 15 DES, **6d6 fuego**) y Drazhûl gana resistencia a todo daño hasta su próximo turno.
@@ -28,7 +28,7 @@ Drazhûl es un cultista del fuego ascendido a **capataz de las calderas**: dirig
 
 ## 🐾 Bestias Firma
 
-- ***Cría de Dragón Rojo de Caldera*** — *dragón mediano, caótico malvado* · **CR** 5 (1800 XP). CA 17 · PG 95 (10d10+40) · Vel. 30 pies, vuelo 60 pies. Inmune a fuego. *Nacida en la Puerta:* puede pasar por una boca planar como acción adicional, reapareciendo en otra de la región. **Multiataque:** dos mordiscos/garras, +7, **2d6+4** (mordisco +1d4 fuego). ***Aliento Ígneo (recarga 5-6):*** cono 15 pies, **8d6 fuego**, CD 14 DES mitad. Camadas de Ignis que patrullan los cráteres y cruzan al Plano del Fuego para alimentarse.
+- ***Cría de Dragón Rojo de Caldera*** — *dragón Grande, caótico malvado* · **CR** 5 (1800 XP). CA 17 · PG 95 (10d10+40) · Vel. 30 pies, vuelo 60 pies. Inmune a fuego. *Nacida en la Puerta:* puede pasar por una boca planar como acción adicional, reapareciendo en otra de la región. **Multiataque:** dos mordiscos/garras, +7, **2d6+4** (mordisco +1d4 fuego). ***Aliento Ígneo (recarga 5-6):*** cono 15 pies, **8d6 fuego**, CD 14 DES mitad. Camadas de Ignis que patrullan los cráteres y cruzan al Plano del Fuego para alimentarse.
 
 - ***Salamandra de Frontera*** — *elemental grande, neutral malvado* · **CR** 5 (1800 XP). CA 15 · PG 90 (12d10+24) · Vel. 30 pies. Inmune a fuego; vulnerable a frío. *Cuerpo Ardiente:* quien la golpee a melé sufre **1d6 fuego**. **Multiataque:** lanza (+7, **2d6+4 perforante + 1d6 fuego**) y cola constrictora (+7, **2d8+4 contundente + 1d6 fuego**, agarra CD 14). Mercenarias del Plano del Fuego que cruzan por contrato con Drazhûl; algunas recuerdan Avernus.
 

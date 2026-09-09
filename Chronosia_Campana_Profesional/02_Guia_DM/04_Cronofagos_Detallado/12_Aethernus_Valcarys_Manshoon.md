@@ -41,7 +41,7 @@ Manshoon ha descubierto la **fórmula para extraer el poder de Amaunator y Voida
 - Es el único lugarteniente que representa una amenaza real al plan de Manshoon
 
 **La guerra entre lugartenientes - La Verdad:**
-La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgánicamente después de que Edward Teach asesinara a Thyra, y Manshoon (distraído por su ritual) simplemente lo aprovechó para mantenerlos ocupados mientras él completa su ascensión.
+La competencia entre lugartenientes NO fue planeada por Manshoon. Surgió orgánicamente después de que Edward Teach asesinara a Thyra — y Manshoon, recluido en el ritual, **ni se ha enterado** (su Ignorancia, arriba): la guerra de lugartenientes prospera precisamente porque el trono está vacío. Nadie la aprovecha; ella lo devora.
 
 ### **👁️ Apariencia Física:**
 - **Edad aparente**: 60-70 años con vitalidad sobrenatural
@@ -139,7 +139,7 @@ Al encajar las dos mitades por primera vez, el keystone **tira del otro extremo 
 **Apertura** *(cuando los PJ irrumpen en la Cámara de Ascensión)*:
 > "Llegáis a tiempo — lo digo como experto. ¿Sabéis cuántos Manshoon hay ahora mismo en el multiverso? Demasiados. Copias discutiendo por un nombre. Cuando esto termine habrá **uno**, y será un dios, y toda esa vergüenza habrá sido… editada. Vosotros podéis quedaros a mirar. Los testigos también sirven."
 
-**Transición a Fase 2** *(al agotar la primera barra — invoca el Cónclave)*:
+**Transición a Fase 2** *(al agotar la primera barra — encarna los Conductos)*:
 > "Bien. *Muy* bien. Hacía décadas que nada me obligaba a soltar el ritual con las dos manos. Veamos qué opináis de mi colección: cada uno de mis lugartenientes me devuelve ahora lo prestado… con intereses. ¿No os parece justo? Todo el que me sirve acaba sirviéndome **entero**."
 
 **Transición a Fase 3** *(al agotar la segunda barra — el ritual se desestabiliza)*:
@@ -369,7 +369,7 @@ Cuando Aethernus muere, **Chronosia comienza a restaurarse completamente a la no
 - **Ignorancia:** NO sabe de las traiciones y alianzas entre sus lugartenientes
 - **Vulnerabilidad:** Su aislamiento es su mayor debilidad
 
-Ver detalles completos en [00_Cronofagos_Detallado.md](./00_Cronofagos_Detallado.md#-la-verdad-sobre-su-plan).
+El detalle completo está **arriba, en esta misma ficha** ([La verdad sobre su plan](#-la-verdad-sobre-su-plan-información-ultra-secreta)).
 
 ---
 

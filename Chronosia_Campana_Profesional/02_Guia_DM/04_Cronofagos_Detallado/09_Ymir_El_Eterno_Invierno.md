@@ -12,7 +12,7 @@
 - **Tipo:** Dimensional (Poder de Voidar)
 - **Rol:** Lugarteniente Dimensional - **Reclutador Interplanar**
 - **Región:** Glacialis
-- **Nivel Recomendado:** 6-7
+- **Nivel Recomendado:** 4-7 (como su región; su guarida, el Portal de las Estrellas, pide 5+)
 - **Bando:** Variable (puede aliarse o actuar independientemente según decisiones)
 - **Estado de Acceso:** 🔓 Desbloqueada (accesible desde el inicio)
 
@@ -56,12 +56,12 @@ Frío y calculador, habla con una voz que resuena como el crujido del hielo. Con
 ## ⚔️ **STATBLOCK COMPLETO**
 
 ### **YMIR EL ETERNO INVIERNO**
-*Elemental Gigante (Elemental de Hielo Ancestral), Neutral Malvado*
+*Elemental Enorme (Elemental de Hielo Ancestral), Neutral Malvado*
 
 ---
 
 **Clase de Armadura:** 16 (armadura natural)  
-**Puntos de Golpe:** 170 (20d10 + 60)  
+**Puntos de Golpe:** 190 (20d12 + 60)  
 **Velocidad:** 40 pies
 
 ---

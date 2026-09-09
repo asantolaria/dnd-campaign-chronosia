@@ -39,7 +39,7 @@ Antiguo sacristán del valle, Cándano fue el primero en darse cuenta de que el 
   - **Tácticas / Al ser derrotado:** Se disuelve y vuelve a aparecer al inicio del siguiente bucle salvo que se destruya su "ancla" (un arma oxidada clavada en el suelo).
 
 - ***Rebobinador*** — *pequeño aberración (parásito temporal), neutral* · **CR** 3 (700 XP)
-  - **CA** 14 · **PG** 45 (7d8+14) · **Vel.** 20 pies, trepar 20 pies
+  - **CA** 14 · **PG** 45 (10d6+10) · **Vel.** 20 pies, trepar 20 pies
   - **Atributos relevantes:** DES +4, CON +2, INT -2
   - **Sentidos:** visión en la oscuridad 60 pies, Percepción pasiva 11; **CD** de su poder 13
   - **Rasgo:** *Se alimenta de instantes:* recupera 10 PG cada vez que fuerza con éxito un rebobinado.
@@ -48,7 +48,7 @@ Antiguo sacristán del valle, Cándano fue el primero en darse cuenta de que el 
     - *Rebobinar turno (recarga 6):* una criatura a 30 pies debe superar salv. CON CD 13 o su turno "no ha sucedido": vuelve a empezar el turno tal como estaba, pero pierde su acción y la mitad del movimiento ya gastado, como si el tiempo retrocediera bajo sus pies.
   - **Tácticas / Al ser derrotado:** Estalla en un destello de tiempo invertido; las criaturas a 5 pies rejuvenecen visiblemente un instante (sin efecto mecánico, solo horror).
 
-- ***Aldeano Vuelto Niño*** — *mediano humanoide (revertido), no-muerto inocente* · **CR** 1 (200 XP)
+- ***Aldeano Vuelto Niño*** — *mediano no-muerto (aldeano revertido — inocente)* · **CR** 1 (200 XP)
   - **CA** 11 · **PG** 22 (4d8+4) · **Vel.** 30 pies
   - **Atributos relevantes:** DES +1, CON +1, CAR +2
   - **Sentidos:** Percepción pasiva 10

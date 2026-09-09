@@ -2,7 +2,7 @@
 
 ![Mapa de Glacialis](../assets/mapas/03_glacialis.png)
 
-> **Región dimensional** · **Lugarteniente:** Ymir el Eterno Invierno · **Nivel:** 4-7 · **Puerta:** abierta desde el inicio (región de entrada) · **Recompensa:** la **Carcasa Dimensional** (pieza dimensional del Rotor Infinito).
+> **Región dimensional** · **Lugarteniente:** Ymir el Eterno Invierno · **Nivel:** 4-7 *(la ruta de mojones y la Ciudad de Hielo, a 4; la Red de Umbrales pide 5+, y el Portal de las Estrellas —Ymir, CR 8 con legendarias— **castiga a nivel 4**: es la gemela dura de la Espiral)* · **Puerta:** abierta desde el inicio (región de entrada) · **Recompensa:** la **Carcasa Dimensional** (pieza dimensional del Rotor Infinito).
 
 Glacialis es un páramo donde el horizonte nunca termina: una llanura blanca cosida de **portales de hielo** que cuelgan en el aire como esquirlas de un espejo roto, y por cada esquirla respira otro mundo. A través de unos sopla el viento muerto del Plano del Aire; por otros rezuma el agua negra y helada del Plano Elemental del Agua; por uno, allá al fondo, se ve un cielo que **no es ningún cielo de Chronosia**, lleno de estrellas que se mueven mal. Ymir no conquista con ejércitos: **recluta**. Arrastra a través de su red planar todo lo que muere de frío y lo devuelve hecho heraldo. El silencio de Glacialis no es paz: es la pausa de una puerta antes de que algo la cruce desde el otro lado.
 
@@ -147,11 +147,11 @@ El nodo central: un **maelström de hielo y vacío** —un embudo gigante girand
 ## Reparto de la región (referencia de combate)
 
 ### Ymir el Eterno Invierno — lugarteniente
-*Elemental gigante (elemental de hielo ancestral), neutral maligno* · **CR 8** (3.900 XP)
+*Elemental Enorme (elemental de hielo ancestral), neutral maligno* · **CR 8** (3.900 XP)
 
 ![Ymir el Eterno Invierno](../assets/bestiario/lugartenientes/09_ymir-el-eterno-invierno.jpg)
 
-**CA** 16 (natural) · **PG** 170 (20d10+60) · **Vel.** 40 pies · FUE +5, CON +3, SAB +2 · Salv. CON +6, SAB +5 · Resist. frío/espacial · **Vulnerable a fuego** · Inmune a *agotamiento, paralizado, petrificado, aturdido, inconsciente* · P. pasiva 15 · **Resistencia Legendaria 1/día**.
+**CA** 16 (natural) · **PG** 190 (20d12+60) · **Vel.** 40 pies · FUE +5, CON +3, SAB +2 · Salv. CON +6, SAB +5 · Resist. frío/espacial · **Vulnerable a fuego** · Inmune a *agotamiento, paralizado, petrificado, aturdido, inconsciente* · P. pasiva 15 · **Resistencia Legendaria 1/día**.
 - ***Multiataque:*** *Puño de Hielo* (+8, 10 pies, 2d8+5 contundente + 2d6 frío; CD 15 CON o velocidad a la mitad) + *Aliento de Hielo*.
 - ***Aliento de Hielo (rec. 5-6):*** cono 30 pies, CD 15 CON, 6d6 frío (mitad si supera) + velocidad a la mitad.
 - ***Cristalización (3/día):*** área 30×30 pies = terreno difícil, CD 15 DES o 2d6 cortante al cruzar.

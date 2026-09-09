@@ -84,7 +84,7 @@ Dimensionalis existe simultáneamente en múltiples dimensiones. Como acción de
 El cuerpo de Dimensionalis muestra múltiples versiones de sí misma en diferentes planos, todas visibles simultáneamente. Cuando recibe daño, tira 1d6. Con un 5-6, el daño afecta a una "versión dimensional" y se reduce a la mitad.
 
 **Separación Dimensional.**  
-Dimensionalis puede separar a los jugadores en habitaciones dimensionales cerradas. Ver mecánicas completas en [00_Cronofagos_Detallado.md](./00_Cronofagos_Detallado.md#-mecánicas-de-separación-dimensional).
+Dimensionalis puede separar a los jugadores en habitaciones dimensionales cerradas. Las mecánicas completas están **abajo, en esta misma ficha** ([Mecánicas de Separación Dimensional](#-mecánicas-de-separación-dimensional)).
 
 **Inmunidad Dimensional.**  
 Dimensionalis es inmune a efectos que alteran el espacio, incluyendo *puerta dimensional* y efectos de compresión/expansión espacial.
@@ -111,7 +111,7 @@ Dimensionalis crea una fractura dimensional que ataca al enemigo desde múltiple
 *Impacto:* 14 (4d6) de daño espacial. El objetivo tiene desventaja en sus tiradas hasta el final de su siguiente turno.
 
 **Separación Dimensional (1/día).**  
-Como acción, Dimensionalis separa a los jugadores en habitaciones dimensionales cerradas, con 1-2 criaturas **CR ≤ 4** por habitación (esbirros temáticos: doppelgängers fracturados, mephits, ogros desplazados, elementales menores). Ver mecánicas completas en [00_Cronofagos_Detallado.md](./00_Cronofagos_Detallado.md#-mecánicas-de-separación-dimensional).
+Como acción, Dimensionalis separa a los jugadores en habitaciones dimensionales cerradas, con 1-2 criaturas **CR ≤ 4** por habitación (esbirros temáticos: doppelgängers fracturados, mephits, ogros desplazados, elementales menores). Mecánicas completas **abajo** ([Mecánicas de Separación Dimensional](#-mecánicas-de-separación-dimensional)).
 
 Los jugadores deben derrotar a todas las criaturas en su habitación para escapar.
 

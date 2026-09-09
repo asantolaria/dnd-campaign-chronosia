@@ -102,11 +102,11 @@ Las víctimas petrificadas por Medusa quedan atrapadas en un momento congelado, 
 **Multiataque.**  
 Medusa realiza tres ataques: dos con *Serpientes de Tiempo* y uno con *Mirada Temporal*.
 
-**Serpientes de Tiempo.** *Ataque con Arma Cuerpo a Cuerpo:* +8 al ataque, alcance 5 pies, un objetivo.  
+**Serpientes de Tiempo.** *Ataque con Arma Cuerpo a Cuerpo:* +6 al ataque, alcance 5 pies, un objetivo.  
 *Impacto:* 5 (1d4 + 3) de daño perforante más 7 (2d6) de daño temporal.  
 El objetivo debe hacer salvación de Constitución CD 15 o su velocidad se reduce a la mitad hasta el final de su siguiente turno.
 
-**Mirada Temporal.** *Ataque con Conjuro:* +8 al ataque, alcance 30 pies, un objetivo que pueda ver.  
+**Mirada Temporal.** *Ataque con Conjuro:* +6 al ataque, alcance 30 pies, un objetivo que pueda ver.  
 Medusa congela el tiempo de un enemigo con su mirada.  
 *Impacto:* 9 (2d8) de daño temporal, y el objetivo debe hacer salvación de Sabiduría CD 15 o queda **paralizado**. Al final de cada uno de sus turnos repite la salvación, terminando el efecto sobre sí mismo si tiene éxito.
 
