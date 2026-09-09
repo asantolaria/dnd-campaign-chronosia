@@ -9,7 +9,7 @@
 ## 📊 **INFORMACIÓN GENERAL**
 
 - **Raza:** Vampiro Ancestral
-- **Tipo:** **Vida** — drena años, no canaliza a ningún dios (ni Amaunator ni Voidar): **no suelta pieza de Rotor ni Arena del Tiempo** (Cap. 1). Lidera el *bando* temporal por política, no por conducto
+- **Tipo:** **Vida** — drena años con un **goteo prestado de la Torre** (canal MIXTO: ambos dioses a la vez — por eso es un **crítico**: matarlo corta un canal divino). Ese canal mezclado **no cristaliza**: no suelta pieza de Rotor ni Arena del Tiempo (Cap. 1). Lidera el *bando* temporal por política, no por afinidad
 - **Rol:** Principal/Líder
 - **Región:** La Mansión de la Sed Eterna
 - **Nivel Recomendado:** 8-10 (como su región)

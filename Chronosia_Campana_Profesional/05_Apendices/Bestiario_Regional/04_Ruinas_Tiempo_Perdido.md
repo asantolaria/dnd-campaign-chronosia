@@ -6,7 +6,7 @@
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 
-Las Ruinas del Tiempo Perdido son los restos de una ciudad-reloj que existió "entre tics", fuera del flujo normal del tiempo. Engranajes del tamaño de torres giran sin sentido en el aire, escaleras suben hacia ayeres que ya no están, y un orden mecánico moribundo —eco lejano del nexo planar de Mechanus— intenta seguir funcionando aunque el reloj central, Tempus, esté roto. Aquí el tiempo no se repite ni retrocede: simplemente se desordena, y los guardianes de relojería ejecutan instrucciones de hace milenios.
+Las Ruinas del Tiempo Perdido son los restos de una ciudad-reloj que existió "entre tics", fuera del flujo normal del tiempo. Engranajes del tamaño de torres giran sin sentido en el aire, escaleras suben hacia ayeres que ya no están, y un orden mecánico moribundo —eco lejano del nexo planar de Mechanus— intenta seguir funcionando aunque el reloj central, Tempus, esté roto. Aquí el tiempo no se repite ni retrocede: simplemente se desordena, y los guardianes de relojería ejecutan instrucciones de hace ochocientos años — las últimas que nadie les dio.
 
 ## 😈 Villano Menor — Magistrado Cerografo, el Engranaje Desfasado
 

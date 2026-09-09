@@ -143,7 +143,7 @@
 
 **Descripción Física**: Un hombre de mediana edad, siempre vestido con un delantal de cuero manchado de aceite y herramientas de relojería colgando de su cinturón. Sus manos son firmes y precisas, sus ojos de un azul profundo que parece ver más allá del tiempo mismo. Su cabello gris plateado está siempre despeinado, como si hubiera pasado la noche trabajando.
 
-**Historia**: Era un simple relojero antes de que comenzaran las distorsiones temporales. Cuando el primer desgarro temporal sacudió el mundo, él simplemente... no cambió. Mientras todo a su alrededor se alteraba, él siguió siendo el mismo, trabajando en sus relojes como si nada hubiera pasado.
+**Historia**: Era un aprendiz de relojero cuando el primer desgarro del Cronosellado alcanzó Cronosgate, hace décadas. Todo a su alrededor se alteró; él simplemente... no cambió. Y no ha vuelto a cambiar: **su inmunidad también congela sus años** — lleva desde entonces clavado en la misma mediana edad, y el barrio hace tiempo que dejó de preguntar. (Es lo que significa "el Inmutable": el tiempo no lo toca, ni para romperlo ni para gastarlo.)
 
 **Poderes Únicos**:
 - **Inmunidad Temporal**: Los efectos de distorsión temporal no le afectan en absoluto
@@ -518,7 +518,7 @@ Cronópolis es el único bastión seguro; en cada región hay poblados que viven
 ## 👑 **AETHERNUS VALCARYS - EL ETERNO (Manshoon Clone #47)**
 
 ### **Descripción Física**
-- **Raza**: Humano (aunque tras siglos de abuso del poder temporal su cuerpo se distorsionó)
+- **Raza**: Humano (décadas de poder divino le pasan factura *por dentro* — la perfección exterior es pura vanidad disciplinada: ver la línea siguiente)
 - **Apariencia**: Anciano de 60-70 años con vitalidad sobrenatural — coleta plateada, barba en punta, ojos que cambian del azul frío al rojo (descripción canónica completa en su [ficha](04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md)). *(El rostro mitad-niño mitad-anciano es el estigma de los cronófagos MENORES —Kaelthas lo luce en la Fase 0—: Aethernus, que bebe de la fuente y no del goteo, no paga ese precio. Esa perfección es su vanidad.)*
 - **Vestimenta**: Capa de hilos temporales que brillan con la luz de mil estrellas, corona de cristales que laten como corazones
 

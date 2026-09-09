@@ -159,7 +159,7 @@ El sacrificio ya **no** se dispara por desbalance, sino por una **relación cons
 | **Thyra**         | Temporal (caída)      | ⚰️ Muerta  | Fase 1               | Valle de la Aguja         | Asesinada por Teach (hito fijo) |
 | **Serapis**       | Temporal    | ✅ Activo   | —                    | La Espiral Inversa        | Bando Temporal                |
 | **Varrak**        | Temporal    | ✅ Activo   | —                    | El Abismo de los Posibles | Neutral; elige en Fase 3, 🔮 puede sacrificarse si es aliado y el reloj ≥6/8 |
-| **Vorthak**       | 🩸 Vida (drena años) | ✅ Activo   | —                    | La Mansión de la Sed Eterna | Líder del bando temporal por política, no conducto (crítico) |
+| **Vorthak**       | 🩸 Vida (drena años) | ✅ Activo   | —                    | La Mansión de la Sed Eterna | Líder del bando temporal por política; conducto MIXTO que no cristaliza (crítico) |
 | **Edward Teach**  | ⚓ Híbrido (poder robado) | ✅ Activo   | —                    | El Archipiélago de Barbanegra | Crítico, tiene Talismán; bando propio |
 | **Dimensionalis** | Dimensional | ✅ Activo   | —                    | Las Llanuras de la Compresión | Independiente             |
 | **Ignis**         | Dimensional | ✅ Activo   | —                    | Las Calderas Dimensionales | Líder Bando Dimensional (crítico) |

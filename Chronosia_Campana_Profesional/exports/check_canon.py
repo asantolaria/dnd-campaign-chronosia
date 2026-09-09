@@ -62,6 +62,8 @@ FOSILES = [
     (r"ocup[éo] (el hueco|su lugar)", (), "nadie fue suplantado: Kaoros es agente doble, Serapis opera a distancia"),
     (r"bando (\w+ )?esta ganando|segun (el )?bando ganador", ("no hay", "no segun", "no existe"), "no hay sistema de 'bando ganador' (Cap. 1)"),
     (r"recuento que abre", (), "las puertas se abren con piezas, no con recuentos de lugartenientes"),
+    (r"(oceanicos|perla)[^.\n]{0,50}milenios|milenios[^.\n]{0,50}(oceanicos|perla)", (), "los Oceánicos existen desde la división (~800 años), no milenios"),
+    (r"siglos de (abuso|ocupacion|servicio|drenaje)", ("ochenta", "decadas", "no ", "subjetiv"), "la ocupación/el poder de Aethernus tiene DÉCADAS (~80 años), no siglos"),
 ]
 
 # Invariantes del Reloj: si una línea habla del efecto de matar a un crítico, debe decir 2.

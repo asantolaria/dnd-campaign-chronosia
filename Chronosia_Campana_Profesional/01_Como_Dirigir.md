@@ -97,7 +97,7 @@ De 2 a 8 hay **~6 hitos**, y el **SALTO de Thyra consume 2 de golpe** (Cap. 14) 
 
 | Frena el ritual |
 |---|
-| **Cortar un crítico** (Teach · Ignis · Vorthak) → corta un canal divino: el ritual **se estanca 2 hitos** (los próximos 2 no suben) |
+| **Cortar un crítico** (Teach · Ignis · Vorthak) → corta un caudal divino (el canal de Ignis, el canal mixto de Vorthak o, en el caso de Teach, **el sifón que roba a los demás**): el ritual **se estanca 2 hitos** (los próximos 2 no suben) |
 | **Misión de sabotaje** (de los Anacronistas **o** de La Resistencia — Marcus) → estanca **1 hito** |
 | **El sacrificio de Varrak** → **−1 segmento** (lo ÚNICO que hace retroceder el Reloj) |
 

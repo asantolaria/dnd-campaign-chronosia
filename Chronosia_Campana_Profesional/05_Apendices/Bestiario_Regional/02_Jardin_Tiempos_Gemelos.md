@@ -60,7 +60,7 @@ Caelith fue el horticultor que cuidó el jardín antes de la distorsión. La est
 
 - **Vondrel Pétreocaña** (enano, anticuario/comerciante neutral) — Coleccionista que merodea los bordes del jardín comprando "estatuas con expresión demasiado humana". *Personalidad:* avaro, irónico, sospechosamente bien informado. *Ofrece:* polvo de *Liberar Estasis* (objeto consumible que da ventaja para salir de la petrificación parcial) y rumores sobre dónde duerme Medusa la Eterna — a cambio de oro o de una estatua "fresca".
 
-- **Hermano Quill** (mediano monje petrificado a medias, neutral bueno) — Atrapado de cintura para abajo en piedra junto a una fuente, lleva décadas inmóvil pero plenamente consciente. *Personalidad:* sereno hasta lo inquietante, ha tenido siglos para pensar. *Ofrece/gancho:* a cambio de ser liberado (*restablecimiento mayor* o derrotar a Caelith), revela el patrón de la mirada de Medusa y dónde el reflejo de las Gemelas es más débil al alba.
+- **Hermano Quill** (mediano monje petrificado a medias, neutral bueno) — Atrapado de cintura para abajo en piedra junto a una fuente, lleva décadas inmóvil pero plenamente consciente. *Personalidad:* sereno hasta lo inquietante — décadas inmóvil dan para pensar más que muchas vidas enteras. *Ofrece/gancho:* a cambio de ser liberado (*restablecimiento mayor* o derrotar a Caelith), revela el patrón de la mirada de Medusa y dónde el reflejo de las Gemelas es más débil al alba.
 
 ---
 

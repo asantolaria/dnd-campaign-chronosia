@@ -32,7 +32,7 @@ Donde los Chronianos habrían intentado sanar el equilibrio, el clon vio una **o
 
 > **📅 La cuenta, en una línea:** la **fractura**, hace ~800 años · el **Clon #47** halló Chronosia hace **poco menos de un siglo** · el **Cronosellado** encadenó a los dioses hace ~80 años · **Teach** llegó hace ~25 y comerció veinte años con los Oceánicos · la **campaña** empieza hoy. *(Los "ocho siglos" son del mundo roto; la ocupación cronófaga tiene ocho décadas.)*
 
-No lo hace solo. Aethernus reparte fragmentos de ese poder robado entre sus **lugartenientes**, los **Cronófagos**: cada uno es un **conducto** vivo de la fuerza de un dios cautivo. Por eso Serapis revierte el tiempo, Ymir abre portales, Vorthak drena la vida: **no es poder suyo**. Es luz robada a Amaunator, vacío robado a Voidar. Mientras los lugartenientes drenan, Aethernus asciende. Y cuanto más poderosos se vuelven ellos, **más se acerca él a la divinidad**.
+No lo hace solo. Aethernus reparte fragmentos de ese poder robado entre sus **lugartenientes**, los **Cronófagos**: cada uno es un **conducto** vivo de la fuerza de un dios cautivo. Por eso Serapis revierte el tiempo, Ymir abre portales y Vorthak drena la vida: **no es poder suyo**. Es luz robada a Amaunator, vacío robado a Voidar. Mientras los lugartenientes drenan, Aethernus asciende. Y cuanto más poderosos se vuelven ellos, **más se acerca él a la divinidad**.
 
 Aethernus lleva años recluido, invisible, en la **Torre de la Eternidad** —una fortaleza en una dimensión de bolsillo, fuera del alcance de todo—, entregado al ritual. Está tan cerca del final que ya **no da órdenes**: el poder fluye solo, en automático, hacia quien más drena. Ni siquiera sabe lo que ocurre afuera.
 

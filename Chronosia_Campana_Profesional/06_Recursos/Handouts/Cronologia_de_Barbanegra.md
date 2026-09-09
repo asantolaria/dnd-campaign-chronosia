@@ -25,7 +25,7 @@
 ### `[ ]` FRAGMENTO 1 — *El robo*
 **Se revela:** al iniciar la investigación (Fase 1, cuando el grupo decide limpiar su nombre).
 
-> Confirmado: dos robos, dos santuarios, **la misma mano**. Primero la **Perla**, arrancada del templo sumergido de Abysara sobre cuarenta y siete cadáveres; semanas después, el **Cronómetro**, desde la Cámara del Tiempo de Cronópolis — y aquí las guardas no se forzaron: se **anularon**, como si el tiempo de la cerradura nunca hubiera existido. Esto no fue obra de aficionados forasteros. Fue obra de alguien que sabe *pararlo*.
+> Confirmado: dos robos, dos santuarios, **la misma mano**. Primero la **Perla**, arrancada del templo-arrecife de **Xal'azar** sobre cuarenta y siete cadáveres (los del mar guardan hoy un altar vacío en Abysara, con una lanza por cada muerto); semanas después, el **Cronómetro**, desde la Cámara del Tiempo de Cronópolis — y aquí las guardas no se forzaron: se **anularon**, como si el tiempo de la cerradura nunca hubiera existido. Esto no fue obra de aficionados forasteros. Fue obra de alguien que sabe *pararlo*.
 
 ---
 

@@ -147,7 +147,7 @@ Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mo
 - Los Oceánicos lo consideran aliado confiable
 
 **El robo de la Perla (pasado reciente — ~hito 1-2 del Reloj, ver Cap. 14):**
-- Teach visita Abysara usando portales dimensionales
+- Teach asalta **Xal'azar** (el templo-arrecife donde se custodiaba la Perla — a Abysara nunca lo dejaron bajar) usando portales dimensionales
 - **Roba la Perla del Vacío Primordial**
 - **MASACRE DE 47 GUERREROS OCEÁNICOS** que intentan detenerlo
 - La Reina Nereia declara **VENDETTA ETERNA** contra Edward Teach

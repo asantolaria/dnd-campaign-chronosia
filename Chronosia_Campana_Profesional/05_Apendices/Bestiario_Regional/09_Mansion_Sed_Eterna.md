@@ -2,7 +2,7 @@
 
 ![Mapa de La Mansión de la Sed Eterna](../../assets/mapas/09_mansion-de-la-sed-eterna.png)
 
-## Lugarteniente: Lord Vorthak · Tipo: Vida (drena años — ni Amaunator ni Voidar) · Nivel PJ: 8-10
+## Lugarteniente: Lord Vorthak · Tipo: Vida (drena años — canal mixto de la Torre, no cristaliza en pieza) · Nivel PJ: 8-10
 
 > Da vida propia a la región más allá del lugarteniente: un villano menor, bestias firma y NPCs locales.
 

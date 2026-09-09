@@ -194,13 +194,13 @@ Cuando se combina con la Perla del Vacío Primordial, crea el Talismán de Inter
 **Rareza:** Artefacto Único  
 **Peso:** Ingrávida (flota si se suelta)  
 **Origen:** Desconocido (posiblemente de otro plano)  
-**Ubicación Original:** Templo del Vacío, Abysara (Oceánicos de las Profundidades)  
+**Ubicación Original:** el templo-arrecife de **Xal'azar** (Archipiélago — su santuario de superficie; en Abysara queda hoy el **altar vacío de las 47 lanzas**)  
 **Estado Actual:** ⚠️ Robado por Edward Teach (Sesión 4-5)
 
 #### **📍 Ubicación y Obtención:**
 
 **Ubicación Inicial (Sesión 1-4):**
-- **Lugar:** Templo del Vacío, Ciudad Sumergida de Abysara
+- **Lugar:** el templo-arrecife de Xal'azar (Archipiélago, Cap. 11) — el memorial de las 47 lanzas está en Abysara
 - **Profundidad:** 2 millas bajo la superficie, 10 millas al sur del Archipiélago de Barbanegra
 - **Protección:** Guardias Oceánicos y la Reina Nereia
 - **Acceso:** Imposible llegar sin magia o ayuda de los Oceánicos (presión de 2 millas es mortal)
@@ -225,7 +225,7 @@ Cuando se combina con la Perla del Vacío Primordial, crea el Talismán de Inter
 - Acceso a Abysara como base submarina
 
 #### **📜 Historia:**
-Artefacto de origen desconocido encontrado por los Oceánicos de las Profundidades hace milenios en las profundidades oceánicas cerca del Archipiélago de Barbanegra. Los Oceánicos de las Profundidades la adoraban como su tesoro más sagrado, creyendo que contenía un fragmento del Vacío Primordial - el espacio antes de que existiera el universo.
+Artefacto de origen desconocido, hallado por los chronianos de las profundidades hace siglos en el lecho marino cercano al Archipiélago de Barbanegra. Los Oceánicos de las Profundidades la adoraban como su tesoro más sagrado, creyendo que contenía un fragmento del Vacío Primordial - el espacio antes de que existiera el universo.
 
 #### **🎨 Descripción Física:**
 Una perla del tamaño de un puño humano, perfectamente esférica. Su superficie es negra como la obsidiana, pero con iridiscencia púrpura que cambia constantemente. Cuando la observas, sientes que está mirando DENTRO de ti. Si miras fijamente durante demasiado tiempo, ves el vacío absoluto reflejado en tu alma. En su interior, diminutas estrellas parecen brillar y morir en ciclos eternos.

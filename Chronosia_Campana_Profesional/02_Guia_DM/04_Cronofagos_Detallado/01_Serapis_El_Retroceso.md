@@ -23,6 +23,9 @@
 ### **⚡ Poder**
 Serapis puede devolver eventos breves al pasado, como batallas que se repiten o heridas que nunca ocurrieron. Su dominio sobre la reversión temporal le permite "deshacer" el daño y los errores, haciendo que cada combate sea una batalla contra la inevitabilidad.
 
+### **🕰️ Cuánto lleva aquí (para que el tesoro cuadre)**
+Serapis es un **elfo eterno nativo del valle**: vivía en la Espiral **desde antes de la fractura** — ochocientos años de botines, rentas y reliquias pre-fractura acumulados (el tesoro con el que paga a los Bregan, Cap. 14). Su *poder* sobre el tiempo, en cambio, es reciente: se lo enchufó Aethernus hace décadas, como a todos los conductos. Un anciano con memoria de ocho siglos y un juguete de ochenta años — esa mezcla explica al conspirador.
+
 ### **👁️ Apariencia**
 Serapis viste capas con arena que fluye hacia arriba, desafiando la gravedad. Sus ojos reflejan escenas del pasado, mostrando ecos de eventos que ya ocurrieron. Su presencia misma parece desafiar el flujo natural del tiempo, con movimientos que a veces parecen retroceder.
 

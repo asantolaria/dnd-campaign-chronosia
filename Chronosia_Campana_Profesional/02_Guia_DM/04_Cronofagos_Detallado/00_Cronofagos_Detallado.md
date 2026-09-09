@@ -35,7 +35,7 @@
 | [09](./09_Ymir_El_Eterno_Invierno.md) | **Ymir el Eterno Invierno** | Elemental de Hielo Ancestral | 8 | 4-7 | Glacialis | 🔓 · **reclutador interplanar** |
 | [10](./10_Medusa_La_Eterna.md) | **Medusa la Eterna** | Medusa Ancestral | 7 | 5-8 | El Jardín de los Tiempos Gemelos | 🔓 · *su "estasis temporal" es disfraz de Voidar* |
 
-### 🩸⚓ Aparte — ni Amaunator ni Voidar (no sueltan pieza de Rotor)
+### 🩸⚓ Aparte — sus canales no cristalizan (no sueltan pieza de Rotor)
 
 | Ficha | Lugarteniente | Raza | CR | Nivel PJ | Región | Acceso |
 |---|---|---|---|---|---|---|

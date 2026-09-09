@@ -31,7 +31,7 @@ La ciudad-reloj se recorre por las **calzadas de latón** que aún vibran con un
 | 3 | **La noche de la fractura:** el cielo rompiéndose como vidriera; dos vastedades —una de oro, una de vacío— chocando sobre el horizonte. No se ve quién empezó. *Nadie lo vio* |
 | 4 | **La forja de los Cristales:** artesanos cantando a un cristal que late; el PJ ve el método (ventaja en la primera tirada que haga en la Forja del Éter, zona 3) |
 | 5 | **Tempus entero:** el gran reloj central *cuidando* la hora — un constructo hermoso afinando el mediodía como un músico. Duele compararlo con lo que queda |
-| 6 | **La llegada del extranjero:** un hombre elegante de coleta plateada caminando entre ruinas aún humeantes, midiendo a los dioses caídos como un joyero. (= el Eco 2 de Aethernus, si aún no lo han visto) |
+| 6 | **La llegada del extranjero:** un hombre elegante de coleta plateada caminando entre ruinas que aún humean **de la guerra divina en curso**, midiendo a los dioses agotados como un joyero. (= el Eco 2 de Aethernus, si aún no lo han visto) |
 | 7 | **Un instante futuro:** el propio PJ, de espaldas, haciendo algo que aún no ha hecho. Elige tú qué — y anótalo: cuando ocurra de verdad, la mesa se acordará |
 | 8 | **El último cronista:** un chroniano anciano tallando el relieve de la llave (el de la [piedra de Rosetta](../06_Recursos/Handouts/Llave_Chroniana.md)) mientras dicta a un niño las palabras que Galen recita hoy sin entender |
 

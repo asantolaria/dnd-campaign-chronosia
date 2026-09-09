@@ -128,7 +128,7 @@ Con la Perla, el Cronómetro y el Talismán, Teach se cree invencible. Navega ha
 > **Thyra** *(voz fría como el hielo):* "Edward Teach. El pirata dimensional. ¿Qué quieres?"
 > **Teach:** "Quiero ver si este juguete funciona."
 > *(Activa el Talismán. La estasis de Thyra flaquea.)*
-> **Thyra** *(con un punto de miedo, por primera vez en siglos):* "¿Qué… qué ES eso?"
+> **Thyra** *(con un punto de miedo, por primera vez en su larga vida):* "¿Qué… qué ES eso?"
 > **Teach:** "El futuro. Y tú… eres el pasado."
 
 Thyra lucha con ferocidad, pero el Talismán **intercepta su poder** según ella misma sangra. Teach evade con portales, el Cronómetro le anula el tiempo, la Perla la desorienta.

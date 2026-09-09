@@ -61,11 +61,11 @@ No veneran a los dioses del tiempo y espacio, pero los consideran víctimas. Qui
 - **Personalidad**: Obsesivo con la perfección mecánica, desprecia cualquier cosa que no sea "natural"
 - **Historia**: Su familia cruzó un umbral de la Red de Ymir huyendo de una redada y el portal se cerró tras ellos — **no sabe si viven**; forja tecnología que cierre portales… y que algún día le abra el suyo (la prótesis del **Capitán Marcus** la diseñó el propio Marcus y la forjó Balthar — ver [PNJs](../03_NPCs_Importantes.md))
 
-### **⚙️ Lucienne Rietveldt - Maestra Ingeniera**
-- **Raza**: Humana ingeniera
-- **Apariencia**: Fría y calculadora, con un brazo mecánico lleno de herramientas y cuchillas
-- **Especialidad**: Trampas temporales y dispositivos anti-magia
-- **Historia**: Su familia fue asesinada por cronófagos, ahora dedica su vida a crear armas que los destruyan
+### **⚙️ Lucienne Rietveldt - Científica Principal**
+- **Raza**: Humana (científica de Faerûn, arrastrada a Chronosia por una distorsión hace 8 años)
+- **Apariencia**: gafas redondas siempre empañadas, moño deshecho, bata manchada de reactivos y un cuaderno que no suelta
+- **Especialidad**: investigación de distorsiones y contramedidas científicas (los detectores y estabilizadores llevan su firma)
+- **Historia**: perdió a su mentor y compañero de investigación en la distorsión que la trajo; desde entonces estudia el monstruo que se lo llevó (biografía completa en [PNJs](../03_NPCs_Importantes.md))
 - **🔍 Descubrimiento Crítico**: Lucienne ha descubierto cómo funciona el sistema de reclutamiento interplanar de Ymir el Eterno Invierno. A través de años de observación y análisis de los portales en Glacialis, ha documentado los patrones de activación, planos conectados, frecuencia de transporte, puntos débiles y rutas de suministro. Esta información es crucial para las misiones de La Resistencia destinadas a limitar los suministros de los Cronófagos.
 
 ### **🔇 Kaoros el Sordo - Maestro de Comunicaciones**

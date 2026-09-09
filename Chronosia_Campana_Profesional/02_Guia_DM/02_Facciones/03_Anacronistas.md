@@ -102,7 +102,7 @@ El **Cronómetro de Realidades** fue creado por los primeros Anacronistas usando
 **⚠️ IMPORTANTE:** El Cronómetro es el único artefacto de su tipo. Si fuera destruido o robado, Cronópolis perdería su protección y quedaría expuesta a las distorsiones como el resto de Chronosia.
 
 ### **🌬️ La Bendición del Primer Suspiro** (Opcional - Puedes usar o no)
-- Se dice que el chamán fundador respiró las últimas partículas de aire que exhaló el dios del tiempo antes de ser encadenado
+- Se dice que un chamán de hace dos generaciones —el maestro de Harlim— respiró las últimas partículas de aire libre que exhaló el dios del tiempo **el día en que lo encadenaron** (hace ochenta años), y que la bendición se transmite de boca a boca en el lecho de muerte
 - Ese "suspiro divino" se transmite a través de rituales en los líderes de la hermandad
 - Quien recibe la bendición queda fuera de la corriente de distorsiones, pero a cambio oye el grito agónico del dios cada noche
 
@@ -113,8 +113,8 @@ El **Cronómetro de Realidades** fue creado por los primeros Anacronistas usando
 ### **🌿 Harlim "El Inalterado" - Gran Chamán**
 - **Raza**: Chroniano (descendiente directo de los primeros Anacronistas)
 - **Apariencia**: Conserva rasgos sutiles de su origen Chroniano: ojos ligeramente más grandes de lo normal, piel con un tinte azulado muy sutil, estatura de 6.5 pies. Para la mayoría, parece un semielfo o humano con rasgos inusuales.
-- **Don**: Mientras todo a su alrededor cambia, él sigue siendo él mismo gracias a la protección del Cronómetro de Realidades
-- **Historia**: Durante años fue tildado de loco, pues hablaba de la "marea rota del tiempo" antes de que ocurriera la primera alteración. Conoce la historia completa de la división entre Anacronistas y Oceánicos, pero rara vez la comparte.
+- **Don**: mientras todo a su alrededor cambia, él sigue siendo él mismo — el **Primer Suspiro** heredado de su maestro (don propio: le siguió funcionando cuando robaron el Cronómetro)
+- **Historia**: Durante años fue tildado de loco, pues hablaba de la "marea rota del tiempo" **antes de que el primer desgarro del Cronosellado alcanzara la superficie** (lo olió venir — hace ochenta años él era un aprendiz). Conoce la historia completa de la división entre Anacronistas y Oceánicos, pero rara vez la comparte.
 - **Poder Actual**: Al no estar afectado por el tiempo distorsionado, ve patrones que otros no pueden: puede predecir desajustes, detectar a Cronófagos ocultos y guiar a los PJ a través de bucles sin perderse
 - **Carácter**: Serio y resignado. Ve su don como una carga, no como gloria: el mundo entero está cambiando, menos él. Guarda un profundo respeto (y cierta nostalgia) por los Oceánicos, aunque nunca los ha visitado.
 
