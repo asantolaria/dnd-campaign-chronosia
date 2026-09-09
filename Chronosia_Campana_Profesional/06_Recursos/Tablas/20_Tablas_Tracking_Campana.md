@@ -1,4 +1,6 @@
 # 📊 Tablas de Tracking de la Campaña
+
+> **Para la mesa, imprime la [Hoja de Campaña](../Handouts/Hoja_de_Campana.md)** (todo el tracking en una cara). Este documento es la referencia extendida.
 ## *Hojas de Seguimiento para el DM*
 
 ---

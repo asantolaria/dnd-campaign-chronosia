@@ -33,6 +33,10 @@
 | 9-10 | Llanuras · Veldrisza | Derrotar a **Ignis** |
 | Clímax | La Torre | **Llave chroniana** (2 mitades + palabras) **+ conocer la entrada** (Teach o Yrindra la revelan) — *nunca el Reloj* |
 
+## Las tres reglas de la casa (en toda ficha, valen esto)
+
+**Daño temporal = necrótico · daño espacial = fuerza** (para resistencias genéricas) · **Envejecimiento:** cada 10 años drenados acumulados = 1 nivel de agotamiento que solo cura *restauración mayor* (anótalos por PJ) · **"Confundido"** = el conjuro *confusión*, con salvación repetida al final de cada turno.
+
 ## Los tres críticos (matarlos estanca el Reloj 2 hitos cada uno)
 
 **Teach** (CR 11 · Archipiélago · el usurpador) · **Ignis** (CR 13 · Calderas · abre el ala profunda) · **Vorthak** (CR 12 · Mansión · líder temporal)

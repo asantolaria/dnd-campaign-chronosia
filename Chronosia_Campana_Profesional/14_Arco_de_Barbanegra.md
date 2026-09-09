@@ -16,6 +16,13 @@ Teach es el único Cronófago que ha **adivinado la verdad**: que Aethernus dren
 
 Los cuatro hitos se disparan por el **Reloj**, en este orden fijo. Telégrafialos de lejos: los PJ ven crecer la amenaza como quien ve subir una marea, sin poder pararla.
 
+> **🌊 EL VALLE DE LA MAREA (léelo antes de dirigir los hitos).** Cuatro derrotas fijas seguidas es el tramo más peligroso para la moral de una mesa — así que **cada hito lleva dentro una victoria pequeña que SÍ depende de los PJ**. No las regales: que se las ganen, y nómbralas cuando ocurran.
+> - **Hito 1 (la Perla):** llegar a los Oceánicos **antes que nadie** con la verdad — la vendetta de Nereia nace con los PJ dentro (la alianza de Abysara empieza aquí, no en el Cap. 11).
+> - **Hito 2 (el Cronómetro):** limpiar su nombre **públicamente** (la Carta Incriminatoria al revés: cada prueba desmontada es reputación) y ser quienes expliquen a la ciudad por qué la burbuja se encoge — Cronópolis recuerda quién dio la cara.
+> - **Hito 3 (la forja):** aunque la interrupción fracase, un grupo que llegó a la ventana **ve el Talismán funcionar** — ventaja mecánica real en la Torre (reconocen la Llamada, saben qué interceptа) — y puede salir con un **Cristal de Poder** arrancado del ritual (el botín de la derrota).
+> - **Hito 4 (el SALTO):** nadie puede salvar a Thyra — pero la guerra de lugartenientes que estalla es **el mejor mercado de la campaña**: cada facción necesita algo YA, y los PJ eligen a quién vender su ayuda. La derrota del mundo es la agencia del grupo.
+> El mensaje de mesa: la marea sube igual, pero **cómo** quede la playa cuando baje lo deciden ellos.
+
 | Reloj | Hito | Lo que sienten los PJ |
 |---|---|---|
 | ~2-3/8 | **1 · El robo de la Perla** (masacre de Abysara) | Un rumor de mar: 47 muertos, una vendetta nace |

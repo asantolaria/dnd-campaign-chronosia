@@ -84,6 +84,16 @@ Ninguna clase está prohibida ni penalizada. Pero Chronosia les habla distinto a
 | **7** | **El trato pendiente con Bregan D'aerthe.** Aceptaste un favor de un drow elegante de sonrisa fácil —dinero, una salida, una mentira oportuna— sin leer la letra pequeña. Jarlaxle cobra sus deudas donde menos lo esperas, y resulta que opera en Chronosia. | **Bregan D'aerthe** (Jarlaxle) · tema del **precio** de los tratos. Una palanca para que la trama mercenaria te alcance. |
 | **8** | **Los recuerdos que se borran.** Hay un rostro, un nombre, una infancia entera que se te escapan cuando intentas fijarlos, como si alguien los estuviera *editando*. En Chronosia, donde el tiempo y el espacio están rotos, sospechas que ahí está la respuesta a qué (o quién) te están borrando. | Tema central de la **memoria** · **Anacronistas** (custodios del recuerdo) · el desenlace puede devolverte lo perdido o confirmar su pérdida. |
 
+> **📣 LOS 8 GANCHOS, YA REDACTADOS PARA LEER EN VOZ ALTA** *(la paráfrasis hecha — lee tal cual al jugador, sin la tabla delante)*:
+> 1. *"Alguien a quien querías desapareció hace años en un naufragio o un incendio… y jurarías haberlo visto después — en un sueño, en un reflejo — exactamente igual que entonces. Sin un día más."*
+> 2. *"Tu abuelo vino 'de muy lejos', y en tu familia nadie hablaba de eso. A veces los relojes se portan raro cerca de ti."*
+> 3. *"La noche antes de partir, un mendigo ciego te describió tu propia muerte. Y luego dijo: 'Pero hay otra rama. Búscame donde el sol está encadenado.' No sabes qué significa."*
+> 4. *"Alguien te salvó la vida y solo pidió una cosa: 'Cuando llegue el día, ayuda a los que luchan en el lugar sin cielo.' Sientes que ese día se acerca."*
+> 5. *"Tu reliquia familiar —ese reloj que nunca da bien la hora, ese colgante que zumba— lleva contigo toda la vida. Últimamente, zumba más."*
+> 6. *"Desde hace meses sueñas con un sol enorme envuelto en cadenas que arden sin consumirse, y una voz que pide ayuda en un idioma que no conoces… pero entiendes."*
+> 7. *"Aceptaste un favor de un drow elegante de sonrisa fácil, sin leer la letra pequeña. Sabes que algún día vendrá a cobrar. No sabes cuándo ni dónde."*
+> 8. *"Hay un rostro, un nombre, una infancia entera que se te escapan cuando intentas fijarlos — como si alguien los estuviera borrando. Nadie más recuerda lo que tú has olvidado."*
+
 > **Para el DM:** los ganchos **2** y **5** apuntan de lleno a la *llave chroniana* (reconciliar Anacronistas y Oceánicos), el corazón del buen final; los **1** y **6** justifican liberar a los dioses; el **3** prepara el sacrificio de Varrak. Reparte ganchos de facciones distintas entre los PJ para que el grupo no quede atado a un solo bando.
 
 ---
