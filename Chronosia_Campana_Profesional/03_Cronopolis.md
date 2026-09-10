@@ -54,6 +54,8 @@ El único acceso por tierra: un portón de hierro y madera entre dos torres, y u
 
 ### 2 · La Plaza del Reloj y el Contador del Ritual
 
+> 🎬 **Escena prometida — Artesano gremial** *(sesión 0)*: la primera vez que ese PJ examine el Contador de cerca, descríbele — solo a él — **la mano de Thaddeus en el mecanismo**: una soldadura imposible de confundir, la firma de taller que conoce como la suya propia. En un artefacto construido en otro mundo. Dale la escena ANTES de dar explicaciones: la pregunta es suya.
+
 > **🎙️ LA CHARLA DEL CONTADOR** *(rompe la cuarta pared UNA vez — al final de la primera visita, cuando Galen les haya enseñado la columna)*. En un sandbox con cuenta atrás, los jugadores deben conocer el contrato **como jugadores**, no solo como personajes — o descubrirán a mitad de campaña que "se dejaron" media historia y lo vivirán como un fallo. Cinco minutos, fuera de la ficción, con estas palabras o las tuyas:
 >
 > *"Antes de seguir, dejadme enseñaros el tablero. Ese Contador es real y es la mecánica central: **ocho segmentos, empieza en dos, solo sube o se frena — nunca baja**. Sube sobre todo cuando resolvéis una región (es el tiempo que gastáis, no un castigo). Echad la cuenta: **os caben unas cuatro a seis regiones de las diez que existen**. No es un error ni una amenaza: es el juego. Vais a elegir, y lo que no hagáis pasará sin vosotros — algunas puertas se cerrarán, algunas historias no las veréis, y al final os contaré las que os perdisteis. Hay formas de ganar tiempo (las iréis descubriendo) y una sola cosa segura: si esa columna llega a ocho, hemos perdido. No os pido optimizar. Os pido elegir juntos y con ganas. ¿Preguntas?"*
@@ -126,6 +128,8 @@ Cronópolis es costera —recuerdo vivo del origen común con los Oceánicos del
 Estos NPCs son **mecenas y vecinos, no combatientes**. No tienen statblock de combate; si en algún momento citas uno, hazlo compacto. Su poder es lo que *ofrecen* y las *tensiones* que encarnan.
 
 ### Síndica Maren Velasco — la voz humana
+
+> 🎬 **Escena prometida — Noble/Mercader rico** *(sesión 0)*: Maren sienta a ese PJ a la mesa del Concejo como a un igual — y le encarga mediar en una disputa real de la ciudad (los vales del mercado, un peaje de la Resistencia). Aquí su apellido no abre ninguna puerta; su palabra, todas. Que descubra cuál de las dos cosas era él.
 
 Humana, plebeya. Heredó el cargo cuando el síndico anterior murió en un asedio; no lo pidió y lo lleva con un cansancio honesto. Pragmática, agotada, incorruptible. Le importa **la gente que come hoy**, no la guerra cósmica.
 

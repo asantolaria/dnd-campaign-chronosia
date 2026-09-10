@@ -63,6 +63,8 @@
 
 > **⚙️ Nota de matemática de jefes:** los bonos de ataque y las CD de los lugartenientes llevan **+1 a +2 por encima** de lo que sugerirían sus características — es el **vínculo con su conducto divino**, y es intencional: son monstruos calibrados por CR, no PNJ construidos con reglas de personaje. No los "corrijas" a la baja.
 
+> **⚖️ Escalar a 3, 5 o 6 PJ (regla general):** todo el manual está calibrado para **4 PJ**. Por cada PJ **de más**: el jefe gana **+10% de PG** y **+1 secuaz** de su tabla regional. Por cada PJ **de menos**: **−15% de PG** y **−1 secuaz**; con **3 PJ**, además, el jefe pierde **1 acción legendaria por ronda**. Las notas específicas de cada ficha (Aethernus a 3 PJ, sargentos = nº de PJ − 1, semáforos de región) **mandan sobre esta regla general**.
+
 - **Statblocks de combate** (AC, PV, atributos, acciones, **acciones legendarias**, tácticas, efecto al morir): en cada ficha individual. **Es la fuente actualizada; no la dupliques.**
 - **Acciones legendarias:** cada lugarteniente tiene un número FIJO por ronda definido en su ficha (estándar 5e: ápice 3/ronda, medios 2/ronda, menores 0-2). No hay escalado dinámico por nivel de PJ.
 - **Efecto al morir:** cuando un lugarteniente muere (por los PJ o por otro lugarteniente), su región se restaura: las distorsiones desaparecen gradualmente (1d4 horas). Detalle por región en cada ficha. **Excepción forense:** si fue **Teach** quien lo interceptó con el Talismán, el poder NO se dispersa y la región NO se restaura (ver "el hipo del Contador" en el [motor de campaña](../../01_Como_Dirigir.md)).
@@ -120,7 +122,7 @@ Los Cronófagos muestran signos visibles de su exposición a las distorsiones te
 
 ## 💀 EFECTO AL MORIR (regla general)
 
-Cuando un lugarteniente muere —lo maten los PJ, Teach u otro lugarteniente—, **su región se restaura a la normalidad** en un proceso gradual de **1d4 horas**: las distorsiones se estabilizan, las anomalías que creó se disipan, y los habitantes atrapados por su poder quedan libres suavemente (nunca de forma violenta). Cada ficha indica solo el **matiz regional** de esa restauración. La restauración única de cada región —lo que los PJ *ven* al ganar— está descrita en su capítulo de región.
+Cuando un lugarteniente muere de verdad —lo maten los PJ u otro lugarteniente—, **su región se restaura a la normalidad** en un proceso gradual de **1d4 horas**: las distorsiones se estabilizan, las anomalías que creó se disipan, y los habitantes atrapados por su poder quedan libres suavemente (nunca de forma violenta). Cada ficha indica solo el **matiz regional** de esa restauración. La restauración única de cada región —lo que los PJ *ven* al ganar— está descrita en su capítulo de región. **Excepción: Teach.** Cuando el Usurpador absorbe a un lugarteniente, el canal no se corta — *cambia de manos*: la región **sigue rota** (la "firma" que delata su caza, ver el [Turno de Facciones](../02_Facciones/06_Dinamicas_Entre_Facciones.md)). Además, toda muerte real se anuncia sola en el cielo: la **Columna de Años** (ver la [ficha de Aethernus](12_Aethernus_Valcarys_Manshoon.md), junto al Eco 1).
 
 ---
 

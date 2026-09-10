@@ -37,6 +37,21 @@
 
 **Daño temporal = necrótico · daño espacial = fuerza** (para resistencias genéricas) · **Envejecimiento:** cada 10 años drenados acumulados = 1 nivel de agotamiento que solo cura *restauración mayor* (anótalos por PJ) · **"Confundido"** = el conjuro *confusión*, con salvación repetida al final de cada turno.
 
+## El terreno, por región (la CD que vas a necesitar)
+
+| Región | El peligro del terreno |
+|---|---|
+| Espiral Inversa | Salirse del sendero: Supervivencia **CD 13** o apareces donde estabas *una hora antes* |
+| Jardín Gemelo | Perderse entre setos: Inteligencia **CD 13** (invertir el mapa del ala gemela) o 1 h + encuentro |
+| Glacialis | **Frío:** CON **CD 12** (14 en Red/Portal) o 1 agotamiento · salirse de los mojones: Supervivencia **CD 13** |
+| Ruinas | Salirse de las calzadas: Sabiduría **CD 14** o 1d10 min *en otro siglo* y reapareces a 1d4×100 pies |
+| Abismo | Cruzar un puente en tensión: Carisma **CD 13** o llegas *con un detalle cambiado* |
+| Llanuras | Atajar por pliegues: Supervivencia **CD 15** — éxito: mitad de tiempo; fallo: de vuelta al inicio |
+| Veldrisza | Pisar hilo vivo: **CD 15** o tragado 1d10×100 pies sima abajo (rescatable) |
+| Archipiélago | Remolinos: grupo de Atletismo/navegante **CD 14** o vuelco + 2d6 fuerza |
+| Mansión | **Estancia:** CON **CD 14 por hora** dentro o envejeces 1d4 meses (acumulativo) |
+| Calderas | Salirse del Camino: Supervivencia **CD 14** o doble de tiempo + encuentro · **agua doble** |
+
 ## Los tres críticos (matarlos estanca el Reloj 2 hitos cada uno)
 
 **Teach** (CR 11 · Archipiélago · el usurpador) · **Ignis** (CR 13 · Calderas · abre el ala profunda) · **Vorthak** (CR 12 · Mansión · líder temporal)

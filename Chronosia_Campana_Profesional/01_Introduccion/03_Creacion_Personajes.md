@@ -50,6 +50,8 @@ Usa los trasfondos estándar del *Player's Handbook*. Lo que Chronosia añade no
 | **Marinero** | Le traías piezas de ultramar; a cambio, él escuchaba tus historias de un "mar sin mareas" | Un viejo camarada tuyo **navega ahora para el enemigo** — y en el Archipiélago tendrás que decidir qué pesa más, la bandera o la memoria (Cap. 11) |
 | **Noble / Mercader rico** | Financiaste su taller; era tu inversión más rara y tu amigo más honesto | En la política de la última ciudad libre, **te tratarán como a un igual** — y descubrirás cuánto vale un apellido donde nadie lo ha oído nunca (Cronópolis) |
 
+> **DM — no tienes que acordarte de nada:** cada escena prometida está **cableada en su capítulo** con una caja 🎬 (Caps. 3 ×2, 7, 11, 12, 14, 15 y la ficha de Bregan D'aerthe). El manual te la recordará al llegar; tú solo apunta en la sesión 0 qué fila eligió cada jugador.
+
 ---
 
 ## 🧙 **GANCHOS POR CLASE** *(por qué tu clase importa aquí)*

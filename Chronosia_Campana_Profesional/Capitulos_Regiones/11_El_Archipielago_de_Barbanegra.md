@@ -136,6 +136,8 @@ Sellada la alianza en Xal'azar, Tholassa ofrece lo que ningún habitante de la s
 
 ### 5 · Fuerte Negro del Capitán Barbanegra *(guarida de Edward Teach)*
 
+> 🎬 **Escena prometida — Marinero** *(sesión 0)*: pon a su **viejo camarada** entre la escolta del Fuerte, con nombre y el tatuaje que comparten de aquel invierno en ultramar. Reconocerlo ES la escena: puede intentar volverlo (Persuasión CD 13, con ventaja por la historia común), usarlo como puerta al Fuerte… o encontrárselo en cubierta con la bandera equivocada y decidir qué pesa más.
+
 ![Battlemap del Fuerte Negro — la guarida pirata de Teach](../assets/mapas/battlemap-fuerte-negro.jpg)
 
 > *Battlemap para el asalto final (cuadrícula lista para VTT o impresión). Mapa: «Pirate Lair» de [Forgotten Adventures](https://www.forgotten-adventures.net/) — CC BY 4.0.*

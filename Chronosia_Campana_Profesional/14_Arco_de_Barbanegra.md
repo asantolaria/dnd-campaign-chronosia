@@ -193,6 +193,8 @@ Kaoros, "sordo" desde hace años, comunica en realidad por **telepatía** con Se
 
 ### Escena 2 · El juicio injusto del Capitán Marcus
 
+> 🎬 **Escena prometida — Soldado/Guardia** *(sesión 0)*: este es el juicio para el que su vínculo existe. Cuando aparezca la prueba plantada, pásale una nota **solo a él**: *"el precinto está mal — tú cerraste cientos así en Waterdeep"*. Que sea su instinto de procedimiento, no una tirada, quien abra la primera grieta de la defensa.
+
 El pueblo, furioso por el caos, acusa a Marcus de haberlo ordenado. Se convoca un **juicio público en la Plaza del Reloj** — y la ciudad del Cap. 3 comparece entera: la **Síndica Maren** preside a regañadientes (el procedimiento es real, y eso es lo terrible), **Galen** pide un aplazamiento que la turba abuchea, y la **Guardia** forma con los focos apagados, incómoda. Kaoros testifica contra él con pruebas falsas. *(Las instituciones importan en las ramas: la Síndica es quien puede rebajar el veredicto o aplazar — los éxitos de los PJ le dan la excusa legal que está buscando.)*
 
 > **Kaoros** *(en el juicio):* "Yo… no quiero hacer esto, pero debo decir la verdad. El Capitán Marcus ordenó estos ataques. Vi los documentos. Oí las órdenes. Quería sembrar el caos para consolidar su poder."

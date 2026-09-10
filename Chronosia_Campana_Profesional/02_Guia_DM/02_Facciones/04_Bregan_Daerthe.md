@@ -81,6 +81,8 @@ Bregan D'aerthe es una organización mercenaria drow contratada por Manshoon (us
 
 ### **⚖️ EL PROCEDIMIENTO DE COMPRA (qué convence a Jarlaxle, con números)**
 
+> 🎬 **Escena prometida — Criminal** *(sesión 0)*: si un PJ eligió ese vínculo, Jarlaxle lo **reconoce** — el trabajo que Thaddeus le dio dejó rastro en los círculos correctos, y los Bregan respetan el rastro. Negocia con ese PJ primero y con la tarifa de socio (CD 10 desde el principio)… y con la contrapartida de siempre: tarde o temprano, los drow le pedirán un favor *de los suyos*.
+
 "Si la oferta es atractiva" tiene tres condiciones — **sin las tres, no hay tirada que valga**; con las tres, Persuasión **CD 15** (CD 10 si los PJ ya le hicieron ganar dinero antes):
 
 1. **Que supere el contrato.** Algo material que valga más que el oro Zhentarim + lo que paga Yrindra: el Talismán, un Cristal de Estabilización, acceso comercial al hub planar post-campaña… Oro solo, no: "el oro es el empate, no la victoria".

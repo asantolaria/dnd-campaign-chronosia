@@ -32,3 +32,40 @@
 - **Nexo:** las regiones marcadas con icono son puertas a otros planos/escenarios al final de la campaña (ver [Nexo Planar](../../02_Guia_DM/06_Nexo_Planar_y_Continuaciones.md)).
 
 > **Nota de coherencia:** los NPCs locales de aquí complementan a los NPCs de facción/ciudad de [../../02_Guia_DM/03_NPCs_Importantes.md](../../02_Guia_DM/03_NPCs_Importantes.md). La capa civil de Cronópolis (gobierno, taberna, templo, mercado) se cubre aparte.
+
+---
+
+## 🎯 Todos los statblocks, por CR *(el índice de improvisación)*
+
+> ¿Necesitas "algo de CR 4" ya, al nivel del grupo? Esta tabla lo lista TODO — bestiario regional, monstruos genéricos, criaturas embebidas en capítulos y jefes. Generada del corpus; ante cualquier discrepancia, manda la ficha enlazada.
+
+### Jefes y únicos con nombre
+
+| CR | Jefe | Dónde |
+|---|---|---|
+| 3 | Kaelthas, el asesino de Thaddeus | [Fase 0](../../01_Introduccion/04_Fase_0_Waterdeep.md) |
+| 4 | El Monje Manco | [Cap. 8 — Abismo](../../Capitulos_Regiones/08_El_Abismo_de_los_Posibles.md) |
+| 5 | [Serapis](../../02_Guia_DM/04_Cronofagos_Detallado/01_Serapis_El_Retroceso.md) *(Espiral)* · Kael ([Cap. 11 — Abysara](../../Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md)) | banda 4-7 |
+| 7 | [Medusa](../../02_Guia_DM/04_Cronofagos_Detallado/10_Medusa_La_Eterna.md) · Nereia ([Cap. 11 — Abysara](../../Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md)) | banda 5-8 |
+| 8 | [Ymir](../../02_Guia_DM/04_Cronofagos_Detallado/09_Ymir_El_Eterno_Invierno.md) · [Gemelas](../../02_Guia_DM/04_Cronofagos_Detallado/08_Las_Gemelas_Del_Espejo.md) · [Tempus](../../02_Guia_DM/04_Cronofagos_Detallado/11_Tempus_El_Fragmentado.md) · Serapis de la Traición y su Zin-Carla ([Cap. 14](../../14_Arco_de_Barbanegra.md)) | bandas 4-8 |
+| 9 | [Varrak](../../02_Guia_DM/04_Cronofagos_Detallado/02_Varrak_El_Oraculo.md) · [Dimensionalis](../../02_Guia_DM/04_Cronofagos_Detallado/05_Dimensionalis_La_Fracturada.md) | bandas 5-10 |
+| 11 | [Edward Teach](../../02_Guia_DM/04_Cronofagos_Detallado/04_Edward_Teach_Barbanegra.md) ⚠️ crítico · [Matrona Yrindra](../../02_Guia_DM/04_Cronofagos_Detallado/07_Matrona_Veldrisza_La_Tejedora_Dimensional.md) | bandas 7-10 |
+| 12 | [Vorthak](../../02_Guia_DM/04_Cronofagos_Detallado/03_Lord_Vorthak_El_Sediento_Eterno.md) ⚠️ crítico | banda 8-10 |
+| 13 | [Ignis](../../02_Guia_DM/04_Cronofagos_Detallado/06_Ignis_El_Devorador_Espacial.md) ⚠️ crítico · Blackbeard el Usurpador *(variante Final B, en la ficha de Teach)* | bandas 8-10 |
+| — | [Aethernus Valcarys](../../02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md) — el BBEG no tiene CR: es un combate por fases (380 PG, Cap. 15) | La Torre |
+
+### Tropas, monstruos y criaturas (75 statblocks)
+
+| CR | Criaturas |
+|---|---|
+| **1/8** | [Bandido](../17_Monstruos_Enemigos.md) · [Guardia](../17_Monstruos_Enemigos.md) |
+| **1/2** | [Matón](../17_Monstruos_Enemigos.md) · [Mephit de hielo](../17_Monstruos_Enemigos.md) |
+| **1** | [Aldeano Vuelto Niño](01_Espiral_Inversa.md) · [Eco del Pasado](../17_Monstruos_Enemigos.md) · [Espectro](../17_Monstruos_Enemigos.md) · [Espía](../17_Monstruos_Enemigos.md) · [Lobo atroz](../17_Monstruos_Enemigos.md) · [Portal de Elementales (2/día):](../../Capitulos_Regiones/06_Glacialis.md) |
+| **2** | [Capitán de bandidos](../17_Monstruos_Enemigos.md) · [Comandante Pirata.](../../Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md) · [Eco de Refriega](01_Espiral_Inversa.md) · [Guardián Modrón Desfasado](04_Ruinas_Tiempo_Perdido.md) · [Guardián Temporal](../17_Monstruos_Enemigos.md) · [Loba del Glaciar Distorsionada](03_Glacialis.md) · [Ogro](../17_Monstruos_Enemigos.md) · [Pirata Élite](../../Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md) · [Polilla del Crepúsculo Detenido](02_Jardin_Tiempos_Gemelos.md) · [Tropa Cronófaga](../17_Monstruos_Enemigos.md) |
+| **3** | [Araña de fase](../17_Monstruos_Enemigos.md) · [Criatura Fracturada](../17_Monstruos_Enemigos.md) · [Eco Cartográfico](06_Llanuras_Compresion.md) · [Esclavo de Sangre](09_Mansion_Sed_Eterna.md) · [Estatua Acechante](02_Jardin_Tiempos_Gemelos.md) · [Fragmento de Tiempo Animado](04_Ruinas_Tiempo_Perdido.md) · [Guardián del Tiempo](../17_Monstruos_Enemigos.md) · [Guardián Dimensional](../17_Monstruos_Enemigos.md) · [Heraldo de Escarcha](03_Glacialis.md) · [Ingeniero](../17_Monstruos_Enemigos.md) · [Lanzador Cronófago](../17_Monstruos_Enemigos.md) · [Larva de Bifurcación](05_Abismo_Posibles.md) · [Portal a Menzoberranzan (3/día):](../../Capitulos_Regiones/10_La_Ciudad_Subterranea_de_Veldrisza.md) · [Rebobinador](01_Espiral_Inversa.md) · [Veterano](../17_Monstruos_Enemigos.md) |
+| **4** | [Acechador de la Penumbra](07_Ciudad_Veldrisza.md) · [Acechante del Pliegue](06_Llanuras_Compresion.md) · [Agente Infiltrado](../17_Monstruos_Enemigos.md) · [Bestia Superpuesta](05_Abismo_Posibles.md) · [Centinela de Hielo Vivo](03_Glacialis.md) · [Coloso de Engranajes](04_Ruinas_Tiempo_Perdido.md) · [Cándano el Penitente Eterno](01_Espiral_Inversa.md) · [Invocaciones (anuladas al cerrar bocas):](../../Capitulos_Regiones/13_Las_Calderas_Dimensionales.md) · [Marinero Distorsionado](08_Archipielago_Barbanegra.md) · [Reflejo Hostil](02_Jardin_Tiempos_Gemelos.md) · [Sargento Cronófago](../17_Monstruos_Enemigos.md) |
+| **5** | [Araña del Intersticio](07_Ciudad_Veldrisza.md) · [Caelith, el Jardinero a Medias](02_Jardin_Tiempos_Gemelos.md) · [Cría de Dragón Rojo de Caldera](10_Calderas_Dimensionales.md) · [El Otro Tú](05_Abismo_Posibles.md) · [Ghoul Cronófago](09_Mansion_Sed_Eterna.md) · [Gladiador](../17_Monstruos_Enemigos.md) · [Heraldo de la Sal Negra](08_Archipielago_Barbanegra.md) · [Maestro Armero](../17_Monstruos_Enemigos.md) · [Magistrado Cerografo](04_Ruinas_Tiempo_Perdido.md) · [Mastín Comprimido](06_Llanuras_Compresion.md) · [Salamandra de Frontera](10_Calderas_Dimensionales.md) · [Velka la Guardiana de Umbrales](03_Glacialis.md) |
+| **6** | [Chamán Anacronista](../17_Monstruos_Enemigos.md) · [Espectro de Menzoberranzan](07_Ciudad_Veldrisza.md) · [Gorath el Gigante Mordido](09_Mansion_Sed_Eterna.md) · [Karkesh el Cartógrafo de Cenizas](06_Llanuras_Compresion.md) · [Kraken Menor del Vórtice](08_Archipielago_Barbanegra.md) · [Mago](../17_Monstruos_Enemigos.md) · [Tessaly Bifronte](05_Abismo_Posibles.md) · [Velo Famélico](09_Mansion_Sed_Eterna.md) |
+| **7** | [Capataz Drazhûl](10_Calderas_Dimensionales.md) · [Capitán Móreve, el Mascahoras](08_Archipielago_Barbanegra.md) · [Coloso de Magma Fracturado](10_Calderas_Dimensionales.md) · [Mayordomo Aurelius Crane](09_Mansion_Sed_Eterna.md) · [Oficial Cronófago](../17_Monstruos_Enemigos.md) · [Zress'ynara, la Tejedora de Umbrales](07_Ciudad_Veldrisza.md) |
+| **8** | [Asesino](../17_Monstruos_Enemigos.md) · [Operaciones Especiales](../17_Monstruos_Enemigos.md) |
+| **9** | [Krra'thn, la Serpiente del Mar Quieto](../../Capitulos_Regiones/11_El_Archipielago_de_Barbanegra.md) |

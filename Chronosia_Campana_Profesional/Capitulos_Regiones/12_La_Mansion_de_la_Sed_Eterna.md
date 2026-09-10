@@ -111,6 +111,8 @@ Un panteón de mármol tras una verja coronada de calaveras, donde duermen los V
 
 El interior de la casa señorial: un comedor de mesa interminable puesta para una cena eterna, escaleras que envejecen bajo los pies, espejos que muestran a quien pasa diez años más viejo. En la cripta-salón principal aguarda el Sediento Eterno, rodeado de su corte de drenados.
 
+> 🎬 **Escena prometida — Artista/Charlatán** *(sesión 0)*: la cena es su escenario. Una actuación (Interpretación CD 15) compra **una hora entera de cortesía** de Vorthak mientras el grupo trabaja — el vampiro del tiempo no interrumpe a quien *"entiende el compás"*, como decía Thaddeus. Con fallo, la cena avanza un plato.
+
 > *Leído al entrar en el salón:* "La mesa del comedor está puesta para un banquete que nunca acaba: copas llenas de un vino que parece sangre, platos servidos hace siglos. A la cabecera, en un trono de respaldo alto, un noble pálido y demacrado de ojos rojos os observa con la cortesía de quien recibe a la cena, no del que la teme. A su alrededor, de pie, una corte de siervos jóvenes y viejos a la vez — drenados a medias, cáscaras obedientes. «Bienvenidos», dice Lord Vorthak, y su voz es seda sobre hueso. «Hacía siglos que no probaba sangre con tantos *años* por delante. Sentaos. La cena es larga… y vosotros, el último plato.»"*
 
 **Lord Vorthak "el Sediento Eterno"** (lugarteniente CRÍTICO — ver statblock). Noble, paciente, despiadado: el más cruel de los lugartenientes, que solo ansía quedarse con toda Chronosia y, si pudiera, beberse al propio Aethernus.

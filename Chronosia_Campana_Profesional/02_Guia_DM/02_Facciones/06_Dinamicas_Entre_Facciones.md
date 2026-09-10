@@ -65,6 +65,33 @@
 - **Bregan D'aerthe:** contrabando y espionaje (todo acaba en la red de Yrindra); tras la Traición, rematan a Serapis (Zin-Carla); en la Llamada, **venden su neutralidad al mejor postor** — subasta en mesa si los PJ pujan.
 - **Matrona Yrindra:** teje. Cada fase sabe más. Y si nadie ha negociado con ella antes de la Llamada, **vende la entrada de la Torre a Teach** — el Final B se financia solo.
 
+### 🎬 Tres viñetas de guerra (cómo se VEN los resultados 1-5 cuando los PJ los pisan)
+
+> La tabla dice *qué pasa*; esto es lo que la mesa se encuentra. Úsalas cuando los PJ entren en una región afectada o crúzalas en su ruta. No tienen CR propio: sírvelas con las tropas de [Soldados y Ejércitos](../04_Cronofagos_Detallado/13_Soldados_y_Ejercitos_Regionales.md) a la banda de la región. Parejas que funcionan: **Vorthak contra Ignis** (los dos líderes de bando — la grande), **Ymir contra Medusa** (la frontera helada del Jardín), **Tempus contra Dimensionalis** (el reloj contra la que se despliega).
+
+**1 · El paso de los dos ejércitos** *(resultado 1-2 — guerra civil)*
+> *"La frontera entre las dos regiones ya no es una linde: es una cicatriz. Dos columnas de tropa cronófaga se muelen en el valle — los estandartes de un señor contra los de otro — y ninguna de las dos ha puesto un solo centinela mirando hacia vosotros."*
+
+- **Cruzar gratis.** La guerra es la mejor cobertura de la campaña: mientras dure, las patrullas interiores de AMBAS regiones están a la mitad (−2 a las CD de sigilo e infiltración). Dilo en voz alta — que la mesa entienda que el caos es una puerta.
+- **Escoger bando.** Presentarse ante el lugarteniente que va perdiendo compra una audiencia que en paz costaría sangre: pactar aquí sigue siendo resolver el arco (+1 al Reloj), pero con la mitad del ejército del anfitrión muerto, el precio del pacto baja.
+- **Saquear el campo.** Entre los caídos: cristales sueltos, un tesoro menor (tabla del [catálogo](../../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md)) y el diario de un sargento con las posiciones de la región atacante — inteligencia gratis para quien no tenga escrúpulos.
+- **El peligro:** quedarse a mirar demasiado = 1d3 patrullas de cada bando os toman por espías *del otro*.
+
+**2 · La firma del Usurpador** *(resultado 3-4 — Teach ha cazado aquí)*
+> *"El trono de esta región está vacío. Y la región sigue rota — las distorsiones giran sin dueño, como una maquinaria con el maquinista muerto. Quien se llevó el poder de este lugar no vino a liberarlo: vino a cobrarlo."*
+
+- **La escena del crimen.** Investigación CD 14 sobre el lugar del duelo: quemaduras que no son de pólvora ni de magia conocida — la mordida del Talismán. Los PJ pueden saber *cómo caza el Usurpador* antes de conocer su nombre.
+- **Los huérfanos.** La tropa sin señor se deshace: 2d6 soldados negocian su rendición — información de su antiguo amo (o del Fuerte Negro, si la víctima cayó ante Teach) a cambio de salvoconducto a Cronópolis.
+- **La lección del Contador.** Cada "hipo" futuro ES esta escena, repetida en otro sitio. Enséñala en persona UNA vez y el resto de hipos pesarán solos.
+
+**3 · La mesa de los monstruos** *(resultado 5 — tregua tensa)*
+> *"Dos séquitos acampados a tiro de piedra, en el único terreno que ninguno reclama. Banderas de parlamento que nadie mira. Dos lugartenientes de Aethernus, sentados a la misma mesa sin matarse — es lo más parecido al miedo que les habéis visto nunca."*
+
+- **Escuchar.** Sigilo CD 15 (o un truco mejor): se oye QUÉ los asusta — el Usurpador, y el precio que la Tejedora pide últimamente por sus secretos. Aquí puede sonar por primera vez que *"la matrona vende hasta puertas"*.
+- **Reventar la tregua.** Un disparo anónimo y ambos bandos se desangran solos — el tablero pierde dos jugadores una temporada. Pero ambos señores saben mentir, y ambos preguntarán quién disparó.
+- **Sentarse a la mesa.** Los lugartenientes en tregua RECIBEN embajadas: es la vía diplomática más barata de toda la campaña hacia un pacto… y la más vigilada. Todo lo que se ofrezca aquí lo sabrá Yrindra antes del anochecer.
+
+
 ---
 
 ## 🎯 **LOS PJ EN MEDIO**
