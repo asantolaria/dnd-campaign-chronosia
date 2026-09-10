@@ -178,7 +178,7 @@ La **reserva de sangre personal** de Vorthak: un gigante torpe y de mente simple
 
 ### Bestias firma
 - ***Velo Famélico (niebla viva)*** — *grande aberración (gaseosa), neutral maligno* · **CR 6** · CA 13 · PG 105. Cubo de 20 pies; quien empieza dentro: CD 15 CON o 4d8 necrótico y cegado hasta salir. ***Arrastre al Otro Lado (rec. 6):*** una criatura a 0 PG dentro no muere — desaparece en la niebla *(gancho: aparece en Barovia)*. Inmune a daño no mágico; resistente a fuego.
-- ***Ghoul Cronófago*** — *mediano no-muerto, caótico maligno* · **CR 5** · CA 14 · PG 90. *Mordisco* +7, 2d10+3 perf. + 2d6 necrótico; CD 14 CON o envejece 1d10 años y desventaja en FUE/DES 1 min. Inmune a paralización.
+- ***Ghoul Cronófago*** — **base: engendro vampírico (MM/SRD)** que devora años · **CR 5**. Mordisco: CON CD 14 o envejece 1d10 años + desventaja FUE/DES 1 min. Inmune a paralización.
 - ***Esclavo de Sangre*** — *mediano humanoide (hechizado), neutral* · **CR 3** · CA 12 · PG 49. *Daga* +5, 2d6+2 perf. ***Ofrenda Desesperada:*** se interpone en un ataque a Vorthak/Aurelius, recibiéndolo entero. Liberarlo del dominio es victoria moral y táctica.
 
 ---

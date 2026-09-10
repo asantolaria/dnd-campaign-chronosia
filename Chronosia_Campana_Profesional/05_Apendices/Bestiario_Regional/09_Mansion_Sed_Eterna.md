@@ -15,17 +15,12 @@ La Mansión de la Sed Eterna se alza tras una niebla que no obedece al viento. S
 El mayordomo no-muerto de Vorthak, atado por un pacto de servidumbre que la muerte no rompió. Recibe a los huéspedes con cortesía perfecta y los conduce, plato a plato, hacia su drenaje. No es el señor de la casa: es su guante. Gancho: Aurelius odia a Vorthak en secreto y, presionado bien, puede traicionarlo... o entregar a los PJs a la niebla para "librarlos" del amo de una manera retorcida.
 
 **Statblock** (compacto):
-- ***Mayordomo Aurelius Crane*** — *no-muerto mediano (vampiro espalda/spawn noble), legal malvado* · **CR** 7 (2900 XP)
-- **CA** 17 (librea reforzada) · **PG** 120 (16d8+48) · **Vel.** 40 pies, escalar 40 pies
-- **CAR 16 (CD de poderes 14)** · **Resistencia** a necrótico y a daño no mágico (mitad); **Vulnerabilidad** sutil a la luz solar (penalizador, ver Tácticas) · **Sentidos** visión en la oscuridad 60 pies, percepción pasiva 15
-- **Rasgos:**
-  - *Servicio Marchitante:* cualquier criatura curada o agarrada por Aurelius envejece visiblemente; mientras él la sujeta, la criatura no recupera PG por medios mágicos (la niebla "bebe" la sanación).
-  - *Puntualidad Imposible:* una vez por turno, como reacción, Aurelius puede moverse hasta su velocidad para ponerse entre un PJ y Vorthak o entre un PJ y una salida; aparece siempre "a tiempo", emergiendo de la bruma.
-- **Acciones:**
-  - *Multiataque:* dos *Garras Drenantes*.
-  - *Garra Drenante:* ataque c. cuerpo, +8, alcance 5 pies, 12 (2d6+5) cortante + 10 (3d6) necrótico; el objetivo reduce su máximo de PG en una cantidad igual al necrótico (años robados) hasta un descanso largo.
-  - *Convocar la Niebla (1/día):* invoca un *Velo Famélico* (ver Bestias Firma) que lo cubre y le otorga ocultación total un turno.
-- **Tácticas / Al ser derrotado:** Separa al grupo por pasillos, drena al más débil y desaparece en la bruma para volver "a servir el siguiente plato". Al caer, susurra que el verdadero peligro nunca estuvo en la mansión, sino "al otro lado de la niebla", y señala una puerta que da al gris infinito del Shadowfell.
+- ***Mayordomo Aurelius Crane*** — **base: engendro vampírico (MM/SRD, CR 5)** ascendido a mayordomo · **CR** 7 (2.900 XP) con **CA 17** (librea reforzada) · **PG 120** · Vel. 40 pies, escalar 40 pies · CD de poderes 14, y los añadidos
+- **Añade — *Servicio Marchitante:*** cualquier criatura curada o agarrada por Aurelius envejece visiblemente; mientras él la sujeta, no recupera PG por medios mágicos (la niebla "bebe" la sanación).
+- **Añade — *Puntualidad Imposible:*** una vez por turno, como reacción, se mueve hasta su velocidad para ponerse entre un PJ y Vorthak o entre un PJ y una salida; aparece siempre "a tiempo", emergiendo de la bruma.
+- **Añade — *Garra Drenante:*** sus garras oficiales hacen 12 (2d6+5) cortante + 10 (3d6) necrótico, y el objetivo reduce su máximo de PG en el necrótico (años robados) hasta un descanso largo.
+- **Añade — *Convocar la Niebla (1/día):*** invoca un *Velo Famélico* (ver Bestias Firma) que lo cubre y le otorga ocultación total un turno.
+- **Tácticas / Al ser derrotado:** separa al grupo por pasillos, drena al más débil y desaparece en la bruma para volver "a servir el siguiente plato". Al caer, susurra que el verdadero peligro nunca estuvo en la mansión, sino "al otro lado de la niebla", y señala una puerta que da al gris infinito del Shadowfell.
 
 ## 😈 Villano menor bis — Gorath el Gigante Mordido *(trágico, manipulable)*
 
@@ -33,11 +28,11 @@ El mayordomo no-muerto de Vorthak, atado por un pacto de servidumbre que la muer
 
 ## 🐾 Bestias Firma
 
-- ***Ghoul Cronófago*** — *no-muerto mediano, caótico malvado* · **CR** 5 (1800 XP). CA 14 · PG 90 (12d8+36) · Vel. 30 pies. Devora años, no carne. *Mordisco* +7, 14 (2d10+3) perforante + 7 (2d6) necrótico; en impacto, CON CD 14 o el objetivo envejece 1d10 años y sufre desventaja en pruebas de FUE/DES 1 minuto (huesos repentinamente frágiles). Inmune a paralización (irónicamente, ya no posee tiempo que detener).
+- ***Ghoul Cronófago*** — **base: engendro vampírico (MM/SRD, CR 5)** que devora **años, no sangre** · **CR** 5 (1.800 XP). Su mordisco, en vez de drenar el máximo de PG: CON CD 14 o el objetivo **envejece 1d10 años** y sufre desventaja en pruebas de FUE/DES 1 minuto (huesos repentinamente frágiles). Inmune a paralización (irónicamente, ya no posee tiempo que detener).
 
 - ***Velo Famélico (niebla viva)*** — *aberración grande (forma gaseosa), neutral malvado* · **CR** 6 (2300 XP). CA 13 · PG 105 (14d10+28) · Vel. vuela 30 pies (flotar). La niebla que sangra del Shadowfell, ahora consciente y hambrienta. Ocupa un cubo de 20 pies; quien empiece su turno dentro hace CON CD 15 o sufre 18 (4d8) necrótico y queda cegado hasta salir. *Arrastre al Otro Lado (recarga 6):* una criatura reducida a 0 PG dentro del velo no muere: desaparece en la niebla (gancho: aparece en Barovia). Inmune a daño no mágico; resistente a fuego (la bruma lo apaga).
 
-- ***Esclavo de Sangre*** — *humanoide mediano (hechizado), neutral* · **CR** 3 (700 XP). CA 12 · PG 49 (9d8+9) · Vel. 30 pies. Sirvientes vivos drenados, pálidos y obedientes hasta la muerte. *Daga* +5, 9 (2d6+2) perforante; *Ofrenda Desesperada:* como acción, se interpone en un ataque dirigido a Vorthak o Aurelius recibiéndolo entero. Atacan en tropel sin instinto de supervivencia; liberarlos del dominio vampírico es una victoria moral además de táctica.
+- ***Esclavo de Sangre*** — **base: matón (MM/SRD, CR 1/2; reimpreso en el apéndice A)** con **PG 49** · **CR** 3 (700 XP) en tropel. Sirvientes vivos drenados, pálidos y obedientes hasta la muerte (sus *Tácticas de Manada* oficiales SON el tropel). **Añade — *Ofrenda Desesperada:*** como acción, se interpone en un ataque dirigido a Vorthak o Aurelius recibiéndolo entero. Liberarlos del dominio vampírico es una victoria moral además de táctica.
 
 ## 👥 NPCs Locales
 

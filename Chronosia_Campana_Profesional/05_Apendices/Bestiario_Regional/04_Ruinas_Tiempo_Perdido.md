@@ -30,13 +30,10 @@ Cerografo fue el "magistrado del orden" de la ciudad-reloj: un constructo admini
 
 ## 🐾 Bestias Firma
 
-- ***Guardián Modrón Desfasado*** — *pequeño constructo (relojería), legal neutral* · **CR** 2 (450 XP)
-  - **CA** 15 · **PG** 36 (8d6+8) · **Vel.** 30 pies
-  - **Atributos relevantes:** FUE +2, DES +3, CON +2
-  - **Sentidos:** visión verdadera 30 pies, Percepción pasiva 11; inmune a veneno y encantamiento
-  - **Rasgo:** *Patrulla milenaria:* sigue una ruta fija de hace eras; mientras los PJ no la crucen, los ignora. Atacado, "registra la anomalía" y avisa a otros guardianes a 60 pies.
-  - **Acción:** *Taladro de latón:* +5 al impacto, 1d8+3 perforante; con dos impactos a la misma criatura, esta queda agarrada por engranajes (escapar: Atletismo/Acrobacias CD 13).
-  - **Tácticas / Al ser derrotado:** Se desmonta en piezas que siguen girando un instante; sus engranajes intactos sirven de repuestos (gancho de objeto).
+- ***Guardián Modrón Desfasado*** — **base: pentadrón (MM, CR 2)** — el modrón oficial ES la criatura: relojería legal de Mechanus, desfasada aquí desde hace eras · **CR** 2 (450 XP). *(No está en el SRD; sin el MM a mano: CA 15 · PG 36 · taladro de latón +5, 1d8+3 perforante · inmune a veneno y encantamiento · visión verdadera 30 pies.)*
+  - **Añade — *Patrulla milenaria:*** sigue una ruta fija de hace eras; mientras los PJ no la crucen, los ignora. Atacado, "registra la anomalía" y avisa a otros guardianes a 60 pies.
+  - **Añade — *Presa de engranajes:*** con dos impactos de taladro a la misma criatura, esta queda agarrada (escapar: Atletismo/Acrobacias CD 13).
+  - **Al ser derrotado:** se desmonta en piezas que siguen girando un instante; sus engranajes intactos sirven de repuestos (gancho de objeto).
 
 - ***Fragmento de Tiempo Animado*** — *mediano elemental (tiempo), caótico neutral* · **CR** 3 (700 XP)
   - **CA** 14 · **PG** 52 (8d8+16) · **Vel.** vuelo 30 pies (flotante)

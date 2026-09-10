@@ -28,9 +28,9 @@ Drazhûl es un cultista del fuego ascendido a **capataz de las calderas**: dirig
 
 ## 🐾 Bestias Firma
 
-- ***Cría de Dragón Rojo de Caldera*** — *dragón Grande, caótico malvado* · **CR** 5 (1800 XP). CA 17 · PG 95 (10d10+40) · Vel. 30 pies, vuelo 60 pies. Inmune a fuego. *Nacida en la Puerta:* puede pasar por una boca planar como acción adicional, reapareciendo en otra de la región. **Multiataque:** dos mordiscos/garras, +7, **2d6+4** (mordisco +1d4 fuego). ***Aliento Ígneo (recarga 5-6):*** cono 15 pies, **8d6 fuego**, CD 14 DES mitad. Camadas de Ignis que patrullan los cráteres y cruzan al Plano del Fuego para alimentarse.
+- ***Cría de Dragón Rojo de Caldera*** — **base: cría de dragón rojo (MM/SRD, CR 4)** crecida en las bocas planares: **PG 95** y aliento **8d6** (CD 14) · **CR** 5 (1.800 XP). **Añade — *Nacida en la Puerta:*** pasa por una boca planar como acción adicional, reapareciendo en otra de la región. Camadas de Ignis que patrullan los cráteres y cruzan al Plano del Fuego para alimentarse.
 
-- ***Salamandra de Frontera*** — *elemental grande, neutral malvado* · **CR** 5 (1800 XP). CA 15 · PG 90 (12d10+24) · Vel. 30 pies. Inmune a fuego; vulnerable a frío. *Cuerpo Ardiente:* quien la golpee a melé sufre **1d6 fuego**. **Multiataque:** lanza (+7, **2d6+4 perforante + 1d6 fuego**) y cola constrictora (+7, **2d8+4 contundente + 1d6 fuego**, agarra CD 14). Mercenarias del Plano del Fuego que cruzan por contrato con Drazhûl; algunas recuerdan Avernus.
+- ***Salamandra de Frontera*** — **base: salamandra (MM/SRD, CR 5) tal cual** — la ficha oficial ES esta criatura (CA 15 · PG 90 · lanza y cola constrictora, todo ardiente). Mercenarias del Plano del Fuego que cruzan por contrato con Drazhûl; algunas recuerdan Avernus.
 
 - ***Coloso de Magma Fracturado*** — *elemental enorme, sin alineamiento* · **CR** 7 (2900 XP). CA 16 · PG 168 (16d12+64) · Vel. 30 pies. Inmune a fuego y veneno; vulnerable a frío (el frío lo endurece y lo ralentiza 10 pies). *Erupción de Costra:* al recibir daño contundente, salpica magma (5 pies, CD 15 DES, **2d6 fuego**). **Multiataque:** dos puños, +9, **3d8+5 contundente + 2d6 fuego**. Se forma cuando el sustrato infernal compartido con Avernus rezuma por una caldera y cuaja en cuerpo.
 

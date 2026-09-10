@@ -31,11 +31,9 @@ Caelith fue el horticultor que cuidó el jardín antes de la distorsión. La est
 
 ## 🐾 Bestias Firma
 
-- ***Estatua Acechante*** — *Mediano constructo, sin alineamiento* · **CR** 3 (700 XP)
-  - **CA** 17 (piedra) · **PG** 60 (8d8+24) · **Vel.** 30 pies
-  - **FUE** 18 (+4) · **DES** 6 (-2) · **CON** 16 (+3) · **Sentidos:** Percepción pasiva 9 (no necesita ver: siente vibraciones)
-  - **Rasgos:** **Inmóvil bajo Mirada** — mientras al menos un PJ la esté observando (línea de visión + no cegado), su velocidad es 0 y es indistinguible de una estatua ornamental (Investigación CD 16 para notar que "está distinta"). **Resistencia:** daño no mágico.
-  - **Acciones:** **Multiataque** dos *Garras de Mármol* (+6, 5 pies, 8 (1d8+4) contundente). **Embestida Súbita** (solo si nadie la mira el turno anterior): se desliza hasta 30 pies y golpea con ventaja, 13 (2d8+4) contundente y el objetivo cae *derribado*.
+- ***Estatua Acechante*** — **base: gárgola (MM/SRD, CR 2) sin vuelo** — su *Apariencia Falsa* oficial es la premisa entera · **CR** 3 (700 XP) con **CA 17** (mármol) · **PG 60** y los añadidos
+  - **Añade — *Inmóvil bajo Mirada:*** mientras al menos un PJ la observe (línea de visión + no cegado), su velocidad es 0 y es indistinguible de una estatua ornamental (Investigación CD 16 para notar que "está distinta").
+  - **Añade — *Embestida Súbita*** (solo si nadie la miró el turno anterior): se desliza hasta 30 pies y golpea con ventaja, 13 (2d8+4) contundente y el objetivo cae *derribado*.
   - *Tema: la clásica estatua que se mueve cuando no la miras. Funciona en parejas para que siempre haya una fuera del campo visual.*
 
 - ***Reflejo Hostil*** — *Mediano elemental (espejismo), caótico maligno* · **CR** 4 (1.100 XP)

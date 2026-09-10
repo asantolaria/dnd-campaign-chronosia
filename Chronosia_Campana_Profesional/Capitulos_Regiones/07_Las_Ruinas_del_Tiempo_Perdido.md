@@ -178,7 +178,7 @@ Al este, una garganta de roca tallada por los engranajes donde cada sonido **vue
 ### Bestias firma
 - ***Coloso de Engranajes*** — *constructo grande (relojería rota)* · **CR 4** · CA 16 · PG 76. *Maquinaria Atascada:* la primera vez que cae a 0 PG, se "reinicia" tras 1 asalto inmóvil con la mitad de PG (una vez). *Multiataque:* dos *Puño de pistón* (+8, 2d10+6 contundente; CD 15 FUE o derribado). *Descarga de vapor (rec. 6):* cono 15 pies, CD 14 DES, 4d6 fuego.
 - ***Fragmento de Tiempo Animado*** — *elemental mediano (tiempo), caótico neutral* · **CR 3** · CA 14 · PG 52 · vuelo 30 pies. *Inestabilidad Cronal:* al inicio de su turno, 1d6 — 1-2 acelera (ataque extra), 5-6 se ralentiza (velocidad 0). *Latigazo de instante* (+6, 10 pies, 2d6+4 fuerza). *Salto temporal (rec. 5-6):* teletransporte 60 pies; criatura más cercana al destino, CD 13 DES o 2d8 necrótico.
-- ***Guardián Modrón Desfasado*** — *constructo pequeño (relojería), legal neutral* · **CR 2** · CA 15 · PG 36. *Patrulla Milenaria:* ignora a los PJ salvo que crucen su ruta o lo ataquen; entonces avisa a otros a 60 pies. *Taladro de latón* (+5, 1d8+3 perforante; con dos impactos a la misma criatura, queda agarrada, escape CD 13).
+- ***Guardián Modrón Desfasado*** — **base: pentadrón (MM)** · **CR 2** · CA 15 · PG 36. *Patrulla Milenaria* (ignora a quien no cruce su ruta); taladro +5, 1d8+3 perf.; dos impactos a la misma criatura = agarrada (CD 13).
 
 ---
 

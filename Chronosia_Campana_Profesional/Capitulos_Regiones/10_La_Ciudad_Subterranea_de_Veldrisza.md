@@ -171,7 +171,7 @@ Un castillo drow colgado de las telarañas en lo más alto de la sima, conectado
 ### Bestias firma
 - ***Araña del Intersticio*** — *Grande monstruosidad* · **CR 5** · CA 15 · PG 76. Como bonus se *parpadea* entre la caverna y el Underdark (ventaja al reaparecer atacando). *Mordisco* +7, 2d8+4 perforante + 3d6 veneno. Su tela atraviesa paredes.
 - ***Acechador de la Penumbra (esclavista mental)*** — *Mediana aberración* · **CR 4** · CA 16 · PG 60. Siervo deformado de Lolth con tentáculos faciales. *Garras* +6, 2d6+3 cortante; *Susurro de obediencia (rec. 6):* CD 13 SAB o *hechizado*, avanza hacia el abismo más cercano. Caza refugiados fugados.
-- ***Espectro de Menzoberranzan*** — *Mediano no-muerto* · **CR 6** · CA 14 · PG 90. Drow muerto al cruzar mal un umbral, semietéreo (ataca desde el plano vecino). *Toque desgarrador* +6, 4d6 necrótico + reduce el máximo de PG. Solo plenamente vulnerable cuando un umbral cercano está abierto.
+- ***Espectro de Menzoberranzan*** — **base: tumulario / *wraith* (MM/SRD)** con **PG 90** · **CR 6**. Semietéreo: ataca desde el plano vecino; solo plenamente vulnerable con un umbral cercano abierto.
 
 ---
 

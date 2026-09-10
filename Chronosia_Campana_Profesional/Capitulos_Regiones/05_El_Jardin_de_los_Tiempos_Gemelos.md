@@ -251,7 +251,7 @@ El estanque negro del ala este, de aguas tan quietas y oscuras que son un espejo
 - ***Multiataque:*** dos *Podadera de Eras* (+6, 1d10+3 cortante + 1d8 necrótico). ***Sembrar Estasis (rec. 5-6):*** 30 pies, CD 14 CON o *petrificado parcialmente* (3 fallos = *petrificado* hasta *restablecimiento mayor*).
 
 ### Bestias firma
-- ***Estatua Acechante*** — *constructo mediano* · **CR 3** · CA 17 · PG 60. *Inmóvil bajo Mirada* (vel. 0 mientras la observen). *Embestida Súbita* (si nadie la miró el turno previo): 30 pies + 2d8+4 contundente, *derribado*. Resist. daño no mágico. Funciona en parejas.
+- ***Estatua Acechante*** — **base: gárgola (MM/SRD) sin vuelo** · **CR 3** · CA 17 · PG 60. *Inmóvil bajo Mirada* (vel. 0 mientras la observen; Investigación CD 16); *Embestida Súbita* si nadie la miró: 30 pies + 2d8+4 con ventaja y derriba.
 - ***Reflejo Hostil*** — *elemental mediano (espejismo), caótico maligno* · **CR 4** · CA 13 · PG 52. Copia al reflejado; ventaja contra su original. *Filos Especulares* (+5, 1d6+3 cort. + 1d6 psíquico). *Arrastrar al Otro Lado (rec. 6):* CD 13 CAR o succionado a la dimensión espejo 1 min. Romper su espejo (CA 12, 10 PG) le hace 2d10 psíquico.
 - ***Polilla del Crepúsculo Detenido*** — *bestia pequeña (aberrante)* · **CR 2** · CA 14 · PG 33. *Polvo de Estasis:* desventaja a salvaciones vs. ralentización/petrificación a 5 pies. *Roce Aletargante* (+5, 1d4+3 perf.; CD 12 CON o velocidad a la mitad). Vuela en enjambres.
 

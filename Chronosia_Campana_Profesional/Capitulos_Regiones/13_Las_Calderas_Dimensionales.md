@@ -144,8 +144,8 @@ La cima de la región: tres montañas coronadas por óvalos de llama —las boca
 - ***Multiataque:*** *Látigo de Escoria* (+7, alcance 15 pies, 2d8+3 cortante + 2d6 fuego, atrae 10 pies) + *Verbo Ígneo* (+6, 60 pies, 4d6 fuego, CD 15 DES mitad). ***Avivar la Puerta:*** una boca a la vista escupe cono de 20 pies (CD 15 DES, 6d6 fuego) y Drazhûl gana resistencia a todo daño hasta su turno.
 
 ### Bestias firma
-- ***Cría de Dragón Rojo de Caldera*** — *dragón mediano, caótico maligno* · **CR 5** · CA 17 · PG 95. Inmune a fuego. *Nacida en la Puerta:* cruza de una boca a otra como acción adicional. Dos mordiscos/garras +7, 2d6+4 (mordisco +1d4 fuego). ***Aliento (rec. 5-6):*** cono 15 pies, 8d6 fuego, CD 14 DES mitad.
-- ***Salamandra de Frontera*** — *grande elemental, neutral maligno* · **CR 5** · CA 15 · PG 90. Inmune a fuego; vulnerable a frío. *Cuerpo Ardiente:* melé contra ella sufre 1d6 fuego. Lanza +7 (2d6+4 perf. + 1d6 fuego) y cola +7 (2d8+4 contundente + 1d6 fuego, agarra CD 14).
+- ***Cría de Dragón Rojo de Caldera*** — **base: cría de dragón rojo (MM/SRD)** con **PG 95** y aliento **8d6** (CD 14) · **CR 5**. Inmune a fuego. *Nacida en la Puerta:* cruza una boca planar como acción adicional, reapareciendo en otra de la región.
+- ***Salamandra de Frontera*** — **base: salamandra (MM/SRD, CR 5) tal cual** (CA 15 · PG 90 · lanza +7 2d6+4 perf. + 1d6 fuego; cola +7 2d8+4 cont. + 1d6 fuego, agarra CD 14; melé contra ella 1d6 fuego). Mercenarias del Plano del Fuego por contrato con Drazhûl.
 - ***Coloso de Magma Fracturado*** — *enorme elemental, sin alineamiento* · **CR 7** · CA 16 · PG 168. Inmune a fuego/veneno; vulnerable a frío (lo ralentiza 10 pies). *Erupción de Costra:* al recibir contundente, salpica magma (5 pies, CD 15 DES, 2d6 fuego). Dos puños +9, 3d8+5 contundente + 2d6 fuego.
 
 ---
