@@ -30,7 +30,7 @@ Antiguo sacristán del valle, Cándano fue el primero en darse cuenta de que el 
 
 ## 🐾 Bestias Firma
 
-- ***Eco de Refriega*** — *mediano no-muerto (eco temporal), sin alineamiento* · **CR** 2 (450 XP)
+- ***Eco de Refriega*** — **de la familia del espectro (SRD): soldados que repiten su batalla** — *mediano no-muerto (eco temporal), sin alineamiento* · **CR** 2 (450 XP)
   - **CA** 13 · **PG** 39 (6d8+12) · **Vel.** 30 pies
   - **Atributos relevantes:** FUE +2, DES +3, CON +2
   - **Sentidos:** Percepción pasiva 10; inmune a encantamiento y agotamiento

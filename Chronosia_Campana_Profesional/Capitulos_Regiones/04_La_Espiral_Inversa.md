@@ -165,7 +165,7 @@ El centro de la espiral: un doble vórtice de arena dorada girando hacia atrás,
 - ***Multiataque:*** dos *dagas* +5, 1d4+3 perf. + 2d6 necrótico. ***Ofrenda al Retroceso (rec. 5-6):*** CD 13 SAB o "rebobina" (pierde su acción).
 
 ### Bestias firma
-- ***Eco de Refriega*** — *no-muerto temporal* · **CR 2** · CA 13 · PG 39. *Combate enlatado* (repite su acción salvo daño >10). Dos golpes +4, 1d8+2. Reaparece salvo que se destruya su arma-ancla.
+- ***Eco de Refriega*** — **de la familia del espectro (SRD): soldados que repiten su batalla** — *no-muerto temporal* · **CR 2** · CA 13 · PG 39. *Combate enlatado* (repite su acción salvo daño >10). Dos golpes +4, 1d8+2. Reaparece salvo que se destruya su arma-ancla.
 - ***Rebobinador*** — *aberración temporal* · **CR 3** · CA 14 · PG 45. *Mordisco* +6, 1d6+4 + 1d6 necrótico. *Rebobinar turno (rec. 6):* CD 13 CON o el turno "no sucedió"; cura 10 PG.
 - ***Aldeano Vuelto Niño*** — *no-muerto inocente* · **CR 1** · CA 11 · PG 22. *Reversión contagiosa:* CD 11 CON o agotamiento. No muere de verdad salvo que se rompa el bucle.
 

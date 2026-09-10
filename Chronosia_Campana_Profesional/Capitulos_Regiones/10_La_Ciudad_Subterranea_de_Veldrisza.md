@@ -169,7 +169,7 @@ Un castillo drow colgado de las telarañas en lo más alto de la sima, conectado
 - ***Toque de la Reina Araña (recarga 5-6):*** rayo de seda a 60 pies; CD 16 SAB o *anclada al umbral* — la próxima vez que reciba daño es teletransportada a un nudo aleatorio del Underdark.
 
 ### Bestias firma
-- ***Araña del Intersticio*** — *Grande monstruosidad* · **CR 5** · CA 15 · PG 76. Como bonus se *parpadea* entre la caverna y el Underdark (ventaja al reaparecer atacando). *Mordisco* +7, 2d8+4 perforante + 3d6 veneno. Su tela atraviesa paredes.
+- ***Araña del Intersticio*** — **pariente crecida de la araña de fase (MM/SRD — reimpresa en el apéndice A)** — *Grande monstruosidad* · **CR 5** · CA 15 · PG 76. Como bonus se *parpadea* entre la caverna y el Underdark (ventaja al reaparecer atacando). *Mordisco* +7, 2d8+4 perforante + 3d6 veneno. Su tela atraviesa paredes.
 - ***Acechador de la Penumbra (esclavista mental)*** — *Mediana aberración* · **CR 4** · CA 16 · PG 60. Siervo deformado de Lolth con tentáculos faciales. *Garras* +6, 2d6+3 cortante; *Susurro de obediencia (rec. 6):* CD 13 SAB o *hechizado*, avanza hacia el abismo más cercano. Caza refugiados fugados.
 - ***Espectro de Menzoberranzan*** — **base: tumulario / *wraith* (MM/SRD)** con **PG 90** · **CR 6**. Semietéreo: ataca desde el plano vecino; solo plenamente vulnerable con un umbral cercano abierto.
 

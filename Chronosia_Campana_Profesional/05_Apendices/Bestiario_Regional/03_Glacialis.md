@@ -28,7 +28,7 @@ Velka fue una hechicera del frío que negoció con Ymir el cargo de **vigilante 
 
 ## 🐾 Bestias Firma
 
-- ***Heraldo de Escarcha (elemental de agua menor)*** — *elemental mediano, neutral* · **CR** 3 (700 XP). CA 14 · PG 60 (8d8+24) · Vel. 30 pies, nado 60 pies (a través de portales). Resistencia a frío y daño físico no mágico; vulnerable a fuego. *Forma Fluida:* cruza por cualquier portal o grieta de hielo del ancho de un puño. **Multiataque:** dos golpes de agua helada, +5, **2d8+3 contundente** y empapa al objetivo (vulnerable a frío hasta su próximo turno). Cruzan desde el Plano del Agua cuando un portal se sobrecarga.
+- ***Heraldo de Escarcha (elemental de agua menor)*** — **cría del elemental de agua (MM/SRD, CR 5 — reimpreso en el apéndice A)** — *elemental mediano, neutral* · **CR** 3 (700 XP). CA 14 · PG 60 (8d8+24) · Vel. 30 pies, nado 60 pies (a través de portales). Resistencia a frío y daño físico no mágico; vulnerable a fuego. *Forma Fluida:* cruza por cualquier portal o grieta de hielo del ancho de un puño. **Multiataque:** dos golpes de agua helada, +5, **2d8+3 contundente** y empapa al objetivo (vulnerable a frío hasta su próximo turno). Cruzan desde el Plano del Agua cuando un portal se sobrecarga.
 
 - ***Loba del Glaciar Distorsionada*** — **base: lobo atroz (MM/SRD, CR 1; reimpreso en el apéndice A)** con **PG 45** · **CR** 2 (450 XP). Atravesada por astillas de portal: su cuerpo parpadea fuera de fase. **Añade — *Acecho Translúcido:*** casi invisible sobre la nieve (ventaja para esconderse). Su derribo oficial (CD 13 FUE) y sus tácticas de manada ya vienen de serie. Cazan cerca de los umbrales, atraídas por el frío planar.
 

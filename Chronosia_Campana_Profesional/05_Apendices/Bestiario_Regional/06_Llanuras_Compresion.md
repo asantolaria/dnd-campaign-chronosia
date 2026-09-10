@@ -29,7 +29,7 @@ Cultista infernal que sirvió de zapador a Dimensionalis: traza "mapas vivos" en
 
 ## 🐾 Bestias Firma
 
-- ***Mastín Comprimido*** — *bestia monstruosa pequeña, sin alineamiento* · **CR** 5 (1800 XP). CA 15 · PG 102 (12d6+60) · Vel. 50 pies. Una mole del tamaño de un toro plegada en un cuerpo del tamaño de un perro: densa, imposible. *Mordisco* +8, 22 (3d10+6) perforante; *Masa Imposible:* cualquier criatura que termine su turno adyacente sufre 7 (2d6) contundente por la gravedad distorsionada que la rodea. Resistencia a daño contundente, cortante y perforante de armas no mágicas.
+- ***Mastín Comprimido*** — **el inverso del perro parpadeante (SRD): plegado hacia dentro, no hacia fuera** — *bestia monstruosa pequeña, sin alineamiento* · **CR** 5 (1800 XP). CA 15 · PG 102 (12d6+60) · Vel. 50 pies. Una mole del tamaño de un toro plegada en un cuerpo del tamaño de un perro: densa, imposible. *Mordisco* +8, 22 (3d10+6) perforante; *Masa Imposible:* cualquier criatura que termine su turno adyacente sufre 7 (2d6) contundente por la gravedad distorsionada que la rodea. Resistencia a daño contundente, cortante y perforante de armas no mágicas.
 
 - ***Acechante del Pliegue*** — *aberración mediana, neutral malvado* · **CR** 4 (1100 XP). CA 16 · PG 65 (10d8+20) · Vel. 30 pies. Depredador que existe "entre" los dobleces; aparece donde no debería. *Garra* +6, 13 (2d8+4) cortante. *Aparición Plegada (recarga 4-6):* se teleporta hasta 60 pies a un espacio visible y ataca; el objetivo tiene desventaja en la salvación contra ser empujado. Inmune a estar flanqueado (siempre puede deslizarse al pliegue contiguo).
 

@@ -24,7 +24,7 @@ Sacerdotisa drow caída en desgracia ante la Matrona, Zress'ynara fue *bendecida
 
 ## 🐾 Bestias Firma
 
-- ***Araña del Intersticio*** — *Grande monstruosidad, sin alineamiento* · **CR** 5 (1.800 XP) · **CA** 15 · **PG** 76 (8d10+32) · trepa por la realidad misma: como acción bonus se *parpadea* (como *parpadeo*) entre la caverna y el Underdark, ganando ventaja al atacar al reaparecer. Mordisco +7, 2d8+4 perforante + 3d6 veneno. Su tela es semitransparente y atraviesa paredes.
+- ***Araña del Intersticio*** — **pariente crecida de la araña de fase (MM/SRD — reimpresa en el apéndice A)** — *Grande monstruosidad, sin alineamiento* · **CR** 5 (1.800 XP) · **CA** 15 · **PG** 76 (8d10+32) · trepa por la realidad misma: como acción bonus se *parpadea* (como *parpadeo*) entre la caverna y el Underdark, ganando ventaja al atacar al reaparecer. Mordisco +7, 2d8+4 perforante + 3d6 veneno. Su tela es semitransparente y atraviesa paredes.
 - ***Acechador de la Penumbra (esclavista mental)*** — *Mediana aberración, neutral maligno* · **CR** 4 (1.100 XP) · **CA** 16 · **PG** 60 (8d8+24) · siervo deformado de Lolth con tentáculos faciales. Garras +6, 2d6+3 cortante; *Susurro de obediencia* (recarga 6): una criatura a 30 pies debe TS SAB CD 13 o queda *hechizada* y avanza hacia el abismo más cercano. Caza refugiados fugados.
 - ***Espectro de Menzoberranzan*** — **base: tumulario / *wraith* (MM/SRD, CR 5)** con **PG 90** · **CR** 6 (2.300 XP) — drow muerto al cruzar mal un umbral, atrapado entre dos mundos. **Añade — *Semietéreo:*** puede atacar desde el plano vecino (su *Drenar Vida* oficial ya reduce el máximo de PG); solo es plenamente vulnerable cuando un umbral cercano está abierto.
 

@@ -181,7 +181,7 @@ Una torre de vigía que el espacio ha plegado sobre sí misma: parece baja desde
 - ***Doblez Imposible (recarga 5-6):*** pliega un corredor de 60×10; CD 15 DES o arrojado al otro extremo recibiendo 6d6 contundente por compresión.
 
 ### Bestias firma
-- ***Mastín Comprimido*** — *bestia monstruosa pequeña* · **CR 5** · CA 15 · PG 102. Un toro plegado en cuerpo de perro. *Mordisco* +8, 3d10+6 perforante; *Masa Imposible:* quien termine su turno adyacente sufre 2d6 contundente por la gravedad distorsionada. Resist. contundente/cortante/perforante no mágico.
+- ***Mastín Comprimido*** — **el inverso del perro parpadeante (SRD): plegado hacia dentro, no hacia fuera** — *bestia monstruosa pequeña* · **CR 5** · CA 15 · PG 102. Un toro plegado en cuerpo de perro. *Mordisco* +8, 3d10+6 perforante; *Masa Imposible:* quien termine su turno adyacente sufre 2d6 contundente por la gravedad distorsionada. Resist. contundente/cortante/perforante no mágico.
 - ***Acechante del Pliegue*** — *aberración mediana* · **CR 4** · CA 16 · PG 65. Existe "entre" los dobleces. *Garra* +6, 2d8+4 cortante. *Aparición Plegada (rec. 4-6):* teletransporte 60 pies y ataca; el objetivo tiene desventaja en la salvación contra ser empujado. Inmune a flanqueo.
 - ***Eco Cartográfico*** — *no-muerto pequeño* · **CR 3** · CA 13 · PG 44 · vuela 30 pies. Jirones de mapas animados. *Corte de Pergamino* +5, 2d6+3 cortante; *Desorientar:* CON CD 13 o confundido sobre direcciones 1 minuto (desventaja en navegación y contra teletransporte forzado). Atacan en bandadas.
 

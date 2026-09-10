@@ -31,14 +31,14 @@ Tessaly fue una vidente que sirvió a Varrak hasta que miró demasiados futuros 
 
 ## 🐾 Bestias Firma
 
-- ***El Otro Tú*** (Eco Adverso) — *Mediano aberración (eco de probabilidad), varía* · **CR** 5 (1.800 XP)
+- ***El Otro Tú*** (Eco Adverso) — **primo de probabilidad del doppelganger (SRD)** — *Mediano aberración (eco de probabilidad), varía* · **CR** 5 (1.800 XP)
   - **CA** 15 · **PG** 75 (10d8+30) · **Vel.** 30 pies
   - *Atributos espejo del PJ que copia (usa los del jugador objetivo o, por defecto: FUE/DES 16, CON 16)* · **CD de poder** 14 · **Sentidos:** Visión verdadera 30 pies, Percepción pasiva 14
   - **Rasgos:** **Versión Hostil** — al manifestarse, copia las resistencias, una habilidad de clase y el arma de un PJ concreto (su "yo alternativo" que tomó el camino oscuro). **Conoce tus Trucos:** tiene ventaja en salvaciones contra conjuros y rasgos de ese PJ.
   - **Acciones:** **Multiataque** dos ataques con el arma copiada (+7, daño como el PJ +1d6 necrótico). **Lo Que Pudiste Ser (1/día):** replica el rasgo más fuerte del PJ copiado una vez sin coste.
   - *Tema: el "yo alternativo" hostil de un personaje; personalízalo por mesa para máximo impacto.*
 
-- ***Bestia Superpuesta*** — *Grande aberración, sin alineamiento* · **CR** 4 (1.100 XP)
+- ***Bestia Superpuesta*** — **pariente abisal de la bestia desplazadora (MM)** — *Grande aberración, sin alineamiento* · **CR** 4 (1.100 XP)
   - **CA** 14 · **PG** 60 (8d10+16) · **Vel.** 40 pies
   - **DES** 17 (+3) · **CON** 15 (+2) · **Sentidos:** Visión ciega 60 pies, Percepción pasiva 13
   - **Rasgos:** **Existe en Varios Estados:** la primera vez que es impactada en una ronda, tira 1d4; con 1-2 el ataque "ocurrió en otra realidad" y no causa daño (esquiva por probabilidad). Resistencia a daño contundente, cortante y perforante de fuentes no mágicas.

@@ -181,7 +181,7 @@ Perdió el brazo derecho "en un futuro que decidió no ocurrir"; en su lugar, **
 
 ### Bestias firma
 - ***El Otro Tú (Eco Adverso)*** — *Mediano aberración (eco de probabilidad)* · **CR 5** · CA 15 · PG 75. Copia resistencias, un rasgo de clase y el arma de **un PJ** (su "yo oscuro"); ventaja en salvaciones contra conjuros/rasgos de ese PJ. *Multiataque:* dos ataques con el arma copiada (+7, daño del PJ +1d6 necrótico). *Lo Que Pudiste Ser (1/día):* replica el rasgo más fuerte del PJ sin coste. *Personalízalo por personaje.*
-- ***Bestia Superpuesta*** — *Grande aberración* · **CR 4** · CA 14 · PG 60. *Existe en Varios Estados:* la primera vez que es impactada por ronda tira 1d4; con 1-2 el golpe "ocurrió en otra realidad" (sin daño). Resist. contundente/cortante/perforante no mágico. *Multiataque:* dos *Zarpas de Cuántos* (+6, 2d6+4 cortante). *Salto entre Líneas (rec. 5-6):* teletransporte 30 pies y ataca con ventaja.
+- ***Bestia Superpuesta*** — **pariente abisal de la bestia desplazadora (MM)** — *Grande aberración* · **CR 4** · CA 14 · PG 60. *Existe en Varios Estados:* la primera vez que es impactada por ronda tira 1d4; con 1-2 el golpe "ocurrió en otra realidad" (sin daño). Resist. contundente/cortante/perforante no mágico. *Multiataque:* dos *Zarpas de Cuántos* (+6, 2d6+4 cortante). *Salto entre Líneas (rec. 5-6):* teletransporte 30 pies y ataca con ventaja.
 - ***Larva de Bifurcación*** — *Pequeño aberración* · **CR 3** · CA 13 · PG 45. *Se Divide al Decidir:* al recibir daño con 10+ PG, se bifurca en dos larvas a mitad de PG (una vez). *Mordisco Probable* (+5, 1d8+3 perforante; con un 1 natural del objetivo en su próximo turno, +1d6 psíquico).
 
 ---

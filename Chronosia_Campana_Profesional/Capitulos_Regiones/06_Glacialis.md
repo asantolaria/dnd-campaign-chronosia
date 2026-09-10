@@ -174,7 +174,7 @@ El nodo central: un **maelström de hielo y vacío** —un embudo gigante girand
 
 ### Bestias firma
 - ***Centinela de Hielo Vivo*** — *constructo grande* · **CR 4** · CA 16 · PG 95. Inmune a frío/veneno; **vulnerable a fuego** (pierde 10 pies de velocidad al recibirlo). *Cuerpo de Témpano:* al morir, explota (10 pies, CD 14 DES, 3d6 cortante). *Golpe Glacial* (+7, 2d10+4 contundente; CD 14 CON o ralentizado). Guardián inmóvil de portales mayores.
-- ***Heraldo de Escarcha (elemental de agua menor)*** — *elemental mediano* · **CR 3** · CA 14 · PG 60. Resist. frío y físico no mágico; **vulnerable a fuego**. *Forma Fluida:* cruza por cualquier portal/grieta. *Multiataque:* dos golpes (+5, 2d8+3 contundente; empapa = vulnerable a frío hasta su próximo turno). Cruzan del Plano del Agua cuando un portal se sobrecarga.
+- ***Heraldo de Escarcha (elemental de agua menor)*** — **cría del elemental de agua (MM/SRD, CR 5 — reimpreso en el apéndice A)** — *elemental mediano* · **CR 3** · CA 14 · PG 60. Resist. frío y físico no mágico; **vulnerable a fuego**. *Forma Fluida:* cruza por cualquier portal/grieta. *Multiataque:* dos golpes (+5, 2d8+3 contundente; empapa = vulnerable a frío hasta su próximo turno). Cruzan del Plano del Agua cuando un portal se sobrecarga.
 - ***Loba del Glaciar Distorsionada*** — **base: lobo atroz (SRD, apéndice A)** con **PG 45** · **CR 2**. *Acecho Translúcido:* casi invisible sobre la nieve; mordisco +5, 2d6+3 y derriba (CD 13 FUE).
 
 ---
