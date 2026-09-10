@@ -13,7 +13,7 @@
 | Hacéis una **travesía larga** (un viaje que es un arco) | Completáis una **misión de sabotaje** — de los Anacronistas o de Marcus (estanca **1 hito**) |
 | Pasa una **temporada de inactividad** en Cronópolis (una semana+ de downtime; los descansos normales NO cuentan) | |
 
-- **SALTO de Thyra** (Cap. 14, hito 4 de Teach): **+2 de golpe** — la única subida doble.
+- **SALTO de Thyra** (Cap. 14, hito 4 de Teach): **+2 de golpe** — la única subida doble. **Nunca pasa de 7/8 por sí solo** (el Talismán intercepta el resto — Cap. 14): al 8/8 solo se llega por hitos jugados.
 - **La única marcha atrás:** el **sacrificio de Varrak** (aliado + Reloj ≥6/8): **−1 segmento**.
 - **8/8 = la ascensión se consuma = Final D (derrota).** El Reloj **nunca** abre la Torre.
 - La cuenta: de 2 a 8 hay ~6 hitos, el SALTO come 2 → **~4 regiones sin frenar nada**; cada crítico devuelve 2 respiros (~5-6 regiones en total). Dejar zonas sin ver **es el punto**.
