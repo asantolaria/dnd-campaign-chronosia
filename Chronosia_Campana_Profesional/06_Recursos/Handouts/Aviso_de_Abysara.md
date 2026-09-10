@@ -28,6 +28,8 @@
 
 *Abysara canta. Abysara cuenta. Abysara no olvida.*
 
+> *Y una estrofa más, la que los mensajeros añaden en voz baja:* «El traidor pide a gritos lo que no le venderemos: **nuestros cristales que cosen**. Lo que sea que ha cosido con lo robado… teme que se le **descosa**. Recordadlo cuando lo tengáis delante.»
+
 ---
 
 ## 🎓 PARTE DEL DM

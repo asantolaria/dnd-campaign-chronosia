@@ -102,7 +102,7 @@ El **Cronómetro de Realidades** fue creado por los primeros Anacronistas usando
 **⚠️ IMPORTANTE:** El Cronómetro es el único artefacto de su tipo. Si fuera destruido o robado, Cronópolis perdería su protección y quedaría expuesta a las distorsiones como el resto de Chronosia.
 
 ### **🌬️ La Bendición del Primer Suspiro** (Opcional - Puedes usar o no)
-- Se dice que un chamán de hace dos generaciones —el maestro de Harlim— respiró las últimas partículas de aire libre que exhaló el dios del tiempo **el día en que lo encadenaron** (hace ochenta años), y que la bendición se transmite de boca a boca en el lecho de muerte
+- Se dice que un chamán de hace dos generaciones —el maestro de Harlim— respiró las últimas partículas de aire libre que exhaló el dios del tiempo **el día en que lo encadenaron** (hace ochenta años), y que la bendición se transmite de boca a boca en el lecho de muerte — **igual que las palabras de activación de la llave**: Galen y Harlim las recitan juntos cada solsticio (el relevo ritual del clan: si uno falta, el otro las canta — Cap. 3)
 - Ese "suspiro divino" se transmite a través de rituales en los líderes de la hermandad
 - Quien recibe la bendición queda fuera de la corriente de distorsiones, pero a cambio oye el grito agónico del dios cada noche
 

@@ -12,6 +12,8 @@
 
 ## 📋 **RESUMEN EJECUTIVO**
 
+> **🗝️ LO MÁS IMPORTANTE DE ESTA FACCIÓN (que esta ficha no decía):** los Oceánicos custodian la **media llave chroniana del Espacio** — una de las dos mitades sin las cuales los dioses NO pueden liberarse (la otra la guardan los Anacronistas; la reconciliación de los dos pueblos es la única vía del buen final — Cap. 11 y Cap. 15). Nereia la entrega solo por **actos** (la vendetta contra Teach) y sube con ella en persona a la Llamada. Todo lo demás de esta ficha está al servicio de esa decisión.
+
 Los Oceánicos de las Profundidades son una raza humanoide acuática que vive en las profundidades oceánicas del Archipiélago de Barbanegra. Son seres nobles, pacíficos y extremadamente longevos que habitan la ciudad sumergida de **Abysara**.
 
 **🌊 Líder**: Reina Nereia (347 años)  

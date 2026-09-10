@@ -17,6 +17,8 @@
 
 > **Custodio que no descifra.** Galen entiende el **Reloj** (el presente), pero **no** la **media llave chroniana de la superficie**: guarda una **piedra sagrada** (Cámara del Tiempo) y unas **palabras** que su linaje tiene orden de retener intactas desde la fractura, **sin saber qué abren**. Pasa la mitad a los PJ con confianza ganada; el **significado** lo descubren ellos en Las Ruinas del Tiempo Perdido y en Abysara. Detalle en [Cronópolis → Galen](../03_Cronopolis.md) y [catálogo → La Llave Chroniana](../06_Recursos/Tablas/21_Objetos_Magicos_Reliquias.md#-la-llave-chroniana-las-dos-mitades).
 
+**Contingencia (las palabras no mueren con él):** las palabras de la llave se custodian por relevo ritual con **Harlim** — si Galen cae antes del traspaso, Harlim busca a los PJ (Cap. 3, la red de seguridad).
+
 **Deseo, defecto y su escena** *(para que sea una persona, no un rol)*: Galen lleva sesenta años custodiando unas palabras que tiene **prohibido** intentar entender — y su deseo secreto, casi vergonzoso, es **oír qué abren antes de morir**. Su defecto es la otra cara: retiene información *por reflejo*, incluso cuando compartirla salvaría tiempo (sus silencios de "aún no estáis listos" son mandato hecho carne, y a veces se equivocan). **Su escena** (prográmala en el clímax o al reunir la llave): cuando las dos mitades se unen y las palabras suenan por fin, Galen no mira la llave — **cierra los ojos para escucharla**. Dale a un PJ el detalle: el custodio está llorando. Sesenta años de fidelidad a ciegas, pagados en un acorde.
 
 **Diálogos Clave**:

@@ -514,7 +514,7 @@ Un reloj de arena de 2 pies de altura con estructura de bronce antiguo. La arena
 **Requisitos:**
 - **Alianza con Ingenieros:** Los PJ deben tener buena relación con Din Goldgear o La Resistencia
 - **Nivel Recomendado:** 7-9
-- **Conocimiento Técnico:** Din Goldgear o un Artífice de nivel 9+ debe dirigir la construcción
+- **Conocimiento Técnico:** Din Goldgear, **Balthar** (gruñendo que "esto es cosa de gnomos") o un Artífice de nivel 9+ debe dirigir la construcción
 
 **Uso Post-Obtención:**
 - **Uso narrativo:** abre atajos de excavación en el descenso a Veldrisza — pero la puerta de esa región la abre **derrotar a Ignis** (Mapa de Puertas, Cap. 1), no este objeto
@@ -585,7 +585,7 @@ Una máquina de excavación del tamaño de un carro pequeño, con múltiples tal
 - **Tiempo:** 1 semana de trabajo continuo
 - **Lugar:** Taller de los Ingenieros en Cronópolis
 - **Materiales Adicionales:** 5,000 po en materiales
-- **Requisito Técnico:** Din Goldgear o un Artífice de nivel 9+ debe dirigir el ensamblaje
+- **Requisito Técnico:** Din Goldgear, **Balthar** (el respaldo si Din falta) o un Artífice de nivel 9+ debe dirigir el ensamblaje
 
 **Uso Inmediato:**
 - **Motor de Viento Perpetuo:** Los Ingenieros construyen un Motor de Viento Perpetuo usando el Rotor
@@ -635,7 +635,7 @@ Un rotor masivo de 3 pies de diámetro con engranajes de mithril y cristales tem
 
 **Requisitos de Ensamblaje:**
 - Requiere ambas partes (Núcleo + Carcasa)
-- Requiere Din Goldgear o un Artífice de nivel 9+ para ensamblar
+- Requiere Din Goldgear, Balthar o un Artífice de nivel 9+ para ensamblar
 - Requiere 1 semana de trabajo continuo
 - Requiere materiales adicionales (5000 po en materiales)
 

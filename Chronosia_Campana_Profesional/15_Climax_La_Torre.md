@@ -12,6 +12,10 @@ Todo lo que los héroes han hecho —cada región explorada, cada lugarteniente 
 
 > **🌫️ El Eco 3.** Si usas los *Tres Ecos* de Aethernus (su [ficha](02_Guia_DM/04_Cronofagos_Detallado/12_Aethernus_Valcarys_Manshoon.md)), el tercero — «Ah. Ahí estabais.» — se dispara justo aquí, al encajar por primera vez las dos mitades de la llave. Es la única vez que el BBEG les habla antes de la Torre: no lo desperdicies.
 
+> **⚔️ EL ASALTO DESESPERADO (sin llave — el procedimiento que faltaba).** Prometido en el Cap. 0 y el Cap. 1, aquí está: **conocer la entrada basta para forzar el doblez desde fuera** — la Llamada no suena (los dioses no pueden guiar sin la llave), así que el acceso es a la brava: los Ingenieros sobrecargan el Cerrador de Portales *al revés* sobre las coordenadas de la entrada (1 hora de trabajo, 3 Cristales de Poder consumidos — o la red capturada de Ymir, si la tienen, hace de ariete gratis). Consecuencias: el medidor arranca **+10% peor** que lo que diga el Reloj (Aethernus los siente llegar), no hay bendición de portadores ni Paso 2 posible (los dioses no se liberan: final agridulce o B, ya avisado), y las antesalas están **alerta**. Es un final legítimo para mesas que eligieron otra ruta — sombrío, no imposible.
+
+> **🕸️ BACKSTOP — la llave sin la entrada.** Si los PJ reúnen la llave pero NO conocen la entrada (Teach evitado, Yrindra sin tratar), **la entrada los busca a ellos**: un mensajero drow con el sello de la Matrona ofrece la venta — su ficha lo justifica palabra por palabra (Yrindra NECESITA que alguien pare la ascensión sin su firma). Y si Yrindra ya murió, el recibo de su venta a Teach está en su tesoro (Cap. 10). **La campaña nunca se queda sin puerta por ignorancia: solo por decisión.**
+
 > **Cuándo se dispara.** La Llamada **no** la activa el Reloj llegando a 8/8 (eso sería ya la derrota, el Final D). Se activa cuando los PJ **reúnen la llave chroniana** —las dos mitades, Anacronistas + Oceánicos— **y conocen la entrada de la Torre** (revelada por Teach o por la espía Matrona Yrindra de Veldrisza). Ese es el momento en que el asalto es posible y los dioses, sintiendo que sus liberadores ya tienen lo que hace falta, encuentran el aliento para llamarlos. El Reloj sigue corriendo como doom de fondo: cuanto más alto esté cuando suene la Llamada, más cerca del 100% arrancará el medidor del ritual arriba.
 
 Cuando los PJ tienen la llave reunida y saben cómo entrar, el ritual de ascensión entra en su última fracción y el semiplano entero lo siente. No hay heraldos ni mensajeros: los propios dioses cautivos, exprimidos hasta el límite, encuentran el aliento para gritar una vez. Léelo en ese momento.
@@ -21,7 +25,7 @@ Cuando los PJ tienen la llave reunida y saben cómo entrar, el ritual de ascensi
 >
 > Y entonces, dentro de vuestra cabeza, **dos voces** que no son una sola. La primera es luz, y suena a mediodía y a derrota:
 >
-> «**Mortales. Habéis llegado.** El ritual está casi completo. Si no actuáis *ahora*, el ladrón será invencible. Yo soy el sol que mide vuestros días, y me han contado hasta el último. La Torre se ha vuelto visible. **Venid.**»
+> «**Mortales. Habéis llegado.** El ritual está casi completo. Si no actuáis *ahora*, el ladrón será invencible. Buscad en su cámara **el eclipse** — el sol diminuto y la estrella negra donde nos bebe: **mientras ese núcleo lata, nada de lo que hagáis durará. Calladlo, y las cadenas escucharán.** Yo soy el sol que mide vuestros días, y me han contado hasta el último. La Torre se ha vuelto visible. **Venid.**»
 >
 > La segunda es frío, y suena a vacío entre estrellas:
 >
