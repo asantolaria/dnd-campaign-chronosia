@@ -212,7 +212,7 @@
 |-----|-----------|-----------|-------------------|
 | 1 | **Crías de Dragón Rojo de Caldera** | 5 c/u | 1d2 **Crías de Dragón Rojo de Caldera** (CR 5, ver Bestiario Regional) patrullan los cráteres; pueden pasar por una boca planar y reaparecer en otra de la región. |
 | 2 | **Salamandra de Frontera** | 5 | 1d2 **Salamandras de Frontera** (CR 5, ver Bestiario): mercenarias del Plano del Fuego; su *Cuerpo Ardiente* daña a quien las golpee a melé. |
-| 3 | **Coloso de Magma Fracturado** | 7 | 1 **Coloso de Magma Fracturado** (CR 7, ver Bestiario), formado cuando el sustrato infernal de Avernus rezuma por una caldera. Vulnerable a frío (que lo ralentiza). |
+| 3 | **Coloso de Magma Fracturado** | 5 | 1d2 **Colosos de Magma Fracturado** (CR 5, ver Bestiario — elemental de tierra oficial con aspecto de lava), formados cuando el sustrato infernal de Avernus rezuma por una caldera. |
 | 4 | **Maestra Ferrucha, herrera** | — | La herrera enana de fuego planar (PNJ) ofrece templar un arma con fuego planar (1d6 fuego extra; +1d6 contra crías) si le traen mineral del corazón de un cráter activo. |
 | 5 | **El Hermano Cendal, ermitaño** | — | El tiefling renegado del culto (PNJ) ofrece la secuencia del *ritual de apagado* de una caldera mayor y advierte que sellar mal una puerta puede abrir el lado infernal. |
 | 6 | **Reliquia del otro plano** | — | Hallazgo: Korrin Brasaviva (PNJ) vende pociones de resistencia al fuego, capas de amianto (ventaja vs. *Calor Irradiado*) y reliquias sueltas —algunas malditas— a buen precio. |

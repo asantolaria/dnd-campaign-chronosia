@@ -24,7 +24,7 @@ El mayordomo no-muerto de Vorthak, atado por un pacto de servidumbre que la muer
 
 ## 😈 Villano menor bis — Gorath el Gigante Mordido *(trágico, manipulable)*
 
-- ***Gorath el Gigante Mordido*** — *Grande gigante (semivampírico), neutral* · **CR** 6 (2.300 XP) — statblock completo y su tragedia en el [Cap. 12](../../Capitulos_Regiones/12_La_Mansion_de_la_Sed_Eterna.md) (zona 6): el guardián de la puerta que puede sacarse de la mesa **socialmente** (o con la bodega). Vorthak lo mordió a medias para tenerlo dócil; Gorath sueña con el sol.
+- ***Gorath el Gigante Mordido*** — **base: gigante de las colinas (MM/SRD, CR 5) TAL CUAL**, menguado a *Grande* y vampirizado · **CR** 6 (2.300 XP) — statblock (base + añadidos) y su tragedia en el [Cap. 12](../../Capitulos_Regiones/12_La_Mansion_de_la_Sed_Eterna.md) (zona 6): el guardián de la puerta que puede sacarse de la mesa **socialmente** (o con la bodega). Vorthak lo mordió a medias para tenerlo dócil; Gorath sueña con el sol.
 
 ## 🐾 Bestias Firma
 

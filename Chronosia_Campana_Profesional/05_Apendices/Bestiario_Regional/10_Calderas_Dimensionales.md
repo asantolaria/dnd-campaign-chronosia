@@ -32,7 +32,7 @@ Drazhûl es un cultista del fuego ascendido a **capataz de las calderas**: dirig
 
 - ***Salamandra de Frontera*** — **base: salamandra (MM/SRD, CR 5) tal cual** — la ficha oficial ES esta criatura (CA 15 · PG 90 · lanza y cola constrictora, todo ardiente). Mercenarias del Plano del Fuego que cruzan por contrato con Drazhûl; algunas recuerdan Avernus.
 
-- ***Coloso de Magma Fracturado*** — *elemental enorme, sin alineamiento* · **CR** 7 (2900 XP). CA 16 · PG 168 (16d12+64) · Vel. 30 pies. Inmune a fuego y veneno; vulnerable a frío (el frío lo endurece y lo ralentiza 10 pies). *Erupción de Costra:* al recibir daño contundente, salpica magma (5 pies, CD 15 DES, **2d6 fuego**). **Multiataque:** dos puños, +9, **3d8+5 contundente + 2d6 fuego**. Se forma cuando el sustrato infernal compartido con Avernus rezuma por una caldera y cuaja en cuerpo.
+- ***Coloso de Magma Fracturado*** — **base: elemental de tierra (MM/SRD, CR 5) TAL CUAL** · **CR** 5 (1.800 XP) — el mismo statblock, otro aspecto: roca agrietada por venas de magma que late. La mitad del daño de sus puños es **fuego** (mismos dados — solo cambia el tipo, para resistencias). Se forma cuando el sustrato infernal compartido con Avernus rezuma por una caldera y cuaja en cuerpo.
 
 ---
 

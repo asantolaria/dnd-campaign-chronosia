@@ -158,17 +158,16 @@ El interior de la casa señorial: un comedor de mesa interminable puesta para un
 - ***Multiataque:*** dos *Garras Drenantes* (+8, 2d6+5 cortante + 3d6 necrótico; reduce el PG máximo del objetivo en lo necrótico hasta un descanso largo). ***Convocar la Niebla (1/día):*** invoca un *Velo Famélico* y gana ocultación total 1 turno. **Vulnerable** sutilmente a la luz solar.
 
 ### Gorath el Gigante Mordido — villano menor *(trágico, manipulable)*
-*Gigante grande (gigante de las colinas vampirizado), neutral (leal a Vorthak)* · **CR 6** (2.300 XP)
+**base: gigante de las colinas (MM/SRD, CR 5) TAL CUAL** (CA 13 · PG 105 · dos garrotazos +8, 3d8+4) — menguado a *Grande* por décadas de mordiscos · neutral (leal a Vorthak) · **CR 6** (2.300 XP) con los añadidos
 
 ![Gorath el Gigante Mordido](../assets/bestiario/villanos_menores/11_gorath-gigante-mordido.jpg)
 
 La **reserva de sangre personal** de Vorthak: un gigante torpe y de mente simple, cubierto de cicatrices de mordiscos — frescas y rojas unas, blancas y viejas otras. Colmillos desafilados de no usarse, ojos rojos pero apagados. No entiende del todo el mal que sirve; solo sabe que "el señor lo necesita" y que sin el señor está muy solo.
 
-**CA** 15 (natural) · **PG** 136 (13d10+65) · **Vel.** 40 pies · FUE +5, DES +1, CON +4, **INT −2**, SAB +0, CAR −1 · Resist. contundente/cortante/perforante no mágico · P. pasiva 10
-- ***Reserva Mayor:*** cuenta como secuaz con reserva temporal de **60 PG** para la *Transferencia de Daño* y la *Resurrección Temporal* de Vorthak. Si Gorath no está en el salón, Vorthak pierde su mejor red.
-- ***Regeneración vampírica:*** 10 PG al inicio de su turno si tiene ≥1 PG y no ha recibido daño radiante ese asalto.
-- ***Multiataque:*** dos *Garrotazos* (+8, 2d8+5 contundente). ***Abrazo del Guardián (reacción, 1/ronda):*** se interpone en un ataque dirigido a Vorthak y lo recibe entero.
-- ***Mente simple:*** desventaja en salvaciones de INT y contra engaño; **ventaja** contra encantamiento *solo* mientras protege a Vorthak en persona.
+- **Añade — *Reserva Mayor:*** cuenta como secuaz con reserva temporal de **60 PG** para la *Transferencia de Daño* y la *Resurrección Temporal* de Vorthak. Si Gorath no está en el salón, Vorthak pierde su mejor red.
+- **Añade — *Regeneración vampírica:*** 10 PG al inicio de su turno si tiene ≥1 PG y no ha recibido daño radiante ese asalto.
+- **Añade — *Abrazo del Guardián* (reacción, 1/ronda):** se interpone en un ataque dirigido a Vorthak y lo recibe entero.
+- **Añade — *Mente simple:*** desventaja en salvaciones de INT y contra engaño; **ventaja** contra encantamiento *solo* mientras protege a Vorthak en persona.
 
 **Cómo jugarlo (no empieces por el combate):**
 - **Encuentro suelto:** merodea por los Jardines Marchitos o el pueblo de la niebla buscando a su amo, o bebiendo. Se acerca a los desconocidos buscando conversación; con simpleza conmovedora, suelta sin darse cuenta rutinas de Vorthak, entradas de servicio y cuántos "hermanos de mordisco" hay en el salón.

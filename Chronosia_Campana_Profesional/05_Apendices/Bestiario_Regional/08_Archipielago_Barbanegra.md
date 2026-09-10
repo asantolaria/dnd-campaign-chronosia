@@ -24,7 +24,7 @@ Antiguo subordinado de Barbanegra, Móreve cayó en un vórtice y volvió cambia
 
 ## 🐾 Bestias Firma
 
-- ***Kraken Menor del Vórtice*** — *Enorme monstruosidad, sin alineamiento* · **CR** 6 (2.300 XP) · **CA** 14 · **PG** 105 (10d12+40) · cría de kraken arrastrada por un vórtice desde un mar abisal ajeno. Dos tentáculos +7, 2d8+4 contundente + agarra (CD 15); *Tirón al abismo*: arrastra a un agarrado por un vórtice cercano (reaparece confundido a 100 pies). Anida bajo los pecios.
+- ***Kraken Menor del Vórtice*** — *Enorme monstruosidad, sin alineamiento* · **CR** 6 (2.300 XP) · **CA** 14 · **PG** 105 (10d12+40) · cría del **kraken oficial (MM/SRD, CR 23)** arrastrada por un vórtice desde un mar abisal ajeno — usa su imaginería; si sobrevive y vuelve al abismo, dentro de un siglo será *eso*. Dos tentáculos +7, 2d8+4 contundente + agarra (CD 15); *Tirón al abismo*: arrastra a un agarrado por un vórtice cercano (reaparece confundido a 100 pies). Anida bajo los pecios.
 - ***Marinero Distorsionado*** — *Mediano no-muerto, neutral maligno* · **CR** 4 (1.100 XP) · **CA** 13 · **PG** 58 · náufrago atrapado en un bucle temporal; ataca, muere y reaparece al inicio de su próximo turno (3 veces antes de disolverse). Alfanje +6, 2d6+3 cortante. Repite eternamente su último motín.
 - ***Heraldo de la Sal Negra*** — **base: elemental de agua (MM/SRD, CR 5) tal cual** · **CR** 5 (1.800 XP) — ola viva de agua que no rompe nunca, nacida de la calma antinatural: su *Arrollar* oficial ES la *Quietud sofocante* (envuelve y ahoga en agua inmóvil; FUE CD 15 para liberarse).
 
