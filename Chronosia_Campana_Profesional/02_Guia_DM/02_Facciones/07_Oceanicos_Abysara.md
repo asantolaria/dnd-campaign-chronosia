@@ -97,7 +97,7 @@ Funcionó. Abysara se convirtió en un refugio seguro donde las distorsiones tem
 
 ### **Puntos de Interés:**
 - **Palacio Real:** Residencia de la Reina Nereia, construido alrededor del primer Cristal de Estabilización encontrado
-- **Templo del Vacío:** Donde se guardaba la Perla (ahora vacío y lugar de luto)
+- **Templo del Vacío:** el memorial del luto — aquí está el **altar vacío de las 47 lanzas** (la Perla nunca vivió en Abysara: se custodiaba en **Xal'azar**, el templo-arrecife exterior; a este templo se trajo el duelo, no la joya)
 - **Academia de Eruditos:** Biblioteca submarina con textos antiguos que documentan la historia de los Chronianos y la división
 - **Barracas de Guerreros:** Donde entrenan los defensores de Abysara
 - **Cámara del Cristal:** Lugar sagrado donde se guardan los Cristales de Estabilización y de Poder

@@ -145,7 +145,7 @@ La cima de la región: tres montañas coronadas por óvalos de llama —las boca
 
 ### Bestias firma
 - ***Cría de Dragón Rojo de Caldera*** — **base: cría de dragón rojo (MM/SRD)** con **PG 95** y aliento **8d6** (CD 14) · **CR 5**. Inmune a fuego. *Nacida en la Puerta:* cruza una boca planar como acción adicional, reapareciendo en otra de la región.
-- ***Salamandra de Frontera*** — **base: salamandra (MM/SRD, CR 5) tal cual** (CA 15 · PG 90 · lanza +7 2d6+4 perf. + 1d6 fuego; cola +7 2d8+4 cont. + 1d6 fuego, agarra CD 14; melé contra ella 1d6 fuego). Mercenarias del Plano del Fuego por contrato con Drazhûl.
+- ***Salamandra de Frontera*** — **base: salamandra (MM/SRD, CR 5) tal cual** (CA 15 · PG 90 · lanza +7 2d6+4 perf. + 1d6 fuego; cola +7 2d8+4 cont. + 1d6 fuego, agarra CD 14, 3d6 fuego dentro; melé contra ella 2d6 fuego). Mercenarias del Plano del Fuego por contrato con Drazhûl.
 - ***Coloso de Magma Fracturado*** — **base: elemental de tierra (MM/SRD, CR 5) TAL CUAL** (CA 17 · PG 126 · dos puños +8, 2d8+5) — reskin de lava: la mitad del daño de los puños es **fuego** (mismos dados).
 
 ---

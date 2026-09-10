@@ -48,7 +48,7 @@
 | Abismo | Cruzar un puente en tensión: Carisma **CD 13** o llegas *con un detalle cambiado* |
 | Llanuras | Atajar por pliegues: Supervivencia **CD 15** — éxito: mitad de tiempo; fallo: de vuelta al inicio |
 | Veldrisza | Pisar hilo vivo: **CD 15** o tragado 1d10×100 pies sima abajo (rescatable) |
-| Archipiélago | Remolinos: grupo de Atletismo/navegante **CD 14** o vuelco + 2d6 fuerza |
+| Archipiélago | Remolinos: grupo de Atletismo/navegante **CD 14** o el remolino escupe la barca en una isla al azar + 2d6 fuerza |
 | Mansión | **Estancia:** CON **CD 14 por hora** dentro o envejeces 1d4 meses (acumulativo) |
 | Calderas | Salirse del Camino: Supervivencia **CD 14** o doble de tiempo + encuentro · **agua doble** |
 

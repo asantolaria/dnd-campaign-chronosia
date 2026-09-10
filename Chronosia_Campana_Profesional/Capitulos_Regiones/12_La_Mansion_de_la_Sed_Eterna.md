@@ -158,7 +158,7 @@ El interior de la casa señorial: un comedor de mesa interminable puesta para un
 - ***Multiataque:*** dos *Garras Drenantes* (+8, 2d6+5 cortante + 3d6 necrótico; reduce el PG máximo del objetivo en lo necrótico hasta un descanso largo). ***Convocar la Niebla (1/día):*** invoca un *Velo Famélico* y gana ocultación total 1 turno. **Vulnerable** sutilmente a la luz solar.
 
 ### Gorath el Gigante Mordido — villano menor *(trágico, manipulable)*
-**base: gigante de las colinas (MM/SRD, CR 5) TAL CUAL** (CA 13 · PG 105 · dos garrotazos +8, 3d8+4) — menguado a *Grande* por décadas de mordiscos · neutral (leal a Vorthak) · **CR 6** (2.300 XP) con los añadidos
+**base: gigante de las colinas (MM/SRD, CR 5) TAL CUAL** (CA 13 · PG 105 · dos garrotazos +8, 3d8+5) — menguado a *Grande* por décadas de mordiscos · neutral (leal a Vorthak) · **CR 6** (2.300 XP) con los añadidos
 
 ![Gorath el Gigante Mordido](../assets/bestiario/villanos_menores/11_gorath-gigante-mordido.jpg)
 
@@ -178,7 +178,7 @@ La **reserva de sangre personal** de Vorthak: un gigante torpe y de mente simple
 ### Bestias firma
 - ***Velo Famélico (niebla viva)*** — *grande aberración (gaseosa), neutral maligno* · **CR 6** · CA 13 · PG 105. Cubo de 20 pies; quien empieza dentro: CD 15 CON o 4d8 necrótico y cegado hasta salir. ***Arrastre al Otro Lado (rec. 6):*** una criatura a 0 PG dentro no muere — desaparece en la niebla *(gancho: aparece en Barovia)*. Inmune a daño no mágico; resistente a fuego.
 - ***Ghoul Cronófago*** — **base: engendro vampírico (MM/SRD)** que devora años · **CR 5**. Mordisco: CON CD 14 o envejece 1d10 años + desventaja FUE/DES 1 min. Inmune a paralización.
-- ***Esclavo de Sangre*** — *mediano humanoide (hechizado), neutral* · **CR 3** · CA 12 · PG 49. *Daga* +5, 2d6+2 perf. ***Ofrenda Desesperada:*** se interpone en un ataque a Vorthak/Aurelius, recibiéndolo entero. Liberarlo del dominio es victoria moral y táctica.
+- ***Esclavo de Sangre*** — **base: matón (MM/SRD, apéndice A)** con **PG 49** · **CR 3**. Sirvientes drenados en tropel (sus *Tácticas de Manada* SON el tropel). ***Ofrenda Desesperada:*** se interpone en un ataque a Vorthak/Aurelius, recibiéndolo entero. Liberarlo del dominio es victoria moral y táctica.
 
 ---
 

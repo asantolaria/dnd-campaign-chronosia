@@ -63,7 +63,7 @@
 - **Anacronistas:** ceremonias diarias y vigilancia del Contador; en Fase 3, si los PJ aún no han contactado con Abysara, **Galen envía un emisario propio por mar… que no vuelve** (el caracol-llave del náufrago de Glacialis aparece en la playa: gancho y culpa).
 - **Oceánicos:** tras cada hito de Teach, una partida de caza sube a superficie; si en Fase 3 nadie los ha buscado, **Tholassa emerge ella misma** en el puerto de Cronópolis — la reconciliación llama dos veces, no infinitas.
 - **Bregan D'aerthe:** contrabando y espionaje (todo acaba en la red de Yrindra); tras la Traición, rematan a Serapis (Zin-Carla); en la Llamada, **venden su neutralidad al mejor postor** — subasta en mesa si los PJ pujan.
-- **Matrona Yrindra:** teje. Cada fase sabe más. Y si nadie ha negociado con ella antes de la Llamada, **vende la entrada de la Torre a Teach** — el Final B se financia solo.
+- **Matrona Yrindra:** teje. Cada fase sabe más. La entrada de la Torre se la vendió a Teach **hace años** (el recibo de su tesoro lo prueba — Cap. 10); lo que subasta ahora es el *momento*: si nadie ha negociado con ella antes de la Llamada, **avisa a Teach de cuándo y por dónde entran los PJ en la Torre** — el Final B se financia solo.
 
 ### 🎬 Tres viñetas de guerra (cómo se VEN los resultados 1-5 cuando los PJ los pisan)
 
